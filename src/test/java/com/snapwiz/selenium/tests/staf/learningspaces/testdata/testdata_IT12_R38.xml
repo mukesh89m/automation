@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.BookMarkVerify" index="3" method="bookMark">
+		<user_id>IT12_R38_student_R38_3</user_id>
+		<Role>student</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.BookMarkVerify" index="3_1" method="bookMark">
+		<user_id>IT12_R38_stuR38_3_1</user_id>
+		<Role>student</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.BookMarkVerify" index="23" method="bookMarkImageWidget">
+		<user_id>IT12_R38_studentR38_23</user_id>
+		<Role>student</Role>
+		<context_id>23_4studcontext</context_id>
+		<context_title>23_4studtitle</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.BookMarkVerify" index="23_1" method="bookMarkImageWidget">
+		<user_id>IT12_R38_student_R38_23_1</user_id>
+		<Role>student</Role>
+		<context_id>23_4studcontext</context_id>
+		<context_title>23_4studtitle</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.BookMarkVerify" index="56" method="bookmarkResource">
+		<user_id>IT12_R38_Studen_56_1</user_id>
+		<Role>student</Role>
+        <context_id>studcontextR38_56_1</context_id>
+        <context_title>studtitleR38_56_1</context_title>
+		<resourcesname>A_Resources56</resourcesname>
+        <resoursename>A_Resources56</resoursename>
+		<description>description text</description>
+		<filename>img.png</filename>
+	</testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.BookMarkVerify" index="56_1" method="bookmarkResource">
+        <user_id>IT12_R38_Ins_56_1_</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR38_56_1</context_id>
+        <context_title>studtitleR38_56_1</context_title>
+    </testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.BookMarkVerify" index="60" method="bookmarkResource">
+		<user_id>IT12_R38_studen60</user_id>
+		<Role>student</Role>
+        <context_id>studcontextR38_56_1</context_id>
+        <context_title>studtitleR38_56_1</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.BookMarkVerify" index="69" method="likeCommentOnResource">
+		<user_id>IT12_R38_stude69_1</user_id>
+		<Role>student</Role>
+		<resoursename>A69_Resource69</resoursename>
+		<type>image</type>
+		<description>description text</description>
+		<instructoronlyflag>false</instructoronlyflag>
+        <context_id>IT12_R38_studcontext69_1</context_id>
+        <context_title>IT12_R38_studtitle69_1</context_title>
+		<filename>img.png</filename>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.BookMarkVerify" index="69_1" method="likeCommentOnResource">
+		<user_id>IT12_R38_student_69_1_1</user_id>
+		<Role>student</Role>
+        <context_id>IT12_R38_studcontext69_1</context_id>
+        <context_title>IT12_R38_studtitle69_1</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.BookMarkVerify" index="74" method="likeCommentAndClickStarIconFromCourseStream">
+		<user_id>IT12_R38_st74</user_id>
+		<Role>student</Role>
+		<resoursename>Resource74</resoursename>
+		<resourcesname>Resource74</resourcesname>
+		<type>image</type>
+		<description>description text</description>
+		<instructoronlyflag>false</instructoronlyflag>
+		<filename>img.png</filename>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.BookMarkVerify" index="79" method="likeCommentAndClickStarIconFromEtextBook">
+		<user_id>IT12_R38_student79</user_id>
+		<Role>student</Role>
+		<resoursename>IT12_R38_Resource79</resoursename>
+		<type>image</type>
+		<description>description text</description>
+		<instructoronlyflag>false</instructoronlyflag>
+        <context_id>IT12_R38_79studcontext</context_id>
+        <context_title>IT12_R38_79studtitle</context_title>
+		<filename>img.png</filename>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.BookmarkingOfPostedDiscussion" index="87" method="bookmarkingOfPostedDiscussion">
+		<user_id>IT12_R38_studentsss87</user_id>
+		<Role>student</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.BookmarkingOfPostedDiscussion" index="100" method="postDicussionBookmarkInCourseStream">
+		<user_id>IT12_R38_st100</user_id>
+		<Role>student</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.BookmarkingOfPostedDiscussion" index="104" method="postDicussionAndBookmarkInMyJournal">
+		<user_id>IT12_R38_st104</user_id>
+		<Role>student</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.BookmarkingOfPostedDiscussion" index="111" method="discussionPostedByAnotherStudent">
+		<user_id>IT12_R38_studen111</user_id>
+		<Role>student</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.BookmarkingOfPostedDiscussion" index="111_1" method="discussionPostedByAnotherStudent">
+		<user_id>IT12_R38_studen111_1</user_id>
+		<Role>student</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.BookmarkingOfPostedDiscussionForInstructor" index="119" method="bookmarkingOfPostedDiscussionForInstructor">
+		<user_id>IT12_R38_stu119</user_id>
+		<Role>instructor</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.BookmarkingOfPostedDiscussionForInstructor" index="119_1" method="postDicussionAndBookmarkInCourseStreamByInstructor">
+		<user_id>IT12_R38_stu119_1</user_id>
+		<Role>instructor</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.BookmarkingOfPostedDiscussionForInstructor" index="119_2" method="discussionPostedByAnotherInstructor">
+		<user_id>IT12_R38_stu119_2</user_id>
+		<Role>instructor</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.BookmarkingOfPostedDiscussionForInstructor" index="119_3" method="discussionPostedByAnotherInstructor">
+		<user_id>IT12_R38_stu119_3</user_id>
+		<Role>instructor</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.BookmarkingOfPostedNotes" index="120" method="bookmarkingOfPostedNotes">
+		<user_id>student_IT12_R38_120</user_id>
+		<Role>student</Role>
+        <context_id>studcontext_IT12_R38_120</context_id>
+        <context_title>studtitle_IT12_R38_120</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.BookmarkingOfPostedNotes" index="129" method="postNoteAndUnbookmarkFromMyJournal">
+		<user_id>student_IT12_R38129_1</user_id>
+		<Role>student</Role>
+        <context_id>studcontextR38_129_1</context_id>
+        <context_title>studtitleR38_129_1</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.BookmarkingOfPostedNotesForInstructor" index="134" method="bookmarkingOfPostedNotesForInstructor">
+		<user_id>studentIT12_R38134</user_id>
+		<Role>student</Role>
+        <context_id>134studcontext</context_id>
+        <context_title>134studtitle</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.DiscussionWidget" index="135" method="discussionWidget">
+		<user_id>IT12_R38_studentss135</user_id>
+		<Role>student</Role>
+		<lessonName>135lesson</lessonName>
+		<numberoftabs>1</numberoftabs>
+		<context_id>135_1studcontext</context_id>
+		<context_title>135_1studtitle</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.DiscussionWidget" index="141" method="discussionWidgetForInstructor">
+		<user_id>IT12_R38_in141</user_id>
+		<Role>instructor</Role>
+		<context_id>141_2studcontext</context_id>
+		<context_title>141_2studtitle</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.BookmarkVerifyFromTOCSearch" index="142" method="bookmarkVerifyFromTOCSearchForResource">
+		<user_id>IT12_R38_stud142</user_id>
+		<Role>student</Role>
+		<resoursename>Resource142</resoursename>
+		<type>image</type>
+		<description>description text</description>
+		<instructoronlyflag>false</instructoronlyflag>
+		<filename>img.png</filename>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.BookmarkVerifyFromTOCSearch" index="142_1" method="bookmarkVerifyFromTOCSearchForLesson">
+		<user_id>IT12_R38_stu142_1</user_id>
+		<Role>student</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.BookMarkVerifyForInstructor" index="19" method="lessonBookMarkVerifyForInstructor">
+		<user_id>IT12_R38_ins19</user_id>
+		<Role>instructor</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.BookMarkVerifyForInstructor" index="51" method="bookMarkImageWidgetForInstructor">
+		<user_id>IT12_R38_i51</user_id>
+		<Role>instructor</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.BookMarkVerifyForInstructor" index="51_1" method="bookMarkImageWidgetAndLikeForInstructor">
+		<user_id>IT12_R38_i51_2</user_id>
+		<Role>instructor</Role>
+        <context_id>51_1_2studcontext</context_id>
+        <context_title>51_1_2studtitle</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.BookMarkVerifyForInstructor" index="84" method="bookmarkResourceForInstructor">
+		<user_id>IT12_R38_ins84_1</user_id>
+		<Role>instructor</Role>
+        <context_id>84_1_2studcontext_1</context_id>
+        <context_title>84_1_2studtitle_1</context_title>
+        <resourcesname>IT12_84Resource</resourcesname>
+		<resoursename>IT12_84Resource</resoursename>
+		<type>image</type>
+		<description>description text</description>
+		<instructoronlyflag>false</instructoronlyflag>
+		<filename>img.png</filename>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.BookMarkVerifyForInstructor" index="84_1" method="bookmarkResourceForInstructor">
+		<user_id>IT12_R38_instructor84_1</user_id>
+		<Role>instructor</Role>
+        <context_id>84_1_2studcontext</context_id>
+        <context_title>84_1_2studtitle</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.BookMarkVerifyForInstructor" index="84_2" method="likeCommentOnResource">
+		<user_id>IT12_R38_instructor84_2</user_id>
+		<Role>instructor</Role>
+		<context_id>84_2studcontext</context_id>
+		<context_title>84_2studtitle</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.BookMarkVerify" index="46" method="bookMarkImageWidgetAndLike">
+		<user_id>IT12_R38_stude46</user_id>
+		<Role>student</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.BookmarkingOfDifferentWidgets" index="52" method="bookmarkingOfDiscussionWidget">
+		<user_id>IT12_R38_stu52</user_id>
+		<Role>student</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.BookmarkingOfDifferentWidgets" index="52_1" method="bookMarkDiscussionWidgetAndLike">
+		<user_id>IT12_R38_stud52_1</user_id>
+		<Role>student</Role>
+		<context_id>52_1_2studcontext</context_id>
+		<context_title>52_1_2studtitle</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.BookmarkingOfDifferentWidgets" index="52_2" method="bookmarkingOfFlashWidget">
+		<user_id>IT12_R38_student52_2</user_id>
+		<Role>student</Role>
+		<context_id>52_2_1studcontext</context_id>
+		<context_title>52_2_1studtitle</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.BookmarkingOfDifferentWidgets" index="52_3" method="bookMarkFlashWidgetAndLike">
+		<user_id>IT12_R38_s52_3_2</user_id>
+		<Role>student</Role>
+		<context_id>52_3_2studcontext</context_id>
+		<context_title>52_3_2studtitle</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.BookmarkingOfDifferentWidgets" index="52_4" method="bookmarkingOfAudioWidget">
+		<user_id>IT12_R38_st52_4_2</user_id>
+		<Role>student</Role>
+		<context_id>52_4_2studcontext</context_id>
+		<context_title>52_4_2studtitle</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.BookmarkingOfDifferentWidgets" index="52_5" method="bookMarkAudioWidgetAndLike">
+		<user_id>IT12_R38_st52_5_2</user_id>
+		<Role>student</Role>
+		<context_id>52_5_2studcontext</context_id>
+		<context_title>52_5_2studtitle</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.BookmarkingOfDifferentWidgets" index="52_6" method="bookmarkingOfVideoWidget">
+		<user_id>IT12_R38_st52_6_2</user_id>
+		<Role>student</Role>
+		<context_id>52_6_2studcontext</context_id>
+		<context_title>52_6_2studtitle</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.BookmarkingOfDifferentWidgets" index="52_7" method="bookMarkVideoWidgetAndLike">
+		<user_id>IT12_R38_st52_7_2</user_id>
+		<Role>student</Role>
+		<context_id>52_7_2studcontext</context_id>
+		<context_title>52_7_2studtitle</context_title>
+	</testcase>
+</learningspaces>

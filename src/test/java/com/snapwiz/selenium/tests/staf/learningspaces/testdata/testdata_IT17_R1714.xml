@@ -1,0 +1,2621 @@
+<?xml version="1.0"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AuthorShouldBeAbleToSearchMPQ" index="106" method="authorShouldBeAbleToSearchMPQ">
+        <assessmentname>Multipart Question IT17_R1714_106_1</assessmentname>
+        <questionset>Multipart Question Set 106</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text 106_3</questiontext>
+        <questiontextstem2>Stem 2 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 106</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 106</hintTextForMPQ>
+        <needNotToBePubished>true</needNotToBePubished>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AuthorShouldBeAbleToViewMPQInSummaryPage" index="146" method="authorShouldBeAbleToViewMPQInSummaryPage">
+        <assessmentname>Multipart Question IT17_R1714_146</assessmentname>
+        <questionset>Multipart Question Set 146</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text 146</questiontext>
+        <questiontextstem2>Stem 2 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 146</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 146</hintTextForMPQ>
+        <needNotToBePubished>true</needNotToBePubished>
+        <learningobjective>true</learningobjective>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="179" method="authorShouldBeAbleToViewMPQInSummaryPage">
+        <assessmentname>Multipart Question IT17_R1714_179</assessmentname>
+        <questionset>Multipart Question Set 179</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text 179</questiontext>
+        <questiontextstem2>Stem 2 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 179</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 179</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <!--<needNotToBePubished>true</needNotToBePubished>-->
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+
+
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="180" method="VerifyUIForDropdownForQuestionStatus">
+        <assessmentname>Multipart Question IT17_R1714_180</assessmentname>
+        <questionset>Multipart Question Set 180</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text 180</questiontext>
+        <questiontextstem2>Stem 2 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 180</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 180</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="181" method="verifyRevisionsSidebar">
+        <assessmentname>AMultipart Question IT17_R1714_181</assessmentname>
+        <questionset>Multipart Question Set 181</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text 181</questiontext>
+        <questiontextstem2>Stem 2 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 181</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 181</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="183" method="verifyNotAbleTOCreateForUnpublishedMPQ">
+        <assessmentname>Multipart Question IT17_R1714_183</assessmentname>
+        <questionset>Multipart Question Set 183</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text 183</questiontext>
+        <questiontextstem2>Stem 2 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 183</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 183</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <needNotToBePubished>true</needNotToBePubished>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="184" method="verifyAuthorAbleToCreatePublishedMPQ">
+        <assessmentname>AMultipart Question IT17_R1714_184</assessmentname>
+        <questionset>Multipart Question Set 184</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text 184</questiontext>
+        <questiontextstem2>Stem 2 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 184</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 184</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="185" method="AbleToCreateNewVersionIfPublishedMPQisEdited">
+        <assessmentname>Multipart Question IT17_R1714_185</assessmentname>
+        <questionset>Multipart Question Set 185</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text 185</questiontext>
+        <questiontextstem2>Stem 2 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 185</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 185</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <!--<needNotToBePubished>true</needNotToBePubished>-->
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="190" method="VerifyDiffUIWhenOneCheckBoxIsSelected">
+        <assessmentname>BMultipart Question IT17_R1714_190</assessmentname>
+        <questionset>Multipart Question Set 190</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text 190</questiontext>
+        <questiontextstem2>Stem 2 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 190</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 190</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="191" method="VerifyDiffUIWheTwoCheckBoxIsSelected">
+        <assessmentname>AMultipart Question IT17_R1714_191</assessmentname>
+        <questionset>Multipart Question Set 190</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text 191</questiontext>
+        <questiontextstem2>Stem 2 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 191</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 191</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="192" method="VerifyDiffUIWheTwoCheckBoxIsSelected">
+        <assessmentname>NMultipart Question IT17_R1714_192</assessmentname>
+        <questionset>Multipart Question Set 190</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text 192</questiontext>
+        <questiontextstem2>Stem 2 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 192</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 192</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="1921" method="VerifyDiffUIWheTwoCheckBoxIsSelected">
+        <assessmentname>NMultipart Question IT17_R1714_192</assessmentname>
+        <questionset>Multipart Question Set 190</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text 1921</questiontext>
+        <questiontextstem2>Stem 2 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 1921</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 1921</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <status>Publish</status>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="1922" method="VerifyDiffUIWheTwoCheckBoxIsSelected">
+        <assessmentname>NMultipart Question IT17_R1714_192</assessmentname>
+        <questionset>Multipart Question Set 190</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text 1922</questiontext>
+        <questiontextstem2>Stem 2 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 1922</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 1922</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <status>Publish</status>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="193" method="VerifyDiffUIWhenThirdCheckBoxIsSelected">
+        <assessmentname>Multipart Question IT17_R1714_193</assessmentname>
+        <questionset>Multipart Question Set 193</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text 193</questiontext>
+        <questiontextstem2>Stem 2 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 193</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 193</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="194" method="verifyStatusOfPreviousPublishedVersion">
+        <assessmentname>EMultipart Question IT17_R1714_194</assessmentname>
+        <questionset>Multipart Question Set 194</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text 194</questiontext>
+        <questiontextstem2>Stem 2 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 194</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 194</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+    </testcase>
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="195" method="verifyNewVersionsThatAreNotPublished">
+        <assessmentname>PMultipart Question IT17_R1714_195</assessmentname>
+        <questionset>Multipart Question Set 194</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text 195</questiontext>
+        <questiontextstem2>Stem 2 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 195</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 195</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <gradeable>false</gradeable>
+        <user_id>instructor_IT17_R1714_195</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextId_IT17_R1714_195</context_id>
+        <context_title>studcontextTitle_IT17_R1714_195</context_title>
+        <givenname>Shishira</givenname>
+        <duedate>23</duedate>
+        <duetime>12:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studcontextTitle_IT17_R1714_195</shareWithInitialString>
+        <shareName>studcontextTitle_IT17_R1714_195</shareName>
+        <additionalnote>this is additional note</additionalnote>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="1951" method="checkVendorQABeAbleToViewUnpublishedContent">
+        <assessmentname>PMultipart Question IT17_R1714_195</assessmentname>
+        <questionset>Multipart Question Set 1951</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text 1951</questiontext>
+        <questiontextstem2>Stem 2 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 1951</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 1951</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <reservforassignment>false</reservforassignment>
+        <chapterNameToSearch>Biological Macromolecules</chapterNameToSearch>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="1952" method="checkVendorQABeAbleToViewUnpublishedContent">
+        <assessmentname>PMultipart Question IT17_R1714_195</assessmentname>
+        <questionset>Multipart Question Set 1952</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text 1952</questiontext>
+        <questiontextstem2>Stem 2 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 1952</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 1952</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <reservforassignment>false</reservforassignment>
+        <chapterNameToSearch>Biological Macromolecules</chapterNameToSearch>
+    </testcase>
+
+
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="195_1" method="verifyNewVersionsThatAreNotPublished">
+        <user_id>instructor_IT17_R1714_195_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextId_IT17_R1714_195</context_id>
+        <context_title>studcontextTitle_IT17_R1714_195</context_title>
+        <givenname>Dharaneesh Gowda</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="196" method="verifyNewVersionsThatAreNotPublished">
+        <assessmentname>CMultipart Question IT17_R1714_196</assessmentname>
+        <questionset>Multipart Question Set 194</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text 196</questiontext>
+        <questiontextstem2>Stem 2 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 196</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 196</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <gradeable>false</gradeable>
+        <user_id>Ainstructor_IT17_R1714_196</user_id>
+        <Role>instructor</Role>
+        <context_id>AstudcontextId_IT17_R1714_196</context_id>
+        <context_title>AstudcontextTitle_IT17_R1714_196</context_title>
+        <givenname>Shishira</givenname>
+        <duedate>23</duedate>
+        <duetime>12:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>AstudcontextTitle_IT17_R1714_196</shareWithInitialString>
+        <shareName>AstudcontextTitle_IT17_R1714_196</shareName>
+        <additionalnote>this is additional note</additionalnote>
+        <status>Publish</status>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="196_1" method="verifyNewVersionsThatAreNotPublished">
+        <user_id>Ainstructor_IT17_R1714_196_11111</user_id>
+        <Role>student</Role>
+        <context_id>AstudcontextId_IT17_R1714_196</context_id>
+        <context_title>AstudcontextTitle_IT17_R1714_196</context_title>
+        <givenname>Dharaneesh Gowda</givenname>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="204" method="checkVendorQABeAbleToViewUnpublishedContent">
+        <user_id>instructor_IT17_R1714_204</user_id>
+        <Role>student</Role>
+        <context_id>studcontextId_IT17_R1714_204</context_id>
+        <context_title>studcontextTitle_IT17_R1714_204</context_title>
+        <givenname>Bhat</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="2041" method="checkVendorQABeAbleToViewUnpublishedContent">
+        <assessmentname>Multipart Question IT17_R1714_204</assessmentname>
+        <questionset>Multipart Question Set 204</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text 2041</questiontext>
+        <questiontextstem2>Stem 2 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 204</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 204</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <status>qa</status>
+        <needNotToBePubished>true</needNotToBePubished>
+        <reservforassignment>false</reservforassignment>
+        <chapterNameToSearch>Biological Macromolecules</chapterNameToSearch>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="2042" method="checkVendorQABeAbleToViewUnpublishedContent">
+        <assessmentname>Multipart Question IT17_R1714_204</assessmentname>
+        <questionset>Multipart Question Set 204</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text 2042</questiontext>
+        <questiontextstem2>Stem 2 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 204</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 204</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <status>readyToPublish</status>
+        <needNotToBePubished>true</needNotToBePubished>
+        <reservforassignment>false</reservforassignment>
+        <chapterNameToSearch>Biological Macromolecules</chapterNameToSearch>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="2043" method="checkVendorQABeAbleToViewUnpublishedContent">
+        <assessmentname>Multipart Question IT17_R1714_204</assessmentname>
+        <questionset>Multipart Question Set 204</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text 2043</questiontext>
+        <questiontextstem2>Stem 2 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 204</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 204</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <status>Publish</status>
+        <reservforassignment>false</reservforassignment>
+        <chapterNameToSearch>Biological Macromolecules</chapterNameToSearch>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="209" method="checkVendorQABeAbleToViewUnpublishedContent">
+        <user_id>instructor_IT17_R1714_209</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextId_IT17_R1714_209</context_id>
+        <context_title>studcontextTitle_IT17_R1714_209</context_title>
+        <givenname>Bhat</givenname>
+        <assessmentname>AMultipart Question IT17_R1714_209</assessmentname>
+        <duedate>23</duedate>
+        <duetime>12:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studcontextTitle_IT17_R1714_209</shareWithInitialString>
+        <shareName>studcontextTitle_IT17_R1714_209</shareName>
+        <additionalnote>this is additional note</additionalnote>
+        <gradeable>false</gradeable>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="209_1" method="checkVendorQABeAbleToViewUnpublishedContent">
+        <user_id>Astudent_IT17_R1714_209_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextId_IT17_R1714_209</context_id>
+        <context_title>studcontextTitle_IT17_R1714_209</context_title>
+        <givenname>Dharaneesha</givenname>
+    </testcase>
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="2091" method="checkVendorQABeAbleToViewUnpublishedContent">
+        <assessmentname>AMultipart Question IT17_R1714_209</assessmentname>
+        <questionset>Multipart Question Set 209</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text 2091</questiontext>
+        <questiontextstem2>Stem 2 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 209</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 209</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <status>qa</status>
+        <needNotToBePubished>true</needNotToBePubished>
+        <chapterNameToSearch>Biological Macromolecules</chapterNameToSearch>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="2092" method="checkVendorQABeAbleToViewUnpublishedContent">
+        <assessmentname>AMultipart Question IT17_R1714_209</assessmentname>
+        <questionset>Multipart Question Set 209</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text 2092</questiontext>
+        <questiontextstem2>Stem 2 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 209</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 209</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <status>readyToPublish</status>
+        <needNotToBePubished>true</needNotToBePubished>
+        <chapterNameToSearch>Biological Macromolecules</chapterNameToSearch>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="2093" method="checkVendorQABeAbleToViewUnpublishedContent">
+        <assessmentname>AMultipart Question IT17_R1714_209</assessmentname>
+        <questionset>Multipart Question Set 209</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text 2093</questiontext>
+        <questiontextstem2>Stem 2 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 209</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 209</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <status>Publish</status>
+        <chapterNameToSearch>Biological Macromolecules</chapterNameToSearch>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="214" method="checkVendorQABeAbleToViewUnpublishedContent">
+        <user_id>Dinstructor_IT17_R1714_214</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextId_IT17_R1714_214</context_id>
+        <context_title>studcontextTitle_IT17_R1714_214</context_title>
+        <givenname>Bhat</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="2141" method="checkVendorQABeAbleToViewUnpublishedContent">
+        <assessmentname>Multipart Question IT17_R1714_214</assessmentname>
+        <questionset>Multipart Question Set 214</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text 2141</questiontext>
+        <questiontextstem2>Stem 2 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 214</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 214</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <status>qa</status>
+        <needNotToBePubished>true</needNotToBePubished>
+        <reservforassignment>false</reservforassignment>
+        <chapterNameToSearch>Biological Macromolecules</chapterNameToSearch>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="2142" method="checkVendorQABeAbleToViewUnpublishedContent">
+        <assessmentname>Multipart Question IT17_R1714_214</assessmentname>
+        <questionset>Multipart Question Set 214</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text 2142</questiontext>
+        <questiontextstem2>Stem 2 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 214</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 214</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <status>readyToPublish</status>
+        <needNotToBePubished>true</needNotToBePubished>
+        <reservforassignment>false</reservforassignment>
+        <chapterNameToSearch>Biological Macromolecules</chapterNameToSearch>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="2143" method="checkVendorQABeAbleToViewUnpublishedContent">
+        <assessmentname>Multipart Question IT17_R1714_214</assessmentname>
+        <questionset>Multipart Question Set 214</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text 2143</questiontext>
+        <questiontextstem2>Stem 2 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 214</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 214</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <status>Publish</status>
+        <reservforassignment>false</reservforassignment>
+        <chapterNameToSearch>Biological Macromolecules</chapterNameToSearch>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="217" method="checkVendorQABeAbleToViewUnpublishedContent">
+        <user_id>Ainstructor_IT17_R1714_217</user_id>
+        <Role>student</Role>
+        <context_id>studcontextId_IT17_R1714_217</context_id>
+        <context_title>studcontextTitle_IT17_R1714_217</context_title>
+        <givenname>Bhat</givenname>
+        <newChapterName>ChapterName217</newChapterName>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="2171" method="checkVendorQABeAbleToViewUnpublishedContent">
+        <assessmentname>Multipart Question IT17_R1714_217</assessmentname>
+        <questionset>Multipart Question Set 217</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text 2171</questiontext>
+        <questiontextstem2>Stem 2 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 217</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 217</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>ChapterName217</chapterName>
+        <status>qa</status>
+        <needNotToBePubished>true</needNotToBePubished>
+        <reservforassignment>false</reservforassignment>
+        <chapterNameToSearch>ChapterName217</chapterNameToSearch>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="2172" method="checkVendorQABeAbleToViewUnpublishedContent">
+        <assessmentname>Multipart Question IT17_R1714_217</assessmentname>
+        <questionset>Multipart Question Set 217</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text 2172</questiontext>
+        <questiontextstem2>Stem 2 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 217</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 217</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>ChapterName217</chapterName>
+        <status>readyToPublish</status>
+        <needNotToBePubished>true</needNotToBePubished>
+        <reservforassignment>false</reservforassignment>
+        <chapterNameToSearch>ChapterName217</chapterNameToSearch>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="2173" method="checkVendorQABeAbleToViewUnpublishedContent">
+        <assessmentname>Multipart Question IT17_R1714_217</assessmentname>
+        <questionset>Multipart Question Set 217</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text 2173</questiontext>
+        <questiontextstem2>Stem 2 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 217</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 217</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>ChapterName217</chapterName>
+        <status>Publish</status>
+        <reservforassignment>false</reservforassignment>
+        <chapterNameToSearch>ChapterName217</chapterNameToSearch>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="222" method="checkVendorQABeAbleToViewUnpublishedContent">
+        <user_id>instructor_IT17_R1714_222</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextId_IT17_R1714_222</context_id>
+        <context_title>studcontextTitle_IT17_R1714_222</context_title>
+        <givenname>Bhat</givenname>
+        <assessmentname>AMultipart Question IT17_R1714_222</assessmentname>
+        <duedate>23</duedate>
+        <duetime>12:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studcontextTitle_IT17_R1714_222</shareWithInitialString>
+        <shareName>studcontextTitle_IT17_R1714_222</shareName>
+        <additionalnote>this is additional note</additionalnote>
+        <gradeable>false</gradeable>
+        <newChapterName>ChapterName222</newChapterName>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="222_1" method="checkVendorQABeAbleToViewUnpublishedContent">
+        <user_id>Astudent_IT17_R1714_222_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextId_IT17_R1714_222</context_id>
+        <context_title>studcontextTitle_IT17_R1714_222</context_title>
+        <givenname>Dharaneesha</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="2221" method="checkVendorQABeAbleToViewUnpublishedContent">
+        <assessmentname>AMultipart Question IT17_R1714_222</assessmentname>
+        <questionset>Multipart Question Set 222</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text 2221</questiontext>
+        <questiontextstem2>Stem 2 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 222</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 222</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>ChapterName222</chapterName>
+        <status>qa</status>
+        <needNotToBePubished>true</needNotToBePubished>
+        <chapterNameToSearch>ChapterName222</chapterNameToSearch>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="2222" method="checkVendorQABeAbleToViewUnpublishedContent">
+        <assessmentname>AMultipart Question IT17_R1714_222</assessmentname>
+        <questionset>Multipart Question Set 222</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text 2222</questiontext>
+        <questiontextstem2>Stem 2 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 222</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 222</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>ChapterName222</chapterName>
+        <status>readyToPublish</status>
+        <needNotToBePubished>true</needNotToBePubished>
+        <chapterNameToSearch>ChapterName222</chapterNameToSearch>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="2223" method="checkVendorQABeAbleToViewUnpublishedContent">
+        <assessmentname>AMultipart Question IT17_R1714_222</assessmentname>
+        <questionset>Multipart Question Set 222</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text 2223</questiontext>
+        <questiontextstem2>Stem 2 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 222</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 222</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>ChapterName222</chapterName>
+        <status>Publish</status>
+        <chapterNameToSearch>ChapterName222</chapterNameToSearch>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="233_1" method="deactivateMultiPartQuestionInAssessment">
+        <user_id>instructor_IT17_R1714_233_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextId_IT17_R1714_233</context_id>
+        <context_title>studcontextTitle_IT17_R1714_233</context_title>
+        <givenname>Shishira</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="233_2" method="deactivateMultiPartQuestionInAssessment">
+        <user_id>student_IT17_R1714_233_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontextId_IT17_R1714_233</context_id>
+        <context_title>studcontextTitle_IT17_R1714_233</context_title>
+        <givenname>Dharaneesha</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="2331" method="deactivateMultiPartQuestionInAssessment">
+        <assessmentname>BMultipart Question IT17_R1714_233</assessmentname>
+        <questionset>Multipart Question Set 233</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text 2331</questiontext>
+        <questiontextstem2>Stem 2 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 233</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 233</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <chapterNameToSearch>Biological Macromolecules</chapterNameToSearch>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="2332" method="deactivateMultiPartQuestionInAssessment">
+        <assessmentname>BMultipart Question IT17_R1714_233</assessmentname>
+        <questionset>Multipart Question Set 233</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text 2332</questiontext>
+        <questiontextstem2>Stem 2 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 233</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 233</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="2333" method="deactivateMultiPartQuestionInAssessment">
+        <assessmentname>BMultipart Question IT17_R1714_233</assessmentname>
+        <questionset>Multipart Question Set 233</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text 2333</questiontext>
+        <questiontextstem2>Stem 2 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 233</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 233</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="235_1" method="deactivateMultiPartQuestionInAssessment">
+        <user_id>instructor_IT17_R1714_235_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextId_IT17_R1714_235</context_id>
+        <context_title>studcontextTitle_IT17_R1714_235</context_title>
+        <givenname>Shishira</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="235_2" method="deactivateMultiPartQuestionInAssessment">
+        <user_id>mstudent_IT17_R1714_235_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontextId_IT17_R1714_235</context_id>
+        <context_title>studcontextTitle_IT17_R1714_235</context_title>
+        <givenname>Dharaneesha</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="2351" method="deactivateMultiPartQuestionInAssessment">
+        <assessmentname>Multipart Question IT17_R1714_235</assessmentname>
+        <questionset>Multipart Question Set 235</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text 2351</questiontext>
+        <questiontextstem2>Stem 2 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 235</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 235</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <chapterNameToSearch>Biological Macromolecules</chapterNameToSearch>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="2352" method="deactivateMultiPartQuestionInAssessment">
+        <assessmentname>Multipart Question IT17_R1714_235</assessmentname>
+        <questionset>Multipart Question Set 235</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text 2352</questiontext>
+        <questiontextstem2>Stem 2 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 235</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 235</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="2353" method="deactivateMultiPartQuestionInAssessment">
+        <assessmentname>Multipart Question IT17_R1714_235</assessmentname>
+        <questionset>Multipart Question Set 235</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text 2353</questiontext>
+        <questiontextstem2>Stem 2 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 235</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 235</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <reservforassignment>false</reservforassignment>
+
+    </testcase>
+
+
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="236_1" method="deactivateMultiPartQuestionInAssessment">
+        <user_id>instructor_IT17_R1714_236_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextId_IT17_R1714_236</context_id>
+        <context_title>studcontextTitle_IT17_R1714_236</context_title>
+        <givenname>Shishira</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="236_2" method="deactivateMultiPartQuestionInAssessment">
+        <user_id>student_IT17_R1714_236_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontextId_IT17_R1714_236</context_id>
+        <context_title>studcontextTitle_IT17_R1714_236</context_title>
+        <givenname>Dharaneesha</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="2361" method="deactivateMultiPartQuestionInAssessment">
+        <assessmentname>BMultipart Question IT17_R1714_236</assessmentname>
+        <questionset>Multipart Question Set 236</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text 2361</questiontext>
+        <questiontextstem2>Stem 2 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 236</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 236</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <chapterNameToSearch>Biological Macromolecules</chapterNameToSearch>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="2362" method="deactivateMultiPartQuestionInAssessment">
+        <assessmentname>BMultipart Question IT17_R1714_236</assessmentname>
+        <questionset>Multipart Question Set 236</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text 2362</questiontext>
+        <questiontextstem2>Stem 2 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 236</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 236</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="2363" method="deactivateMultiPartQuestionInAssessment">
+        <assessmentname>BMultipart Question IT17_R1714_236</assessmentname>
+        <questionset>Multipart Question Set 236</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text 2363</questiontext>
+        <questiontextstem2>Stem 2 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 236</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 236</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+    </testcase>
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="238_1" method="deactivateMultiPartQuestionInAssessment">
+        <user_id>rinstructor_IT17_R1714_238_1</user_id>
+        <Role>instructor</Role>
+        <context_id>MsstudcontextId_IT17_R1714_238</context_id>
+        <context_title>MsstudcontextTitle_IT17_R1714_238</context_title>
+        <givenname>Shishira</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="238_2" method="deactivateMultiPartQuestionInAssessment">
+        <user_id>vvstudent_IT17_R1714_238_2</user_id>
+        <Role>student</Role>
+        <context_id>MsstudcontextId_IT17_R1714_238</context_id>
+        <context_title>MsstudcontextTitle_IT17_R1714_238</context_title>
+        <givenname>Dharaneesha</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="2381" method="deactivateMultiPartQuestionInAssessment">
+        <assessmentname>NNultipart Question IT17_R1714_238</assessmentname>
+        <questionset>Multipart Question Set 238</questionset>
+        <questiontext>AIT17_R1714_Multipart Question Text 2381</questiontext>
+        <questiontextstem2>Stem 2 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 238</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 238</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <chapterNameToSearch>Biological Macromolecules</chapterNameToSearch>
+        <gradeable>false</gradeable>
+        <duedate>23</duedate>
+        <duetime>12:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>MsstudcontextTitle_IT17_R1714_238</shareWithInitialString>
+        <shareName>MsstudcontextTitle_IT17_R1714_238</shareName>
+        <additionalnote>this is additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="2382" method="deactivateMultiPartQuestionInAssessment">
+        <assessmentname>NNultipart Question IT17_R1714_238</assessmentname>
+        <questionset>Multipart Question Set 238</questionset>
+        <questiontext>AIT17_R1714_Multipart Question Text 2382</questiontext>
+        <questiontextstem2>Stem 2 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 238</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 238</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker" index="2383" method="deactivateMultiPartQuestionInAssessment">
+        <assessmentname>NNultipart Question IT17_R1714_238</assessmentname>
+        <questionset>Multipart Question Set 238</questionset>
+        <questiontext>AIT17_R1714_Multipart Question Text 2383</questiontext>
+        <questiontextstem2>Stem 2 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 238</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 238</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+    </testcase>
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignment" index="2" method="instructorToBeAbleToAssignMPQAssignment">
+        <assessmentname>Multipart Question AssigningMPQAssignment_IT17_R1714_2</assessmentname>
+        <questionset>Multipart Question Set 2</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text AssigningMPQAssignment 2</questiontext>
+        <questiontextstem2>Stem 2 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 2</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 2</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <duedate>23</duedate>
+        <duetime>12:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studcontextTitle_IT17_R1714_2</shareWithInitialString>
+        <shareName>studcontextTitle_IT17_R1714_2</shareName>
+        <additionalnote>this is additional note</additionalnote>
+        <gradeable>true</gradeable>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignment" index="2_1" method="instructorToBeAbleToAssignMPQAssignment">
+        <user_id>instructor_IT17_R1714_2_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextId_IT17_R1714_2</context_id>
+        <context_title>studcontextTitle_IT17_R1714_2</context_title>
+        <givenname>Shishira</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignment" index="3" method="instructorToBeAbleToAssignMPQAssignment">
+        <assessmentname>Multipart Question AssigningMPQAssignment_IT17_R1714_2</assessmentname>
+        <questionset>Multipart Question Set 2</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text AssigningMPQAssignment 3</questiontext>
+        <questiontextstem2>Stem 2 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 2</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 2</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <overrideQuestionParts>true</overrideQuestionParts>
+        <duedate>23</duedate>
+        <duetime>12:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studcontextTitle_IT17_R1714_2</shareWithInitialString>
+        <shareName>studcontextTitle_IT17_R1714_2</shareName>
+        <additionalnote>this is additional note</additionalnote>
+        <gradeable>false</gradeable>
+    </testcase>
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignment" index="4" method="instructorToBeAbleToAssignMPQAssignment">
+        <assessmentname>CDMultipart Question AssigningMPQAssignment_IT17_R1714_4</assessmentname>
+        <questionset>Multipart Question Set 4</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text AssigningMPQAssignment 4</questiontext>
+        <questiontextstem2>Stem 4 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 4</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 4</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <duedate>23</duedate>
+        <duetime>14:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>sstudcontextTitle_IT17_R1714_4</shareWithInitialString>
+        <shareName>sstudcontextTitle_IT17_R1714_4</shareName>
+        <additionalnote>this is additional note</additionalnote>
+        <gradeable>true</gradeable>
+        <feedback>This is Feedback</feedback>
+        <marks>0.3</marks>
+
+
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignment" index="4_1" method="instructorToBeAbleToAssignMPQAssignment">
+        <user_id>Iinstructor_IT17_R1714_4_1</user_id>
+        <Role>instructor</Role>
+        <context_id>sstudcontextId_IT17_R1714_4</context_id>
+        <context_title>sstudcontextTitle_IT17_R1714_4</context_title>
+        <givenname>Shishira</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignment" index="4_2" method="instructorToBeAbleToAssignMPQAssignment">
+        <user_id>student_IT17_R1714_4_2</user_id>
+        <Role>student</Role>
+        <context_id>sstudcontextId_IT17_R1714_4</context_id>
+        <context_title>sstudcontextTitle_IT17_R1714_4</context_title>
+        <givenname>Shishira</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignment" index="5" method="instructorToBeAbleToAssignMPQAssignment">
+        <assessmentname>CDMultipart Question AssigningMPQAssignment_IT17_R1714_4</assessmentname>
+        <questionset>Multipart Question Set 4</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text AssigningMPQAssignment 5</questiontext>
+        <questiontextstem2>Stem 4 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 4</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 4</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <duedate>23</duedate>
+        <duetime>14:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>sstudcontextTitle_IT17_R1714_4</shareWithInitialString>
+        <shareName>sstudcontextTitle_IT17_R1714_4</shareName>
+        <additionalnote>this is additional note</additionalnote>
+    </testcase>
+
+
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignment" index="19" method="instructorToBeAbleToAssignMPQAssignment">
+        <assessmentname>B2Multipart Question AssigningMPQAssignment_IT17_R1714_19</assessmentname>
+        <questionset>Multipart Question Set 19</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text AssigningMPQAssignment 19</questiontext>
+        <questiontextstem2>Stem 19 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 19</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 19</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <duedate>23</duedate>
+        <duetime>14:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>sstudcontextTitle_IT17_R1714_19</shareWithInitialString>
+        <shareName>sstudcontextTitle_IT17_R1714_19</shareName>
+        <additionalnote>this is additional note</additionalnote>
+        <gradeable>false</gradeable>
+        <feedback>This is a feedback</feedback>
+        <marks>0.3</marks>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignment" index="19_1" method="instructorToBeAbleToAssignMPQAssignment">
+        <user_id>i5instructor_IT17_R1714_19_1</user_id>
+        <Role>instructor</Role>
+        <context_id>sstudcontextId_IT17_R1714_19</context_id>
+        <context_title>sstudcontextTitle_IT17_R1714_19</context_title>
+        <givenname>Shishira</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignment" index="19_2" method="instructorToBeAbleToAssignMPQAssignment">
+        <user_id>i6nstructor_IT17_R1714_19_2</user_id>
+        <Role>student</Role>
+        <context_id>sstudcontextId_IT17_R1714_19</context_id>
+        <context_title>sstudcontextTitle_IT17_R1714_19</context_title>
+        <givenname>Dharaneesh</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignment" index="20" method="instructorToBeAbleToAssignMPQAssignment">
+        <assessmentname>B2Multipart Question AssigningMPQAssignment_IT17_R1714_19</assessmentname>
+        <questionset>Multipart Question Set 20</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text AssigningMPQAssignment 20</questiontext>
+        <questiontextstem2>Stem 20 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 20</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 20</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <duedate>23</duedate>
+        <duetime>14:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>sstudcontextTitle_IT17_R1714_19</shareWithInitialString>
+        <shareName>sstudcontextTitle_IT17_R1714_19</shareName>
+        <additionalnote>this is additional note</additionalnote>
+    </testcase>
+
+
+
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignment" index="31" method="instructorToBeAbleToAssignMPQAssignment">
+        <assessmentname>BMultipart Question AssigningMPQAssignment_IT17_R1714_31</assessmentname>
+        <questionset>Multipart Question Set 31</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text AssigningMPQAssignment 31</questiontext>
+        <questiontextstem2>Stem 31 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 31</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 31</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <duedate>23</duedate>
+        <duetime>14:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studcontextTitle_IT17_R1714_31</shareWithInitialString>
+        <shareName>studcontextTitle_IT17_R1714_31</shareName>
+        <additionalnote>this is additional note</additionalnote>
+        <gradeable>false</gradeable>
+        <feedback>This is a feedback</feedback>
+        <marks>0.3</marks>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignment" index="31_1" method="instructorToBeAbleToAssignMPQAssignment">
+        <user_id>instructor_IT17_R1714_31_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextId_IT17_R1714_31</context_id>
+        <context_title>studcontextTitle_IT17_R1714_31</context_title>
+        <givenname>Shishira</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignment" index="31_2" method="instructorToBeAbleToAssignMPQAssignment">
+        <user_id>instructor_IT17_R1714_31_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontextId_IT17_R1714_31</context_id>
+        <context_title>studcontextTitle_IT17_R1714_31</context_title>
+        <givenname>Dharaneesh</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignment" index="32" method="instructorToBeAbleToAssignMPQAssignment">
+        <assessmentname>BMultipart Question AssigningMPQAssignment_IT17_R1714_31</assessmentname>
+        <questionset>Multipart Question Set 32</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text AssigningMPQAssignment 32</questiontext>
+        <questiontextstem2>Stem 32 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 32</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 32</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <duedate>23</duedate>
+        <duetime>14:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studcontextTitle_IT17_R1714_31</shareWithInitialString>
+        <shareName>studcontextTitle_IT17_R1714_31</shareName>
+        <additionalnote>this is additional note</additionalnote>
+    </testcase>
+
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignment" index="37" method="studentTobeAbleToViewReportForMPQQuestions">
+        <assessmentname>CMultipart Question AssigningMPQAssignment_IT17_R1714_37</assessmentname>
+        <questionset>Multipart Question Set 37</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text AssigningMPQAssignment 37</questiontext>
+        <questiontextstem2>Stem 37 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 37</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 37</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <duedate>23</duedate>
+        <duetime>14:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studcontextTitle_IT17_R1714_37</shareWithInitialString>
+        <shareName>studcontextTitle_IT17_R1714_37</shareName>
+        <additionalnote>this is additional note</additionalnote>
+        <gradeable>false</gradeable>
+        <feedback>This is a feedback</feedback>
+        <marks>0.3</marks>
+        <reservforassignment>false</reservforassignment>
+        <chapterNameToSearch>Biological Macromolecules</chapterNameToSearch>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignment" index="37_1" method="studentTobeAbleToViewReportForMPQQuestions">
+        <user_id>instructor_IT17_R1714_37_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextId_IT17_R1714_37</context_id>
+        <context_title>studcontextTitle_IT17_R1714_37</context_title>
+        <givenname>Shishira</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignment" index="37_2" method="studentTobeAbleToViewReportForMPQQuestions">
+        <user_id>Ainstructor_IT17_R1714_37_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontextId_IT17_R1714_37</context_id>
+        <context_title>studcontextTitle_IT17_R1714_37</context_title>
+        <givenname>Dharaneesh</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignment" index="38" method="studentTobeAbleToViewReportForMPQQuestions">
+        <assessmentname>CMultipart Question AssigningMPQAssignment_IT17_R1714_37</assessmentname>
+        <questionset>Multipart Question Set 38</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text AssigningMPQAssignment 38</questiontext>
+        <questiontextstem2>Stem 38 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 38</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 38</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <duedate>23</duedate>
+        <duetime>14:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studcontextTitle_IT17_R1714_37</shareWithInitialString>
+        <shareName>studcontextTitle_IT17_R1714_37</shareName>
+        <additionalnote>this is additional note</additionalnote>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignment" index="49" method="studentTobeAbleToViewReportForMPQQuestions">
+        <assessmentname>CMultipart Question AssigningMPQAssignment_IT17_R1714_49</assessmentname>
+        <questionset>Multipart Question Set 49</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text AssigningMPQAssignment 49</questiontext>
+        <questiontextstem2>Stem 49 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 49</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 49</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <duedate>23</duedate>
+        <duetime>14:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studcontextTitle_IT17_R1714_49</shareWithInitialString>
+        <shareName>studcontextTitle_IT17_R1714_49</shareName>
+        <additionalnote>this is additional note</additionalnote>
+        <gradeable>false</gradeable>
+        <feedback>This is a feedback</feedback>
+        <marks>0.3</marks>
+        <chapterNameToSearch>Biological Macromolecules</chapterNameToSearch>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignment" index="49_1" method="studentTobeAbleToViewReportForMPQQuestions">
+        <user_id>instructor_IT17_R1714_49_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextId_IT17_R1714_49</context_id>
+        <context_title>studcontextTitle_IT17_R1714_49</context_title>
+        <givenname>Shishira</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignment" index="49_2" method="studentTobeAbleToViewReportForMPQQuestions">
+        <user_id>Ainstructor_IT17_R1714_49_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontextId_IT17_R1714_49</context_id>
+        <context_title>studcontextTitle_IT17_R1714_49</context_title>
+        <givenname>Dharaneesh</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignment" index="50" method="studentTobeAbleToViewReportForMPQQuestions">
+        <assessmentname>CMultipart Question AssigningMPQAssignment_IT17_R1714_49</assessmentname>
+        <questionset>Multipart Question Set 50</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text AssigningMPQAssignment 50</questiontext>
+        <questiontextstem2>Stem 50 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 50</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 50</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <duedate>23</duedate>
+        <duetime>14:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studcontextTitle_IT17_R1714_49</shareWithInitialString>
+        <shareName>studcontextTitle_IT17_R1714_49</shareName>
+        <additionalnote>this is additional note</additionalnote>
+    </testcase>
+
+
+
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignment" index="73" method="studentTobeAbleToViewReportForMPQQuestions">
+        <assessmentname>CMultipart Question AssigningMPQAssignment_IT17_R1714_73</assessmentname>
+        <questionset>Multipart Question Set 73</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text AssigningMPQAssignment 73</questiontext>
+        <questiontextstem2>Stem 73 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 73</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 73</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <duedate>23</duedate>
+        <duetime>14:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studcontextTitle_IT17_R1714_73</shareWithInitialString>
+        <shareName>studcontextTitle_IT17_R1714_73</shareName>
+        <additionalnote>this is additional note</additionalnote>
+        <gradeable>false</gradeable>
+        <feedback>This is a feedback</feedback>
+        <marks>0.3</marks>
+        <reservforassignment>false</reservforassignment>
+        <chapterNameToSearch>Biological Macromolecules</chapterNameToSearch>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignment" index="73_1" method="studentTobeAbleToViewReportForMPQQuestions">
+        <user_id>instructor_IT17_R1714_73_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextId_IT17_R1714_73</context_id>
+        <context_title>studcontextTitle_IT17_R1714_73</context_title>
+        <givenname>Shishira</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignment" index="73_2" method="studentTobeAbleToViewReportForMPQQuestions">
+        <user_id>Ainstructor_IT17_R1714_73_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontextId_IT17_R1714_73</context_id>
+        <context_title>studcontextTitle_IT17_R1714_73</context_title>
+        <givenname>Dharaneesh</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignment" index="74" method="studentTobeAbleToViewReportForMPQQuestions">
+        <assessmentname>CMultipart Question AssigningMPQAssignment_IT17_R1714_73</assessmentname>
+        <questionset>Multipart Question Set 74</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text AssigningMPQAssignment 74</questiontext>
+        <questiontextstem2>Stem 74 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 74</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 74</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <duedate>23</duedate>
+        <duetime>14:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studcontextTitle_IT17_R1714_73</shareWithInitialString>
+        <shareName>studcontextTitle_IT17_R1714_73</shareName>
+        <additionalnote>this is additional note</additionalnote>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignment" index="75" method="studentTobeAbleToViewReportForMPQQuestions">
+        <assessmentname>CMultipart Question AssigningMPQAssignment_IT17_R1714_75</assessmentname>
+        <questionset>Multipart Question Set 75</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text AssigningMPQAssignment 75</questiontext>
+        <questiontextstem2>Stem 75 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 75</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 75</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <duedate>23</duedate>
+        <duetime>14:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studcontextTitle_IT17_R1714_73</shareWithInitialString>
+        <shareName>studcontextTitle_IT17_R1714_73</shareName>
+        <additionalnote>this is additional note</additionalnote>
+        <gradeable>false</gradeable>
+        <feedback>This is a feedback</feedback>
+        <marks>0.3</marks>
+        <chapterNameToSearch>Biological Macromolecules</chapterNameToSearch>
+    </testcase>
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignment" index="79" method="studentTobeAbleToViewReportForMPQQuestions">
+        <assessmentname>DMultipart Question AssigningMPQAssignment_IT17_R1714_79</assessmentname>
+        <questionset>Multipart Question Set 79</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text AssigningMPQAssignment 79</questiontext>
+        <questiontextstem2>Stem 79 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 79</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 79</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <duedate>23</duedate>
+        <duetime>14:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studcontextTitle_IT17_R1714_79</shareWithInitialString>
+        <shareName>studcontextTitle_IT17_R1714_79</shareName>
+        <additionalnote>this is additional note</additionalnote>
+        <gradeable>false</gradeable>
+        <feedback>This is a feedback</feedback>
+        <marks>0.3</marks>
+<!--
+        <reservforassignment>false</reservforassignment>
+-->
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignment" index="79_1" method="studentTobeAbleToViewReportForMPQQuestions">
+        <user_id>Ainstructor_IT17_R1714_79_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextId_IT17_R1714_79</context_id>
+        <context_title>studcontextTitle_IT17_R1714_79</context_title>
+        <givenname>Shishira</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignment" index="79_2" method="studentTobeAbleToViewReportForMPQQuestions">
+        <user_id>Ainstructor_IT17_R1714_79_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontextId_IT17_R1714_79</context_id>
+        <context_title>studcontextTitle_IT17_R1714_79</context_title>
+        <givenname>Dharaneesh</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignment" index="80" method="studentTobeAbleToViewReportForMPQQuestions">
+        <assessmentname>DMultipart Question AssigningMPQAssignment_IT17_R1714_79</assessmentname>
+        <questionset>Multipart Question Set 80</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text AssigningMPQAssignment 80</questiontext>
+        <questiontextstem2>Stem 80 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 80</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 80</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <duedate>23</duedate>
+        <duetime>14:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studcontextTitle_IT17_R1714_79</shareWithInitialString>
+        <shareName>studcontextTitle_IT17_R1714_79</shareName>
+        <additionalnote>this is additional note</additionalnote>
+    </testcase>
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignment" index="86" method="studentTobeAbleToViewReportForMPQQuestions">
+        <assessmentname>DMultipart Question AssigningMPQAssignment_IT17_R1714_86</assessmentname>
+        <questionset>Multipart Question Set 86</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text AssigningMPQAssignment 86</questiontext>
+        <questiontextstem2>Stem 86 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 86</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 86</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <duedate>23</duedate>
+        <duetime>14:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studcontextTitle_IT17_R1714_86</shareWithInitialString>
+        <shareName>studcontextTitle_IT17_R1714_86</shareName>
+        <additionalnote>this is additional note</additionalnote>
+        <gradeable>false</gradeable>
+        <feedback>This is a feedback</feedback>
+        <marks>0.3</marks>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignment" index="86_1" method="studentTobeAbleToViewReportForMPQQuestions">
+        <user_id>Ainstructor_IT17_R1714_86_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextId_IT17_R1714_86</context_id>
+        <context_title>studcontextTitle_IT17_R1714_86</context_title>
+        <givenname>Shishira</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignment" index="86_2" method="studentTobeAbleToViewReportForMPQQuestions">
+        <user_id>Ainstructor_IT17_R1714_86_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontextId_IT17_R1714_86</context_id>
+        <context_title>studcontextTitle_IT17_R1714_86</context_title>
+        <givenname>Dharaneesh</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignment" index="87" method="studentTobeAbleToViewReportForMPQQuestions">
+        <assessmentname>DMultipart Question AssigningMPQAssignment_IT17_R1714_86</assessmentname>
+        <questionset>Multipart Question Set 87</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text AssigningMPQAssignment 87</questiontext>
+        <questiontextstem2>Stem 87 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 87</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 87</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <duedate>23</duedate>
+        <duetime>14:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studcontextTitle_IT17_R1714_86</shareWithInitialString>
+        <shareName>studcontextTitle_IT17_R1714_86</shareName>
+        <additionalnote>this is additional note</additionalnote>
+    </testcase>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignmentAsMentor" index="2" method="mentorToBeAbleToAssignMPQAssignment">
+        <assessmentname>Multipart Question AssigningMPQAssignmentAsMentor_IT17_R1714_2</assessmentname>
+        <questionset>Multipart Question Set 2</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text AssigningMPQAssignmentAsMentor 2</questiontext>
+        <questiontextstem2>Stem 2 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 2</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 2</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <duedate>23</duedate>
+        <duetime>12:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studcontextTitle_IT17_R1714_2</shareWithInitialString>
+        <shareName>studcontextTitle_IT17_R1714_2</shareName>
+        <additionalnote>this is additional note</additionalnote>
+        <gradeable>true</gradeable>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignmentAsMentor" index="2_1" method="mentorToBeAbleToAssignMPQAssignment">
+        <user_id>mentor_IT17_R1714_2_1</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontextId_IT17_R1714_2</context_id>
+        <context_title>studcontextTitle_IT17_R1714_2</context_title>
+        <givenname>Shishira</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignmentAsMentor" index="3" method="mentorToBeAbleToAssignMPQAssignment">
+        <assessmentname>Multipart Question AssigningMPQAssignmentAsMentor_IT17_R1714_2</assessmentname>
+        <questionset>Multipart Question Set 2</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text AssigningMPQAssignmentAsMentor 3</questiontext>
+        <questiontextstem2>Stem 2 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 2</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 2</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <overrideQuestionParts>true</overrideQuestionParts>
+        <duedate>23</duedate>
+        <duetime>12:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studcontextTitle_IT17_R1714_2</shareWithInitialString>
+        <shareName>studcontextTitle_IT17_R1714_2</shareName>
+        <additionalnote>this is additional note</additionalnote>
+        <gradeable>false</gradeable>
+    </testcase>
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignmentAsMentor" index="4" method="mentorToBeAbleToAssignMPQAssignment">
+        <assessmentname>CDMultipart Question AssigningMPQAssignmentAsMentor_IT17_R1714_4</assessmentname>
+        <questionset>Multipart Question Set 4</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text AssigningMPQAssignmentAsMentor 4</questiontext>
+        <questiontextstem2>Stem 4 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 4</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 4</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <duedate>23</duedate>
+        <duetime>14:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studcontextTitle_IT17_R1714_4</shareWithInitialString>
+        <shareName>studcontextTitle_IT17_R1714_4</shareName>
+        <additionalnote>this is additional note</additionalnote>
+        <gradeable>true</gradeable>
+        <feedback>This is Feedback</feedback>
+        <marks>0.3</marks>
+
+
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignmentAsMentor" index="4_1" method="mentorToBeAbleToAssignMPQAssignment">
+        <user_id>mentor_IT17_R1714_4_1</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontextId_IT17_R1714_4</context_id>
+        <context_title>studcontextTitle_IT17_R1714_4</context_title>
+        <givenname>Shishira</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignmentAsMentor" index="4_2" method="mentorToBeAbleToAssignMPQAssignment">
+        <user_id>mentor_IT17_R1714_4_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontextId_IT17_R1714_4</context_id>
+        <context_title>studcontextTitle_IT17_R1714_4</context_title>
+        <givenname>Shishira</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignmentAsMentor" index="5" method="mentorToBeAbleToAssignMPQAssignment">
+        <assessmentname>CDMultipart Question AssigningMPQAssignmentAsMentor_IT17_R1714_4</assessmentname>
+        <questionset>Multipart Question Set 4</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text AssigningMPQAssignmentAsMentor 5</questiontext>
+        <questiontextstem2>Stem 4 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 4</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 4</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <duedate>23</duedate>
+        <duetime>14:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studcontextTitle_IT17_R1714_4</shareWithInitialString>
+        <shareName>studcontextTitle_IT17_R1714_4</shareName>
+        <additionalnote>this is additional note</additionalnote>
+    </testcase>
+
+
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignmentAsMentor" index="19" method="mentorToBeAbleToAssignMPQAssignment">
+        <assessmentname>BMultipart Question AssigningMPQAssignmentAsMentor_IT17_R1714_19</assessmentname>
+        <questionset>Multipart Question Set 19</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text AssigningMPQAssignmentAsMentor 19</questiontext>
+        <questiontextstem2>Stem 19 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 19</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 19</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <duedate>23</duedate>
+        <duetime>14:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studcontextTitle_IT17_R1714_19</shareWithInitialString>
+        <shareName>studcontextTitle_IT17_R1714_19</shareName>
+        <additionalnote>this is additional note</additionalnote>
+        <gradeable>false</gradeable>
+        <feedback>This is a feedback</feedback>
+        <marks>0.3</marks>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignmentAsMentor" index="19_1" method="mentorToBeAbleToAssignMPQAssignment">
+        <user_id>mentor_IT17_R1714_19_1</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontextId_IT17_R1714_19</context_id>
+        <context_title>studcontextTitle_IT17_R1714_19</context_title>
+        <givenname>Shishira</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignmentAsMentor" index="19_2" method="mentorToBeAbleToAssignMPQAssignment">
+        <user_id>mentor_IT17_R1714_19_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontextId_IT17_R1714_19</context_id>
+        <context_title>studcontextTitle_IT17_R1714_19</context_title>
+        <givenname>Dharaneesh</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignmentAsMentor" index="20" method="mentorToBeAbleToAssignMPQAssignment">
+        <assessmentname>BMultipart Question AssigningMPQAssignmentAsMentor_IT17_R1714_19</assessmentname>
+        <questionset>Multipart Question Set 20</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text AssigningMPQAssignmentAsMentor 20</questiontext>
+        <questiontextstem2>Stem 20 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 20</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 20</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <duedate>23</duedate>
+        <duetime>14:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studcontextTitle_IT17_R1714_19</shareWithInitialString>
+        <shareName>studcontextTitle_IT17_R1714_19</shareName>
+        <additionalnote>this is additional note</additionalnote>
+    </testcase>
+
+
+
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignmentAsMentor" index="31" method="mentorToBeAbleToAssignMPQAssignment">
+        <assessmentname>BMultipart Question AssigningMPQAssignmentAsMentor_IT17_R1714_31</assessmentname>
+        <questionset>Multipart Question Set 31</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text AssigningMPQAssignmentAsMentor 31</questiontext>
+        <questiontextstem2>Stem 31 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 31</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 31</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <duedate>23</duedate>
+        <duetime>14:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studcontextTitle_IT17_R1714_31</shareWithInitialString>
+        <shareName>studcontextTitle_IT17_R1714_31</shareName>
+        <additionalnote>this is additional note</additionalnote>
+        <gradeable>false</gradeable>
+        <feedback>This is a feedback</feedback>
+        <marks>0.3</marks>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignmentAsMentor" index="31_1" method="mentorToBeAbleToAssignMPQAssignment">
+        <user_id>mentor_IT17_R1714_31_1</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontextId_IT17_R1714_31</context_id>
+        <context_title>studcontextTitle_IT17_R1714_31</context_title>
+        <givenname>Shishira</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignmentAsMentor" index="31_2" method="mentorToBeAbleToAssignMPQAssignment">
+        <user_id>mentor_IT17_R1714_31_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontextId_IT17_R1714_31</context_id>
+        <context_title>studcontextTitle_IT17_R1714_31</context_title>
+        <givenname>Dharaneesh</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignmentAsMentor" index="32" method="mentorToBeAbleToAssignMPQAssignment">
+        <assessmentname>BMultipart Question AssigningMPQAssignmentAsMentor_IT17_R1714_31</assessmentname>
+        <questionset>Multipart Question Set 32</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text AssigningMPQAssignmentAsMentor 32</questiontext>
+        <questiontextstem2>Stem 32 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 32</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 32</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <duedate>23</duedate>
+        <duetime>14:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studcontextTitle_IT17_R1714_31</shareWithInitialString>
+        <shareName>studcontextTitle_IT17_R1714_31</shareName>
+        <additionalnote>this is additional note</additionalnote>
+    </testcase>
+
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignmentAsMentor" index="37" method="studentTobeAbleToViewReportForMPQQuestions">
+        <assessmentname>CMultipart Question AssigningMPQAssignmentAsMentor_IT17_R1714_37</assessmentname>
+        <questionset>Multipart Question Set 37</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text AssigningMPQAssignmentAsMentor 37</questiontext>
+        <questiontextstem2>Stem 37 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 37</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 37</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <duedate>23</duedate>
+        <duetime>14:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studcontextTitle_IT17_R1714_37</shareWithInitialString>
+        <shareName>studcontextTitle_IT17_R1714_37</shareName>
+        <additionalnote>this is additional note</additionalnote>
+        <gradeable>false</gradeable>
+        <feedback>This is a feedback</feedback>
+        <marks>0.3</marks>
+        <reservforassignment>false</reservforassignment>
+        <chapterNameToSearch>Biological Macromolecules</chapterNameToSearch>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignmentAsMentor" index="37_1" method="studentTobeAbleToViewReportForMPQQuestions">
+        <user_id>mentor_IT17_R1714_37_1</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontextId_IT17_R1714_37</context_id>
+        <context_title>studcontextTitle_IT17_R1714_37</context_title>
+        <givenname>Shishira</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignmentAsMentor" index="37_2" method="studentTobeAbleToViewReportForMPQQuestions">
+        <user_id>Amentor_IT17_R1714_37_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontextId_IT17_R1714_37</context_id>
+        <context_title>studcontextTitle_IT17_R1714_37</context_title>
+        <givenname>Dharaneesh</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignmentAsMentor" index="38" method="studentTobeAbleToViewReportForMPQQuestions">
+        <assessmentname>CMultipart Question AssigningMPQAssignmentAsMentor_IT17_R1714_37</assessmentname>
+        <questionset>Multipart Question Set 38</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text AssigningMPQAssignmentAsMentor 38</questiontext>
+        <questiontextstem2>Stem 38 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 38</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 38</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <duedate>23</duedate>
+        <duetime>14:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studcontextTitle_IT17_R1714_37</shareWithInitialString>
+        <shareName>studcontextTitle_IT17_R1714_37</shareName>
+        <additionalnote>this is additional note</additionalnote>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignmentAsMentor" index="49" method="studentTobeAbleToViewReportForMPQQuestions">
+        <assessmentname>CMultipart Question AssigningMPQAssignmentAsMentor_IT17_R1714_49</assessmentname>
+        <questionset>Multipart Question Set 49</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text AssigningMPQAssignmentAsMentor 49</questiontext>
+        <questiontextstem2>Stem 49 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 49</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 49</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <duedate>23</duedate>
+        <duetime>14:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studcontextTitle_IT17_R1714_49</shareWithInitialString>
+        <shareName>studcontextTitle_IT17_R1714_49</shareName>
+        <additionalnote>this is additional note</additionalnote>
+        <gradeable>false</gradeable>
+        <feedback>This is a feedback</feedback>
+        <marks>0.3</marks>
+        <chapterNameToSearch>Biological Macromolecules</chapterNameToSearch>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignmentAsMentor" index="49_1" method="studentTobeAbleToViewReportForMPQQuestions">
+        <user_id>mentor_IT17_R1714_49_1</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontextId_IT17_R1714_49</context_id>
+        <context_title>studcontextTitle_IT17_R1714_49</context_title>
+        <givenname>Shishira</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignmentAsMentor" index="49_2" method="studentTobeAbleToViewReportForMPQQuestions">
+        <user_id>Amentor_IT17_R1714_49_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontextId_IT17_R1714_49</context_id>
+        <context_title>studcontextTitle_IT17_R1714_49</context_title>
+        <givenname>Dharaneesh</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignmentAsMentor" index="50" method="studentTobeAbleToViewReportForMPQQuestions">
+        <assessmentname>CMultipart Question AssigningMPQAssignmentAsMentor_IT17_R1714_49</assessmentname>
+        <questionset>Multipart Question Set 50</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text AssigningMPQAssignmentAsMentor 50</questiontext>
+        <questiontextstem2>Stem 50 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 50</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 50</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <duedate>23</duedate>
+        <duetime>14:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studcontextTitle_IT17_R1714_49</shareWithInitialString>
+        <shareName>studcontextTitle_IT17_R1714_49</shareName>
+        <additionalnote>this is additional note</additionalnote>
+    </testcase>
+
+
+
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignmentAsMentor" index="73" method="studentTobeAbleToViewReportForMPQQuestions">
+        <assessmentname>CMultipart Question AssigningMPQAssignmentAsMentor_IT17_R1714_73</assessmentname>
+        <questionset>Multipart Question Set 73</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text AssigningMPQAssignmentAsMentor 73</questiontext>
+        <questiontextstem2>Stem 73 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 73</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 73</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <duedate>23</duedate>
+        <duetime>14:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studcontextTitle_IT17_R1714_73</shareWithInitialString>
+        <shareName>studcontextTitle_IT17_R1714_73</shareName>
+        <additionalnote>this is additional note</additionalnote>
+        <gradeable>false</gradeable>
+        <feedback>This is a feedback</feedback>
+        <marks>0.3</marks>
+        <reservforassignment>false</reservforassignment>
+        <chapterNameToSearch>Biological Macromolecules</chapterNameToSearch>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignmentAsMentor" index="73_1" method="studentTobeAbleToViewReportForMPQQuestions">
+        <user_id>mentor_IT17_R1714_73_1</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontextId_IT17_R1714_73</context_id>
+        <context_title>studcontextTitle_IT17_R1714_73</context_title>
+        <givenname>Shishira</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignmentAsMentor" index="73_2" method="studentTobeAbleToViewReportForMPQQuestions">
+        <user_id>Amentor_IT17_R1714_73_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontextId_IT17_R1714_73</context_id>
+        <context_title>studcontextTitle_IT17_R1714_73</context_title>
+        <givenname>Dharaneesh</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignmentAsMentor" index="74" method="studentTobeAbleToViewReportForMPQQuestions">
+        <assessmentname>CMultipart Question AssigningMPQAssignmentAsMentor_IT17_R1714_73</assessmentname>
+        <questionset>Multipart Question Set 74</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text AssigningMPQAssignmentAsMentor 74</questiontext>
+        <questiontextstem2>Stem 74 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 74</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 74</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <duedate>23</duedate>
+        <duetime>14:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studcontextTitle_IT17_R1714_73</shareWithInitialString>
+        <shareName>studcontextTitle_IT17_R1714_73</shareName>
+        <additionalnote>this is additional note</additionalnote>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignmentAsMentor" index="75" method="studentTobeAbleToViewReportForMPQQuestions">
+        <assessmentname>CMultipart Question AssigningMPQAssignmentAsMentor_IT17_R1714_75</assessmentname>
+        <questionset>Multipart Question Set 75</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text AssigningMPQAssignmentAsMentor 75</questiontext>
+        <questiontextstem2>Stem 75 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 75</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 75</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <duedate>23</duedate>
+        <duetime>14:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studcontextTitle_IT17_R1714_73</shareWithInitialString>
+        <shareName>studcontextTitle_IT17_R1714_73</shareName>
+        <additionalnote>this is additional note</additionalnote>
+        <gradeable>false</gradeable>
+        <feedback>This is a feedback</feedback>
+        <marks>0.3</marks>
+        <chapterNameToSearch>Biological Macromolecules</chapterNameToSearch>
+    </testcase>
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignmentAsMentor" index="79" method="studentTobeAbleToViewReportForMPQQuestions">
+        <assessmentname>DMultipart Question AssigningMPQAssignmentAsMentor_IT17_R1714_79</assessmentname>
+        <questionset>Multipart Question Set 79</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text AssigningMPQAssignmentAsMentor 79</questiontext>
+        <questiontextstem2>Stem 79 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 79</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 79</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <duedate>23</duedate>
+        <duetime>14:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studcontextTitle_IT17_R1714_79</shareWithInitialString>
+        <shareName>studcontextTitle_IT17_R1714_79</shareName>
+        <additionalnote>this is additional note</additionalnote>
+        <gradeable>false</gradeable>
+        <feedback>This is a feedback</feedback>
+        <marks>0.3</marks>
+        <!--
+                <reservforassignment>false</reservforassignment>
+        -->
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignmentAsMentor" index="79_1" method="studentTobeAbleToViewReportForMPQQuestions">
+        <user_id>Amentor_IT17_R1714_79_1</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontextId_IT17_R1714_79</context_id>
+        <context_title>studcontextTitle_IT17_R1714_79</context_title>
+        <givenname>Shishira</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignmentAsMentor" index="79_2" method="studentTobeAbleToViewReportForMPQQuestions">
+        <user_id>Amentor_IT17_R1714_79_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontextId_IT17_R1714_79</context_id>
+        <context_title>studcontextTitle_IT17_R1714_79</context_title>
+        <givenname>Dharaneesh</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignmentAsMentor" index="80" method="studentTobeAbleToViewReportForMPQQuestions">
+        <assessmentname>DMultipart Question AssigningMPQAssignmentAsMentor_IT17_R1714_79</assessmentname>
+        <questionset>Multipart Question Set 80</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text AssigningMPQAssignmentAsMentor 80</questiontext>
+        <questiontextstem2>Stem 80 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 80</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 80</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <duedate>23</duedate>
+        <duetime>14:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studcontextTitle_IT17_R1714_79</shareWithInitialString>
+        <shareName>studcontextTitle_IT17_R1714_79</shareName>
+        <additionalnote>this is additional note</additionalnote>
+    </testcase>
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignmentAsMentor" index="86" method="studentTobeAbleToViewReportForMPQQuestions">
+        <assessmentname>DMultipart Question AssigningMPQAssignmentAsMentor_IT17_R1714_86</assessmentname>
+        <questionset>Multipart Question Set 86</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text AssigningMPQAssignmentAsMentor 86</questiontext>
+        <questiontextstem2>Stem 86 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 86</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 86</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <duedate>23</duedate>
+        <duetime>14:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studcontextTitle_IT17_R1714_86</shareWithInitialString>
+        <shareName>studcontextTitle_IT17_R1714_86</shareName>
+        <additionalnote>this is additional note</additionalnote>
+        <gradeable>false</gradeable>
+        <feedback>This is a feedback</feedback>
+        <marks>0.3</marks>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignmentAsMentor" index="86_1" method="studentTobeAbleToViewReportForMPQQuestions">
+        <user_id>Amentor_IT17_R1714_86_1</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontextId_IT17_R1714_86</context_id>
+        <context_title>studcontextTitle_IT17_R1714_86</context_title>
+        <givenname>Shishira</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignmentAsMentor" index="86_2" method="studentTobeAbleToViewReportForMPQQuestions">
+        <user_id>Amentor_IT17_R1714_86_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontextId_IT17_R1714_86</context_id>
+        <context_title>studcontextTitle_IT17_R1714_86</context_title>
+        <givenname>Dharaneesh</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignmentAsMentor" index="87" method="studentTobeAbleToViewReportForMPQQuestions">
+        <assessmentname>DMultipart Question AssigningMPQAssignmentAsMentor_IT17_R1714_86</assessmentname>
+        <questionset>Multipart Question Set 87</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text AssigningMPQAssignmentAsMentor 87</questiontext>
+        <questiontextstem2>Stem 87 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 87</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 87</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <duedate>23</duedate>
+        <duetime>14:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studcontextTitle_IT17_R1714_86</shareWithInitialString>
+        <shareName>studcontextTitle_IT17_R1714_86</shareName>
+        <additionalnote>this is additional note</additionalnote>
+    </testcase>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AttemptingMPQAssessmentAsStudent" index="2" method="instructorToBeAbleToAssignMPQAssignment">
+        <assessmentname>AFMultipart Question AttemptingMPQAssessmentAsStudent_IT17_R1714_2</assessmentname>
+        <questionset>Multipart Question Set 2</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text AttemptingMPQAssessmentAsStudent 2</questiontext>
+        <questiontextstem2>Stem 2 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 2</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 2</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <reservforassignment>false</reservforassignment>
+        <chapterNameToSearch>Biological Macromolecules</chapterNameToSearch>
+        <overrideQuestionParts>true</overrideQuestionParts>
+        <useWriteBoard>Yes</useWriteBoard>
+        <solutionText>true</solutionText>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AttemptingMPQAssessmentAsStudent" index="2_1" method="instructorToBeAbleToAssignMPQAssignment">
+        <user_id>instructor_IT17_R1714_2_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextId_IT17_R1714_2</context_id>
+        <context_title>studcontextTitle_IT17_R1714_2</context_title>
+        <givenname>Shishira</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AttemptingMPQAssessmentAsStudent" index="2_2" method="instructorToBeAbleToAssignMPQAssignment">
+        <user_id>Coestudent_IT17_R1714_2_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontextId_IT17_R1714_2</context_id>
+        <context_title>studcontextTitle_IT17_R1714_2</context_title>
+        <givenname>Dharaneesha</givenname>
+    </testcase>
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AttemptingMPQAssessmentAsStudent" index="3" method="instructorToBeAbleToAssignMPQAssignment">
+        <assessmentname>AFMultipart Question AttemptingMPQAssessmentAsStudent_IT17_R1714_2</assessmentname>
+        <questionset>Multipart Question Set 2</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text AttemptingMPQAssessmentAsStudent 3</questiontext>
+        <questiontextstem2>Stem 2 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 2</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 2</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <useWriteBoard>Yes</useWriteBoard>
+        <solutionText>true</solutionText>
+    </testcase>
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AttemptingMPQAssessmentAsStudent" index="48" method="studentToBeAbleToViewIndependentMPQ">
+        <assessmentname>AMultipart Question AttemptingMPQAssessmentAsStudent_IT17_R1714_48</assessmentname>
+        <questionset>Multipart Question Set 2</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text AttemptingMPQAssessmentAsStudent 48</questiontext>
+        <questiontextstem2>Stem 2 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 2</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 2</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 4: Cell Structure</chapterName>
+        <reservforassignment>false</reservforassignment>
+        <chapterNameToSearch>Cell Structure</chapterNameToSearch>
+        <useWriteBoard>Yes</useWriteBoard>
+        <solutionText>true</solutionText>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AttemptingMPQAssessmentAsStudent" index="48_1" method="studentToBeAbleToViewIndependentMPQ">
+        <user_id>instructor_IT17_R1714_48_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextId_IT17_R1714_48</context_id>
+        <context_title>studcontextTitle_IT17_R1714_48</context_title>
+        <givenname>Shishira</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AttemptingMPQAssessmentAsStudent" index="48_2" method="studentToBeAbleToViewIndependentMPQ">
+        <user_id>nnstudent_IT17_R1714_48_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontextId_IT17_R1714_48</context_id>
+        <context_title>studcontextTitle_IT17_R1714_48</context_title>
+        <givenname>Dharaneesha</givenname>
+    </testcase>
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AttemptingMPQAssessmentAsStudent" index="49" method="studentToBeAbleToViewIndependentMPQ">
+        <assessmentname>AMultipart Question AttemptingMPQAssessmentAsStudent_IT17_R1714_48</assessmentname>
+        <questionset>Multipart Question Set 2</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text AttemptingMPQAssessmentAsStudent 49</questiontext>
+        <questiontextstem2>Stem 2 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 2</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 2</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 4: Cell Structure</chapterName>
+        <useWriteBoard>Yes</useWriteBoard>
+        <solutionText>true</solutionText>
+    </testcase>
+
+
+
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AttemptingMPQAssessmentAsStudent" index="99" method="studentToBeAbleToViewAndAttemptMPQAssignment">
+        <assessmentname>UMultipart Question AttemptingMPQAssessmentAsStudent_IT17_R1714_99</assessmentname>
+        <questionset>Multipart Question Set 99</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text AttemptingMPQAssessmentAsStudent 99</questiontext>
+        <questiontextstem2>Stem 99 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 99</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 99</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 4: Cell Structure</chapterName>
+        <chapterNameToSearch>Cell Structure</chapterNameToSearch>
+        <overrideQuestionParts>true</overrideQuestionParts>
+        <useWriteBoard>Yes</useWriteBoard>
+        <solutionText>true</solutionText>
+        <duedate>23</duedate>
+        <duetime>12:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studcontextTitle_IT17_R1714_99</shareWithInitialString>
+        <shareName>studcontextTitle_IT17_R1714_99</shareName>
+        <additionalnote>this is additional note</additionalnote>
+        <gradeable>true</gradeable>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AttemptingMPQAssessmentAsStudent" index="99_1" method="studentToBeAbleToViewAndAttemptMPQAssignment">
+        <user_id>Iinstructor_IT17_R1714_99_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextId_IT17_R1714_99</context_id>
+        <context_title>studcontextTitle_IT17_R1714_99</context_title>
+        <givenname>Shishira</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AttemptingMPQAssessmentAsStudent" index="99_2" method="studentToBeAbleToViewAndAttemptMPQAssignment">
+        <user_id>tystudent_IT17_R1714_99_99</user_id>
+        <Role>student</Role>
+        <context_id>studcontextId_IT17_R1714_99</context_id>
+        <context_title>studcontextTitle_IT17_R1714_99</context_title>
+        <givenname>Dharaneesha</givenname>
+    </testcase>
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AttemptingMPQAssessmentAsStudent" index="100" method="studentToBeAbleToViewAndAttemptMPQAssignment">
+        <assessmentname>UMultipart Question AttemptingMPQAssessmentAsStudent_IT17_R1714_99</assessmentname>
+        <questionset>Multipart Question Set 99</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text AttemptingMPQAssessmentAsStudent 100</questiontext>
+        <questiontextstem2>Stem 99 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 99</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 99</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 4: Cell Structure</chapterName>
+        <useWriteBoard>Yes</useWriteBoard>
+        <solutionText>true</solutionText>
+    </testcase>
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AttemptingMPQAssessmentAsStudent" index="130" method="studentToBeAbleToViewIndependentMPQ">
+        <assessmentname>Multipart Question AttemptingMPQAssessmentAsStudent_IT17_R1714_130</assessmentname>
+        <questionset>Multipart Question Set 2</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text AttemptingMPQAssessmentAsStudent 130</questiontext>
+        <questiontextstem2>Stem 2 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 2</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 2</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 4: Cell Structure</chapterName>
+        <chapterNameToSearch>Cell Structure</chapterNameToSearch>
+        <useWriteBoard>Yes</useWriteBoard>
+        <solutionText>true</solutionText>
+        <duedate>23</duedate>
+        <duetime>12:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studcontextTitle_IT17_R1714_130</shareWithInitialString>
+        <shareName>studcontextTitle_IT17_R1714_130</shareName>
+        <additionalnote>this is additional note</additionalnote>
+        <gradeable>true</gradeable>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AttemptingMPQAssessmentAsStudent" index="130_1" method="studentToBeAbleToViewIndependentMPQ">
+        <user_id>instructor_IT17_R1714_130_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextId_IT17_R1714_130</context_id>
+        <context_title>studcontextTitle_IT17_R1714_130</context_title>
+        <givenname>Shishira</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AttemptingMPQAssessmentAsStudent" index="130_2" method="studentToBeAbleToViewIndependentMPQ">
+        <user_id>jhsdughstudent_IT17_R1714_130_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontextId_IT17_R1714_130</context_id>
+        <context_title>studcontextTitle_IT17_R1714_130</context_title>
+        <givenname>Dharaneesha</givenname>
+    </testcase>
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AttemptingMPQAssessmentAsStudent" index="131" method="studentToBeAbleToViewIndependentMPQ">
+        <assessmentname>Multipart Question AttemptingMPQAssessmentAsStudent_IT17_R1714_130</assessmentname>
+        <questionset>Multipart Question Set 2</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text AttemptingMPQAssessmentAsStudent 131</questiontext>
+        <questiontextstem2>Stem 2 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 2</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 2</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 4: Cell Structure</chapterName>
+        <useWriteBoard>Yes</useWriteBoard>
+        <solutionText>true</solutionText>
+    </testcase>
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AttemptingMPQAssessmentAsStudent" index="167" method="studentToBeAbleToViewReportsForAssessments">
+        <assessmentname>AAAMultipart Question AttemptingMPQAssessmentAsStudent_IT17_R1714_167</assessmentname>
+        <questionset>Multipart Question Set 167</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text AttemptingMPQAssessmentAsStudent 167</questiontext>
+        <questiontextstem2>Stem 167 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 167</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 167</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 4: Cell Structure</chapterName>
+        <reservforassignment>false</reservforassignment>
+        <chapterNameToSearch>Cell Structure</chapterNameToSearch>
+        <overrideQuestionParts>true</overrideQuestionParts>
+        <useWriteBoard>Yes</useWriteBoard>
+        <solutionText>true</solutionText>
+        <openAssessmentFrom>eTextBook</openAssessmentFrom>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AttemptingMPQAssessmentAsStudent" index="167_1" method="studentToBeAbleToViewReportsForAssessments">
+        <user_id>instructor_IT17_R1714_167_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextId_IT17_R1714_167</context_id>
+        <context_title>studcontextTitle_IT17_R1714_167</context_title>
+        <givenname>Shishira</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AttemptingMPQAssessmentAsStudent" index="167_2" method="studentToBeAbleToViewReportsForAssessments">
+        <user_id>allllllsudent_IT17_R1714_167_167</user_id>
+        <Role>student</Role>
+        <context_id>studcontextId_IT17_R1714_167</context_id>
+        <context_title>studcontextTitle_IT17_R1714_167</context_title>
+        <givenname>Dharaneesha</givenname>
+    </testcase>
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AttemptingMPQAssessmentAsStudent" index="168" method="studentToBeAbleToViewReportsForAssessments">
+        <assessmentname>AAAMultipart Question AttemptingMPQAssessmentAsStudent_IT17_R1714_167</assessmentname>
+        <questionset>Multipart Question Set 167</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text AttemptingMPQAssessmentAsStudent 168</questiontext>
+        <questiontextstem2>Stem 167 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 167</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 167</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 4: Cell Structure</chapterName>
+        <useWriteBoard>Yes</useWriteBoard>
+        <solutionText>true</solutionText>
+    </testcase>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AttemptingMPQAssessmentAsStudent" index="196" method="instructorToBeAbleToAssignMPQAssignment">
+        <assessmentname>Multipart Question AssigningMPQAssignment_IT17_R1714_196</assessmentname>
+        <questionset>Multipart Question Set 196</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text AssigningMPQAssignment 196</questiontext>
+        <questiontextstem2>Stem 2 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 196</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 196</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 4: Cell Structure</chapterName>
+        <duedate>23</duedate>
+        <duetime>14:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studcontextTitle_IT17_R1714_196_1</shareWithInitialString>
+        <shareName>studcontextTitle_IT17_R1714_196_1</shareName>
+        <additionalnote>this is additional note</additionalnote>
+        <gradeable>true</gradeable>
+        <feedback>This is a feedback</feedback>
+        <marks>0.3</marks>
+        <studentname>Dharaneesh family</studentname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AttemptingMPQAssessmentAsStudent" index="196_1" method="instructorToBeAbleToAssignMPQAssignment">
+        <user_id>structor_IT17_R1714_196_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextId_IT17_R1714_196_1</context_id>
+        <context_title>studcontextTitle_IT17_R1714_196_1</context_title>
+        <givenname>Shishira</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AttemptingMPQAssessmentAsStudent" index="196_2" method="instructorToBeAbleToAssignMPQAssignment">
+        <user_id>Student_IT17_R1714_196_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontextId_IT17_R1714_196_1</context_id>
+        <context_title>studcontextTitle_IT17_R1714_196_1</context_title>
+        <givenname>Dharaneesh</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AttemptingMPQAssessmentAsStudent" index="197" method="instructorToBeAbleToAssignMPQAssignment">
+        <assessmentname>Multipart Question AssigningMPQAssignment_IT17_R1714_196</assessmentname>
+        <questionset>Multipart Question Set 197</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text AssigningMPQAssignment 197</questiontext>
+        <questiontextstem2>Stem 197 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 197</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 197</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 4: Cell Structure</chapterName>
+        <duedate>23</duedate>
+        <duetime>14:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studcontextTitle_IT17_R1714_196_1</shareWithInitialString>
+        <shareName>studcontextTitle_IT17_R1714_196_1</shareName>
+        <additionalnote>this is additional note</additionalnote>
+    </testcase>
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AttemptingMPQAssessmentAsStudent" index="229" method="studentToBeAbleToViewReportsForNonGradableAssignment">
+        <assessmentname>Multipart Question AssigningMPQAssignment_IT17_R1714_229</assessmentname>
+        <questionset>Multipart Question Set 229</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text AssigningMPQAssignment 229</questiontext>
+        <questiontextstem2>Stem 2 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 229</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 229</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 4: Cell Structure</chapterName>
+        <duedate>23</duedate>
+        <duetime>14:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studcontextTitle_IT17_R1714_229_1</shareWithInitialString>
+        <shareName>studcontextTitle_IT17_R1714_229_1</shareName>
+        <additionalnote>this is additional note</additionalnote>
+        <gradeable>false</gradeable>
+        <feedback>This is a feedback</feedback>
+        <studentname>Dharaneesh family</studentname>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AttemptingMPQAssessmentAsStudent" index="229_1" method="studentToBeAbleToViewReportsForNonGradableAssignment">
+        <user_id>structor_IT17_R1714_229_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextId_IT17_R1714_229_1</context_id>
+        <context_title>studcontextTitle_IT17_R1714_229_1</context_title>
+        <givenname>Shishira</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AttemptingMPQAssessmentAsStudent" index="229_2" method="studentToBeAbleToViewReportsForNonGradableAssignment">
+        <user_id>Student_IT17_R1714_229_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontextId_IT17_R1714_229_1</context_id>
+        <context_title>studcontextTitle_IT17_R1714_229_1</context_title>
+        <givenname>Dharaneesh</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AttemptingMPQAssessmentAsStudent" index="230" method="studentToBeAbleToViewReportsForNonGradableAssignment">
+        <assessmentname>Multipart Question AssigningMPQAssignment_IT17_R1714_229</assessmentname>
+        <questionset>Multipart Question Set 230</questionset>
+        <questiontext>IT17_R1714_Multipart Question Text AssigningMPQAssignment 230</questiontext>
+        <questiontextstem2>Stem 230 Question</questiontextstem2>
+        <solutionTextForMPQ>Solution For MPQ 230</solutionTextForMPQ>
+        <hintTextForMPQ>Hint For MPQ 230</hintTextForMPQ>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <chapterName>Ch 4: Cell Structure</chapterName>
+        <duedate>23</duedate>
+        <duetime>14:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studcontextTitle_IT17_R1714_229_1</shareWithInitialString>
+        <shareName>studcontextTitle_IT17_R1714_229_1</shareName>
+        <additionalnote>this is additional note</additionalnote>
+    </testcase>
+
+
+
+
+
+</learningspaces>

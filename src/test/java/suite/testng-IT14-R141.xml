@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="IT_14_R14.1-LSRegressionSuite">
+    <classes>         	
+    	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.AbilityToViewAndCommentOnStudentPerspective"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.AccessingDWAssignment"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.AssignDWAsAssignment"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.EnableDisableDiscussionWidget"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.FillInScoreGreaterThanOne"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.ImpactOfGradableDWAssignmentOverEngagementReport"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.ImpactOfNonGradableDWAssignmentOverEngagementReport"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.InstructorAddQuestionToDiscussionWidget"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.InstructorShouldBeAbleToGradeDW"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.InstructorShouldBeAbleToProvideFeedbackToNonGradableDW"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.InstructorShouldBeAbleToViewDetailsOfDWAssignment"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.RightSideDetailsForDWAssignment"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.RightSideDetailsForNonGradableDWAssignment"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.StatusOfDWAssignment"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.StatusOfDWAssignmentInStudentSide"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.StudentsAddPerspectiveToDW"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.StudentShouldBeAbleToViewDetailsOfDWAssignment"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.TableListingRowsForEachStudentinGradingPage"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.TableListingRowsStudentInGradingPageForNonGradableDW"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.UIofDWAssigningPopUp"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.VerifyGradingPolicyDropdown"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.VerifyingDWOverLessonWhileAssignmentStatusChanges"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.VerifyingDWWhileAssignmentStatusChangesInStudentSide"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.VerifyRightSideTileInAssignmentResponsePage"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.VerifySocialElementsOfDWAssignment"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.VerifySocialElementsOfNonGradableDWAssignment"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.VisibilityOfNewlyAddedQuestion"/>
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->

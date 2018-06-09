@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R236.BrowseFunctionalityOfQuestionBank" index="12" method="">
+        <user_id>instructor_IT22_R229_10</user_id>
+        <Role>instructor</Role>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R236.BrowseFunctionalityOfQuestionBank" index="26" method="">
+        <user_id>mentor_IT22_R229_26</user_id>
+        <Role>mentor</Role>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R236.BrowseFunctionalityOfQuestionBank" index="79" method="">
+        <user_id>mentor_IT22_R229_79</user_id>
+        <Role>mentor</Role>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R236.BrowseFunctionalityOfQuestionBank" index="80" method="">
+        <user_id>instructor_IT22_R229_80</user_id>
+        <Role>instructor</Role>
+
+    </testcase>
+
+    <!--LS Course-->
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R236.BrowseFunctionalityOfQuestionBankLS" index="12" method="">
+        <user_id>instructor_IT22_R229_11</user_id>
+        <Role>instructor</Role>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R236.BrowseFunctionalityOfQuestionBankLS" index="26" method="">
+        <user_id>mentor_IT22_R229_27</user_id>
+        <Role>mentor</Role>
+        <course_type>ls</course_type>
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R236.BrowseFunctionalityOfQuestionBankLS" index="79" method="">
+        <user_id>mentor_IT22_R229_81</user_id>
+        <Role>mentor</Role>
+        <course_type>ls</course_type>
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R236.BrowseFunctionalityOfQuestionBankLS" index="80" method="">
+        <user_id>instructor_IT22_R229_82</user_id>
+        <Role>instructor</Role>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <!--SearchFunctionalityOfQuestionBank-->
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R236.SearchFunctionalityOfQuestionBank" index="86" method="">
+        <user_id>instructor_IT22_R229_86</user_id>
+        <Role>instructor</Role>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R236.SearchFunctionalityOfQuestionBank" index="96" method="">
+        <user_id>mentor_IT22_R229_96</user_id>
+        <Role>mentor</Role>
+    </testcase>
+
+    <!--LSCourse-->
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R236.SearchFunctionalityOfQuestionBankLS" index="86" method="">
+        <user_id>instructor_IT22_R229_87</user_id>
+        <Role>instructor</Role>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R236.SearchFunctionalityOfQuestionBankLS" index="96" method="">
+        <user_id>mentor_IT22_R229_97</user_id>
+        <Role>mentor</Role>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <!--ViewOptimizedQuestionFilterInSearch-->
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R236.ViewOptimizedQuestionFilterInSearch" index="160" method="viewOptimizedQuestionFilterInSearch">
+        <user_id>instructor_IT23_R236_160</user_id>
+        <Role>instructor</Role>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R236.ViewOptimizedQuestionFilterInSearch" index="203" method="viewOptimizedQuestionFilterInSearch">
+        <user_id>instructor_IT23_R236_203</user_id>
+        <Role>instructor</Role>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R236.ViewOptimizedQuestionFilterInSearch" index="227" method="">
+        <user_id>mentor_IT23_R236_227</user_id>
+        <Role>mentor</Role>
+    </testcase>
+
+    <!--LS Course-->
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R236.ViewOptimizedQuestionFilterInSearchLS" index="160" method="viewOptimizedQuestionFilterInSearch">
+        <user_id>instructor_IT23_R236_161</user_id>
+        <Role>instructor</Role>
+        <course_type>ls</course_type>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R236.ViewOptimizedQuestionFilterInSearchLS" index="203" method="viewOptimizedQuestionFilterInSearch">
+        <user_id>instructor_IT23_R236_204</user_id>
+        <Role>instructor</Role>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R236.ViewOptimizedQuestionFilterInSearchLS" index="227" method="">
+        <user_id>mentor_IT23_R236_228</user_id>
+        <Role>mentor</Role>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <!--CreateCustomAssignmentFromDifferentPlaces-->
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R236.CreateCustomAssignmentFromDifferentPlaces" index="456" method="">
+        <user_id>instructor_IT23_R236_456</user_id>
+        <Role>instructor</Role>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R236.CreateCustomAssignmentFromDifferentPlaces" index="468" method="">
+        <user_id>instructor_IT23_R236_468</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R236_468</context_id>
+        <context_title>studtitle_IT23_R236_468</context_title>
+        <assessmentname>IT23_R236_Assessment_468</assessmentname>
+        <questionset>Quest_on_Set_IT23_R236_468</questionset>
+        <questiontext>Test Question_IT23_R236_468</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <searchquestion>true</searchquestion>
+        <noOfQuestions>1</noOfQuestions>
+        <customassignmentname>customAssigment_IT23_R236_468</customassignmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R236.CreateCustomAssignmentFromDifferentPlaces" index="472" method="">
+        <user_id>instructor_IT23_R236_472</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R236_472</context_id>
+        <context_title>studtitle_IT23_R236_472</context_title>
+        <shareWithInitialString>studtitle_IT23_R236_472</shareWithInitialString>
+        <shareName>studtitle_IT23_R236_472</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assessmentname>IT23_R236_Assessment_472</assessmentname>
+        <questionset>Quest_on_Set_IT23_R236_472</questionset>
+        <questiontext>Test Question_IT23_R236_472</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <searchquestion>true</searchquestion>
+        <noOfQuestions>3</noOfQuestions>
+        <customassignmentname>customAssigment_IT23_R236_472</customassignmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R236.CreateCustomAssignmentFromDifferentPlaces" index="478" method="">
+        <user_id>instructor_IT23_R236_478</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R236_478</context_id>
+        <context_title>studtitle_IT23_R236_478</context_title>
+        <shareWithInitialString>studtitle_IT23_R236_478</shareWithInitialString>
+        <shareName>studtitle_IT23_R236_478</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assessmentname>IT23_R236_Assessment_478</assessmentname>
+        <questionset>Quest_on_Set_IT23_R236_478</questionset>
+        <questiontext>Test Question_IT23_R236_478</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <searchquestion>true</searchquestion>
+        <noOfQuestions>3</noOfQuestions>
+        <customassignmentname>customAssigment_IT23_R236_478</customassignmentname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R236.CreateCustomAssignmentFromDifferentPlaces" index="479" method="">
+        <user_id>instructor_IT23_R236_479</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R236_478</context_id>
+        <context_title>studtitle_IT23_R236_478</context_title>
+        <shareName>givenname family</shareName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R236.CreateCustomAssignmentFromDifferentPlaces" index="488" method="">
+        <user_id>instructor_IT23_R236_488</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R236_488</context_id>
+        <context_title>studtitle_IT23_R236_488</context_title>
+        <assessmentname>Assignment_IT23_236_488</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Quest_on_Set_IT23_R236_488</questionset>
+        <questiontext>Test Question_IT23_R236_488</questiontext>
+        <solutionText>false</solutionText>
+        <reservforassignment>false</reservforassignment>
+        <test_type>SS</test_type>
+        <diaassessmentname>Assignment_IT23_236_488</diaassessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R236.CreateCustomAssignmentFromDifferentPlaces" index="490" method="">
+        <user_id>instructor_IT23_R236_490</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R236_490</context_id>
+        <context_title>studtitle_IT23_R236_490</context_title>
+        <assessmentname>Assignment_IT23_236_490</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Quest_on_Set_IT23_R236_490</questionset>
+        <questiontext>Test Question_IT23_R236_490</questiontext>
+        <reservforassignment>false</reservforassignment>
+        <test_type>SS</test_type>
+        <questiontype>Static Practice</questiontype>
+        <diaassessmentname>Assignment_IT23_236_490</diaassessmentname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R236.CreateCustomAssignmentFromDifferentPlaces" index="492" method="">
+        <user_id>instructor_IT23_R236_492</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R236_492</context_id>
+        <context_title>studtitle_IT23_R236_492</context_title>
+        <assessmentname>Assignment_IT23_236_492</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Quest_on_Set_IT23_R236_492</questionset>
+        <questiontext>Test Question_IT23_R236_492</questiontext>
+        <reservforassignment>false</reservforassignment>
+        <test_type>SS</test_type>
+        <questiontype>Static Practice</questiontype>
+        <diaassessmentname>Assignment_IT23_236_492</diaassessmentname>
+        <algorithmic>true</algorithmic>
+    </testcase>
+
+    <!--LS Course CreateCustomAssignmentFromDifferentPlaces-->
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R236.CreateCustomAssignmentFromDifferentPlacesLS" index="456" method="">
+        <user_id>instructor_IT23_R236_457</user_id>
+        <Role>instructor</Role>
+        <course_type>ls</course_type>
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R236.CreateCustomAssignmentFromDifferentPlacesLS" index="468" method="">
+        <user_id>instructor_IT23_R236_469</user_id>
+        <Role>instructor</Role>
+        <course_type>ls</course_type>
+        <context_id>studcontext_IT23_R236_469</context_id>
+        <context_title>studtitle_IT23_R236_469</context_title>
+        <assessmentname>IT23_R236_Assessment_469</assessmentname>
+        <questionset>Quest_on_Set_IT23_R236_469</questionset>
+        <questiontext>Test Question_IT23_R236_469</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <searchquestion>true</searchquestion>
+        <noOfQuestions>1</noOfQuestions>
+        <customassignmentname>customAssigment_IT23_R236_469</customassignmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R236.CreateCustomAssignmentFromDifferentPlacesLS" index="472" method="">
+        <user_id>instructor_IT23_R236_473</user_id>
+        <Role>instructor</Role>
+        <course_type>ls</course_type>
+        <context_id>studcontext_IT23_R236_473</context_id>
+        <context_title>studtitle_IT23_R236_473</context_title>
+        <shareWithInitialString>studtitle_IT23_R236_473</shareWithInitialString>
+        <shareName>studtitle_IT23_R236_473</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assessmentname>IT23_R236_Assessment_473</assessmentname>
+        <questionset>Quest_on_Set_IT23_R236_473</questionset>
+        <questiontext>Test Question_IT23_R236_473</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <searchquestion>true</searchquestion>
+        <noOfQuestions>3</noOfQuestions>
+        <customassignmentname>customAssigment_IT23_R236_473</customassignmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R236.CreateCustomAssignmentFromDifferentPlacesLS" index="478" method="">
+        <user_id>instructor_IT23_R236_479</user_id>
+        <Role>instructor</Role>
+        <course_type>ls</course_type>
+        <context_id>studcontext_IT23_R236_479</context_id>
+        <context_title>studtitle_IT23_R236_479</context_title>
+        <shareWithInitialString>studtitle_IT23_R236_479</shareWithInitialString>
+        <shareName>studtitle_IT23_R236_479</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assessmentname>IT23_R236_Assessment_479</assessmentname>
+        <questionset>Quest_on_Set_IT23_R236_479</questionset>
+        <questiontext>Test Question_IT23_R236_479</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <searchquestion>true</searchquestion>
+        <noOfQuestions>3</noOfQuestions>
+        <customassignmentname>customAssigment_IT23_R236_479</customassignmentname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R236.CreateCustomAssignmentFromDifferentPlacesLS" index="479" method="">
+        <user_id>instructor_IT23_R236_480</user_id>
+        <Role>instructor</Role>
+        <course_type>ls</course_type>
+        <context_id>studcontext_IT23_R236_479</context_id>
+        <context_title>studtitle_IT23_R236_479</context_title>
+        <shareName>givenname family</shareName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R236.CreateCustomAssignmentFromDifferentPlacesLS" index="488" method="">
+        <user_id>instructor_IT23_R236_489</user_id>
+        <Role>instructor</Role>
+        <course_type>ls</course_type>
+        <context_id>studcontext_IT23_R236_489</context_id>
+        <context_title>studtitle_IT23_R236_489</context_title>
+        <assessmentname>Assignment_IT23_236_489</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Quest_on_Set_IT23_R236_489</questionset>
+        <questiontext>Test Question_IT23_R236_489</questiontext>
+        <solutionText>false</solutionText>
+        <reservforassignment>false</reservforassignment>
+        <test_type>SS</test_type>
+        <diaassessmentname>Assignment_IT23_236_489</diaassessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R236.CreateCustomAssignmentFromDifferentPlacesLS" index="490" method="">
+        <user_id>instructor_IT23_R236_491</user_id>
+        <Role>instructor</Role>
+        <course_type>ls</course_type>
+        <context_id>studcontext_IT23_R236_491</context_id>
+        <context_title>studtitle_IT23_R236_491</context_title>
+        <assessmentname>Assignment_IT23_236_491</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Quest_on_Set_IT23_R236_491</questionset>
+        <questiontext>Test Question_IT23_R236_491</questiontext>
+        <reservforassignment>false</reservforassignment>
+        <test_type>SS</test_type>
+        <questiontype>Static Practice</questiontype>
+        <diaassessmentname>Assignment_IT23_236_491</diaassessmentname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R236.CreateCustomAssignmentFromDifferentPlacesLS" index="492" method="">
+        <user_id>instructor_IT23_R236_493</user_id>
+        <Role>instructor</Role>
+        <course_type>ls</course_type>
+        <context_id>studcontext_IT23_R236_493</context_id>
+        <context_title>studtitle_IT23_R236_493</context_title>
+        <assessmentname>Assignment_IT23_236_493</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Quest_on_Set_IT23_R236_493</questionset>
+        <questiontext>Test Question_IT23_R236_493</questiontext>
+        <reservforassignment>false</reservforassignment>
+        <test_type>SS</test_type>
+        <questiontype>Static Practice</questiontype>
+        <diaassessmentname>Assignment_IT23_236_493</diaassessmentname>
+        <algorithmic>true</algorithmic>
+    </testcase>
+</learningspaces>

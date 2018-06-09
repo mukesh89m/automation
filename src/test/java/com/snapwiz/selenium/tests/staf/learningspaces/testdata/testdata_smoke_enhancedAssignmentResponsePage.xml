@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="1" method="">
+        <user_id>instructor_enhancedAssignmentResponsePage_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_enhancedAssignmentResponsePage_1</context_id>
+        <context_title>studtitle_enhancedAssignmentResponsePage_1</context_title>
+        <assessmentname>enhancedAssignmentResponsePage_1</assessmentname>
+        <shareWithInitialString>studtitle_enhancedAssignmentResponsePage_1</shareWithInitialString>
+        <shareName>studtitle_enhancedAssignmentResponsePage_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>3</duetime>
+        <defaultDuetime>true</defaultDuetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="1_1" method="">
+        <user_id>student_enhancedAssignmentResponsePage_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_enhancedAssignmentResponsePage_1</context_id>
+        <context_title>studtitle_enhancedAssignmentResponsePage_1</context_title>
+        <familyname>b</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="2" method="">
+        <user_id>instructor_enhancedAssignmentResponsePage_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_enhancedAssignmentResponsePage_1</context_id>
+        <context_title>studtitle_enhancedAssignmentResponsePage_1</context_title>
+        <assessmentname>FileBasedAssignment_enhancedAssignmentResponsePage_1</assessmentname>
+        <shareWithInitialString>studtitle_enhancedAssignmentResponsePage_1</shareWithInitialString>
+        <shareName>studtitle_enhancedAssignmentResponsePage_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>true</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>4</duetime>
+        <defaultDuetime>true</defaultDuetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <totalpoints>2</totalpoints>
+        <filename>img.png</filename>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="3" method="">
+        <discussionAssignment>discussionAssignment_enhancedAssignmentResponsePage_1</discussionAssignment>
+        <description>discussionAssignment</description>
+        <shareName>studtitle_enhancedAssignmentResponsePage_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>4</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <totalPoints>2</totalPoints>
+        <defaultDuetime>true</defaultDuetime>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="4" method="">
+        <user_id>instructor_enhancedAssignmentResponsePage_4</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_enhancedAssignmentResponsePage_4</context_id>
+        <context_title>studtitle_enhancedAssignmentResponsePage_4</context_title>
+        <assessmentname>enhancedAssignmentResponsePage_4</assessmentname>
+        <shareWithInitialString>studtitle_enhancedAssignmentResponsePage_4</shareWithInitialString>
+        <shareName>studtitle_enhancedAssignmentResponsePage_4</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>3</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="4_1" method="">
+        <user_id>student_enhancedAssignmentResponsePage_4</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_enhancedAssignmentResponsePage_4</context_id>
+        <context_title>studtitle_enhancedAssignmentResponsePage_4</context_title>
+        <familyname>b</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="5" method="">
+        <user_id>instructor_enhancedAssignmentResponsePage_4</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_enhancedAssignmentResponsePage_4</context_id>
+        <context_title>studtitle_enhancedAssignmentResponsePage_4</context_title>
+        <assessmentname>FileBasedAssignment_enhancedAssignmentResponsePage_4</assessmentname>
+        <shareWithInitialString>studtitle_enhancedAssignmentResponsePage_4</shareWithInitialString>
+        <shareName>studtitle_enhancedAssignmentResponsePage_4</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>true</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>4</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <totalpoints>2</totalpoints>
+        <filename>img.png</filename>
+        <newDueTime>4</newDueTime>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="6" method="">
+        <discussionAssignment>discussionAssignment_enhancedAssignmentResponsePage_4</discussionAssignment>
+        <description>discussionAssignment</description>
+        <shareName>studtitle_enhancedAssignmentResponsePage_4</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>4</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <totalPoints>2</totalPoints>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="7" method="">
+        <user_id>instructor_smoke_assignGroupAndCombination_7</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_assignGroupAndCombination_7</context_id>
+        <context_title>studtitle_smoke_assignGroupAndCombination_7</context_title>
+        <discussionAssignment>perspectiveOfSelectedGroup</discussionAssignment>
+        <description>description</description>
+        <GroupName>one</GroupName>
+        <studentName>a, month</studentName>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>3</duetime>
+        <totalPoints>2</totalPoints>
+        <additionalnote>This is an additional note</additionalnote>
+        <defaultDuetime>true</defaultDuetime>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="7_1" method="">
+        <user_id>student_smoke_assignGroupAndCombination_7</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignGroupAndCombination_7</context_id>
+        <context_title>studtitle_smoke_assignGroupAndCombination_7</context_title>
+        <familyname>a</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="7_2" method="">
+        <user_id>student_smoke_assignGroupAndCombination_7_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignGroupAndCombination_7</context_id>
+        <context_title>studtitle_smoke_assignGroupAndCombination_7</context_title>
+        <familyname>b</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="8" method="">
+        <user_id>instructor_smoke_assignGroupAndCombination_7</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_assignGroupAndCombination_7</context_id>
+        <context_title>studtitle_smoke_assignGroupAndCombination_7</context_title>
+        <discussionAssignment>perspectiveOfSelectedGroup</discussionAssignment>
+        <description>description</description>
+        <GroupName>one</GroupName>
+        <shareWithInitialString>b, month</shareWithInitialString>
+        <studentName>b, month</studentName>
+        <shareName>month b</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>3</duetime>
+        <totalPoints>2</totalPoints>
+        <additionalnote>This is an additional note</additionalnote>
+        <newDueTime>4</newDueTime>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="9" method="">
+        <user_id>instructor_smoke_assignGroupAndCombination_9</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_assignGroupAndCombination_9</context_id>
+        <context_title>studtitle_smoke_assignGroupAndCombination_9</context_title>
+        <discussionAssignment>perspectiveOfSelectedGroup</discussionAssignment>
+        <description>description</description>
+        <GroupName>one</GroupName>
+        <shareWithInitialString>one</shareWithInitialString>
+        <studentName>a, month</studentName>
+        <shareWithClass>true</shareWithClass>
+        <shareName>one</shareName>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>3</duetime>
+        <totalPoints>2</totalPoints>
+        <additionalnote>This is an additional note</additionalnote>
+        <defaultDuetime>true</defaultDuetime>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="9_1" method="">
+        <user_id>student_smoke_assignGroupAndCombination_9</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignGroupAndCombination_9</context_id>
+        <context_title>studtitle_smoke_assignGroupAndCombination_9</context_title>
+        <familyname>a</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="9_2" method="">
+        <user_id>student_smoke_assignGroupAndCombination_9_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignGroupAndCombination_9</context_id>
+        <context_title>studtitle_smoke_assignGroupAndCombination_9</context_title>
+        <familyname>b</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="10" method="">
+        <user_id>instructor_smoke_assignGroupAndCombination_9</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_assignGroupAndCombination_9</context_id>
+        <context_title>studtitle_smoke_assignGroupAndCombination_9</context_title>
+        <discussionAssignment>perspectiveOfSelectedGroup</discussionAssignment>
+        <description>description</description>
+        <GroupName>one</GroupName>
+        <shareWithInitialString>one</shareWithInitialString>
+        <studentName>b, month</studentName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <shareName>one</shareName>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>3</duetime>
+        <totalPoints>2</totalPoints>
+        <additionalnote>This is an additional note</additionalnote>
+        <newDueTime>4</newDueTime>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="8" method="">
+        <user_id>instructor_smoke_assignGroupAndCombination_7</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_assignGroupAndCombination_7</context_id>
+        <context_title>studtitle_smoke_assignGroupAndCombination_7</context_title>
+        <discussionAssignment>perspectiveOfSelectedGroup</discussionAssignment>
+        <description>description</description>
+        <GroupName>one</GroupName>
+        <shareWithInitialString>b, month</shareWithInitialString>
+        <studentName>b, month</studentName>
+        <shareName>month b</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>3</duetime>
+        <totalPoints>2</totalPoints>
+        <additionalnote>This is an additional note</additionalnote>
+        <newDueTime>4</newDueTime>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="11" method="">
+        <user_id>instructor_smoke_assignGroupAndCombination_11</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_assignGroupAndCombination_11</context_id>
+        <context_title>studtitle_smoke_assignGroupAndCombination_11</context_title>
+        <discussionAssignment>perspectiveOfSelectedGroup</discussionAssignment>
+        <description>description</description>
+        <GroupName>gro-1,gro-2,gro-3,gro-4,gro-5,gro-6,gro-7</GroupName>
+        <shareWithInitialString>gro-7</shareWithInitialString>
+        <shareWithClass>false</shareWithClass>
+        <shareName>one</shareName>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>3</duetime>
+        <totalPoints>2</totalPoints>
+        <additionalnote>This is an additional note</additionalnote>
+        <defaultDuetime>true</defaultDuetime>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="11_1" method="">
+        <user_id>student_smoke_assignGroupAndCombination_11</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignGroupAndCombination_11</context_id>
+        <context_title>studtitle_smoke_assignGroupAndCombination_11</context_title>
+        <familyname>a</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="11_2" method="">
+        <user_id>student_smoke_assignGroupAndCombination_11_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignGroupAndCombination_11</context_id>
+        <context_title>studtitle_smoke_assignGroupAndCombination_11</context_title>
+        <familyname>b</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="14" method="">
+        <user_id>instructor_smoke_assignGroupAndCombination_14</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_assignGroupAndCombination_14</context_id>
+        <context_title>studtitle_smoke_assignGroupAndCombination_14</context_title>
+        <discussionAssignment>perspectiveOfSelectedGroup</discussionAssignment>
+        <description>description</description>
+        <GroupName>gro-1,gro-2</GroupName>
+        <shareWithInitialString>studtitle_smoke_assignGroupAndCombination_14</shareWithInitialString>
+        <shareWithClass>false</shareWithClass>
+        <shareName>studtitle_smoke_assignGroupAndCombination_14</shareName>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>3</duetime>
+        <totalPoints>2</totalPoints>
+        <additionalnote>This is an additional note</additionalnote>
+        <defaultDuetime>true</defaultDuetime>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="14_1" method="">
+        <user_id>student_smoke_assignGroupAndCombination_14</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignGroupAndCombination_14</context_id>
+        <context_title>studtitle_smoke_assignGroupAndCombination_14</context_title>
+        <familyname>a</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="14_2" method="">
+        <user_id>student_smoke_assignGroupAndCombination_14_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignGroupAndCombination_14</context_id>
+        <context_title>studtitle_smoke_assignGroupAndCombination_14</context_title>
+        <familyname>b</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="14_3" method="">
+        <user_id>student_smoke_assignGroupAndCombination_14_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignGroupAndCombination_15</context_id>
+        <context_title>studtitle_smoke_assignGroupAndCombination_15</context_title>
+        <familyname>b</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="15" method="">
+        <user_id>instructor_smoke_assignGroupAndCombination_15</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_assignGroupAndCombination_15</context_id>
+        <context_title>studtitle_smoke_assignGroupAndCombination_15</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="16" method="">
+        <user_id>instructor_smoke_assignGroupAndCombination_16</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_assignGroupAndCombination_16</context_id>
+        <context_title>studtitle_smoke_assignGroupAndCombination_16</context_title>
+        <discussionAssignment>perspectiveOfSelectedGroup</discussionAssignment>
+        <description>description</description>
+        <GroupName>gro-1,gro-2</GroupName>
+        <shareWithInitialString>studtitle_smoke_assignGroupAndCombination_16</shareWithInitialString>
+        <shareWithClass>false</shareWithClass>
+        <shareName>studtitle_smoke_assignGroupAndCombination_16</shareName>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>3</duetime>
+        <totalPoints>2</totalPoints>
+        <additionalnote>This is an additional note</additionalnote>
+        <defaultDuetime>true</defaultDuetime>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="16_1" method="">
+        <user_id>student_smoke_assignGroupAndCombination_16</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignGroupAndCombination_16</context_id>
+        <context_title>studtitle_smoke_assignGroupAndCombination_16</context_title>
+        <familyname>a</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="16_2" method="">
+        <user_id>student_smoke_assignGroupAndCombination_16_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignGroupAndCombination_16</context_id>
+        <context_title>studtitle_smoke_assignGroupAndCombination_16</context_title>
+        <familyname>b</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="19" method="">
+        <user_id>instructor_smoke_assignGroupAndCombination_16</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_assignGroupAndCombination_16</context_id>
+        <context_title>studtitle_smoke_assignGroupAndCombination_16</context_title>
+        <custom_roster_changes>true</custom_roster_changes>
+        <custom_destination>update_roster</custom_destination>
+        <studentUserName>student_smoke_assignGroupAndCombination_16_2</studentUserName>>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="17" method="">
+        <user_id>instructor_smoke_assignGroupAndCombination_17</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_assignGroupAndCombination_17</context_id>
+        <context_title>studtitle_smoke_assignGroupAndCombination_17</context_title>
+        <discussionAssignment>perspectiveOfSelectedGroup</discussionAssignment>
+        <description>description</description>
+        <GroupName>gro-1,gro-2</GroupName>
+        <shareWithInitialString>b, month</shareWithInitialString>
+        <studentName>a, month</studentName>
+        <shareName>month b</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>3</duetime>
+        <totalPoints>2</totalPoints>
+        <additionalnote>This is an additional note</additionalnote>
+        <defaultDuetime>true</defaultDuetime>
+        <!--
+                <newDueTime>4</newDueTime>
+        -->
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="17_1" method="">
+        <user_id>student_smoke_assignGroupAndCombination_17</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignGroupAndCombination_17</context_id>
+        <context_title>studtitle_smoke_assignGroupAndCombination_17</context_title>
+        <familyname>a</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="17_2" method="">
+        <user_id>student_smoke_assignGroupAndCombination_17_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignGroupAndCombination_17</context_id>
+        <context_title>studtitle_smoke_assignGroupAndCombination_17</context_title>
+        <familyname>b</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="17_3" method="">
+        <user_id>student_smoke_assignGroupAndCombination_17_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignGroupAndCombination_18</context_id>
+        <context_title>studtitle_smoke_assignGroupAndCombination_18</context_title>
+        <familyname>b</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="18" method="">
+        <user_id>instructor_smoke_assignGroupAndCombination_18</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_assignGroupAndCombination_18</context_id>
+        <context_title>studtitle_smoke_assignGroupAndCombination_18</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="19" method="">
+        <user_id>instructor_smoke_assignGroupAndCombination_17</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_assignGroupAndCombination_17</context_id>
+        <context_title>studtitle_smoke_assignGroupAndCombination_17</context_title>
+        <discussionAssignment>perspectiveOfSelectedGroup</discussionAssignment>
+        <description>description</description>
+        <GroupName>gro-1,gro-2</GroupName>
+        <shareWithInitialString>studtitle_smoke_assignGroupAndCombination_17</shareWithInitialString>
+        <shareName>studtitle_smoke_assignGroupAndCombination_17</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>3</duetime>
+        <totalPoints>2</totalPoints>
+        <additionalnote>This is an additional note</additionalnote>
+        <defaultDuetime>true</defaultDuetime>
+        <newDueTime>4</newDueTime>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="23" method="">
+        <user_id>EnhancedAssignmentResponsePageInstructor_23</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_EnhancedAssignmentResponsePage_23</context_id>
+        <context_title>studtitle_EnhancedAssignmentResponsePage_23</context_title>
+        <assessmentname>Assignment_EnhancedAssignmentResponsePage_24_1</assessmentname>
+        <questionset>23questionset</questionset>
+        <questiontext>23_question text</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_EnhancedAssignmentResponsePage_23</shareWithInitialString>
+        <shareName>studtitle_EnhancedAssignmentResponsePage_23</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>23_2 Policy Name</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <policyname>23_2 Policy Name</policyname>
+        <duedate>26</duedate>
+        <duetime>3</duetime>
+        <newDueTime>1</newDueTime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>23_2 Policy Name</assignmentpolicyname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="23_1" method="">
+        <user_id>EnhancedAssignmentResponsePagestudent_23_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_EnhancedAssignmentResponsePage_23</context_id>
+        <context_title>studtitle_EnhancedAssignmentResponsePage_23</context_title>
+        <familyname>a</familyname>
+        <givenname>Mukesh</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="23_2" method="">
+        <user_id>EnhancedAssignmentResponsePagestudent_23_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_EnhancedAssignmentResponsePage_23</context_id>
+        <context_title>studtitle_EnhancedAssignmentResponsePage_23</context_title>
+        <familyname>b</familyname>
+        <givenname>Mukesh</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="23_3" method="">
+        <user_id>EnhancedAssignmentResponsePagestudent_23_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_EnhancedAssignmentResponsePage_23</context_id>
+        <context_title>studtitle_EnhancedAssignmentResponsePage_23</context_title>
+        <familyname>c</familyname>
+        <givenname>Mukesh</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="25" method="">
+        <user_id>EnhancedAssignmentResponsePageInstructor_25</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_EnhancedAssignmentResponsePage_25</context_id>
+        <context_title>studtitle_EnhancedAssignmentResponsePage_25</context_title>
+        <assessmentname>Assignment_EnhancedAssignmentResponsePage_24_1</assessmentname>
+        <questionset>25questionset</questionset>
+        <questiontext>25_question text</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_EnhancedAssignmentResponsePage_25</shareWithInitialString>
+        <shareName>studtitle_EnhancedAssignmentResponsePage_25</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>25_2 Policy Name</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <policyname>25_2 Policy Name</policyname>
+        <duedate>26</duedate>
+        <duetime>4</duetime>
+        <newDueTime>1</newDueTime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>25_2 Policy Name</assignmentpolicyname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="25_1" method="">
+        <user_id>EnhancedAssignmentResponsePagestudent_25_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_EnhancedAssignmentResponsePage_25</context_id>
+        <context_title>studtitle_EnhancedAssignmentResponsePage_25</context_title>
+        <familyname>a</familyname>
+        <givenname>Mukesh</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="25_2" method="">
+        <user_id>EnhancedAssignmentResponsePagestudent_25_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_EnhancedAssignmentResponsePage_25</context_id>
+        <context_title>studtitle_EnhancedAssignmentResponsePage_25</context_title>
+        <familyname>b</familyname>
+        <givenname>Mukesh</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="25_3" method="">
+        <user_id>EnhancedAssignmentResponsePagestudent_25_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_EnhancedAssignmentResponsePage_25</context_id>
+        <context_title>studtitle_EnhancedAssignmentResponsePage_25</context_title>
+        <familyname>c</familyname>
+        <givenname>Mukesh</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="26" method="">
+        <user_id>instructor_enhancedAssignmentResponsePage_26</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_enhancedAssignmentResponsePage_26</context_id>
+        <context_title>studtitle_enhancedAssignmentResponsePage_26</context_title>
+        <assessmentname>FileBasedAssignment_enhancedAssignmentResponsePage_26</assessmentname>
+        <shareWithInitialString>studtitle_enhancedAssignmentResponsePage_26</shareWithInitialString>
+        <shareName>studtitle_enhancedAssignmentResponsePage_26</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>true</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>2</duetime>
+        <defaultDuetime>true</defaultDuetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <totalpoints>2</totalpoints>
+        <filename>img.png</filename>
+        <newDueTime>1</newDueTime>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="26_1" method="">
+        <user_id>EnhancedAssignmentResponsePagestudent_26_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_enhancedAssignmentResponsePage_26</context_id>
+        <context_title>studtitle_enhancedAssignmentResponsePage_26</context_title>
+        <familyname>a</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="27" method="">
+        <user_id>EnhancedAssignmentResponsePageInstructor_27</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_EnhancedAssignmentResponsePage_27</context_id>
+        <context_title>studtitle_EnhancedAssignmentResponsePage_27</context_title>
+        <assessmentname>Assignment_EnhancedAssignmentResponsePage_24_1</assessmentname>
+        <questionset>27questionset</questionset>
+        <questiontext>27_question text</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_EnhancedAssignmentResponsePage_27</shareWithInitialString>
+        <shareName>studtitle_EnhancedAssignmentResponsePage_27</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>27_2 Policy Name</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <policyname>27_2 Policy Name</policyname>
+        <duedate>26</duedate>
+        <duetime>6</duetime>
+        <extensionAfterDueDate>disable</extensionAfterDueDate>
+        <newDueTime>1</newDueTime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>27_2 Policy Name</assignmentpolicyname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="27_1" method="">
+        <user_id>EnhancedAssignmentResponsePagestudent_27_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_EnhancedAssignmentResponsePage_27</context_id>
+        <context_title>studtitle_EnhancedAssignmentResponsePage_27</context_title>
+        <familyname>a</familyname>
+        <givenname>Mukesh</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="27_2" method="">
+        <user_id>EnhancedAssignmentResponsePagestudent_27_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_EnhancedAssignmentResponsePage_27</context_id>
+        <context_title>studtitle_EnhancedAssignmentResponsePage_27</context_title>
+        <familyname>b</familyname>
+        <givenname>Mukesh</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="27_3" method="">
+        <user_id>EnhancedAssignmentResponsePagestudent_27_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_EnhancedAssignmentResponsePage_27</context_id>
+        <context_title>studtitle_EnhancedAssignmentResponsePage_27</context_title>
+        <familyname>c</familyname>
+        <givenname>Mukesh</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="28" method="">
+        <user_id>EnhancedAssignmentResponsePageInstructor_28</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_EnhancedAssignmentResponsePage_28</context_id>
+        <context_title>studtitle_EnhancedAssignmentResponsePage_28</context_title>
+        <assessmentname>Assignment_EnhancedAssignmentResponsePage_24_1</assessmentname>
+        <questionset>28questionset</questionset>
+        <questiontext>28_question text</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_EnhancedAssignmentResponsePage_28</shareWithInitialString>
+        <shareName>studtitle_EnhancedAssignmentResponsePage_28</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>28_2 Policy Name</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <policyname>28_2 Policy Name</policyname>
+        <duedate>26</duedate>
+        <duetime>4</duetime>
+        <extensionAfterDueDate>disable</extensionAfterDueDate>
+        <newDueTime>1</newDueTime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>28_2 Policy Name</assignmentpolicyname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="28_1" method="">
+        <user_id>EnhancedAssignmentResponsePagestudent_28_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_EnhancedAssignmentResponsePage_28</context_id>
+        <context_title>studtitle_EnhancedAssignmentResponsePage_28</context_title>
+        <familyname>a</familyname>
+        <givenname>Mukesh</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="28_2" method="">
+        <user_id>EnhancedAssignmentResponsePagestudent_28_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_EnhancedAssignmentResponsePage_28</context_id>
+        <context_title>studtitle_EnhancedAssignmentResponsePage_28</context_title>
+        <familyname>b</familyname>
+        <givenname>Mukesh</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="28_3" method="">
+        <user_id>EnhancedAssignmentResponsePagestudent_28_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_EnhancedAssignmentResponsePage_28</context_id>
+        <context_title>studtitle_EnhancedAssignmentResponsePage_28</context_title>
+        <familyname>c</familyname>
+        <givenname>Mukesh</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="29" method="">
+        <user_id>EnhancedAssignmentResponsePageInstructor_29</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_EnhancedAssignmentResponsePage_29</context_id>
+        <context_title>studtitle_EnhancedAssignmentResponsePage_29</context_title>
+        <assessmentname>Assignment_EnhancedAssignmentResponsePage_24_1</assessmentname>
+        <questionset>29questionset</questionset>
+        <questiontext>29_question text</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_EnhancedAssignmentResponsePage_29</shareWithInitialString>
+        <shareName>studtitle_EnhancedAssignmentResponsePage_29</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>false</gradable>
+        <duedate>26</duedate>
+        <duetime>4</duetime>
+        <defaultDuetime>true</defaultDuetime>
+        <newDueTime>1</newDueTime>
+        <filename>img.png</filename>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="29_1" method="">
+        <user_id>EnhancedAssignmentResponsePagestudent_29_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_EnhancedAssignmentResponsePage_29</context_id>
+        <context_title>studtitle_EnhancedAssignmentResponsePage_29</context_title>
+        <familyname>a</familyname>
+        <givenname>Mukesh</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="29_2" method="">
+        <user_id>EnhancedAssignmentResponsePagestudent_29_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_EnhancedAssignmentResponsePage_29</context_id>
+        <context_title>studtitle_EnhancedAssignmentResponsePage_29</context_title>
+        <familyname>b</familyname>
+        <givenname>Mukesh</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="29_3" method="">
+        <user_id>EnhancedAssignmentResponsePagestudent_29_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_EnhancedAssignmentResponsePage_29</context_id>
+        <context_title>studtitle_EnhancedAssignmentResponsePage_29</context_title>
+        <familyname>c</familyname>
+        <givenname>Mukesh</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="30" method="">
+        <user_id>EnhancedAssignmentResponsePageInstructor_30</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_EnhancedAssignmentResponsePage_30</context_id>
+        <context_title>studtitle_EnhancedAssignmentResponsePage_30</context_title>
+        <shareWithInitialString>studtitle_EnhancedAssignmentResponsePage_30</shareWithInitialString>
+        <shareName>studtitle_EnhancedAssignmentResponsePage_30</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>false</gradable>
+        <duedate>26</duedate>
+        <duetime>5</duetime>
+        <defaultDuetime>true</defaultDuetime>
+        <newDueTime>1</newDueTime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="30_1" method="">
+        <user_id>EnhancedAssignmentResponsePagestudent_30_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_EnhancedAssignmentResponsePage_30</context_id>
+        <context_title>studtitle_EnhancedAssignmentResponsePage_30</context_title>
+        <familyname>a</familyname>
+        <givenname>Mukesh</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="30_2" method="">
+        <user_id>EnhancedAssignmentResponsePagestudent_30_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_EnhancedAssignmentResponsePage_30</context_id>
+        <context_title>studtitle_EnhancedAssignmentResponsePage_30</context_title>
+        <familyname>b</familyname>
+        <givenname>Mukesh</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.enhancedAssignmentResponsePage.EnhancedAssignmentResponsePage" index="30_3" method="">
+        <user_id>EnhancedAssignmentResponsePagestudent_30_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_EnhancedAssignmentResponsePage_30</context_id>
+        <context_title>studtitle_EnhancedAssignmentResponsePage_30</context_title>
+        <familyname>c</familyname>
+        <givenname>Mukesh</givenname>
+    </testcase>
+</learningspaces>

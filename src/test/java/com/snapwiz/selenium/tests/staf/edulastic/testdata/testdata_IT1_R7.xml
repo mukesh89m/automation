@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edulastic>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.R7.CreateNewAssignment" index ="39" method="verifyUseExistingAssignment">
+        <assessmentname>IT1_R7_39_Assessment</assessmentname>
+        <questiontext>39 question text</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.R7.CreateNewAssignment" index ="42" method="assignmentFlow">
+        <assessmentname>IT1_R7_42_Assessment</assessmentname>
+        <questiontext>42 question text</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.R7.CreateNewAssignment" index ="43" method="assignmentFlow">
+        <assessmentname>IT1_R7_42_Assessment</assessmentname>
+        <shareWithClass>false</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <description>updated description text</description>
+        <tags>updated tags tags</tags>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.R7.QuestionTypes" index ="1" method="supportVariousQuestionNonGradableAssignment">
+        <assessmentname>IT1_R7_1_test6</assessmentname>
+        <questiontext>1 question text</questiontext>
+        <shareWithClass>false</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <solutionText>false</solutionText>
+        <hintText>false</hintText>
+        <shuffleAnswer>false</shuffleAnswer>
+        <filename>img.png</filename>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.R7.QuestionTypes" index ="2" method="supportVariousQuestionGradableAssignment">
+        <assessmentname>IT1_R7_2_test1</assessmentname>
+        <questiontext>2 question text</questiontext>
+        <shareWithClass>false</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <solutionText>false</solutionText>
+        <hintText>false</hintText>
+        <shuffleAnswer>false</shuffleAnswer>
+        <filename>img.png</filename>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.R7.QuestionTypes" index ="3" method="supportVariousQuestionNonGradableExistingAssignment">
+        <assessmentname>IT1_R7_3_test1</assessmentname>
+        <questiontext>2 question text</questiontext>
+        <shareWithClass>false</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <solutionText>false</solutionText>
+        <hintText>false</hintText>
+        <shuffleAnswer>false</shuffleAnswer>
+        <filename>img.png</filename>
+        <owner>me</owner>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.R7.QuestionTypes" index ="4" method="supportVariousQuestionNonGradableExistingAssignment">
+        <assessmentname>IT1_R7_4_test1</assessmentname>
+        <questiontext>2 question text</questiontext>
+        <shareWithClass>false</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <solutionText>false</solutionText>
+        <hintText>false</hintText>
+        <shuffleAnswer>false</shuffleAnswer>
+        <filename>img.png</filename>
+        <owner>me</owner>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.R7.CreateNewAssignment" index ="50" method="useExistingAssignment">
+        <assessmentname>IT1_R7_50_Assessment</assessmentname>
+        <questiontext>50 question text</questiontext>
+        <shareWithClass>false</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <newassessmentname>New IT1_R7_50_Assessment</newassessmentname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.R7.StatusOfAssignment" index ="39" method="statusOfGradableAssignment">
+        <assessmentname>IT1_R7_39_Assessment</assessmentname>
+        <questiontext>39 question text</questiontext>
+        <shareWithClass>false</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.R7.StatusOfAssignment" index ="40" method="statusOfNonGradableAssignment">
+        <assessmentname>IT1_R7_40_Assessment</assessmentname>
+        <questiontext>40 question text</questiontext>
+        <shareWithClass>false</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.R7.UpdateOfCountOverStatusBoxes" index ="64" method="updateOfCountOverStatusBoxesForGradableAssignment">
+        <assessmentname>IT1_R7_64_Assessment</assessmentname>
+        <questiontext>64 question text</questiontext>
+        <shareWithClass>false</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.R7.UpdateOfCountOverStatusBoxes" index ="68" method="updateOfCountOverStatusBoxesForNonGradableAssignment">
+        <assessmentname>IT1_R7_68_Assessment</assessmentname>
+        <questiontext>68 question text</questiontext>
+        <shareWithClass>false</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.R7.VerifyGradeGraph" index ="85" method="verifyGradeGraphForGradableAssignment">
+        <assessmentname>IT1_R7_85_Assessment</assessmentname>
+        <questiontext>85 question text</questiontext>
+        <shareWithClass>false</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.R7.VerifyGradeGraph" index ="90" method="verifyGradeGraphForNonGradableAssignment">
+        <assessmentname>IT1_R7_90_Assessment</assessmentname>
+        <questiontext>90 question text</questiontext>
+        <shareWithClass>false</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.R7.UseExistingAssignment" index ="50" method="useExistingAssignmentAsGradableAssignment">
+        <assessmentname>IT1_R7_50_Assessment</assessmentname>
+        <questiontext>50_question_text</questiontext>
+        <shareWithClass>false</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <newassessmentname>New IT1_R7_50_Assessment</newassessmentname>
+        <privacy>Public</privacy>
+        <owner>community</owner>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.R7.UseExistingAssignment" index ="55" method="useExistingAssignmentAsNonGradableAssignmentC">
+        <assessmentname>IT1_R7_55_Assessment</assessmentname>
+        <questiontext>55_question_text</questiontext>
+        <shareWithClass>false</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <newassessmentname>New IT1_R7_55_Assessment</newassessmentname>
+        <privacy>Public</privacy>
+        <owner>community</owner>
+        <selectgrade>Grade 2</selectgrade>
+    </testcase>
+</edulastic>

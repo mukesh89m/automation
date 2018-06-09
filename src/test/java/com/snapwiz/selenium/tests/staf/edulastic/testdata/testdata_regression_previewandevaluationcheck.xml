@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edulastic>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.previewandevaluationcheck.PreviewAndEvaluationCheck" index ="1" method="">
+        <assessmentname>sanity_assignmentflow</assessmentname>
+        <selectgrade>Grade 1</selectgrade>
+    </testcase>
+
+</edulastic>

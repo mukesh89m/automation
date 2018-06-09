@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="IT9-R3-DummiesRegressionSuite" preserve-order="true">
+    <classes>    
+   		<class name="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.AgeOfPostingComment"/>
+   		<class name="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.AllEntriesfilteforCourseStream"/>
+   		<class name="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.AllowFileSize"/>
+   		<class name="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.CancelFunctionality"/>
+   		<class name="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.FileExtensionSupport"/>
+   		<class name="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.FileTabWorking"/>
+   		<class name="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.HideReportPostComment"/>
+   		<class name="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.LikeUnlikeCommentCourseStream"/>
+   		<class name="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.LinkTabWorking"/>
+   		<class name="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.LSAudioShare"/>
+   		<class name="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.LSAutoSuggestShareBox"/>
+   		<class name="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.LSFlashBehaviour"/>
+   		<class name="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.LSLoginAsStudents"/>
+   		<class name="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.LSLoginDisplayAllPosts"/>
+   		<class name="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.LSPostedADisscussion"/>
+   		<class name="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.LSRenderingFlash"/>
+   		<class name="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.LSRenderingImage"/>
+   		<class name="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.LSShareWithOptionAdditional"/>
+   		<class name="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.LSVideoShare"/>
+   		<class name="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.PostingNotAllowWithoutSharingAStudent"/>
+   		<class name="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.RecentCommentOnTopAndOrderdByTime"/>
+   		<class name="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.RecentPostOnTop"/>
+   		<class name="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.ReportAbuseOnPost"/>
+   		<class name="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.RichTextEditor"/>
+   		<class name="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.RichTextEditorIcon"/>
+   		<class name="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.ScrolldownPageToViewOlderPost"/>
+   		<class name="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.ShareALinkWithClassSection"/>
+   		<class name="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.ShareALinkWithStudent"/>
+   		<class name="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.SharingAPost"/>
+   		<class name="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.SharingAPostWithStudent"/>
+   		<class name="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.StariconBookmark"/>
+   		<class name="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.TIconBesidesSharedWithOption"/>
+    </classes>
+  </test> 
+  
+</suite> <!-- Suite -->

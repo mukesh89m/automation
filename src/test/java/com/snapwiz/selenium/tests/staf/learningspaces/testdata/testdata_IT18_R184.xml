@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R184.IShouldAbleToViewHeadingsForVariousNodes" index="10" method="resourceUploadedByAuthorAsStudent" >
+        <resoursename>ResourceName_10</resoursename>
+        <type>image</type>
+        <description>IT18_R184_ResourceName_10</description>
+        <filename>img.png</filename>
+        <instructoronlyflag>false</instructoronlyflag>
+        <user_id>student_10_13</user_id>
+        <Role>student</Role>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R184.IShouldAbleToViewHeadingsForVariousNodes" index="11" method="resourceUploadedByAuthorAsStudent" >
+        <resoursename>ResourceName_11</resoursename>
+        <type>image</type>
+        <description>IT18_R184_ResourceName_11</description>
+        <filename>img.png</filename>
+        <instructoronlyflag>false</instructoronlyflag>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R184.IShouldAbleToViewHeadingsForVariousNodes" index="12" method="resourceUploadedByAuthorAsStudent" >
+        <resoursename>ResourceName_12</resoursename>
+        <type>image</type>
+        <description>IT18_R184_ResourceName_12</description>
+        <filename>img.png</filename>
+        <instructoronlyflag>false</instructoronlyflag>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R184.IShouldAbleToViewHeadingsForVariousNodes" index="19" method="resourceUploadedByAuthorAsInstructor" >
+        <resoursename>ResourceName_19</resoursename>
+        <type>image</type>
+        <description>IT18_R184_ResourceName_19</description>
+        <filename>img.png</filename>
+        <instructoronlyflag>false</instructoronlyflag>
+        <user_id>instructor_19_5</user_id>
+        <Role>instructor</Role>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R184.IShouldAbleToViewHeadingsForVariousNodes" index="20" method="resourceUploadedByAuthorAsInstructor" >
+        <resoursename>ResourceName_20</resoursename>
+        <type>image</type>
+        <description>IT18_R184_ResourceName_20</description>
+        <filename>img.png</filename>
+        <instructoronlyflag>false</instructoronlyflag>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R184.IShouldAbleToViewHeadingsForVariousNodes" index="21" method="resourceUploadedByAuthorAsInstructor" >
+        <resoursename>ResourceName_21</resoursename>
+        <type>image</type>
+        <description>IT18_R184_ResourceName_21</description>
+        <filename>img.png</filename>
+        <instructoronlyflag>false</instructoronlyflag>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R184.IShouldAbleToViewHeadingsForVariousNodes" index="27" method="resourceUploadedByAuthorAsMentor" >
+        <resoursename>ResourceName_27</resoursename>
+        <type>image</type>
+        <description>IT18_R184_ResourceName_27</description>
+        <filename>img.png</filename>
+        <instructoronlyflag>false</instructoronlyflag>
+        <user_id>mentor_27_4</user_id>
+        <Role>mentor</Role>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R184.IShouldAbleToViewHeadingsForVariousNodes" index="28" method="resourceUploadedByAuthorAsMentor" >
+        <resoursename>_28</resoursename>
+        <type>image</type>
+        <description>IT18_R184_ResourceName_28</description>
+        <filename>img.png</filename>
+        <instructoronlyflag>false</instructoronlyflag>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R184.IShouldAbleToViewHeadingsForVariousNodes" index="29" method="resourceUploadedByAuthorAsMentor" >
+        <resoursename>ResourceName_29</resoursename>
+        <type>image</type>
+        <description>IT18_R184_ResourceName_29</description>
+        <filename>img.png</filename>
+        <instructoronlyflag>false</instructoronlyflag>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R184.IShouldAbleToViewHeadingsForVariousNodes" index="35" method="resourceUploadedByInstructorLoginAsStudent" >
+    <user_id>instructor_35_2</user_id>
+    <Role>instructor</Role>
+    <context_id>studcontext1_2</context_id>
+    <context_title>studtitle1_2</context_title>
+    <resourcesname>A_Resources35</resourcesname>
+    <resoursename>A_Resources35</resoursename>
+    <description>description text</description>
+    <filename>img.png</filename>
+</testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R184.IShouldAbleToViewHeadingsForVariousNodes" index="36" method="resourceUploadedByInstructorLoginAsStudent" >
+        <resourcesname>A_Resources36</resourcesname>
+        <resoursename>A_Resources36</resoursename>
+        <description>description text</description>
+        <filename>img.png</filename>
+        <topic>1</topic>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R184.IShouldAbleToViewHeadingsForVariousNodes" index="37" method="resourceUploadedByInstructorLoginAsStudent" >
+        <resourcesname>A_Resources37</resourcesname>
+        <resoursename>A_Resources37</resoursename>
+        <description>description text</description>
+        <filename>img.png</filename>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R184.IShouldAbleToViewHeadingsForVariousNodes" index="35_1" method="resourceUploadedByInstructorLoginAsStudent" >
+        <user_id>student_35_2_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext1_2</context_id>
+        <context_title>studtitle1_2</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R184.IShouldAbleToViewHeadingsForVariousNodes" index="43" method="resourceUploadedByInstructorLoginAsInstructor" >
+        <user_id>instructor_43</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext2</context_id>
+        <context_title>studtitle2</context_title>
+        <resourcesname>A_Resources43</resourcesname>
+        <resoursename>A_Resources43</resoursename>
+        <description>description text</description>
+        <filename>img.png</filename>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R184.IShouldAbleToViewHeadingsForVariousNodes" index="44" method="resourceUploadedByInstructorLoginAsInstructor" >
+        <resourcesname>A_Resources44</resourcesname>
+        <resoursename>A_Resources44</resoursename>
+        <description>description text</description>
+        <filename>img.png</filename>
+        <topic>1</topic>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R184.IShouldAbleToViewHeadingsForVariousNodes" index="45" method="resourceUploadedByInstructorLoginAsInstructor" >
+        <resourcesname>A_Resources45</resourcesname>
+        <resoursename>A_Resources45</resoursename>
+        <description>description text</description>
+        <filename>img.png</filename>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R184.IShouldAbleToViewHeadingsForVariousNodes" index="51" method="resourceUploadedByInstructorLoginAsMentor" >
+        <user_id>instructor_51</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext3</context_id>
+        <context_title>studtitle3</context_title>
+        <resourcesname>A_Resources51</resourcesname>
+        <resoursename>A_Resources51</resoursename>
+        <description>description text</description>
+        <filename>img.png</filename>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R184.IShouldAbleToViewHeadingsForVariousNodes" index="52" method="resourceUploadedByInstructorLoginAsMentor" >
+        <resourcesname>A_Resources52</resourcesname>
+        <resoursename>A_Resources52</resoursename>
+        <description>description text</description>
+        <filename>img.png</filename>
+        <topic>1</topic>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R184.IShouldAbleToViewHeadingsForVariousNodes" index="53" method="resourceUploadedByInstructorLoginAsMentor" >
+        <resourcesname>A_Resources53</resourcesname>
+        <resoursename>A_Resources53</resoursename>
+        <description>description text</description>
+        <filename>img.png</filename>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R184.IShouldAbleToViewHeadingsForVariousNodes" index="51_1" method="resourceUploadedByInstructorLoginAsMentor" >
+        <user_id>mentor_51</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontext3</context_id>
+        <context_title>studtitle3</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R184.IShouldAbleToViewHeadingsForVariousNodes" index="59" method="assessmentCreatedByAuthorLoginAsInstructor" >
+        <resoursename>ResourceName_59</resoursename>
+        <assessmentname>Assessment_59</assessmentname>
+        <questionset>Question Set 59</questionset>
+        <questiontext>Test Question 59</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <reservforassignment>false</reservforassignment>
+        <user_id>instructor_59_2</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext3</context_id>
+        <context_title>studtitle3</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R184.IShouldAbleToViewHeadingsForVariousNodes" index="63" method="assessmentCreatedByAuthorLoginAsMentor" >
+        <resoursename>ResourceName_63</resoursename>
+        <assessmentname>Assessment_63</assessmentname>
+        <questionset>Question Set 63</questionset>
+        <questiontext>Test Question 63</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R184.IShouldAbleToViewHeadingsForVariousNodes" index="64" method="assessmentCreatedByAuthorLoginAsMentor" >
+        <user_id>mentor_64</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontext3</context_id>
+        <context_title>studtitle3</context_title>
+    </testcase>
+</learningspaces>

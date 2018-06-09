@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R142.SupportForGardingPolicyForGradableAssignment" index="1" method="supportForGardingPolicyForGradableAssignment">
+	<user_id>instructor_IT14_R142_1</user_id>
+	<Role>instructor</Role>
+	<filename>img.png</filename>
+	<filename1>img2.mp4</filename1>
+	<resoursename>IT14_R142_1_resource</resoursename>
+	<gradingpolicystatus>true</gradingpolicystatus>
+	<description>this is descrption</description>		
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R142.ValidateReserveForGradingPolicyCheckBox" index="38" method="validateReserveForGradingPolicyCheckBox">
+	<user_id>instructor_IT14_R142_38</user_id>
+	<Role>instructor</Role>
+	<context_id>studcontextIT141</context_id>
+	<context_title>studtitleIT14_R142_381</context_title>	
+	<filename>img.png</filename>
+	<gradingpolicystatus>true</gradingpolicystatus>
+	<resourcesname>38 resources</resourcesname>
+	<description>this is descrption</description>		
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R142.ValidateReserveForGradingPolicyCheckBox" index="38_1" method="validateReserveForGradingPolicyCheckBox">
+	<user_id>student_IT14_R142_38</user_id>
+	<Role>student</Role>
+	<context_id>studcontextIT141</context_id>
+	<context_title>studtitleIT14_R142_381</context_title>		
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R142.UploadResourcesVerifyInDatabase" index="53" method="UploadResourcesVerifyInDatabase">
+	<user_id>instructor_IT14_R142_53</user_id>
+	<Role>instructor</Role>
+	<context_id>studcontextIT53</context_id>
+	<context_title>studtitleIT14_R142_53</context_title>	
+	<filename>img.png</filename>
+	<gradingpolicystatus>true</gradingpolicystatus>
+	<resourcesname>IT14_R142_R53_resources</resourcesname>
+	<description>this is descrption</description>		
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R142.InstructorUploadGradingPolicyValidation" index="58" method="InstructorUploadGradingPolicyValidation">
+	<user_id>instructor_IT14_R142_58</user_id>
+	<Role>instructor</Role>
+	<context_id>studcontextIT58</context_id>
+	<context_title>studtitleIT14_R142_58</context_title>	
+	<filename>img.png</filename>
+	<gradingpolicystatus>true</gradingpolicystatus>
+	<resourcesname>IT14_R142_53_resources</resourcesname>
+	<description>this is descrption</description>		
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R142.InstructorUploadGradingPolicyValidation" index="58_1" method="InstructorUploadGradingPolicyValidation">
+	<user_id>instructor_IT14_R142_58</user_id>
+	<Role>instructor</Role>
+	<context_id>studcontextIT58_1</context_id>
+	<context_title>studtitleIT14_R142_58_1</context_title>	
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R142.InstructorAbleToViewUploadedGradingPolicy" index="68" method="instructorAbleToViewUploadedGradingPolicy">
+	<user_id>instructor_IT14_R142_68</user_id>
+	<Role>instructor</Role>
+	<context_id>studcontextIT68</context_id>
+	<context_title>studtitleIT14_R142_68</context_title>	
+	<filename>img.png</filename>
+	<gradingpolicystatus>true</gradingpolicystatus>
+	<resourcesname>IT14_R142_68_resources</resourcesname>
+	<description>this is descrption</description>		
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R142.ViewFilterFunctionality" index="81" method="ViewFilterFunctionality">
+	<user_id>instructor_IT14_R142_81</user_id>
+	<Role>instructor</Role>
+	<context_id>studcontextIT141</context_id>
+	<context_title>studtitleIT14_R142_81</context_title>	
+	<filename>img.png</filename>
+	<gradingpolicystatus>true</gradingpolicystatus>
+	<resourcesname>81 resources</resourcesname>
+	<description>this is descrption</description>		
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R142.InstructorAbleToAssociateGradingPolicyWithAssessment" index="90" method="instructorAbleToAssociateGradingPolicyWithAssessment">
+		<user_id>instructor_IT14_R142_90</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextIT142_90</context_id>
+		<context_title>studtitleIT14_R142_90</context_title>
+		<filename>img.png</filename>
+		<gradingpolicystatus>true</gradingpolicystatus>
+		<resourcesname>90 resources</resourcesname>
+		<description>this is descrption</description>				
+		<assessmentname>AssessmentR142_90</assessmentname>
+		<questionset>Question SetR142_90</questionset>
+		<questiontext>Test Question R142_90</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<duedate>23</duedate>
+		<duetime>12:00 AM</duetime>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>true</gradeable>
+		<gradingpolicy>this is grading policy</gradingpolicy>
+		<shareWithInitialString>901second</shareWithInitialString>
+		<shareName>901first 901second</shareName>
+		<additionalnote>this is additional note</additionalnote>
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R142.InstructorAbleToAssociateGradingPolicyWithAssessment" index="99" method="instructorAbleToAssociateGradingPolicyWithAssessment">
+		<user_id>instructor_IT14_R142_99</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextIT142_99</context_id>
+		<context_title>studtitleIT14_R142_99</context_title>
+        <assessmentname>Assessment R142_99</assessmentname>
+        <questionset>Question SetR142_99</questionset>
+        <questiontext>Test Question R142_99</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <duedate>27</duedate>
+        <shareWithClass>false</shareWithClass>
+        <duetime>12:00 AM</duetime>
+        <gradeable>true</gradeable>
+        <gradingpolicy>this is grading policy</gradingpolicy>
+        <shareWithInitialString>991second</shareWithInitialString>
+        <shareName>991first 991second</shareName>
+        <filename>img.png</filename>
+		<gradingpolicystatus>true</gradingpolicystatus>
+		<resourcesname>IT14_R142_99 resource</resourcesname>
+		<description>this is descrption</description>
+	   <asignmentReference>IT14_R142_99 resource</asignmentReference> >
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R142.InstructorAbleToAssociateGradingPolicyWithAssessment" index="991" method="instructorAbleToAssociateGradingPolicyWithAssessment">
+		<user_id>student_IT14_R142_99</user_id>
+		<Role>student</Role>
+		<familyname>991second</familyname>
+		<givenname>991first</givenname>
+		<context_id>studcontextIT142_99</context_id>
+		<context_title>studtitleIT14_R142_99</context_title>
+		<assessmentname>AssessmentR142_991</assessmentname>
+		<questionset>Question SetR142_991</questionset>
+		<questiontext>Test Question R142_991</questiontext>
+		<questiontype>Static Practice</questiontype>	
+		<resourcesname>991 resources</resourcesname>
+		<duedate>27</duedate>
+		<shareWithClass>false</shareWithClass>
+		<duetime>12:00 AM</duetime>
+		<gradeable>true</gradeable>
+		<gradingpolicy>this is grading policy</gradingpolicy>
+		<shareWithInitialString>991second</shareWithInitialString>
+		<shareName>991first 991second</shareName>
+		<additionalnote>this is additional note</additionalnote>	
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R142.InstructorAbleToAssociateGradingPolicyWithAssessment" index="115" method="instructorlinkedtodifferentclasssection">
+		<user_id>instructor_IT14_R142_115</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextIT142_115</context_id>
+		<context_title>studtitleIT14_R142_115</context_title>
+		<filename>img.png</filename>
+		<gradingpolicystatus>true</gradingpolicystatus>
+		<resourcesname>115 resources</resourcesname>
+		<description>this is descrption</description>
+		<assessmentname>AssessmentR142_115</assessmentname>
+		<questionset>Question SetR142_115</questionset>
+		<questiontext>Test Question R142_115</questiontext>
+		<questiontype>Static Practice</questiontype>
+        <duedate>27</duedate>
+        <shareWithClass>false</shareWithClass>
+        <duetime>12:00 AM</duetime>
+        <gradeable>true</gradeable>
+        <gradingpolicy>this is grading policy</gradingpolicy>
+        <shareWithInitialString>991second</shareWithInitialString>
+        <shareName>991first 991second</shareName>
+        <additionalnote>this is additional note</additionalnote>
+
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R142.InstructorAbleToAssociateGradingPolicyHavingNoDescrption" index="103" method="instructorAbleToAssociateGradingPolicyHavingNoDescrption">
+		<user_id>instructor_IT14_R142_103_1</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextIT142_103_1</context_id>
+		<context_title>studtitleIT14_R142_103_1</context_title>
+		<filename>img.png</filename>
+		<gradingpolicystatus>true</gradingpolicystatus>
+		<resourcesname>103_1 resources</resourcesname>
+		<description></description>
+		<assessmentname>AssessmentR142_103_1</assessmentname>
+		<questionset>Question SetR142_103_1</questionset>
+		<questiontext>Test Question R142_103_1</questiontext>
+		<questiontype>Static Practice</questiontype>	
+		<duedate>23</duedate>
+		<shareWithClass>false</shareWithClass>
+		<duetime>12:00 AM</duetime>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>true</gradeable>
+		<gradingpolicy>this is grading policy</gradingpolicy>
+		<additionalnote>this is additional note</additionalnote>							
+</testcase>
+
+	
+</learningspaces>

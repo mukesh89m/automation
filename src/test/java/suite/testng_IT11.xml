@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false" preserve-order="true" configfailurepolicy="continue">
+    <listeners>
+    <listener class-name="com.snapwiz.selenium.tests.staf.learningspaces.CustomListener" />
+</listeners>
+  <test name="IT-11 Jenkins Suite">
+    <classes>
+
+        <!--R22 As an Instructor, I should be able to customize an assessment-->
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R22.ChangesAreNotReflectedinOriginalQuestion"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R22.InstructorAbleToCustomizeAssessment"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R22.AvailabilityOfSearchAndVBrowseOptionInNewAssignmentTab"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R22.SearchFilterFunctionality"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R22.BrowseOptionFunctionality"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R22.ExpandFunctionalityOfSearchedResult"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R22.InstructorAbleToAddQuestionsInMyAssignemnt"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R22.IndicationOfQuestionWhichalreadyPartOfCustomAssignment"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R22.DeleteAndEditFunctionalaityOfYourQuestion"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R22.AvalabilityOfSaveAssignement"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R22.DeleteLinkFunctionality"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R22.CustomizeTheAssignment"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R22.FunctionalityOfGoButton"/>
+
+        <!--R24 As an Instructor I should be able to view the course stream-->
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R24.AutoSuggestionInShareWithTextBox"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R24.BehaviourOfFlashFile"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R24.CancelFunctionalityForInstructor"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R24.FileUploadForInstructor"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R24.InstructorAbleToViewCourseStream"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R24.PostedADiscussion"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R24.RenderingVideoFile"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R24.SharingAFile"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R24.SharingLinks"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R24.SharingPosts"/>
+
+        <!--R25  As an Instructor I should be able to view the course stream-->
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R25.CourseStreamInstructor"/>
+
+        <!--R28 Student should be able to view all reports-->
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R28.ReportsAccess"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R28.ReportsAfterDiagnosticTest"/>
+
+
+
+	</classes>
+  </test> <!-- Test -->
+ </suite> <!-- Suite -->

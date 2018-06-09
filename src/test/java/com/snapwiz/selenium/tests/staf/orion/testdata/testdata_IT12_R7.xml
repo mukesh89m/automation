@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orion>
+	<testcase id="tloids" index ="0">	          
+			<tlo>12785</tlo>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT12.R7.PreviewPage" index="129" method="previewPageForTrueFalseQuestion">
+			<assessmentname>129_1assessment</assessmentname>
+			<questiontype>Adaptive Component Diagnostic</questiontype>
+			<questionset>129_1questionset</questionset>
+			<questiontext>129_1questiontext</questiontext>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT12.R7.PreviewPage" index="137" method="clickFullPreviewFromBrowseTabForTruefalseQuestion">
+			<newChapterName>137_3Chapter</newChapterName>
+			<assessmentname>137_3assessment</assessmentname>
+			<questiontype>Adaptive Component Diagnostic</questiontype>
+			<questionset>137_3questionset</questionset>
+			<questiontext>137_3questiontext</questiontext>
+			<chapterName>137_3Chapter</chapterName>
+			<difficultylevel>Hard</difficultylevel>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT12.R7.PreviewPage" index="138" method="previewPageForTrueFalseQuestionWithPassage">
+			<assessmentname>138_5assessment</assessmentname>
+			<questiontype>Adaptive Component Diagnostic</questiontype>
+			<questionset>138_5questionset</questionset>
+			<questiontext>138_5questiontext</questiontext>
+			<passagetext>138_5passagetext</passagetext>
+			<passagedetails>138passage details 138passage details 138passage details 138passage details 138passage details</passagedetails>
+			<difficultylevel>Hard</difficultylevel>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT12.R7.PreviewPage" index="146" method="clickFullPreviewFromBrowseTabForPassageBasedQuestion">
+			<newChapterName>146_4Chapter</newChapterName>
+			<assessmentname>146_4assessment</assessmentname>
+			<questiontype>Adaptive Component Diagnostic</questiontype>
+			<questionset>146_4questionset</questionset>
+			<questiontext>146_4questiontext</questiontext>
+			<chapterName>146_4Chapter</chapterName>
+			<passagetext>146_4passagetext</passagetext>
+			<passagedetails>146passage details 146passage details 146passage details 146passage details 146passage details</passagedetails>
+			<difficultylevel>Hard</difficultylevel>
+	</testcase>
+</orion>

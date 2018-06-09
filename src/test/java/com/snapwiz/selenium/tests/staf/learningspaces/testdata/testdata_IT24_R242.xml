@@ -1,0 +1,1217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorSideUnAssignAssignmentValidator" index="12" method="instructorToBeAbleToUnAssignAssignmentInPolicy1">
+        <assessmentname>Assessment_IT24_R242_12</assessmentname>
+        <questionset>IT24_R241_10_QuestionSet</questionset>
+        <questiontext>QuestionText_IT24_R242_12</questiontext>
+        <questiontype>Static Practice</questiontype>
+
+        <user_id>IT124_R241Instructor_12</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R242_12</context_id>
+        <context_title>studtitle_R242_12</context_title>
+
+        <shareWithInitialString>studtitle_R242_12</shareWithInitialString>
+        <shareName>studtitle_R242_12</shareName>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <gradeable>true</gradeable>
+        <gradeReleaseOption>Auto-release on assignment submission</gradeReleaseOption>
+        <assignmentpolicyname>Policy1</assignmentpolicyname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorSideUnAssignAssignmentValidator" index="12_1" method="instructorToBeAbleToUnAssignAssignmentInPolicy1">
+        <user_id>IT124_R241Instructor_12_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_12</context_id>
+        <context_title>studtitle_R242_12</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorSideUnAssignAssignmentValidator" index="12_2" method="instructorToBeAbleToUnAssignAssignmentInPolicy1">
+        <user_id>IT124_R241Instructor_12_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_12</context_id>
+        <context_title>studtitle_R242_12</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorSideUnAssignAssignmentValidator" index="12_3" method="instructorToBeAbleToUnAssignAssignmentInPolicy1">
+        <user_id>IT124_R241Instructor_12_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_12</context_id>
+        <context_title>studtitle_R242_12</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorSideUnAssignAssignmentValidator" index="15" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <assessmentname>Assessment_IT24_R242_15</assessmentname>
+        <questionset>IT24_R241_10_QuestionSet</questionset>
+        <questiontext>QuestionText_IT24_R242_15</questiontext>
+        <questiontype>Static Practice</questiontype>
+
+        <user_id>IT154_R241Instructor_15</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R242_15</context_id>
+        <context_title>studtitle_R242_15</context_title>
+
+        <shareWithInitialString>studtitle_R242_15</shareWithInitialString>
+        <shareName>studtitle_R242_15</shareName>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <gradeable>true</gradeable>
+        <gradeReleaseOption>Auto-release on due date</gradeReleaseOption>
+        <assignmentpolicyname>Policy2</assignmentpolicyname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorSideUnAssignAssignmentValidator" index="15_1" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <user_id>IT154_R241Instructor_15_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_15</context_id>
+        <context_title>studtitle_R242_15</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorSideUnAssignAssignmentValidator" index="15_2" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <user_id>IT154_R241Instructor_15_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_15</context_id>
+        <context_title>studtitle_R242_15</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorSideUnAssignAssignmentValidator" index="15_3" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <user_id>IT154_R241Instructor_15_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_15</context_id>
+        <context_title>studtitle_R242_15</context_title>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorSideUnAssignAssignmentValidator" index="18" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <assessmentname>Assessment_IT24_R242_18</assessmentname>
+        <questionset>IT24_R241_10_QuestionSet</questionset>
+        <questiontext>QuestionText_IT24_R242_18</questiontext>
+        <questiontype>Static Practice</questiontype>
+
+        <user_id>IT184_R241Instructor_18</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R242_18</context_id>
+        <context_title>studtitle_R242_18</context_title>
+
+        <shareWithInitialString>studtitle_R242_18</shareWithInitialString>
+        <shareName>studtitle_R242_18</shareName>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <gradeable>true</gradeable>
+        <gradeReleaseOption>Release as they are being graded</gradeReleaseOption>
+        <assignmentpolicyname>Policy3</assignmentpolicyname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorSideUnAssignAssignmentValidator" index="18_1" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <user_id>IT184_R241Instructor_18_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_18</context_id>
+        <context_title>studtitle_R242_18</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorSideUnAssignAssignmentValidator" index="18_2" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <user_id>IT184_R241Instructor_18_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_18</context_id>
+        <context_title>studtitle_R242_18</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorSideUnAssignAssignmentValidator" index="18_3" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <user_id>IT184_R241Instructor_18_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_18</context_id>
+        <context_title>studtitle_R242_18</context_title>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorSideUnAssignAssignmentValidator" index="21" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <assessmentname>Assessment_IT24_R242_21</assessmentname>
+        <questionset>IT24_R241_10_QuestionSet</questionset>
+        <questiontext>QuestionText_IT24_R242_21</questiontext>
+        <questiontype>Static Practice</questiontype>
+
+        <user_id>IT214_R241Instructor_21</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R242_21</context_id>
+        <context_title>studtitle_R242_21</context_title>
+
+        <shareWithInitialString>studtitle_R242_21</shareWithInitialString>
+        <shareName>studtitle_R242_21</shareName>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <gradeable>true</gradeable>
+        <gradeReleaseOption>Release explicitly by the instructor</gradeReleaseOption>
+        <assignmentpolicyname>Policy4</assignmentpolicyname>
+        <studentname>family givenname</studentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorSideUnAssignAssignmentValidator" index="21_1" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <user_id>IT214_R241Instructor_21_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_21</context_id>
+        <context_title>studtitle_R242_21</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorSideUnAssignAssignmentValidator" index="21_2" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <user_id>IT214_R241Instructor_21_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_21</context_id>
+        <context_title>studtitle_R242_21</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorSideUnAssignAssignmentValidator" index="21_3" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <user_id>IT214_R241Instructor_21_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_21</context_id>
+        <context_title>studtitle_R242_21</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorSideUnAssignAssignmentValidator" index="24" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <assessmentname>ORION Ch 1: The Study of Life</assessmentname>
+        <questionset>IT24_R241_10_QuestionSet</questionset>
+        <questiontext>QuestionText_IT24_R242_24</questiontext>
+        <questiontype>Static Practice</questiontype>
+
+        <user_id>IT244_R241Instructor_24</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R242_24</context_id>
+        <context_title>studtitle_R242_24</context_title>
+
+        <shareWithInitialString>studtitle_R242_24</shareWithInitialString>
+        <shareName>studtitle_R242_24</shareName>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <gradeable>true</gradeable>
+        <gradeReleaseOption>Release explicitly by the instructor</gradeReleaseOption>
+        <assignmentpolicyname>Policy4</assignmentpolicyname>
+        <studentname>family givenname</studentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorSideUnAssignAssignmentValidator" index="24_1" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <user_id>IT244_R241Instructor_24_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_24</context_id>
+        <context_title>studtitle_R242_24</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorSideUnAssignAssignmentValidator" index="24_2" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <user_id>IT244_R241Instructor_24_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_24</context_id>
+        <context_title>studtitle_R242_24</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorSideUnAssignAssignmentValidator" index="24_3" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <user_id>IT244_R241Instructor_24_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_24</context_id>
+        <context_title>studtitle_R242_24</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorSideUnAssignAssignmentValidator" index="27" method="instructorToBeAbleToUnAssignAssignmentInPolicy1">
+        <assessmentname>Assessment_IT24_R242_27</assessmentname>
+        <questionset>IT24_R241_10_QuestionSet</questionset>
+        <questiontext>QuestionText_IT24_R242_27</questiontext>
+        <questiontype>Static Practice</questiontype>
+
+        <user_id>IT274_R241Instructor_27</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R242_27</context_id>
+        <context_title>studtitle_R242_27</context_title>
+
+        <shareWithInitialString>studtitle_R242_27</shareWithInitialString>
+        <shareName>studtitle_R242_27</shareName>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <gradeable>true</gradeable>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorSideUnAssignAssignmentValidator" index="27_1" method="instructorToBeAbleToUnAssignAssignmentInPolicy1">
+        <user_id>IT274_R241Instructor_27_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_27</context_id>
+        <context_title>studtitle_R242_27</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorSideUnAssignAssignmentValidator" index="27_2" method="instructorToBeAbleToUnAssignAssignmentInPolicy1">
+        <user_id>IT274_R241Instructor_27_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_27</context_id>
+        <context_title>studtitle_R242_27</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorSideUnAssignAssignmentValidator" index="27_3" method="instructorToBeAbleToUnAssignAssignmentInPolicy1">
+        <user_id>IT274_R241Instructor_27_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_27</context_id>
+        <context_title>studtitle_R242_27</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorSideUnAssignAssignmentValidator" index="30" method="instructorToBeAbleToUnAssignAssignmentInPolicy1">
+        <assessmentname>Assessment_IT24_R242_30</assessmentname>
+        <questionset>IT24_R241_10_QuestionSet</questionset>
+        <questiontext>QuestionText_IT24_R242_30</questiontext>
+        <questiontype>Static Practice</questiontype>
+
+        <user_id>IT304_R241Instructor_30</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R242_30</context_id>
+        <context_title>studtitle_R242_30</context_title>
+
+        <shareWithInitialString>studtitle_R242_30</shareWithInitialString>
+        <shareName>studtitle_R242_30</shareName>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <gradeable>true</gradeable>
+        <gradeReleaseOption>Auto-release on assignment submission</gradeReleaseOption>
+        <assignmentpolicyname>Policy1</assignmentpolicyname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorSideUnAssignAssignmentValidator" index="30_1" method="instructorToBeAbleToUnAssignAssignmentInPolicy1">
+        <user_id>IT304_R241Instructor_30_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_30</context_id>
+        <context_title>studtitle_R242_30</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorSideUnAssignAssignmentValidator" index="30_2" method="instructorToBeAbleToUnAssignAssignmentInPolicy1">
+        <user_id>IT304_R241Instructor_30_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_30</context_id>
+        <context_title>studtitle_R242_30</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorSideUnAssignAssignmentValidator" index="30_3" method="instructorToBeAbleToUnAssignAssignmentInPolicy1">
+        <user_id>IT304_R241Instructor_30_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_30</context_id>
+        <context_title>studtitle_R242_30</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorSideUnAssignAssignmentValidator" index="32" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <assessmentname>Assessment_IT24_R242_32</assessmentname>
+        <questionset>IT24_R241_10_QuestionSet</questionset>
+        <questiontext>QuestionText_IT24_R242_32</questiontext>
+        <questiontype>Static Practice</questiontype>
+
+        <user_id>IT324_R241Instructor_32</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R242_32</context_id>
+        <context_title>studtitle_R242_32</context_title>
+
+        <shareWithInitialString>studtitle_R242_32</shareWithInitialString>
+        <shareName>studtitle_R242_32</shareName>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <gradeable>true</gradeable>
+        <gradeReleaseOption>Auto-release on due date</gradeReleaseOption>
+        <assignmentpolicyname>Policy2</assignmentpolicyname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorSideUnAssignAssignmentValidator" index="32_1" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <user_id>IT324_R241Instructor_32_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_32</context_id>
+        <context_title>studtitle_R242_32</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorSideUnAssignAssignmentValidator" index="32_2" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <user_id>IT324_R241Instructor_32_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_32</context_id>
+        <context_title>studtitle_R242_32</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorSideUnAssignAssignmentValidator" index="32_3" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <user_id>IT324_R241Instructor_32_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_32</context_id>
+        <context_title>studtitle_R242_32</context_title>
+    </testcase>
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorSideUnAssignAssignmentValidator" index="34" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <assessmentname>Assessment_IT24_R242_34</assessmentname>
+        <questionset>IT24_R241_10_QuestionSet</questionset>
+        <questiontext>QuestionText_IT24_R242_34</questiontext>
+        <questiontype>Static Practice</questiontype>
+
+        <user_id>IT344_R241Instructor_34</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R242_34</context_id>
+        <context_title>studtitle_R242_34</context_title>
+
+        <shareWithInitialString>studtitle_R242_34</shareWithInitialString>
+        <shareName>studtitle_R242_34</shareName>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <gradeable>true</gradeable>
+        <gradeReleaseOption>Release as they are being graded</gradeReleaseOption>
+        <assignmentpolicyname>Policy3</assignmentpolicyname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorSideUnAssignAssignmentValidator" index="34_1" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <user_id>IT344_R241Instructor_34_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_34</context_id>
+        <context_title>studtitle_R242_34</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorSideUnAssignAssignmentValidator" index="34_2" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <user_id>IT344_R241Instructor_34_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_34</context_id>
+        <context_title>studtitle_R242_34</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorSideUnAssignAssignmentValidator" index="34_3" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <user_id>IT344_R241Instructor_34_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_34</context_id>
+        <context_title>studtitle_R242_34</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorSideUnAssignAssignmentValidator" index="36" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <assessmentname>Assessment_IT24_R242_36</assessmentname>
+        <questionset>IT24_R241_10_QuestionSet</questionset>
+        <questiontext>QuestionText_IT24_R242_36</questiontext>
+        <questiontype>Static Practice</questiontype>
+
+        <user_id>IT364_R241Instructor_36</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R242_36</context_id>
+        <context_title>studtitle_R242_36</context_title>
+
+        <shareWithInitialString>studtitle_R242_36</shareWithInitialString>
+        <shareName>studtitle_R242_36</shareName>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <gradeable>true</gradeable>
+        <gradeReleaseOption>Release explicitly by the instructor</gradeReleaseOption>
+        <assignmentpolicyname>Policy4</assignmentpolicyname>
+
+        <studentname>family givenname</studentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorSideUnAssignAssignmentValidator" index="36_1" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <user_id>IT364_R241Instructor_36_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_36</context_id>
+        <context_title>studtitle_R242_36</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorSideUnAssignAssignmentValidator" index="36_2" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <user_id>IT364_R241Instructor_36_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_36</context_id>
+        <context_title>studtitle_R242_36</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorSideUnAssignAssignmentValidator" index="36_3" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <user_id>IT364_R241Instructor_36_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_36</context_id>
+        <context_title>studtitle_R242_36</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.StudentSideUnAssignAssignmentValidator" index="45" method="instructorToBeAbleToUnAssignAssignmentInPolicy1">
+        <assessmentname>Assessment_IT24_R242_45_2</assessmentname>
+        <questionset>IT24_R241_10_QuestionSet</questionset>
+        <questiontext>QuestionText_IT24_R242_45</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+
+        <user_id>IT454_R241Instructor_45</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R242_45</context_id>
+        <context_title>studtitle_R242_45</context_title>
+
+        <shareWithInitialString>studtitle_R242_45</shareWithInitialString>
+        <shareName>studtitle_R242_45</shareName>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <gradeable>true</gradeable>
+        <gradeReleaseOption>Auto-release on assignment submission</gradeReleaseOption>
+        <assignmentpolicyname>Policy1</assignmentpolicyname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.StudentSideUnAssignAssignmentValidator" index="45_1" method="instructorToBeAbleToUnAssignAssignmentInPolicy1">
+        <user_id>IT454_R241Instructor_45_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_45</context_id>
+        <context_title>studtitle_R242_45</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.StudentSideUnAssignAssignmentValidator" index="45_2" method="instructorToBeAbleToUnAssignAssignmentInPolicy1">
+        <user_id>IT454_R241Instructor_45_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_45</context_id>
+        <context_title>studtitle_R242_45</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.StudentSideUnAssignAssignmentValidator" index="45_3" method="instructorToBeAbleToUnAssignAssignmentInPolicy1">
+        <user_id>IT454_R241Instructor_45_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_45</context_id>
+        <context_title>studtitle_R242_45</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.StudentSideUnAssignAssignmentValidator" index="46" method="instructorToBeAbleToUnAssignAssignmentInPolicy1">
+        <assessmentname>Assessment_IT24_R242_46</assessmentname>
+        <questionset>IT24_R241_10_QuestionSet</questionset>
+        <questiontext>QuestionText_IT24_R242_45</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+
+        <shareWithInitialString>studtitle_R242_45</shareWithInitialString>
+        <shareName>studtitle_R242_45</shareName>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <gradeable>true</gradeable>
+        <gradeReleaseOption>Auto-release on assignment submission</gradeReleaseOption>
+        <assignmentpolicyname>Policy1</assignmentpolicyname>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorSideUnAssignAssignmentValidator" index="87" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <assessmentname>Assessment_IT24_R242_87</assessmentname>
+        <questionset>IT24_R241_10_QuestionSet</questionset>
+        <questiontext>QuestionText_IT24_R242_87</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+
+        <user_id>IT874_R241Instructor_87</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R242_87</context_id>
+        <context_title>studtitle_R242_87</context_title>
+
+        <shareWithInitialString>studtitle_R242_87</shareWithInitialString>
+        <shareName>studtitle_R242_87</shareName>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <gradeable>true</gradeable>
+        <gradeReleaseOption>Auto-release on due date</gradeReleaseOption>
+        <assignmentpolicyname>Policy2</assignmentpolicyname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorSideUnAssignAssignmentValidator" index="87_1" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <user_id>IT874_R241Instructor_87_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_87</context_id>
+        <context_title>studtitle_R242_87</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorSideUnAssignAssignmentValidator" index="87_2" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <user_id>IT874_R241Instructor_87_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_87</context_id>
+        <context_title>studtitle_R242_87</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorSideUnAssignAssignmentValidator" index="87_3" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <user_id>IT874_R241Instructor_87_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_87</context_id>
+        <context_title>studtitle_R242_87</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorSideUnAssignAssignmentValidator" index="88" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <assessmentname>Assessment_IT24_R242_88</assessmentname>
+        <questionset>IT24_R241_10_QuestionSet</questionset>
+        <questiontext>QuestionText_IT24_R242_88</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+
+        <user_id>IT874_R241Instructor_87</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R242_87</context_id>
+        <context_title>studtitle_R242_87</context_title>
+
+        <shareWithInitialString>studtitle_R242_87</shareWithInitialString>
+        <shareName>studtitle_R242_87</shareName>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <gradeable>true</gradeable>
+        <gradeReleaseOption>Auto-release on due date</gradeReleaseOption>
+        <assignmentpolicyname>Policy2</assignmentpolicyname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorSideUnAssignAssignmentValidator" index="129" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <assessmentname>Assessment_IT24_R242_129</assessmentname>
+        <questionset>IT24_R241_10_QuestionSet</questionset>
+        <questiontext>QuestionText_IT24_R242_129</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+
+        <user_id>IT1294_R241Instructor_129</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R242_129</context_id>
+        <context_title>studtitle_R242_129</context_title>
+
+        <shareWithInitialString>studtitle_R242_129</shareWithInitialString>
+        <shareName>studtitle_R242_129</shareName>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <gradeable>true</gradeable>
+        <gradeReleaseOption>Release as they are being graded</gradeReleaseOption>
+        <assignmentpolicyname>Policy3</assignmentpolicyname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorSideUnAssignAssignmentValidator" index="129_1" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <user_id>IT1294_R241Instructor_129_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_129</context_id>
+        <context_title>studtitle_R242_129</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorSideUnAssignAssignmentValidator" index="129_2" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <user_id>IT1294_R241Instructor_129_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_129</context_id>
+        <context_title>studtitle_R242_129</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorSideUnAssignAssignmentValidator" index="129_3" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <user_id>IT1294_R241Instructor_129_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_129</context_id>
+        <context_title>studtitle_R242_129</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorSideUnAssignAssignmentValidator" index="130" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <assessmentname>Assessment_IT24_R242_130</assessmentname>
+        <questionset>IT24_R241_10_QuestionSet</questionset>
+        <questiontext>QuestionText_IT24_R242_129</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+
+        <user_id>IT1294_R241Instructor_129</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R242_129</context_id>
+        <context_title>studtitle_R242_129</context_title>
+
+        <shareWithInitialString>studtitle_R242_129</shareWithInitialString>
+        <shareName>studtitle_R242_129</shareName>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <gradeable>true</gradeable>
+        <gradeReleaseOption>Release as they are being graded</gradeReleaseOption>
+        <assignmentpolicyname>Policy3</assignmentpolicyname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorSideUnAssignAssignmentValidator" index="172" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <assessmentname>Assessment_IT24_R242_172</assessmentname>
+        <questionset>IT24_R241_10_QuestionSet</questionset>
+        <questiontext>QuestionText_IT24_R242_172</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+
+        <user_id>IT1724_R241Instructor_172</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R242_172</context_id>
+        <context_title>studtitle_R242_172</context_title>
+
+        <shareWithInitialString>studtitle_R242_172</shareWithInitialString>
+        <shareName>studtitle_R242_172</shareName>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <gradeable>true</gradeable>
+        <gradeReleaseOption>Release explicitly by the instructor</gradeReleaseOption>
+        <assignmentpolicyname>Policy4</assignmentpolicyname>
+
+        <studentname>family givenname</studentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorSideUnAssignAssignmentValidator" index="172_1" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <user_id>IT1724_R241Instructor_172_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_172</context_id>
+        <context_title>studtitle_R242_172</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorSideUnAssignAssignmentValidator" index="172_2" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <user_id>IT1724_R241Instructor_172_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_172</context_id>
+        <context_title>studtitle_R242_172</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorSideUnAssignAssignmentValidator" index="172_3" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <user_id>IT1724_R241Instructor_172_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_172</context_id>
+        <context_title>studtitle_R242_172</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorSideUnAssignAssignmentValidator" index="173" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <assessmentname>Assessment_IT24_R242_173</assessmentname>
+        <questionset>IT24_R241_10_QuestionSet</questionset>
+        <questiontext>QuestionText_IT24_R242_172</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+
+        <user_id>IT1724_R241Instructor_172</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R242_172</context_id>
+        <context_title>studtitle_R242_172</context_title>
+
+        <shareWithInitialString>studtitle_R242_172</shareWithInitialString>
+        <shareName>studtitle_R242_172</shareName>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <gradeable>true</gradeable>
+        <gradeReleaseOption>Release explicitly by the instructor</gradeReleaseOption>
+        <assignmentpolicyname>Policy4</assignmentpolicyname>
+
+        <studentname>family givenname</studentname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.StudentSideUnAssignAssignmentValidator" index="213" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <assessmentname>ORION Ch 1: The Study of Life</assessmentname>
+        <questionset>IT213_R2131_10_QuestionSet</questionset>
+        <questiontext>QuestionText_IT213_R2132_213</questiontext>
+        <questiontype>Static Practice</questiontype>
+
+        <user_id>IT2134_R2131Instructor_213</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R2132_213</context_id>
+        <context_title>studtitle_R2132_213</context_title>
+
+        <shareWithInitialString>studtitle_R2132_213</shareWithInitialString>
+        <shareName>studtitle_R2132_213</shareName>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <gradeable>true</gradeable>
+        <gradeReleaseOption>Release explicitly by the instructor</gradeReleaseOption>
+        <assignmentpolicyname>Policy4</assignmentpolicyname>
+        <studentname>family givenname</studentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.StudentSideUnAssignAssignmentValidator" index="213_1" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <user_id>IT2134_R2131Instructor_213_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R2132_213</context_id>
+        <context_title>studtitle_R2132_213</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.StudentSideUnAssignAssignmentValidator" index="213_2" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <user_id>IT2134_R2131Instructor_213_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R2132_213</context_id>
+        <context_title>studtitle_R2132_213</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.StudentSideUnAssignAssignmentValidator" index="213_3" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <user_id>IT2134_R2131Instructor_213_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R2132_213</context_id>
+        <context_title>studtitle_R2132_213</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.StudentSideUnAssignAssignmentValidator" index="214" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <assessmentname>ORION Ch 2: The Chemical Foundation of Life</assessmentname>
+        <questionset>IT213_R2131_10_QuestionSet</questionset>
+        <questiontext>QuestionText_IT213_R2132_213</questiontext>
+        <questiontype>Static Practice</questiontype>
+
+        <user_id>IT2134_R2131Instructor_213</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R2132_213</context_id>
+        <context_title>studtitle_R2132_213</context_title>
+
+        <shareWithInitialString>studtitle_R2132_213</shareWithInitialString>
+        <shareName>studtitle_R2132_213</shareName>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <gradeable>true</gradeable>
+        <gradeReleaseOption>Release explicitly by the instructor</gradeReleaseOption>
+        <assignmentpolicyname>Policy4</assignmentpolicyname>
+        <studentname>family givenname</studentname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.StudentSideUnAssignAssignmentValidator" index="255" method="instructorToBeAbleToUnAssignAssignmentInPolicy1">
+        <assessmentname>Assessment_IT24_R242_255</assessmentname>
+        <questionset>IT24_R241_10_QuestionSet</questionset>
+        <questiontext>QuestionText_IT24_R242_255</questiontext>
+        <questiontype>Static Practice</questiontype>
+
+        <user_id>IT2554_R241Instructor_255</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R242_255</context_id>
+        <context_title>studtitle_R242_255</context_title>
+
+        <shareWithInitialString>studtitle_R242_255</shareWithInitialString>
+        <shareName>studtitle_R242_255</shareName>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <gradeable>true</gradeable>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.StudentSideUnAssignAssignmentValidator" index="255_1" method="instructorToBeAbleToUnAssignAssignmentInPolicy1">
+        <user_id>IT2554_R241Instructor_255_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_255</context_id>
+        <context_title>studtitle_R242_255</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.StudentSideUnAssignAssignmentValidator" index="255_2" method="instructorToBeAbleToUnAssignAssignmentInPolicy1">
+        <user_id>IT2554_R241Instructor_255_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_255</context_id>
+        <context_title>studtitle_R242_255</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.StudentSideUnAssignAssignmentValidator" index="255_3" method="instructorToBeAbleToUnAssignAssignmentInPolicy1">
+        <user_id>IT2554_R241Instructor_255_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_255</context_id>
+        <context_title>studtitle_R242_255</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.StudentSideUnAssignAssignmentValidator" index="278" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <assessmentname>Assessment_IT24_R242_278</assessmentname>
+        <questionset>IT24_R241_10_QuestionSet</questionset>
+        <questiontext>QuestionText_IT24_R242_278</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+
+
+        <user_id>IT2784_R241Instructor_278</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R242_278</context_id>
+        <context_title>studtitle_R242_278</context_title>
+
+        <shareWithInitialString>studtitle_R242_278</shareWithInitialString>
+        <shareName>studtitle_R242_278</shareName>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <gradeReleaseOption>Auto-release on assignment submission</gradeReleaseOption>
+        <assignmentpolicyname>Policy1</assignmentpolicyname>
+        <gradeable>false</gradeable>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.StudentSideUnAssignAssignmentValidator" index="278_1" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <user_id>IT2784_R241Instructor_278_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_278</context_id>
+        <context_title>studtitle_R242_278</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.StudentSideUnAssignAssignmentValidator" index="278_2" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <user_id>IT2784_R241Instructor_278_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_278</context_id>
+        <context_title>studtitle_R242_278</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.StudentSideUnAssignAssignmentValidator" index="278_3" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <user_id>IT2784_R241Instructor_278_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_278</context_id>
+        <context_title>studtitle_R242_278</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorUnAssignAssignmentValidator" index="321" method="instructorToBeAbleToUnAssignAssignmentInPolicy1">
+         <assessmentname>Assessment_IT24_R242_321_2</assessmentname>
+        <questionset>IT24_R241_10_QuestionSet</questionset>
+        <questiontext>QuestionText_IT24_R242_321</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+
+        <user_id>IT3214_R241Instructor_321</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R242_321</context_id>
+        <context_title>studtitle_R242_321</context_title>
+
+        <shareWithInitialString>studtitle_R242_321</shareWithInitialString>
+        <shareName>studtitle_R242_321</shareName>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <gradeable>true</gradeable>
+        <gradeReleaseOption>Auto-release on assignment submission</gradeReleaseOption>
+        <assignmentpolicyname>Policy1</assignmentpolicyname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorUnAssignAssignmentValidator" index="321_1" method="instructorToBeAbleToUnAssignAssignmentInPolicy1">
+        <user_id>IT3214_R241Instructor_321_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_321</context_id>
+        <context_title>studtitle_R242_321</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorUnAssignAssignmentValidator" index="321_2" method="instructorToBeAbleToUnAssignAssignmentInPolicy1">
+        <user_id>IT3214_R241Instructor_321_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_321</context_id>
+        <context_title>studtitle_R242_321</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorUnAssignAssignmentValidator" index="321_3" method="instructorToBeAbleToUnAssignAssignmentInPolicy1">
+        <user_id>IT3214_R241Instructor_321_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_321</context_id>
+        <context_title>studtitle_R242_321</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.InstructorUnAssignAssignmentValidator" index="322" method="instructorToBeAbleToUnAssignAssignmentInPolicy1">
+        <assessmentname>Assessment_IT24_R242_322</assessmentname>
+        <questionset>IT24_R241_10_QuestionSet</questionset>
+        <questiontext>QuestionText_IT24_R242_321</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+
+        <shareWithInitialString>studtitle_R242_321</shareWithInitialString>
+        <shareName>studtitle_R242_321</shareName>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <gradeable>true</gradeable>
+        <gradeReleaseOption>Auto-release on assignment submission</gradeReleaseOption>
+        <assignmentpolicyname>Policy1</assignmentpolicyname>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.LSCourseStudentSideUnAssignAssignmentValidator" index="643" method="instructorToBeAbleToUnAssignAssignmentInPolicy1">
+        <assessmentname>Assessment_IT24_R242_643_2</assessmentname>
+        <questionset>IT24_R241_10_QuestionSet</questionset>
+        <questiontext>QuestionText_IT24_R242_643</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+
+        <user_id>IT6434_R241Instructor_643</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R242_643</context_id>
+        <context_title>studtitle_R242_643</context_title>
+
+        <shareWithInitialString>studtitle_R242_643</shareWithInitialString>
+        <shareName>studtitle_R242_643</shareName>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <gradeable>true</gradeable>
+        <gradeReleaseOption>Auto-release on assignment submission</gradeReleaseOption>
+        <assignmentpolicyname>Policy1</assignmentpolicyname>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.LSCourseStudentSideUnAssignAssignmentValidator" index="643_1" method="instructorToBeAbleToUnAssignAssignmentInPolicy1">
+        <user_id>IT6434_R241Instructor_643_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_643</context_id>
+        <context_title>studtitle_R242_643</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.LSCourseStudentSideUnAssignAssignmentValidator" index="643_2" method="instructorToBeAbleToUnAssignAssignmentInPolicy1">
+        <user_id>IT6434_R241Instructor_643_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_643</context_id>
+        <context_title>studtitle_R242_643</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.LSCourseStudentSideUnAssignAssignmentValidator" index="643_3" method="instructorToBeAbleToUnAssignAssignmentInPolicy1">
+        <user_id>IT6434_R241Instructor_643_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_643</context_id>
+        <context_title>studtitle_R242_643</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.LSCourseStudentSideUnAssignAssignmentValidator" index="644" method="instructorToBeAbleToUnAssignAssignmentInPolicy1">
+        <assessmentname>Assessment_IT24_R242_46</assessmentname>
+        <questionset>IT24_R241_10_QuestionSet</questionset>
+        <questiontext>QuestionText_IT24_R242_643</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+
+        <shareWithInitialString>studtitle_R242_643</shareWithInitialString>
+        <shareName>studtitle_R242_643</shareName>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <gradeable>true</gradeable>
+        <gradeReleaseOption>Auto-release on assignment submission</gradeReleaseOption>
+        <assignmentpolicyname>Policy1</assignmentpolicyname>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.LSCourseStudentSideUnAssignAssignmentValidator" index="660" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <assessmentname>Assessment_IT24_R242_660</assessmentname>
+        <questionset>IT24_R241_10_QuestionSet</questionset>
+        <questiontext>QuestionText_IT24_R242_660</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+
+        <user_id>IT6604_R241Instructor_660</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R242_660</context_id>
+        <context_title>studtitle_R242_660</context_title>
+
+        <shareWithInitialString>studtitle_R242_660</shareWithInitialString>
+        <shareName>studtitle_R242_660</shareName>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <gradeable>true</gradeable>
+        <gradeReleaseOption>Auto-release on due date</gradeReleaseOption>
+        <assignmentpolicyname>Policy2</assignmentpolicyname>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.LSCourseStudentSideUnAssignAssignmentValidator" index="660_1" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <user_id>IT6604_R241Instructor_660_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_660</context_id>
+        <context_title>studtitle_R242_660</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.LSCourseStudentSideUnAssignAssignmentValidator" index="660_2" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <user_id>IT6604_R241Instructor_660_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_660</context_id>
+        <context_title>studtitle_R242_660</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.LSCourseStudentSideUnAssignAssignmentValidator" index="660_3" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <user_id>IT6604_R241Instructor_660_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_660</context_id>
+        <context_title>studtitle_R242_660</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.LSCourseStudentSideUnAssignAssignmentValidator" index="661" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <assessmentname>Assessment_IT24_R242_88</assessmentname>
+        <questionset>IT24_R241_10_QuestionSet</questionset>
+        <questiontext>QuestionText_IT24_R242_88</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+
+        <user_id>IT6604_R241Instructor_660</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R242_660</context_id>
+        <context_title>studtitle_R242_660</context_title>
+
+        <shareWithInitialString>studtitle_R242_660</shareWithInitialString>
+        <shareName>studtitle_R242_660</shareName>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <gradeable>true</gradeable>
+        <gradeReleaseOption>Auto-release on due date</gradeReleaseOption>
+        <assignmentpolicyname>Policy2</assignmentpolicyname>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.LSCourseStudentSideUnAssignAssignmentValidator" index="677" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <assessmentname>Assessment_IT24_R242_677</assessmentname>
+        <questionset>IT24_R241_10_QuestionSet</questionset>
+        <questiontext>QuestionText_IT24_R242_677</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+
+        <user_id>IT6774_R241Instructor_677</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R242_677</context_id>
+        <context_title>studtitle_R242_677</context_title>
+
+        <shareWithInitialString>studtitle_R242_677</shareWithInitialString>
+        <shareName>studtitle_R242_677</shareName>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <gradeable>true</gradeable>
+        <gradeReleaseOption>Release as they are being graded</gradeReleaseOption>
+        <assignmentpolicyname>Policy3</assignmentpolicyname>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.LSCourseStudentSideUnAssignAssignmentValidator" index="677_1" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <user_id>IT6774_R241Instructor_677_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_677</context_id>
+        <context_title>studtitle_R242_677</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.LSCourseStudentSideUnAssignAssignmentValidator" index="677_2" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <user_id>IT6774_R241Instructor_677_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_677</context_id>
+        <context_title>studtitle_R242_677</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.LSCourseStudentSideUnAssignAssignmentValidator" index="677_3" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <user_id>IT6774_R241Instructor_677_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_677</context_id>
+        <context_title>studtitle_R242_677</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.LSCourseStudentSideUnAssignAssignmentValidator" index="678" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <assessmentname>Assessment_IT24_R242_130</assessmentname>
+        <questionset>IT24_R241_10_QuestionSet</questionset>
+        <questiontext>QuestionText_IT24_R242_677</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+
+        <user_id>IT6774_R241Instructor_677</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R242_677</context_id>
+        <context_title>studtitle_R242_677</context_title>
+
+        <shareWithInitialString>studtitle_R242_677</shareWithInitialString>
+        <shareName>studtitle_R242_677</shareName>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <gradeable>true</gradeable>
+        <gradeReleaseOption>Release as they are being graded</gradeReleaseOption>
+        <assignmentpolicyname>Policy3</assignmentpolicyname>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.LSCourseStudentSideUnAssignAssignmentValidator" index="694" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <assessmentname>Assessment_IT24_R242_694</assessmentname>
+        <questionset>IT24_R241_10_QuestionSet</questionset>
+        <questiontext>QuestionText_IT24_R242_694</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+
+        <user_id>IT6944_R241Instructor_694</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R242_694</context_id>
+        <context_title>studtitle_R242_694</context_title>
+
+        <shareWithInitialString>studtitle_R242_694</shareWithInitialString>
+        <shareName>studtitle_R242_694</shareName>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <gradeable>true</gradeable>
+        <gradeReleaseOption>Release explicitly by the instructor</gradeReleaseOption>
+        <assignmentpolicyname>Policy4</assignmentpolicyname>
+
+        <studentname>family givenname</studentname>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.LSCourseStudentSideUnAssignAssignmentValidator" index="694_1" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <user_id>IT6944_R241Instructor_694_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_694</context_id>
+        <context_title>studtitle_R242_694</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.LSCourseStudentSideUnAssignAssignmentValidator" index="694_2" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <user_id>IT6944_R241Instructor_694_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_694</context_id>
+        <context_title>studtitle_R242_694</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.LSCourseStudentSideUnAssignAssignmentValidator" index="694_3" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <user_id>IT6944_R241Instructor_694_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_694</context_id>
+        <context_title>studtitle_R242_694</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.LSCourseStudentSideUnAssignAssignmentValidator" index="695" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <assessmentname>Assessment_IT24_R242_173</assessmentname>
+        <questionset>IT24_R241_10_QuestionSet</questionset>
+        <questiontext>QuestionText_IT24_R242_694</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+
+        <user_id>IT6944_R241Instructor_694</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R242_694</context_id>
+        <context_title>studtitle_R242_694</context_title>
+
+        <shareWithInitialString>studtitle_R242_694</shareWithInitialString>
+        <shareName>studtitle_R242_694</shareName>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <gradeable>true</gradeable>
+        <gradeReleaseOption>Release explicitly by the instructor</gradeReleaseOption>
+        <assignmentpolicyname>Policy4</assignmentpolicyname>
+
+        <studentname>family givenname</studentname>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.LSCourseStudentSideUnAssignAssignmentValidator" index="711" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <assessmentname>Assessment_IT24_R242_711</assessmentname>
+        <questionset>IT24_R241_10_QuestionSet</questionset>
+        <questiontext>QuestionText_IT24_R242_711</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+
+
+        <user_id>IT7114_R241Instructor_711</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R242_711</context_id>
+        <context_title>studtitle_R242_711</context_title>
+
+        <shareWithInitialString>studtitle_R242_711</shareWithInitialString>
+        <shareName>studtitle_R242_711</shareName>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <gradeReleaseOption>Auto-release on assignment submission</gradeReleaseOption>
+        <assignmentpolicyname>Policy1</assignmentpolicyname>
+        <gradeable>false</gradeable>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.LSCourseStudentSideUnAssignAssignmentValidator" index="711_1" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <user_id>IT7114_R241Instructor_711_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_711</context_id>
+        <context_title>studtitle_R242_711</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.LSCourseStudentSideUnAssignAssignmentValidator" index="711_2" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <user_id>IT7114_R241Instructor_711_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_711</context_id>
+        <context_title>studtitle_R242_711</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R242.LSCourseStudentSideUnAssignAssignmentValidator" index="711_3" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <user_id>IT7114_R241Instructor_711_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R242_711</context_id>
+        <context_title>studtitle_R242_711</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+</learningspaces>

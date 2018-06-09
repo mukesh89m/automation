@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edulastic>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.expressgrader.CharacteristicsOfExpressGrader" index ="1" method="characteristicsOfExpressGrader">
+        <assessmentname>Regression_SAAllQuestionTypeAssessment_10</assessmentname>
+        <questiontext>question text_SAexpressgrader_question</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <saadmin>true</saadmin>
+        <selectgrade>Grade 1</selectgrade>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>school</privacy>
+        <classCode>true</classCode>
+        <owner>school</owner>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.expressgrader.CharacteristicsOfExpressGrader" index ="4" method="characteristicsOfExpressGrader">
+        <assessmentname>Regression_tlo_questiontype_4</assessmentname>
+        <questiontext>question text_expressgrader_question</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <saadmin>true</saadmin>
+        <selectgrade>Grade 1</selectgrade>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>school</privacy>
+        <classCode>true</classCode>
+        <owner>school</owner>
+        <noofelos>6</noofelos>
+        <learningobjective>true</learningobjective>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.expressgrader.CharacteristicsOfExpressGrader" index ="5" method="characteristicsOfExpressGrader">
+        <assessmentname>Regression_tlo_questiontype_4</assessmentname>
+        <questiontext>question text_expressgrader_question</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <saadmin>true</saadmin>
+        <selectgrade>Grade 1</selectgrade>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>school</privacy>
+        <classCode>true</classCode>
+        <owner>school</owner>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.expressgrader.CharacteristicsOfExpressGrader" index ="5" method="characteristicsOfExpressGrader">
+        <assessmentname>Regression_tlo_questiontype_4</assessmentname>
+        <questiontext>question text_expressgrader_question</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <saadmin>true</saadmin>
+        <selectgrade>Grade 1</selectgrade>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>school</privacy>
+        <classCode>true</classCode>
+        <owner>school</owner>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.expressgrader.CharacteristicsOfExpressGrader" index ="10" method="characteristicsOfExpressGrader">
+        <assessmentname>Regression_SAAllQuestionTypeAssessment_10</assessmentname>
+        <shareWithClass>true</shareWithClass>
+        <saadmin>true</saadmin>
+        <selectgrade>Grade 1</selectgrade>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>school</privacy>
+        <classCode>true</classCode>
+        <owner>school</owner>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.expressgrader.CharacteristicsOfExpressGrader" index ="11" method="characteristicsOfExpressGrader">
+        <assessmentname>Regression_SAMCQexpressgrader_10</assessmentname>
+        <answerchoice>incorrect</answerchoice>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.expressgrader.CharacteristicsOfExpressGrader" index ="12" method="daFlowForPremiumDistrict">
+        <assessmentname>DAdaFlowForPremiumDistrict12</assessmentname>
+        <questiontext>question text_DAdaFlowForPremiumDistrict_question</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <daadmin>true</daadmin>
+        <selectgrade>Grade 1</selectgrade>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>district</privacy>
+        <owner>district</owner>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.expressgrader.CharacteristicsOfExpressGrader" index ="12" method="">
+        <assessmentname>DAdaFlowForPremiumDistrict12</assessmentname>
+        <questiontext>question text_DAdaFlowForPremiumDistrict_question</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <daadmin>true</daadmin>
+        <selectgrade>Grade 1</selectgrade>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>district</privacy>
+        <owner>district</owner>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.expressgrader.CharacteristicsOfExpressGrader" index ="13" method="">
+        <username>true</username>
+        <assessmentname>DAdaFlowForPremiumDistrict12</assessmentname>
+        <questiontext>question text_DAdaFlowForPremiumDistrict_question</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <daadmin>true</daadmin>
+        <selectgrade>Grade 1</selectgrade>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>district</privacy>
+        <owner>district</owner>
+    </testcase>
+</edulastic>

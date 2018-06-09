@@ -1,0 +1,266 @@
+<?xml version="1.0"?>
+<learnon>
+
+    <testcase id = "com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R2213.AssignThisPopupForAssignments" index = "11" method = "assignThisPopupForCustomAssignment">
+        <user_id>instructor_IT22.R13_11</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22.R13_11_1</context_id>
+        <context_title>studtitle_IT22.R13_11_1</context_title>
+        <assessmentname>IT22_R13_11 Assessment</assessmentname>
+        <questionset>IT22_R13_11 Question Set</questionset>
+        <questiontext>"IT22_R13_11 Test Question"</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <customAssignmentName>IT22_R13_11 Custom Assignment</customAssignmentName>
+    </testcase>
+    <testcase id = "com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R2213.AssignThisPopupForAssignments" index = "16" method = "assignThispopupForUsePreCreatedAssignment">
+        <user_id>instructor_IT22.R13_16</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22.R13_16_1</context_id>
+        <context_title>studtitle_IT22.R13_16_1</context_title>
+        <assessmentname>"IT22_R13_16 Assessment"</assessmentname>
+        <questionset>IT22_R13_16 Question Set</questionset>
+        <questiontext>"IT22_R13_16 Test Question"</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <customAssignmentName>IT22_R13_16 Custom Assignment</customAssignmentName>
+    </testcase>
+    <testcase id = "com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R2213.AssignThisPopupForAssignments" index = "22" method = "assignThispopupForFileBasedAssignment">
+        <user_id>instructor_IT22.R13_22</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22.R13_22_1</context_id>
+        <context_title>studtitle_IT22.R13_22_1</context_title>
+        <assessmentname>IT22_R13_22 File Based Assignment</assessmentname>
+        <questionset>IT22_R13_22 Question Set</questionset>
+        <questiontext>"IT22_R13_22 Test Question"</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <filebasedassignmentName>IT22_R13_22 File Based Assignment</filebasedassignmentName>
+        <filename>Testdoc.docx</filename>
+    </testcase>
+    <testcase id = "com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R2213.AssignThisPopupForAssignments" index = "28" method = "assignThispopupForStaticAssessmentAssignAsAssignment">
+        <user_id>instructor_IT22.R13_28</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22.R13_28_1</context_id>
+        <context_title>studtitle_IT22.R13_28_1</context_title>
+        <assessmentname>"IT22_R13_28 Assessment"</assessmentname>
+        <questionset>IT22_R13_28 Question Set</questionset>
+        <questiontext>"IT22_R13_28 Test Question"</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+    <testcase id = "com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R2213.AssignThisPopupForAssignments" index = "40" method = "assignThispopupForAssignmentTab">
+        <user_id>instructor_IT22.R13_40</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22.R13_40_1</context_id>
+        <context_title>studtitle_IT22.R13_40_1</context_title>
+        <assessmentname>IT22_R13_40 Assessment</assessmentname>
+        <questionset>IT22_R13_40 Question Set</questionset>
+        <questiontext>"IT22_R13_40 Test Question"</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <customAssignmentName>IT22_R13_40 Custom Assignment</customAssignmentName>
+    </testcase>
+    <testcase id = "com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R2213.AssignThisPopupForAssignments" index = "47" method = "assignThispopupForMyQuestionBank">
+        <user_id>instructor_IT22.R13_47</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22.R13_47_1</context_id>
+        <context_title>studtitle_IT22.R13_47_1</context_title>
+        <assessmentname>IT22_R13_47 Assessment</assessmentname>
+        <questionset>IT22_R13_47 Question Set</questionset>
+        <questiontext>"IT22_R13_47 Test Question"</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <customAssignmentName>IT22_R13_47 Custom Assignment</customAssignmentName>
+    </testcase>
+    <testcase id = "com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R2213.AssignThisPopupForAssignments" index = "53" method = "assignThiPopupForUpdateCustomAssignment">
+        <user_id>instructor_IT22_R13_53</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R13_53_1</context_id>
+        <context_title>studtitle_IT22_R13_53_1</context_title>
+        <assessmentname>IT22_R13_53 Custom Assignment</assessmentname>
+        <questionset>IT22_R13_53_Question Set</questionset>
+        <questiontext>"IT22_R13_53_Test Question"</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <customAssignmentName>IT22_R13_53 Custom Assignment</customAssignmentName>
+        <shareWithInitialString>stud</shareWithInitialString>
+        <shareName>studtitle_IT22_R13_53_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <gradingpolicystatus>true</gradingpolicystatus>
+    </testcase>
+    <testcase id = "com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R2213.AssignThisPopupForAssignments" index = "60" method = "assignThispopupForUpdateFileBasedAssignment">
+        <user_id>instructor_IT22_R13_60</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R13_60_1</context_id>
+        <context_title>studtitle_IT22_R13_60_1</context_title>
+        <assessmentname>"IT22_R13_60 File Based Assignment"</assessmentname>
+        <questionset>IT22_R13_60 Question Set</questionset>
+        <questiontext>"IT22_R13_60 Test Question"</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <filebasedassignmentName>IT22_R13_60 File Based Assignment</filebasedassignmentName>
+        <filename>Testdoc.docx</filename>
+        <shareWithInitialString>stud</shareWithInitialString>
+        <shareName>studtitle_IT22_R13_60_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <gradingpolicystatus>true</gradingpolicystatus>
+        <totalpoints>2</totalpoints>
+    </testcase>
+    <testcase id = "com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R2213.AssignThisPopupForAssignments" index = "66" method = "assignThispopupForEditAssignment">
+        <user_id>instructor_IT22_R13_66</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R13_66_1</context_id>
+        <context_title>studtitle_IT22_R13_66_1</context_title>
+        <assessmentname>"IT22_R13_66 Custome Assignment"</assessmentname>
+        <questionset>IT22_R13_66 Question Set</questionset>
+        <questiontext>"IT22_R13_66 Test Question"</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <customAssignmentName>"IT22_R13_66 Custome Assignment"</customAssignmentName>
+    </testcase>
+    <testcase id = "com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R2213.LocalizationForMarkbookPage" index = "72" method = "localizationChangesInMarkbookPage">
+        <user_id>instructor_IT22_R13_72</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R13_72_1</context_id>
+        <context_title>studtitle_IT22_R13_72_1</context_title>
+        <assessmentname>"IT22_R13_72 Assignment"</assessmentname>
+        <questionset>IT22_R13_72 Question Set</questionset>
+        <questiontext>"IT22_R13_72 Test Question"</questiontext>
+        <questiontype>Static Practice</questiontype>
+    </testcase>
+    <testcase id = "com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R2213.LogoChanges" index = "89" method = "questionPreviewPage">
+        <assessmentname>"IT22_R13_89 Assignment"</assessmentname>
+        <questionset>IT22_R13_89 Question Set</questionset>
+        <questiontext>"IT22_R13_89 Test Question"</questiontext>
+        <questiontype>Static Practice</questiontype>
+    </testcase>
+    <testcase id = "com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R2213.LogoChanges" index = "99" method = "logoChangesOnTeacherSide">
+        <user_id>instructor_IT22_R13_99</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R13_99_1</context_id>
+        <context_title>studtitle_IT22_R13_99_1</context_title>
+    </testcase>
+    <testcase id = "com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R2213.LogoChanges" index = "108" method = "tryItForAssessment">
+        <user_id>instructor_IT22_R13_108</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R13_108_1</context_id>
+        <context_title>studtitle_IT22_R13_108_1</context_title>
+    </testcase>
+    <testcase id = "com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R2213.LogoChanges" index = "114" method = "tryItForAssessmentAsAssignment">
+        <user_id>instructor_IT22_R13_114</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R13_114_1</context_id>
+        <context_title>studtitle_IT22_R13_114_1</context_title>
+        <assessmentname>IT22_R13_114 Assignment</assessmentname>
+        <questionset>IT22_R13_114 Question Set</questionset>
+        <questiontext>"IT22_R13_114 Test Question"</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <reservforassignment>false</reservforassignment>
+        <shareWithInitialString>stud</shareWithInitialString>
+        <shareName>studtitle_IT22_R13_114_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <gradingpolicystatus>true</gradingpolicystatus>
+    </testcase>
+    <testcase id = "com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R2213.LogoChanges" index = "120" method = "tryItForAssignment">
+        <user_id>instructor_IT22_R13_120</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R13_120_1</context_id>
+        <context_title>studtitle_IT22_R13_120_1</context_title>
+        <assessmentname>IT22_R13_120 Assignment</assessmentname>
+        <customAssignmentName>IT22_R13_120 Assignment</customAssignmentName>
+        <questionset>IT22_R13_120 Question Set</questionset>
+        <questiontext>"IT22_R13_120 Test Question"</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <staticAssessment>IT22_R13_120 Assignment</staticAssessment>
+        <shareWithInitialString>stud</shareWithInitialString>
+        <shareName>studtitle_IT22_R13_120_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <gradingpolicystatus>true</gradingpolicystatus>
+    </testcase>
+    <testcase id = "com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R2213.LogoChanges" index = "126" method = "tryItForAssignmentTab">
+        <user_id>instructor_IT22_R13_126</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R13_126_1</context_id>
+        <context_title>studtitle_IT22_R13_126_1</context_title>
+        <assessmentname>IT22_R13_126 Assignment</assessmentname>
+        <customAssignmentName>IT22_R13_126 Assignment</customAssignmentName>
+        <questionset>IT22_R13_126 Question Set</questionset>
+        <questiontext>"IT22_R13_126 Test Question"</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>stud</shareWithInitialString>
+        <shareName>studtitle_IT22_R13_126_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <gradingpolicystatus>true</gradingpolicystatus>
+    </testcase>
+    <testcase id = "com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R2213.LogoChanges" index = "132" method = "tryItForMyQuestionBank">
+        <user_id>instructor_IT22_R13_132</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R13_132_1</context_id>
+        <context_title>studtitle_IT22_R13_132_1</context_title>
+        <assessmentname>"IT22_R13_132 Assignment"</assessmentname>
+        <customAssignmentName>"IT22_R13_132 Assignment"</customAssignmentName>
+        <questionset>IT22_R13_132 Question Set</questionset>
+        <questiontext>"IT22_R13_132 Test Question"</questiontext>
+        <questiontype>Static Practice</questiontype>
+    </testcase>
+    <testcase id = "com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R2213.LogoChanges" index = "138" method = "tryItForQuestionBank">
+        <user_id>instructor_IT22_R13_138</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R13_138_1</context_id>
+        <context_title>studtitle_IT22_R13_138_1</context_title>
+        <assessmentname>"IT22_R13_138 Assignment"</assessmentname>
+        <customAssignmentName>"IT22_R13_138 Assignment"</customAssignmentName>
+        <questionset>IT22_R13_138 Question Set</questionset>
+        <questiontext>"IT22_R13_138 Test Question"</questiontext>
+        <questiontype>Static Practice</questiontype>
+    </testcase>
+    <testcase id = "com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R2213.LogoChanges" index = "144" method = "tryItForCurrentAssignmentPage">
+        <user_id>instructor_IT22_R13_144</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R13_144_1</context_id>
+        <context_title>studtitle_IT22_R13_144_1</context_title>
+        <assessmentname>"IT22_R13_144 Assignment"</assessmentname>
+        <customAssignmentName>"IT22_R13_144 Assignment"</customAssignmentName>
+        <questionset>IT22_R13_144 Question Set</questionset>
+        <questiontext>"IT22_R13_144 Test Question"</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>stud</shareWithInitialString>
+        <shareName>studtitle_IT22_R13_144_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <gradingpolicystatus>true</gradingpolicystatus>
+    </testcase>
+    <testcase id = "com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R2213.LogoChanges" index = "156" method = "studentDashBoard">
+        <user_id>student_IT22_R13_156</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R13_156_1</context_id>
+        <context_title>studtitle_IT22_R13_156_1</context_title>
+        <assessmentname>"IT22_R13_156 Assignment"</assessmentname>
+        <customAssignmentName>"IT22_R13_156 Assignment"</customAssignmentName>
+        <questionset>IT22_R13_156 Question Set</questionset>
+        <questiontext>"IT22_R13_156 Test Question"</questiontext>
+        <questiontype>Static Practice</questiontype>
+    </testcase>
+</learnon>

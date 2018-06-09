@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false" preserve-order="true" configfailurepolicy="continue">
+    <listeners>
+        <listener class-name="com.snapwiz.selenium.tests.staf.learningspaces.CustomListener" />
+    </listeners>
+  <test name="IT 13 Jenkins Suite">
+    <classes>
+        <!--Failures -->
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R163.EnhancementToCustomizeThisFlow"/>
+
+
+        <!-- IT16 R16.1 As a publisher admin I should be able to manage announcements for Learning Spaces and ORION -->
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R161.PublisherAdminAbleToLoginAndViewDashboard"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R161.PublisherAdminAbleToCreateNewAnnoucement"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R161.PublishAdminAbleToDeleteAnnouncement"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R161.UserAbleToViewAddedAnnouncment"/>
+
+	    <!-- IT16 R16.2 Ability to show reported question content issue -->
+	    <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R162.ReportAnyContentError"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R162.AuthorShouldBeAbleToReportAnyContentErrors"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R162.AuthorShouldBeAbleToViewTheStatusOfAllContentIssues"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R162.StudentReportContentIssue"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R162.StudentContentErrorReportForDiagnosticQuestions"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R162.VerifyFiltersInContentErrorReportPage"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R162.StudentReportContentIssueForStaticAssessment"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R162.StudentReportContentIssueForNonGradableAssignment"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R162.StudentReportContentIssueForGradableAssignment"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R162.NotificationPopUpForStudentOnSendingContentErrorReport"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R162.InstructorIsAbleToReportContentErrorsInDiagnosticTestReviewPage"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R162.InstructorIsAbleToReportContentErrorsInAdaptiveTestReviewPage"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R162.InstructorIsAbleToReportContentErrorsInStaticAssessment"/>
+
+        <!--R16.3 Enhancement to Instructor Assignment/Resource Navigation-->
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R163.RestructuringOfMainNavigator"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R163.AllResourceTabFunctionality"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R163.SupportForQuestionBanksPage"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R163.InstructorAbleToViewAllResourcesQuestionBanksAcrossAllClassSections"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R163.RestructuringOfMainNavigatorForMentor"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R163.AllResourceTabFunctionalityForMentor"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R163.SupportForQuestionBanksPageForMentor"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R163.EnhancementToCustomizeThisFlowForMentor"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R163.MentorAbleToViewAllResourcesQuestionBanksAcrossAllClassSections"/>
+
+        <!--IT16 R16.5 As an instructor I should be able to view the assigned activity grade book for all students-->
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R165.InstructorAbleToNavigateToGradeBook"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R165.StudentAddedInExistingClass"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R165.VerifyGradebookForAssignmentWithImmediateFeedback"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R165.DiscussionWidgetAsGradableAssignment"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R165.MentorAbleToNavigateToGradeBook"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R165.MentorAddsStudentInExistingClass"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R165.MentorVerifyGradebookForAssignmentWithImmediateFeedback"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R165.MentorAssignsDiscussionWidgetAsGradableAssignment"/>
+
+        <!-- IT16 R16.6 Enhancement to Assignment Policy to support Collaboration -->
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.CreatingAndEditingAssignmentPolicy"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.CreatePolicyAndAttemptAsStudent"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.CreatingAssignmentPolicyFromAssignThisPopup"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.SubmitAssignmentWithCollaborationEnabled"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.SubmitAssignmentWithCollaborationAndImmediateFeedbackEnabled"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.SubmitAssignmentWithCollaborationDisabled"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.SubmitAssignmentWithCollaborationEnabledWithStudentToStudentSocialPolicy"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.SubmitAssignmentWithCollaborationEnabledWithStudentToInstructorSocialPolicy"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.CreatingAndEditingAssignmentPolicyAsMentor"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.MentorCreatePolicyAndAttemptAsStudent"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.MentorCreatingAssignmentPolicyFromAssignThisPopup"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.MentorEnableTheCollaborationField"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.MentorEnablesCollaborationAndImmediateFeedback"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.MentorDisablesAllowCollaborationAndImmediateFeedback"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.MentorAllowsCollaborationEnabledWithStudentToStudentSocialPolicy"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.MentorAllowsCollaborationEnabledWithStudentToInstructorSocialPolicy"/>
+
+        <!-- IT16 R16.7  As a student, I should be able to view the overall score for all my assignments-->
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R167.StudentAbleToViewOverallScoreForAllAssignment"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R167.StudentAbleToViewOverallScoreForDwAssignment"/>
+
+	</classes>
+  </test> <!-- Test -->
+ </suite> <!-- Suite -->

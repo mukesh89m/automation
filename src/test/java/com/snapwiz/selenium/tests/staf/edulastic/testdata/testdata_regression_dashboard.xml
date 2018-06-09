@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edulastic>
+
+
+<testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.dashboard.StudentDashboard" index ="17" method="">
+    <assessmentname>Regression_studentDashboard_Class1Assignment1</assessmentname>
+    <questiontext>question text_studentDashboard_question_17</questiontext>
+    <shareWithClass>true</shareWithClass>
+    <duedate>26</duedate>
+    <duetime>12:00 AM</duetime>
+    <gradable>true</gradable>
+    <gradereleaseoption>On assignment submission</gradereleaseoption>
+    <description>description text</description>
+    <tags>tags tags</tags>
+    <privacy>Public</privacy>
+</testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.dashboard.StudentDashboard" index ="18" method="">
+        <assessmentname>Regression_studentDashboard_Class1Assignment2</assessmentname>
+        <questiontext>question text_studentDashboard_question_18</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <whitelistuser>false</whitelistuser>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.dashboard.StudentDashboard" index ="19" method="">
+        <assessmentname>Regression_studentDashboard_Class1Assignment3</assessmentname>
+        <questiontext>question text_studentDashboard_question_19</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <whitelistuser>false</whitelistuser>
+        <duedate>27</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.dashboard.StudentDashboard" index ="20" method="">
+        <assessmentname>Regression_studentDashboard_Class2Assignment</assessmentname>
+        <questiontext>question text_studentDashboard_question_20</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <whitelistuser>false</whitelistuser>
+        <duedate>24</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.dashboard.StudentDashboard" index ="21" method="">
+        <assessmentname>Regression_studentDashboard_Class3Assignment</assessmentname>
+        <questiontext>question text_studentDashboard_question_21</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <whitelistuser>false</whitelistuser>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+</edulastic>

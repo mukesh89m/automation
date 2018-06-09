@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edulastic>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.e9.questioncentricstudentview.QuestionCentricStudentView" index ="15" method="">
+        <assessmentname>IT1_studentCentricView_15</assessmentname>
+        <questiontext>question text_studentCentricView_15</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.e9.questioncentricstudentview.QuestionCentricStudentView" index ="64" method="">
+    <answerchoice>incorrect</answerchoice>>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.e9.questioncentricstudentview.QuestionCentricStudentView" index ="158" method="">
+        <assessmentname>IT1_student21ResponseDrillDown_158</assessmentname>
+        <questiontext>question text_student21ResponseDrillDownn_158</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.e9.editassessesment.EditAssessment" index ="1" method="">
+        <assessmentname>IT1_editassessmentprivate_1</assessmentname>
+        <questiontext>question text_editassessmentprivate_1</questiontext>
+       <assignasassessment>true</assignasassessment>
+        <whitelistuser>true</whitelistuser>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Private</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.e9.editassessesment.EditAssessment" index ="2" method="">
+        <assessmentname>IT1_editassessmentprivate_2</assessmentname>
+        <questiontext>question text_editassessmentprivate_2</questiontext>
+        <assignasassessment>true</assignasassessment>
+        <whitelistuser>true</whitelistuser>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>School</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.e9.editassessesment.EditAssessment" index ="3" method="">
+        <assessmentname>IT1_editassessmentprivate_3</assessmentname>
+        <questiontext>question text_editassessmentprivate_3</questiontext>
+        <assignasassessment>true</assignasassessment>
+        <whitelistuser>true</whitelistuser>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>District</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.e9.editassessesment.EditAssessment" index ="4" method="">
+        <assessmentname>IT1_editassessmentprivate_4</assessmentname>
+        <questiontext>question text_editassessmentprivate_4</questiontext>
+        <assignasassessment>true</assignasassessment>
+        <whitelistuser>true</whitelistuser>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.e9.editassessesment.EditAssessment" index ="5" method="">
+        <assessmentname>IT1_editassessmentprivate_5</assessmentname>
+        <questiontext>question text_editassessmentprivate_5</questiontext>
+        <whitelistuser>true</whitelistuser>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Private</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.e9.editassessesment.EditAssessment" index ="6" method="">
+        <assessmentname>IT1_editassessmentprivate_6</assessmentname>
+        <questiontext>question text_editassessmentprivate_6</questiontext>
+        <whitelistuser>true</whitelistuser>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <owner>school</owner>
+        <privacy>School</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.e9.editassessesment.EditAssessment" index ="7" method="">
+        <assessmentname>IT1_editassessmentprivate_7</assessmentname>
+        <questiontext>question text_editassessmentprivate_7</questiontext>
+        <whitelistuser>true</whitelistuser>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>District</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.e9.editassessesment.EditAssessment" index ="8" method="">
+        <assessmentname>IT1_editassessmentprivate_8</assessmentname>
+        <questiontext>question text_editassessmentprivate_8</questiontext>
+        <whitelistuser>true</whitelistuser>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.e9.editassessesment.EditAssessmentDeselectResequence" index ="9" method="">
+        <assessmentname>IT1_editassessmentprivate_9</assessmentname>
+        <questiontext>question text_editassessmentprivate_9</questiontext>
+        <assignasassessment>true</assignasassessment>
+        <whitelistuser>true</whitelistuser>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Private</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.e9.editassessesment.EditAssessmentDeselectResequence" index ="10" method="">
+        <assessmentname>IT1_editassessmentprivate_10</assessmentname>
+        <questiontext>question text_editassessmentprivate_10</questiontext>
+        <assignasassessment>true</assignasassessment>
+        <whitelistuser>true</whitelistuser>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>School</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.e9.editassessesment.EditAssessmentDeselectResequence" index ="11" method="">
+        <assessmentname>IT1_editassessmentprivate_11</assessmentname>
+        <questiontext>question text_editassessmentprivate_11</questiontext>
+        <assignasassessment>true</assignasassessment>
+        <whitelistuser>true</whitelistuser>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>District</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.e9.editassessesment.EditAssessmentDeselectResequence" index ="12" method="">
+        <assessmentname>IT1_editassessmentprivate_12</assessmentname>
+        <questiontext>question text_editassessmentprivate_12</questiontext>
+        <assignasassessment>true</assignasassessment>
+        <whitelistuser>true</whitelistuser>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.e9.editassessesment.EditAssessmentDeselectResequence" index ="13" method="">
+        <assessmentname>IT1_editassessmentprivate_13</assessmentname>
+        <questiontext>question text_editassessmentprivate_13</questiontext>
+        <whitelistuser>true</whitelistuser>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Private</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.e9.editassessesment.EditAssessmentDeselectResequence" index ="14" method="">
+        <assessmentname>IT1_editassessmentprivate_14</assessmentname>
+        <questiontext>question text_editassessmentprivate_14</questiontext>
+        <whitelistuser>true</whitelistuser>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>School</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.e9.editassessesment.EditAssessmentDeselectResequence" index ="15" method="">
+        <assessmentname>IT1_editassessmentprivate_15</assessmentname>
+        <questiontext>question text_editassessmentprivate_15</questiontext>
+        <whitelistuser>true</whitelistuser>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>District</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.e9.editassessesment.EditAssessmentDeselectResequence" index ="16" method="">
+        <assessmentname>IT1_editassessmentprivate_16</assessmentname>
+        <questiontext>question text_editassessmentprivate_16</questiontext>
+        <whitelistuser>true</whitelistuser>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.e9.editassessesment.EditAssessmentNoStudentStarted" index ="45" method="">
+        <assessmentname>IT1_editAssessmentNoStudentStarted_16</assessmentname>
+        <questiontext>question text_editAssessmentNoStudentStarted_16</questiontext>
+        <whitelistuser>true</whitelistuser>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.e9.editassessesment.EditAssessmentNoStudentStarted" index ="46" method="">
+        <assessmentname>IT1_editAssessmentNoStudentStarted_46</assessmentname>
+        <questiontext>question text_editAssessmentNoStudentStarted_46</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.e9.editassessesment.EditAssessmentNoStudentStarted" index ="47" method="">
+        <assessmentname>IT1_editassessmentprivate_47</assessmentname>
+        <questiontext>question text_editassessmentprivate_47</questiontext>
+        <assignasassessment>true</assignasassessment>
+        <whitelistuser>true</whitelistuser>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.e9.editassessesment.EditAssessmentNoStudentStarted" index ="48" method="">
+        <assessmentname>IT1_editAssessmentNoStudentStarted_48</assessmentname>
+        <questiontext>question text_editAssessmentNoStudentStarted_48</questiontext>
+        <whitelistuser>true</whitelistuser>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.e9.editassessesment.EditAssessmentNoStudentStarted" index ="51" method="">
+        <assessmentname>IT1_EditAssessmentNoStudentStarted_51</assessmentname>
+        <questiontext>question text_EditAssessmentNoStudentStarted_51</questiontext>
+        <whitelistuser>true</whitelistuser>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.e9.editassessesment.EditAssessmentNoStudentStarted" index ="52" method="">
+        <assessmentname>IT1_editAssessmentNoStudentStarted_52</assessmentname>
+        <questiontext>question text_editAssessmentNoStudentStarted_52</questiontext>
+        <whitelistuser>true</whitelistuser>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+
+
+
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.e9.editassessesment.EditAssessmentNoStudentStarted" index ="56" method="">
+        <assessmentname>IT1_EditAssessmentNoStudentStarted_56</assessmentname>
+        <questiontext>question text_EditAssessmentNoStudentStarted_56</questiontext>
+        <whitelistuser>true</whitelistuser>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.e9.editassessesment.EditAssessmentNoStudentStarted" index ="52" method="">
+        <assessmentname>IT1_editAssessmentNoStudentStarted_52</assessmentname>
+        <questiontext>question text_editAssessmentNoStudentStarted_52</questiontext>
+        <whitelistuser>true</whitelistuser>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+
+
+
+
+
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.e9.editassessesment.EditAssessmentNoStudentStarted" index ="56" method="">
+        <assessmentname>IT1_EditAssessmentNoStudentStarted_56</assessmentname>
+        <questiontext>question text_EditAssessmentNoStudentStarted_56</questiontext>
+        <whitelistuser>true</whitelistuser>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.e9.editassessesment.EditAssessmentNoStudentStarted" index ="52" method="">
+        <assessmentname>IT1_editAssessmentNoStudentStarted_52</assessmentname>
+        <questiontext>question text_editAssessmentNoStudentStarted_52</questiontext>
+        <whitelistuser>true</whitelistuser>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+
+
+
+
+
+
+</edulastic>

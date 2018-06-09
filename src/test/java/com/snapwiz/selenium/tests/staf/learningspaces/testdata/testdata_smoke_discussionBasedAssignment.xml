@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.discussionBasedAssignment.DiscussionBasedAssignment" index="3">
+        <user_id>instructor_smoke_discussionBasedAssignment_3</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_discussionBasedAssignment_3</context_id>
+        <context_title>studtitle_discussionBasedAssignment_3</context_title>
+        <assessmentname>Discussion Assignment Name</assessmentname>
+        <shareWithInitialString>studtitle_discussionBasedAssignment_3</shareWithInitialString>
+        <shareName>studtitle_discussionBasedAssignment_3</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignFrom>My Assignments</assignFrom>
+        <discussionAssignment>DiscussionAssignment_3</discussionAssignment>
+        <description>DiscussionAssignmentDescription_3</description>
+        <totalPoints>20</totalPoints>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.discussionBasedAssignment.DiscussionBasedAssignment" index="30">
+        <user_id>instructor_smoke_discussionBasedAssignment_30</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_discussionBasedAssignment_30</context_id>
+        <context_title>studtitle_discussionBasedAssignment_30</context_title>
+
+        <discussionAssignment>DiscussionAssignment_30</discussionAssignment>
+        <description>DiscussionAssignmentDescription_30</description>
+        <totalPoints>20</totalPoints>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.discussionBasedAssignment.DiscussionBasedAssignment" index="34">
+        <user_id>instructor_smoke_discussionBasedAssignment_34</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_discussionBasedAssignment_34</context_id>
+        <context_title>studtitle_discussionBasedAssignment_34</context_title>
+
+        <discussionAssignment>DiscussionAssignment_34</discussionAssignment>
+        <description>DiscussionAssignmentDescription_34</description>
+        <totalPoints>20</totalPoints>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.discussionBasedAssignment.DiscussionBasedAssignment" index="41">
+        <user_id>instructor_smoke_discussionBasedAssignment_41</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_discussionBasedAssignment_41</context_id>
+        <context_title>studtitle_discussionBasedAssignment_41</context_title>
+
+        <discussionAssignment>DiscussionAssignment_41</discussionAssignment>
+        <description>DiscussionAssignmentDescription_41</description>
+        <totalPoints>20</totalPoints>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.discussionBasedAssignment.DiscussionBasedAssignment" index="54">
+        <user_id>instructor_smoke_discussionBasedAssignment_54</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_discussionBasedAssignment_54</context_id>
+        <context_title>studtitle_discussionBasedAssignment_54</context_title>
+
+        <shareWithInitialString>studtitle_discussionBasedAssignment_54</shareWithInitialString>
+        <shareName>studtitle_discussionBasedAssignment_54</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+
+        <discussionAssignment>DiscussionAssignment_54</discussionAssignment>
+        <description>DiscussionAssignmentDescription_54</description>
+        <totalPoints>20</totalPoints>
+        <filename>img.png</filename>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.discussionBasedAssignment.DiscussionBasedAssignment" index="69">
+        <user_id>instructor_smoke_discussionBasedAssignment_69</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_discussionBasedAssignment_69</context_id>
+        <context_title>studtitle_discussionBasedAssignment_69</context_title>
+
+        <shareWithInitialString>studtitle_discussionBasedAssignment_69</shareWithInitialString>
+        <shareName>studtitle_discussionBasedAssignment_69</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+
+        <discussionAssignment>DiscussionAssignment_69</discussionAssignment>
+        <description>DiscussionAssignmentDescription_69</description>
+        <totalPoints>20</totalPoints>
+        <filename>img.png</filename>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.discussionBasedAssignment.DiscussionBasedAssignment" index="70">
+        <user_id>instructor_smoke_discussionBasedAssignment_70</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_discussionBasedAssignment_69</context_id>
+        <context_title>studtitle_discussionBasedAssignment_69</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.discussionBasedAssignment.DiscussionBasedAssignment" index="89">
+        <user_id>instructor_smoke_discussionBasedAssignment_89</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_discussionBasedAssignment_89</context_id>
+        <context_title>studtitle_discussionBasedAssignment_89</context_title>
+
+        <shareWithInitialString>studtitle_discussionBasedAssignment_89</shareWithInitialString>
+        <shareName>studtitle_discussionBasedAssignment_89</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+
+        <discussionAssignment>DiscussionAssignment_89</discussionAssignment>
+        <description>DiscussionAssignmentDescription_89</description>
+        <totalPoints>20</totalPoints>
+        <filename>img.png</filename>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.discussionBasedAssignment.DiscussionBasedAssignment" index="90">
+        <user_id>instructor_smoke_discussionBasedAssignment_90</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_discussionBasedAssignment_89</context_id>
+        <context_title>studtitle_discussionBasedAssignment_89</context_title>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.discussionBasedAssignment.DiscussionBasedAssignment" index="105">
+        <user_id>instructor_smoke_discussionBasedAssignment_105</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_discussionBasedAssignment_105</context_id>
+        <context_title>studtitle_discussionBasedAssignment_105</context_title>
+
+        <shareWithInitialString>studtitle_discussionBasedAssignment_105</shareWithInitialString>
+        <shareName>studtitle_discussionBasedAssignment_105</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+
+        <discussionAssignment>DiscussionAssignment_105</discussionAssignment>
+        <description>DiscussionAssignmentDescription_105</description>
+        <totalPoints>20</totalPoints>
+        <filename>img.png</filename>
+
+        <perspectiveText>This is Student Perspective Text</perspectiveText>
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.discussionBasedAssignment.DiscussionBasedAssignment" index="106">
+        <user_id>instructor_smoke_discussionBasedAssignment_106</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_discussionBasedAssignment_105</context_id>
+        <context_title>studtitle_discussionBasedAssignment_105</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.discussionBasedAssignment.DiscussionBasedAssignment" index="140">
+        <user_id>instructor_smoke_discussionBasedAssignment_140</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_discussionBasedAssignment_140</context_id>
+        <context_title>studtitle_discussionBasedAssignment_140</context_title>
+
+        <shareWithInitialString>studtitle_discussionBasedAssignment_140</shareWithInitialString>
+        <shareName>studtitle_discussionBasedAssignment_140</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+
+        <discussionAssignment>DiscussionAssignment_140</discussionAssignment>
+        <description>DiscussionAssignmentDescription_140</description>
+        <totalPoints>20</totalPoints>
+        <filename>img.png</filename>
+
+        <perspectiveText>This is Student Perspective Text</perspectiveText>
+        <feedbackText>This is instructor feedback</feedbackText>
+        <score>20</score>
+
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.discussionBasedAssignment.DiscussionBasedAssignment" index="141">
+        <user_id>instructor_smoke_discussionBasedAssignment_141</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_discussionBasedAssignment_140</context_id>
+        <context_title>studtitle_discussionBasedAssignment_140</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.discussionBasedAssignment.DiscussionBasedAssignment" index="152">
+        <user_id>instructor_smoke_discussionBasedAssignment_152</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_discussionBasedAssignment_152</context_id>
+        <context_title>studtitle_discussionBasedAssignment_152</context_title>
+
+        <shareWithInitialString>studtitle_discussionBasedAssignment_152</shareWithInitialString>
+        <shareName>studtitle_discussionBasedAssignment_152</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+
+        <discussionAssignment>DiscussionAssignment_152</discussionAssignment>
+        <description>DiscussionAssignmentDescription_152</description>
+        <totalPoints>20</totalPoints>
+        <filename>img.png</filename>
+
+        <perspectiveText>This is Student Perspective Text</perspectiveText>
+        <feedbackText>This is instructor feedback</feedbackText>
+        <score>20</score>
+
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.discussionBasedAssignment.DiscussionBasedAssignment" index="153">
+        <user_id>instructor_smoke_discussionBasedAssignment_153</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_discussionBasedAssignment_152</context_id>
+        <context_title>studtitle_discussionBasedAssignment_152</context_title>
+    </testcase>
+</learningspaces>

@@ -1,0 +1,1131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.ReleaseGradeForAll" index="11">
+    <user_id>instructor_IT18_R1816_11_1</user_id>
+    <Role>instructor</Role>
+    <context_id>studcontextR1816_11</context_id>
+    <context_title>studtitleR1816_11</context_title>
+    <assessmentname>Assignment_IT18_R1816</assessmentname>
+    <questiontype>Static Practice</questiontype>
+    <questionset>Test Question Set of IT18</questionset>
+    <questiontext>Test Question for IT18</questiontext>
+    <questiontype>Static Practice</questiontype>
+    <shareWithInitialString>studtitleR1816_11</shareWithInitialString>
+    <shareName>studtitleR1816_11</shareName>
+    <shareWithClass>true</shareWithClass>
+    <gradeable>true</gradeable>
+    <gradingpolicy>Grading policy text</gradingpolicy>
+    <duedate>28</duedate>
+    <duetime>12:00 AM</duetime>
+    <additionalnote>This is an additional note</additionalnote>
+</testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.ReleaseGradeForAll" index="11_1">
+        <user_id>student_IT18_R1816_11_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR1816_11</context_id>
+        <context_title>studtitleR1816_11</context_title>
+  </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.ReleaseGradeForAll" index="19">
+        <user_id>instructor_IT18_R1816_199</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext1999</context_id>
+        <context_title>studtitle1999</context_title>
+        <assignmentpolicyname>Policy1999</assignmentpolicyname>
+        <assessmentname>Assignment_IT18_1999</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_19</questionset>
+        <questiontext>Test Question for IT18_19</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle1999</shareWithInitialString>
+        <shareName>studtitle1999</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy1999</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>givenname family</studentname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.ReleaseGradeForAll" index="19_1">
+        <user_id>student_IT18_R1816_199</user_id>
+        <Role>student</Role>
+        <context_id>studcontext1999</context_id>
+        <context_title>studtitle1999</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.ReleaseGradeForAll" index="33">
+        <user_id>instructor_IT18_R1816_33</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext33</context_id>
+        <context_title>studtitle33</context_title>
+        <assignmentpolicyname>Policy33</assignmentpolicyname>
+        <assessmentname>Assignment_IT18_33</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_19</questionset>
+        <questiontext>Test Question for IT18_19</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle33</shareWithInitialString>
+        <shareName>studtitle33</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy33</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>givenname family</studentname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.ReleaseGradeForAll" index="33_1">
+        <user_id>student_IT18_R1816_33</user_id>
+        <Role>student</Role>
+        <context_id>studcontext33</context_id>
+        <context_title>studtitle33</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.ReleaseGradeForAll" index="40">
+        <user_id>instructor_IT18_R1816_40</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext40</context_id>
+        <context_title>studtitle40</context_title>
+        <assignmentpolicyname>Policy40</assignmentpolicyname>
+        <assessmentname>Assignment_IT18_40</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_19</questionset>
+        <questiontext>Test Question for IT18_19</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle40</shareWithInitialString>
+        <shareName>studtitle40</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy40</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>givenname family</studentname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.ReleaseGradeForAll" index="40_1">
+        <user_id>student_IT18_R1816_40</user_id>
+        <Role>student</Role>
+        <context_id>studcontext40</context_id>
+        <context_title>studtitle40</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.ReleaseGradeForAll" index="47">
+        <user_id>instructor_IT18_R1816_47</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext47</context_id>
+        <context_title>studtitle47</context_title>
+        <assessmentname>Assignment_IT18_47</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_19</questionset>
+        <questiontext>Test Question for IT18_19</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle47</shareWithInitialString>
+        <shareName>studtitle47</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.ReleaseGradeForAll" index="47_1">
+        <user_id>student_IT18_R1816_47</user_id>
+        <Role>student</Role>
+        <context_id>studcontext47</context_id>
+        <context_title>studtitle47</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.ReleaseGradeForAll" index="53">
+        <user_id>instructor_IT18_R1816_53_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontexIT18_51_1</context_id>
+        <context_title>studtitleIT18_51_1</context_title>
+        <shareWithInitialString>studtitleIT18_51_1</shareWithInitialString>
+        <shareName>studtitleIT18_51_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>true</gradable>
+        <totalpoints>2</totalpoints>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.ReleaseGradeForAll" index="53_1">
+        <user_id>student_IT18_R1816_53_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontexIT18_51_1</context_id>
+        <context_title>studtitleIT18_51_1</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.ReleaseGradeForAll" index="60">
+        <user_id>instructor_IT18_R1816_60_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextIT18_60</context_id>
+        <context_title>studtitleIT18_60</context_title>
+        <questiontext>Test Question for IT18_19</questiontext>
+        <shareWithInitialString>studtitleIT18_60</shareWithInitialString>
+        <shareName>studtitleIT18_60</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>false</gradable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>givenname family</studentname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.ReleaseGradeForAll" index="60_1">
+        <user_id>student_IT18_R1816_60_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextIT18_60</context_id>
+        <context_title>studtitleIT18_60</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.InstructorEditAndSaveGrade" index="67">
+        <user_id>instructor_IT18_R1816_67_2</user_id>
+        <Role>instructor</Role>
+        <context_id>it1816studcontext67</context_id>
+        <context_title>it1816studtitle67</context_title>
+        <assessmentname>Assignment_IT18_1667</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_67</questionset>
+        <questiontext>Test Question for IT18_67</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>it1816studtitle67</shareWithInitialString>
+        <shareName>it1816studtitle67</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>givenname family</studentname>
+        <grade>0.1</grade>>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.InstructorEditAndSaveGrade" index="67_1">
+        <user_id>student_IT18_R1816_67_2</user_id>
+        <Role>student</Role>
+        <context_id>it1816studcontext67</context_id>
+        <context_title>it1816studtitle67</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.InstructorEditAndSaveGradeForPolicyOne" index="93">
+        <user_id>instructor_IT18_R1816_93_1</user_id>
+        <Role>instructor</Role>
+        <context_id>it18studcontext933</context_id>
+        <context_title>it18studtitle933</context_title>
+        <assignmentpolicyname>Policy93</assignmentpolicyname>
+        <assessmentname>Assignment_IT18_93_1</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_19</questionset>
+        <questiontext>Test Question for IT18_19</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>it18studtitle933</shareWithInitialString>
+        <shareName>it18studtitle933</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy93</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>givenname family</studentname>
+        <grade>0.1</grade>>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.InstructorEditAndSaveGradeForPolicyOne" index="93_1">
+        <user_id>student_IT18_R1816_93_1</user_id>
+        <Role>student</Role>
+        <context_id>it18studcontext933</context_id>
+        <context_title>it18studtitle933</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.InstructorEditAndSaveGradeForPolicyThree" index="145">
+        <user_id>instructor_IT18_R1816_145_12</user_id>
+        <Role>instructor</Role>
+        <context_id>it1816studcontext146</context_id>
+        <context_title>it1816studtitle146</context_title>
+        <assignmentpolicyname>Policy146</assignmentpolicyname>
+        <assessmentname>Assignment_IT18_145</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_145</questionset>
+        <questiontext>Test Question for IT18_145</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>family</shareWithInitialString>
+        <shareName>givenname family</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy146</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>givenname family</studentname>
+        <grade>2.0</grade>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.InstructorEditAndSaveGradeForPolicyThree" index="145_1">
+        <user_id>student_IT18_R1816_145_1</user_id>
+        <Role>student</Role>
+        <context_id>it1816studcontext146</context_id>
+        <context_title>it1816studtitle146</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.InstructorEditAndSaveGradeForPolicyThree" index="146">
+        <grade>0.1</grade>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.InstructorEditAndSaveGradeForPolicyFour" index="171">
+        <user_id>instructor_IT18_R1816_171</user_id>
+        <Role>instructor</Role>
+        <context_id>it1816studcontext171</context_id>
+        <context_title>it1816studtitle171</context_title>
+        <assignmentpolicyname>Policy171</assignmentpolicyname>
+        <assessmentname>Assignment_IT18_171</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_171</questionset>
+        <questiontext>Test Question for IT18_171</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>family</shareWithInitialString>
+        <shareName>givenname family</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy171</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>givenname family</studentname>
+        <grade>0.1</grade>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.InstructorEditAndSaveGradeForPolicyFour" index="171_1">
+        <user_id>student_IT18_R1816_171</user_id>
+        <Role>student</Role>
+        <context_id>it1816studcontext171</context_id>
+        <context_title>it1816studtitle171</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.DashboardTilesUpdateForDWAssignment" index="197">
+        <user_id>instructor_IT18_R1816_197</user_id>
+        <Role>instructor</Role>
+        <context_id>it1816studcontext197</context_id>
+        <context_title>it1816studtitle197</context_title>
+        <shareWithInitialString>it1816studtitle197</shareWithInitialString>
+        <shareName>it1816studtitle197</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>true</gradable>
+        <totalpoints>2</totalpoints>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.DashboardTilesUpdateForDWAssignment" index="197_1">
+        <user_id>student_IT18_R1816_197</user_id>
+        <Role>student</Role>
+        <context_id>it1816studcontext197</context_id>
+        <context_title>it1816studtitle197</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.DashboardTilesUpdateForDWAssignment" index="201">
+        <user_id>instructor_IT18_R1816_201_2</user_id>
+        <Role>instructor</Role>
+        <context_id>it1816studcontext20111</context_id>
+        <context_title>it1816studtitle20111</context_title>
+        <questiontext>Test Question for IT18_201</questiontext>
+        <shareWithInitialString>it1816studtitle20111</shareWithInitialString>
+        <shareName>it1816studtitle20111</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>false</gradable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>Mukesh Mandal</studentname>
+        <!--<studentname>givenname family</studentname>-->
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.DashboardTilesUpdateForDWAssignment" index="201_1">
+        <user_id>student_IT18_R1816_201_1</user_id>
+        <Role>student</Role>
+        <context_id>it1816studcontext20111</context_id>
+        <context_title>it1816studtitle20111</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.DashboardTilesUpdateForDWAssignment" index="202_1">
+        <user_id>student_IT18_R1816_201_2</user_id>
+        <Role>student</Role>
+        <context_id>it1816studcontext20111</context_id>
+        <context_title>it1816studtitle20111</context_title>
+        <familyname>Mandal</familyname>
+        <givenname>Mukesh</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.GradableAssignmentWithoutPolicyInStudentSide" index="204">
+        <user_id>instructor_IT18_R1816_204</user_id>
+        <Role>instructor</Role>
+        <context_id>it1816studcontext204</context_id>
+        <context_title>it1816studtitle204</context_title>
+        <assessmentname>Assignment_IT18_204</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_204</questionset>
+        <questiontext>Test Question for IT18_204</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>it1816studtitle204</shareWithInitialString>
+        <shareName>it1816studtitle204</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>givenname family</studentname>
+        <grade>0.1</grade>>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.GradableAssignmentWithoutPolicyInStudentSide" index="204_1">
+        <user_id>student_IT18_R1816_204</user_id>
+        <Role>student</Role>
+        <context_id>it1816studcontext204</context_id>
+        <context_title>it1816studtitle204</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.GradableAssignmentWithPolicyOneInStudentSide" index="234">
+        <user_id>instructor_IT18_R1816_234</user_id>
+        <Role>instructor</Role>
+        <context_id>it18studcontext234</context_id>
+        <context_title>it18studtitle234</context_title>
+        <assignmentpolicyname>Policy234</assignmentpolicyname>
+        <assessmentname>Assignment_IT18_234</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_234</questionset>
+        <questiontext>Test Question for IT18_234</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>it18studtitle234</shareWithInitialString>
+        <shareName>it18studtitle234</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy234</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>givenname family</studentname>
+        <grade>0.1</grade>>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.GradableAssignmentWithPolicyOneInStudentSide" index="234_1">
+        <user_id>student_IT18_R1816_234</user_id>
+        <Role>student</Role>
+        <context_id>it18studcontext234</context_id>
+        <context_title>it18studtitle234</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.GradableAssignmentWithPolicyThreeInStudentSide" index="294">
+        <user_id>instructor_IT18_R1816_294_1</user_id>
+        <Role>instructor</Role>
+        <context_id>it1816studcontext295</context_id>
+        <context_title>it1816studtitle295</context_title>
+        <assignmentpolicyname>Policy295</assignmentpolicyname>
+        <assessmentname>Assignment_IT18_294</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_145</questionset>
+        <questiontext>Test Question for IT18_145</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>it1816studtitle295</shareWithInitialString>
+        <shareName>it1816studtitle295</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy295</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>givenname family</studentname>
+        <grade>2.0</grade>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.GradableAssignmentWithPolicyThreeInStudentSide" index="294_1">
+        <user_id>student_IT18_R1816_294_1</user_id>
+        <Role>student</Role>
+        <context_id>it1816studcontext295</context_id>
+        <context_title>it1816studtitle295</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.GradableAssignmentWithPolicyThreeInStudentSide" index="295">
+        <grade>0.1</grade>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.GradableAssignmentWithPolicyFourInStudentSide" index="324">
+        <user_id>instructor_IT18_R1816_324</user_id>
+        <Role>instructor</Role>
+        <context_id>it1816studcontext324</context_id>
+        <context_title>it1816studtitle324</context_title>
+        <assignmentpolicyname>Policy324</assignmentpolicyname>
+        <assessmentname>Assignment_IT18_324</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_324</questionset>
+        <questiontext>Test Question for IT18_324</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>it1816studtitle324</shareWithInitialString>
+        <shareName>it1816studtitle324</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy324</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>givenname family</studentname>
+        <grade>0.1</grade>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.GradableAssignmentWithPolicyFourInStudentSide" index="324_1">
+        <user_id>student_IT18_R1816_324</user_id>
+        <Role>student</Role>
+        <context_id>it1816studcontext324</context_id>
+        <context_title>it1816studtitle324</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.NonGradableQuestionType" index="354">
+        <user_id>instructor_IT18_R1816_354_1</user_id>
+        <Role>instructor</Role>
+        <context_id>it1816studcontext354</context_id>
+        <context_title>it1816studtitle354</context_title>
+        <assessmentname>Assignment_IT18_354</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_354</questionset>
+        <questiontext>Test Question for IT18_354</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>it1816studtitle354</shareWithInitialString>
+        <shareName>it1816studtitle354</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.NonGradableQuestionType" index="354_1">
+        <user_id>student_IT18_R1816_354_1</user_id>
+        <Role>student</Role>
+        <context_id>it1816studcontext354</context_id>
+        <context_title>it1816studtitle354</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.NonGradableQuestionType" index="356">
+        <user_id>instructor_IT18_R1816_356_1</user_id>
+        <Role>instructor</Role>
+        <context_id>it1816studcontext356_1</context_id>
+        <context_title>it1816studtitle356_1</context_title>
+        <shareWithInitialString>it1816studtitle356_1</shareWithInitialString>
+        <shareName>it1816studtitle356_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>true</gradable>
+        <totalpoints>2</totalpoints>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>givenname family</studentname>
+        <grade>2.0</grade>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.NonGradableQuestionType" index="356_1">
+        <user_id>student_IT18_R1816_356_1</user_id>
+        <Role>student</Role>
+        <context_id>it1816studcontext356_1</context_id>
+        <context_title>it1816studtitle356_1</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.NonGradableQuestionType" index="357">
+        <grade>0.1</grade>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.NonGradableQuestionType" index="360">
+        <user_id>instructor_IT18_R1816_360</user_id>
+        <Role>instructor</Role>
+        <context_id>it1816studcontext360</context_id>
+        <context_title>it1816studtitle360</context_title>
+        <questiontext>Test Question for IT18_360</questiontext>
+        <shareWithInitialString>it1816studtitle360</shareWithInitialString>
+        <shareName>it1816studtitle360</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>false</gradable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>Mukesh Mandal</studentname>
+        <!--<studentname>givenname family</studentname>-->
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.NonGradableQuestionType" index="360_1">
+        <user_id>student_IT18_R1816_360</user_id>
+        <Role>student</Role>
+        <context_id>it1816studcontext360</context_id>
+        <context_title>it1816studtitle360</context_title>
+        <familyname>Mandal</familyname>
+        <givenname>Mukesh</givenname>
+    </testcase>
+
+    <!--Mentor-->
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.MentorReleaseGradeForAll" index="111">
+        <user_id>instructor_IT18_R1816_111</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext111</context_id>
+        <context_title>studtitle111</context_title>
+        <assessmentname>Assignment_IT18</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18</questionset>
+        <questiontext>Test Question for IT18</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle111</shareWithInitialString>
+        <shareName>studtitle111</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.MentorReleaseGradeForAll" index="111_1">
+        <user_id>student_IT18_R1816_111</user_id>
+        <Role>student</Role>
+        <context_id>studcontext111</context_id>
+        <context_title>studtitle111</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.MentorReleaseGradeForAll" index="12">
+        <user_id>instructor_IT18_R1816_12</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext12</context_id>
+        <context_title>studtitle12</context_title>
+        <assignmentpolicyname>Policy12</assignmentpolicyname>
+        <assessmentname>Assignment_IT18_12</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_19</questionset>
+        <questiontext>Test Question for IT18_19</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle12</shareWithInitialString>
+        <shareName>studtitle12</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy12</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>givenname family</studentname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.MentorReleaseGradeForAll" index="12_1">
+        <user_id>student_IT18_R1816_12</user_id>
+        <Role>student</Role>
+        <context_id>studcontext12</context_id>
+        <context_title>studtitle12</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.MentorReleaseGradeForAll" index="13">
+        <user_id>instructor_IT18_R1816_13</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext13</context_id>
+        <context_title>studtitle13</context_title>
+        <assignmentpolicyname>Policy13</assignmentpolicyname>
+        <assessmentname>Assignment_IT18_13</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_19</questionset>
+        <questiontext>Test Question for IT18_19</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle13</shareWithInitialString>
+        <shareName>studtitle13</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy13</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>givenname family</studentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.MentorReleaseGradeForAll" index="13_1">
+        <user_id>student_IT18_R1816_13</user_id>
+        <Role>student</Role>
+        <context_id>studcontext13</context_id>
+        <context_title>studtitle13</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.MentorReleaseGradeForAll" index="14">
+        <user_id>instructor_IT18_R1816_14</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext14</context_id>
+        <context_title>studtitle14</context_title>
+        <assignmentpolicyname>Policy14</assignmentpolicyname>
+        <assessmentname>Assignment_IT18_14</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_19</questionset>
+        <questiontext>Test Question for IT18_19</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle14</shareWithInitialString>
+        <shareName>studtitle14</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy14</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>givenname family</studentname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.MentorReleaseGradeForAll" index="14_1">
+        <user_id>student_IT18_R1816_14</user_id>
+        <Role>student</Role>
+        <context_id>studcontext14</context_id>
+        <context_title>studtitle14</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.MentorReleaseGradeForAll" index="15">
+        <user_id>instructor_IT18_R1816_15</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext15</context_id>
+        <context_title>studtitle15</context_title>
+        <assessmentname>Assignment_IT18_15</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_19</questionset>
+        <questiontext>Test Question for IT18_19</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle15</shareWithInitialString>
+        <shareName>studtitle15</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.MentorReleaseGradeForAll" index="15_1">
+        <user_id>student_IT18_R1816_15</user_id>
+        <Role>student</Role>
+        <context_id>studcontext15</context_id>
+        <context_title>studtitle15</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.MentorReleaseGradeForAll" index="16">
+        <user_id>instructor_IT18_R1816_16_2</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT18_16_2</context_id>
+        <context_title>studtitle_IT18_16_2</context_title>
+        <shareWithInitialString>studtitle_IT18_16_2</shareWithInitialString>
+        <shareName>studtitle_IT18_16_2</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>true</gradable>
+        <totalpoints>2</totalpoints>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.MentorReleaseGradeForAll" index="16_1">
+        <user_id>student_IT18_R1816_16_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_16_2</context_id>
+        <context_title>studtitle_IT18_16_2</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.MentorReleaseGradeForAll" index="17">
+        <user_id>instructor_IT18_R1816_17</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext17</context_id>
+        <context_title>studtitle17</context_title>
+        <questiontext>Test Question for IT18_19</questiontext>
+        <shareWithInitialString>studtitle17</shareWithInitialString>
+        <shareName>studtitle17</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>false</gradable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>givenname family</studentname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.MentorReleaseGradeForAll" index="17_1">
+        <user_id>student_IT18_R1816_17</user_id>
+        <Role>student</Role>
+        <context_id>studcontext17</context_id>
+        <context_title>studtitle17</context_title>
+    </testcase>
+
+    <!--MentorNonGradableQuestionType-->
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.MentorNonGradableQuestionType" index="18">
+        <user_id>instructor_IT18_R1816_18_1</user_id>
+        <Role>instructor</Role>
+        <context_id>it1816studcontext18</context_id>
+        <context_title>it1816studtitle18</context_title>
+        <assessmentname>Assignment_IT18_18</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_18</questionset>
+        <questiontext>Test Question for IT18_18</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>it1816studtitle18</shareWithInitialString>
+        <shareName>it1816studtitle18</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.MentorNonGradableQuestionType" index="18_1">
+        <user_id>student_IT18_R1816_18_1</user_id>
+        <Role>student</Role>
+        <context_id>it1816studcontext18</context_id>
+        <context_title>it1816studtitle18</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.MentorNonGradableQuestionType" index="23">
+        <user_id>instructor_IT18_R1816_23</user_id>
+        <Role>instructor</Role>
+        <context_id>it1816studcontext23</context_id>
+        <context_title>it1816studtitle23</context_title>
+        <shareWithInitialString>it1816studtitle23</shareWithInitialString>
+        <shareName>it1816studtitle23</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>true</gradable>
+        <totalpoints>2</totalpoints>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>givenname family</studentname>
+        <grade>2.0</grade>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.MentorNonGradableQuestionType" index="23_1">
+        <user_id>student_IT18_R1816_23</user_id>
+        <Role>student</Role>
+        <context_id>it1816studcontext23</context_id>
+        <context_title>it1816studtitle23</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.MentorNonGradableQuestionType" index="357">
+        <grade>0.1</grade>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.MentorNonGradableQuestionType" index="24">
+        <user_id>instructor_IT18_R1816_24</user_id>
+        <Role>instructor</Role>
+        <context_id>it1816studcontext24</context_id>
+        <context_title>it1816studtitle24</context_title>
+        <questiontext>Test Question for IT18_24</questiontext>
+        <shareWithInitialString>it1816studtitle24</shareWithInitialString>
+        <shareName>it1816studtitle24</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>false</gradable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>Mukesh Mandal</studentname>
+        <!--<studentname>givenname family</studentname>-->
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.MentorNonGradableQuestionType" index="24_1">
+        <user_id>student_IT18_R1816_24</user_id>
+        <Role>student</Role>
+        <context_id>it1816studcontext24</context_id>
+        <context_title>it1816studtitle24</context_title>
+        <familyname>Mandal</familyname>
+        <givenname>Mukesh</givenname>
+    </testcase>
+
+    <!--MentorEditAndSaveGradeForPolicyThree-->
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.MentorEditAndSaveGradeForPolicyThree" index="25">
+        <user_id>instructor_IT18_R1816_25_12</user_id>
+        <Role>instructor</Role>
+        <context_id>it1816studcontext25</context_id>
+        <context_title>it1816studtitle25</context_title>
+        <assignmentpolicyname>Policy146</assignmentpolicyname>
+        <assessmentname>Assignment_IT18_25</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_25</questionset>
+        <questiontext>Test Question for IT18_25</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>family</shareWithInitialString>
+        <shareName>givenname family</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy146</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>givenname family</studentname>
+        <grade>2.0</grade>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.MentorEditAndSaveGradeForPolicyThree" index="25_1">
+        <user_id>student_IT18_R1816_25_1</user_id>
+        <Role>student</Role>
+        <context_id>it1816studcontext25</context_id>
+        <context_title>it1816studtitle25</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.MentorEditAndSaveGradeForPolicyThree" index="26">
+        <grade>0.1</grade>
+    </testcase>
+
+    <!--MentorEditAndSaveGradeForPolicyOne 93-->
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.MentorEditAndSaveGradeForPolicyOne" index="27">
+        <user_id>instructor_IT18_R1816_27_1</user_id>
+        <Role>instructor</Role>
+        <context_id>it18studcontext27</context_id>
+        <context_title>it18studtitle27</context_title>
+        <assignmentpolicyname>Policy27</assignmentpolicyname>
+        <assessmentname>Assignment_IT18_27_1</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_19</questionset>
+        <questiontext>Test Question for IT18_19</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>it18studtitle27</shareWithInitialString>
+        <shareName>it18studtitle27</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy27</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>givenname family</studentname>
+        <grade>0.1</grade>>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.MentorEditAndSaveGradeForPolicyOne" index="27_1">
+        <user_id>student_IT18_R1816_27_1</user_id>
+        <Role>student</Role>
+        <context_id>it18studcontext27</context_id>
+        <context_title>it18studtitle27</context_title>
+    </testcase>
+
+    <!--MentorEditAndSaveGradeForPolicyFour 171-->
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.MentorEditAndSaveGradeForPolicyFour" index="28">
+        <user_id>instructor_IT18_R1816_28</user_id>
+        <Role>instructor</Role>
+        <context_id>it1816studcontext28</context_id>
+        <context_title>it1816studtitle28</context_title>
+        <assignmentpolicyname>Policy28</assignmentpolicyname>
+        <assessmentname>Assignment_IT18_28</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_28</questionset>
+        <questiontext>Test Question for IT18_28</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>family</shareWithInitialString>
+        <shareName>givenname family</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy28</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>givenname family</studentname>
+        <grade>0.1</grade>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.MentorEditAndSaveGradeForPolicyFour" index="28_1">
+        <user_id>student_IT18_R1816_28</user_id>
+        <Role>student</Role>
+        <context_id>it1816studcontext28</context_id>
+        <context_title>it1816studtitle28</context_title>
+    </testcase>
+
+    <!--MentorEditAndSaveGradeForGradableAssignment 67-->
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.MentorEditAndSaveGradeForGradableAssignment" index="29">
+        <user_id>instructor_IT18_R1816_29_2</user_id>
+        <Role>instructor</Role>
+        <context_id>it1816studcontext29</context_id>
+        <context_title>it1816studtitle29</context_title>
+        <assessmentname>Assignment_IT18_1629</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_29</questionset>
+        <questiontext>Test Question for IT18_29</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>it1816studtitle29</shareWithInitialString>
+        <shareName>it1816studtitle29</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>givenname family</studentname>
+        <grade>0.1</grade>>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.MentorEditAndSaveGradeForGradableAssignment" index="29_1">
+        <user_id>student_IT18_R1816_29_2</user_id>
+        <Role>student</Role>
+        <context_id>it1816studcontext29</context_id>
+        <context_title>it1816studtitle29</context_title>
+    </testcase>
+
+
+    <!--MentorGAWithPolicyThreeInStudentSide 294 -->
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.MentorGAWithPolicyThreeInStudentSide" index="31">
+        <user_id>instructor_IT18_R1816_31_1</user_id>
+        <Role>instructor</Role>
+        <context_id>it1816studcontext31</context_id>
+        <context_title>it1816studtitle31</context_title>
+        <assignmentpolicyname>Policy31</assignmentpolicyname>
+        <assessmentname>Assignment_IT18_31</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_145</questionset>
+        <questiontext>Test Question for IT18_145</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>it1816studtitle31</shareWithInitialString>
+        <shareName>it1816studtitle31</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy31</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>givenname family</studentname>
+        <grade>2.0</grade>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.MentorGAWithPolicyThreeInStudentSide" index="31_1">
+        <user_id>student_IT18_R1816_31_1</user_id>
+        <Role>student</Role>
+        <context_id>it1816studcontext31</context_id>
+        <context_title>it1816studtitle31</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.MentorGAWithPolicyThreeInStudentSide" index="32">
+        <grade>0.1</grade>
+    </testcase>
+
+    <!--MentorGAWithPolicyOneInStudentSide 234-->
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.MentorGAWithPolicyOneInStudentSide" index="35">
+        <user_id>instructor_IT18_R1816_35</user_id>
+        <Role>instructor</Role>
+        <context_id>it18studcontext35</context_id>
+        <context_title>it18studtitle35</context_title>
+        <assignmentpolicyname>Policy35</assignmentpolicyname>
+        <assessmentname>Assignment_IT18_35</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_35</questionset>
+        <questiontext>Test Question for IT18_35</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>it18studtitle35</shareWithInitialString>
+        <shareName>it18studtitle35</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy35</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>givenname family</studentname>
+        <grade>0.1</grade>>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.MentorGAWithPolicyOneInStudentSide" index="35_1">
+        <user_id>student_IT18_R1816_35</user_id>
+        <Role>student</Role>
+        <context_id>it18studcontext35</context_id>
+        <context_title>it18studtitle35</context_title>
+    </testcase>
+
+    <!--MentorGAWithPolicyFourInStudentSide 324-->
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.MentorGAWithPolicyFourInStudentSide" index="36">
+        <user_id>instructor_IT18_R1816_36_11</user_id>
+        <Role>instructor</Role>
+        <context_id>it1816studcontext3611</context_id>
+        <context_title>it1816studtitle3611</context_title>
+        <assignmentpolicyname>Policy361</assignmentpolicyname>
+        <assessmentname>Assignment_IT18_3611</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_361</questionset>
+        <questiontext>Test Question for IT18_361</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>it1816studtitle3611</shareWithInitialString>
+        <shareName>it1816studtitle3611</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy361</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>givenname family</studentname>
+        <grade>0.1</grade>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.MentorGAWithPolicyFourInStudentSide" index="36_1">
+        <user_id>student_IT18_R1816_36_11</user_id>
+        <Role>student</Role>
+        <context_id>it1816studcontext3611</context_id>
+        <context_title>it1816studtitle3611</context_title>
+    </testcase>
+
+    <!--MentorGAWithoutPolicyInStudentSide 204-->
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.MentorGAWithoutPolicyInStudentSide" index="37">
+        <user_id>instructor_IT18_R1816_37</user_id>
+        <Role>instructor</Role>
+        <context_id>it1816studcontext37</context_id>
+        <context_title>it1816studtitle37</context_title>
+        <assessmentname>Assignment_IT18_37</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_37</questionset>
+        <questiontext>Test Question for IT18_37</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>it1816studtitle37</shareWithInitialString>
+        <shareName>it1816studtitle37</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>givenname family</studentname>
+        <grade>0.1</grade>>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.MentorGAWithoutPolicyInStudentSide" index="37_1">
+        <user_id>student_IT18_R1816_37</user_id>
+        <Role>student</Role>
+        <context_id>it1816studcontext37</context_id>
+        <context_title>it1816studtitle37</context_title>
+    </testcase>
+
+    <!--MentorDashboardTilesUpdateForDWAssignment197 &201-->
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.MentorDashboardTilesUpdateForDWAssignment" index="38">
+        <user_id>instructor_IT18_R1816_38</user_id>
+        <Role>instructor</Role>
+        <context_id>it1816studcontext38</context_id>
+        <context_title>it1816studtitle38</context_title>
+        <shareWithInitialString>it1816studtitle38</shareWithInitialString>
+        <shareName>it1816studtitle38</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>true</gradable>
+        <totalpoints>2</totalpoints>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.MentorDashboardTilesUpdateForDWAssignment" index="38_1">
+        <user_id>student_IT18_R1816_38</user_id>
+        <Role>student</Role>
+        <context_id>it1816studcontext38</context_id>
+        <context_title>it1816studtitle38</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.MentorDashboardTilesUpdateForDWAssignment" index="39">
+        <user_id>instructor_IT18_R1816_39_2</user_id>
+        <Role>instructor</Role>
+        <context_id>it1816studcontext3911</context_id>
+        <context_title>it1816studtitle3911</context_title>
+        <questiontext>Test Question for IT18_39</questiontext>
+        <shareWithInitialString>it1816studtitle3911</shareWithInitialString>
+        <shareName>it1816studtitle3911</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>false</gradable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>Mukesh Mandal</studentname>
+        <!--<studentname>givenname family</studentname>-->
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.MentorDashboardTilesUpdateForDWAssignment" index="39_1">
+        <user_id>student_IT18_R1816_39_1</user_id>
+        <Role>student</Role>
+        <context_id>it1816studcontext3911</context_id>
+        <context_title>it1816studtitle3911</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.MentorDashboardTilesUpdateForDWAssignment" index="40_1">
+        <user_id>student_IT18_R1816_39_2</user_id>
+        <Role>student</Role>
+        <context_id>it1816studcontext3911</context_id>
+        <context_title>it1816studtitle3911</context_title>
+        <familyname>Mandal</familyname>
+        <givenname>Mukesh</givenname>
+    </testcase>
+
+</learningspaces>

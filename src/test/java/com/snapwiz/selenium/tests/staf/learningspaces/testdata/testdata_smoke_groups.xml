@@ -1,0 +1,1466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.GroupPage" index="1" method="">
+        <user_id>instructor_smoke_group_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_group_1</context_id>
+        <context_title>studtitle_smoke_group_1</context_title>
+        <GroupName>Group_A</GroupName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.GroupPage" index="1_1" method="">
+        <user_id>student_smoke_group</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_group_1</context_id>
+        <context_title>studtitle_smoke_group_1</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.GroupPage" index="2" method="">
+        <user_id>instructor_smoke_group_2</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_group_2</context_id>
+        <context_title>studtitle_smoke_group_2</context_title>
+        <GroupName>Group_A</GroupName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.GroupPage" index="2_1" method="">
+        <user_id>student_smoke_group_2_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_group_2</context_id>
+        <context_title>studtitle_smoke_group_2</context_title>
+        <familyname>jan</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.GroupPage" index="2_2" method="">
+        <user_id>student_smoke_group_2_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_group_2</context_id>
+        <context_title>studtitle_smoke_group_2</context_title>
+        <familyname>feb</familyname>
+        <givenname>month</givenname>
+        <GroupName>Group_A</GroupName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.GroupPage" index="2" method="">
+        <user_id>instructor_smoke_group_2</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_group_2</context_id>
+        <context_title>studtitle_smoke_group_2</context_title>
+        <GroupName>Group_A</GroupName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.GroupPage" index="2_1" method="">
+        <user_id>student_smoke_group_2_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_group_2</context_id>
+        <context_title>studtitle_smoke_group_2</context_title>
+        <familyname>jan</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.GroupPage" index="2_2" method="">
+        <user_id>student_smoke_group_2_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_group_2</context_id>
+        <context_title>studtitle_smoke_group_2</context_title>
+        <familyname>feb</familyname>
+        <givenname>month</givenname>
+        <GroupName>Group_A</GroupName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.GroupPage" index="2_3" method="">
+        <user_id>student_smoke_group_2_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_group_2</context_id>
+        <context_title>studtitle_smoke_group_2</context_title>
+        <familyname>march</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.GroupPage" index="3" method="">
+        <user_id>instructor_smoke_group_3</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_group_3</context_id>
+        <context_title>studtitle_smoke_group_3</context_title>
+        <GroupName>First</GroupName>
+        <assessmentname>Assignment_smoke_group_3</assessmentname>
+        <shareWithInitialString>First</shareWithInitialString>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>10</duedate>
+        <duetime>12</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <newduedate>27</newduedate>
+        <questiontype>Static Practice</questiontype>
+        <questionset>TestQuestion_smoke_group_3</questionset>
+        <questiontext>TestQuestion_smoke_group_3</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <extensionAfterDueDate>disable</extensionAfterDueDate>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.GroupPage" index="3_1" method="">
+        <user_id>student_smoke_group_3_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_group_3</context_id>
+        <context_title>studtitle_smoke_group_3</context_title>
+        <familyname>jan</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.GroupPage" index="3_2" method="">
+        <user_id>student_smoke_group_3_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_group_3</context_id>
+        <context_title>studtitle_smoke_group_3</context_title>
+        <familyname>feb</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.GroupPage" index="4" method="">
+        <user_id>instructor_smoke_group_4</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_group_4</context_id>
+        <context_title>studtitle_smoke_group_4</context_title>
+        <GroupName>Second</GroupName>
+        <assessmentname>Assignment_smoke_group_4</assessmentname>
+        <shareWithInitialString>Second</shareWithInitialString>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>10</duedate>
+        <duetime>12</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <newduedate>27</newduedate>
+        <questiontype>Static Practice</questiontype>
+        <questionset>TestQuestion_smoke_group_4</questionset>
+        <questiontext>TestQuestion_smoke_group_4</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <extensionAfterDueDate>disable</extensionAfterDueDate>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.GroupPage" index="4_1" method="">
+        <user_id>student_smoke_group_4_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_group_4</context_id>
+        <context_title>studtitle_smoke_group_4</context_title>
+        <familyname>jan</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.GroupPage" index="5" method="">
+        <user_id>instructor_smoke_group_5</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_group_5</context_id>
+        <context_title>studtitle_smoke_group_5</context_title>
+        <GroupName>Second</GroupName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.GroupPage" index="5_1" method="">
+        <user_id>student_smoke_group_5_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_group_5</context_id>
+        <context_title>studtitle_smoke_group_5</context_title>
+        <familyname>jan</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.GroupPage" index="6" method="">
+        <user_id>instructor_smoke_group_6</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_group_6</context_id>
+        <context_title>studtitle_smoke_group_6</context_title>
+        <GroupName>Second</GroupName>
+        <shareWithInitialString>Second</shareWithInitialString>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>10</duedate>
+        <duetime>12</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <newduedate>27</newduedate>
+        <extensionAfterDueDate>disable</extensionAfterDueDate>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.GroupPage" index="6_1" method="">
+        <user_id>student_smoke_group_6_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_group_6</context_id>
+        <context_title>studtitle_smoke_group_6</context_title>
+        <familyname>jan</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.GroupPage" index="6_2" method="">
+        <user_id>student_smoke_group_6_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_group_6</context_id>
+        <context_title>studtitle_smoke_group_6</context_title>
+        <familyname>feb</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.GroupPage" index="6_3" method="">
+        <user_id>student_smoke_group_6_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_group_6</context_id>
+        <context_title>studtitle_smoke_group_6</context_title>
+        <familyname>march</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.GroupPage" index="7" method="">
+        <user_id>instructor_smoke_group_7</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_group_7</context_id>
+        <context_title>studtitle_smoke_group_7</context_title>
+        <GroupName>Second</GroupName>
+        <shareWithInitialString>Second</shareWithInitialString>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>10</duedate>
+        <duetime>12</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <newduedate>27</newduedate>
+        <extensionAfterDueDate>disable</extensionAfterDueDate>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.GroupPage" index="7_1" method="">
+        <user_id>student_smoke_group_7_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_group_7</context_id>
+        <context_title>studtitle_smoke_group_7</context_title>
+        <familyname>jan</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.GroupPage" index="7_2" method="">
+        <user_id>student_smoke_group_7_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_group_7</context_id>
+        <context_title>studtitle_smoke_group_7</context_title>
+        <familyname>feb</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.GroupPage" index="7_3" method="">
+        <user_id>student_smoke_group_7_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_group_7</context_id>
+        <context_title>studtitle_smoke_group_7</context_title>
+        <familyname>march</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.GroupPage" index="8" method="">
+        <user_id>instructor_smoke_group_8</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_group_8</context_id>
+        <context_title>studtitle_smoke_group_8</context_title>
+        <GroupName>Second</GroupName>
+        <shareWithInitialString>Second</shareWithInitialString>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duetime>2</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <defaultDuetime>true</defaultDuetime>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.GroupPage" index="8_1" method="">
+        <user_id>student_smoke_group_8_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_group_8</context_id>
+        <context_title>studtitle_smoke_group_8</context_title>
+        <familyname>jan</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.GroupPage" index="8_2" method="">
+        <user_id>student_smoke_group_8_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_group_8</context_id>
+        <context_title>studtitle_smoke_group_8</context_title>
+        <familyname>feb</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.GroupPage" index="8_3" method="">
+        <user_id>student_smoke_group_8_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_group_8</context_id>
+        <context_title>studtitle_smoke_group_8</context_title>
+        <familyname>march</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.GroupPage" index="9" method="">
+        <user_id>instructor_smoke_group_9</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_group_9</context_id>
+        <context_title>studtitle_smoke_group_9</context_title>
+        <GroupName>Second</GroupName>
+        <classSection>true</classSection>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.GroupPage" index="9_3" method="">
+        <user_id>instructor_smoke_group_9</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_group_9</context_id>
+        <context_title>studtitle_smoke_group_9</context_title>
+        <GroupName>Second</GroupName>
+        <classSection>false</classSection>
+        <studentName>jan</studentName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.GroupPage" index="9_4" method="">
+        <user_id>instructor_smoke_group_9</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_group_9</context_id>
+        <context_title>studtitle_smoke_group_9</context_title>
+        <GroupName>Second</GroupName>
+        <classSection>true</classSection>
+        <studentName>jan</studentName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.GroupPage" index="9_5" method="">
+        <user_id>instructor_smoke_group_9</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_group_9</context_id>
+        <context_title>studtitle_smoke_group_9</context_title>
+        <classSection>true</classSection>
+        <studentName>jan</studentName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.GroupPage" index="9_1" method="">
+        <user_id>student_smoke_group_9_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_group_9</context_id>
+        <context_title>studtitle_smoke_group_9</context_title>
+        <familyname>jan</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.GroupPage" index="10" method="">
+        <user_id>instructor_smoke_group_10</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_group_10</context_id>
+        <context_title>studtitle_smoke_group_10</context_title>
+        <GroupName>Three</GroupName>
+        <shareWithInitialString>Three</shareWithInitialString>
+        <studentName>jan</studentName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duetime>2</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <defaultDuetime>true</defaultDuetime>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.GroupPage" index="10_1" method="">
+        <user_id>student_smoke_group_10_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_group_10</context_id>
+        <context_title>studtitle_smoke_group_10</context_title>
+        <familyname>jan</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <!--AssignAssignmentToGroup-->
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="1" method="assignAssignmentToOneGroup">
+        <user_id>instructor_smoke_assignAssignmentToOneGroup_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_assignAssignmentToOneGroup_1</context_id>
+        <context_title>studtitle_smoke_assignAssignmentToOneGroup_1</context_title>
+        <GroupName>single</GroupName>
+        <shareWithInitialString>single</shareWithInitialString>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="1_1" method="assignAssignmentToOneGroup">
+        <user_id>instructor_smoke_assignAssignmentToOneGroup_1_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignAssignmentToOneGroup_1</context_id>
+        <context_title>studtitle_smoke_assignAssignmentToOneGroup_1</context_title>
+        <familyname>a</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="1_2" method="assignAssignmentToOneGroup">
+        <user_id>instructor_smoke_assignAssignmentToOneGroup_1_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignAssignmentToOneGroup_1</context_id>
+        <context_title>studtitle_smoke_assignAssignmentToOneGroup_1</context_title>
+        <familyname>b</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="1_3" method="assignAssignmentToOneGroup">
+        <user_id>instructor_smoke_assignAssignmentToOneGroup_1_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignAssignmentToOneGroup_3</context_id>
+        <context_title>studtitle_smoke_assignAssignmentToOneGroup_3</context_title>
+        <familyname>c</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="242" method="sameStudentPartOfDifferentGroup">
+        <user_id>instructor_smoke_sameStudentPartOfDifferentGroup_242</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_sameStudentPartOfDifferentGroup_242</context_id>
+        <context_title>studtitle_smoke_sameStudentPartOfDifferentGroup_242</context_title>
+        <GroupName>one,two</GroupName>
+        <shareWithInitialString>one</shareWithInitialString>
+        <shareWithInitialString1>two</shareWithInitialString1>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="242_1" method="sameStudentPartOfDifferentGroup">
+        <user_id>student_smoke_sameStudentPartOfDifferentGroup_242</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_sameStudentPartOfDifferentGroup_242</context_id>
+        <context_title>studtitle_smoke_sameStudentPartOfDifferentGroup_242</context_title>
+        <familyname>a</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="242_2" method="sameStudentPartOfDifferentGroup">
+        <user_id>student_smoke_sameStudentPartOfDifferentGroup_242_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_sameStudentPartOfDifferentGroup_242</context_id>
+        <context_title>studtitle_smoke_sameStudentPartOfDifferentGroup_242</context_title>
+        <familyname>b</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="242_3" method="sameStudentPartOfDifferentGroup">
+        <user_id>student_smoke_sameStudentPartOfDifferentGroup_242_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_sameStudentPartOfDifferentGroup_242</context_id>
+        <context_title>studtitle_smoke_sameStudentPartOfDifferentGroup_242</context_title>
+        <familyname>c</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="242_4" method="sameStudentPartOfDifferentGroup">
+        <user_id>student_smoke_sameStudentPartOfDifferentGroup_242_4</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_sameStudentPartOfDifferentGroup_242</context_id>
+        <context_title>studtitle_smoke_sameStudentPartOfDifferentGroup_242</context_title>
+        <familyname>d</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="242_5" method="sameStudentPartOfDifferentGroup">
+        <user_id>student_smoke_sameStudentPartOfDifferentGroup_242_5</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_sameStudentPartOfDifferentGroup_242</context_id>
+        <context_title>studtitle_smoke_sameStudentPartOfDifferentGroup_242</context_title>
+        <familyname>e</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="242_6" method="sameStudentPartOfDifferentGroup">
+        <user_id>student_smoke_sameStudentPartOfDifferentGroup_242_6</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_sameStudentPartOfDifferentGroup_243</context_id>
+        <context_title>studtitle_smoke_sameStudentPartOfDifferentGroup_243</context_title>
+        <familyname>f</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="249" method="assignAssignmentToGroupAndIndividualStudent">
+        <user_id>instructor_smoke_assignAssignmentToGroupAndIndividualStudent_249</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_assignAssignmentToGroupAndIndividualStudent_249</context_id>
+        <context_title>studtitle_smoke_assignAssignmentToGroupAndIndividualStudent_249</context_title>
+        <GroupName>one,two</GroupName>
+        <shareWithInitialString>one</shareWithInitialString>
+        <shareWithInitialString1>two</shareWithInitialString1>
+        <studentName>g, month</studentName>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="249_1" method="assignAssignmentToGroupAndIndividualStudent">
+        <user_id>student_smoke_assignAssignmentToGroupAndIndividualStudent_249</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignAssignmentToGroupAndIndividualStudent_249</context_id>
+        <context_title>studtitle_smoke_assignAssignmentToGroupAndIndividualStudent_249</context_title>
+        <familyname>a</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="249_2" method="assignAssignmentToGroupAndIndividualStudent">
+        <user_id>student_smoke_assignAssignmentToGroupAndIndividualStudent_249_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignAssignmentToGroupAndIndividualStudent_249</context_id>
+        <context_title>studtitle_smoke_assignAssignmentToGroupAndIndividualStudent_249</context_title>
+        <familyname>b</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="249_3" method="assignAssignmentToGroupAndIndividualStudent">
+        <user_id>student_smoke_assignAssignmentToGroupAndIndividualStudent_249_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignAssignmentToGroupAndIndividualStudent_249</context_id>
+        <context_title>studtitle_smoke_assignAssignmentToGroupAndIndividualStudent_249</context_title>
+        <familyname>c</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="249_4" method="assignAssignmentToGroupAndIndividualStudent">
+        <user_id>student_smoke_assignAssignmentToGroupAndIndividualStudent_249_4</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignAssignmentToGroupAndIndividualStudent_249</context_id>
+        <context_title>studtitle_smoke_assignAssignmentToGroupAndIndividualStudent_249</context_title>
+        <familyname>d</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="249_5" method="assignAssignmentToGroupAndIndividualStudent">
+        <user_id>student_smoke_assignAssignmentToGroupAndIndividualStudent_249_5</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignAssignmentToGroupAndIndividualStudent_249</context_id>
+        <context_title>studtitle_smoke_assignAssignmentToGroupAndIndividualStudent_249</context_title>
+        <familyname>e</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="249_6" method="assignAssignmentToGroupAndIndividualStudent">
+        <user_id>student_smoke_assignAssignmentToGroupAndIndividualStudent_249_6</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignAssignmentToGroupAndIndividualStudent_249</context_id>
+        <context_title>studtitle_smoke_assignAssignmentToGroupAndIndividualStudent_249</context_title>
+        <familyname>f</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="249_7" method="assignAssignmentToGroupAndIndividualStudent">
+        <user_id>student_smoke_assignAssignmentToGroupAndIndividualStudent_249_7</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignAssignmentToGroupAndIndividualStudent_249</context_id>
+        <context_title>studtitle_smoke_assignAssignmentToGroupAndIndividualStudent_249</context_title>
+        <familyname>g</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="250" method="assignAssignmentToDifferentClassSectionGroup">
+        <user_id>instructor_smoke_assignAssignmentToDifferentClassSectionGroup_250</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_assignAssignmentToDifferentClassSectionGroup_250</context_id>
+        <context_title>studtitle_smoke_assignAssignmentToDifferentClassSectionGroup_250</context_title>
+        <GroupName>one</GroupName>
+        <shareWithInitialString>one</shareWithInitialString>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="251" method="assignAssignmentToDifferentClassSectionGroup">
+        <user_id>instructor_smoke_assignAssignmentToDifferentClassSectionGroup_250</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_assignAssignmentToDifferentClassSectionGroup_251</context_id>
+        <context_title>studtitle_smoke_assignAssignmentToDifferentClassSectionGroup_251</context_title>
+        <GroupName>two</GroupName>
+        <shareWithInitialString>one</shareWithInitialString>
+        <shareWithInitialString1>two</shareWithInitialString1>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="250_1" method="assignAssignmentToDifferentClassSectionGroup">
+        <user_id>student_smoke_assignAssignmentToDifferentClassSectionGroup_250</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignAssignmentToDifferentClassSectionGroup_250</context_id>
+        <context_title>studtitle_smoke_assignAssignmentToDifferentClassSectionGroup_250</context_title>
+        <familyname>a</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="250_2" method="assignAssignmentToDifferentClassSectionGroup">
+        <user_id>student_smoke_assignAssignmentToDifferentClassSectionGroup_250_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignAssignmentToDifferentClassSectionGroup_250</context_id>
+        <context_title>studtitle_smoke_assignAssignmentToDifferentClassSectionGroup_250</context_title>
+        <familyname>b</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="250_3" method="assignAssignmentToDifferentClassSectionGroup">
+        <user_id>student_smoke_assignAssignmentToDifferentClassSectionGroup_250_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignAssignmentToDifferentClassSectionGroup_251</context_id>
+        <context_title>studtitle_smoke_assignAssignmentToDifferentClassSectionGroup_251</context_title>
+        <familyname>c</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="250_4" method="assignAssignmentToDifferentClassSectionGroup">
+        <user_id>student_smoke_assignAssignmentToDifferentClassSectionGroup_250_4</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignAssignmentToDifferentClassSectionGroup_251</context_id>
+        <context_title>studtitle_smoke_assignAssignmentToDifferentClassSectionGroup_251</context_title>
+        <familyname>d</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="252" method="assignAssignmentToDifferentClassSectionGroup">
+        <user_id>instructor_smoke_assignAssignmentToDifferentClassSectionGroup_252</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_assignAssignmentToDifferentClassSectionGroup_252</context_id>
+        <context_title>studtitle_smoke_assignAssignmentToDifferentClassSectionGroup_252</context_title>
+        <GroupName>one,two</GroupName>
+        <shareWithInitialString>one</shareWithInitialString>
+        <shareWithInitialString>two</shareWithInitialString>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="252_1" method="assignAssignmentToDifferentClassSectionGroup">
+        <user_id>student_smoke_assignAssignmentToDifferentClassSectionGroup_252</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignAssignmentToDifferentClassSectionGroup_252</context_id>
+        <context_title>studtitle_smoke_assignAssignmentToDifferentClassSectionGroup_252</context_title>
+        <familyname>a</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="252_2" method="assignAssignmentToDifferentClassSectionGroup">
+        <user_id>student_smoke_assignAssignmentToDifferentClassSectionGroup_252_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignAssignmentToDifferentClassSectionGroup_252</context_id>
+        <context_title>studtitle_smoke_assignAssignmentToDifferentClassSectionGroup_252</context_title>
+        <familyname>b</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="253" method="assignAssignmentToDifferentClassSectionGroup">
+        <user_id>instructor_smoke_assignAssignmentToDifferentClassSectionGroup_252</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_assignAssignmentToDifferentClassSectionGroup_253</context_id>
+        <context_title>studtitle_smoke_assignAssignmentToDifferentClassSectionGroup_253</context_title>
+        <GroupName>three,four</GroupName>
+        <shareWithInitialString>one</shareWithInitialString>
+        <shareWithInitialString1>four</shareWithInitialString1>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="252_3" method="assignAssignmentToDifferentClassSectionGroup">
+        <user_id>student_smoke_assignAssignmentToDifferentClassSectionGroup_252_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignAssignmentToDifferentClassSectionGroup_253</context_id>
+        <context_title>studtitle_smoke_assignAssignmentToDifferentClassSectionGroup_253</context_title>
+        <familyname>c</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="252_4" method="assignAssignmentToDifferentClassSectionGroup">
+        <user_id>student_smoke_assignAssignmentToDifferentClassSectionGroup_250_4</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignAssignmentToDifferentClassSectionGroup_253</context_id>
+        <context_title>studtitle_smoke_assignAssignmentToDifferentClassSectionGroup_253</context_title>
+        <familyname>d</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="254" method="addStudentToGroupAfterDuedateExpired">
+        <user_id>instructor_smoke_addStudentToGroupAfterDuedateExpired_254</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_addStudentToGroupAfterDuedateExpired_254</context_id>
+        <context_title>studtitle_smoke_addStudentToGroupAfterDuedateExpired_254</context_title>
+        <GroupName>one,two</GroupName>
+        <shareWithInitialString>one</shareWithInitialString>
+        <shareWithInitialString>two</shareWithInitialString>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="254_1" method="addStudentToGroupAfterDuedateExpired">
+        <user_id>student_smoke_addStudentToGroupAfterDuedateExpired_254</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_addStudentToGroupAfterDuedateExpired_254</context_id>
+        <context_title>studtitle_smoke_addStudentToGroupAfterDuedateExpired_254</context_title>
+        <familyname>a</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="254_2" method="addStudentToGroupAfterDuedateExpired">
+        <user_id>student_smoke_addStudentToGroupAfterDuedateExpired_254_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_addStudentToGroupAfterDuedateExpired_254</context_id>
+        <context_title>studtitle_smoke_addStudentToGroupAfterDuedateExpired_254</context_title>
+        <familyname>b</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="254_3" method="addStudentToGroupAfterDuedateExpired">
+        <user_id>student_smoke_addStudentToGroupAfterDuedateExpired_254_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_addStudentToGroupAfterDuedateExpired_254</context_id>
+        <context_title>studtitle_smoke_addStudentToGroupAfterDuedateExpired_254</context_title>
+        <familyname>c</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="254_4" method="addStudentToGroupAfterDuedateExpired">
+        <user_id>student_smoke_addStudentToGroupAfterDuedateExpired_254_4</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_addStudentToGroupAfterDuedateExpired_254</context_id>
+        <context_title>studtitle_smoke_addStudentToGroupAfterDuedateExpired_254</context_title>
+        <familyname>d</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="255" method="addStudentToGroupAfterDuedateExpired">
+        <user_id>instructor_smoke_addStudentToGroupAfterDuedateExpired_254</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_addStudentToGroupAfterDuedateExpired_255</context_id>
+        <context_title>studtitle_smoke_addStudentToGroupAfterDuedateExpired_255</context_title>
+        <GroupName>three,four</GroupName>
+        <shareWithInitialString>one</shareWithInitialString>
+        <shareWithInitialString1>four</shareWithInitialString1>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>4</duetime>
+        <defaultDuetime>true</defaultDuetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="254_5" method="addStudentToGroupAfterDuedateExpired">
+        <user_id>student_smoke_addStudentToGroupAfterDuedateExpired_254_5</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_addStudentToGroupAfterDuedateExpired_255</context_id>
+        <context_title>studtitle_smoke_addStudentToGroupAfterDuedateExpired_255</context_title>
+        <familyname>e</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="254_6" method="addStudentToGroupAfterDuedateExpired">
+        <user_id>student_smoke_addStudentToGroupAfterDuedateExpired_250_5</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_addStudentToGroupAfterDuedateExpired_255</context_id>
+        <context_title>studtitle_smoke_addStudentToGroupAfterDuedateExpired_255</context_title>
+        <familyname>f</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="256" method="removeStudentFromGroup">
+        <user_id>instructor_smoke_removeStudentFromGroup_256</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_removeStudentFromGroup_256</context_id>
+        <context_title>studtitle_smoke_removeStudentFromGroup_256</context_title>
+        <assessmentname>Assignment_smoke_removeStudentFromGroup</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question_smoke_removeStudentFromGroup</questionset>
+        <questiontext>Test Question_smoke_removeStudentFromGroup</questiontext>
+        <learningobjective>true</learningobjective>
+        <GroupName>one,two</GroupName>
+        <shareWithInitialString>one</shareWithInitialString>
+        <shareWithInitialString1>two</shareWithInitialString1>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="256_1" method="removeStudentFromGroup">
+        <user_id>student_smoke_removeStudentFromGroup_256</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_removeStudentFromGroup_256</context_id>
+        <context_title>studtitle_smoke_removeStudentFromGroup_256</context_title>
+        <familyname>a</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="256_2" method="removeStudentFromGroup">
+        <user_id>student_smoke_removeStudentFromGroup_256_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_removeStudentFromGroup_256</context_id>
+        <context_title>studtitle_smoke_removeStudentFromGroup_256</context_title>
+        <familyname>b</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="256_3" method="removeStudentFromGroup">
+        <user_id>student_smoke_removeStudentFromGroup_256_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_removeStudentFromGroup_256</context_id>
+        <context_title>studtitle_smoke_removeStudentFromGroup_256</context_title>
+        <familyname>c</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="256_4" method="removeStudentFromGroup">
+        <user_id>student_smoke_removeStudentFromGroup_256_4</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_removeStudentFromGroup_256</context_id>
+        <context_title>studtitle_smoke_removeStudentFromGroup_256</context_title>
+        <familyname>d</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="257" method="removeStudentFromGroup">
+        <user_id>instructor_smoke_removeStudentFromGroup_256</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_removeStudentFromGroup_257</context_id>
+        <context_title>studtitle_smoke_removeStudentFromGroup_257</context_title>
+        <GroupName>three,four</GroupName>
+        <shareWithInitialString>two</shareWithInitialString>
+        <shareWithInitialString1>four</shareWithInitialString1>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>3</duetime>
+        <defaultDuetime>true</defaultDuetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="256_5" method="removeStudentFromGroup">
+        <user_id>student_smoke_removeStudentFromGroup_256_5</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_removeStudentFromGroup_257</context_id>
+        <context_title>studtitle_smoke_removeStudentFromGroup_257</context_title>
+        <familyname>e</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="256_6" method="removeStudentFromGroup">
+        <user_id>student_smoke_removeStudentFromGroup_250_5</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_removeStudentFromGroup_257</context_id>
+        <context_title>studtitle_smoke_removeStudentFromGroup_257</context_title>
+        <familyname>f</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="259" method="removeStudentFromGroup">
+        <user_id>instructor_smoke_removeStudentFromGroup_259</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_removeStudentFromGroup_259</context_id>
+        <context_title>studtitle_smoke_removeStudentFromGroup_259</context_title>
+        <GroupName>one</GroupName>
+        <shareWithInitialString>one</shareWithInitialString>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="259_1" method="removeStudentFromGroup">
+        <user_id>student_smoke_removeStudentFromGroup_259</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_removeStudentFromGroup_259</context_id>
+        <context_title>studtitle_smoke_removeStudentFromGroup_259</context_title>
+        <familyname>a</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="259_2" method="removeStudentFromGroup">
+        <user_id>student_smoke_removeStudentFromGroup_259_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_removeStudentFromGroup_259</context_id>
+        <context_title>studtitle_smoke_removeStudentFromGroup_259</context_title>
+        <familyname>b</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="259_3" method="removeStudentFromGroup">
+        <user_id>student_smoke_removeStudentFromGroup_259_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_removeStudentFromGroup_259</context_id>
+        <context_title>studtitle_smoke_removeStudentFromGroup_259</context_title>
+        <familyname>c</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="260" method="removeStudentFromGroup">
+        <user_id>instructor_smoke_removeStudentFromGroup_259</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_removeStudentFromGroup_260</context_id>
+        <context_title>studtitle_smoke_removeStudentFromGroup_260</context_title>
+        <GroupName>three</GroupName>
+        <shareWithInitialString>one</shareWithInitialString>
+        <shareWithInitialString1>three</shareWithInitialString1>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="259_4" method="removeStudentFromGroup">
+        <user_id>student_smoke_removeStudentFromGroup_260_4</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_removeStudentFromGroup_260</context_id>
+        <context_title>studtitle_smoke_removeStudentFromGroup_260</context_title>
+        <familyname>d</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="259_5" method="removeStudentFromGroup">
+        <user_id>student_smoke_removeStudentFromGroup_259_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_removeStudentFromGroup_260</context_id>
+        <context_title>studtitle_smoke_removeStudentFromGroup_260</context_title>
+        <familyname>c</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="261" method="groupFilterOnAssignmentResponsePage">
+        <user_id>instructor_smoke_groupFilterOnAssignmentResponsePage_261</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_groupFilterOnAssignmentResponsePage_261</context_id>
+        <context_title>studtitle_smoke_groupFilterOnAssignmentResponsePage_261</context_title>
+        <assessmentname>groupFilterOnAssignmentResponsePage</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>QuestionSet_groupFilterOnAssignmentResponsePage</questionset>
+        <questiontext>QuestionText_groupFilterOnAssignmentResponsePage</questiontext>
+        <GroupName>one,two</GroupName>
+        <shareWithInitialString>one</shareWithInitialString>
+        <shareWithInitialString1>two</shareWithInitialString1>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>2</duetime>
+        <defaultDuetime>true</defaultDuetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="261_1" method="groupFilterOnAssignmentResponsePage">
+        <user_id>student_smoke_groupFilterOnAssignmentResponsePage_261</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_groupFilterOnAssignmentResponsePage_261</context_id>
+        <context_title>studtitle_smoke_groupFilterOnAssignmentResponsePage_261</context_title>
+        <familyname>a</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="261_2" method="groupFilterOnAssignmentResponsePage">
+        <user_id>student_smoke_groupFilterOnAssignmentResponsePage_261_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_groupFilterOnAssignmentResponsePage_261</context_id>
+        <context_title>studtitle_smoke_groupFilterOnAssignmentResponsePage_261</context_title>
+        <familyname>b</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="261_3" method="groupFilterOnAssignmentResponsePage">
+        <user_id>student_smoke_groupFilterOnAssignmentResponsePage_261_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_groupFilterOnAssignmentResponsePage_261</context_id>
+        <context_title>studtitle_smoke_groupFilterOnAssignmentResponsePage_261</context_title>
+        <familyname>c</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="261_4" method="groupFilterOnAssignmentResponsePage">
+        <user_id>student_smoke_groupFilterOnAssignmentResponsePage_261_4</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_groupFilterOnAssignmentResponsePage_261</context_id>
+        <context_title>studtitle_smoke_groupFilterOnAssignmentResponsePage_261</context_title>
+        <GroupName>two</GroupName>
+        <familyname>d</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="261_5" method="groupFilterOnAssignmentResponsePage">
+        <user_id>student_smoke_groupFilterOnAssignmentResponsePage_261_5</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_groupFilterOnAssignmentResponsePage_261</context_id>
+        <context_title>studtitle_smoke_groupFilterOnAssignmentResponsePage_261</context_title>
+        <GroupName>two</GroupName>
+        <familyname>e</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="267" method="emptyGroup">
+        <user_id>instructor_smoke_emptyGroup_267</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_emptyGroup_267</context_id>
+        <context_title>studtitle_smoke_emptyGroup_267</context_title>
+        <assessmentname>emptyGroup</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>QuestionSet_emptyGroup</questionset>
+        <questiontext>QuestionText_emptyGroup</questiontext>
+        <GroupName>one</GroupName>
+        <shareWithInitialString>one</shareWithInitialString>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>2</duetime>
+        <defaultDuetime>true</defaultDuetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="267_1" method="emptyGroup">
+        <user_id>student_smoke_emptyGroup_267</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_emptyGroup_267</context_id>
+        <context_title>studtitle_smoke_emptyGroup_267</context_title>
+        <familyname>a</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="267_2" method="emptyGroup">
+        <user_id>student_smoke_emptyGroup_267_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_emptyGroup_267</context_id>
+        <context_title>studtitle_smoke_emptyGroup_267</context_title>
+        <familyname>b</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="268" method="allStudentSubmittedDWAssignment">
+        <user_id>instructor_smoke_allStudentSubmittedDWAssignment_268</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_allStudentSubmittedDWAssignment_268</context_id>
+        <context_title>studtitle_smoke_allStudentSubmittedDWAssignment_268</context_title>
+        <assessmentname>allStudentSubmittedDWAssignment</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>QuestionSet_allStudentSubmittedDWAssignment</questionset>
+        <questiontext>QuestionText_allStudentSubmittedDWAssignment</questiontext>
+        <GroupName>one</GroupName>
+        <shareWithInitialString>one</shareWithInitialString>
+        <shareWithClass>false</shareWithClass>
+        <gradable>true</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>10</duetime>
+        <totalpoints>2</totalpoints>
+        <defaultDuetime>true</defaultDuetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="268_1" method="allStudentSubmittedDWAssignment">
+        <user_id>student_smoke_allStudentSubmittedDWAssignment_268</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_allStudentSubmittedDWAssignment_268</context_id>
+        <context_title>studtitle_smoke_allStudentSubmittedDWAssignment_268</context_title>
+        <familyname>a</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="268_2" method="allStudentSubmittedDWAssignment">
+        <user_id>student_smoke_allStudentSubmittedDWAssignment_268_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_allStudentSubmittedDWAssignment_268</context_id>
+        <context_title>studtitle_smoke_allStudentSubmittedDWAssignment_268</context_title>
+        <familyname>b</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="269" method="studentHaveNotSubmittedDWAssignment">
+        <user_id>instructor_smoke_studentHaveNotSubmittedDWAssignment_269</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_studentHaveNotSubmittedDWAssignment_269</context_id>
+        <context_title>studtitle_smoke_studentHaveNotSubmittedDWAssignment_269</context_title>
+        <assessmentname>studentHaveNotSubmittedDWAssignment</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>QuestionSet_studentHaveNotSubmittedDWAssignment</questionset>
+        <questiontext>QuestionText_studentHaveNotSubmittedDWAssignment</questiontext>
+        <GroupName>one</GroupName>
+        <shareWithInitialString>one</shareWithInitialString>
+        <shareWithClass>false</shareWithClass>
+        <gradable>true</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>10</duetime>
+        <totalpoints>2</totalpoints>
+        <defaultDuetime>true</defaultDuetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="269_1" method="studentHaveNotSubmittedDWAssignment">
+        <user_id>student_smoke_studentHaveNotSubmittedDWAssignment_269</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_studentHaveNotSubmittedDWAssignment_269</context_id>
+        <context_title>studtitle_smoke_studentHaveNotSubmittedDWAssignment_269</context_title>
+        <familyname>a</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="269_2" method="studentHaveNotSubmittedDWAssignment">
+        <user_id>student_smoke_studentHaveNotSubmittedDWAssignment_269_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_studentHaveNotSubmittedDWAssignment_269</context_id>
+        <context_title>studtitle_smoke_studentHaveNotSubmittedDWAssignment_269</context_title>
+        <familyname>b</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="270" method="perspectiveOfSelectedGroup">
+        <user_id>instructor_smoke_perspectiveOfSelectedGroup_270</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_perspectiveOfSelectedGroup_270</context_id>
+        <context_title>studtitle_smoke_perspectiveOfSelectedGroup_270</context_title>
+        <discussionAssignment>perspectiveOfSelectedGroup</discussionAssignment>
+        <description>description</description>
+        <GroupName>one,two</GroupName>
+        <shareWithInitialString>one</shareWithInitialString>
+        <shareWithInitialString1>two</shareWithInitialString1>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>10</duetime>
+        <totalPoints>2</totalPoints>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="270_1" method="perspectiveOfSelectedGroup">
+        <user_id>student_smoke_perspectiveOfSelectedGroup_270</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_perspectiveOfSelectedGroup_270</context_id>
+        <context_title>studtitle_smoke_perspectiveOfSelectedGroup_270</context_title>
+        <familyname>a</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="270_2" method="perspectiveOfSelectedGroup">
+        <user_id>student_smoke_perspectiveOfSelectedGroup_270_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_perspectiveOfSelectedGroup_270</context_id>
+        <context_title>studtitle_smoke_perspectiveOfSelectedGroup_270</context_title>
+        <familyname>b</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="270_3" method="perspectiveOfSelectedGroup">
+        <user_id>student_smoke_perspectiveOfSelectedGroup_270_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_perspectiveOfSelectedGroup_270</context_id>
+        <context_title>studtitle_smoke_perspectiveOfSelectedGroup_270</context_title>
+        <familyname>c</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="270_4" method="perspectiveOfSelectedGroup">
+        <user_id>student_smoke_perspectiveOfSelectedGroup_270_4</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_perspectiveOfSelectedGroup_270</context_id>
+        <context_title>studtitle_smoke_perspectiveOfSelectedGroup_270</context_title>
+        <familyname>d</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="271" method="verifyForTotalScore">
+        <user_id>instructor_smoke_verifyForTotalScore_271</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_verifyForTotalScore_271</context_id>
+        <context_title>studtitle_smoke_verifyForTotalScore_271</context_title>
+        <discussionAssignment>perspectiveOfSelectedGroup</discussionAssignment>
+        <description>description</description>
+        <GroupName>one,two</GroupName>
+        <shareWithInitialString>one</shareWithInitialString>
+        <shareWithInitialString1>two</shareWithInitialString1>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>10</duetime>
+        <totalPoints>2</totalPoints>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="271_1" method="verifyForTotalScore">
+        <user_id>student_smoke_verifyForTotalScore_271</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_verifyForTotalScore_271</context_id>
+        <context_title>studtitle_smoke_verifyForTotalScore_271</context_title>
+        <familyname>a</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="271_2" method="verifyForTotalScore">
+        <user_id>student_smoke_verifyForTotalScore_271_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_verifyForTotalScore_271</context_id>
+        <context_title>studtitle_smoke_verifyForTotalScore_271</context_title>
+        <familyname>b</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="271_3" method="verifyForTotalScore">
+        <user_id>student_smoke_verifyForTotalScore_271_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_verifyForTotalScore_271</context_id>
+        <context_title>studtitle_smoke_verifyForTotalScore_271</context_title>
+        <familyname>c</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="271_4" method="verifyForTotalScore">
+        <user_id>student_smoke_verifyForTotalScore_271_4</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_verifyForTotalScore_271</context_id>
+        <context_title>studtitle_smoke_verifyForTotalScore_271</context_title>
+        <familyname>d</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="272" method="studentNotSubmittedAndDueDateExpired">
+        <user_id>instructor_smoke_studentNotSubmittedAndDueDateExpired_272</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_studentNotSubmittedAndDueDateExpired_272</context_id>
+        <context_title>studtitle_smoke_studentNotSubmittedAndDueDateExpired_272</context_title>
+        <discussionAssignment>perspectiveOfSelectedGroup</discussionAssignment>
+        <description>description</description>
+        <GroupName>one</GroupName>
+        <shareWithInitialString>one</shareWithInitialString>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>3</duetime>
+        <totalPoints>2</totalPoints>
+        <defaultDuetime>true</defaultDuetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="272_1" method="studentNotSubmittedAndDueDateExpired">
+        <user_id>student_smoke_studentNotSubmittedAndDueDateExpired_272</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_studentNotSubmittedAndDueDateExpired_272</context_id>
+        <context_title>studtitle_smoke_studentNotSubmittedAndDueDateExpired_272</context_title>
+        <familyname>a</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="272_2" method="studentNotSubmittedAndDueDateExpired">
+        <user_id>student_smoke_studentNotSubmittedAndDueDateExpired_272_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_studentNotSubmittedAndDueDateExpired_272</context_id>
+        <context_title>studtitle_smoke_studentNotSubmittedAndDueDateExpired_272</context_title>
+        <familyname>b</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="272_3" method="studentNotSubmittedAndDueDateExpired">
+        <user_id>student_smoke_studentNotSubmittedAndDueDateExpired_272_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_studentNotSubmittedAndDueDateExpired_272</context_id>
+        <context_title>studtitle_smoke_studentNotSubmittedAndDueDateExpired_272</context_title>
+        <familyname>c</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="273" method="assignGroupAndCombination">
+        <user_id>instructor_smoke_assignGroupAndCombination_273</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_assignGroupAndCombination_273</context_id>
+        <context_title>studtitle_smoke_assignGroupAndCombination_273</context_title>
+        <discussionAssignment>perspectiveOfSelectedGroup</discussionAssignment>
+        <description>description</description>
+        <GroupName>one</GroupName>
+        <shareWithInitialString>one</shareWithInitialString>
+        <studentName>c, month</studentName>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>3</duetime>
+        <totalPoints>2</totalPoints>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="273_1" method="assignGroupAndCombination">
+        <user_id>student_smoke_assignGroupAndCombination_273</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignGroupAndCombination_273</context_id>
+        <context_title>studtitle_smoke_assignGroupAndCombination_273</context_title>
+        <familyname>a</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="273_2" method="assignGroupAndCombination">
+        <user_id>student_smoke_assignGroupAndCombination_273_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignGroupAndCombination_273</context_id>
+        <context_title>studtitle_smoke_assignGroupAndCombination_273</context_title>
+        <familyname>b</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="273_3" method="assignGroupAndCombination">
+        <user_id>student_smoke_assignGroupAndCombination_273_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignGroupAndCombination_273</context_id>
+        <context_title>studtitle_smoke_assignGroupAndCombination_273</context_title>
+        <familyname>c</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="274" method="assignGroupAndCombination">
+        <user_id>instructor_smoke_assignGroupAndCombination_274</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_assignGroupAndCombination_274</context_id>
+        <context_title>studtitle_smoke_assignGroupAndCombination_274</context_title>
+        <discussionAssignment>perspectiveOfSelectedGroup</discussionAssignment>
+        <description>description</description>
+        <GroupName>one</GroupName>
+        <shareWithInitialString>one</shareWithInitialString>
+        <studentName>a, month</studentName>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>3</duetime>
+        <totalPoints>2</totalPoints>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="274_1" method="assignGroupAndCombination">
+        <user_id>student_smoke_assignGroupAndCombination_274</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignGroupAndCombination_274</context_id>
+        <context_title>studtitle_smoke_assignGroupAndCombination_274</context_title>
+        <familyname>a</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="274_2" method="assignGroupAndCombination">
+        <user_id>student_smoke_assignGroupAndCombination_274_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignGroupAndCombination_274</context_id>
+        <context_title>studtitle_smoke_assignGroupAndCombination_274</context_title>
+        <familyname>b</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="275" method="assignDWAssignmentToIndividual">
+        <user_id>instructor_smoke_assignDWAssignmentToIndividual_275</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_assignDWAssignmentToIndividual_275</context_id>
+        <context_title>studtitle_smoke_assignDWAssignmentToIndividual_275</context_title>
+        <discussionAssignment>perspectiveOfSelectedGroup</discussionAssignment>
+        <description>description</description>
+        <GroupName>one</GroupName>
+        <studentName>a, month</studentName>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>3</duetime>
+        <totalPoints>2</totalPoints>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="275_1" method="assignDWAssignmentToIndividual">
+        <user_id>student_smoke_assignDWAssignmentToIndividual_275</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignDWAssignmentToIndividual_275</context_id>
+        <context_title>studtitle_smoke_assignDWAssignmentToIndividual_275</context_title>
+        <familyname>a</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="276" method="assignDWAssignmentToIndividual">
+        <user_id>instructor_smoke_assignDWAssignmentToIndividual_276</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_assignDWAssignmentToIndividual_276</context_id>
+        <context_title>studtitle_smoke_assignDWAssignmentToIndividual_276</context_title>
+        <discussionAssignment>perspectiveOfSelectedGroup</discussionAssignment>
+        <description>description</description>
+        <GroupName>one</GroupName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>3</duetime>
+        <totalPoints>2</totalPoints>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="276_1" method="assignDWAssignmentToIndividual">
+        <user_id>student_smoke_assignDWAssignmentToIndividual_276</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignDWAssignmentToIndividual_276</context_id>
+        <context_title>studtitle_smoke_assignDWAssignmentToIndividual_276</context_title>
+        <familyname>a</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="278" method="assignDWAssignmentToIndividual">
+        <user_id>instructor_smoke_assignDWAssignmentToIndividual_278</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_assignDWAssignmentToIndividual_278</context_id>
+        <context_title>studtitle_smoke_assignDWAssignmentToIndividual_278</context_title>
+        <discussionAssignment>perspectiveOfSelectedGroup</discussionAssignment>
+        <description>description</description>
+        <gradeable>false</gradeable>
+        <GroupName>one</GroupName>
+        <shareWithInitialString>one</shareWithInitialString>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>3</duetime>
+        <totalPoints>2</totalPoints>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="278_1" method="assignDWAssignmentToIndividual">
+        <user_id>student_smoke_assignDWAssignmentToIndividual_278</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignDWAssignmentToIndividual_278</context_id>
+        <context_title>studtitle_smoke_assignDWAssignmentToIndividual_278</context_title>
+        <familyname>a</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="279" method="assignAssignmentWithDifferent">
+        <user_id>instructor_smoke_assignAssignmentWithDifferent_279</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_assignAssignmentWithDifferent_279</context_id>
+        <context_title>studtitle_smoke_assignAssignmentWithDifferent_279</context_title>
+        <custom_instructor_classlist>[{"classid":"c12","title":"BiologyTitle17","classcode":"BIO113","state":"Active"}]</custom_instructor_classlist>
+        <GroupName>one,two</GroupName>
+        <shareWithInitialString>one</shareWithInitialString>
+        <shareWithInitialString1>two</shareWithInitialString1>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="279_1" method="assignAssignmentWithDifferent">
+        <user_id>student_smoke_assignAssignmentWithDifferent_279</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignAssignmentWithDifferent_279</context_id>
+        <context_title>studtitle_smoke_assignAssignmentWithDifferent_279</context_title>
+        <familyname>a</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="279_2" method="assignAssignmentWithDifferent">
+        <user_id>student_smoke_assignAssignmentWithDifferent_279_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignAssignmentWithDifferent_279</context_id>
+        <context_title>studtitle_smoke_assignAssignmentWithDifferent_279</context_title>
+        <familyname>b</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="279_3" method="assignAssignmentWithDifferent">
+        <user_id>student_smoke_assignAssignmentWithDifferent_279_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignAssignmentWithDifferent_279</context_id>
+        <context_title>studtitle_smoke_assignAssignmentWithDifferent_279</context_title>
+        <familyname>c</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="280" method="assignAssignmentWithDifferent">
+        <user_id>instructor_smoke_assignAssignmentWithDifferent_279</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_assignAssignmentWithDifferent_280</context_id>
+        <context_title>studtitle_smoke_assignAssignmentWithDifferent_280</context_title>
+        <custom_instructor_classlist>[{"classid":"c1","title":"BiologyTitle1","classcode":"BIO1","state":"Active"}]</custom_instructor_classlist>
+        <GroupName>three,four</GroupName>
+        <shareWithInitialString>two</shareWithInitialString>
+        <shareWithInitialString1>four</shareWithInitialString1>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>3</duetime>
+        <defaultDuetime>true</defaultDuetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="279_5" method="assignAssignmentWithDifferent">
+        <user_id>student_smoke_assignAssignmentWithDifferent_279_5</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignAssignmentWithDifferent_280</context_id>
+        <context_title>studtitle_smoke_assignAssignmentWithDifferent_280</context_title>
+        <familyname>e</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup" index="279_6" method="assignAssignmentWithDifferent">
+        <user_id>student_smoke_assignAssignmentWithDifferent_270_6</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignAssignmentWithDifferent_280</context_id>
+        <context_title>studtitle_smoke_assignAssignmentWithDifferent_280</context_title>
+        <familyname>f</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+
+</learningspaces>

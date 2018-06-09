@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R39.VerifyMyJournal" index="5" method="UIofMyJournal">
+		<user_id>student_IT12_R39_5</user_id>
+		<Role>student</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R39.VerifyMyJournal" index="9" method="bookmarkingOfAll">
+		<user_id>student_IT12_R39_9_1</user_id>
+		<Role>student</Role>
+        <context_id>IT12_R39_studcontext_9_1</context_id>
+        <context_title>IT12_R39_studtitle_9_1</context_title>
+		<resoursename>IT12_R39_9Resourse</resoursename>
+		<type>image</type>
+		<description>Description Text</description>
+		<instructoronlyflag>false</instructoronlyflag>
+		<filename>img.png</filename>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R39.VerifyMyJournal" index="11" method="postNoteAndVerify">
+		<user_id>student_IT12_R39_11</user_id>
+		<Role>student</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R39.VerifyMyJournal" index="13" method="postDiscussionAndVerify">
+		<user_id>st_IT12_R39_13</user_id>
+		<Role>student</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R39.VerifyMyJournal" index="15" method="highlightTextAndVerify">
+		<user_id>student_IT12_R39_15</user_id>
+		<Role>student</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R39.VerifyMyJournal" index="17" method="addDiscussionAndBookmarkWidget">
+		<user_id>student_IT12_R39_17</user_id>
+		<Role>student</Role>
+		<context_id>IT12_R39_17studcontext</context_id>
+		<context_title>IT12_R39_17studtitle</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R39.VerifyMyJournal" index="17_1" method="addDiscussionAndBookmarkResource">
+		<user_id>student_IT12_R39_17_1</user_id>
+		<Role>student</Role>
+        <context_id>IT12_R39_studcontext17_1</context_id>
+        <context_title>IT12_R39_studtitle17_1</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R39.VerifyMyJournal" index="19" method="addDiscussionAndBookmarkResourceAndHideAsInstructor">
+		<user_id>student_IT12_R39_19</user_id>
+		<Role>student</Role>
+		<context_id>IT12_R39_studcontext19_1</context_id>
+		<context_title>IT12_R39_studtitle19_1</context_title>
+        <resoursename>IT12_R39_19Resourse</resoursename>
+        <type>image</type>
+        <description>Description Text</description>
+        <instructoronlyflag>false</instructoronlyflag>
+        <filename>img.png</filename>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R39.VerifyMyJournal" index="19_1" method="addDiscussionAndBookmarkResourceAndHideAsInstructor">
+		<user_id>instructor_IT12_R39_19</user_id>
+		<Role>instructor</Role>
+		<context_id>IT12_R39_studcontext19_1</context_id>
+		<context_title>IT12_R39_studtitle19_1</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R39.VerifyMyJournal" index="19_2" method="addDiscussionAndBookmarkWidgetAndHideAsInstructor">
+		<user_id>student.IT12.R39.19_2</user_id>
+		<Role>student</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R39.VerifyMyJournal" index="19_3" method="addDiscussionAndBookmarkWidgetAndHideAsInstructor">
+		<user_id>instructor.IT12.R39.19_3</user_id>
+		<Role>instructor</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R39.ChronologicalSequence" index="48" method="chronologicalSequence">
+		<user_id>studentIT12.R39.48</user_id>
+		<Role>student</Role>
+        <resoursename>IT12_R39_48_Resourse</resoursename>
+        <type>image</type>
+        <description>Description Text</description>
+        <instructoronlyflag>false</instructoronlyflag>
+        <filename>img.png</filename>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R39.ReflectionOfSocialActivitiesOnCourseStream" index="70" method="reflectionOfSocialActivitiesOnCourseStream">
+		<user_id>studentIT12.R39.70</user_id>
+		<Role>student</Role>
+		<context_id>IT12.R39.70studcontext</context_id>
+		<context_title>IT12.R39.70studtitle</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R39.ReflectionOfSocialActivitiesOnCourseStream" index="70_1" method="reflectionOfSocialActivitiesOnCourseStream">
+		<user_id>studentIT12.R39.70_1</user_id>
+		<Role>student</Role>
+		<context_id>IT12.R39.70studcontext</context_id>
+		<context_title>IT12.R39.70studtitle</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R39.ActivitiesThatCreateJournalEntries" index="76" method="cardUIForChronologicalView">
+		<user_id>studentIT12.R39_76</user_id>
+		<Role>student</Role>
+		<context_id>IT12.R39studcontext76</context_id>
+		<context_title>IT12.R39studtitle76</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R39.ActivitiesThatCreateJournalEntries" index="88" method="verifyJumpOutIconForLesson">
+		<user_id>studentIT12.R39.80_1</user_id>
+		<Role>student</Role>
+        <context_id>IT12.R39studcontext88</context_id>
+        <context_title>IT12.R39studtitle88</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R39.ActivitiesThatCreateJournalEntries" index="94" method="verifyJumpOutIconForDiscussion">
+		<user_id>student.IT12.R39.94_1</user_id>
+		<Role>student</Role>
+        <context_id>IT12.R39studcontext94_1</context_id>
+        <context_title>IT12.R39studtitle94_1</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R39.ActivitiesThatCreateJournalEntries" index="94_1" method="verifyJumpOutIconForDiscussion">
+		<user_id>student.IT12.R39.94_1_1</user_id>
+		<Role>student</Role>
+        <context_id>IT12.R39studcontext94_1</context_id>
+        <context_title>IT12.R39studtitle94_1</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R39.ActivitiesThatCreateJournalEntries" index="106" method="verifyJumpOutIconForWidget">
+		<user_id>student.IT12.R39.106_2</user_id>
+		<Role>student</Role>
+        <context_id>IT12.R39.studcontext106_1</context_id>
+        <context_title>IT12.R39.studtitle106_1</context_title>
+	</testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R39.ActivitiesThatCreateJournalEntries" index="110" method="expandCollapseIconForImage">
+        <user_id>student.IT12.R39.110_1</user_id>
+        <Role>student</Role>
+        <context_id>IT12.R39.studcontext110_1</context_id>
+        <context_title>IT12.R39.studtitle110_1</context_title>
+    </testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R39.ActivitiesThatCreateJournalEntries" index="115" method="verifyMyJournalForResource">
+		<user_id>student.IT12.R39.115_1</user_id>
+		<Role>student</Role>
+        <context_id>IT12.R39.studcontext_115</context_id>
+        <context_title>IT12.R39.studtitle_115</context_title>
+        <resoursename>IT12_R39_115_Resourse</resoursename>
+        <type>image</type>
+        <description>Description Text</description>
+        <instructoronlyflag>false</instructoronlyflag>
+        <filename>img.png</filename>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R39.ActivitiesThatCreateJournalEntries" index="130" method="verifyJumpOutIconForHighlightedText">
+		<user_id>student.IT12.R39.130_1</user_id>
+		<Role>student</Role>
+		<color>#FCF2B1</color>
+		<context_id>IT12.R39.studcontext130_1</context_id>
+		<context_title>IT12.R39.studtitle130_1</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R39.AddDicussionAfterSelectingText" index="138" method="addDicussionAfterSelectingText">
+		<user_id>studen.IT12.R39.138</user_id>
+		<Role>student</Role>
+		<context_id>IT12.R39.studcontext138</context_id>
+		<context_title>IT12.R39.studtitle138</context_title>
+		<color>#b6d68c</color>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R39.AddDicussionAfterSelectingText" index="155" method="addNoteAfterSelectingText">
+		<user_id>student.IT12.R39.155_1</user_id>
+		<Role>student</Role>
+		<context_id>IT12.R39.studcontext155_1</context_id>
+		<context_title>IT12.R39.studtitle155_1</context_title>
+		<color>#FCF2B1</color>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R39.EditDiscussionAndVerify" index="150" method="editDiscussionAndVerify">
+		<user_id>studentIT12.R39.150</user_id>
+		<Role>student</Role>
+		<context_id>IT12.R39.studcontext150</context_id>
+		<context_title>IT12.R39.studtitle150</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R39.EditDiscussionAndVerify" index="165" method="editNoteAndVerify">
+		<user_id>studentIT12.R39.165</user_id>
+		<Role>student</Role>
+		<context_id>IT12.R39.studcontext165</context_id>
+		<context_title>IT12.R39.studtitle165</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R39.VerifyFiltersInMyJournal" index="185" method="verifyFiltersInMyJournal">
+		<user_id>studentsIT12.R39.185</user_id>
+		<Role>student</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R39.VerifyFiltersInMyJournal" index="189" method="allSectionFilter">
+		<user_id>studentIT12.R39.189</user_id>
+		<Role>student</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R39.VerifyFiltersInMyJournal" index="216" method="filterResetToDefault">
+		<user_id>studentssIT12.R39.216</user_id>
+		<Role>student</Role>
+	</testcase>
+</learningspaces>

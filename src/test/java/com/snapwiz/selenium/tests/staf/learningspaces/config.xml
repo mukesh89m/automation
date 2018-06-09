@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<config>
+    <platform>linux</platform>
+    <browser>firefox</browser>
+    <course>Biology</course>
+    <lscourse>Geography: Realms, Regions, and Concepts - Sixteenth Edition</lscourse>
+	<baseURL>http://10.0.0.240:8080</baseURL>
+    <LTIURL>http://wiley-app-lti.elasticbeanstalk.com/</LTIURL>
+    <LaunchURL>http://10.0.0.240:8080/oAuth</LaunchURL>
+    <customerkey>wileyplusproduction</customerkey>
+    <secretkey>qp5bd658az8</secretkey>
+    <lti_message_type>basic-lti-launch-request</lti_message_type>
+    <custom_lms_type>null</custom_lms_type>
+    <content_item_return_url>null</content_item_return_url>
+    <oauth_callback>null</oauth_callback>
+    <launch_presentation_document_target>null</launch_presentation_document_target>
+    <resourselinkid>home</resourselinkid>
+    <context_id>studcontext</context_id>
+    <context_title>studtitle</context_title>
+    <familyname>family</familyname>
+    <givenname>givenname</givenname>
+    <email>automation@snapwiz.com</email>
+    <instance_guid>WileyPLUS</instance_guid>
+    <instance_name>wileyplus.com</instance_name>
+    <courseID>ISBNEPROF12517</courseID>
+    <adaptiveCourseID>251</adaptiveCourseID>
+    <lsCourseId>ISBNEPROF12479</lsCourseId>
+    <custom_instructor_classlist>[{"classid":"cls123","title":"Biology's 101","classcode":"BIO-101","state":"Active"},{"classid":"cls234","title":"Biology's 101","classcode":"BIO-101","state":"Active"}]</custom_instructor_classlist>
+    <custom_destination>snapwiz-homepage</custom_destination>
+    <custom_domainid>autodomain</custom_domainid >
+    <custom_course_number>autocustno</custom_course_number>
+    <custom_domain_name>studtitle</custom_domain_name>
+	<dbconnecturl>jdbc:mysql://10.0.0.240:3306/</dbconnecturl>
+    <dbName>mongrel</dbName>
+    <dbdriver>com.mysql.jdbc.Driver</dbdriver>
+    <dbuserName>dbuser</dbuserName>
+    <dbPassword>dbpassword</dbPassword>
+    <FileUploadPath>/home/mukesh/fileupload/</FileUploadPath>
+    <cmsUserName>lspaces2</cmsUserName>
+    <cmsPassword>snapwiz</cmsPassword>
+    <publisheradmin>wiley4</publisheradmin>
+    <supportEmail></supportEmail>
+    <supportEmailPassword></supportEmailPassword>
+    <downloadPath>/tmp/</downloadPath>
+</config>

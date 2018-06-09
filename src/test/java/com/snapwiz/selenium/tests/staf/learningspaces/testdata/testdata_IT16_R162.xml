@@ -1,0 +1,214 @@
+<?xml version="1.0"?>
+<learningspaces>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R162.ReportAnyContentError" index="2" method="reportAnyContentError">
+        <assessmentname>2_1 Assessment</assessmentname>
+        <questionset>2_1 Question Set</questionset>
+        <questiontext>2_1 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <assessmentname>2_1 Assessment</assessmentname>
+	</testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R162.AuthorShouldBeAbleToReportAnyContentErrors" index="19" method="authorShouldBeAbleToReportAnyContentErrors">
+        <assessmentname>19_1 Assessment</assessmentname>
+        <questionset>19 Question Set</questionset>
+        <questiontext>19 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <assessmentname>19 Assessment</assessmentname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R162.AuthorShouldBeAbleToReportAnyContentErrors" index="24" method="reportCount">
+        <assessmentname>24_1 Assessment</assessmentname>
+        <questionset>24 Question Set</questionset>
+        <questiontext>24 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <assessmentname>24 Assessment</assessmentname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R162.AuthorShouldBeAbleToViewTheStatusOfAllContentIssues" index="31" method="authorShouldBeAbleToViewTheStatusOfAllContentIssues">
+        <assessmentname>31_1 Assessment</assessmentname>
+        <questionset>31 Question Set</questionset>
+        <questiontext>31 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <assessmentname>31 Assessment</assessmentname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R162.StudentReportContentIssue" index="41" method="studentReportContentIssue">
+        <user_id>instructor_IT16_R162_41_2</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R162_41_1</context_id>
+        <context_title>studtitle_IT16_R162_41_1</context_title>
+        <assessmentname>41_1 Assessment</assessmentname>
+        <questionset>41 Question Set</questionset>
+        <questiontext>41 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <assessmentname>41 Assessment</assessmentname>
+        <shareWithInitialString>stud</shareWithInitialString>
+        <shareName>studtitle_IT16_R162_41_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R162.StudentReportContentIssue" index="41_1" method="studentReportContentIssue">
+        <user_id>Student_IT16_R162_41_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R162_41_1</context_id>
+        <context_title>studtitle_IT16_R162_41_1</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R162.VerifyFiltersInContentErrorReportPage" index="50" method="verifyFiltersInContentErrorReportPage">
+        <assessmentname>50_1 Assessment</assessmentname>
+        <questionset>50 Question Set</questionset>
+        <questiontext>50 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <assessmentname>50 Assessment</assessmentname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R162.StudentContentErrorReportForDiagnosticQuestions" index="67" method="studentContentErrorReportForDiagnosticQuestions">
+        <user_id>Student_IT16_R162_67_11</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R162_67</context_id>
+        <context_title>studtitle_IT16_R162_67</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R162.StudentContentErrorReportForDiagnosticQuestions" index="67_1" method="studentContentErrorReportForDiagnosticQuestions">
+        <user_id>Instructor_IT16_R162_67_1_11</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R162_67</context_id>
+        <context_title>studtitle_IT16_R162_67</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R162.StudentReportContentIssueForStaticAssessment" index="78" method="studentReportContentIssueForStaticAssessment">
+        <user_id>Student_IT16_R162_78_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R162_78</context_id>
+        <context_title>studtitle_IT16_R162_78</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R162.StudentReportContentIssueForNonGradableAssignment" index="81" method="studentReportContentIssueForNonGradableAssignment">
+        <user_id>instructor_IT16_R162_81_2</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R162_81_1</context_id>
+        <context_title>studtitle_IT16_R162_81_1</context_title>
+        <assessmentname>81_1 Assessment</assessmentname>
+        <questionset>81 Question Set</questionset>
+        <questiontext>81 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <assessmentname>81 Assessment</assessmentname>
+        <shareWithInitialString>stud</shareWithInitialString>
+        <shareName>studtitle_IT16_R162_81_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R162.StudentReportContentIssueForNonGradableAssignment" index="81_1" method="studentReportContentIssueForNonGradableAssignment">
+        <user_id>Student_IT16_R162_81_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R162_81_1</context_id>
+        <context_title>studtitle_IT16_R162_81_1</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R162.StudentReportContentIssueForGradableAssignment" index="84" method="studentReportContentIssueForGradableAssignment">
+        <user_id>instructor_IT16_R162_84_2</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R162_84_1</context_id>
+        <context_title>studtitle_IT16_R162_84_1</context_title>
+        <assessmentname>84_1 Assessment</assessmentname>
+        <questionset>84 Question Set</questionset>
+        <questiontext>84 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <assessmentname>84 Assessment</assessmentname>
+        <shareWithInitialString>stud</shareWithInitialString>
+        <shareName>studtitle_IT16_R162_84_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R162.StudentReportContentIssueForGradableAssignment" index="84_1" method="studentReportContentIssueForGradableAssignment">
+        <user_id>Student_IT16_R162_84_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R162_84_1</context_id>
+        <context_title>studtitle_IT16_R162_84_1</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R162.NotificationPopUpForStudentOnSendingContentErrorReport" index="91" method="notificationPopUpForStudentOnSendingContentErrorReport">
+        <user_id>Student_IT16_R162_91_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R162_91</context_id>
+        <context_title>studtitle_IT16_R162_91</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R162.InstructorIsAbleToReportContentErrorsInDiagnosticTestReviewPage" index="117" method="instructorIsAbleToReportContentErrorsInDiagnosticTestReviewPage">
+        <user_id>Ins_IT16_R162_117</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R162_117</context_id>
+        <context_title>studtitle_IT16_R162_117</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R162.InstructorIsAbleToReportContentErrorsInAdaptiveTestReviewPage" index="122" method="instructorIsAbleToReportContentErrorsInDiagnosticTestReviewPage">
+        <user_id>Ins_IT16_R162_122</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R162_122</context_id>
+        <context_title>studtitle_IT16_R162_122</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R162.InstructorIsAbleToReportContentErrorsInStaticAssessment" index="130" method="instructorIsAbleToReportContentErrorsInStaticAssessment">
+        <user_id>Ins_IT16_R162_130</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R162_130</context_id>
+        <context_title>studtitle_IT16_R162_130</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R162.InstructorReportContentErrorFromAllResourcePage" index="141" method="instructorReportContentErrorFromAllResourcePage">
+        <user_id>instructor_IT16_R162_141_2</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R162_141_1</context_id>
+        <context_title>studtitle_IT16_R162_141_1</context_title>
+        <assessmentname>141_1 Assessment</assessmentname>
+        <questionset>141 Question Set</questionset>
+        <questiontext>141 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <assessmentname>141 Assessment</assessmentname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R162.InstructorReportContentErrorFromEtextBook" index="134" method="instructorReportContentErrorFromEtextBook">
+        <user_id>instructor_IT16_R162_134_3</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R162_134_3</context_id>
+        <context_title>studtitle_IT16_R162_134_3</context_title>
+        <assessmentname>134 Assessment</assessmentname>
+        <questionset>134 Question Set</questionset>
+        <questiontext>134 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <assessmentname>134 Assessment</assessmentname>
+        <shareWithInitialString>stud</shareWithInitialString>
+        <shareName>studtitle_IT16_R162_134_3</shareName>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R162.ReportContentErrorForPassageTypeQuestionsInAssignments" index="107" method="reportContentErrorForPassageTypeQuestionsInAssignments">
+        <user_id>instructor_IT16_R162_107_2</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R162_107_1</context_id>
+        <context_title>studtitle_IT16_R162_107_1</context_title>
+        <assessmentname>107_2 Assessment</assessmentname>
+        <questionset>107_2 Question Set</questionset>
+        <questiontext>107_2 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>stud</shareWithInitialString>
+        <shareName>studtitle_IT16_R162_107_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <passage>passagepassagepassagepassagepassagepassagepassagepassage</passage>
+        <setname>setname</setname>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R162.ReportContentErrorForPassageTypeQuestionsInAssignments" index="107_1" method="reportContentErrorForPassageTypeQuestionsInAssignments">
+        <user_id>Student_IT16_R162_107_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R162_107_1</context_id>
+        <context_title>studtitle_IT16_R162_107_1</context_title>
+    </testcase>
+
+</learningspaces>

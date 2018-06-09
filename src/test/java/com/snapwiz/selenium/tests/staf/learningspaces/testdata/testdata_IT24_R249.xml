@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R249.ThresholdGrading" index="12" method="assignPopUpOnToc">
+        <user_id>Instructor_IT24_R249_12</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT24_R249_12</context_id>
+        <context_title>studtitle_IT24_R249_12</context_title>
+    </testcase>
+
+
+
+    <!--ThresholdNegativeScenario-->
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R249.ThresholdNegativeScenario" index="58" method="">
+        <user_id>Instructor_IT24_R249_58</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT24_R249_58</context_id>
+        <context_title>studtitle_IT24_R249_58</context_title>
+        <thresholdRangeOne>10</thresholdRangeOne>
+        <thresholdRangeTwo>50</thresholdRangeTwo>
+        <thresholdRangeThree>105</thresholdRangeThree>
+        <thresholdRangeFour>80</thresholdRangeFour>
+        <thresholdRangeFive>90</thresholdRangeFive>
+        <gradeable>true</gradeable>
+        <threshold>true</threshold>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R249.ThresholdNegativeScenario" index="64" method="">
+        <user_id>Instructor_IT24_R249_64</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT24_R249_64</context_id>
+        <context_title>studtitle_IT24_R249_64</context_title>
+        <thresholdRangeOne>10</thresholdRangeOne>
+        <thresholdRangeTwo>50</thresholdRangeTwo>
+        <thresholdRangeThree>60</thresholdRangeThree>
+        <thresholdRangeFour>90</thresholdRangeFour>
+        <thresholdRangeFive>80</thresholdRangeFive>
+        <gradeable>true</gradeable>
+        <threshold>true</threshold>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R249.ThresholdNegativeScenario" index="71" method="">
+        <user_id>Instructor_IT24_R249_71</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT24_R249_71</context_id>
+        <context_title>studtitle_IT24_R249_71</context_title>
+        <thresholdRangeOne>10</thresholdRangeOne>
+        <thresholdRangeTwo>50</thresholdRangeTwo>
+        <thresholdRangeThree>60</thresholdRangeThree>
+        <thresholdRangeFour>80</thresholdRangeFour>
+        <thresholdRangeFive>90</thresholdRangeFive>
+        <gradeable>true</gradeable>
+        <threshold>true</threshold>
+        <assignThis>true</assignThis>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R249.ThresholdNegativeScenario" index="96" method="">
+        <user_id>Instructor_IT24_R249_96</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT24_R249_96</context_id>
+        <context_title>studtitle_IT24_R249_96</context_title>
+        <numberofquestions>10</numberofquestions>
+        <thresholdRangeOne>10</thresholdRangeOne>
+        <thresholdRangeTwo>50</thresholdRangeTwo>
+        <thresholdRangeThree>60</thresholdRangeThree>
+        <thresholdRangeFour>80</thresholdRangeFour>
+        <thresholdRangeFive>90</thresholdRangeFive>
+        <gradeable>true</gradeable>
+        <threshold>true</threshold>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R249.ThresholdNegativeScenario" index="96_1" method="">
+        <user_id>Student_IT24_R249_96</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT24_R249_96</context_id>
+        <context_title>studtitle_IT24_R249_96</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R249.ThresholdNegativeScenario" index="137" method="">
+        <user_id>Instructor_IT24_R249_137</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT24_R249_137</context_id>
+        <context_title>studtitle_IT24_R249_137</context_title>
+        <numberofquestions>10</numberofquestions>
+        <thresholdRangeOne>10</thresholdRangeOne>
+        <thresholdRangeTwo>50</thresholdRangeTwo>
+        <thresholdRangeThree>60</thresholdRangeThree>
+        <thresholdRangeFour>80</thresholdRangeFour>
+        <thresholdRangeFive>90</thresholdRangeFive>
+        <gradeable>true</gradeable>
+        <threshold>true</threshold>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R249.ThresholdNegativeScenario" index="137_1" method="">
+        <user_id>Student_IT24_R249_137</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT24_R249_137</context_id>
+        <context_title>studtitle_IT24_R249_137</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R249.ThresholdNegativeScenario" index="142" method="">
+        <user_id>Instructor_IT24_R249_142</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT24_R249_142</context_id>
+        <context_title>studtitle_IT24_R249_142</context_title>
+        <numberofquestions>10</numberofquestions>
+        <thresholdRangeOne>10</thresholdRangeOne>
+        <thresholdRangeTwo>50</thresholdRangeTwo>
+        <thresholdRangeThree>60</thresholdRangeThree>
+        <thresholdRangeFour>80</thresholdRangeFour>
+        <thresholdRangeFive>90</thresholdRangeFive>
+        <gradeable>true</gradeable>
+        <threshold>true</threshold>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R249.ThresholdNegativeScenario" index="142_1" method="">
+        <user_id>Student_IT24_R249_142_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT24_R249_142</context_id>
+        <context_title>studtitle_IT24_R249_142</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R249.ThresholdNegativeScenario" index="142_2" method="">
+        <user_id>Student_IT24_R249_142_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT24_R249_142</context_id>
+        <context_title>studtitle_IT24_R249_142</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R249.ThresholdNegativeScenario" index="148" method="">
+        <user_id>Instructor_IT24_R249_148</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT24_R249_148</context_id>
+        <context_title>studtitle_IT24_R249_148</context_title>
+        <thresholdRangeOne>10</thresholdRangeOne>
+        <thresholdRangeTwo>50</thresholdRangeTwo>
+        <thresholdRangeThree>60</thresholdRangeThree>
+        <thresholdRangeFour>80</thresholdRangeFour>
+        <thresholdRangeFive>90</thresholdRangeFive>
+        <gradeable>true</gradeable>
+        <threshold>true</threshold>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R249.ThresholdNegativeScenario" index="148_1" method="">
+        <user_id>Student_IT24_R249_148_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT24_R249_148</context_id>
+        <context_title>studtitle_IT24_R249_148</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R249.ThresholdNegativeScenario" index="157" method="">
+        <user_id>Instructor_IT24_R249_157</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT24_R249_157</context_id>
+        <context_title>studtitle_IT24_R249_157</context_title>
+        <thresholdRangeOne>10</thresholdRangeOne>
+        <thresholdRangeTwo>50</thresholdRangeTwo>
+        <thresholdRangeThree>60</thresholdRangeThree>
+        <thresholdRangeFour>80</thresholdRangeFour>
+        <thresholdRangeFive>90</thresholdRangeFive>
+        <gradeable>true</gradeable>
+        <threshold>true</threshold>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R249.ThresholdNegativeScenario" index="157_1" method="">
+        <user_id>Student_IT24_R249_157_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT24_R249_157</context_id>
+        <context_title>studtitle_IT24_R249_157</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R249.ThresholdNegativeScenario" index="166" method="">
+        <user_id>Instructor_IT24_R249_166</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT24_R249_166</context_id>
+        <context_title>studtitle_IT24_R249_166</context_title>
+        <numberofquestions>10</numberofquestions>
+        <thresholdRangeOne>10</thresholdRangeOne>
+        <thresholdRangeTwo>50</thresholdRangeTwo>
+        <thresholdRangeThree>60</thresholdRangeThree>
+        <thresholdRangeFour>80</thresholdRangeFour>
+        <thresholdRangeFive>90</thresholdRangeFive>
+        <gradeable>true</gradeable>
+        <threshold>true</threshold>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R249.ThresholdNegativeScenario" index="166_1" method="">
+        <user_id>Student_IT24_R249_166_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT24_R249_166</context_id>
+        <context_title>studtitle_IT24_R249_166</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R249.ThresholdNegativeScenario" index="185" method="">
+        <user_id>Instructor_IT24_R249_185</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT24_R249_185</context_id>
+        <context_title>studtitle_IT24_R249_185</context_title>
+        <numberofquestions>10</numberofquestions>
+        <thresholdRangeOne>10</thresholdRangeOne>
+        <thresholdRangeTwo>50</thresholdRangeTwo>
+        <thresholdRangeThree>60</thresholdRangeThree>
+        <thresholdRangeFour>80</thresholdRangeFour>
+        <thresholdRangeFive>90</thresholdRangeFive>
+        <gradeable>true</gradeable>
+        <threshold>true</threshold>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R249.ThresholdNegativeScenario" index="185_1" method="">
+        <user_id>Student_IT24_R249_185_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT24_R249_185</context_id>
+        <context_title>studtitle_IT24_R249_185</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R249.ThresholdGrading" index="40" method="">
+        <user_id>Instructor_IT24_R249_40</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT24_R249_40</context_id>
+        <context_title>studtitle_IT24_R249_40</context_title>
+        <thresholdRangeOne>10</thresholdRangeOne>
+        <thresholdRangeTwo>50</thresholdRangeTwo>
+        <thresholdRangeThree>50</thresholdRangeThree>
+        <thresholdRangeFour>80</thresholdRangeFour>
+        <thresholdRangeFive>90</thresholdRangeFive>
+        <gradeable>true</gradeable>
+        <threshold>true</threshold>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R249.ThresholdGrading" index="120" method="clearThresholdsOnCancel">
+        <user_id>Instructor_IT24_R249_120</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT24_R249_120</context_id>
+        <context_title>studtitle_IT24_R249_120</context_title>
+        <thresholdRangeOne>21</thresholdRangeOne>
+        <thresholdRangeTwo>41</thresholdRangeTwo>
+        <thresholdRangeThree>61</thresholdRangeThree>
+        <thresholdRangeFour>71</thresholdRangeFour>
+        <thresholdRangeFive>99</thresholdRangeFive>
+        <gradeable>true</gradeable>
+        <threshold>true</threshold>
+        <assignThis>false</assignThis>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R249.ThresholdGrading" index="130" method="instructorStudentFlow">
+        <user_id>Instructor_IT24_R249_130</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT24_R249_130</context_id>
+        <context_title>studtitle_IT24_R249_130</context_title>
+        <thresholdRangeOne>25</thresholdRangeOne>
+        <thresholdRangeTwo>45</thresholdRangeTwo>
+        <thresholdRangeThree>65</thresholdRangeThree>
+        <thresholdRangeFour>85</thresholdRangeFour>
+        <thresholdRangeFive>100</thresholdRangeFive>
+        <gradeable>true</gradeable>
+        <threshold>true</threshold>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R249.ThresholdGrading" index="131" method="instructorStudentFlow">
+    <user_id>Student_IT24_R249_130</user_id>
+    <Role>student</Role>
+    <context_id>studcontext_IT24_R249_130</context_id>
+    <context_title>studtitle_IT24_R249_130</context_title>
+</testcase>
+</learningspaces>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="R14-LSRegressionSuite">
+    <classes>      
+    	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R14.AssignmentPage"/>
+      	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R14.AssignmentPageInstructorView"/> 
+      	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R14.CheckGradeableCheckbox"/> 
+      	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R14.NonGradableAssignmentWithoutDescription"/>     
+      	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R14.ActionOverAssignments"/>  
+      	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R14.StatusOfAssignments"/>      	 	  
+      	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R14.VerifyDueDateAndAccessibleDate"/>
+      	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R14.VerifyEachStatusBox"/>      	 
+      	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R14.UpdateStatusCountInStatusBox"/> 
+      	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R14.StatusBoxCount"/>
+      	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R14.SocialElementsInstructorSide"/>
+      	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R14.VerifyFiltersOnAllAssignment"/>
+      	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R14.InstructoAbleToPreviewQuestionsLearningActivities"/><!-- error -->
+      	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R14.ResourceAssignmentByInstructor"/>
+      	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R14.InstructorAbleToFilterAllAssignableResources"/>
+      	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R14.SearchTextAreaOnTop"/>
+      	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R14.InstructorAbleToViewDetailsOfEachAssignment"/>
+      	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R14.VerifyBookMarkSymbol"/>
+      	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R14.InstructorAbleToGradeAndProvideFeedback"/>
+      	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R14.InstructorSendingPrivateMessageToAStudent"/>
+      	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R14.VerifyTotalMarksColumn"/>
+      	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R14.InstructorAbleToGradeManuallyGradableQuestions"/>
+      	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R14.InstructorAbleToFeedbackForNonGradableAssignment"/>     	
+      	     	  
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->

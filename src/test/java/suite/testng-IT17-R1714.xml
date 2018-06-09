@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+    <test name="IT17.R1724-Author- LearningSpaces">
+        <classes>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MultiPartQuestionForStaticAssessment"/>
+        </classes>
+    </test> <!-- Test -->
+
+</suite> <!-- Suite -->

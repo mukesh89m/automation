@@ -1,0 +1,834 @@
+<?xml version="1.0"?>
+<learningspaces>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.LSLoginAsStudents" index="44" method="loginAsStudents">
+		<user_id>student_IT9_R3_44_1</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.LSLoginDisplayAllPosts" index="48" method="lsloginDisplayAllPosts">
+		<user_id>student_IT9_R3_48</user_id>
+		<Role>student</Role>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.ScrolldownPageToViewOlderPost" index="52"	method="scrolldownPageToViewOlderPost">
+		<user_id>student_IT9_R3_52</user_id>
+		<Role>student</Role>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.RecentPostOnTop" index="59" method="recentPostOnTop">
+  		<user_id >student_IT9_R3_59</user_id >
+  		<Role>student</Role>
+        <filename>img.png</filename>
+ 	</testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.RecentPostOnTop" index="59_newfile" method="recentPostOnTop">
+        <filename>im-g.png</filename>
+    </testcase>
+
+ 	 <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.RecentCommentOnTopAndOrderdByTime" index="62" method="recentCommentOnTopAndOrderdByTime">  
+  		<user_id >student_IT9_R3_62</user_id >
+  		<Role>student</Role>
+        <filename>img.png</filename>
+ 	</testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.RecentCommentOnTopAndOrderdByTime" index="62_nextfile" method="recentCommentOnTopAndOrderdByTime">
+        <filename>im-g.png</filename>
+    </testcase>
+ 	
+ 	 <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.TIconBesidesSharedWithOption" index="65" method="tIconBesidesSharedWithOption">  
+  		<user_id >student_IT9_R3_65</user_id >
+ 		<Role>student</Role>
+	 </testcase>
+	 
+	 <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.RichTextEditorIcon" index="68" method="richTextEditorIcon">
+  		<user_id >student_IT9_R3_68</user_id >
+  		<Role>student</Role>
+ 	 </testcase>
+ 	 
+ 	 <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.RichTextEditor" index="84" method="richTextEditor">  
+  		<user_id >student_IT9_R3_84</user_id >
+  		<Role>student</Role>  
+	 </testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.LSShareWithOptionAdditional" index="97"	method="AutoSuggestShareBox">
+		<user_id>student_IT9_R3_97</user_id>
+		<Role>student</Role>
+		<sharewithlabel>Share With:</sharewithlabel>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.LSShareWithOptionAdditional" index="100"	method="AutoSuggestShareBox">
+		<user_id>student_IT9_R3_100</user_id>
+		<Role>student</Role>
+		<defaultClassSection>studtitle</defaultClassSection>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.LSShareWithOptionAdditional" index="103"	method="AutoSuggestShareBox">
+		<user_id>student_IT9_R3_103</user_id>
+		<Role>student</Role>
+		<familyname>103first</familyname>
+		<givenname>103second</givenname>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.LSShareWithOptionAdditional" index="104"	method="AutoSuggestShareBox">
+		<user_id>student_IT9_R3_104</user_id>
+		<Role>student</Role>
+		<familyname>104first</familyname>
+		<givenname>104second</givenname>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.LSShareWithOptionAdditional" index="105"	method="AutoSuggestShareBox">
+		<user_id>student_IT9_R3_105</user_id>
+		<Role>student</Role>
+		<familyname>105first</familyname>
+		<givenname>105second</givenname>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.LSShareWithOptionAdditional" index="110"	method="AutoSuggestShareBox">
+		<user_id>student_IT9_R3_110</user_id>
+		<Role>student</Role>
+		<shareWithInitialString>105</shareWithInitialString>
+		<studentnametag>105second 105first</studentnametag>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.LSShareWithOptionAdditional" index="113"	method="AutoSuggestShareBox">
+		<user_id>student_IT9_R3_113</user_id>
+		<Role>student</Role>
+		<shareWithInitialString>105</shareWithInitialString>
+		<studentnametag>105second 105first</studentnametag>
+		<studentnametag1>105second 105first</studentnametag1>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.LSShareWithOptionAdditional" index="136"	method="RemoveDefaultClassSectionName">
+		<user_id>student_IT9_R3_136</user_id>
+		<Role>student</Role>
+		<defaultClasssection>studtitle</defaultClasssection>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.LSShareWithOptionAdditional" index="137"	method="LSAutoSuggestStartsWithThreeAlphabets">
+		<user_id>student_IT9_R3_137</user_id>
+		<Role>student</Role>
+		<shareWithInitialStringSingle>1</shareWithInitialStringSingle>
+		<shareWithInitialStringDouble>0</shareWithInitialStringDouble>
+		<shareWithInitialStringTriple>5</shareWithInitialStringTriple>
+		<shareWithEnterFullString>105second 105first</shareWithEnterFullString>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.LSShareWithOptionAdditional" index="161" method="AutoSuggestConsideringCurrentClassSection">
+		<user_id>student_IT9_R3_161</user_id>
+		<Role>student</Role>
+		<shareWithClassSectionString>studtitle</shareWithClassSectionString>
+		<defaultClassSectionName>studtitle</defaultClassSectionName>
+		<shareWithInitialString>fir</shareWithInitialString>
+		<FirstNameInClassSection>103second 103first</FirstNameInClassSection>
+		<SeccondNameInClassSection>104second 104first</SeccondNameInClassSection>
+		<ThirdNameInClassSection>105second 105first</ThirdNameInClassSection>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.PostingNotAllowWithoutSharingAStudent" index="122" method="ByDefaultValueOfShareWithOptionIsClassSectionName">  
+	  <user_id >student_IT9_R3_122</user_id >
+ 	  <Role>student</Role>
+	  <context_title>studtitle</context_title>
+	  <errortextverify>You need to select at least one user or a group for your post.</errortextverify>  
+	 </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.LSAutoSuggestShareBox" index="141instructor" method="AutoSuggestShareBox">
+        <user_id>instructor_IT9_R3_141</user_id>
+        <Role>instructor</Role>
+        <familyname>141instfamily</familyname>
+        <givenname>141instgivenname</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.LSAutoSuggestShareBox" index="141student" method="AutoSuggestShareBox">
+        <user_id>student_IT9_R3_141</user_id>
+        <Role>student</Role>
+        <familyname>141stufamily</familyname>
+        <givenname>141stugivenname</givenname>
+    </testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.LSAutoSuggestShareBox" index="141" method="AutoSuggestShareBox">
+		<user_id>student_IT9_R3_141_1</user_id>
+		<Role>student</Role>
+        <familyname>family</familyname>
+        <givenname>givenname</givenname>
+		<studentname>141stu</studentname>
+		<instructor>141inst</instructor>
+	</testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.LSAutoSuggestShareBox" index="141mentor" method="AutoSuggestShareBox">
+        <user_id>mentor_IT9_R3_141</user_id>
+        <Role>mentor</Role>
+        <familyname>141mentorfirst</familyname>
+        <givenname>141mentorsecond</givenname>
+        <studentnametag>141mentorsecond 141mentorfirst</studentnametag>
+        <filename>img.png</filename>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.LSAutoSuggestShareBox" index="141newclasssection" method="AutoSuggestShareBox">
+        <user_id>student_IT9_R3_44_2</user_id>
+        <Role>student</Role>
+        <context_id>141newstudcontext</context_id>
+        <context_title>141newstudtitle</context_title>
+    </testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.LSPostedADisscussion" index="204" method="DefaultMessage">
+		<user_id>student_IT9_R3_204</user_id>
+		<Role>student</Role>
+		<texttoverify1>Share your knowledge or seek answers</texttoverify1>
+		<texttoverify2>posted a discussion</texttoverify2>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.SharingAPost" index="209"  method="sharepostwithclasssectionname">
+		<user_id>student_IT9_R3_209</user_id>
+		<Role>student</Role>
+		<texttoverify>posted a discussion</texttoverify>
+		<classname>studtitle</classname>
+	</testcase>
+ 
+ 	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.SharingAPost" index="210" method="loginstudentwithsameclasssectionverifypostedwithdisscution">
+		<user_id>student_IT9_R3_210</user_id>
+		<Role>student</Role>
+		<texttoverify>posted a discussion</texttoverify>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.SharingAPost" index="211"	method="loginstudentwithDiffrentclasssectionverifypostedwithdisscution">
+		<user_id>student_IT9_R3_211</user_id>
+		<Role>student</Role>
+		<context_id>different</context_id>
+		<context_title>diffrent1</context_title>
+		<texttoverify>posted a discussion</texttoverify>
+	</testcase>	
+ 	
+ 	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.SharingAPostWithStudent" index="212" method="AutoSuggestShareBox">
+		<user_id>student_IT9_R3_212</user_id>
+		<Role>student</Role>
+		<familyname>snapdiffrent1</familyname>
+		<givenname>snapdiff1</givenname>
+		<studentname>snap</studentname>
+		<groupname>stud</groupname>
+		<instructor>inst</instructor>
+		<studentnameverify>snapdiff2 snapdiffrent2</studentnameverify>
+		<texttoverify>posted a discussion</texttoverify>
+	</testcase> 
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.SharingAPostWithStudent" index="213"	method="CheckThePostInSharedStudentProfile">
+		<user_id>student_IT9_R3_213</user_id>
+		<Role>student</Role>
+		<familyname>snapdiffrent2</familyname>
+		<givenname>snapdiff2</givenname>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.SharingAPostWithStudent" index="214" 	method="CheckThePostWithStudentWithWhomPostIsNotShare">
+		<user_id>student_IT9_R3_214</user_id>
+		<Role>student</Role>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.LinkTabWorking" index="220" method="DefaultMessageForLinkTab">
+		<user_id >student_IT9_R3_220</user_id >
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.LinkTabWorking" index="223" method="linkTabWorking">
+		<user_id>student_IT9_R3_223</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.LinkTabWorking" index="227" method="deleteUrl">
+		<user_id>student_IT9_R3_227</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.LinkTabWorking" index="228" method="enterTwoUrlCheckThumbnail">
+		<user_id>student_IT9_R3_228</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.LinkTabWorking" index="229" method="textFirstThenUrlCheck">
+		<user_id>student_IT9_R3_299</user_id>
+		<Role>student</Role>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.LinkTabWorking" index="230" method="textFirstThenUrlCheck">
+		<user_id>student_IT9_R3_230</user_id>
+		<Role>student</Role>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.ShareALinkWithClassSection" index="233" method="ShareALinkWithDefaultClassSection">
+		<user_id>student_IT9_R3_233</user_id>
+		<Role>student</Role>
+		<linktext>www.google.com</linktext>
+		<linktext2>www.yahoo.com</linktext2>
+		<linktext3>www.gmail.com</linktext3>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.ShareALinkWithClassSection" index="234" method="ShareALinkWithotherusersameClassSection">
+		<user_id>student_IT9_R3_234</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.ShareALinkWithClassSection" index="235" method="ShareALinkWithotherClassSection">
+		<user_id>student_IT9_R3_235</user_id>
+		<Role>student</Role>
+		<context_id>different</context_id>
+		<context_title>diffrent1</context_title>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.ShareALinkWithStudent" index="236" method="PostALinkWithsharingAStudent">
+		<user_id>student_IT9_R3_236</user_id>
+		<Role>student</Role>
+		<familyname>coursediffrent1</familyname>
+		<givenname>coursediff1</givenname>
+		<sharewithintialstring>cour</sharewithintialstring>
+		<studentname>coursediff2 coursediffrent2</studentname>
+		<linktext>www.yahoo.com</linktext>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.ShareALinkWithStudent" index="237" method="PostALinkWithsharingAStudent">
+		<user_id>student_IT9_R3_237</user_id>
+		<Role>student</Role>
+		<familyname>coursediffrent2</familyname>
+		<givenname>coursediff2</givenname>
+		<linktext>www.google.com</linktext>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.ShareALinkWithStudent" index="238" method="VerifyTheLinkWithWhomLinkNotShare">
+		<user_id>student_IT9_R3_238</user_id>
+		<Role>student</Role>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.FileTabWorking" index="246" method="submitButtonDisableCheck">
+		<user_id>student_IT9_R3_246</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.FileTabWorking" index="247" method="checkProgressBar">
+		<user_id>student_IT9_R3_247</user_id>
+		<Role>student</Role>
+		<filename>img.jpg</filename>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.FileTabWorking" index="248" method="checkDefaultText">
+		<user_id>student_IT9_R3_248</user_id>
+		<Role>student</Role>
+		<filename>img.jpg</filename>
+		<defaulttext>Provide a description for this file</defaulttext>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.FileExtensionSupport" index="254" method="UploadFileWhichNotSupport">
+		<user_id>student_IT9_R3_254</user_id>
+		<Role>student</Role>
+		<filename>img.exe</filename>
+		<notificationmessage>The file type you are trying to upload is not supported by the product. Please try again.</notificationmessage>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.FileExtensionSupport" index="2541" method="ErrorMsgOffAfter3sec">
+		<user_id>student_IT9_R3_2541</user_id>
+		<Role>student</Role>
+		<filename>img.mp4</filename>
+		<notificationmessage>There was a problem while uploading the file. Please try again.</notificationmessage>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.FileExtensionSupport" index="256"	method="UploadFileWhichNotSupport">
+		<user_id>student_IT9_R3_256</user_id>
+		<Role>student</Role>
+		<filename>img.jpg</filename>
+		<notificationmessage>The file type you are trying to upload is not supported by the product. Please try again.</notificationmessage>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.FileExtensionSupport" index="257"	method="VerifyTitleWithDiffrentStudentOfSameClassSection">
+		<user_id>student_IT9_R3_257</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.FileExtensionSupport" index="258"	method="UploadFileWithSpecialCharterOfname">
+		<user_id>student_IT9_R3_258</user_id>
+		<Role>student</Role>
+		<filename>im-g.png</filename>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.AllowFileSize" index="263" method="LessThan10MbFile">
+		<user_id>student_IT9_R3_263</user_id>
+		<Role>student</Role>
+		<filename>img.jpg</filename>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.AllowFileSize" index="264" method="Upload10MbFile">
+		<user_id>student_IT9_R3_264</user_id>
+		<Role>student</Role>
+		<filename>img.pptx</filename>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.AllowFileSize" index="265" method="UploadMoreThan10MBFile">
+		<user_id>student_IT9_R3_265</user_id>
+		<Role>student</Role>
+		<filename>img.mp4</filename>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.CancelFunctionality" index="266"	method="cancelFunctionalityForPostTab">
+		<user_id>student_IT9_R3_266</user_id>
+		<Role>student</Role>
+		<defaulttext>Share your knowledge or seek answers...</defaulttext>
+		<familyname>266second</familyname>
+		<givenname>266first</givenname>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.CancelFunctionality" index="267"	method="cancelFunctionalityForPostTab">
+		<user_id>student_IT9_R3_267</user_id>
+		<Role>student</Role>
+		<shareWithInitialString>266second</shareWithInitialString>
+		<studentnametag>266first 266second</studentnametag>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.CancelFunctionality" index="268"	method="cancelFunctionalityForPostTab">
+		<user_id>student_IT9_R3_268</user_id>
+		<Role>student</Role>
+		<defaulttext>Share your link...</defaulttext>
+		<shareWithInitialString>266second</shareWithInitialString>
+		<studentnametag>266first 266second</studentnametag>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.CancelFunctionality" index="269"	method="cancelFunctionalityForPostTab">
+		<user_id>student_IT9_R3_269</user_id>
+		<Role>student</Role>
+		<filename>img.jpg</filename>
+		<shareWithInitialString>266second</shareWithInitialString>
+		<studentnametag>266first 266second</studentnametag>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.UploadFileForDifferentUser" index="270"	method="uploadFileForDifferentUser">
+		<user_id>student_IT9_R3_270</user_id>
+		<Role>student</Role>
+		<familyname>family270</familyname>
+		<givenname>givenname270</givenname>
+		<shareWithInitialString>family270</shareWithInitialString>
+		<studentnametag>givenname270 family270</studentnametag>
+		<fileName>img.jpg</fileName>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.UploadFileForDifferentUser" index="271"	method="uploadFileForDifferentUser">
+		<user_id>student_IT9_R3_271</user_id>
+		<Role>student</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.UploadFileForDifferentUser" index="272"	method="uploadFileForDifferentUser">
+		<user_id>student_IT9_R3_272</user_id>
+		<Role>student</Role>
+		<context_id>student272context</context_id>
+		<context_title>student272title</context_title>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.UploadFileForDifferentUser" index="273"	method="uploadFileForDifferentUser">
+		<user_id>student_IT9_R3_273</user_id>
+		<Role>student</Role>
+		<shareWithInitialString>family9999</shareWithInitialString>
+		<studentnametag>givenname9999 family9999</studentnametag>
+		<fileName1>img.jpg</fileName1>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.UploadFileForDifferentUser" index="273_1"	method="uploadFileForDifferentUser">
+		<user_id>student_IT9_R3_273_1</user_id>
+		<Role>student</Role>
+		<familyname>family273_1</familyname>
+		<givenname>givenname273_1</givenname>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.LSFlashBehaviour" index="282"	method="flashBehaviourWithoutFlashPlugin">
+		<user_id>student_IT9_R3_282</user_id>
+		<Role>student</Role>
+		<filename>flash282.swf</filename>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.LSVideoShare" index="287" method="videoShare">
+		<user_id>student_IT9_R3_287</user_id>
+		<Role>student</Role>
+		<filename>video287.mp4</filename>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.LSAudioShare" index="295">
+    	<user_id >student_IT9_R3_295</user_id >
+ 		<Role>student</Role>
+        <filename>img.mp3</filename>
+ 	</testcase>
+ 	
+ 	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.LSRenderingImage" index="303" method="shareImageOfWidth599">
+		<user_id>student_IT9_R3_303</user_id>
+		<Role>student</Role>
+		<filename>image599px.jpg</filename>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.LSRenderingImage" index="306" method="shareImageOfWidth600">
+		<user_id>student_IT9_R3_306</user_id>
+		<Role>student</Role>
+		<filename>image600px.jpg</filename>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.LSRenderingImage" index="309">
+		<user_id>student_IT9_R3_309</user_id>
+		<Role>student</Role>
+		<filename>image601px.jpg</filename>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.LSRenderingFlash" index="313" method="shareFlash">
+		<user_id>student_IT9_R3_313</user_id>
+		<Role>student</Role>
+		<context_id>stud313context</context_id>
+		<context_title>stud313title</context_title>
+		<filename>flash313.swf</filename>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.StariconBookmark" index="340">
+		<user_id>student_IT9_R3_340</user_id>
+		<Role>student</Role>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.LikeUnlikeCommentCourseStream" index="345" method="likeUnlikeCommentCourseStream">
+		<user_id>student_IT9_R3_345</user_id>
+		<Role>student</Role>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.AgeOfPostingComment" index="359" method="likeUnlikeCommentCourseStream">
+		<user_id>student_IT9_R3_359</user_id>
+		<Role>student</Role>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.AllEntriesfilteforCourseStream" index="371" method="allEntriesfilteforCourseStream">  
+ 		 <user_id >student_IT9_R3_371</user_id >
+  		<Role>student</Role>
+        <context_id>IT9_R3_371_class</context_id>
+        <context_title>IT9_R3_371_classtitle</context_title>
+ 	</testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.AllEntriesfilteforCourseStream" index="372" method="allEntriesfilteforCourseStream">
+        <user_id >student_IT9_R3_372</user_id >
+        <Role>instructor</Role>
+        <context_id>IT9_R3__372class</context_id>
+        <context_title>IT9_R3__372classtitle</context_title>
+        <filename>img.png</filename>
+    </testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.HideReportPostComment" index="375" method="hidePostLinkVerify">
+		<user_id>student_IT9_R3_375</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.HideReportPostComment" index="376" method="abusePostLinkVerify">
+		<user_id>student_IT9_R3_376</user_id>
+		<Role>student</Role>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.ReportAbuseOnPost" index="379" method="reportabuse">
+		<user_id>student_IT9_R3_379</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.ReportAbuseOnPost" index="380">
+		<user_id>student_IT9_R3_380</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.ReportAbuseOnPost" index="381">
+		<user_id>student_IT9_R3_381</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.ReportAbuseOnPost" index="382">
+		<user_id>student_IT9_R3_382</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.ReportAbuseOnPost" index="383">
+		<user_id>student_IT9_R3_383</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.ReportAbuseOnPost" index="384">
+		<user_id>student_IT9_R3_384</user_id>
+		<Role>student</Role>
+	</testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.ExtensionsSupportedForFileUpload" index="254" method="uploadPptFile">
+        <user_id>instructor_IT9_R3_254_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R163_254_1</context_id>
+        <context_title>studtitle_IT16_R163_254_1</context_title>
+        <filename>lessthan1mb.ppt</filename>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.ExtensionsSupportedForFileUpload" index="254_1" method="uploadPptFile">
+        <user_id>instructor_IT9_R3_254_1_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R163_254_1_1</context_id>
+        <context_title>studtitle_IT16_R163_254_1_1</context_title>
+        <filename>greaterthan1mb.ppt</filename>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.ExtensionsSupportedForFileUpload" index="254_2" method="uploadPptFile">
+        <user_id>instructor_IT9_R3_254_2_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R163_254_2_1</context_id>
+        <context_title>studtitle_IT16_R163_254_2_1</context_title>
+        <filename>greaterthan25mb.ppt</filename>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.ExtensionsSupportedForFileUpload" index="254_3" method="uploadPptFile">
+        <user_id>student_IT9_R3_254_3_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R163_254_3_1</context_id>
+        <context_title>studtitle_IT16_R163_254_3_1</context_title>
+        <filename>lessthan1mb.ppt</filename>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.ExtensionsSupportedForFileUpload" index="254_4" method="uploadPptFile">
+        <user_id>student_IT9_R3_254_4_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R163_254_4_1</context_id>
+        <context_title>studtitle_IT16_R163_254_4_1</context_title>
+        <filename>greaterthan1mb.ppt</filename>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.ExtensionsSupportedForFileUpload" index="254_5" method="uploadPptFile">
+        <user_id>student_IT9_R3_254_5_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R163_254_5_1</context_id>
+        <context_title>studtitle_IT16_R163_254_5_1</context_title>
+        <filename>greaterthan10mb.ppt</filename>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.ExtensionsSupportedForFileUpload" index="255" method="uploadPptFile">
+        <user_id>instructor_IT9_R3_255_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R163_255_1</context_id>
+        <context_title>studtitle_IT16_R163_255_1</context_title>
+        <filename>lessthan1mb.pptx</filename>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.ExtensionsSupportedForFileUpload" index="255_1" method="uploadPptFile">
+        <user_id>instructor_IT9_R3_255_1_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R163_255_1_1</context_id>
+        <context_title>studtitle_IT16_R163_255_1_1</context_title>
+        <filename>greaterthan1mb.pptx</filename>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.ExtensionsSupportedForFileUpload" index="255_2" method="uploadPptFile">
+        <user_id>instructor_IT9_R3_255_2_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R163_255_2_1</context_id>
+        <context_title>studtitle_IT16_R163_255_2_1</context_title>
+        <filename>greaterthan25mb.pptx</filename>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.ExtensionsSupportedForFileUpload" index="255_3" method="uploadPptFile">
+        <user_id>student_IT9_R3_255_3_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R163_255_3_1</context_id>
+        <context_title>studtitle_IT16_R163_255_3_1</context_title>
+        <filename>lessthan1mb.pptx</filename>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.ExtensionsSupportedForFileUpload" index="255_4" method="uploadPptFile">
+        <user_id>student_IT9_R3_255_4_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R163_255_4_1</context_id>
+        <context_title>studtitle_IT16_R163_255_4_1</context_title>
+        <filename>greaterthan1mb.pptx</filename>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.ExtensionsSupportedForFileUpload" index="255_5" method="uploadPptFile">
+        <user_id>student_IT9_R3_255_5_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R163_255_5_1</context_id>
+        <context_title>studtitle_IT16_R163_255_5_1</context_title>
+        <filename>greaterthan10mb.pptx</filename>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.ExtensionsSupportedForFileUpload" index="256" method="uploadDocFile">
+        <user_id>instructor_IT9_R3_256_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R163_256_1</context_id>
+        <context_title>studtitle_IT16_R163_256_1</context_title>
+        <filename>lessthan1mb.doc</filename>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.ExtensionsSupportedForFileUpload" index="256_1" method="uploadDocFile">
+        <user_id>instructor_IT9_R3_256_1_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R163_256_1_1</context_id>
+        <context_title>studtitle_IT16_R163_256_1_1</context_title>
+        <filename>greaterthan1mb.doc</filename>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.ExtensionsSupportedForFileUpload" index="256_2" method="uploadDocFile">
+        <user_id>instructor_IT9_R3_256_2_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R163_256_2_1</context_id>
+        <context_title>studtitle_IT16_R163_256_2_1</context_title>
+        <filename>greaterthan25mb.doc</filename>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.ExtensionsSupportedForFileUpload" index="256_3" method="uploadDocFile">
+        <user_id>student_IT9_R3_256_3_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R163_256_3_1</context_id>
+        <context_title>studtitle_IT16_R163_256_3_1</context_title>
+        <filename>lessthan1mb.doc</filename>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.ExtensionsSupportedForFileUpload" index="256_4" method="uploadDocFile">
+        <user_id>student_IT9_R3_256_4_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R163_256_4_1</context_id>
+        <context_title>studtitle_IT16_R163_256_4_1</context_title>
+        <filename>greaterthan1mb.doc</filename>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.ExtensionsSupportedForFileUpload" index="256_5" method="uploadDocFile">
+        <user_id>student_IT9_R3_256_5_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R163_256_5_1</context_id>
+        <context_title>studtitle_IT16_R163_256_5_1</context_title>
+        <filename>greaterthan10mb.doc</filename>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.ExtensionsSupportedForFileUpload" index="257" method="uploadDocxFile">
+        <user_id>instructor_IT9_R3_257_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R163_257_1</context_id>
+        <context_title>studtitle_IT16_R163_257_1</context_title>
+        <filename>lessthan1mb.docx</filename>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.ExtensionsSupportedForFileUpload" index="257_1" method="uploadDocxFile">
+        <user_id>instructor_IT9_R3_257_1_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R163_257_1_1</context_id>
+        <context_title>studtitle_IT16_R163_257_1_1</context_title>
+        <filename>greaterthan1mb.docx</filename>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.ExtensionsSupportedForFileUpload" index="257_2" method="uploadDocxFile">
+        <user_id>instructor_IT9_R3_257_2_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R163_257_2_1</context_id>
+        <context_title>studtitle_IT16_R163_257_2_1</context_title>
+        <filename>greaterthan25mb.docx</filename>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.ExtensionsSupportedForFileUpload" index="257_3" method="uploadDocxFile">
+        <user_id>student_IT9_R3_257_3_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R163_257_3_1</context_id>
+        <context_title>studtitle_IT16_R163_257_3_1</context_title>
+        <filename>lessthan1mb.docx</filename>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.ExtensionsSupportedForFileUpload" index="257_4" method="uploadDocxFile">
+        <user_id>student_IT9_R3_257_4_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R163_257_4_1</context_id>
+        <context_title>studtitle_IT16_R163_257_4_1</context_title>
+        <filename>greaterthan1mb.docx</filename>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.ExtensionsSupportedForFileUpload" index="257_5" method="uploadDocxFile">
+        <user_id>student_IT9_R3_257_5_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R163_257_5_1</context_id>
+        <context_title>studtitle_IT16_R163_257_5_1</context_title>
+        <filename>greaterthan10mb.docx</filename>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.ExtensionsSupportedForFileUpload" index="258" method="uploadPdfFile">
+        <user_id>instructor_IT9_R3_258_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R163_258_1</context_id>
+        <context_title>studtitle_IT16_R163_258_1</context_title>
+        <filename>lessthan1mb.pdf</filename>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.ExtensionsSupportedForFileUpload" index="258_1" method="uploadPdfFile">
+        <user_id>instructor_IT9_R3_258_1_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R163_258_1_1</context_id>
+        <context_title>studtitle_IT16_R163_258_1_1</context_title>
+        <filename>greaterthan1mb.pdf</filename>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.ExtensionsSupportedForFileUpload" index="258_2" method="uploadPdfFile">
+        <user_id>instructor_IT9_R3_258_2_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R163_258_2_1</context_id>
+        <context_title>studtitle_IT16_R163_258_2_1</context_title>
+        <filename>greaterthan25mb.pdf</filename>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.ExtensionsSupportedForFileUpload" index="258_3" method="uploadPdfFile">
+        <user_id>student_IT9_R3_258_3_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R163_258_3_1</context_id>
+        <context_title>studtitle_IT16_R163_258_3_1</context_title>
+        <filename>lessthan1mb.pdf</filename>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.ExtensionsSupportedForFileUpload" index="258_4" method="uploadPdfFile">
+        <user_id>student_IT9_R3_258_4_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R163_258_4_1</context_id>
+        <context_title>studtitle_IT16_R163_258_4_1</context_title>
+        <filename>greaterthan1mb.pdf</filename>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.ExtensionsSupportedForFileUpload" index="258_5" method="uploadPdfFile">
+        <user_id>student_IT9_R3_258_5_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R163_258_5_1</context_id>
+        <context_title>studtitle_IT16_R163_258_5_1</context_title>
+        <filename>greaterthan10mb.pdf</filename>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.ExtensionsSupportedForFileUpload" index="259" method="uploadMpFourFile">
+        <user_id>instructor_IT9_R3_259_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R163_259_1</context_id>
+        <context_title>studtitle_IT16_R163_259_1</context_title>
+        <filename>lessthan1mb.mp4</filename>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.ExtensionsSupportedForFileUpload" index="259_1" method="uploadMpFourFile">
+        <user_id>instructor_IT9_R3_259_1_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R163_259_1_1</context_id>
+        <context_title>studtitle_IT16_R163_259_1_1</context_title>
+        <filename>greaterthan1mb.mp4</filename>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.ExtensionsSupportedForFileUpload" index="259_2" method="uploadMpFourFile">
+        <user_id>instructor_IT9_R3_259_2_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R163_259_2_1</context_id>
+        <context_title>studtitle_IT16_R163_259_2_1</context_title>
+        <filename>greaterthan25mb.mp4</filename>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.ExtensionsSupportedForFileUpload" index="259_3" method="uploadMpFourFile">
+        <user_id>student_IT9_R3_259_3_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R163_259_3_1</context_id>
+        <context_title>studtitle_IT16_R163_259_3_1</context_title>
+        <filename>lessthan1mb.mp4</filename>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.ExtensionsSupportedForFileUpload" index="259_4" method="uploadMpFourFile">
+        <user_id>student_IT9_R3_259_4_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R163_259_4_1</context_id>
+        <context_title>studtitle_IT16_R163_259_4_1</context_title>
+        <filename>greaterthan1mb.mp4</filename>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.ExtensionsSupportedForFileUpload" index="259_5" method="uploadMpFourFile">
+        <user_id>student_IT9_R3_259_5_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R163_259_5_1</context_id>
+        <context_title>studtitle_IT16_R163_259_5_1</context_title>
+        <filename>greaterthan10mb.mp4</filename>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.ExtensionsSupportedForFileUpload" index="260" method="uploadMpThreeFile">
+        <user_id>instructor_IT9_R3_260_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R163_260_1</context_id>
+        <context_title>studtitle_IT16_R163_260_1</context_title>
+        <filename>lessthan1mb.mp3</filename>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.ExtensionsSupportedForFileUpload" index="260_1" method="uploadMpThreeFile">
+        <user_id>instructor_IT9_R3_260_1_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R163_260_1_1</context_id>
+        <context_title>studtitle_IT16_R163_260_1_1</context_title>
+        <filename>greaterthan1mb.mp3</filename>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.ExtensionsSupportedForFileUpload" index="260_2" method="uploadMpThreeFile">
+        <user_id>instructor_IT9_R3_260_2_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R163_260_2_1</context_id>
+        <context_title>studtitle_IT16_R163_260_2_1</context_title>
+        <filename>greaterthan25mb.mp3</filename>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.ExtensionsSupportedForFileUpload" index="260_3" method="uploadMpThreeFile">
+        <user_id>student_IT9_R3_260_3_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R163_260_3_1</context_id>
+        <context_title>studtitle_IT16_R163_260_3_1</context_title>
+        <filename>lessthan1mb.mp3</filename>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.ExtensionsSupportedForFileUpload" index="260_4" method="uploadMpThreeFile">
+        <user_id>student_IT9_R3_260_4_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R163_260_4_1</context_id>
+        <context_title>studtitle_IT16_R163_260_4_1</context_title>
+        <filename>greaterthan1mb.mp3</filename>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R3.ExtensionsSupportedForFileUpload" index="260_5" method="uploadMpThreeFile">
+        <user_id>student_IT9_R3_260_5_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R163_260_5_1</context_id>
+        <context_title>studtitle_IT16_R163_260_5_1</context_title>
+        <filename>greaterthan10mb.mp3</filename>
+    </testcase>
+</learningspaces>

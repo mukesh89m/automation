@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edulastic>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.reportchanges.ReportChanges" index ="15" method="">
+        <assessmentname>IT1_instructorReportVierwAfterCreatingAssessmentGradable_15</assessmentname>
+        <questiontext>15_question text</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithClass>true</shareWithClass>
+        <editmasterycriteria>false</editmasterycriteria>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.reportchanges.ReportChanges" index ="51" method="">
+        <assessmentname>IT1_instructorReportView_Assessment_51</assessmentname>
+        <questiontext>15_question text</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.reportchanges.ReportChanges" index ="52" method="">
+        <assessmentname>IT1_instructorReportView_Assessment_51</assessmentname>
+        <questiontext>15_question text</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <whitelistuser>false</whitelistuser>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.reportchanges.ReportChanges" index ="66" method="">
+        <assessmentname>IT1_instructorReportView_Assessment_66</assessmentname>
+        <questiontext>15_question text</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.reportchanges.ReportChanges" index ="86" method="">
+        <assessmentname>IT1_instructorReportVierwAfterCreatingAssessmentNonGradable_15</assessmentname>
+        <questiontext>15_question text</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithClass>true</shareWithClass>
+        <editmasterycriteria>false</editmasterycriteria>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.reportchanges.ReportChanges" index ="103" method="">
+        <assessmentname>IT1_reportViewForCourseOverallField_103</assessmentname>
+        <questiontext>103_question text</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <elo>1.OA.A.1</elo>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.reportchanges.ReportChanges" index ="104" method="">
+        <assessmentname>IT1_reportViewForCourseOverallField_104</assessmentname>
+        <whitelistuser>false</whitelistuser>
+        <questiontext>104_question text</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <elo>1.OA.A.2</elo>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.reportchanges.ReportChanges" index ="105" method="">
+        <assessmentname>IT1_reportViewForCourseOverallField_105</assessmentname>
+        <questiontext>105_question text</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <whitelistuser>false</whitelistuser>
+        <elo>1.OA.B.3</elo>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.reportchanges.ReportChanges" index ="106" method="">
+        <assessmentname>IT1_reportViewForSameStandardWithMultiple_106</assessmentname>
+        <questiontext>106_question text</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.reportchanges.ReportChanges" index ="107" method="">
+        <assessmentname>IT1_rreportViewForSameStandardWithMultiple_107</assessmentname>
+        <questiontext>107_question text</questiontext>
+        <whitelistuser>false</whitelistuser>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.reportchanges.ReportChanges" index ="108" method="">
+        <assessmentname>IT1_reportViewForSameStandardWithMultiple_108</assessmentname>
+        <questiontext>108_question text</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <whitelistuser>false</whitelistuser>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.reportchanges.ReportChanges" index ="110" method="">
+        <assessmentname>IT1_reportViewForAssessmentFromDifferentClass_110</assessmentname>
+        <questiontext>108_question text</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <selectgrade>Grade 2</selectgrade>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.reportchanges.ReportChanges" index ="111" method="">
+        <assessmentname>IT1_reportViewForAssessmentFromDifferentClass_110</assessmentname>
+        <questiontext>108_question text</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <selectgrade>Grade 2</selectgrade>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.reportchanges.ReportChanges" index ="113" method="">
+        <assessmentname>IT1_reportViewForReassignCase_113</assessmentname>
+        <questiontext>108_question text</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <elo>1.OA.A.1</elo>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.reportchanges.ReportChanges" index ="120" method="">
+        <assessmentname>IT1_reportViewForDeleteAssessment_120</assessmentname>
+        <questiontext>120_question text</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.reportchanges.ReportChanges" index ="121" method="">
+        <assessmentname>IT1_reportViewForDeleteAssessment_121</assessmentname>
+        <questiontext>121_question text</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <whitelistuser>false</whitelistuser>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+
+
+
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.reportchanges.ReportChanges" index ="128" method="">
+        <assessmentname>IT1_reportViewForDeleteAssessment_128</assessmentname>
+        <questiontext>128_question text</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.reportchanges.ReportChanges" index ="129" method="">
+        <assessmentname>IT1_reportViewForDeleteAssessment_129</assessmentname>
+        <questiontext>129_question text</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <whitelistuser>false</whitelistuser>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.reportchanges.ReportChanges" index ="188" method="">
+        <assessmentname>IT1_instructorReportViewAfterStudentAttemptNonGradable_188</assessmentname>
+        <questiontext>188_question text</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithClass>true</shareWithClass>
+        <editmasterycriteria>false</editmasterycriteria>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.reportchanges.ReportChanges" index ="254" method="">
+        <assessmentname>IT1_instructorReportViewAfterStudentAttemptGradable_254</assessmentname>
+        <questiontext>254_question text</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <editmasterycriteria>false</editmasterycriteria>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.reportchanges.ReportChanges" index ="349" method="">
+        <assessmentname>IT1_instructorReportViewAfterStudentAttemptGradableExplicitlyByTeacher_349</assessmentname>
+        <questiontext>349_question text</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <editmasterycriteria>false</editmasterycriteria>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.reportchanges.ReportChanges" index ="350" method="">
+     <answerchoice>incorrect</answerchoice>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.reportchanges.ReportChanges" index ="323" method="">
+        <assessmentname>IT1_instructorReportViewAfterClassAttemptNonGradable_323</assessmentname>
+        <questiontext>323_question text</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.reportchanges.ReportChanges" index ="440" method="">
+        <assessmentname>IT1_instructorReportViewAfterClassAttemptNonGradable_440</assessmentname>
+        <questiontext>440_question text</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.reportchanges.ReportChanges" index ="550" method="">
+        <assessmentname>IT1_instructorReportViewAfterStudentAttemptbetween60To75NonGradable_550</assessmentname>
+        <questiontext>550_question text</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.reportchanges.ReportChanges" index ="677" method="">
+        <assessmentname>IT1_instructorReportViewAfterStudentAttemptbetween60To75Gradable_677</assessmentname>
+        <questiontext>677_question text</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.reportchanges.ReportChanges" index ="820" method="">
+        <assessmentname>IT1_instructorReportViewAfterStudentAttemptbelow60NonGradable_820</assessmentname>
+        <questiontext>820_question text</questiontext>
+        <learningobjective>true</learningobjective>
+        <gradable>false</gradable>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.reportchanges.ReportChanges" index ="821" method="">
+        <assessmentname>IT1_instructorReportViewAfterStudentAttemptbelow60Gradable_821</assessmentname>
+        <questiontext>821_question text</questiontext>
+        <learningobjective>true</learningobjective>
+        <gradable>false</gradable>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+</edulastic>

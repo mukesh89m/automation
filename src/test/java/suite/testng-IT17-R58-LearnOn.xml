@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+    <test name="IT17-R58-LearnOnRegressionSuite">
+        <classes>
+            <class name="com.snapwiz.selenium.tests.staf.learnon.testcases.IT17.R58.DiscussionAddedOverLesson"/>
+            <class name="com.snapwiz.selenium.tests.staf.learnon.testcases.IT17.R58.LabelVerifyInNavigator"/>
+            <class name="com.snapwiz.selenium.tests.staf.learnon.testcases.IT17.R58.LabelVerifyForLsAdaptive"/>
+            <class name="com.snapwiz.selenium.tests.staf.learnon.testcases.IT17.R58.ReleaseGradeByInstructor"/>
+            <class name="com.snapwiz.selenium.tests.staf.learnon.testcases.IT17.R58.SubmitStaticTest"/>
+            <class name="com.snapwiz.selenium.tests.staf.learnon.testcases.IT17.R58.VerifyAssignmentPolicyPage"/>
+            <class name="com.snapwiz.selenium.tests.staf.learnon.testcases.IT17.R58.VerifyAssignThisPopUp"/>
+            <class name="com.snapwiz.selenium.tests.staf.learnon.testcases.IT17.R58.VerifyGradableAssignmentCheckBox"/>
+            <class name="com.snapwiz.selenium.tests.staf.learnon.testcases.IT17.R58.VerifyTOC"/>
+        </classes>
+    </test> <!-- Test -->
+
+</suite> <!-- Suite -->
+

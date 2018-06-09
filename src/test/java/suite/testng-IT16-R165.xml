@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="IT_16_R16.5-LSRegressionSuite">
+    <classes>         	
+    	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R165.InstructorAbleToNavigateToGradeBook"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R165.StudentAddedInExistingClass"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R165.VerifyGradebookForAssignmentWithImmediateFeedback"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R165.DiscussionWidgetAsGradableAssignment"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R165.MentorAbleToNavigateToGradeBook"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R165.MentorAddsStudentInExistingClass"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R165.MentorVerifyGradebookForAssignmentWithImmediateFeedback"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R165.MentorAssignsDiscussionWidgetAsGradableAssignment"/>
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->

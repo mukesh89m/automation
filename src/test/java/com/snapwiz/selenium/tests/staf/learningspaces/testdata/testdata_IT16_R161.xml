@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<learningspaces>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R161.PublishAdminAbleToDeleteAnnouncement" index="25" method="publishAdminAbleToDeleteAnnouncement">
+       <enddate>25</enddate>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R161.UserAbleToViewAddedAnnouncment" index="41" method="userAbleToViewAddedAnnouncment">
+       <user_id >IT16_R161_instructor_41</user_id >
+	   <Role>instructor</Role>
+       <enddate>25</enddate>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R161.UserAbleToViewAddedAnnouncment" index="42" method="userAbleToViewAddedAnnouncment">
+       <user_id >IT16_R161_mentor_42</user_id >
+	   <Role>mentor</Role>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R161.UserAbleToViewAddedAnnouncment" index="43" method="userAbleToViewAddedAnnouncment">
+       <user_id >IT16_R161_student_43</user_id >
+	   <Role>student</Role>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R161.UserAbleToViewAddedAnnouncment" index="80" method="userAbleToViewAddedAnnouncment">
+       <user_id >IT16_R161_instructor_80</user_id >
+	   <Role>instructor</Role>
+	   <course_type>adaptive</course_type>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R161.UserAbleToViewAddedAnnouncment" index="81" method="userAbleToViewAddedAnnouncment">
+       <user_id >IT16_R161_student_81</user_id >
+	   <Role>student</Role>
+	   <course_type>adaptive</course_type>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R161.UserAbleToViewAddedAnnouncment" index="82" method="userAbleToViewAddedAnnouncment">
+       <user_id >IT16_R161_mentor_82</user_id >
+	   <Role>mentor</Role>
+	   <course_type>adaptive</course_type>
+	</testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R161.ViewAnnouncementAfterLogoutAndLogin" index="141" method="viewAnnouncementAfterLogoutAndLogin">
+        <user_id >IT16_R161_instructors_141_1</user_id >
+        <Role>instructor</Role>
+        <enddate>25</enddate>
+        <course_type>ls</course_type>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R161.ViewAnnouncementAfterLogoutAndLogin" index="144" method="viewAnnouncementAfterLogoutAndLogin">
+        <user_id >IT16_R161_student_141_1</user_id >
+        <Role>student</Role>
+        <enddate>25</enddate>
+        <course_type>adaptive</course_type>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R161.ViewAnnouncementAfterLogoutAndLogin" index="146" method="viewAnnouncementAfterLogoutAndLogin">
+        <user_id >IT16_R161_instructor_146_1</user_id >
+        <Role>instructor</Role>
+        <enddate>25</enddate>
+        <course_type>adaptive</course_type>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R161.ViewAnnouncementAfterLogoutAndLogin" index="148" method="viewAnnouncementAfterLogoutAndLogin">
+        <user_id >IT16_R161_student_148_1</user_id >
+        <Role>student</Role>
+        <enddate>25</enddate>
+        <course_type>adaptive</course_type>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R161.ViewAnnouncementAfterLogoutAndLogin" index="150" method="viewAnnouncementAfterLogoutAndLogin">
+        <user_id >IT16_R161_mentor_150_1</user_id >
+        <Role>mentor</Role>
+        <enddate>25</enddate>
+        <course_type>adaptive</course_type>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R161.ViewAnnouncementAfterLogoutAndLogin" index="152" method="viewAnnouncementAfterLogoutAndLogin">
+        <user_id >IT16_R161_mentor_152_1</user_id >
+        <Role>mentor</Role>
+        <enddate>25</enddate>
+        <course_type>ls</course_type>
+    </testcase>
+</learningspaces>

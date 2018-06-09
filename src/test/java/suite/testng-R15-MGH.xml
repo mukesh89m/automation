@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="R15-MGHRegressionSuite">
+  <classes>   
+  	    <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R15.StudentAbleToNevigateAssignmentPage"/>   
+  		<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R15.AttemptAssignmentAsStudent"/>
+  		<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R15.DateDisplayInAssignmentAccoringToTimeZone"/>  
+  		<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R15.DifferentStatusOfAssignment"/>
+  		<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R15.SortingOrderOfAssignmentsInAssignmentsPage"/>
+  		<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R15.StudentAbleToViewDropdownInAssignmentPage"/>		
+  		<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R15.AssignmentStatusBox"/>
+  		<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R15.StatusBoxNotShownIfAssignmentIsNotInAnyStatus"/>
+    	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R15.CountOfBoxesChangeAsPerFilterSelected"/>
+    	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R15.DetailsOfAssignments"/>
+    	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R15.StudentAbleToUseSocialElementForAssignment"/>
+    	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R15.StudentAbleToViewRightSideTab"/>
+    	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R15.AssignmentsTimer"/>
+    	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R15.SummaryPagePopUp"/>
+    	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R15.StudentAbleToNavigateNextPreviousButtonmanytimes"/>
+    	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R15.ClickOnQuestionCardLandOnSpecificQuestionPage"/>
+    	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R15.GradePointReflectedWhenInstructorUpdateAfterSubmittedTheAssignment"/>
+    	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R15.DateDisplayInAssignmentAccoringToTimeZone"/>    	     	  
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->

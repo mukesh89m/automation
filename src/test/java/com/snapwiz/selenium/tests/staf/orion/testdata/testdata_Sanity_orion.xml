@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orion>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.Sanity.orion.ValidateAllQuestionType" index="3" method="">
+        <assessmentname>SanityAssessment_11</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of 11</questionset>
+        <questiontext>Test Question for 11</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <difficultylevel>Medium</difficultylevel>
+        <hint>hint text</hint>
+        <solutionText>solution text</solutionText>
+        <variationLevel>Evaluation</variationLevel>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.Sanity.orion.ValidateAllQuestionType" index="4" method="">
+        <assessmentname>SanityAssessment_11</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of 11</questionset>
+        <questiontext>Test Question for 11</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <difficultylevel>Medium</difficultylevel>
+        <hint>hint text</hint>
+        <solutionText>solution text</solutionText>
+        <variationLevel>Evaluation</variationLevel>
+        <selectLanguagePalette>spanish</selectLanguagePalette>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.Sanity.orion.ValidateAllQuestionType" index="36" method="">
+        <assessmentname>SanityAssessment_11</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of 36</questionset>
+        <questiontext>Test Question for 36</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <hint>hint text</hint>
+        <solutionText>solution text</solutionText>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.Sanity.orion.ValidateAllQuestionType" index="73" method="">
+        <newChapterName>SanityOrion</newChapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.Sanity.orion.ValidateAllQuestionType" index="33" method="">
+        <assessmentname>Diagnostic - The Changing Face of Business</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of 11</questionset>
+        <questiontext>Test Question for 11</questiontext>
+        <questiontype>Adaptive Component Diagnostic</questiontype>
+        <learningobjective>true</learningobjective>
+        <difficultylevel>Medium</difficultylevel>
+        <hint>hint text</hint>
+        <solutionText>solution text</solutionText>
+        <variationLevel>Evaluation</variationLevel>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.Sanity.orion.ValidateAllQuestionType" index="44" method="">
+        <assessmentname>Diagnostic - The Changing Face of Business</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of 11</questionset>
+        <questiontext>Test Question for 11</questiontext>
+        <questiontype>Adaptive Component Diagnostic</questiontype>
+        <learningobjective>true</learningobjective>
+        <difficultylevel>Medium</difficultylevel>
+        <hint>hint text</hint>
+        <solutionText>solution text</solutionText>
+        <variationLevel>Evaluation</variationLevel>
+        <selectLanguagePalette>spanish</selectLanguagePalette>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.Sanity.orion.ValidateAllQuestionType" index="55" method="">
+        <assessmentname>Diagnostic - The Changing Face of Business</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of 36</questionset>
+        <questiontext>Test Question for 36</questiontext>
+        <questiontype>Adaptive Component Diagnostic</questiontype>
+        <learningobjective>true</learningobjective>
+        <hint>hint text</hint>
+        <solutionText>solution text</solutionText>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.Sanity.orion.ValidateAllQuestionType" index="74" method="">
+        <user_id>SanityStudent_7416</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_sanity_74</context_id>
+        <context_title>studtitle_sanity_74</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.Sanity.orion.ValidateAllQuestionTypeWithAlgo" index="33" method="">
+        <assessmentname>SanityAssessment_33</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of 33</questionset>
+        <questiontext>$a+$b</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <difficultylevel>Medium</difficultylevel>
+        <hint>hint text</hint>
+        <solutionText>solution text</solutionText>
+        <variationLevel>Evaluation</variationLevel>
+        <algorithmic>true</algorithmic>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.Sanity.orion.ValidateAllQuestionTypeWithAlgo" index="44" method="">
+        <assessmentname>SanityAssessment_33</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of 33</questionset>
+        <questiontext>$a+$b</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <difficultylevel>Medium</difficultylevel>
+        <hint>hint text</hint>
+        <solutionText>solution text</solutionText>
+        <variationLevel>Evaluation</variationLevel>
+<!--
+        <selectLanguagePalette>spanish</selectLanguagePalette>
+-->
+        <algorithmic>true</algorithmic>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.Sanity.orion.ValidateAllQuestionTypeWithAlgo" index="20" method="">
+        <assessmentname>SanityAssessment_33</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of 36</questionset>
+        <questiontext>$a+$b</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <hint>hint text</hint>
+        <solutionText>solution text</solutionText>
+        <algorithmic>true</algorithmic>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.Sanity.orion.ValidateAllQuestionTypeWithAlgo" index="77" method="">
+        <newChapterName>SanityOrionAlgo</newChapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.Sanity.orion.ValidateAllQuestionTypeWithAlgo" index="333" method="">
+        <assessmentname>Diagnostic - Business Ethics and Social Responsibility</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of 33</questionset>
+        <questiontext>$a+$b</questiontext>
+        <questiontype>Adaptive Component Diagnostic</questiontype>
+        <learningobjective>true</learningobjective>
+        <difficultylevel>Medium</difficultylevel>
+        <hint>hint text</hint>
+        <solutionText>solution text</solutionText>
+        <variationLevel>Evaluation</variationLevel>
+        <chapterName>SanityOrionAlgo</chapterName>
+        <algorithmic>true</algorithmic>
+        <chapterName>Ch 2: Business Ethics and Social Responsibility</chapterName>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.Sanity.orion.ValidateAllQuestionTypeWithAlgo" index="444" method="">
+        <assessmentname>Diagnostic - Business Ethics and Social Responsibility</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of 33</questionset>
+        <questiontext>$a+$b</questiontext>
+        <questiontype>Adaptive Component Diagnostic</questiontype>
+        <learningobjective>true</learningobjective>
+        <difficultylevel>Medium</difficultylevel>
+        <hint>hint text</hint>
+        <solutionText>solution text</solutionText>
+        <variationLevel>Evaluation</variationLevel>
+        <selectLanguagePalette>spanish</selectLanguagePalette>
+        <chapterName>SanityOrionAlgo</chapterName>
+        <algorithmic>true</algorithmic>
+        <chapterName>Ch 2: Business Ethics and Social Responsibility</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.Sanity.orion.ValidateAllQuestionTypeWithAlgo" index="55" method="">
+        <assessmentname>SanityAssessmentPractice</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of 33</questionset>
+        <questiontext>PracticeTestQuestionfor_33</questiontext>
+        <questiontype>Adaptive Component Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <difficultylevel>Medium</difficultylevel>
+        <hint>hint text</hint>
+        <solutionText>solution text</solutionText>
+        <variationLevel>Evaluation</variationLevel>
+        <chapterName>SanityOrionAlgo</chapterName>
+        <algorithmic>true</algorithmic>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.Sanity.orion.ValidateAllQuestionTypeWithAlgo" index="555" method="">
+        <assessmentname>Diagnostic - Business Ethics and Social Responsibility</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of 36</questionset>
+        <questiontext>$a+$b</questiontext>
+        <questiontype>Adaptive Component Diagnostic</questiontype>
+        <learningobjective>true</learningobjective>
+        <hint>hint text</hint>
+        <solutionText>solution text</solutionText>
+        <chapterName>SanityOrionAlgo</chapterName>
+        <algorithmic>true</algorithmic>
+        <chapterName>Ch 2: Business Ethics and Social Responsibility</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.Sanity.orion.ValidateAllQuestionTypeWithAlgo" index="78" method="">
+        <user_id>SanityStudent_794</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_sanity_78</context_id>
+        <context_title>studtitle_sanity_78</context_title>
+    </testcase>
+
+</orion>

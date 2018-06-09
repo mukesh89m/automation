@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.nongradableassignment.NonGradableAssignment" index="1" method="">
+        <user_id>instructor_smoke_nongrade_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_nongrade_1</context_id>
+        <context_title>studtitle_smoke_nongrade_1</context_title>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of smoke_nongrade_1</questionset>
+        <questiontext>Test Question for smoke_nongrade_1</questiontext>
+        <assessmentname>smoke_nongrade_Assignment_1</assessmentname>
+        <promptdetails>promptdetails</promptdetails>
+        <questiontextstem2>questiontextstem2</questiontextstem2>
+        <shareWithInitialString>studtitle_smoke_nongrade_1</shareWithInitialString>
+        <shareName>studtitle_smoke_nongrade_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>8</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <fileUpload>true</fileUpload>
+        <questionBank>true</questionBank>
+        <totalpoints>2</totalpoints>
+        <filename>img.jpg</filename>
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.nongradableassignment.NonGradableAssignment" index="2" method="">
+        <user_id>student_smoke_nongrade_1_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_nongrade_1</context_id>
+        <context_title>studtitle_smoke_nongrade_1</context_title>
+        <assessmentname>smoke_nongrade_Assignment_1</assessmentname>
+        <submitted>1</submitted>
+        <notstarted>0</notstarted>
+        <inprogress>0</inprogress>
+        <reviewed>0</reviewed>
+        <graded>0</graded>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.nongradableassignment.NonGradableAssignment" index="3" method="">
+        <user_id>student_smoke_nongrade_1_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_nongrade_1</context_id>
+        <context_title>studtitle_smoke_nongrade_1</context_title>
+        <assessmentname>smoke_nongrade_Assignment_1</assessmentname>
+        <submitted>0</submitted>
+        <notstarted>0</notstarted>
+        <inprogress>1</inprogress>
+        <reviewed>0</reviewed>
+        <graded>0</graded>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.nongradableassignment.NonGradableAssignment" index="4" method="">
+        <user_id>student_smoke_nongrade_1_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_nongrade_1</context_id>
+        <context_title>studtitle_smoke_nongrade_1</context_title>
+        <assessmentname>smoke_nongrade_Assignment_1</assessmentname>
+        <submitted>1</submitted>
+        <notstarted>0</notstarted>
+        <inprogress>0</inprogress>
+        <reviewed>0</reviewed>
+        <graded>0</graded>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.nongradableassignment.NonGradableAssignment" index="5" method="">
+        <assessmentname>smoke_nongrade_Assignment_1</assessmentname>
+        <submitted>0</submitted>
+        <notstarted>1</notstarted>
+        <inprogress>0</inprogress>
+        <reviewed>0</reviewed>
+        <graded>0</graded>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.nongradableassignment.NonGradableAssignment" index="6" method="">
+        <assessmentname>smoke_nongrade_Assignment_1</assessmentname>
+        <submitted>1</submitted>
+        <notstarted>0</notstarted>
+        <inprogress>0</inprogress>
+        <reviewed>0</reviewed>
+        <graded>0</graded>
+    </testcase>
+
+</learningspaces>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+    <listeners>
+        <listener class-name="com.snapwiz.selenium.tests.staf.learningspaces.CustomListener" />
+    </listeners>
+  <test name="IT 12 Jenkins Suite">
+    <classes>
+		<!-- Assignment Flow without Custom Assignment-->
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R14.AssignmentPage"/>
+	      	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R14.AssignmentPageInstructorView"/> 
+      		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R14.CheckGradeableCheckbox"/> 
+      		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R14.NonGradableAssignmentWithoutDescription"/>     
+      		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R14.ActionOverAssignments"/>  
+      		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R14.VerifyDueDateAndAccessibleDate"/>
+      		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R14.VerifyEachStatusBox"/>      	 
+      		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R14.StatusBoxCount"/>
+      		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R14.SocialElementsInstructorSide"/>
+      		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R14.VerifyFiltersOnAllAssignment"/>
+      		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R14.InstructoAbleToPreviewQuestionsLearningActivities"/><!-- error -->
+      		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R14.ResourceAssignmentByInstructor"/>
+      		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R14.InstructorAbleToFilterAllAssignableResources"/>
+      		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R14.SearchTextAreaOnTop"/>
+      		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R14.InstructorAbleToViewDetailsOfEachAssignment"/>
+      		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R14.VerifyBookMarkSymbol"/>
+      		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R14.InstructorAbleToGradeAndProvideFeedback"/>
+      		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R14.InstructorSendingPrivateMessageToAStudent"/>
+      		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R14.VerifyTotalMarksColumn"/>
+      		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R14.InstructorAbleToGradeManuallyGradableQuestions"/>
+      		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R14.InstructorAbleToFeedbackForNonGradableAssignment"/>
+		    <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.StudentAbleToNevigateAssignmentPage"/>
+  		    <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.AttemptAssignmentAsStudent"/>
+  		    <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.DateDisplayInAssignmentAccoringToTimeZone"/>
+  		    <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.DifferentStatusOfAssignment"/>
+  		    <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.SortingOrderOfAssignmentsInAssignmentsPage"/>
+  		    <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.StudentAbleToViewDropdownInAssignmentPage"/>
+  		    <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.AssignmentStatusBox"/>
+  		    <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.StatusBoxNotShownIfAssignmentIsNotInAnyStatus"/>
+    		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.CountOfBoxesChangeAsPerFilterSelected"/>
+    		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.DetailsOfAssignments"/>
+    		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.StudentAbleToUseSocialElementForAssignment"/>
+    		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.StudentAbleToViewRightSideTab"/>
+    		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.AssignmentsTimer"/>
+    		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.SummaryPagePopUp"/>
+    		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.StudentAbleToNavigateNextPreviousButtonmanytimes"/>
+    		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.ClickOnQuestionCardLandOnSpecificQuestionPage"/>
+    		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.GradePointReflectedWhenInstructorUpdateAfterSubmittedTheAssignment"/>
+
+		
+	<!-- IT12 R38 -->
+       		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.BookMarkVerify"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.BookMarkVerifyForInstructor"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.BookmarkingOfPostedDiscussion"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.BookmarkingOfPostedDiscussionForInstructor"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.BookmarkingOfPostedNotes"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.BookmarkingOfPostedNotesForInstructor"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.DiscussionWidget"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.BookmarkVerifyFromTOCSearch"/>
+        <!--we are not supporting different types of widget so commenting the class-->
+		<!--<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.BookmarkingOfDifferentWidgets"/>-->
+
+	<!-- IT12 R39 -->
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R39.VerifyMyJournal"/>
+    	        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R39.ActivitiesThatCreateJournalEntries"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R39.AddDicussionAfterSelectingText"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R39.ChronologicalSequence"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R39.EditDiscussionAndVerify"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R39.ReflectionOfSocialActivitiesOnCourseStream"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R39.VerifyFiltersInMyJournal"/>	
+
+	<!-- IT12 R14.3 -->
+	       <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R14_3.EditingAssignmentCart"/>
+	       <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R14_3.PopUpToAssignCart"/>
+	       <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R14_3.CartIconOnAllPagesOfInstructorSites"/>
+    	       <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R14_3.ResponcePageForLeaningActivity"/>
+
+	<!-- IT11 R27 -->
+	 	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.AverageTimeSpent"/>
+	 	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.ClickOnAssignmentActivity"/>
+	 	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.CourseInformationTile"/>
+	 	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.CoursePerformanceIndicator"/>
+	 	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.InstructorAbleToViewAssignmentActivity"/>
+	 	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.InstructorAbleToViewLatestCourseStreamEntry"/>
+	 	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.LatestCourseStreamEntriesShownOnDashBoard"/>
+	 	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.LoginAsInstructorToDifferentTypeOfCourse"/>
+	 	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.NavigatorIcon"/>
+	 	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.OrderingOfActivities"/>
+	 	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.TopTenPercent"/>
+
+
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R14.UpdateStatusCountInStatusBox"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R14.StatusOfAssignments"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R14_3.AssignmentCartAssigned"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R14_3.InstructorAbleToAssignMultipleResourcesAsSingleAssignment"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R14_3.StatusOfAssignemntCart"/>
+
+
+	</classes>
+  </test> <!-- Test -->
+ </suite> <!-- Suite -->

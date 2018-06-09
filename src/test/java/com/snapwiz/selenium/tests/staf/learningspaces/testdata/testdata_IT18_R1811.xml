@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1811.ImportQuestionUsingWPQTI" index="11">
+        <assessmentname>Assignment_IT18_R1811</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_R1811</questionset>
+        <questiontext>Test Question for IT18_R1811</questiontext>
+        <filename>questiontypetruefalsewithoutmedia.xml</filename>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1811.ImportQuestionUsingWPQTI" index="19" method="importMultipleChoiceQuestionUsingWPQTI">
+        <assessmentname>Assignment_MultipleChoiceIT18_R1811</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_R1811</questionset>
+        <questiontext>Test Question for IT18_R1811</questiontext>
+        <filename>questiontypemultiplechoicewithoutmedia.xml</filename>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1811.ImportQuestionUsingWPQTI" index="27" method="importMultipleSelectionQuestionUsingWPQTI">
+        <assessmentname>Assignment_MultipleSelectionIT18_R1811</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_R1811</questionset>
+        <questiontext>Test Question for IT18_R1811</questiontext>
+        <filename>questiontypemultipleselectionwithoutmedia1.xml</filename>
+        <course_name>Geography: Realms, Regions, and Concepts - Sixteenth Edition</course_name>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1811.ImportQuestionUsingWPQTI" index="36" method="importTextEntryQuestionUsingWPQTI">
+        <assessmentname>Assignment_TextEntryIT18_R1811</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_R1811</questionset>
+        <questiontext>Test Question for IT18_R1811</questiontext>
+        <filename>textentrywithoutmedia.xml</filename>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1811.ImportQuestionUsingWPQTI" index="45" method="importTextDropDownQuestionUsingWPQTI">
+        <assessmentname>Assignment_TextDropDownIT18_R1811</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_R1811</questionset>
+        <questiontext>Test Question for IT18_R1811</questiontext>
+        <filename>questiontypetextdropdownwithoutmedia.xml</filename>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1811.ImportQuestionUsingWPQTI" index="54" method="importMapleNumericQuestionUsingWPQTI">
+        <assessmentname>Assignment_MapleNumericIT18_R1811</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_R1811</questionset>
+        <questiontext>Test Question for IT18_R1811</questiontext>
+        <filename>questiontypemaplenumeric.xml</filename>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1811.ImportQuestionUsingWPQTI" index="72" method="importTrueFalseAndMultipleChoiceQuestionUsingWPQTI">
+        <assessmentname>Assignment_TrueFalseAndMultipleChoiceIT18_R1811</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_R1811</questionset>
+        <questiontext>Test Question for IT18_R1811</questiontext>
+        <filename>trufalseandmultiplechoice.zip</filename>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1811.ImportQuestionUsingWPQTI" index="103">
+      <user_id>instructor_IT18_R1811_11_2</user_id>
+        <Role>instructor</Role>
+        <context_id>it18studcontext112</context_id>
+        <context_title>it18studtitle112</context_title>
+        <assessmentname>Assignment_diagnostic_R1811</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_R1811</questionset>
+        <questiontext>Test Question for IT18_R1811</questiontext>
+        <filename>allquestion.zip</filename>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1811.ImportQuestionUsingWPQTI" index="104">
+        <user_id>student_IT18_R1811_11_2</user_id>
+        <Role>student</Role>
+        <context_id>it18studcontext112</context_id>
+        <context_title>it18studtitle112</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1811.ImportQuestionUsingWPQTI" index="105">
+        <user_id>instructor_IT18_R1811_11_2</user_id>
+        <Role>instructor</Role>
+        <context_id>it18studcontext112</context_id>
+        <context_title>it18studtitle112</context_title>
+        <assessmentname>Assignment_diagnostic_R1811</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_R1811</questionset>
+        <questiontext>Test Question for IT18_R1811</questiontext>
+    </testcase>
+  </learningspaces>

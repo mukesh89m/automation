@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edulastic>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.e9.questioncentricstudentview.QuestionCentricStudentView" index ="15" method="">
+        <assessmentname>IT1_studentCentricView_15</assessmentname>
+        <questiontext>question text_studentCentricView_15</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.e9.questioncentricstudentview.QuestionCentricStudentView" index ="64" method="">
+    <answerchoice>incorrect</answerchoice>>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.e9.questioncentricstudentview.QuestionCentricStudentView" index ="158" method="">
+        <assessmentname>IT1_student21ResponseDrillDown_158</assessmentname>
+        <questiontext>question text_student21ResponseDrillDownn_158</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+        <filename>img.png</filename>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.e9.questioncentricstudentview.QuestionCentricStudentView" index ="285" method="">
+        <assessmentname>IT1_instructorUsingBubbleNavigator_285</assessmentname>
+        <questiontext>question text_instructorUsingBubbleNavigator_285</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+        <filename>img.png</filename>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.e9.questioncentricstudentview.QuestionCentricStudentView" index ="355" method="">
+        <assessmentname>IT1_studentInitials_255</assessmentname>
+        <questiontext>question text_studentInitials_255</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.e9.questioncentricstudentview.QuestionCentricStudentView" index ="409" method="">
+        <assessmentname>IT1_feedbackAssessmentGradingInProgress_409</assessmentname>
+        <questiontext>question text_feedbackAssessmentGradingInProgress_409</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.e9.questioncentricstudentview.QuestionCentricStudentView" index ="547" method="">
+        <assessmentname>IT1_feedbackAssessmentGraded_547</assessmentname>
+        <questiontext>question text_feedbackAssessmentGraded_547</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.e9.questioncentricstudentview.QuestionCentricStudentView" index ="670" method="">
+        <assessmentname>IT1_feedbackAssessmentReviewInProgress_670</assessmentname>
+        <questiontext>question text_feedbackAssessmentReviewInProgress_670</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.e9.questioncentricstudentview.QuestionCentricStudentView" index ="795" method="">
+    <assessmentname>e9_feedbackAssessmentReviewInProgress_795</assessmentname>
+    <questiontext>question text_feedbackAssessmentReviewInProgress_795</questiontext>
+    <shareWithClass>true</shareWithClass>
+    <duedate>28</duedate>
+    <duetime>12:00 AM</duetime>
+    <gradable>false</gradable>
+    <description>description text</description>
+    <tags>tags tags</tags>
+    <privacy>Public</privacy>
+</testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.e9.questioncentricstudentview.QuestionCentricStudentView" index ="920" method="">
+        <assessmentname>e9_instructorGivingGradesWithGradingInProgress_920</assessmentname>
+        <questiontext>question text_instructorGivingGradesWithGradingInProgress_920</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.e9.questioncentricstudentview.QuestionCentricStudentView" index ="971" method="">
+        <assessmentname>e9_instructorGivingGradesWithGraded_971</assessmentname>
+        <questiontext>question text_instructorGivingGradesWithGraded_971</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.e9.questioncentricstudentview.QuestionCentricStudentView" index ="1060" method="">
+        <assessmentname>e9_questionCentricViewStudentNotAttempted_1060</assessmentname>
+        <questiontext>question text_questionCentricViewStudentNotAttempted_1060</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <answerchoice>correct</answerchoice>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.e9.questioncentricstudentview.QuestionCentricStudentView" index ="1061" method="">
+        <answerchoice>incorrect</answerchoice>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.e9.questioncentricstudentview.QuestionCentricStudentView" index ="1142" method="">
+        <assessmentname>e9_instructorNavigatingBackToLiveGradebook_1142</assessmentname>
+        <questiontext>question text_instructorNavigatingBackToLiveGradebook_1142</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.e9.questioncentricstudentview.QuestionCentricStudentView" index ="1200" method="">
+        <assessmentname>e9_questionCentricViewReAttempt_1200</assessmentname>
+        <questiontext>question text_questionCentricViewReAttempt_1200</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.e9.questioncentricstudentview.QuestionCentricStudentView" index ="1297" method="">
+        <assessmentname>e9_studentCentricViewStudentNotAttempted_1297</assessmentname>
+        <questiontext>question text_studentCentricViewStudentNotAttempted_1297</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <expireduedate>true</expireduedate>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.e9.questioncentricstudentview.QuestionCentricStudentView" index ="1504" method="">
+        <assessmentname>e9_timeGraphForQuestionCentricView_1504</assessmentname>
+        <questiontext>question text_timeGraphForQuestionCentricView_1504</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.e9.questioncentricstudentview.QuestionCentricStudentView" index ="116" method="">
+        <assessmentname>IT1_studentCentricView_116</assessmentname>
+        <questiontext>question text_studentCentricView_116</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.e9.questioncentricstudentview.QuestionCentricStudentView" index ="2063" method="">
+        <assessmentname>e9_summaryGraph_2063</assessmentname>
+        <questiontext>question text_summaryGraph_2063</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+</edulastic>

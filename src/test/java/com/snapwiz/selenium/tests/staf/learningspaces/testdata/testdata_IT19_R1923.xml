@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.AuthorShouldBeAbleToViewAndUseTheEnhancementWorkBoardOverlay" index="12" method="" >
+        <assessmentname>IT19_R1923_Assessment_12</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question IT19_R1923_12</questionset>
+        <questiontext>Test Question IT19_R1923_12</questiontext>
+        <learningobjective>true</learningobjective>
+        <withUploadVideo>true</withUploadVideo>
+        <filename>small.3gp</filename>
+        <filename1>img.mp3</filename1>>
+        <withUploadAudio>true</withUploadAudio>
+        <useWriteBoard>true</useWriteBoard>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.AuthorShouldBeAbleToViewAndUseTheEnhancementWorkBoardOverlay" index="28" method="" >
+        <assessmentname>IT19_R1923_Assessment_28</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question IT19_R1923_28</questionset>
+        <questiontext>Test Question IT19_R1923_28</questiontext>
+        <learningobjective>true</learningobjective>
+        <withUploadVideo>true</withUploadVideo>
+        <filename>small.3gp</filename>
+        <filename1>img.mp3</filename1>>
+        <withUploadAudio>true</withUploadAudio>
+        <useWriteBoard>true</useWriteBoard>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.AuthorShouldBeAbleToViewAndUseTheEnhancementWorkBoardOverlay" index="44" method="" >
+        <assessmentname>IT19_R1923_Assessment_44</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question IT19_R1923_44</questionset>
+        <questiontext>Test Question IT19_R1923_44</questiontext>
+        <learningobjective>true</learningobjective>
+        <withUploadVideo>true</withUploadVideo>
+        <filename>small.3gp</filename>
+        <filename1>img.mp3</filename1>>
+        <withUploadAudio>true</withUploadAudio>
+        <useWriteBoard>true</useWriteBoard>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.AuthorShouldBeAbleToViewAndUseTheEnhancementWorkBoardOverlay" index="60" method="" >
+        <assessmentname>IT19_R1923_Assessment_60</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question IT19_R1923_60</questionset>
+        <questiontext>Test Question IT19_R1923_60</questiontext>
+        <learningobjective>true</learningobjective>
+        <withUploadVideo>true</withUploadVideo>
+        <filename>small.3gp</filename>
+        <filename1>img.mp3</filename1>>
+        <withUploadAudio>true</withUploadAudio>
+        <useWriteBoard>true</useWriteBoard>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.AuthorShouldBeAbleToViewAndUseTheEnhancementWorkBoardOverlay" index="76" method="" >
+        <assessmentname>IT19_R1923_Assessment_76</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question IT19_R1923_76</questionset>
+        <questiontext>Test Question IT19_R1923_76</questiontext>
+        <learningobjective>true</learningobjective>
+        <withUploadVideo>true</withUploadVideo>
+        <filename>small.3gp</filename>
+        <filename1>img.mp3</filename1>>
+        <withUploadAudio>true</withUploadAudio>
+        <useWriteBoard>true</useWriteBoard>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.AuthorShouldBeAbleToViewAndUseTheEnhancementWorkBoardOverlay" index="92" method="" >
+        <assessmentname>IT19_R1923_Assessment_92</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question IT19_R1923_92</questionset>
+        <questiontext>Test Question IT19_R1923_92</questiontext>
+        <learningobjective>true</learningobjective>
+        <withUploadVideo>true</withUploadVideo>
+        <filename>small.3gp</filename>
+        <filename1>img.mp3</filename1>>
+        <withUploadAudio>true</withUploadAudio>
+        <useWriteBoard>true</useWriteBoard>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.AuthorShouldBeAbleToViewAndUseTheEnhancementWorkBoardOverlay" index="108" method="" >
+        <assessmentname>IT19_R1923_Assessment_108</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question IT19_R1923_108</questionset>
+        <questiontext>Test Question IT19_R1923_108</questiontext>
+        <learningobjective>true</learningobjective>
+        <withUploadVideo>true</withUploadVideo>
+        <filename>small.3gp</filename>
+        <filename1>img.mp3</filename1>>
+        <withUploadAudio>true</withUploadAudio>
+        <useWriteBoard>true</useWriteBoard>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.AuthorShouldBeAbleToViewAndUseTheEnhancementWorkBoardOverlay" index="124" method="" >
+        <assessmentname>IT19_R1923_Assessment_124</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question IT19_R1923_124</questionset>
+        <questiontext>Test Question IT19_R1923_124</questiontext>
+        <learningobjective>true</learningobjective>
+        <withUploadVideo>true</withUploadVideo>
+        <filename>small.3gp</filename>
+        <filename1>img.mp3</filename1>>
+        <withUploadAudio>true</withUploadAudio>
+        <useWriteBoard>true</useWriteBoard>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.AuthorShouldBeAbleToViewAndUseTheEnhancementWorkBoardOverlay" index="140" method="" >
+        <assessmentname>IT19_R1923_Assessment_140</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question IT19_R1923_140</questionset>
+        <questiontext>Test Question IT19_R1923_140</questiontext>
+        <learningobjective>true</learningobjective>
+        <withUploadVideo>true</withUploadVideo>
+        <filename>small.3gp</filename>
+        <filename1>img.mp3</filename1>>
+        <withUploadAudio>true</withUploadAudio>
+        <useWriteBoard>true</useWriteBoard>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.AuthorShouldBeAbleToViewAndUseTheEnhancementWorkBoardOverlay" index="155" method="" >
+        <assessmentname>IT19_R1923_Assessment_155</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question IT19_R1923_155</questionset>
+        <questiontext>Test Question IT19_R1923_155</questiontext>
+        <learningobjective>true</learningobjective>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.AuthorShouldBeAbleToViewAndUseTheEnhancementWorkBoardOverlay" index="160" method="" >
+        <assessmentname>IT19_R1923_Assessment_160</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question IT19_R1923_160</questionset>
+        <questiontext>Test Question IT19_R1923_160</questiontext>
+        <learningobjective>true</learningobjective>
+        <withUploadVideo>true</withUploadVideo>
+        <filename>small.3gp</filename>
+        <filename1>img.mp3</filename1>>
+        <withUploadAudio>true</withUploadAudio>
+        <useWriteBoard>true</useWriteBoard>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.AuthorShouldBeAbleToViewAndUseTheEnhancementWorkBoardOverlay" index="175" method="" >
+        <assessmentname>IT19_R1923_Assessment_175</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question IT19_R1923_175</questionset>
+        <questiontext>Test Question IT19_R1923_175</questiontext>
+        <learningobjective>true</learningobjective>
+        <reservforassignment>false</reservforassignment>
+        <useWriteBoard>true</useWriteBoard>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.AuthorShouldBeAbleToViewAndUseTheEnhancementWorkBoardOverlay" index="180" method="" >
+        <assessmentname>IT19_R1923_Assessment_180</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question IT19_R1923_180</questionset>
+        <questiontext>Test Question IT19_R1923_180</questiontext>
+        <learningobjective>true</learningobjective>
+        <reservforassignment>false</reservforassignment>
+        <useWriteBoard>true</useWriteBoard>
+        <withImageInHint>true</withImageInHint>
+        <withImageInSolution>true</withImageInSolution>
+        <filename>img.jpg</filename>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.StudentShouldBeAbleToViewAndUseTheEnhancementWorkboardSolution" index="195" method="" >
+       <user_id>student_IT19_R1923_195</user_id>>
+       <Role>student</Role>
+       <context_id>studcontext_IT19_R1923_195</context_id>
+       <context_title>studtitle_IT19_R1923_195</context_title>
+        <assessmentname>IT19_R1923_Assessment_195</assessmentname>
+        <questiontype>Adaptive Component Diagnostic</questiontype>
+        <questionset>Test Question IT19_R1923_195</questionset>
+        <questiontext>Test Question IT19_R1923_195</questiontext>
+        <learningobjective>true</learningobjective>
+        <reservforassignment>false</reservforassignment>
+        <useWriteBoard>true</useWriteBoard>
+        <newChapterName>Diagnostic_Assessment_IT19_R1923</newChapterName>
+        <chapterName>Diagnostic_Assessment_IT19_R1923</chapterName>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.StudentShouldBeAbleToViewAndUseTheEnhancementWorkboardSolution" index="214" method="" >
+        <user_id>student_IT19_R1923_214</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_R1923_214_4</context_id>
+        <context_title>studtitle_IT19_R1923_214_4</context_title>
+        <assessmentname>Practice Assessment_214</assessmentname>
+        <questiontype>Adaptive Component Practice</questiontype>
+        <questionset>Test Question IT19_R1923_214</questionset>
+        <questiontext>Test Question IT19_R1923_214</questiontext>
+        <learningobjective>true</learningobjective>
+        <reservforassignment>false</reservforassignment>
+        <useWriteBoard>true</useWriteBoard>
+        <newChapterName>Diagnostic_Assessment_IT19_R1923</newChapterName>
+        <chapterName>Diagnostic_Assessment_IT19_R1923</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.StudentShouldBeAbleToViewAndUseTheEnhancementWorkboardSolution" index="239" method="" >
+        <user_id>student_IT19_R1923_239</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_R1923_239</context_id>
+        <context_title>studtitle_IT19_R1923_239</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>staticAssessment_239</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question IT19_R1923_239</questionset>
+        <questiontext>Test Question IT19_R1923_239</questiontext>
+        <learningobjective>true</learningobjective>
+        <reservforassignment>false</reservforassignment>
+        <useWriteBoard>true</useWriteBoard>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.StudentShouldBeAbleToViewAndUseTheEnhancementWorkboardSolution" index="307" method="" >
+        <user_id>student_IT19_R1923_307</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_R1923_307</context_id>
+        <context_title>studtitle_IT19_R1923_307</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>staticAssessment_307</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question IT19_R1923_307</questionset>
+        <questiontext>Test Question IT19_R1923_307</questiontext>
+        <learningobjective>true</learningobjective>
+        <reservforassignment>false</reservforassignment>
+        <useWriteBoard>true</useWriteBoard>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.StudentShouldBeAbleToViewAndUseTheEnhancementWorkboardSolution" index="320" method="" >
+        <user_id>student_IT19_R1923_320</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_R1923_320</context_id>
+        <context_title>studtitle_IT19_R1923_320</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>static Assessment_307</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.InstructorShouldBeAbleToViewEnhancementWorkBoard" index="323" method="" >
+        <user_id>instructor_IT19_R1923_323</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT19_R1923_323</context_id>
+        <context_title>studtitle_IT19_R1923_323</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT1923_static Assessment_323</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question IT19_R1923_323</questionset>
+        <questiontext>Test Question IT19_R1923_323</questiontext>
+        <learningobjective>true</learningobjective>
+        <useWriteBoard>true</useWriteBoard>
+        <shareWithInitialString>studtitle_IT19_R1923_323</shareWithInitialString>
+        <shareName>studtitle_IT19_R1923_323</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.InstructorShouldBeAbleToViewEnhancementWorkBoard" index="323_1" method="" >
+        <user_id>student_IT19_R1923_323</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_R1923_323</context_id>
+        <context_title>studtitle_IT19_R1923_323</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.InstructorShouldBeAbleToViewEnhancementWorkBoard" index="334" method="" >
+        <user_id>instructor_IT19_R1923_334</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT19_R1923_334</context_id>
+        <context_title>studtitle_IT19_R1923_334</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT1923_static Assessment_334</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question IT19_R1923_334</questionset>
+        <questiontext>Test Question IT19_R1923_334</questiontext>
+        <learningobjective>true</learningobjective>
+        <useWriteBoard>true</useWriteBoard>
+        <shareWithInitialString>studtitle_IT19_R1923_334</shareWithInitialString>
+        <shareName>studtitle_IT19_R1923_334</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.InstructorShouldBeAbleToViewEnhancementWorkBoard" index="334_1" method="" >
+        <user_id>student_IT19_R1923_334</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_R1923_334</context_id>
+        <context_title>studtitle_IT19_R1923_334</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.InstructorShouldBeAbleToViewEnhancementWorkBoard" index="346" method="" >
+        <user_id>instructor_IT19_R1923_346</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT19_R1923_346</context_id>
+        <context_title>studtitle_IT19_R1923_346</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT1923_static Assessment_346</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question IT19_R1923_346</questionset>
+        <questiontext>Test Question IT19_R1923_346</questiontext>
+        <learningobjective>true</learningobjective>
+        <useWriteBoard>true</useWriteBoard>
+        <shareWithInitialString>studtitle_IT19_R1923_346</shareWithInitialString>
+        <shareName>studtitle_IT19_R1923_346</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.InstructorShouldBeAbleToViewEnhancementWorkBoard" index="346_1" method="" >
+        <user_id>student_IT19_R1923_346</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_R1923_346</context_id>
+        <context_title>studtitle_IT19_R1923_346</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.InstructorShouldBeAbleToViewEnhancementWorkBoard" index="350" method="" >
+        <user_id>instructor_IT19_R1923_350</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT19_R1923_350</context_id>
+        <context_title>studtitle_IT19_R1923_350</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT19_23_static_Assessment_350</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question IT19_R1923_350</questionset>
+        <questiontext>Test Question IT19_R1923_350</questiontext>
+        <learningobjective>true</learningobjective>
+        <reservforassignment>false</reservforassignment>
+        <useWriteBoard>true</useWriteBoard>
+        <shareWithInitialString>studtitle_IT19_R1923_350</shareWithInitialString>
+        <shareName>studtitle_IT19_R1923_350</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.InstructorShouldBeAbleToViewEnhancementWorkBoard" index="350_1" method="" >
+        <user_id>student_IT19_R1923_350</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_R1923_350</context_id>
+        <context_title>studtitle_IT19_R1923_350</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.InstructorShouldBeAbleToViewEnhancementWorkBoard" index="361" method="" >
+        <user_id>instructor_IT19_R1923_361</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT19_R1923_361</context_id>
+        <context_title>studtitle_IT19_R1923_361</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT1923_static_Assessment_361</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question IT19_R1923_361</questionset>
+        <questiontext>Test Question IT19_R1923_361</questiontext>
+        <learningobjective>true</learningobjective>
+        <reservforassignment>false</reservforassignment>
+        <useWriteBoard>true</useWriteBoard>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.InstructorShouldBeAbleToViewEnhancementWorkBoard" index="361_1" method="" >
+        <user_id>student_IT19_R1923_361</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_R1923_361</context_id>
+        <context_title>studtitle_IT19_R1923_361</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.InstructorShouldBeAbleToViewEnhancementWorkBoard" index="374" method="" >
+        <user_id>instructor_IT19_R1923_374_1</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT19_R1923_374_2</context_id>
+        <context_title>studtitle_IT19_R1923_374_2</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT1923_static_Assessment_374</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question IT19_R1923_374</questionset>
+        <questiontext>Test Question IT19_R1923_374</questiontext>
+        <learningobjective>true</learningobjective>
+        <reservforassignment>false</reservforassignment>
+        <useWriteBoard>true</useWriteBoard>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.InstructorShouldBeAbleToViewEnhancementWorkBoard" index="374_1" method="" >
+        <user_id>student_IT19_R1923_374_2</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_R1923_374_2</context_id>
+        <context_title>studtitle_IT19_R1923_374_2</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.StudentShouldBeAbleToViewTheFeedbackGivenByInstructor" index="377" method="" >
+        <user_id>instructor_IT19_R1923_377_4</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT19_R1923_377_4</context_id>
+        <context_title>studtitle_IT19_R1923_377_4</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT1923_static_Assessment_377</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question IT19_R1923_377</questionset>
+        <questiontext>Test Question IT19_R1923_377</questiontext>
+        <learningobjective>true</learningobjective>
+        <useWriteBoard>true</useWriteBoard>
+        <shareWithInitialString>studtitle_IT19_R1923_377_4</shareWithInitialString>
+        <shareName>studtitle_IT19_R1923_377_4</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.StudentShouldBeAbleToViewTheFeedbackGivenByInstructor" index="377_1" method="" >
+        <user_id>student_IT19_R1923_377_4</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_R1923_377_4</context_id>
+        <context_title>studtitle_IT19_R1923_377_4</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.StudentShouldBeAbleToViewTheFeedbackGivenByInstructor" index="385" method="" >
+        <user_id>instructor_IT19_R1923_385</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT19_R1923_385</context_id>
+        <context_title>studtitle_IT19_R1923_385</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT1923_static_Assessment_377</assessmentname>
+        <shareWithInitialString>studtitle_IT19_R1923_385</shareWithInitialString>
+        <shareName>studtitle_IT19_R1923_385</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.StudentShouldBeAbleToViewTheFeedbackGivenByInstructor" index="385_1" method="" >
+        <user_id>student_IT19_R1923_385</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_R1923_385</context_id>
+        <context_title>studtitle_IT19_R1923_385</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.StudentShouldBeAbleToViewTheFeedbackGivenByInstructor" index="388" method="" >
+        <user_id>instructor_IT19_R1923_388_1</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT19_R1923_388_1</context_id>
+        <context_title>studtitle_IT19_R1923_388_1</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT1923_static_Assessment_388</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question IT19_R1923_388</questionset>
+        <questiontext>Test Question IT19_R1923_388</questiontext>
+        <learningobjective>true</learningobjective>
+        <useWriteBoard>true</useWriteBoard>
+        <shareWithInitialString>studtitle_IT19_R1923_388_1</shareWithInitialString>
+        <shareName>studtitle_IT19_R1923_388_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.StudentShouldBeAbleToViewTheFeedbackGivenByInstructor" index="388_1" method="" >
+        <user_id>student_IT19_R1923_388_1</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_R1923_388_1</context_id>
+        <context_title>studtitle_IT19_R1923_388_1</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.StudentShouldBeAbleToViewTheFeedbackGivenByInstructor" index="392" method="" >
+        <user_id>instructor_IT19_R1923_392</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT19_R1923_392</context_id>
+        <context_title>studtitle_IT19_R1923_392</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT1923_static_Assessment_377</assessmentname>
+        <shareWithInitialString>studtitle_IT19_R1923_392</shareWithInitialString>
+        <shareName>studtitle_IT19_R1923_392</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.StudentShouldBeAbleToViewTheFeedbackGivenByInstructor" index="392_1" method="" >
+        <user_id>student_IT19_R1923_392</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_R1923_392</context_id>
+        <context_title>studtitle_IT19_R1923_392</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.StudentShouldBeAbleToViewTheFeedbackGivenByInstructor" index="395" method="" >
+        <user_id>instructor_IT19_R1923_395</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT19_R1923_395</context_id>
+        <context_title>studtitle_IT19_R1923_395</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT1923_static_Assessment_377</assessmentname>
+        <shareWithInitialString>studtitle_IT19_R1923_395</shareWithInitialString>
+        <shareName>studtitle_IT19_R1923_395</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.StudentShouldBeAbleToViewTheFeedbackGivenByInstructor" index="395_1" method="" >
+        <user_id>student_IT19_R1923_395</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_R1923_395</context_id>
+        <context_title>studtitle_IT19_R1923_395</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.StudentShouldBeAbleToViewTheFeedbackGivenByInstructor" index="400" method="" >
+        <user_id>instructor_IT19_R1923_400</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT19_R1923_400</context_id>
+        <context_title>studtitle_IT19_R1923_400</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT1923_static_Assessment_377</assessmentname>
+        <shareWithInitialString>studtitle_IT19_R1923_400</shareWithInitialString>
+        <shareName>studtitle_IT19_R1923_400</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.StudentShouldBeAbleToViewTheFeedbackGivenByInstructor" index="400_1" method="" >
+        <user_id>student_IT19_R1923_400</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_R1923_400</context_id>
+        <context_title>studtitle_IT19_R1923_400</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.StudentShouldBeAbleToViewTheFeedbackGivenByInstructor" index="403" method="" >
+        <user_id>instructor_IT19_R1923_403</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT19_R1923_403</context_id>
+        <context_title>studtitle_IT19_R1923_403</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT1923_static_Assessment_361</assessmentname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.StudentShouldBeAbleToViewTheFeedbackGivenByInstructor" index="403_1" method="" >
+        <user_id>student_IT19_R1923_403</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_R1923_403</context_id>
+        <context_title>studtitle_IT19_R1923_403</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.StudentShouldBeAbleToViewTheFeedbackGivenByInstructor" index="408" method="" >
+        <user_id>instructor_IT19_R1923_408</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT19_R1923_408</context_id>
+        <context_title>studtitle_IT19_R1923_408</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT1923_static_Assessment_388</assessmentname>
+        <shareWithInitialString>studtitle_IT19_R1923_408</shareWithInitialString>
+        <shareName>studtitle_IT19_R1923_408</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.StudentShouldBeAbleToViewTheFeedbackGivenByInstructor" index="408_1" method="" >
+        <user_id>student_IT19_R1923_408</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_R1923_408</context_id>
+        <context_title>studtitle_IT19_R1923_408</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.StudentShouldBeAbleToViewTheFeedbackGivenByInstructor" index="413" method="" >
+        <user_id>instructor_IT19_R1923_413</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT19_R1923_413</context_id>
+        <context_title>studtitle_IT19_R1923_413</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT1923_static_Assessment_388</assessmentname>
+        <shareWithInitialString>studtitle_IT19_R1923_413</shareWithInitialString>
+        <shareName>studtitle_IT19_R1923_413</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.StudentShouldBeAbleToViewTheFeedbackGivenByInstructor" index="413_1" method="" >
+        <user_id>student_IT19_R1923_413</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_R1923_413</context_id>
+        <context_title>studtitle_IT19_R1923_413</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.StudentShouldBeAbleToViewTheFeedbackGivenByInstructor" index="418" method="" >
+        <user_id>instructor_IT19_R1923_418</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT19_R1923_418</context_id>
+        <context_title>studtitle_IT19_R1923_418</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT1923_static_Assessment_388</assessmentname>
+        <shareWithInitialString>studtitle_IT19_R1923_418</shareWithInitialString>
+        <shareName>studtitle_IT19_R1923_418</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.StudentShouldBeAbleToViewTheFeedbackGivenByInstructor" index="418_1" method="" >
+        <user_id>student_IT19_R1923_418</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_R1923_418</context_id>
+        <context_title>studtitle_IT19_R1923_418</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.StudentShouldBeAbleToViewTheFeedbackGivenByInstructor" index="423" method="" >
+        <user_id>instructor_IT19_R1923_423</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT19_R1923_423</context_id>
+        <context_title>studtitle_IT19_R1923_423</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT1923_static_Assessment_388</assessmentname>
+        <shareWithInitialString>studtitle_IT19_R1923_423</shareWithInitialString>
+        <shareName>studtitle_IT19_R1923_423</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.StudentShouldBeAbleToViewTheFeedbackGivenByInstructor" index="423_1" method="" >
+        <user_id>student_IT19_R1923_423</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_R1923_423</context_id>
+        <context_title>studtitle_IT19_R1923_423</context_title>
+    </testcase>
+
+</learningspaces>

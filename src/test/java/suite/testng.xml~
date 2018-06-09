@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="IT13-LSRegressionSuite">
+    <classes>   
+	<!-- IT13 R50 -->
+    		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.AssignmentPolicies"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.AssignmentPolicyUI"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.DifferentFieldsOfAssigmentPolicy"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.InstructorAbleToAssignAssignmentPolicy"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.NumberAttemptOptions"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.SaveAssignmentPolicy"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.ShowAnswerOption"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.ShowHintOption"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.ShowSolutionOption"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.StudentAbleToAttemptAssignmentWithPolicyAssigned"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.VerifyEffectOfVariousGradeReleaseOptions"/>
+
+	<!-- IT13 R51 -->
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R51.EngagementReport"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R51.AssignQuizzed"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R51.InstructorAbleToViewAssignedQuized"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R51.InstructorAbleToViewAssignedReading"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R51.AchievementSummary"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R51.InstructorSeeEmptyReportIfNoData"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R51.EnhashmentOfstudentAndInstructorDashboard"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R51.EngagmentReportOfNonAssignedCompletion"/>  
+
+	<!--IIT13 R53 -->
+	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R53.StudentAbleToViewUpcomingAssignmentOnDashBoard">
+	<!--IIT13 R54 -->
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R54.SupportForAssignmentsUploadedFile"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R54.InstructorAbleToassociateResourcesWithToc"/> 
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R54.InstructorAbleToAssignUploadedResources"/>
+	<!--IIT13 R57 -->
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R57.VerifyTOC"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R57.VerifyTOCForInstructor"/>
+	<!--IIT13 R60 -->		
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R60.StudentAbleToViewNotesAndDiscussion"/>
+
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->

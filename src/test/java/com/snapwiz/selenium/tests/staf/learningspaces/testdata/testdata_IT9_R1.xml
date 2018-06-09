@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R1.LTILogin" index="2" method="lyilogin">
+	<user_id>student-it9-2</user_id>
+	<Role>student</Role>
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R1.DirectLoginLSAdaptiveBackToWileyplusOptionNotAvilable" index="41" method="directLoginLSAdaptiveBackToWileyplusOptionNotAvilable">
+  	<username>student1.biology@epub.comaaa</username>
+  	<password>snapwiz</password>  
+ </testcase>
+
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R1.DirectLoginWithInvaildEmailPassword" index="26" method="DirectLoginWithInvaildEmailPassword">
+  	<username>wrong.biology@epub.com</username>
+  	<password>snapwiz</password>  
+ </testcase>
+ 
+ <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R1.DirectLoginWithInvaildEmailPasswordForAdaptive" index="28" method="DirectLoginWithInvaildEmailPasswordForAdaptive">
+  	<username>studentwrong.geography@epub.comaaa</username>
+  	<password>snapwiz</password>  
+ </testcase>
+ 
+ <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R1.DirectLoginWithVaildEmailPassword" index="27" method="DirectLoginWithVaildEmailPassword">
+  	<username>student1.biology@epub.comaaa</username>
+  	<password>snapwiz</password>  
+ </testcase>
+ 
+ <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R1.DirectLoginWithVaildEmailPasswordForAdaptive" index="29" method="DirectLoginWithVaildEmailPasswordForAdaptive">
+  	<username>student35.geography@epub.comaaa</username>
+  	<password>snapwiz</password>  
+ </testcase>
+ 
+ <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R1.DirectLoginWithVaildEmailPasswordForLsAdaptive" index="31" method="DirectLoginWithVaildEmailPasswordForLsAdaptive">
+  	<username>student1.biology@epub.comaaa</username>
+  	<password>snapwiz</password>  
+ </testcase>
+ 
+ <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R1.LSChangeOptionInDashboard" index="33" method="changeOptionInDashboard">
+	<user_id>stud33</user_id>
+	<Role>student</Role>
+	<custom_courseid>978-1-118-52678-1</custom_courseid>
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R1.LSChangeOptionInDashboard" index="35" method="LSAdaptiveVerifyChangeOption">
+	<user_id>stud35</user_id>
+	<Role>student</Role>
+</testcase>
+
+ <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R1.LSNormalLoginWileyPlusNotPresent" index="39" method="LSNormalLoginWileyPlusNotPresent">
+  	<username>student1.biology@epub.comaaa</username>
+  	<password>snapwiz</password>  
+ </testcase>
+ 
+ <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R1.LSNormalLoginWileyPlusNotPresentForAdaptive" index="38" method="LSNormalLoginWileyPlusNotPresentForAdaptive">
+  	<username>student35.geography@epub.comaaa</username>
+  	<password>snapwiz</password>  
+ </testcase>
+ 
+  <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R1.LTIAdaptiveLogin" index="4" method="ltiAdaptiveLogin">
+  	<user_id >adstudent4</user_id >
+ 	<Role>student</Role>
+      <course_type>adaptive</course_type>
+  	<text1>Activity Summary</text1>
+  <text2>BUILD YOUR PROFICIENCY</text2>
+ </testcase>
+ 
+ <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R1.LTIAdaptiveLoginWithInvalidResourceLinkId" index="25" method="LTIAdaptiveLoginWithInvalidResourceLinkId">  
+  	<user_id >adstudent25</user_id >
+ 	<Role>student</Role>
+ 	<resource_link_id>home25</resource_link_id>
+ 	<custom_courseid>243</custom_courseid> 
+ 	<expectederror>Something went wrong in processing your request.</expectederror>
+ </testcase>
+ 
+ <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R1.LTICustomCourseNumberAssociatedWithDomain" index="9" method="ltiCustomCourseNumberAssociatedWithDomain">  
+  <user_id >student_it9_9</user_id >
+  <Role>student</Role>  
+
+ </testcase>
+ 
+  <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R1.LTILoginAdaptiveCourseValidResourceLinkId" index="24" method="LTILoginAdaptiveCourseValidResourceLinkId">  
+  	<user_id >adstudent24_1</user_id >
+ 	<Role>student</Role>
+ 	<resource_link_id>home</resource_link_id>
+    <course_type>adaptive</course_type>
+ </testcase>
+ 
+ <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R1.LTILoginBackToWileyplusOption" index="37" method="lTILoginBackToWileyplusOption">  
+  	<user_id >student_it9_R1_37</user_id >
+ 	<Role>student</Role>
+     <course_type>adaptive</course_type>
+ </testcase>
+ 
+ <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R1.LTILoginCheck" index="13" method="loginCustomDestinationBlank">  
+  	<user_id >student_it9_R_13</user_id >
+ 	<Role>student</Role>
+ 	<custom_destination>  </custom_destination>
+ 	<expectederror>Something went wrong in processing your request.</expectederror>
+ </testcase>
+ 
+ <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R1.LTILoginCheck" index="14" method="loginWithCustomDestinationHomePage">  
+  	<user_id >student_it9_R_14</user_id >
+ 	<Role>student</Role>
+ </testcase>
+ 
+ <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R1.LTILoginCheck" index="16" method="loginAdaptiveCustomDestBlank">  
+  	<user_id >student_it9_R_16</user_id >
+ 	<Role>student</Role>
+     <course_type>adaptive</course_type>
+ 	<custom_destination>  </custom_destination> 
+ 	<expectederror>Something went wrong in processing your request.</expectederror>	
+ </testcase>
+ 
+ <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R1.LTILoginCheck" index="20" method="loginAdaptive">  
+  	<user_id >student_it9_R_20</user_id >
+ 	<Role>student</Role>
+     <course_type>adaptive</course_type>
+ </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R1.LTILoginCheck" index="22" method="resourseLinkAnyValue">
+        <user_id>student_IT9_R1_22</user_id>
+        <Role>student</Role>
+        <resource_link_id>anyvalue</resource_link_id>
+    </testcase>
+ 
+ <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R1.LTILoginCidLSAdaptiveCustomDestinationSnapwizChapter" index="15" method="loginltiCidAsLSAdaptiveCustomDestinationAsSnapwizChapter">
+  	<user_id >student_it9_R1_15</user_id >
+  	<Role>student</Role>
+  	<custom_destination>snapwiz-chapter</custom_destination>
+  	<expectederror>The destination you are trying to access has been configured incorrectly in the system.</expectederror>
+ </testcase>
+
+ <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R1.LTILoginWithCourseNotConfigure" index="7" method="ltiLoginWithCourseNotConfigure">
+  	<user_id >student_it9_R1_7</user_id >
+  	<Role>student</Role>
+  	<custom_courseid>c6789</custom_courseid>
+  	<expectederror>Something went wrong in processing your request.</expectederror>
+ </testcase>
+ 
+ <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R1.LTILSAndAdaptiveLogin" index="5" method="lsandadaptivelogin">  
+  	<user_id >lsadstudent_it9_R1_5</user_id >
+  	<Role>student</Role>  
+  	<custom_courseid>253</custom_courseid>
+ </testcase>
+ 
+ <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R1.LTILSAndAdptiveLoginCustomDestinationWithInvalidData" index="17" method="LTILSAndAdptiveLoginCustomDestinationWithInvalidData">
+  	<user_id >student_it9_R1_17</user_id >
+  	<Role>student</Role>
+  	<custom_destination>invalid data</custom_destination>
+  	<expectederror>The destination you are trying to access has been configured incorrectly in the system.</expectederror>
+ </testcase>
+ 
+ <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R1.LTILSAndAdptiveLoginWithResourceLinkIdblank" index="21" method="LTILSAndAdptiveLoginWithResourceLinkIdblank">  
+  	<user_id >adstudent_it9_r1_21</user_id >
+ 	<Role>student</Role>
+ 	<resource_link_id>  </resource_link_id>
+
+ </testcase>
+ 
+ <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R1.LTILSAndAdptiveLoginWithValidResourceLinkId" index="23" method="LTILSAndAdptiveLoginWithValidResourceLinkId">  
+  	<user_id >adstudent_it9_r1_23</user_id >
+ 	<Role>student</Role>
+ </testcase>
+ 
+ <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R1.LTILSLoginCustomDestinationWithInvalidData" index="12" method="ltiLSLoginCustomDestinationWithInvalidData">  
+ 	 <user_id >student_it9_r1_12</user_id >
+  	 <Role>student</Role>  
+  	 <custom_courseid>253</custom_courseid>
+  	 <custom_destination>snapwizhjjfghgh</custom_destination>
+  	 <expectederror>The destination you are trying to access has been configured incorrectly in the system.</expectederror>
+ </testcase>
+ 
+ <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R1.LTILSLoginCustomDestinationWithSnapwizChapter" index="11" method="lTILSLoginCustomDestinationWithSnapwizChapter">  
+ 	 <user_id >student_it9_r1_11</user_id >
+  	 <Role>student</Role>  
+  	 <custom_courseid>253</custom_courseid>
+  	 <custom_destination>snapwiz-chapter</custom_destination>
+  	 <expectederror>The destination you are trying to access has been configured incorrectly in the system.</expectederror>
+ </testcase>
+ 
+</learningspaces>

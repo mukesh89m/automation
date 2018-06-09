@@ -1,0 +1,1113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.StudentAbleToNevigateAssignmentPage" index="2190">
+		<user_id>IT10_R15_2190instructor</user_id>
+		<Role>instructor</Role>
+		<context_id>2190studcontext</context_id>
+		<context_title>2190studtitle</context_title>
+		<course>Science 8 - Bio Principles</course>
+		<assessmentname>2190 Assessment</assessmentname>
+		<questionset>2190 Question Set</questionset>
+		<questiontext>2190Test Question</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>21901</shareWithInitialString>
+		<shareName>21901first 21901second</shareName>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>false</gradeable>
+		<gradingpolicy>Grading policy text</gradingpolicy>
+		<duedate>28</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>This is an additional note</additionalnote>
+		<topicopen>1.1: Overview</topicopen>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.StudentAbleToNevigateAssignmentPage" index="21902">
+		<user_id>IT10_R15_21902instructor</user_id>
+		<Role>instructor</Role>
+		<context_id>2190studcontext</context_id>
+		<context_title>2190studtitle</context_title>
+		<course>Science 8 - Bio Principles</course>
+		<assessmentname>2190 Assessment1</assessmentname>
+		<questionset>2190 Question Set1</questionset>
+		<questiontext>2190Test Question1</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>2190</shareWithInitialString>
+		<shareName>21901first 21901second</shareName>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>false</gradeable>
+		<gradingpolicy>Grading policy text</gradingpolicy>
+		<duedate>28</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>This is an additional note</additionalnote>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.StudentAbleToNevigateAssignmentPage" index="21901">
+		<user_id>IT10_R15_21901student</user_id>
+		<Role>student</Role>
+		<familyname>21901second</familyname>
+		<givenname>21901first</givenname>
+		<context_id>2190studcontext</context_id>
+		<context_title>2190studtitle</context_title>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.AttemptAssignmentAsStudent" index="2412">
+		<user_id>IT10_R15_instructor_IT10_R15_2412</user_id>
+		<Role>instructor</Role>
+        <context_id>studcontext_IT10_R15_2412</context_id>
+        <context_title>studtitle_IT10_R15_2412</context_title>
+		<assessmentname>2412 Assessment</assessmentname>
+		<questionset>2412Question Set</questionset>
+		<questiontext>2412Test Question</questiontext>
+		<optiontext>2412 option text</optiontext>
+		<answertext>2414answer</answertext>
+		<unitoption>yards</unitoption>
+		<numerictext>10</numerictext>
+		<tolrence>25</tolrence>
+		<maplenumeric>sqrt(2)</maplenumeric>
+		<setname>test</setname>
+		<passage>Cell division is the process by which a parent cell divides into two or more daughter cells. Cell division usually occurs as part of a larger cell cycle.</passage>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>24120</shareWithInitialString>
+		<shareName>24120first 24120second</shareName>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>false</gradeable>
+		<gradingpolicy>Grading policy text</gradingpolicy>
+		<duedate>28</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>This is an additional note</additionalnote>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.AttemptAssignmentAsStudent" index="24120">
+		<user_id>IT10_R15_student_IT10_R15_24120</user_id>
+		<Role>student</Role>
+        <context_id>studcontext_IT10_R15_2412</context_id>
+        <context_title>studtitle_IT10_R15_2412</context_title>
+		<familyname>24120second</familyname>
+		<givenname>24120first</givenname>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.AttemptAssignmentAsStudent" index="2420" method="actionOverAssignment">
+		<user_id>IT10_R15_2420instructor</user_id>
+		<Role>instructor</Role>
+		<course>Science 8 - Bio Principles</course>
+		<assessmentname>2420Assessment</assessmentname>
+		<questionset>2420Question Set</questionset>
+		<questiontext>2420Test Question</questiontext>
+		<optiontext>2420 option text</optiontext>
+		<answertext>2414answer</answertext>
+		<unitoption>yards</unitoption>
+		<numerictext>10</numerictext>
+		<tolrence>25</tolrence>
+		<maplenumeric>sqrt(2)</maplenumeric>
+		<setname>test</setname>
+		<passage>Cell division is the process by which a parent cell divides into two or more daughter cells. Cell division usually occurs as part of a larger cell cycle.</passage>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>24200</shareWithInitialString>
+		<shareName>24200first 24200second</shareName>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>false</gradeable>
+		<gradingpolicy>Grading policy text</gradingpolicy>
+		<duedate>28</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>This is an additional note</additionalnote>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.AttemptAssignmentAsStudent" index="24200">
+		<user_id>IT10_R15_24200student</user_id>
+		<Role>student</Role>
+		<familyname>24200second</familyname>
+		<givenname>24200first</givenname>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.AttemptAssignmentAsStudent" index="2435" method="actionOverAssignment">
+		<user_id>IT10_R15_2435instructor</user_id>
+		<Role>instructor</Role>
+		<course>Science 8 - Bio Principles</course>
+		<assessmentname>2435 Assesment</assessmentname>
+		<questionset>2435 Assesment</questionset>
+		<questiontext>2435Test Question</questiontext>
+		<optiontext>2435 option text</optiontext>
+		<answertext>2435answer</answertext>
+		<unitoption>yards</unitoption>
+		<numerictext>10</numerictext>
+		<tolrence>25</tolrence>
+		<maplenumeric>sqrt(2)</maplenumeric>
+		<setname>test</setname>
+		<passage>Cell division is the process by which a parent cell divides into two or more daughter cells. Cell division usually occurs as part of a larger cell cycle.</passage>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>24350</shareWithInitialString>
+		<shareName>24350first 24350second</shareName>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>false</gradeable>
+		<gradingpolicy>Grading policy text</gradingpolicy>
+		<duedate>28</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>This is an additional note</additionalnote>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.AttemptAssignmentAsStudent" index="24350">
+		<user_id>IT10_R15_24350student</user_id>
+		<Role>student</Role>
+		<familyname>24350second</familyname>
+		<givenname>24350first</givenname>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.AttemptAssignmentAsStudent" index="2450" method="actionOverAssignment">
+		<user_id>IT10_R15_2450instructor</user_id>
+		<Role>instructor</Role>
+		<course>Science 8 - Bio Principles</course>
+		<assessmentname>2450Assessment</assessmentname>
+		<questionset>2450Question Set</questionset>
+		<questiontext>2450Test Question</questiontext>
+		<optiontext>2450 option text</optiontext>
+		<answertext>2450answer</answertext>
+		<unitoption>yards</unitoption>
+		<numerictext>10</numerictext>
+		<tolrence>25</tolrence>
+		<maplenumeric>sqrt(2)</maplenumeric>
+		<setname>test</setname>
+		<passage>Cell division is the process by which a parent cell divides into two or more daughter cells. Cell division usually occurs as part of a larger cell cycle.</passage>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>24500</shareWithInitialString>
+		<shareName>24500first 24500second</shareName>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>false</gradeable>
+		<gradingpolicy>Grading policy text</gradingpolicy>
+		<duedate>28</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>This is an additional note</additionalnote>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.AttemptAssignmentAsStudent" index="24500">
+		<user_id>IT10_R15_24500student</user_id>
+		<Role>student</Role>
+		<familyname>24500second</familyname>
+		<givenname>24500first</givenname>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.AttemptAssignmentAsStudent" index="2458">
+		<user_id>instructor__IT10_R15_2458</user_id>
+		<Role>instructor</Role>
+        <context_id>studcontext_IT10_R15_2458</context_id>
+        <context_title>studtitle_IT10_R15_2458</context_title>
+		<assessmentname>2458 Assessment</assessmentname>
+		<questionset>2458Question Set</questionset>
+		<questiontext>2458Test Question</questiontext>
+		<optiontext>2458 option text</optiontext>
+		<answertext>2458answer</answertext>
+		<unitoption>yards</unitoption>
+		<numerictext>10</numerictext>
+		<tolrence>25</tolrence>
+		<maplenumeric>sqrt(2)</maplenumeric>
+		<setname>test</setname>
+		<passage>Cell division is the process by which a parent cell divides into two or more daughter cells. Cell division usually occurs as part of a larger cell cycle.</passage>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>24580</shareWithInitialString>
+		<shareName>24580first 24580second</shareName>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>false</gradeable>
+		<gradingpolicy>Grading policy text</gradingpolicy>
+		<duedate>28</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>This is an additional note</additionalnote>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.AttemptAssignmentAsStudent" index="24580">
+		<user_id>student_IT10_R15_24580</user_id>
+		<Role>student</Role>
+        <context_id>studcontext_IT10_R15_2458</context_id>
+        <context_title>studtitle_IT10_R15_2458</context_title>
+		<familyname>24580second</familyname>
+		<givenname>24580first</givenname>
+		<assessmentname>2458Assessment</assessmentname>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.DateDisplayInAssignmentAccoringToTimeZone" index="2203">
+		<user_id>IT10_R15_2203instructor</user_id>
+		<Role>instructor</Role>
+		<assessmentname>2203 Assessment</assessmentname>
+		<questionset>2203 Question Set</questionset>
+		<questiontext>2203Test Question</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>22031</shareWithInitialString>
+		<shareName>22031first 22031second</shareName>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>false</gradeable>
+		<gradingpolicy>Grading policy text</gradingpolicy>
+		<duedate>28</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>This is an additional note</additionalnote>
+		<date>2015</date>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.DateDisplayInAssignmentAccoringToTimeZone" index="22031">
+		<user_id>IT10_R15_22031student</user_id>
+		<Role>student</Role>
+		<familyname>22031second</familyname>
+		<givenname>22031first</givenname>
+	</testcase> 
+
+ 	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.DifferentStatusOfAssignment" index="2211">
+		<user_id>instructor_IT10_R15_2211</user_id>
+		<Role>instructor</Role>
+        <context_id>studcontext_IT10_R15_2211</context_id>
+        <context_title>studtitle_IT10_R15_2211</context_title>
+		<assessmentname>2211 Assessment</assessmentname>
+		<questionset>2211 Question Set</questionset>
+		<questiontext>2211Test Question</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>22111</shareWithInitialString>
+		<shareName>22111first 22111second</shareName>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>false</gradeable>
+		<gradingpolicy>Grading policy text</gradingpolicy>
+		<duedate>28</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>This is an additional note</additionalnote>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.DifferentStatusOfAssignment" index="22111">
+		<user_id>student_IT10_R15_22111</user_id>
+		<Role>student</Role>
+        <context_id>studcontext_IT10_R15_2211</context_id>
+        <context_title>studtitle_IT10_R15_2211</context_title>
+		<familyname>22111second</familyname>
+		<givenname>22111first</givenname>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.SortingOrderOfAssignmentsInAssignmentsPage" index="2239" method="sortingorderofassignmentsinassignmentspage">
+		<user_id>IT10_R15_22391instructor</user_id>
+		<Role>instructor</Role>
+		<context_id>2239studcontext</context_id>
+		<context_title>2239studtitle</context_title>
+		<assessmentname>22391 Assessment</assessmentname>
+		<studentname>223951first 223951second</studentname>
+		<questionset>22391 Question Set</questionset>
+		<questiontext>22391 Test Question</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>223951</shareWithInitialString>
+		<shareName>223951first 223951second</shareName>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>false</gradeable>
+		<gradingpolicy></gradingpolicy>
+		<duedate>28</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>This is an additional note</additionalnote>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.SortingOrderOfAssignmentsInAssignmentsPage"	index="22391" method="sortingorderofassignmentsinassignmentspage">
+		<user_id>IT10_R15_223911instructor</user_id>
+		<Role>instructor</Role>
+		<context_id>2239studcontext</context_id>
+		<context_title>2239studtitle</context_title>
+		<assessmentname>223911 Assessment</assessmentname>
+		<studentname>223951first 223951second</studentname>
+		<questionset>223911 Question Set</questionset>
+		<questiontext>223911 Test Question</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>223951</shareWithInitialString>
+		<shareName>223951first 223951second</shareName>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>true</gradeable>
+		<gradingpolicy></gradingpolicy>
+		<duedate>28</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>This is an additional note</additionalnote>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.SortingOrderOfAssignmentsInAssignmentsPage"	index="22392" method="sortingorderofassignmentsinassignmentspage">
+		<user_id>IT10_R15_223921instructor</user_id>
+		<Role>instructor</Role>
+		<context_id>2239studcontext</context_id>
+		<context_title>2239studtitle</context_title>
+		<assessmentname>223921 Assessment</assessmentname>
+		<studentname>223951first 223951second</studentname>
+		<questionset>223921 Question Set</questionset>
+		<questiontext>223921 Test Question</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>223951</shareWithInitialString>
+		<shareName>223951first 223951second</shareName>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>false</gradeable>
+		<gradingpolicy></gradingpolicy>
+		<duedate>28</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>This is an additional note</additionalnote>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.SortingOrderOfAssignmentsInAssignmentsPage" index="22393" method="sortingorderofassignmentsinassignmentspage">
+		<user_id>IT10_R15_223931instructor</user_id>
+		<Role>instructor</Role>
+		<context_id>2239studcontext</context_id>
+		<context_title>2239studtitle</context_title>
+		<assessmentname>223931 Assessment</assessmentname>
+		<studentname>223951first 223951second</studentname>
+		<questionset>223931 Question Set</questionset>
+		<questiontext>223931 Test Question</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>223951</shareWithInitialString>
+		<shareName>223951first 223951second</shareName>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>false</gradeable>
+		<gradingpolicy></gradingpolicy>
+		<duedate>28</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>This is an additional note</additionalnote>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.SortingOrderOfAssignmentsInAssignmentsPage" index="22394" method="sortingorderofassignmentsinassignmentspage">
+		<user_id>IT10_R15_223941instructor</user_id>
+		<Role>instructor</Role>
+		<context_id>2239studcontext</context_id>
+		<context_title>2239studtitle</context_title>
+		<assessmentname>223941 Assessment</assessmentname>
+		<studentname>223951first 223951second</studentname>
+		<questionset>223941 Question Set</questionset>
+		<questiontext>223941 Test Question</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>223951</shareWithInitialString>
+		<shareName>223951first 223951second</shareName>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>true</gradeable>
+		<gradingpolicy></gradingpolicy>
+		<duedate>28</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>This is an additional note</additionalnote>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.SortingOrderOfAssignmentsInAssignmentsPage"	index="22395" method="sortingorderofassignmentsinassignmentspage">
+		<user_id>IT10_R15_223951student</user_id>
+		<Role>student</Role>
+		<context_id>2239studcontext</context_id>
+		<context_title>2239studtitle</context_title>
+		<familyname>223951second</familyname>
+		<givenname>223951first</givenname>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.SortingOrderOfAssignmentsInAssignmentsPage" index="2253" method="sortingorderofassignmentsasduedate">
+		<user_id>IT10_R15_2253instructor</user_id>
+		<Role>instructor</Role>
+		<context_id>2253studcontext</context_id>
+		<context_title>2253studtitle</context_title>
+		<assessmentname>22531 Assessment</assessmentname>
+		<studentname>22537first 22537second</studentname>
+		<questionset>2253 Question Set</questionset>
+		<questiontext>2253 Test Question</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>22537</shareWithInitialString>
+		<shareName>22537first 22537second</shareName>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>false</gradeable>
+		<gradingpolicy></gradingpolicy>
+		<duedate>28</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>This is an additional note</additionalnote>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.SortingOrderOfAssignmentsInAssignmentsPage" index="22531" method="sortingorderofassignmentsasduedate">
+		<user_id>IT10_R15_22531instructor</user_id>
+		<Role>instructor</Role>
+		<context_id>2253studcontext</context_id>
+		<context_title>2253studtitle</context_title>
+		<assessmentname>22532 Assessment</assessmentname>
+		<studentname>22537first 22537second</studentname>
+		<questionset>22531 Question Set</questionset>
+		<questiontext>22531 Test Question</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>22537</shareWithInitialString>
+		<shareName>22537first 22537second</shareName>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>false</gradeable>
+		<gradingpolicy></gradingpolicy>
+		<duedate>28</duedate>
+		<duetime>12:05 AM</duetime>
+		<additionalnote>This is an additional note</additionalnote>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.SortingOrderOfAssignmentsInAssignmentsPage"	index="22532" method="sortingorderofassignmentsasduedate">
+		<user_id>IT10_R15_22532instructor</user_id>
+		<Role>instructor</Role>
+		<context_id>2253studcontext</context_id>
+		<context_title>2253studtitle</context_title>
+		<assessmentname>22533 Assessment</assessmentname>
+		<studentname>22537first 22537second</studentname>
+		<questionset>22532 Question Set</questionset>
+		<questiontext>22532 Test Question</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>22537</shareWithInitialString>
+		<shareName>22537first 22537second</shareName>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>false</gradeable>
+		<gradingpolicy></gradingpolicy>
+		<duedate>28</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>This is an additional note</additionalnote>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.SortingOrderOfAssignmentsInAssignmentsPage"	index="22533" method="sortingorderofassignmentsasduedate">
+		<user_id>IT10_R15_22533instructor</user_id>
+		<Role>instructor</Role>
+		<context_id>2253studcontext</context_id>
+		<context_title>2253studtitle</context_title>
+		<assessmentname>22534 Assessment</assessmentname>
+		<studentname>22537first 22537second</studentname>
+		<questionset>22533 Question Set</questionset>
+		<questiontext>22533 Test Question</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>22537</shareWithInitialString>
+		<shareName>22537first 22537second</shareName>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>false</gradeable>
+		<gradingpolicy></gradingpolicy>
+		<duedate>28</duedate>
+		<duetime>12:05 AM</duetime>
+		<additionalnote>This is an additional note</additionalnote>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.SortingOrderOfAssignmentsInAssignmentsPage"	index="22534" method="sortingorderofassignmentsasduedate">
+		<user_id>IT10_R15_22534instructor</user_id>
+		<Role>instructor</Role>
+		<context_id>2253studcontext</context_id>
+		<context_title>2253studtitle</context_title>
+		<assessmentname>22535 Assessment</assessmentname>
+		<studentname>22537first 22537second</studentname>
+		<questionset>22534 Question Set</questionset>
+		<questiontext>22534 Test Question</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>22537</shareWithInitialString>
+		<shareName>22537first 22537second</shareName>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>false</gradeable>
+		<gradingpolicy>this is graded</gradingpolicy>
+		<duedate>28</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>This is an additional note</additionalnote>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.SortingOrderOfAssignmentsInAssignmentsPage"	index="22535" method="sortingorderofassignmentsasduedate">
+		<user_id>IT10_R15_22535instructor</user_id>
+		<Role>instructor</Role>
+		<context_id>2253studcontext</context_id>
+		<context_title>2253studtitle</context_title>
+		<assessmentname>22536 Assessment</assessmentname>
+		<studentname>22537first 22537second</studentname>
+		<questionset>22535 Question Set</questionset>
+		<questiontext>22535 Test Question</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>22537</shareWithInitialString>
+		<shareName>22537first 22537second</shareName>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>false</gradeable>
+		<gradingpolicy></gradingpolicy>
+		<duedate>28</duedate>
+		<duetime>12:05 AM</duetime>
+		<additionalnote>This is an additional note</additionalnote>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.SortingOrderOfAssignmentsInAssignmentsPage"	index="22536" method="sortingorderofassignmentsasduedate">
+		<user_id>IT10_R15_22536instructor</user_id>
+		<Role>instructor</Role>
+		<context_id>2253studcontext</context_id>
+		<context_title>2253studtitle</context_title>
+		<assessmentname>22537 Assessment</assessmentname>
+		<studentname>22537first 22537second</studentname>
+		<questionset>22536 Question Set</questionset>
+		<questiontext>22536 Test Question</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>22537</shareWithInitialString>
+		<shareName>22537first 22537second</shareName>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>true</gradeable>
+		<gradingpolicy></gradingpolicy>
+		<duedate>28</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>This is an additional note</additionalnote>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.SortingOrderOfAssignmentsInAssignmentsPage"	index="22538" method="sortingorderofassignmentsasduedate">
+		<user_id>IT10_R15_22538instructor</user_id>
+		<Role>instructor</Role>
+		<context_id>2253studcontext</context_id>
+		<context_title>2253studtitle</context_title>
+		<assessmentname>22538 Assessment</assessmentname>
+		<studentname>22537first 22537second</studentname>
+		<questionset>22538 Question Set</questionset>
+		<questiontext>22538 Test Question</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>22537</shareWithInitialString>
+		<shareName>22537first 22537second</shareName>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>true</gradeable>
+		<gradingpolicy></gradingpolicy>
+		<duedate>28</duedate>
+		<duetime>12:05 AM</duetime>
+		<additionalnote>This is an additional note</additionalnote>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.SortingOrderOfAssignmentsInAssignmentsPage"	index="22537" method="sortingorderofassignmentsinassignmentspage">
+		<user_id>IT10_R15_22537student</user_id>
+		<Role>student</Role>
+		<context_id>2253studcontext</context_id>
+		<context_title>2253studtitle</context_title>
+		<familyname>22537second</familyname>
+		<givenname>22537first</givenname>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.StudentAbleToViewDropdownInAssignmentPage" index="2267">
+		<user_id>IT10_R15_2267instructor</user_id>
+		<Role>instructor</Role>
+		<course>Science 8 - Bio Principles</course>
+		<assessmentname>2267 Assessment</assessmentname>
+		<questionset>2267 Question Set</questionset>
+		<questiontext>2267Test Question</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>22671</shareWithInitialString>
+		<shareName>22671first 22671second</shareName>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>false</gradeable>
+		<gradingpolicy>Grading policy text</gradingpolicy>
+		<duedate>28</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>This is an additional note</additionalnote>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.StudentAbleToViewDropdownInAssignmentPage"	index="22671">
+		<user_id>IT10_R15_22671student</user_id>
+		<Role>student</Role>
+		<familyname>22671second</familyname>
+		<givenname>22671first</givenname>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.StudentAbleToViewDropdownInAssignmentPage"	index="2283">
+		<user_id>instructor_IT10_R15_2283</user_id>
+		<Role>instructor</Role>
+        <context_id>studcontext_IT10_R15_2283</context_id>
+        <context_title>studtitle_IT10_R15_2283</context_title>
+		<assessmentname>2283 Assessment</assessmentname>
+		<questionset>2283 Question Set</questionset>
+		<questiontext>2283Test Question</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>22831</shareWithInitialString>
+		<shareName>22831first 22831second</shareName>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>false</gradeable>
+		<gradingpolicy>Grading policy text</gradingpolicy>
+		<duedate>28</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>This is an additional note</additionalnote>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.StudentAbleToViewDropdownInAssignmentPage" index="22832">
+		<user_id>instructor_IT10_R15_22832</user_id>
+		<Role>instructor</Role>
+        <context_id>studcontext_IT10_R15_2283</context_id>
+        <context_title>studtitle_IT10_R15_2283</context_title>
+		<assessmentname>2283 Assessment1</assessmentname>
+		<questionset>2283 Question Set1</questionset>
+		<questiontext>2283Test Question1</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>22831</shareWithInitialString>
+		<shareName>22831first 22831second</shareName>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>true</gradeable>
+		<gradingpolicy>Grading policy text</gradingpolicy>
+		<duedate>28</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>This is an additional note</additionalnote>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.StudentAbleToViewDropdownInAssignmentPage" index="22831">
+		<user_id>student_IT10_R15_22831</user_id>
+		<Role>student</Role>
+        <context_id>studcontext_IT10_R15_2283</context_id>
+        <context_title>studtitle_IT10_R15_2283</context_title>
+		<familyname>22831second</familyname>
+		<givenname>22831first</givenname>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.AssignmentStatusBox" index="2284">
+		<user_id>instructor_IT10_R15_2284</user_id>
+		<Role>instructor</Role>
+        <context_id>studcontext_IT10_R15_2284</context_id>
+        <context_title>studtitle_IT10_R15_2284</context_title>
+		<course>Science 8 - Bio Principles</course>
+		<assessmentname>2284 Assessment</assessmentname>
+		<questionset>2284 Question Set</questionset>
+		<questiontext>2284Test Question</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>22843</shareWithInitialString>
+		<shareName>22843first 22843second</shareName>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>false</gradeable>
+		<gradingpolicy>Grading policy text</gradingpolicy>
+		<duedate>28</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>This is an additional note</additionalnote>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.AssignmentStatusBox" index="22841">
+		<user_id>instructor_IT10_R15_22841</user_id>
+		<Role>instructor</Role>
+        <context_id>studcontext_IT10_R15_2284</context_id>
+        <context_title>studtitle_IT10_R15_2284</context_title>
+		<course>Science 8 - Bio Principles</course>
+		<assessmentname>22841Assessment</assessmentname>
+		<questionset>22841 Question Set</questionset>
+		<questiontext>22841Test Question</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>22843</shareWithInitialString>
+		<shareName>22843first 22843second</shareName>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>false</gradeable>
+		<gradingpolicy>Grading policy text</gradingpolicy>
+		<duedate>28</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>This is an additional note</additionalnote>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.AssignmentStatusBox" index="22842">
+		<user_id>instructor_IT10_R15_22842</user_id>
+		<Role>instructor</Role>
+        <context_id>studcontext_IT10_R15_2284</context_id>
+        <context_title>studtitle_IT10_R15_2284</context_title>
+		<course>Science 8 - Bio Principles</course>
+		<assessmentname>22842 Assessment</assessmentname>
+		<questionset>22842 Question Set</questionset>
+		<questiontext>22842Test Question</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>22843</shareWithInitialString>
+		<shareName>22843first 22843second</shareName>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>false</gradeable>
+		<gradingpolicy>Grading policy text</gradingpolicy>
+		<duedate>28</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>This is an additional note</additionalnote>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.AssignmentStatusBox" index="22843">
+		<user_id>student_IT10_R15_22843</user_id>
+		<Role>student</Role>
+        <context_id>studcontext_IT10_R15_2284</context_id>
+        <context_title>studtitle_IT10_R15_2284</context_title>
+		<familyname>22843second</familyname>
+		<givenname>22843first</givenname>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.StatusBoxNotShownIfAssignmentIsNotInAnyStatus" index="2301">
+		<user_id>IT10_R15_2301instructor</user_id>
+		<Role>instructor</Role>
+		<assessmentname>2301 Assessment</assessmentname>
+		<questionset>2301 Question Set</questionset>
+		<questiontext>2301 Test Question</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>23012</shareWithInitialString>
+		<shareName>23012first 23012second</shareName>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>false</gradeable>
+		<gradingpolicy>Grading policy text</gradingpolicy>
+		<duedate>28</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>This is an additional note</additionalnote>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.StatusBoxNotShownIfAssignmentIsNotInAnyStatus" index="23011">
+		<user_id>IT10_R15_23011instructor</user_id>
+		<Role>instructor</Role>
+		<assessmentname>23011 Assessment</assessmentname>
+		<questionset>23011 Question Set</questionset>
+		<questiontext>23011 Test Question</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>23012</shareWithInitialString>
+		<shareName>23012first 23012second</shareName>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>false</gradeable>
+		<gradingpolicy>Grading policy text</gradingpolicy>
+		<duedate>28</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>This is an additional note</additionalnote>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.StatusBoxNotShownIfAssignmentIsNotInAnyStatus" index="23012">
+		<user_id>IT10_R15_23012student</user_id>
+		<Role>student</Role>
+		<familyname>23012second</familyname>
+		<givenname>23012first</givenname>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.CountOfBoxesChangeAsPerFilterSelected" index="2341">
+		<user_id>IT10_R15_2341instructor</user_id>
+		<Role>instructor</Role>
+		<context_id>2341studcontext</context_id>
+		<context_title>2341studtitle</context_title>
+		<assessmentname>2341 Assessment</assessmentname>
+		<questionset>2341 Question Set</questionset>
+		<questiontext>2341 Test Question</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>23413</shareWithInitialString>
+		<shareName>23413first 23413second</shareName>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>false</gradeable>
+		<gradingpolicy>Grading policy text</gradingpolicy>
+		<duedate>28</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>This is an additional note</additionalnote>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.CountOfBoxesChangeAsPerFilterSelected" index="23411">
+		<user_id>IT10_R15_23411instructor</user_id>
+		<Role>instructor</Role>
+		<context_id>2341studcontext</context_id>
+		<context_title>2341studtitle</context_title>
+		<assessmentname>23411 Assessment</assessmentname>
+		<questionset>23411 Question Set</questionset>
+		<questiontext>23411 Test Question</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>23413</shareWithInitialString>
+		<shareName>23413first 23413second</shareName>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>true</gradeable>
+		<gradingpolicy>Grading policy text</gradingpolicy>
+		<duedate>28</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>This is an additional note</additionalnote>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.CountOfBoxesChangeAsPerFilterSelected" index="23412">
+		<user_id>IT10_R15_23412instructor</user_id>
+		<Role>instructor</Role>
+		<context_id>2341studcontext</context_id>
+		<context_title>2341studtitle</context_title>
+		<assessmentname>23412 Assessment</assessmentname>
+		<questionset>23412 Question Set</questionset>
+		<questiontext>23412 Test Question</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>23413</shareWithInitialString>
+		<shareName>23413first 23413second</shareName>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>true</gradeable>
+		<gradingpolicy>Grading policy text</gradingpolicy>
+		<duedate>28</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>This is an additional note</additionalnote>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.CountOfBoxesChangeAsPerFilterSelected" index="23413">
+		<user_id>IT10_R15_23413student</user_id>
+		<Role>student</Role>
+		<context_id>2341studcontext</context_id>
+		<context_title>2341studtitle</context_title>
+		<familyname>23413second</familyname>
+		<givenname>23413first</givenname>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.DetailsOfAssignments" index="2352">
+		<user_id>instructor_IT10_R15_2352</user_id>
+		<Role>instructor</Role>
+        <context_id>studcontext_IT10_R15_2352</context_id>
+        <context_title>studtitle_IT10_R15_2352</context_title>
+		<course>Science 8 - Bio Principles</course>
+		<assessmentname>2352 Assessment</assessmentname>
+		<questionset>2352 Question Set</questionset>
+		<questiontext>2352 Test Question</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>23521</shareWithInitialString>
+		<shareName>23521first 23521second</shareName>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>true</gradeable>
+		<gradingpolicy>Grading policy text</gradingpolicy>
+		<duedate>28</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>This is an additional note</additionalnote>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.DetailsOfAssignments" index="23521">
+		<user_id>student_IT10_R15_23521</user_id>
+		<Role>student</Role>
+        <context_id>studcontext_IT10_R15_2352</context_id>
+        <context_title>studtitle_IT10_R15_2352</context_title>
+		<familyname>23521second</familyname>
+		<givenname>23521first</givenname>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.DetailsOfAssignments" index="2371">
+		<user_id>instructor_IT10_R15_2371_1</user_id>
+		<Role>instructor</Role>
+        <context_id>studcontext_IT10_R15_2371_1</context_id>
+        <context_title>studtitle_IT10_R15_2371_1</context_title>
+		<course>Science 8 - Bio Principles</course>
+		<assessmentname>2371 Assessment</assessmentname>
+		<questionset>2371 Question Set</questionset>
+		<questiontext>2371 Test Question</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>23711</shareWithInitialString>
+		<shareName>23711first 23711second</shareName>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>true</gradeable>
+		<gradingpolicy>Grading policy description</gradingpolicy>
+		<duedate>28</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>This is an additional note</additionalnote>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.DetailsOfAssignments" index="2372">
+		<user_id>instructor_IT10_R15_2372_1</user_id>
+		<Role>instructor</Role>
+        <context_id>studcontext_IT10_R15_2371_1</context_id>
+        <context_title>studtitle_IT10_R15_2371_1</context_title>
+		<course>Science 8 - Bio Principles</course>
+		<assessmentname>2372 Assessment</assessmentname>
+		<questionset>2372 Question Set</questionset>
+		<questiontext>2372 Test Question</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>23711</shareWithInitialString>
+		<shareName>23711first 23711second</shareName>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>false</gradeable>
+		<gradingpolicy></gradingpolicy>
+		<duedate>28</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>This is an additional note</additionalnote>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.DetailsOfAssignments" index="23711">
+		<user_id>student_IT10_R15_23711_1</user_id>
+		<Role>student</Role>
+        <context_id>studcontext_IT10_R15_2371_1</context_id>
+        <context_title>studtitle_IT10_R15_2371_1</context_title>
+		<familyname>23711second</familyname>
+		<givenname>23711first</givenname>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.StudentAbleToUseSocialElementForAssignment" index="2391">
+		<user_id>IT10_R15_2391instructor</user_id>
+		<Role>instructor</Role>
+		<course>Science 8 - Bio Principles</course>
+		<assessmentname>2391 Assessment</assessmentname>
+		<questionset>2391 Question Set</questionset>
+		<questiontext>2391 Test Question</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>studtitle_IT10_R15_2391</shareWithInitialString>
+		<shareName>studtitle_IT10_R15_2391</shareName>
+		<shareWithClass>true</shareWithClass>
+		<gradeable>false</gradeable>
+		<gradingpolicy></gradingpolicy>
+		<duedate>28</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>This is an additional note</additionalnote>
+		<context_id>studcontext_IT10_R15_2391</context_id>
+		<context_title>studtitle_IT10_R15_2391</context_title>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.StudentAbleToUseSocialElementForAssignment"	index="23911">
+		<user_id>IT10_R15_23911student</user_id>
+		<Role>student</Role>
+		<familyname>23911second</familyname>
+		<givenname>23911first</givenname>
+		<context_id>studcontext_IT10_R15_2391</context_id>
+		<context_title>studtitle_IT10_R15_2391</context_title>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.StudentAbleToViewRightSideTab" index="2478">
+		<user_id>instructor_IT10_R15_2478</user_id>
+		<Role>instructor</Role>
+        <context_id>studcontext_IT10_R15_2478</context_id>
+        <context_title>studtitle_IT10_R15_2478</context_title>
+		<assessmentname>2478 Assessment</assessmentname>
+		<questionset>2478 Question Set</questionset>
+		<questiontext>2478 Test Question</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>24781</shareWithInitialString>
+		<shareName>24781first 24781second</shareName>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>false</gradeable>
+		<gradingpolicy></gradingpolicy>
+		<duedate>28</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>This is an additional note</additionalnote>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.StudentAbleToViewRightSideTab" index="24781">
+		<user_id>student_IT10_R15_24781</user_id>
+		<Role>student</Role>
+        <context_id>studcontext_IT10_R15_2478</context_id>
+        <context_title>studtitle_IT10_R15_2478</context_title>
+		<familyname>24781second</familyname>
+		<givenname>24781first</givenname>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.AssignmentsTimer" index="2499">
+		<user_id>instructor_IT10_R15_2499</user_id>
+		<Role>instructor</Role>
+        <context_id>studcontext_IT10_R15_2499</context_id>
+        <context_title>studtitle_IT10_R15_2499</context_title>
+		<course>Science 8 - Bio Principles</course>
+		<assessmentname>2499 Assessment</assessmentname>
+		<questionset>2499 Question Set</questionset>
+		<questiontext>2499 Test Question</questiontext>
+		<answertext>Answer Option</answertext>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>24991</shareWithInitialString>
+		<shareName>24991first 24991second</shareName>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>false</gradeable>
+		<gradingpolicy></gradingpolicy>
+		<duedate>28</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>This is an additional note</additionalnote>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.AssignmentsTimer" index="24991">
+		<user_id>student_IT10_R15_24991</user_id>
+		<Role>student</Role>
+        <context_id>studcontext_IT10_R15_2499</context_id>
+        <context_title>studtitle_IT10_R15_2499</context_title>
+		<familyname>24991second</familyname>
+		<givenname>24991first</givenname>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.AssignmentsTimer" index="2517"	method="EachQuestionstartFromZero">
+		<user_id>instructor_IT10_R15_2517</user_id>
+		<Role>instructor</Role>
+        <context_id>studcontext_IT10_R15_2517</context_id>
+        <context_title>studtitle_IT10_R15_2517</context_title>
+		<course>Science 8 - Bio Principles</course>
+		<assessmentname>2517 Assessment</assessmentname>
+		<questionset>2517 Question Set</questionset>
+		<questiontext>2517 Test Question</questiontext>
+		<answertext>Answer Option</answertext>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>25171</shareWithInitialString>
+		<shareName>25171first 25171second</shareName>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>false</gradeable>
+		<gradingpolicy></gradingpolicy>
+		<duedate>28</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>This is an additional note</additionalnote>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.AssignmentsTimer" index="25171"	method="EachQuestionstartFromZero">
+		<user_id>student_IT10_R15_25171</user_id>
+		<Role>student</Role>
+        <context_id>studcontext_IT10_R15_2517</context_id>
+        <context_title>studtitle_IT10_R15_2517</context_title>
+		<familyname>25171second</familyname>
+		<givenname>25171first</givenname>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.SummaryPagePopUp" index="2526" method="summarypagepopup">
+		<user_id>IT10_R15_2526instructor_3</user_id>
+		<Role>instructor</Role>
+        <context_id>studcontext2526</context_id>
+        <context_title>studtitle2526</context_title>
+		<assessmentname>2526 Assessment</assessmentname>
+		<questionset>2526 Question Set</questionset>
+		<questiontext>2526 Test Question</questiontext>
+		<answertext>Answer Option</answertext>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>25261</shareWithInitialString>
+		<shareName>25261first 25261second</shareName>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>false</gradeable>
+		<gradingpolicy></gradingpolicy>
+		<duedate>28</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>This is an additional note</additionalnote>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.SummaryPagePopUp" index="25261" method="summarypagepopup">
+		<user_id>IT10_R15_25261student_3</user_id>
+		<Role>student</Role>
+        <context_id>studcontext2526</context_id>
+        <context_title>studtitle2526</context_title>
+		<familyname>25261second</familyname>
+		<givenname>25261first</givenname>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.StudentAbleToNavigateNextPreviousButtonmanytimes"	index="2542" method="studentabletonavigatenextpreviousbottonmanytimes">
+		<user_id>IT10_R15_2542instructor</user_id>
+		<Role>instructor</Role>
+		<course>Science 8 - Bio Principles</course>
+		<assessmentname>2542 Assessment</assessmentname>
+		<questionset>2542 Question Set</questionset>
+		<questiontext>2542 Test Question</questiontext>
+		<answertext>answer option</answertext>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>25421</shareWithInitialString>
+		<shareName>25421first 25421second</shareName>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>false</gradeable>
+		<gradingpolicy></gradingpolicy>
+		<duedate>28</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>This is an additional note</additionalnote>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.StudentAbleToNavigateNextPreviousButtonmanytimes"	index="25421" method="studentabletonavigatenextpreviousbottonmanytimes">
+		<user_id>IT10_R15_25421student</user_id>
+		<Role>student</Role>
+		<familyname>25421second</familyname>
+		<givenname>25421first</givenname>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.ClickOnQuestionCardLandOnSpecificQuestionPage" index="2601" method="clickonQuestionCardLandOnSpecificQuestionPage">
+		<user_id>instructor_IT10_R15_2601</user_id>
+		<Role>instructor</Role>
+        <context_id>studcontext_IT10_R15_2601</context_id>
+        <context_title>studtitle_IT10_R15_2601</context_title>
+		<assessmentname>2601 Assessment</assessmentname>
+		<questionset>2601 Question Set</questionset>
+		<questiontext>2601 Test Question</questiontext>
+		<answertext>answer option</answertext>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>26011</shareWithInitialString>
+		<shareName>26011first 26011second</shareName>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>false</gradeable>
+		<gradingpolicy></gradingpolicy>
+		<duedate>28</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>This is an additional note</additionalnote>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.ClickOnQuestionCardLandOnSpecificQuestionPage" index="26011" method="clickonQuestionCardLandOnSpecificQuestionPage">
+		<user_id>student_IT10_R15_26011</user_id>
+		<Role>student</Role>
+        <context_id>studcontext_IT10_R15_2601</context_id>
+        <context_title>studtitle_IT10_R15_2601</context_title>
+		<familyname>26011second</familyname>
+		<givenname>26011first</givenname>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.GradePointReflectedWhenInstructorUpdateAfterSubmittedTheAssignment" index="2579" method="gradePointReflectedWhenInstructorUpdateAfterSubmittedTheAssignment">
+		<user_id>instructor_IT10_R15_2579</user_id>
+		<Role>instructor</Role>
+        <context_id>studcontext_IT10_R15_2579</context_id>
+        <context_title>studtitle_IT10_R15_2579</context_title>
+		<assessmentname>2579 Assessment</assessmentname>
+		<studentname>257911first 257911second</studentname>
+		<questionset>25791 Question Set</questionset>
+		<questiontext>25791 Test Question</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>257911</shareWithInitialString>
+		<shareName>257911first 257911second</shareName>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>true</gradeable>
+		<gradingpolicy></gradingpolicy>
+		<duedate>28</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>This is an additional note</additionalnote>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT10.R15.GradePointReflectedWhenInstructorUpdateAfterSubmittedTheAssignment" index="25791"	method="gradePointReflectedWhenInstructorUpdateAfterSubmittedTheAssignment">
+		<user_id>student_IT10_R15_25791</user_id>
+		<Role>student</Role>
+        <context_id>studcontext_IT10_R15_2579</context_id>
+        <context_title>studtitle_IT10_R15_2579</context_title>
+		<familyname>257911second</familyname>
+		<givenname>257911first</givenname>
+	</testcase>	
+	
+</learningspaces>

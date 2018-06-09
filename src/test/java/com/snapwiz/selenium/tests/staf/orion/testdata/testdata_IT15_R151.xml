@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orion>
+    
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.CustomizeOrionTopics" index="2" method="customizeOrionTopics">
+		<user_id>IT15_R151_Instruc_2_2</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR151_2_4</context_id>
+		<context_title>studtitleR151_2_4</context_title>
+        <course_type>adaptive</course_type>
+	</testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.ShowDiagChapterPracticeSettingsBlock" index="14" method="showDiagChapterPracticeSettingsBlock">
+        <user_id>IT15_R151_Instruc_14_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR151_14_1</context_id>
+        <context_title>studtitleR151_14_1</context_title>
+        <course_type>adaptive</course_type>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.ShowDiagChapterPracticeSettingsBlock" index="21" method="OFFallTheTLOsForChapter">
+        <user_id>IT15_R151_Instruc_21_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR151_21_1</context_id>
+        <context_title>studtitleR151_21_1</context_title>
+        <course_type>adaptive</course_type>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.ShowDiagChapterPracticeSettingsBlock" index="22" method="OFFallTheTLOsForChapter">
+        <user_id>IT15_R151_student_21_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR151_21_1</context_id>
+        <context_title>studtitleR151_21_1</context_title>
+        <course_type>adaptive</course_type>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.ShowDiagChapterPracticeSettingsBlock" index="23" method="impactsOnSwitchingOFFAndONOfChapter">
+        <user_id>IT15_R151_Instructor_23_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR151_23_1</context_id>
+        <context_title>studtitleR151_23_1</context_title>
+        <course_type>adaptive</course_type>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.ShowDiagChapterPracticeSettingsBlock" index="25" method="impactsOnSwitchingOFFAndONOfChapterPractice">
+        <user_id>IT15_R151_Instructor_25_2</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR151_25_2</context_id>
+        <context_title>studtitleR151_25_2</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.ShowDiagChapterPracticeSettingsBlock" index="26" method="impactsOnSwitchingOFFAndONOfChapterPractice">
+        <user_id>IT15_R151_student_25_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR151_25_2</context_id>
+        <context_title>studtitleR151_25_2</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.ShowDiagChapterPracticeSettingsBlock" index="29" method="impactsOnSwitchingOFFAndONDiagnosticTest">
+        <user_id>IT15_R151_Instructor_29_2</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR151_29_2</context_id>
+        <context_title>studtitleR151_29_2</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.ShowDiagChapterPracticeSettingsBlock" index="32" method="impactsOnSwitchingOFFAndONDiagnosticTest">
+        <user_id>IT15_R151_student_32_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR151_29_2</context_id>
+        <context_title>studtitleR151_29_2</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.ShowDiagChapterPracticeSettingsBlock" index="37" method="impactsOnSwitchingOFFAndONDiagnosticTest">
+        <user_id>IT15_R151_Instructor_37_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR151_37_2</context_id>
+        <context_title>studtitleR151_37_2</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.ShowDiagChapterPracticeSettingsBlock" index="38" method="impactsOnSwitchingOFFAndONofTLO">
+        <user_id>IT15_R151_Instructor_38_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR151_38_1</context_id>
+        <context_title>studtitleR151_38_1</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.ShowDiagChapterPracticeSettingsBlock" index="38_1" method="impactsOnSwitchingOFFAndONofTLO">
+        <user_id>IT15_R151_Student_38_1_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR151_38_1</context_id>
+        <context_title>studtitleR151_38_1</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.AccessDashboardAndReportsAsStudentAfterInstructorHidingChapter" index="46" method="accessDashboardAndReportsAsStudentAfterInstructorHidingChapter">
+        <user_id>IT15_R151_Instructor_46_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR151_46</context_id>
+        <context_title>studtitleR151_46</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.AccessDashboardAndReportsAsStudentAfterInstructorHidingChapter" index="46_1" method="accessDashboardAndReportsAsStudentAfterInstructorHidingChapter">
+        <user_id>IT15_R151_Student_46_1_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR151_46</context_id>
+        <context_title>studtitleR151_46</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.AccessDashboardAndReportsAsStudentAfterInstructorHidingChapter" index="48" method="accessDashboardAndReportsAsStudentAfterInstructorHidingTLO">
+        <user_id>IT15_R151_Instructor_48_4</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR151_48_4</context_id>
+        <context_title>studtitleR151_48_4</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.AccessDashboardAndReportsAsStudentAfterInstructorHidingChapter" index="48_1" method="accessDashboardAndReportsAsStudentAfterInstructorHidingTLO">
+        <user_id>IT15_R151_Student_48_1_4</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR151_48_4</context_id>
+        <context_title>studtitleR151_48_4</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.StudentAccessDashboardReportsAfterInstructorHidingAllTLOforChapter" index="63" method="studentAccessDashboardReportsAfterInstructorHidingAllTLOforChapter">
+        <user_id>IT15_R151_Instructor_63_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR151_63</context_id>
+        <context_title>studtitleR151_63</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.StudentAccessDashboardReportsAfterInstructorHidingAllTLOforChapter" index="63_1" method="studentAccessDashboardReportsAfterInstructorHidingAllTLOforChapter">
+        <user_id>IT15_R151_Student_63_1_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR151_63</context_id>
+        <context_title>studtitleR151_63</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.StudentAccessDashboardReportsAfterInstructorHidingChapterPractice" index="67" method="studentAccessDashboardReportsAfterInstructorHidingChapterPractice">
+        <user_id>IT15_R151_Instructor_67_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR151_67</context_id>
+        <context_title>studtitleR151_67</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.StudentAccessDashboardReportsAfterInstructorHidingChapterPractice" index="67_1" method="studentAccessDashboardReportsAfterInstructorHidingChapterPractice">
+        <user_id>IT15_R151_Student_67_1_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR151_67</context_id>
+        <context_title>studtitleR151_67</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.AccessDashboardAfterInstructorHidingDiagnosticTestForChapter" index="83" method="accessDashboardAfterInstructorHidingDiagnosticTestForChapter">
+        <user_id>IT15_R151_Instructor_83_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR151_83</context_id>
+        <context_title>studtitleR151_83</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.AccessDashboardAfterInstructorHidingDiagnosticTestForChapter" index="83_1" method="accessDashboardAfterInstructorHidingDiagnosticTestForChapter">
+        <user_id>IT15_R151_Student_83_1_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR151_83</context_id>
+        <context_title>studtitleR151_83</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.StudentAttemptedQuestionsFromTLOinstructorHidesTheTLOinFuture" index="86" method="studentAttemptedQuestionsFromTLOinstructorHidesTheTLOinFuture">
+        <user_id>IT15_R151_Instructor_86_5</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR151_86_4</context_id>
+        <context_title>studtitleR151_86_4</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.StudentAttemptedQuestionsFromTLOinstructorHidesTheTLOinFuture" index="86_1" method="studentAttemptedQuestionsFromTLOinstructorHidesTheTLOinFuture">
+        <user_id>IT15_R151_Student_86_1_5</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR151_86_4</context_id>
+        <context_title>studtitleR151_86_4</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.StudentAttemptedQuestionsOfFewTlosAndInstructorHiddenTheAllTloOfChapter" index="98" method="studentAttemptedQuestionsOfFewTlosAndInstructorHiddenTheAllTloOfChapter">
+        <user_id>IT15_R151_Instructor_98_4</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR151_98_4</context_id>
+        <context_title>studtitleR151_98_4</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.StudentAttemptedQuestionsOfFewTlosAndInstructorHiddenTheAllTloOfChapter" index="98_1" method="studentAttemptedQuestionsOfFewTlosAndInstructorHiddenTheAllTloOfChapter">
+        <user_id>IT15_R151_Student_98_1_5</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR151_98_4</context_id>
+        <context_title>studtitleR151_98_4</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.StudentAttemptedQuestionsForChapterAndInstructorHidesThatChapter" index="111" method="studentAttemptedQuestionsForChapterAndInstructorHidesThatChapter">
+        <user_id>IT15_R151_Instructor_111_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR151_111</context_id>
+        <context_title>studtitleR151_111</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.StudentAttemptedQuestionsForChapterAndInstructorHidesThatChapter" index="111_1" method="studentAttemptedQuestionsForChapterAndInstructorHidesThatChapter">
+        <user_id>IT15_R151_Student_111_1_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR151_111</context_id>
+        <context_title>studtitleR151_111</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.CustomizeOrionTopicsInMentorSettingsPage" index="124" method="customizeOrionTopicsInMentorSettingsPage">
+        <user_id>IT15_R151_Mentor_124_2</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontextR151_124</context_id>
+        <context_title>studtitleR151_124</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.CustomizeOrionTopicsInMentorSettingsPage" index="127" method="customizeOrionTopicsInMentorSettingsPage">
+        <user_id>IT15_R151_Mentor_127_1</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontextR151_124</context_id>
+        <context_title>studtitleR151_124</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.CustomizeOrionTopicsInMentorSettingsPage" index="124_1" method="customizeOrionTopicsInMentorSettingsPage">
+        <user_id>IT15_R151_Student_124_1_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR151_124</context_id>
+        <context_title>studtitleR151_124</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.CustomizeOrionTopicsInMentorSettingsPage" index="129" method="offTloAndDiag">
+        <user_id>IT15_R151_Mentor_129_2</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontextR151_129</context_id>
+        <context_title>studtitleR151_129</context_title>
+    </testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.CustomizeOrionTopicsInMentorSettingsPage" index="130" method="offTloAndDiag">
+        <user_id>IT15_R151_Mentor_130_2</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontextR151_129</context_id>
+        <context_title>studtitleR151_129</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.CustomizeOrionTopicsInMentorSettingsPage" index="129_1" method="offTloAndDiag">
+        <user_id>IT15_R151_Student_129_1_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR151_129</context_id>
+        <context_title>studtitleR151_129</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.MentorOffDiagnosticAndTryToOnByInstructor" index="131" method="mentorOffDiagnosticAndTryToOnByInstructor">
+        <user_id>IT15_R151_Mentor_131_1</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontextR151_131</context_id>
+        <context_title>studtitleR151_131</context_title>
+    </testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.MentorOffDiagnosticAndTryToOnByInstructor" index="131_1" method="mentorOffDiagnosticAndTryToOnByInstructor">
+        <user_id>IT15_R151_Ins_131_1_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR151_131</context_id>
+        <context_title>studtitleR151_131</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.MentorOffDiagnosticAndTryToOnByInstructor" index="131_2" method="mentorOffDiagnosticAndTryToOnByInstructor">
+        <user_id>IT15_R151_Stu_131_2_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR151_131</context_id>
+        <context_title>studtitleR151_131</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.OnThePracticeWhichWasOff" index="133" method="onThePracticeWhichWasOff">
+        <user_id>IT15_R151_Mentor_133_1</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontextR151_133</context_id>
+        <context_title>studtitleR151_133</context_title>
+    </testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.OnThePracticeWhichWasOff" index="133_1" method="onThePracticeWhichWasOff">
+        <user_id>IT15_R151_Ins_133_1_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR151_133</context_id>
+        <context_title>studtitleR151_133</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.OnThePracticeWhichWasOff" index="133_2" method="onThePracticeWhichWasOff">
+        <user_id>IT15_R151_Stu_133_2_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR151_133</context_id>
+        <context_title>studtitleR151_133</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.InstructorDoneSettingsAccessStudentOfOtherSection" index="144" method="instructorDoneSettingsAccessStudentOfOtherSection">
+        <user_id>IT15_R151_Ins_144_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR151_144</context_id>
+        <context_title>studtitleR151_144</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.InstructorDoneSettingsAccessStudentOfOtherSection" index="144_1" method="instructorDoneSettingsAccessStudentOfOtherSection">
+        <user_id>IT15_R151_Stu_144_1_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR151_144_other</context_id>
+        <context_title>studtitleR151_144_other</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.ShowAllChaptersForMentorEvenIfOffInReports" index="146" method="showAllChaptersForMentorEvenIfOffInReports">
+        <user_id>IT15_R151_Instructor_146_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR151_146</context_id>
+        <context_title>studtitleR151_146</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.ShowAllChaptersForMentorEvenIfOffInReports" index="146_1" method="showAllChaptersForMentorEvenIfOffInReports">
+        <user_id>IT15_R151_Student_146_1_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR151_146</context_id>
+        <context_title>studtitleR151_146</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.CustomizeShouldNotBeShownForLSInstructor" index="152" method="customizeShouldNotBeShownForLSInstructor">
+        <user_id>IT15_R151_Instructor_152_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR151_152</context_id>
+        <context_title>studtitleR151_152</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.OffTheCustomizeOrionTopicsInSettingsWhichWasOn" index="136" method="offTheCustomizeOrionTopicsInSettingsWhichWasOn">
+        <user_id>IT15_R151_Mentor_136_1</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontextR151_136</context_id>
+        <context_title>studtitleR151_136</context_title>
+    </testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.OffTheCustomizeOrionTopicsInSettingsWhichWasOn" index="136_1" method="offTheCustomizeOrionTopicsInSettingsWhichWasOn">
+        <user_id>IT15_R151_Student_136_1_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR151_136</context_id>
+        <context_title>studtitleR151_136</context_title>
+    </testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.OffTheCustomizeOrionTopicsInSettingsWhichWasOn" index="136_2" method="offTheCustomizeOrionTopicsInSettingsWhichWasOn">
+        <user_id>IT15_R151_Instructor_136_1_2</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR151_136</context_id>
+        <context_title>studtitleR151_136</context_title>
+    </testcase>
+    
+</orion>

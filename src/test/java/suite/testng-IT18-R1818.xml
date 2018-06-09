@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+    <test name="IT18-R1818_test">
+        <classes>
+            <!-- IT18 R18.18 ." -->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.AssignmentLinkedToStaticAssessment"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.InstructorShouldAbleToViewTheAssignment"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.InstructorShouldRemoveQuestionsFromAssignment"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.ViewTheAssignmentWithTheRemovedQuestions"/>
+
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->

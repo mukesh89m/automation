@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="testcase-misc-LSRegressionSuite">
+    <classes> 
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.anonymous.AbilityToViewAllSocialElementsFromStudent"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.anonymous.AdaptiveQuestionDifficulty"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.anonymous.AdaptiveTimer"/>
+
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.anonymous.AddDiscussionSelectingText"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.anonymous.AddDiscussionUsingNewButton"/>
+
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.anonymous.AnInstructorAbleToEnableDiscussionQuestion"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.anonymous.AvailabilityOfEnableIcon"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.anonymous.ClickQuestionCardSpecificQuestionShouldBeDisplayed"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.anonymous.CompleteDiagnosticAndStartPracticeTest"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.anonymous.ConfidenceLevelNotificationForDiagTest"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.anonymous.ConfidenceLevelVerificationWhenClickedOnPracticeTestBeforeDiagnosticTest"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.anonymous.DiagnosticTestNavigateToQuestion"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.anonymous.DiagonesticQuestionCount"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.anonymous.DiagonesticTimer"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.anonymous.DigonesticQuestionDifficulty"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.anonymous.FileBasedResources"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.anonymous.FiltersUnderPerformanceFrame"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.anonymous.GlossarySearchResults"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.anonymous.InsLSAutoSuggestShareBox"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.anonymous.InsLSLoginDisplayAllPosts"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.anonymous.InsLSPostedADisscussion"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.anonymous.InsPostingNotAllowWithoutSharingAStudent"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.anonymous.InsRecentCommentOnTopAndOrderdByTime"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.anonymous.InsRecentPostOnTop"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.anonymous.InsRichTextEditor"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.anonymous.InsShareALinkWithClassSection"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.anonymous.InsSharingAPost"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.anonymous.InsSharingAPostAsAnInstructor"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.anonymous.InsTIconBesidesSharedWithOption"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.anonymous.InstructorAbleToOpenMultipleTab"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.anonymous.LSMessageForPostWithoutUser"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.anonymous.LSShareBoxClassSectionNameByDefault"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.anonymous.LSShareWithOption"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.anonymous.LTIAdaptiveLoginCustomDestinationWithSnapwizChapter"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.anonymous.LTIAdaptiveLoginWithInvalidResourceLinkId"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.anonymous.LTICustomCourseNumberAssociatedWithDomain"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.anonymous.LTILogin"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.anonymous.LTILoginAdaptiveCustomDestHome"/>
+
+
+
+
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->

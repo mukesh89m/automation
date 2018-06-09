@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.courseContentSummary.CourseContentSummary" index="3">
+        <assessmentname>Assessment_CopyQuestions_3</assessmentname>
+        <questionset>QuestionSet_CopyQuestions_3</questionset>
+        <questiontext>QuestionText_CopyQuestions_3</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <difficultylevel>Easy</difficultylevel>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.courseContentSummary.CourseContentSummary" index="4">
+        <assessmentname>Assessment_CopyQuestions_4</assessmentname>
+        <questionset>QuestionSet_CopyQuestions_4</questionset>
+        <questiontext>QuestionText_CopyQuestions_4</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <difficultylevel>Medium</difficultylevel>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.courseContentSummary.CourseContentSummary" index="5">
+        <assessmentname>Assessment_CopyQuestions_5</assessmentname>
+        <questionset>QuestionSet_CopyQuestions_5</questionset>
+        <questiontext>QuestionText_CopyQuestions_5</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <difficultylevel>Hard</difficultylevel>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.courseContentSummary.CourseContentSummary" index="9">
+        <assessmentname>Assessment_CopyQuestions_9</assessmentname>
+        <questionset>QuestionSet_CopyQuestions_9</questionset>
+        <questiontext>QuestionText_CopyQuestions_9</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <bloomsTaxonomyValue>Knowledge</bloomsTaxonomyValue>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.courseContentSummary.CourseContentSummary" index="10">
+        <assessmentname>Assessment_CopyQuestions_10</assessmentname>
+        <questionset>QuestionSet_CopyQuestions_10</questionset>
+        <questiontext>QuestionText_CopyQuestions_10</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <bloomsTaxonomyValue>Comprehension</bloomsTaxonomyValue>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.courseContentSummary.CourseContentSummary" index="11">
+        <assessmentname>Assessment_CopyQuestions_11</assessmentname>
+        <questionset>QuestionSet_CopyQuestions_11</questionset>
+        <questiontext>QuestionText_CopyQuestions_11</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <bloomsTaxonomyValue>Application</bloomsTaxonomyValue>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.courseContentSummary.CourseContentSummary" index="12">
+        <assessmentname>Assessment_CopyQuestions_12</assessmentname>
+        <questionset>QuestionSet_CopyQuestions_12</questionset>
+        <questiontext>QuestionText_CopyQuestions_12</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <bloomsTaxonomyValue>Analysis</bloomsTaxonomyValue>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.courseContentSummary.CourseContentSummary" index="13">
+        <assessmentname>Assessment_CopyQuestions_13</assessmentname>
+        <questionset>QuestionSet_CopyQuestions_13</questionset>
+        <questiontext>QuestionText_CopyQuestions_13</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <bloomsTaxonomyValue>Synthesis</bloomsTaxonomyValue>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.courseContentSummary.CourseContentSummary" index="14">
+        <assessmentname>Assessment_CopyQuestions_14</assessmentname>
+        <questionset>QuestionSet_CopyQuestions_14</questionset>
+        <questiontext>QuestionText_CopyQuestions_14</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <bloomsTaxonomyValue>Evaluation</bloomsTaxonomyValue>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.courseContentSummary.CourseContentSummary" index="37">
+        <assessmentname>Assessment_CopyQuestions_37</assessmentname>
+        <questionset>QuestionSet_CopyQuestions_37</questionset>
+        <questiontext>QuestionText_CopyQuestions_37</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <status>Draft - Pending Images</status>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.courseContentSummary.CourseContentSummary" index="38">
+        <assessmentname>Assessment_CopyQuestions_39</assessmentname>
+        <questionset>QuestionSet_CopyQuestions_39</questionset>
+        <questiontext>QuestionText_CopyQuestions_39</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <status>Need Revision</status>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.courseContentSummary.CourseContentSummary" index="39">
+        <assessmentname>Assessment_CopyQuestions_40</assessmentname>
+        <questionset>QuestionSet_CopyQuestions_40</questionset>
+        <questiontext>QuestionText_CopyQuestions_40</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <status>Approve</status>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.courseContentSummary.CourseContentSummary" index="40">
+        <assessmentname>Assessment_CopyQuestions_41</assessmentname>
+        <questionset>QuestionSet_CopyQuestions_41</questionset>
+        <questiontext>QuestionText_CopyQuestions_41</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <status>Ready to Publish</status>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.courseContentSummary.CourseContentSummary" index="41">
+        <assessmentname>Assessment_CopyQuestions_42</assessmentname>
+        <questionset>QuestionSet_CopyQuestions_42</questionset>
+        <questiontext>QuestionText_CopyQuestions_42</questiontext>
+        <questiontype>Static Practice</questiontype>
+<!--
+        <status>Publish</status>
+-->
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.courseContentSummary.CourseContentSummary" index="17">
+        <assessmentname>Assessment_CopyQuestions_17</assessmentname>
+        <questionset>QuestionSet_CopyQuestions_17</questionset>
+        <questiontext>QuestionText_CopyQuestions_17</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <status>Publish</status>
+    </testcase>
+
+</learningspaces>

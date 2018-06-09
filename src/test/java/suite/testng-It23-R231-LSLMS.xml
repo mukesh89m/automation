@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false" preserve-order="true" configfailurepolicy="continue">
+    <listeners>
+        <listener class-name="com.snapwiz.selenium.tests.staf.learningspaces.CustomListener" />
+    </listeners>
+    <test name="R23.1 Jenkins Suite">
+        <classes>
+            <!--R 23.1-->
+
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.BlackboardSSOLaunchInstructor"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.BlackboardSSOLaunchMentor"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.BlackboardSSOLaunchStudent"/>
+
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.CanvasContentDiscovery"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.CanvasContentDiscoveryMentor"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.CanvasSSOLaunchInstructor"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.CanvasSSOLaunchMentor"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.CanvasSSOLaunchStudent"/>
+        </classes>
+        </test>
+    </suite>

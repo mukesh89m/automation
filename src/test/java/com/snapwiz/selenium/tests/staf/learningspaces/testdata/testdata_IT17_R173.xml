@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R173.NewFilterSearchAndBrowserScreen" index="1" method="instructorAssignWidgetAsLearningActivity">
+        <assessmentname>IT17_R1723_Custom Assignment_1_1</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT17_R1723_1_1</questionset>
+        <questiontext>MyImage Test Question for IT17_R1723_1_1</questiontext>
+        <learningobjective>true</learningobjective>
+        <withImage>true</withImage>
+        <filename>img.png</filename>
+        <status>needNotToBePubished</status>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R173.NewFilterSearchAndBrowserScreen" index="14" method="instructorAssignWidgetAsLearningActivity">
+        <assessmentname>IT17_R1723_Custom Assignment_14</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT17_R1723_14</questionset>
+        <questiontext>MyImage Test Question for IT17_R1723_14</questiontext>
+        <learningobjective>true</learningobjective>
+        <status>needNotToBePubished</status>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R173.NewFilterSearchAndBrowserScreen" index="15" method="instructorAssignWidgetAsLearningActivity">
+        <assessmentname>IT17_R1723_Custom Assignment_15</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT17_R1723_15</questionset>
+        <questiontext>MyImage Test Question for IT17_R1723_15</questiontext>
+        <withImage>true</withImage>
+        <withImageInHint>true</withImageInHint>
+        <withImageInSolution>true</withImageInSolution>
+        <filename>img.png</filename>
+        <learningobjective>true</learningobjective>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R173.NewFilterSearchAndBrowserScreen" index="17" method="instructorAssignWidgetAsLearningActivity">
+        <assessmentname>IT17_R1723_Custom Assignment_17</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT17_R1723_17</questionset>
+        <questiontext>BrowseImage Test Question for IT17_R1723_17</questiontext>
+        <learningobjective>true</learningobjective>
+        <status>needNotToBePubished</status>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R173.NewFilterSearchAndBrowserScreen" index="21" method="instructorAssignWidgetAsLearningActivity">
+        <assessmentname>IT17_R1723_Custom Assignment_21</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT17_R1723_21</questionset>
+        <questiontext>MyImage Test Question for IT17_R1723_21</questiontext>
+        <learningobjective>true</learningobjective>
+        <withImage>true</withImage>
+        <filename>img.png</filename>
+        <status>needNotToBePubished</status>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R173.NewFilterSearchAndBrowserScreen" index="24" method="instructorAssignWidgetAsLearningActivity">
+        <assessmentname>IT17_R1723_Custom Assignment_24</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT17_R1723_24</questionset>
+        <questiontext>BrowseImage Test Question for IT17_R1723_24</questiontext>
+        <withImage>true</withImage>
+        <withImageInHint>true</withImageInHint>
+        <withImageInSolution>true</withImageInSolution>
+        <filename>img.png</filename>
+        <learningobjective>true</learningobjective>
+        <difficultylevel>Hard</difficultylevel>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R173.NewFilterSearchAndBrowserScreen" index="25" method="instructorAssignWidgetAsLearningActivity">
+        <assessmentname>IT17_R1723_Custom Assignment_25</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT17_R1723_25</questionset>
+        <questiontext>BrowseImage Test Question for IT17_R1723_25</questiontext>
+        <learningobjective>true</learningobjective>
+        <difficultylevel>Hard</difficultylevel>
+    </testcase>
+</learningspaces>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.policyfour.PolicyFour" index="1">
+        <user_id>instructor_smoke_policy4</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_policy4</context_id>
+        <context_title>studtitle_smoke_policy4</context_title>
+        <assignmentpolicyname>Policy4</assignmentpolicyname>
+        <assessmentname>Assignment_smoke_policy4</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question_smoke_policy4</questionset>
+        <questiontext>Test Question_smoke_policy4</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_smoke_policy4</shareWithInitialString>
+        <shareName>studtitle_smoke_policy4</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy4</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>7</duetime>
+        <extensionAfterDueDate>disable</extensionAfterDueDate>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>Month Jan</studentname>
+        <grade>0.1</grade>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.policyfour.PolicyFour" index="1_1">
+        <user_id>student_smoke_policy4_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_policy4</context_id>
+        <context_title>studtitle_smoke_policy4</context_title>
+        <familyname>Month</familyname>
+        <givenname>Jan</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.policyfour.PolicyFour" index="1_2">
+        <user_id>student_smoke_policy4_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_policy4</context_id>
+        <context_title>studtitle_smoke_policy4</context_title>
+        <familyname>Month</familyname>
+        <givenname>Feb</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.policyfour.PolicyFour" index="1_3">
+        <user_id>student_smoke_policy4_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_policy4</context_id>
+        <context_title>studtitle_smoke_policy4</context_title>
+        <familyname>Month</familyname>
+        <givenname>March</givenname>
+    </testcase>
+
+</learningspaces>

@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R23LSSolar.LSSolarEnhancements" index="15" method="checkCMSPreviewPage">
+        <assessmentname>it23_r2310_assessment_15</assessmentname>
+        <questionset>Question Set_IT23_R2310</questionset>
+        <questiontext>Test Question_IT23_R2310_15</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <reservforassignment>false</reservforassignment>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <useWriteBoard>true</useWriteBoard>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R23LSSolar.LSSolarEnhancements" index="15_1" method="">
+        <user_id>IT23_R2310_Instructor_15</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_15_1</context_id>
+        <context_title>studtitleIt_IT23_15_1</context_title>
+        <!--<assessmentname>Assessment_IT23_R237_54</assessmentname>
+        <questiontextstem2>questiontextstem2</questiontextstem2>
+        <questionset>IT23_R237_54_QuestionSet</questionset>
+        <questiontext>QuestionText_IT23_R237_54</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <selectLanguagePalette>spanish</selectLanguagePalette>
+        <shareWithInitialString>studtitleIt_IT23_R237</shareWithInitialString>
+        <shareName>studtitleIt_IT23_R237</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>-->
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R23LSSolar.LSSolarEnhancements" index="15_2" method="">
+        <user_id>IT23_R2310_Instructor_15</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_15_2</context_id>
+        <context_title>studtitleIt_IT23_15_2</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R23LSSolar.LSSolarEnhancements" index="15_3" method="">
+        <user_id>IT23_R2310_Instructor_15</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_15_3</context_id>
+        <context_title>studtitleIt_IT23_15_3</context_title>
+    </testcase>
+
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R23LSSolar.LSSolarEnhancements" index="22" method="checkCMSPreviewPage">
+        <assessmentname>it23_r2310_assessment_22</assessmentname>
+        <questionset>Question Set_IT23_R2310</questionset>
+        <questiontext>Test Question_IT23_R2310_22</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <reservforassignment>false</reservforassignment>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <useWriteBoard>true</useWriteBoard>
+    </testcase>
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R23LSSolar.LSSolarEnhancements" index="22_1" method="">
+        <user_id>IT23_R2310_Instructor_22</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_22_1</context_id>
+        <context_title>studtitleIt_IT23_22_1</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R23LSSolar.LSSolarEnhancements" index="22_2" method="">
+        <user_id>IT23_R2310_Instructor_22</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_22_2</context_id>
+        <context_title>studtitleIt_IT23_22_2</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R23LSSolar.LSSolarEnhancements" index="22_3" method="">
+        <user_id>IT23_R2310_Instructor_22</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_22_3</context_id>
+        <context_title>studtitleIt_IT23_22_3</context_title>
+    </testcase>
+
+
+
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R23LSSolar.LSSolarEnhancements" index="42" method="checkCMSPreviewPage">
+        <assessmentname>it23_r2310_assessment_42</assessmentname>
+        <questionset>Question Set_IT23_R2310</questionset>
+        <questiontext>Test Question_IT23_R2310_42</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <useWriteBoard>true</useWriteBoard>
+    </testcase>
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R23LSSolar.LSSolarEnhancements" index="42_1" method="">
+        <user_id>IT23_R2310_Instructor_42</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_42_1</context_id>
+        <context_title>studtitleIt_IT23_42_1</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R23LSSolar.LSSolarEnhancements" index="42_2" method="">
+        <user_id>IT23_R2310_Instructor_42</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_42_2</context_id>
+        <context_title>studtitleIt_IT23_42_2</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R23LSSolar.LSSolarEnhancements" index="42_3" method="">
+        <user_id>IT23_R2310_Instructor_42</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_42_3</context_id>
+        <context_title>studtitleIt_IT23_42_3</context_title>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R23LSSolar.LSSolarEnhancements" index="26_1" method="">
+        <user_id>IT23_R2310_Instructor_26</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_26_1</context_id>
+        <context_title>studtitleIt_IT23_26_1</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R23LSSolar.LSSolarEnhancements" index="26_2" method="">
+        <user_id>IT23_R2310_Instructor_26</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_26_2</context_id>
+        <context_title>studtitleIt_IT23_26_2</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R23LSSolar.LSSolarEnhancements" index="26_3" method="">
+        <user_id>IT23_R2310_Instructor_26</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_26_3</context_id>
+        <context_title>studtitleIt_IT23_26_3</context_title>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R23LSSolar.LSSolarEnhancements" index="30_1" method="">
+        <user_id>IT23_R2310_Instructor_30</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_30_1</context_id>
+        <context_title>studtitleIt_IT23_30_1</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R23LSSolar.LSSolarEnhancements" index="30_2" method="">
+        <user_id>IT23_R2310_Instructor_30</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_30_2</context_id>
+        <context_title>studtitleIt_IT23_30_2</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R23LSSolar.LSSolarEnhancements" index="30_3" method="">
+        <user_id>IT23_R2310_Instructor_30</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_30_3</context_id>
+        <context_title>studtitleIt_IT23_30_3</context_title>
+    </testcase>
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R23LSSolar.LSSolarEnhancements" index="38_1" method="">
+        <user_id>IT23_R2310_Instructor_38</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_38_1</context_id>
+        <context_title>studtitleIt_IT23_38_1</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R23LSSolar.LSSolarEnhancements" index="38_2" method="">
+        <user_id>IT23_R2310_Instructor_38</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_38_2</context_id>
+        <context_title>studtitleIt_IT23_38_2</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R23LSSolar.LSSolarEnhancements" index="38_3" method="">
+        <user_id>IT23_R2310_Instructor_38</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_38_3</context_id>
+        <context_title>studtitleIt_IT23_38_3</context_title>
+    </testcase>
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R23LSSolar.LSSolarEnhancements" index="34_1" method="">
+        <user_id>IT23_R2310_Instructor_34</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_34_1</context_id>
+        <context_title>studtitleIt_IT23_34_1</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R23LSSolar.LSSolarEnhancements" index="34_2" method="">
+        <user_id>IT23_R2310_Instructor_34</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_34_2</context_id>
+        <context_title>studtitleIt_IT23_34_2</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R23LSSolar.LSSolarEnhancements" index="34_3" method="">
+        <user_id>IT23_R2310_Instructor_34</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_34_3</context_id>
+        <context_title>studtitleIt_IT23_34_3</context_title>
+    </testcase>
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R23LSSolar.LSSolarEnhancements" index="46" method="checkCMSPreviewPage">
+    <assessmentname>it23_r2310_assessment_46</assessmentname>
+    <newChapterName>newChapterName_46</newChapterName>
+    <questionset>Question Set_IT23_R2310</questionset>
+    <questiontext>Test Question_IT23_R2310_46</questiontext>
+    <questiontype>Adaptive Component Practice</questiontype>
+    <reservforassignment>false</reservforassignment>
+    <chapterName>newChapterName_46</chapterName>
+    <useWriteBoard>true</useWriteBoard>
+</testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R23LSSolar.LSSolarEnhancements" index="46_1" method="">
+        <user_id>IT23_R2310_Instructor_46</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_46_1</context_id>
+        <context_title>studtitleIt_IT23_46_1</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R23LSSolar.LSSolarEnhancements" index="46_2" method="">
+        <user_id>IT23_R2310_Instructor_46</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_46_2</context_id>
+        <context_title>studtitleIt_IT23_46_2</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R23LSSolar.LSSolarEnhancements" index="46_3" method="">
+        <user_id>IT23_R2310_Instructor_46</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_46_3</context_id>
+        <context_title>studtitleIt_IT23_46_3</context_title>
+    </testcase>
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R23LSSolar.LSSolarEnhancements" index="89_1" method="">
+        <user_id>IT23_R2310_Student_89</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT23_89_1</context_id>
+        <context_title>studtitleIt_IT23_89_1</context_title>
+        <note>This is a Note</note>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R23LSSolar.LSSolarEnhancements" index="97" method="checkCMSPreviewPage">
+        <assessmentname>it23_r2310_assessment_97</assessmentname>
+        <newChapterName>newChapterName_97</newChapterName>
+        <questionset>Question Set_IT23_R2310</questionset>
+        <questiontext>Test Question_IT23_R2310_97</questiontext>
+        <questiontype>Adaptive Component Practice</questiontype>
+        <reservforassignment>false</reservforassignment>
+        <chapterName>newChapterName_97</chapterName>
+        <useWriteBoard>true</useWriteBoard>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R23LSSolar.LSSolarEnhancements" index="97_1" method="">
+        <user_id>IT23_R2310_Student_97</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT23_97_1</context_id>
+        <context_title>studtitleIt_IT23_97_1</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R23LSSolar.LSSolarEnhancements" index="97_2" method="">
+        <user_id>IT23_R2310_Student_97</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT23_97_1</context_id>
+        <context_title>studtitleIt_IT23_97_1</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+    </testcase>
+
+   <!-- <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R23LSSolar.LSSolarEnhancements" index="97_3" method="">
+        <user_id>IT23_R2310_Instructor_97_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT23_97_1</context_id>
+        <context_title>studtitleIt_IT23_97_1</context_title>
+    </testcase>-->
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R23LSSolar.LSSolarEnhancements" index="97_4" method="">
+        <user_id>IT23_R2310_Instructor_97_4</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_97_1</context_id>
+        <context_title>studtitleIt_IT23_97_1</context_title>
+    </testcase>
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R23LSSolar.LSSolarEnhancements" index="97_5" method="">
+        <user_id>IT23_R2310_Student_97</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT23_97_1</context_id>
+        <context_title>studtitleIt_IT23_97_1</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+        <custom_destination>update_roster</custom_destination>
+        <custom_rosterChanges>Yes</custom_rosterChanges>
+
+    </testcase>
+
+
+
+</learningspaces>
+

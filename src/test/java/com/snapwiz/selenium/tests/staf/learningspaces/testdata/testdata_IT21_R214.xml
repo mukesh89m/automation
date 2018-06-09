@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R214.StudentDashboardParticipationTile" index="11" method="studentDashboardParticipationTileForExistingStudent" >
+        <user_id>instructor_IT21_R214_11_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT21_R214_11_1</context_id>
+        <context_title>studtitle_IT21_R214_11_1</context_title>
+        <assessmentname>Assignment_IT21_R214_11</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT21_R214_11</questionset>
+        <questiontext>Test Question for IT21_R214_11</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_IT21_R214_11_1</shareWithInitialString>
+        <shareName>studtitle_IT21_R214_11_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <studentname>givenname family</studentname>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R214.StudentDashboardParticipationTile" index="11_1" method="studentDashboardParticipationTileForExistingStudent" >
+        <user_id>student_IT21_R214_11_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT21_R214_11_1</context_id>
+        <context_title>studtitle_IT21_R214_11_1</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R214.StudentDashboardParticipationTile" index="11_2" method="studentDashboardParticipationTileForExistingStudent" >
+        <user_id>student_IT21_R214_11_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT21_R214_11_1</context_id>
+        <context_title>studtitle_IT21_R214_11_1</context_title>
+        <familyname>Mandal</familyname>
+        <givenname>Mukesh</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R214.StudentDashboardParticipationTile" index="19" method="studentDashboardParticipationTile" >
+        <user_id>student_IT21_R214_19</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT21_R214_19</context_id>
+        <context_title>studtitle_IT21_R214_19</context_title>
+        <familyname>Mandal</familyname>
+        <givenname>Mukesh</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R214.StudentDashboardParticipationTile" index="30" method="calculationOfTotalClassContribution" >
+        <user_id>instructor_IT21_R214_30</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT21_R214_30</context_id>
+        <context_title>studtitle_IT21_R214_30</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R214.StudentDashboardParticipationTile" index="30_1" method="calculationOfTotalClassContribution" >
+        <user_id>student_IT21_R214_30_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT21_R214_30</context_id>
+        <context_title>studtitle_IT21_R214_30</context_title>
+        <studentnametag>studtitle_IT21_R214_30</studentnametag>
+        <filename>img.png</filename>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R214.StudentDashboardParticipationTile" index="30_2" method="calculationOfTotalClassContribution" >
+        <user_id>student_IT21_R214_30_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT21_R214_30</context_id>
+        <context_title>studtitle_IT21_R214_30</context_title>
+        <familyname>Mandal</familyname>
+        <givenname>Mukesh</givenname>
+        <shareWithInitialString>studtitle_IT21_R214_30</shareWithInitialString>
+        <studentnametag>studtitle_IT21_R214_30</studentnametag>
+        <shareWithClass>true</shareWithClass>
+        <filename>img.png</filename>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R214.StudentDashboardParticipationTile" index="30_3" method="calculationOfTotalClassContribution" >
+        <user_id>student_IT21_R214_30_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT21_R214_30</context_id>
+        <context_title>studtitle_IT21_R214_30</context_title>
+        <familyname>Mandal</familyname>
+        <givenname>shashank</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R214.StudentDashboardParticipationTile" index="74" method="studentDashboardParticipationTileForLSExistingStudent" >
+        <user_id>instructor_IT21_R214_74_1</user_id>
+        <Role>instructor</Role>
+        <course_type>ls</course_type>
+        <context_id>studcontext_IT21_R214_74_1</context_id>
+        <context_title>studtitle_IT21_R214_74_1</context_title>
+        <assessmentname>Assignment_IT21_R214_74</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT21_R214_74</questionset>
+        <questiontext>Test Question for IT21_R214_74</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_IT21_R214_74_1</shareWithInitialString>
+        <shareName>studtitle_IT21_R214_74_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <studentname>givenname family</studentname>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R214.StudentDashboardParticipationTile" index="74_1" method="studentDashboardParticipationTileForLSExistingStudent" >
+        <user_id>student_IT21_R214_74_1</user_id>
+        <Role>student</Role>
+        <course_type>ls</course_type>
+        <context_id>studcontext_IT21_R214_74_1</context_id>
+        <context_title>studtitle_IT21_R214_74_1</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R214.StudentDashboardParticipationTile" index="74_2" method="studentDashboardParticipationTileForLSExistingStudent" >
+        <user_id>student_IT21_R214_74_2</user_id>
+        <Role>student</Role>
+        <course_type>ls</course_type>
+        <context_id>studcontext_IT21_R214_74_1</context_id>
+        <context_title>studtitle_IT21_R214_74_1</context_title>
+        <familyname>Mandal</familyname>
+        <givenname>Mukesh</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R214.StudentDashboardParticipationTile" index="83" method="studentDashboardParticipationTile" >
+        <user_id>student_IT21_R214_83</user_id>
+        <Role>student</Role>
+        <course_type>ls</course_type>
+        <context_id>studcontext_IT21_R214_83</context_id>
+        <context_title>studtitle_IT21_R214_83</context_title>
+        <familyname>Mandal</familyname>
+        <givenname>Mukesh</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R214.StudentDashboardParticipationTile" index="94" method="calculationOfTotalClassContributionForLS" >
+        <user_id>instructor_IT21_R214_94</user_id>
+        <Role>instructor</Role>
+        <course_type>ls</course_type>
+        <context_id>studcontext_IT21_R214_94</context_id>
+        <context_title>studtitle_IT21_R214_94</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R214.StudentDashboardParticipationTile" index="94_1" method="calculationOfTotalClassContributionForLS" >
+        <user_id>student_IT21_R214_94_1</user_id>
+        <Role>student</Role>
+        <course_type>ls</course_type>
+        <context_id>studcontext_IT21_R214_94</context_id>
+        <context_title>studtitle_IT21_R214_94</context_title>
+        <studentnametag>studtitle_IT21_R214_94</studentnametag>
+        <filename>img.png</filename>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R214.StudentDashboardParticipationTile" index="94_2" method="calculationOfTotalClassContributionForLS" >
+        <user_id>student_IT21_R214_94_2</user_id>
+        <Role>student</Role>
+        <course_type>ls</course_type>
+        <context_id>studcontext_IT21_R214_94</context_id>
+        <context_title>studtitle_IT21_R214_94</context_title>
+        <familyname>Mandal</familyname>
+        <givenname>Mukesh</givenname>
+        <shareWithInitialString>studtitle_IT21_R214_94</shareWithInitialString>
+        <studentnametag>studtitle_IT21_R214_94</studentnametag>
+        <shareWithClass>true</shareWithClass>
+        <filename>img.png</filename>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R214.StudentDashboardParticipationTile" index="94_3" method="calculationOfTotalClassContributionForLS" >
+        <user_id>student_IT21_R214_94_3</user_id>
+        <Role>student</Role>
+        <course_type>ls</course_type>
+        <context_id>studcontext_IT21_R214_94</context_id>
+        <context_title>studtitle_IT21_R214_94</context_title>
+        <familyname>Mandal</familyname>
+        <givenname>shashank</givenname>
+    </testcase>
+</learningspaces>

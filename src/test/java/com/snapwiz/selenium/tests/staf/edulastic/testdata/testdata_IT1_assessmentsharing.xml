@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edulastic>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assessmentsharing.AssessmentSharingWithInSchool" index ="10" method="assessmentSharingWithInSchool">
+        <assessmentname>IT1_assessmentsharing_Assessment_10</assessmentname>
+        <questiontext>question text IT_assessmentsharing</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>School</privacy>
+        <owner>school</owner>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assessmentsharing.AssessmentSharingWithInDistrict" index ="20" method="assessmentSharingWithInDistrict">
+        <assessmentname>IT1_assessmentsharing_Assessment_20</assessmentname>
+        <questiontext>question text IT_assessmentsharing</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithClass>true</shareWithClass>
+        <className>Automation school class 1</className>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <removeexistingclass>false</removeexistingclass>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <selectgrade>Grade 9</selectgrade>>
+        <privacy>District</privacy>
+        <owner>district</owner>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assessmentsharing.AssessmentSharingWithPublic" index ="30" method="assessmentSharingWithPublic">
+        <assessmentname>IT1_assessmentsharing_Assessment_30</assessmentname>
+        <selectgrade>Grade 4</selectgrade>
+        <questiontext>question text IT_assessmentsharing</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+        <owner>community</owner>
+        <grade>Grade 4</grade>
+    </testcase>
+</edulastic>

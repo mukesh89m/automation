@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edulastic>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.rubric.Rubric" index ="1" method="">
+        <assessmentname>Regression_Rubric_1</assessmentname>
+        <questiontext>question text_Rubric_question</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <selectgrade>Grade 1</selectgrade>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+</testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.rubric.DisplayRubricQuestionInCreationPage" index ="1" method="">
+        <assessmentname>Assignment_DisplayRubricQuestion_1</assessmentname>
+        <questiontext>question text_Assignment_DisplayRubricQuestion</questiontext>
+        <description>description text</description>
+        <rubric>true</rubric>
+        <rubricname>clonerubric</rubricname>
+        <rubricdescription>rubric description text</rubricdescription>
+        <criteriadescription>criteria description text</criteriadescription>
+        <ratingonedescription>ratingone description text</ratingonedescription>
+        <ratingtwodescription>ratingtwo description text</ratingtwodescription>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.rubric.DisplayRubricQuestionInCreationPage" index ="2" method="">
+        <assessmentname>Assignment_cloneRubricCreatedByOtherTeacher_1</assessmentname>
+        <questiontext>question text_cloneRubricCreatedByOtherTeacher</questiontext>
+        <description>description text</description>
+        <rubric>true</rubric>
+        <rubricname>clonerubric</rubricname>
+        <rubricdescription>rubric description text</rubricdescription>
+        <criteriadescription>criteria description text</criteriadescription>
+        <ratingonedescription>ratingone description text</ratingonedescription>
+        <ratingtwodescription>ratingtwo description text</ratingtwodescription>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.rubric.DisplayRubricQuestionInCreationPage" index ="3" method="">
+        <assessmentname>Assignment_clonerubric_1</assessmentname>
+        <questiontext>question text_clonerubric</questiontext>
+        <description>description text</description>
+        <rubric>true</rubric>
+        <rubricname>clonerubric</rubricname>
+        <rubricdescription>rubric description text</rubricdescription>
+        <criteriadescription>criteria description text</criteriadescription>
+        <ratingonedescription>ratingone description text</ratingonedescription>
+        <ratingtwodescription>ratingtwo description text</ratingtwodescription>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.rubric.DisplayRubricQuestionInCreationPage" index ="4" method="">
+        <assessmentname>Assignment_sharerubric_1</assessmentname>
+        <questiontext>question text_sharerubric</questiontext>
+        <description>description text</description>
+        <rubric>true</rubric>
+        <rubricname>sharerubric</rubricname>
+        <rubricdescription>rubric description text</rubricdescription>
+        <criteriadescription>criteria description text</criteriadescription>
+        <ratingonedescription>ratingone description text</ratingonedescription>
+        <ratingtwodescription>ratingtwo description text</ratingtwodescription>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.rubric.UseExistingRubric" index ="1" method="">
+        <assessmentname>UseExistingRubric_Assignment1</assessmentname>
+        <questiontext>question text_UseExistingRubric1</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+        <daadmin>true</daadmin>
+        <rubric>true</rubric>
+        <rubricname>Rubric1</rubricname>
+        <rubricdescription>rubric description text</rubricdescription>
+        <criteriadescription>criteria description text</criteriadescription>
+        <ratingonedescription>ratingone description text</ratingonedescription>
+        <ratingtwodescription>ratingtwo description text</ratingtwodescription>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.rubric.UseExistingRubric" index ="2" method="">
+        <assessmentname>UseExistingRubric_Assignment2</assessmentname>
+        <questiontext>question text_UseExistingRubric2</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+        <daadmin>true</daadmin>
+        <gradereleaseoption>false</gradereleaseoption>
+        <rubric>true</rubric>
+        <rubricname>Rubric2</rubricname>
+        <rubricdescription>rubric description text</rubricdescription>
+        <criteriadescription>criteria description text</criteriadescription>
+        <ratingonedescription>ratingone description text</ratingonedescription>
+        <ratingtwodescription>ratingtwo description text</ratingtwodescription>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.rubric.DeleteRubric" index ="1" method="">
+        <assessmentname>DeleteRubric_Assignment1</assessmentname>
+        <questiontext>question_text_DeleteRubric1</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+        <daadmin>true</daadmin>
+        <rubric>true</rubric>
+        <rubricname>DeleteRubric1</rubricname>
+        <rubricdescription>rubric description text</rubricdescription>
+        <criteriadescription>DeleteRubric_criteria_description</criteriadescription>
+        <ratingonedescription>DeleteRubric_ratingone_description</ratingonedescription>
+        <ratingtwodescription>DeleteRubric_ratingtwo_description</ratingtwodescription>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.rubric.DeleteRubric" index ="2" method="">
+        <assessmentname>DeleteRubric_Assignment1</assessmentname>
+        <questiontext>question_text_DeleteRubric1</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+        <daadmin>true</daadmin>
+        <gradereleaseoption>false</gradereleaseoption>
+        <rubric>true</rubric>
+        <rubricname>DeleteRubric2</rubricname>
+        <rubricdescription>rubric description text</rubricdescription>
+        <criteriadescription>DeleteRubric_criteria_description</criteriadescription>
+        <ratingonedescription>DeleteRubric_ratingone_description</ratingonedescription>
+        <ratingtwodescription>DeleteRubric_ratingtwo_description</ratingtwodescription>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.rubric.DeleteRubric" index ="3" method="">
+        <assessmentname>DeleteRubric_Assignment3</assessmentname>
+        <questiontext>question_text_DeleteRubric3</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+        <daadmin>true</daadmin>
+        <gradereleaseoption>false</gradereleaseoption>
+        <rubric>true</rubric>
+        <rubricname>DeleteRubric3</rubricname>
+        <rubricdescription>rubric description text</rubricdescription>
+        <criteriadescription>DeleteRubric_criteria_description</criteriadescription>
+        <ratingonedescription>DeleteRubric_ratingone_description</ratingonedescription>
+        <ratingtwodescription>DeleteRubric_ratingtwo_description</ratingtwodescription>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.rubric.DARubric" index ="1" method="">
+        <assessmentname>daRubric_Assignment1</assessmentname>
+        <questiontext>question text_daRubric1</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <daadmin>true</daadmin>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+        <daadmin>true</daadmin>
+        <rubric>true</rubric>
+        <rubricname>Rubric1</rubricname>
+        <rubricdescription>rubric description text</rubricdescription>
+        <criteriadescription>criteria description text</criteriadescription>
+        <ratingonedescription>ratingone description text</ratingonedescription>
+        <ratingtwodescription>ratingtwo description text</ratingtwodescription>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.rubric.DARubric" index ="2" method="">
+        <assessmentname>daRubric_Assignment2</assessmentname>
+        <questiontext>question text_daRubric2</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+        <daadmin>true</daadmin>
+        <gradereleaseoption>false</gradereleaseoption>
+        <rubric>true</rubric>
+        <rubricname>Rubric1</rubricname>
+        <rubricdescription>rubric description text</rubricdescription>
+        <criteriadescription>criteria description text</criteriadescription>
+        <ratingonedescription>ratingone description text</ratingonedescription>
+        <ratingtwodescription>ratingtwo description text</ratingtwodescription>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.rubric.DARubric" index ="3" method="">
+        <assessmentname>daDeleteRubric_Assignment1</assessmentname>
+        <questiontext>question_text_daDeleteRubric1</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <daadmin>true</daadmin>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+        <daadmin>true</daadmin>
+        <rubric>true</rubric>
+        <rubricname>DeleteRubric1</rubricname>
+        <rubricdescription>rubric description text</rubricdescription>
+        <criteriadescription>DeleteRubric_criteria_description</criteriadescription>
+        <ratingonedescription>DeleteRubric_ratingone_description</ratingonedescription>
+        <ratingtwodescription>DeleteRubric_ratingtwo_description</ratingtwodescription>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.rubric.DARubric" index ="4" method="">
+        <assessmentname>daDeleteRubric_Assignment1</assessmentname>
+        <questiontext>question_text_daDeleteRubric1</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+        <daadmin>true</daadmin>
+        <gradereleaseoption>false</gradereleaseoption>
+        <rubric>true</rubric>
+        <rubricname>DeleteRubric2</rubricname>
+        <rubricdescription>rubric description text</rubricdescription>
+        <criteriadescription>DeleteRubric_criteria_description</criteriadescription>
+        <ratingonedescription>DeleteRubric_ratingone_description</ratingonedescription>
+        <ratingtwodescription>DeleteRubric_ratingtwo_description</ratingtwodescription>
+    </testcase>
+
+
+</edulastic>
+

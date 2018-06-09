@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="methods" preserve-order="false" configfailurepolicy="continue" thread-count="8">
+    <listeners>
+        <listener class-name="com.snapwiz.selenium.tests.staf.framework.listener.CustomListener" />
+    </listeners>
+    <test name="Orion Smoke Jenkins Suite">
+        <classes>
+            <!--Smoke test for Orion-->
+            <class name="com.snapwiz.selenium.tests.staf.orion.testcases.regression.orion.DiagnosticAndPractice"/>
+            <class name="com.snapwiz.selenium.tests.staf.orion.testcases.regression.orion.InstructorDashboard"/>
+            <class name="com.snapwiz.selenium.tests.staf.orion.testcases.regression.orion.Settings"/>
+            <class name="com.snapwiz.selenium.tests.staf.orion.testcases.regression.orion.StudentDiagnosticReports"/>
+       </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edulastic>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.editpoints.EditPoints" index ="1" method ="">
+        <assessmentname>Regression_editPoints_true_false_Assignment_1</assessmentname>
+        <questiontext>question text_Regression_editPoints_trueFalse_Assignment_1</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <adquestionafterassign>true</adquestionafterassign>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.editpoints.EditPoints" index ="2" method ="">
+        <assessmentname>Regression_editPoints_multipleChoice_Assignment_2</assessmentname>
+        <questiontext>question text_Regression_editPoints_Assignment_2</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <adquestionafterassign>true</adquestionafterassign>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.editpoints.EditPoints" index ="3" method ="">
+        <assessmentname>Regression_editPoints_MultipleSelection_Assignment_3</assessmentname>
+        <questiontext>question text_Regression_editPoints_Assignment_3</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <adquestionafterassign>true</adquestionafterassign>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.editpoints.EditPoints" index ="4" method ="">
+        <assessmentname>Regression_editPoints_TextEntry_Assignment_4</assessmentname>
+        <questiontext>question text_Regression_editPoints_Assignment_4</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <adquestionafterassign>true</adquestionafterassign>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.editpoints.EditPoints" index ="5" method ="">
+        <assessmentname>Regression_editPoints_TextDropDown_Assignment_5</assessmentname>
+        <questiontext>question text_Regression_editPoints_Assignment_5</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <adquestionafterassign>true</adquestionafterassign>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.editpoints.EditPoints" index ="6" method ="">
+        <assessmentname>Regression_editPoints_NumericEntryWithUnits_Assignment_6</assessmentname>
+        <questiontext>question text_Regression_editPoints_Assignment_6</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <adquestionafterassign>true</adquestionafterassign>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.editpoints.EditPoints" index ="7" method ="">
+        <assessmentname>Regression_editPoints_Numeric_Assignment_7</assessmentname>
+        <questiontext>question text_Regression_editPoints_Assignment_7</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <adquestionafterassign>true</adquestionafterassign>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.editpoints.EditPoints" index ="8" method ="">
+        <assessmentname>Regression_editPoints_Multipart_Assignment_8</assessmentname>
+        <questiontext>question text_Regression_editPoints_Assignment_8</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <adquestionafterassign>true</adquestionafterassign>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.editpoints.EditPoints" index ="9" method ="">
+        <assessmentname>Regression_editPoints_Graphplotter_Assignment_9</assessmentname>
+        <questiontext>question text_Regression_editPoints_Assignment_9</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <adquestionafterassign>true</adquestionafterassign>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.editpoints.EditPoints" index ="10" method ="">
+        <assessmentname>Regression_editPoints_Matchthefollowing_Assignment_10</assessmentname>
+        <questiontext>question text_Regression_editPoints_Assignment_10</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <adquestionafterassign>true</adquestionafterassign>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.editpoints.EditPoints" index ="11" method ="">
+        <assessmentname>Regression_editPoints_Assignment_includingExistingQuestion_11</assessmentname>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <adquestionafterassign>true</adquestionafterassign>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.editpoints.EditAssessment" index ="1" method ="">
+        <assessmentname>Regression_editPoints_Assignment_EditAssessment_1</assessmentname>
+        <questiontext>question text_Regression_editPoints_EditAssessment_1</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <adquestionafterassign>true</adquestionafterassign>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+        <createthrough>myAssessments</createthrough>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.editpoints.EditAssessment" index ="2" method ="">
+        <assessmentname>Regression_editPoints_Assignment_EditAssessment_2</assessmentname>
+        <questiontext>question text_Regression_editPoints_EditAssessment_2</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <adquestionafterassign>true</adquestionafterassign>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>District</privacy>
+        <createthrough>myAssessments</createthrough>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.editpoints.EditAssessment" index ="3" method ="">
+        <assessmentname>Regression_editPoints_Assignment_EditAssessment_3</assessmentname>
+        <questiontext>question text_Regression_editPoints_EditAssessment_3</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <adquestionafterassign>true</adquestionafterassign>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>School</privacy>
+        <createthrough>myAssessments</createthrough>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.editpoints.EditAssessment" index ="4" method ="">
+        <assessmentname>Regression_editPoints_Assignment_EditAssessment_4</assessmentname>
+        <questiontext>question text_Regression_editPoints_EditAssessment_4</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <adquestionafterassign>true</adquestionafterassign>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+        <createthrough>myAssessments</createthrough>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.editpoints.EditAssessment" index ="5" method ="">
+        <assessmentname>Regression_editPoints_Assignment_EditAssessment_5</assessmentname>
+        <questiontext>question text_Regression_editPoints_EditAssessment_5</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <adquestionafterassign>true</adquestionafterassign>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>District</privacy>
+        <createthrough>myAssessments</createthrough>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.editpoints.EditAssessment" index ="6" method ="">
+        <assessmentname>Regression_editPoints_Assignment_EditAssessment_6</assessmentname>
+        <questiontext>question text_Regression_editPoints_EditAssessment_6</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <adquestionafterassign>true</adquestionafterassign>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>School</privacy>
+        <createthrough>myAssessments</createthrough>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.editpoints.EditAssessment" index ="7" method ="">
+        <assessmentname>Regression_editPoints_Assignment_EditAssessment_7</assessmentname>
+        <questiontext>question text_Regression_editPoints_EditAssessment_7</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <adquestionafterassign>true</adquestionafterassign>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>School</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.editpoints.EditAssessment" index ="8" method ="">
+        <assessmentname>Regression_editPoints_Assignment_EditAssessment_81</assessmentname>
+        <questiontext>question text_Regression_editPoints_EditAssessment_8</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <adquestionafterassign>true</adquestionafterassign>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.editpoints.EditAssessment" index ="9" method ="">
+        <privacy>Private</privacy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <shareWithClass>true</shareWithClass>
+        <assessmentname>Regression_editPoints_Assignment_EditAssessment_81</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.editpoints.EditAssessment" index ="10" method ="">
+        <assessmentname>Regression_editPoints_Assignment_EditAssessment_101</assessmentname>
+        <questiontext>question text_Regression_editPoints_EditAssessment_101</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <adquestionafterassign>true</adquestionafterassign>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.editpoints.StudentEvaluationWithEditedPoint" index ="1" method ="">
+        <assessmentname>Regression_editPoints_Assignment_StudentEvaluationWithEditedPoint_1</assessmentname>
+        <questiontext>question text_Regression_editPoints_StudentEvaluationWithEditedPoint_1</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <adquestionafterassign>true</adquestionafterassign>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+ </edulastic>

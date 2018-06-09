@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="R27-LSRegressionSuite">
+    <classes> 
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R54.SupportForAssignmentsUploadedFile"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R54.InstructorAbleToassociateResourcesWithToc"/> 
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R54.InstructorAbleToAssignUploadedResources"/> 		
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->

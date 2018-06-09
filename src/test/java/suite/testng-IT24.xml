@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+    <test name="IT24-LSRegressionSuite">
+        <classes>
+            <class name="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R243.AssignmentFlow"/>
+        </classes>
+    </test> <!-- Test -->
+
+</suite> <!-- Suite -->

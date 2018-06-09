@@ -1,0 +1,1906 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.AssignmentGradesNotReleased" index="1" method="staticAssessmentGradesNotReleased">
+        <course>Biology</course>
+        <user_id>instructor_IT22_R227_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R227_1</context_id>
+        <context_title>studtitle_IT22_R227_1</context_title>
+        <assessmentname>IT22_R227_Assessment_1</assessmentname>
+        <questionset>Question Set_IT22_R227_1</questionset>
+        <questiontext>Test Question_IT22_R227_1</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <chapterName>The Study of Life</chapterName>
+        <useWriteBoard>true</useWriteBoard>
+        <searchquestion>true</searchquestion>
+        <noOfQuestions>1</noOfQuestions>
+        <customassignmentname>customAssigment</customassignmentname>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <studentname>givenname family</studentname>
+        <additionalnote>This is an additional note</additionalnote>
+        <customassignmentname>IT22_R227_Assessment_1</customassignmentname>
+        <shareWithInitialString>studtitle_IT22_R227_1</shareWithInitialString>
+        <shareName>studtitle_IT22_R227_1</shareName>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.AssignmentGradesNotReleased" index="2" method="staticAssessmentGradesNotReleased">
+        <user_id>student_IT22_R227_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R227_1</context_id>
+        <context_title>studtitle_IT22_R227_1</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.AssignmentGradesNotReleased" index="3" method="staticAssessmentGradesNotReleased">
+        <user_id>student_IT22_R227_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R227_1</context_id>
+        <context_title>studtitle_IT22_R227_1</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.AssignmentGradesNotReleased" index="4" method="staticAssessmentGradesNotReleased">
+        <user_id>student_IT22_R227_4</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R227_1</context_id>
+        <context_title>studtitle_IT22_R227_1</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.AssignmentGradesNotReleased" index="5" method="staticAssessmentGradesNotReleased">
+        <course>Biology</course>
+        <user_id>instructor_IT22_R227_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R227_1</context_id>
+        <context_title>studtitle_IT22_R227_1</context_title>
+        <assessmentname>IT22_R227_Assessment_2</assessmentname>
+        <questionset>Question Set_IT22_R227_2</questionset>
+        <questiontext>Test Question_IT22_R227_2</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <chapterName>The Study of Life</chapterName>
+        <useWriteBoard>true</useWriteBoard>
+        <searchquestion>true</searchquestion>
+        <noOfQuestions>1</noOfQuestions>
+        <customassignmentname>customAssigment</customassignmentname>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <studentname>givenname family</studentname>
+        <additionalnote>This is an additional note</additionalnote>
+        <customassignmentname>IT22_R227_Assessment_2</customassignmentname>
+        <shareWithInitialString>studtitle_IT22_R227_1</shareWithInitialString>
+        <shareName>studtitle_IT22_R227_1</shareName>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.AssignmentGradesNotReleased" index="6" method="staticAssessmentAssignedToSpecificStudent">
+        <course>Biology</course>
+        <user_id>instructor_IT22_R227_6</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R227_6</context_id>
+        <context_title>studtitle_IT22_R227_6</context_title>
+        <assessmentname>IT22_R227_Assessment_6</assessmentname>
+        <questionset>Question Set_IT22_R227_6</questionset>
+        <questiontext>Test Question_IT22_R227_6</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <chapterName>The Study of Life</chapterName>
+        <useWriteBoard>true</useWriteBoard>
+        <searchquestion>true</searchquestion>
+        <noOfQuestions>1</noOfQuestions>
+        <customassignmentname>customAssigment</customassignmentname>
+        <shareWithClass>false</shareWithClass>
+        <shareWithInitialString>family1</shareWithInitialString>
+        <shareName>givenname1 family1</shareName>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <studentname>givenname1 family1</studentname>
+        <additionalnote>This is an additional note</additionalnote>
+        <customassignmentname>IT22_R227_Assessment_6</customassignmentname>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.AssignmentGradesNotReleased" index="7" method="staticAssessmentAssignedToSpecificStudent">
+        <user_id>student_IT22_R227_7</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R227_6</context_id>
+        <context_title>studtitle_IT22_R227_6</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.AssignmentGradesNotReleased" index="8" method="staticAssessmentAssignedToSpecificStudent">
+        <user_id>student_IT22_R227_8</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R227_6</context_id>
+        <context_title>studtitle_IT22_R227_6</context_title>
+        <familyname>family2</familyname>
+        <givenname>givenname2</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.AssignmentGradesNotReleased" index="9" method="staticAssessmentAssignedToSpecificStudent">
+        <user_id>student_IT22_R227_9</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R227_6</context_id>
+        <context_title>studtitle_IT22_R227_6</context_title>
+        <familyname>family3</familyname>
+        <givenname>givenname3</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.AssignmentGradesNotReleased" index="10" method="customAssignmentGradesNotReleased">
+        <course>Biology</course>
+        <user_id>instructor_IT22_R227_10</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R227_10</context_id>
+        <context_title>studtitle_IT22_R227_10</context_title>
+        <assessmentname>Assignment_IT22_R227_10</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of _IT22_R227_10</questionset>
+        <questiontext>Test Question for _IT22_R227_10</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studtitle_IT22_R227_10</shareWithInitialString>
+        <shareName>studtitle_IT22_R227_10</shareName>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <studentname>givenname family</studentname>
+        <additionalnote>This is an additional note</additionalnote>
+        <searchquestion>_IT22_R227_10</searchquestion>
+        <customassignmentname>custom_assignment_IT22_R227_10</customassignmentname>
+        <noOfQuestions>1</noOfQuestions>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.AssignmentGradesNotReleased" index="10_1" method="customAssignmentGradesNotReleased">
+        <user_id>student_IT22_R227_10_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R227_10</context_id>
+        <context_title>studtitle_IT22_R227_10</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.AssignmentGradesNotReleased" index="10_2" method="customAssignmentGradesNotReleased">
+        <user_id>student_IT22_R227_10_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R227_10</context_id>
+        <context_title>studtitle_IT22_R227_10</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.AssignmentGradesNotReleased" index="10_3" method="customAssignmentGradesNotReleased">
+        <user_id>student_IT22_R227_10_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R227_10</context_id>
+        <context_title>studtitle_IT22_R227_10</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.AssignmentGradesNotReleased" index="11" method="customAssignmentAssignedToSpecificStudent">
+        <course>Biology</course>
+        <user_id>instructor_IT22_R227_11</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R227_11</context_id>
+        <context_title>studtitle_IT22_R227_11</context_title>
+        <assessmentname>Assignment_IT22_R227_11</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of _IT22_R227_11</questionset>
+        <questiontext>Test Question for _IT22_R227_11</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareName>studtitle_IT22_R227_11</shareName>
+        <shareWithClass>false</shareWithClass>
+        <shareWithInitialString>family1</shareWithInitialString>
+        <shareName>givenname1 family1</shareName>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <studentname>givenname1 family1</studentname>
+        <additionalnote>This is an additional note</additionalnote>
+        <searchquestion>_IT22_R227_11</searchquestion>
+        <customassignmentname>custom_assignment_IT22_R227_11</customassignmentname>
+        <noOfQuestions>1</noOfQuestions>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.AssignmentGradesNotReleased" index="11_1" method="customAssignmentAssignedToSpecificStudent">
+        <user_id>student_IT22_R227_11_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R227_11</context_id>
+        <context_title>studtitle_IT22_R227_11</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.AssignmentGradesNotReleased" index="11_2" method="customAssignmentAssignedToSpecificStudent">
+        <user_id>student_IT22_R227_11_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R227_11</context_id>
+        <context_title>studtitle_IT22_R227_11</context_title>
+        <familyname>family2</familyname>
+        <givenname>givenname2</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.AssignmentGradesNotReleased" index="11_3" method="customAssignmentAssignedToSpecificStudent">
+        <user_id>student_IT22_R227_11_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R227_11</context_id>
+        <context_title>studtitle_IT22_R227_11</context_title>
+        <familyname>family3</familyname>
+        <givenname>givenname3</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.AssignmentGradesNotReleased" index="12" method="adaptivePracticeGradesNotReleased">
+        <course>Biology</course>
+        <user_id>instructor_IT22_R227_12</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R227_12</context_id>
+        <context_title>studtitle_IT22_R227_12</context_title>
+        <assessmentname>IT22_R227_Assessment_12</assessmentname>
+        <questionset>Question Set_IT22_R227_12</questionset>
+        <questiontext>Test Question_IT22_R227_12</questiontext>
+        <questiontype>Adaptive Component Practice</questiontype>
+        <chapterName>The Study of Life</chapterName>
+        <useWriteBoard>true</useWriteBoard>
+        <searchquestion>true</searchquestion>
+        <noOfQuestions>1</noOfQuestions>
+        <customassignmentname>customAssigment</customassignmentname>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <studentname>givenname family</studentname>
+        <additionalnote>This is an additional note</additionalnote>
+        <customassignmentname>IT22_R227_Assessment_12</customassignmentname>
+        <shareWithInitialString>studtitle_IT22_R227_12</shareWithInitialString>
+        <shareName>studtitle_IT22_R227_12</shareName>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.AssignmentGradesNotReleased" index="12_1" method="adaptivePracticeGradesNotReleased">
+        <user_id>student_IT22_R227_12_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R227_12</context_id>
+        <context_title>studtitle_IT22_R227_12</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.AssignmentGradesNotReleased" index="12_2" method="adaptivePracticeGradesNotReleased">
+        <user_id>student_IT22_R227_12_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R227_12</context_id>
+        <context_title>studtitle_IT22_R227_12</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.AssignmentGradesNotReleased" index="12_3" method="adaptivePracticeGradesNotReleased">
+        <user_id>student_IT22_R227_12_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R227_12</context_id>
+        <context_title>studtitle_IT22_R227_12</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.AssignmentGradesNotReleased" index="13" method="adaptivePracticeAssignedToSpecificStudent">
+        <course>Biology</course>
+        <user_id>instructor_IT22_R227_13</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R227_13</context_id>
+        <context_title>studtitle_IT22_R227_13</context_title>
+        <assessmentname>IT22_R227_Assessment_13</assessmentname>
+        <questionset>Question Set_IT22_R227_13</questionset>
+        <questiontext>Test Question_IT22_R227_13</questiontext>
+        <questiontype>Adaptive Component Practice</questiontype>
+        <chapterName>The Study of Life</chapterName>
+        <useWriteBoard>true</useWriteBoard>
+        <searchquestion>true</searchquestion>
+        <noOfQuestions>1</noOfQuestions>
+        <customassignmentname>customAssigment</customassignmentname>
+        <shareWithClass>false</shareWithClass>
+        <shareWithInitialString>family1</shareWithInitialString>
+        <shareName>givenname1 family1</shareName>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <studentname>givenname1 family1</studentname>
+        <additionalnote>This is an additional note</additionalnote>
+        <customassignmentname>IT22_R227_Assessment_13</customassignmentname>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.AssignmentGradesNotReleased" index="13_1" method="adaptivePracticeAssignedToSpecificStudent">
+        <user_id>student_IT22_R227_13_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R227_13</context_id>
+        <context_title>studtitle_IT22_R227_13</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.AssignmentGradesNotReleased" index="13_2" method="adaptivePracticeAssignedToSpecificStudent">
+        <user_id>student_IT22_R227_13_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R227_13</context_id>
+        <context_title>studtitle_IT22_R227_13</context_title>
+        <familyname>family2</familyname>
+        <givenname>givenname2</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.AssignmentGradesNotReleased" index="13_3" method="adaptivePracticeAssignedToSpecificStudent">
+        <user_id>student_IT22_R227_13_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R227_13</context_id>
+        <context_title>studtitle_IT22_R227_13</context_title>
+        <familyname>family3</familyname>
+        <givenname>givenname3</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.LSAssignmentGradesNotReleased" index="14" method="customAssignmentGradesNotReleased">
+        <course>Geography: Realms, Regions, and Concepts - Sixteenth Edition</course>
+        <user_id>instructor_IT22_R227_14</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R227_14</context_id>
+        <context_title>studtitle_IT22_R227_14</context_title>
+        <assessmentname>Assignment_IT22_R227_14</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of _IT22_R227_14</questionset>
+        <questiontext>Test Question for _IT22_R227_14</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studtitle_IT22_R227_14</shareWithInitialString>
+        <shareName>studtitle_IT22_R227_14</shareName>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <studentname>givenname family</studentname>
+        <additionalnote>This is an additional note</additionalnote>
+        <searchquestion>_IT22_R227_14</searchquestion>
+        <customassignmentname>custom_assignment_IT22_R227_14</customassignmentname>
+        <noOfQuestions>1</noOfQuestions>
+        <course_type>ls</course_type>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.LSAssignmentGradesNotReleased" index="14_1" method="customAssignmentGradesNotReleased">
+        <user_id>student_IT22_R227_14_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R227_14</context_id>
+        <context_title>studtitle_IT22_R227_14</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.LSAssignmentGradesNotReleased" index="14_2" method="customAssignmentGradesNotReleased">
+        <user_id>student_IT22_R227_14_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R227_14</context_id>
+        <context_title>studtitle_IT22_R227_14</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.LSAssignmentGradesNotReleased" index="14_3" method="customAssignmentGradesNotReleased">
+        <user_id>student_IT22_R227_14_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R227_14</context_id>
+        <context_title>studtitle_IT22_R227_14</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.LSAssignmentGradesNotReleased" index="15" method="customAssignmentAssignedToSpecificStudent">
+        <course>Geography: Realms, Regions, and Concepts - Sixteenth Edition</course>
+        <user_id>instructor_IT22_R227_15</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R227_15</context_id>
+        <context_title>studtitle_IT22_R227_15</context_title>
+        <assessmentname>Assignment_IT22_R227_15</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of _IT22_R227_15</questionset>
+        <questiontext>Test Question for _IT22_R227_15</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareName>studtitle_IT22_R227_15</shareName>
+        <shareWithClass>false</shareWithClass>
+        <shareWithInitialString>family1</shareWithInitialString>
+        <shareName>givenname1 family1</shareName>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <studentname>givenname1 family1</studentname>
+        <additionalnote>This is an additional note</additionalnote>
+        <searchquestion>_IT22_R227_15</searchquestion>
+        <customassignmentname>custom_assignment_IT22_R227_15</customassignmentname>
+        <noOfQuestions>1</noOfQuestions>
+        <course_type>ls</course_type>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.LSAssignmentGradesNotReleased" index="15_1" method="customAssignmentAssignedToSpecificStudent">
+        <user_id>student_IT22_R227_15_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R227_15</context_id>
+        <context_title>studtitle_IT22_R227_15</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+        <course_type>ls</course_type>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.LSAssignmentGradesNotReleased" index="15_2" method="customAssignmentAssignedToSpecificStudent">
+        <user_id>student_IT22_R227_15_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R227_15</context_id>
+        <context_title>studtitle_IT22_R227_15</context_title>
+        <familyname>family2</familyname>
+        <givenname>givenname2</givenname>
+        <course_type>ls</course_type>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.LSAssignmentGradesNotReleased" index="15_3" method="customAssignmentAssignedToSpecificStudent">
+        <user_id>student_IT22_R227_15_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R227_15</context_id>
+        <context_title>studtitle_IT22_R227_15</context_title>
+        <familyname>family3</familyname>
+        <givenname>givenname3</givenname>
+        <course_type>ls</course_type>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.LSAssignmentGradesNotReleased" index="16" method="staticAssessmentGradesNotReleased">
+        <course>Geography: Realms, Regions, and Concepts - Sixteenth Edition</course>
+        <user_id>instructor_IT22_R227_16</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R227_16</context_id>
+        <context_title>studtitle_IT22_R227_16</context_title>
+        <assessmentname>IT22_R227_Assessment_16</assessmentname>
+        <questionset>Question Set_IT22_R227_16</questionset>
+        <questiontext>Test Question_IT22_R227_16</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <useWriteBoard>true</useWriteBoard>
+        <searchquestion>true</searchquestion>
+        <noOfQuestions>1</noOfQuestions>
+        <customassignmentname>customAssigment</customassignmentname>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studtitle_IT22_R227_16</shareWithInitialString>
+        <shareName>studtitle_IT22_R227_16</shareName>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <studentname>givenname family</studentname>
+        <additionalnote>This is an additional note</additionalnote>
+        <customassignmentname>IT22_R227_Assessment_16</customassignmentname>
+        <reservforassignment>false</reservforassignment>
+        <course_type>ls</course_type>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.LSAssignmentGradesNotReleased" index="16_1" method="staticAssessmentGradesNotReleased">
+        <user_id>student_IT22_R227_16_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R227_16</context_id>
+        <context_title>studtitle_IT22_R227_16</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.LSAssignmentGradesNotReleased" index="16_2" method="staticAssessmentGradesNotReleased">
+        <user_id>student_IT22_R227_16_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R227_16</context_id>
+        <context_title>studtitle_IT22_R227_16</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.LSAssignmentGradesNotReleased" index="16_3" method="staticAssessmentGradesNotReleased">
+        <user_id>student_IT22_R227_16_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R227_16</context_id>
+        <context_title>studtitle_IT22_R227_16</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.LSAssignmentGradesNotReleased" index="17" method="staticAssessmentAssignedToSpecificStudent">
+        <course>Geography: Realms, Regions, and Concepts - Sixteenth Edition</course>
+        <user_id>instructor_IT22_R227_17</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R227_17</context_id>
+        <context_title>studtitle_IT22_R227_17</context_title>
+        <assessmentname>IT22_R227_Assessment_17</assessmentname>
+        <questionset>Question Set_IT22_R227_17</questionset>
+        <questiontext>Test Question_IT22_R227_17</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <useWriteBoard>true</useWriteBoard>
+        <searchquestion>true</searchquestion>
+        <noOfQuestions>1</noOfQuestions>
+        <customassignmentname>customAssigment</customassignmentname>
+        <shareWithClass>false</shareWithClass>
+        <shareWithInitialString>family1</shareWithInitialString>
+        <shareName>givenname1 family1</shareName>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <studentname>givenname family</studentname>
+        <additionalnote>This is an additional note</additionalnote>
+        <customassignmentname>IT22_R227_Assessment_17</customassignmentname>
+        <reservforassignment>false</reservforassignment>
+        <course_type>ls</course_type>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.LSAssignmentGradesNotReleased" index="17_1" method="staticAssessmentAssignedToSpecificStudent">
+        <user_id>student_IT22_R227_17_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R227_17</context_id>
+        <context_title>studtitle_IT22_R227_17</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+        <course_type>ls</course_type>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.LSAssignmentGradesNotReleased" index="17_2" method="staticAssessmentAssignedToSpecificStudent">
+        <user_id>student_IT22_R227_17_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R227_17</context_id>
+        <context_title>studtitle_IT22_R227_17</context_title>
+        <familyname>family2</familyname>
+        <givenname>givenname2</givenname>
+        <course_type>ls</course_type>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.LSAssignmentGradesNotReleased" index="17_3" method="staticAssessmentAssignedToSpecificStudent">
+        <user_id>student_IT22_R227_17_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R227_17</context_id>
+        <context_title>studtitle_IT22_R227_17</context_title>
+        <familyname>family3</familyname>
+        <givenname>givenname3</givenname>
+        <course_type>ls</course_type>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.AssignmentGradesNotReleased" index="18" method="questionBankGradesNotReleased">
+        <course>Biology</course>
+        <user_id>instructor_IT22_R227_18</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R227_18</context_id>
+        <context_title>studtitle_IT22_R227_18</context_title>
+        <assessmentname>Assignment_IT22_R227_18</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of _IT22_R227_18</questionset>
+        <questiontext>Test Question for _IT22_R227_18</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studtitle_IT22_R227_18</shareWithInitialString>
+        <shareName>studtitle_IT22_R227_18</shareName>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <studentname>givenname family</studentname>
+        <additionalnote>This is an additional note</additionalnote>
+        <searchquestion>_IT22_R227_18</searchquestion>
+        <customassignmentname>custom_assignment_IT22_R227_18</customassignmentname>
+        <noOfQuestions>1</noOfQuestions>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.AssignmentGradesNotReleased" index="18_1" method="questionBankGradesNotReleased">
+        <user_id>student_IT22_R227_18_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R227_18</context_id>
+        <context_title>studtitle_IT22_R227_18</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.AssignmentGradesNotReleased" index="18_2" method="questionBankGradesNotReleased">
+        <user_id>student_IT22_R227_18_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R227_18</context_id>
+        <context_title>studtitle_IT22_R227_18</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.AssignmentGradesNotReleased" index="18_3" method="questionBankGradesNotReleased">
+        <user_id>student_IT22_R227_18_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R227_18</context_id>
+        <context_title>studtitle_IT22_R227_18</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.AssignmentGradesNotReleased" index="19" method="questionBankAssignedToSpecificStudent">
+        <course>Biology</course>
+        <user_id>instructor_IT22_R227_19</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R227_19</context_id>
+        <context_title>studtitle_IT22_R227_19</context_title>
+        <assessmentname>Assignment_IT22_R227_19</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of _IT22_R227_19</questionset>
+        <questiontext>Test Question for _IT22_R227_19</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareName>studtitle_IT22_R227_19</shareName>
+        <shareWithClass>false</shareWithClass>
+        <shareWithInitialString>family1</shareWithInitialString>
+        <shareName>givenname1 family1</shareName>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <studentname>givenname1 family1</studentname>
+        <additionalnote>This is an additional note</additionalnote>
+        <searchquestion>_IT22_R227_19</searchquestion>
+        <customassignmentname>custom_assignment_IT22_R227_19</customassignmentname>
+        <noOfQuestions>1</noOfQuestions>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.AssignmentGradesNotReleased" index="19_1" method="questionBankAssignedToSpecificStudent">
+        <user_id>student_IT22_R227_19_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R227_19</context_id>
+        <context_title>studtitle_IT22_R227_19</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.AssignmentGradesNotReleased" index="19_2" method="questionBankAssignedToSpecificStudent">
+        <user_id>student_IT22_R227_19_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R227_19</context_id>
+        <context_title>studtitle_IT22_R227_19</context_title>
+        <familyname>family2</familyname>
+        <givenname>givenname2</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.AssignmentGradesNotReleased" index="19_3" method="questionBankAssignedToSpecificStudent">
+        <user_id>student_IT22_R227_19_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R227_19</context_id>
+        <context_title>studtitle_IT22_R227_19</context_title>
+        <familyname>family3</familyname>
+        <givenname>givenname3</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.LSAssignmentGradesNotReleased" index="20" method="questionBankGradesNotReleased">
+        <course>Geography: Realms, Regions, and Concepts - Sixteenth Edition</course>
+        <user_id>instructor_IT22_R227_20</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R227_20</context_id>
+        <context_title>studtitle_IT22_R227_20</context_title>
+        <assessmentname>Assignment_IT22_R227_20</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of _IT22_R227_20</questionset>
+        <questiontext>Test Question for _IT22_R227_20</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studtitle_IT22_R227_20</shareWithInitialString>
+        <shareName>studtitle_IT22_R227_20</shareName>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <studentname>givenname family</studentname>
+        <additionalnote>This is an additional note</additionalnote>
+        <searchquestion>_IT22_R227_20</searchquestion>
+        <customassignmentname>custom_assignment_IT22_R227_20</customassignmentname>
+        <noOfQuestions>1</noOfQuestions>
+        <course_type>ls</course_type>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.LSAssignmentGradesNotReleased" index="20_1" method="questionBankGradesNotReleased">
+        <user_id>student_IT22_R227_20_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R227_20</context_id>
+        <context_title>studtitle_IT22_R227_20</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.LSAssignmentGradesNotReleased" index="20_2" method="questionBankGradesNotReleased">
+        <user_id>student_IT22_R227_20_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R227_20</context_id>
+        <context_title>studtitle_IT22_R227_20</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.LSAssignmentGradesNotReleased" index="20_3" method="questionBankGradesNotReleased">
+        <user_id>student_IT22_R227_20_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R227_20</context_id>
+        <context_title>studtitle_IT22_R227_20</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.LSAssignmentGradesNotReleased" index="21" method="questionBankAssignedToSpecificStudent">
+        <course>Geography: Realms, Regions, and Concepts - Sixteenth Edition</course>
+        <user_id>instructor_IT22_R227_21</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R227_21</context_id>
+        <context_title>studtitle_IT22_R227_21</context_title>
+        <assessmentname>Assignment_IT22_R227_21</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of _IT22_R227_21</questionset>
+        <questiontext>Test Question for _IT22_R227_21</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareName>studtitle_IT22_R227_21</shareName>
+        <shareWithClass>false</shareWithClass>
+        <shareWithInitialString>family1</shareWithInitialString>
+        <shareName>givenname1 family1</shareName>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <studentname>givenname1 family1</studentname>
+        <additionalnote>This is an additional note</additionalnote>
+        <searchquestion>_IT22_R227_21</searchquestion>
+        <customassignmentname>custom_assignment_IT22_R227_21</customassignmentname>
+        <noOfQuestions>1</noOfQuestions>
+        <course_type>ls</course_type>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.LSAssignmentGradesNotReleased" index="21_1" method="questionBankAssignedToSpecificStudent">
+        <user_id>student_IT22_R227_21_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R227_21</context_id>
+        <context_title>studtitle_IT22_R227_21</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+        <course_type>ls</course_type>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.LSAssignmentGradesNotReleased" index="21_2" method="questionBankAssignedToSpecificStudent">
+        <user_id>student_IT22_R227_21_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R227_21</context_id>
+        <context_title>studtitle_IT22_R227_21</context_title>
+        <familyname>family2</familyname>
+        <givenname>givenname2</givenname>
+        <course_type>ls</course_type>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.LSAssignmentGradesNotReleased" index="21_3" method="questionBankAssignedToSpecificStudent">
+        <user_id>student_IT22_R227_21_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R227_21</context_id>
+        <context_title>studtitle_IT22_R227_21</context_title>
+        <familyname>family3</familyname>
+        <givenname>givenname3</givenname>
+        <course_type>ls</course_type>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="53" method="">
+        <user_id>instructor_IT22_R227_53</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R227_53</context_id>
+        <context_title>studtitle_R227_53</context_title>
+        <assessmentname>FileBasedAssessment_R227_53</assessmentname>
+        <promptdetails>promptdetails</promptdetails>
+        <shareWithInitialString>studtitle_R227_53</shareWithInitialString>
+        <shareName>studtitle_R227_53</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>true</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <fileUpload>true</fileUpload>
+        <filename>img.png</filename>
+        <questionBank>true</questionBank>
+        <totalpoints>2</totalpoints>
+        <course>Biology</course>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="53_1" method="">
+        <user_id>student_IT22_R227_53_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_53</context_id>
+        <context_title>studtitle_R227_53</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="53_2" method="">
+        <user_id>student_IT22_R227_53_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_53</context_id>
+        <context_title>studtitle_R227_53</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="53_3" method="">
+        <user_id>student_IT22_R227_53_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_53</context_id>
+        <context_title>studtitle_R227_53</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="59" method="">
+        <user_id>instructor_IT22_R227_59</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R227_59</context_id>
+        <context_title>studtitle_R227_59</context_title>
+        <assessmentname>FileBasedAssessment_R227_59</assessmentname>
+        <promptdetails>promptdetails</promptdetails>
+        <shareWithInitialString>family1</shareWithInitialString>
+        <shareName>givenname1 family1</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradable>true</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <fileUpload>true</fileUpload>
+        <filename>img.png</filename>
+        <questionBank>true</questionBank>
+        <totalpoints>2</totalpoints>
+        <course>Biology</course>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="59_1" method="">
+        <user_id>student_IT22_R227_59_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_59</context_id>
+        <context_title>studtitle_R227_59</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="59_2" method="">
+        <user_id>student_IT22_R227_59_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_59</context_id>
+        <context_title>studtitle_R227_59</context_title>
+        <familyname>family2</familyname>
+        <givenname>givenname2</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="59_3" method="">
+        <user_id>student_IT22_R227_59_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_59</context_id>
+        <context_title>studtitle_R227_59</context_title>
+        <familyname>family3</familyname>
+        <givenname>givenname3</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="67" method="" >
+        <user_id>instructor_IT22_R227_67</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R227_67</context_id>
+        <context_title>studtitle_R227_67</context_title>
+        <searchquestion>true</searchquestion>
+        <noOfQuestions>1</noOfQuestions>
+        <customassignmentname>New Name</customassignmentname>
+        <shareWithInitialString>studtitle_R227_67</shareWithInitialString>
+        <shareName>studtitle_R227_67</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <studentname>givenname family</studentname>
+        <additionalnote>This is an additional note</additionalnote>
+        <course>Biology</course>
+    <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="67_1" method="">
+        <user_id>student_IT22_R227_67_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_67</context_id>
+        <context_title>studtitle_R227_67</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="67_2" method="">
+        <user_id>student_IT22_R227_67_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_67</context_id>
+        <context_title>studtitle_R227_67</context_title>
+        <familyname>family2</familyname>
+        <givenname>givenname2</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="67_3" method="">
+        <user_id>student_IT22_R227_67_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_67</context_id>
+        <context_title>studtitle_R227_67</context_title>
+        <familyname>family3</familyname>
+        <givenname>givenname3</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="73" method="" >
+        <user_id>instructor_IT22_R227_73</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R227_73</context_id>
+        <context_title>studtitle_R227_73</context_title>
+        <searchquestion>true</searchquestion>
+        <noOfQuestions>1</noOfQuestions>
+        <customassignmentname>New Name</customassignmentname>
+        <shareWithInitialString>family1</shareWithInitialString>
+        <shareName>givenname1 family1</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <course>Biology</course>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="73_1" method="">
+        <user_id>student_IT22_R227_73_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_73</context_id>
+        <context_title>studtitle_R227_73</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="73_2" method="">
+        <user_id>student_IT22_R227_73_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_73</context_id>
+        <context_title>studtitle_R227_73</context_title>
+        <familyname>family2</familyname>
+        <givenname>givenname2</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="73_3" method="">
+        <user_id>student_IT22_R227_73_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_73</context_id>
+        <context_title>studtitle_R227_73</context_title>
+        <familyname>family3</familyname>
+        <givenname>givenname3</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="80" method="" >
+        <user_id>instructor_IT22_R227_80</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R227_80</context_id>
+        <context_title>studtitle_R227_80</context_title>
+        <searchquestion>true</searchquestion>
+        <noOfQuestions>1</noOfQuestions>
+        <customassignmentname>New Name</customassignmentname>
+        <shareWithInitialString>studtitle_R227_80</shareWithInitialString>
+        <shareName>studtitle_R227_80</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>true</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <totalpoints>2</totalpoints>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <course>Biology</course>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="80_1" method="">
+        <user_id>student_IT22_R227_80_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_80</context_id>
+        <context_title>studtitle_R227_80</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="80_2" method="">
+        <user_id>student_IT22_R227_80_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_80</context_id>
+        <context_title>studtitle_R227_80</context_title>
+        <familyname>family2</familyname>
+        <givenname>givenname2</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="80_3" method="">
+        <user_id>student_IT22_R227_80_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_80</context_id>
+        <context_title>studtitle_R227_80</context_title>
+        <familyname>family3</familyname>
+        <givenname>givenname3</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="86" method="" >
+        <user_id>instructor_IT22_R227_86</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R227_86</context_id>
+        <context_title>studtitle_R227_86</context_title>
+        <searchquestion>true</searchquestion>
+        <noOfQuestions>1</noOfQuestions>
+        <customassignmentname>New Name</customassignmentname>
+        <shareWithInitialString>family1</shareWithInitialString>
+        <shareName>givenname1 family1</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradable>true</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <totalpoints>2</totalpoints>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <course>Biology</course>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="86_1" method="">
+        <user_id>student_IT22_R227_86_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_86</context_id>
+        <context_title>studtitle_R227_86</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="86_2" method="">
+        <user_id>student_IT22_R227_86_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_86</context_id>
+        <context_title>studtitle_R227_86</context_title>
+        <familyname>family2</familyname>
+        <givenname>givenname2</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="86_3" method="">
+        <user_id>student_IT22_R227_86_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_86</context_id>
+        <context_title>studtitle_R227_86</context_title>
+        <familyname>family3</familyname>
+        <givenname>givenname3</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="531" method="">
+        <user_id>mentor_IT22_R227_531</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontext_R227_531</context_id>
+        <context_title>studtitle_R227_531</context_title>
+        <assessmentname>FileBasedAssessment_R227_531</assessmentname>
+        <promptdetails>promptdetails</promptdetails>
+        <shareWithInitialString>studtitle_R227_531</shareWithInitialString>
+        <shareName>studtitle_R227_531</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>true</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <fileUpload>true</fileUpload>
+        <filename>img.png</filename>
+        <questionBank>true</questionBank>
+        <totalpoints>2</totalpoints>
+        <course>Biology</course>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="531_1" method="">
+        <user_id>student_IT22_R227_531_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_531</context_id>
+        <context_title>studtitle_R227_531</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="531_2" method="">
+        <user_id>student_IT22_R227_531_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_531</context_id>
+        <context_title>studtitle_R227_531</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="531_3" method="">
+        <user_id>student_IT22_R227_531_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_531</context_id>
+        <context_title>studtitle_R227_531</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="591" method="">
+        <user_id>mentor_IT22_R227_591</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontext_R227_591</context_id>
+        <context_title>studtitle_R227_591</context_title>
+        <assessmentname>FileBasedAssessment_R227_591</assessmentname>
+        <promptdetails>promptdetails</promptdetails>
+        <shareWithInitialString>family1</shareWithInitialString>
+        <shareName>givenname1 family1</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradable>true</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <fileUpload>true</fileUpload>
+        <filename>img.png</filename>
+        <questionBank>true</questionBank>
+        <totalpoints>2</totalpoints>
+        <course>Biology</course>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="591_1" method="">
+        <user_id>student_IT22_R227_591_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_591</context_id>
+        <context_title>studtitle_R227_591</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="591_2" method="">
+        <user_id>student_IT22_R227_591_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_591</context_id>
+        <context_title>studtitle_R227_591</context_title>
+        <familyname>family2</familyname>
+        <givenname>givenname2</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="591_3" method="">
+        <user_id>student_IT22_R227_591_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_591</context_id>
+        <context_title>studtitle_R227_591</context_title>
+        <familyname>family3</familyname>
+        <givenname>givenname3</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="671" method="" >
+        <user_id>mentor_IT22_R227_671</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontext_R227_671</context_id>
+        <context_title>studtitle_R227_671</context_title>
+        <searchquestion>true</searchquestion>
+        <noOfQuestions>1</noOfQuestions>
+        <customassignmentname>New Name</customassignmentname>
+        <shareWithInitialString>studtitle_R227_671</shareWithInitialString>
+        <shareName>studtitle_R227_671</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <course>Biology</course>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="671_1" method="">
+        <user_id>student_IT22_R227_671_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_671</context_id>
+        <context_title>studtitle_R227_671</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="671_2" method="">
+        <user_id>student_IT22_R227_671_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_671</context_id>
+        <context_title>studtitle_R227_671</context_title>
+        <familyname>family2</familyname>
+        <givenname>givenname2</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="671_3" method="">
+        <user_id>student_IT22_R227_671_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_671</context_id>
+        <context_title>studtitle_R227_671</context_title>
+        <familyname>family3</familyname>
+        <givenname>givenname3</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="731" method="" >
+        <user_id>mentor_IT22_R227_731</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontext_R227_731</context_id>
+        <context_title>studtitle_R227_731</context_title>
+        <searchquestion>true</searchquestion>
+        <noOfQuestions>1</noOfQuestions>
+        <customassignmentname>New Name</customassignmentname>
+        <shareWithInitialString>family1</shareWithInitialString>
+        <shareName>givenname1 family1</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <course>Biology</course>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="731_1" method="">
+        <user_id>student_IT22_R227_731_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_731</context_id>
+        <context_title>studtitle_R227_731</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="731_2" method="">
+        <user_id>student_IT22_R227_731_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_731</context_id>
+        <context_title>studtitle_R227_731</context_title>
+        <familyname>family2</familyname>
+        <givenname>givenname2</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="731_3" method="">
+        <user_id>student_IT22_R227_731_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_731</context_id>
+        <context_title>studtitle_R227_731</context_title>
+        <familyname>family3</familyname>
+        <givenname>givenname3</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="801" method="" >
+        <user_id>mentor_IT22_R227_801</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontext_R227_801</context_id>
+        <context_title>studtitle_R227_801</context_title>
+        <searchquestion>true</searchquestion>
+        <noOfQuestions>1</noOfQuestions>
+        <customassignmentname>New Name</customassignmentname>
+        <shareWithInitialString>studtitle_R227_801</shareWithInitialString>
+        <shareName>studtitle_R227_801</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>true</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <totalpoints>2</totalpoints>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <course>Biology</course>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="801_1" method="">
+        <user_id>student_IT22_R227_801_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_801</context_id>
+        <context_title>studtitle_R227_801</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="801_2" method="">
+        <user_id>student_IT22_R227_801_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_801</context_id>
+        <context_title>studtitle_R227_801</context_title>
+        <familyname>family2</familyname>
+        <givenname>givenname2</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="801_3" method="">
+        <user_id>student_IT22_R227_801_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_801</context_id>
+        <context_title>studtitle_R227_801</context_title>
+        <familyname>family3</familyname>
+        <givenname>givenname3</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="861" method="" >
+        <user_id>mentor_IT22_R227_861</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontext_R227_861</context_id>
+        <context_title>studtitle_R227_861</context_title>
+        <searchquestion>true</searchquestion>
+        <noOfQuestions>1</noOfQuestions>
+        <customassignmentname>New Name</customassignmentname>
+        <shareWithInitialString>family1</shareWithInitialString>
+        <shareName>givenname1 family1</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradable>true</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <totalpoints>2</totalpoints>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <course>Biology</course>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="861_1" method="">
+        <user_id>student_IT22_R227_861_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_861</context_id>
+        <context_title>studtitle_R227_861</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="861_2" method="">
+        <user_id>student_IT22_R227_861_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_861</context_id>
+        <context_title>studtitle_R227_861</context_title>
+        <familyname>family2</familyname>
+        <givenname>givenname2</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="861_3" method="">
+        <user_id>student_IT22_R227_861_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_861</context_id>
+        <context_title>studtitle_R227_861</context_title>
+        <familyname>family3</familyname>
+        <givenname>givenname3</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="132" method="">
+        <user_id>instructor_IT22_R227_132</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R227_132</context_id>
+        <context_title>studtitle_R227_132</context_title>
+        <assessmentname>FileBasedAssessment_R227_132</assessmentname>
+        <promptdetails>promptdetails</promptdetails>
+        <shareWithInitialString>studtitle_R227_132</shareWithInitialString>
+        <shareName>studtitle_R227_132</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>true</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <fileUpload>true</fileUpload>
+        <filename>img.png</filename>
+        <questionBank>true</questionBank>
+        <totalpoints>2</totalpoints>
+        <course_type>ls</course_type>
+        <course>Geography: Realms, Regions, and Concepts - Sixteenth Edition</course>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="132_1" method="">
+        <user_id>student_IT22_R227_132_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_132</context_id>
+        <context_title>studtitle_R227_132</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="132_2" method="">
+        <user_id>student_IT22_R227_132_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_132</context_id>
+        <context_title>studtitle_R227_132</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="132_3" method="">
+        <user_id>student_IT22_R227_132_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_132</context_id>
+        <context_title>studtitle_R227_132</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="138" method="">
+        <user_id>instructor_IT22_R227_138</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R227_138</context_id>
+        <context_title>studtitle_R227_138</context_title>
+        <assessmentname>FileBasedAssessment_R227_138</assessmentname>
+        <promptdetails>promptdetails</promptdetails>
+        <shareWithInitialString>family1</shareWithInitialString>
+        <shareName>givenname1 family1</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradable>true</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <fileUpload>true</fileUpload>
+        <filename>img.png</filename>
+        <questionBank>true</questionBank>
+        <totalpoints>2</totalpoints>
+        <course_type>ls</course_type>
+        <course>Geography: Realms, Regions, and Concepts - Sixteenth Edition</course>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="138_1" method="">
+        <user_id>student_IT22_R227_138_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_138</context_id>
+        <context_title>studtitle_R227_138</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="138_2" method="">
+        <user_id>student_IT22_R227_138_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_138</context_id>
+        <context_title>studtitle_R227_138</context_title>
+        <familyname>family2</familyname>
+        <givenname>givenname2</givenname>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="138_3" method="">
+        <user_id>student_IT22_R227_138_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_138</context_id>
+        <context_title>studtitle_R227_138</context_title>
+        <familyname>family3</familyname>
+        <givenname>givenname3</givenname>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="146" method="" >
+        <user_id>instructor_IT22_R227_146</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R227_146</context_id>
+        <context_title>studtitle_R227_146</context_title>
+        <searchquestion>true</searchquestion>
+        <noOfQuestions>1</noOfQuestions>
+        <customassignmentname>New Name</customassignmentname>
+        <shareWithInitialString>studtitle_R227_146</shareWithInitialString>
+        <shareName>studtitle_R227_146</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>true</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <totalpoints>2</totalpoints>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <course_type>ls</course_type>
+        <course>Geography: Realms, Regions, and Concepts - Sixteenth Edition</course>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="146_1" method="">
+        <user_id>student_IT22_R227_146_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_146</context_id>
+        <context_title>studtitle_R227_146</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="146_2" method="">
+        <user_id>student_IT22_R227_146_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_146</context_id>
+        <context_title>studtitle_R227_146</context_title>
+        <familyname>family2</familyname>
+        <givenname>givenname2</givenname>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="146_3" method="">
+        <user_id>student_IT22_R227_146_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_146</context_id>
+        <context_title>studtitle_R227_146</context_title>
+        <familyname>family3</familyname>
+        <givenname>givenname3</givenname>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="152" method="" >
+        <user_id>instructor_IT22_R227_152</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R227_152</context_id>
+        <context_title>studtitle_R227_152</context_title>
+        <searchquestion>true</searchquestion>
+        <noOfQuestions>1</noOfQuestions>
+        <customassignmentname>New Name</customassignmentname>
+        <shareWithInitialString>family1</shareWithInitialString>
+        <shareName>givenname1 family1</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradable>true</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <totalpoints>2</totalpoints>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <course_type>ls</course_type>
+        <course>Geography: Realms, Regions, and Concepts - Sixteenth Edition</course>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="152_1" method="">
+        <user_id>student_IT22_R227_152_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_152</context_id>
+        <context_title>studtitle_R227_152</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="152_2" method="">
+        <user_id>student_IT22_R227_152_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_152</context_id>
+        <context_title>studtitle_R227_152</context_title>
+        <familyname>family2</familyname>
+        <givenname>givenname2</givenname>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="152_3" method="">
+        <user_id>student_IT22_R227_152_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_152</context_id>
+        <context_title>studtitle_R227_152</context_title>
+        <familyname>family3</familyname>
+        <givenname>givenname3</givenname>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="159" method="" >
+        <user_id>instructor_IT22_R227_159</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R227_159</context_id>
+        <context_title>studtitle_R227_159</context_title>
+        <searchquestion>true</searchquestion>
+        <noOfQuestions>1</noOfQuestions>
+        <customassignmentname>New Name</customassignmentname>
+        <shareWithInitialString>studtitle_R227_159</shareWithInitialString>
+        <shareName>studtitle_R227_159</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <studentname>givenname family</studentname>
+        <additionalnote>This is an additional note</additionalnote>
+        <course_type>ls</course_type>
+        <course>Geography: Realms, Regions, and Concepts - Sixteenth Edition</course>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="159_1" method="">
+        <user_id>student_IT22_R227_159_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_159</context_id>
+        <context_title>studtitle_R227_159</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="159_2" method="">
+        <user_id>student_IT22_R227_159_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_159</context_id>
+        <context_title>studtitle_R227_159</context_title>
+        <familyname>family2</familyname>
+        <givenname>givenname2</givenname>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="159_3" method="">
+        <user_id>student_IT22_R227_159_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_159</context_id>
+        <context_title>studtitle_R227_159</context_title>
+        <familyname>family3</familyname>
+        <givenname>givenname3</givenname>
+        <course_type>ls</course_type>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.AssignmentGradesNotReleased" index="13" method="adaptivePracticeAssignedToSpecificStudent">
+        <course>Biology</course>
+        <user_id>instructor_IT22_R227_13</user_id>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="165" method="" >
+        <user_id>instructor_IT22_R227_165</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R227_165</context_id>
+        <context_title>studtitle_R227_165</context_title>
+        <searchquestion>true</searchquestion>
+        <noOfQuestions>1</noOfQuestions>
+        <customassignmentname>New Name</customassignmentname>
+        <shareWithInitialString>family1</shareWithInitialString>
+        <shareName>givenname1 family1</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <course_type>ls</course_type>
+        <course>Geography: Realms, Regions, and Concepts - Sixteenth Edition</course>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="165_1" method="">
+        <user_id>student_IT22_R227_165_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_165</context_id>
+        <context_title>studtitle_R227_165</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="165_2" method="">
+        <user_id>student_IT22_R227_165_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_165</context_id>
+        <context_title>studtitle_R227_165</context_title>
+        <familyname>family2</familyname>
+        <givenname>givenname2</givenname>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="165_3" method="">
+        <user_id>student_IT22_R227_165_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_165</context_id>
+        <context_title>studtitle_R227_165</context_title>
+        <familyname>family3</familyname>
+        <givenname>givenname3</givenname>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="1321" method="">
+        <user_id>mentor_IT22_R227_1321</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontext_R227_1321</context_id>
+        <context_title>studtitle_R227_1321</context_title>
+        <assessmentname>FileBasedAssessment_R227_1321</assessmentname>
+        <promptdetails>promptdetails</promptdetails>
+        <shareWithInitialString>studtitle_R227_1321</shareWithInitialString>
+        <shareName>studtitle_R227_1321</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>true</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <fileUpload>true</fileUpload>
+        <filename>img.png</filename>
+        <questionBank>true</questionBank>
+        <totalpoints>2</totalpoints>
+        <course_type>ls</course_type>
+        <course>Geography: Realms, Regions, and Concepts - Sixteenth Edition</course>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="1321_1" method="">
+        <user_id>student_IT22_R227_1321_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_1321</context_id>
+        <context_title>studtitle_R227_1321</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="1321_2" method="">
+        <user_id>student_IT22_R227_1321_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_1321</context_id>
+        <context_title>studtitle_R227_1321</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="1321_3" method="">
+        <user_id>student_IT22_R227_1321_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_1321</context_id>
+        <context_title>studtitle_R227_1321</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="1381" method="">
+        <user_id>mentor_IT22_R227_1381</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontext_R227_1381</context_id>
+        <context_title>studtitle_R227_1381</context_title>
+        <assessmentname>FileBasedAssessment_R227_1381</assessmentname>
+        <promptdetails>promptdetails</promptdetails>
+        <shareWithInitialString>family1</shareWithInitialString>
+        <shareName>givenname1 family1</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradable>true</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <fileUpload>true</fileUpload>
+        <filename>img.png</filename>
+        <questionBank>true</questionBank>
+        <totalpoints>2</totalpoints>
+        <course_type>ls</course_type>
+        <course>Geography: Realms, Regions, and Concepts - Sixteenth Edition</course>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="1381_1" method="">
+        <user_id>student_IT22_R227_1381_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_1381</context_id>
+        <context_title>studtitle_R227_1381</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="1381_2" method="">
+        <user_id>student_IT22_R227_1381_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_1381</context_id>
+        <context_title>studtitle_R227_1381</context_title>
+        <familyname>family2</familyname>
+        <givenname>givenname2</givenname>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="1381_3" method="">
+        <user_id>student_IT22_R227_1381_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_1381</context_id>
+        <context_title>studtitle_R227_1381</context_title>
+        <familyname>family3</familyname>
+        <givenname>givenname3</givenname>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="1461" method="" >
+        <user_id>mentor_IT22_R227_1461</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontext_R227_1461</context_id>
+        <context_title>studtitle_R227_1461</context_title>
+        <searchquestion>true</searchquestion>
+        <noOfQuestions>1</noOfQuestions>
+        <customassignmentname>New Name</customassignmentname>
+        <shareWithInitialString>studtitle_R227_1461</shareWithInitialString>
+        <shareName>studtitle_R227_1461</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>true</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <totalpoints>2</totalpoints>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <course_type>ls</course_type>
+        <course>Geography: Realms, Regions, and Concepts - Sixteenth Edition</course>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="1461_1" method="">
+        <user_id>student_IT22_R227_1461_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_1461</context_id>
+        <context_title>studtitle_R227_1461</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="1461_2" method="">
+        <user_id>student_IT22_R227_1461_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_1461</context_id>
+        <context_title>studtitle_R227_1461</context_title>
+        <familyname>family2</familyname>
+        <givenname>givenname2</givenname>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="1461_3" method="">
+        <user_id>student_IT22_R227_1461_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_1461</context_id>
+        <context_title>studtitle_R227_1461</context_title>
+        <familyname>family3</familyname>
+        <givenname>givenname3</givenname>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="1521" method="" >
+        <user_id>mentor_IT22_R227_1521</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontext_R227_1521</context_id>
+        <context_title>studtitle_R227_1521</context_title>
+        <searchquestion>true</searchquestion>
+        <noOfQuestions>1</noOfQuestions>
+        <customassignmentname>New Name</customassignmentname>
+        <shareWithInitialString>family1</shareWithInitialString>
+        <shareName>givenname1 family1</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradable>true</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <totalpoints>2</totalpoints>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <course_type>ls</course_type>
+        <course>Geography: Realms, Regions, and Concepts - Sixteenth Edition</course>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="1521_1" method="">
+        <user_id>student_IT22_R227_1521_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_1521</context_id>
+        <context_title>studtitle_R227_1521</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="1521_2" method="">
+        <user_id>student_IT22_R227_1521_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_1521</context_id>
+        <context_title>studtitle_R227_1521</context_title>
+        <familyname>family2</familyname>
+        <givenname>givenname2</givenname>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="1521_3" method="">
+        <user_id>student_IT22_R227_1521_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_1521</context_id>
+        <context_title>studtitle_R227_1521</context_title>
+        <familyname>family3</familyname>
+        <givenname>givenname3</givenname>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="1591" method="" >
+        <user_id>mentor_IT22_R227_1591</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontext_R227_1591</context_id>
+        <context_title>studtitle_R227_1591</context_title>
+        <searchquestion>true</searchquestion>
+        <noOfQuestions>1</noOfQuestions>
+        <customassignmentname>New Name</customassignmentname>
+        <shareWithInitialString>studtitle_R227_1591</shareWithInitialString>
+        <shareName>studtitle_R227_1591</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <studentname>givenname family</studentname>
+        <additionalnote>This is an additional note</additionalnote>
+        <course_type>ls</course_type>
+        <course>Geography: Realms, Regions, and Concepts - Sixteenth Edition</course>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="1591_1" method="">
+        <user_id>student_IT22_R227_1591_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_1591</context_id>
+        <context_title>studtitle_R227_1591</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+        <course_type>ls</course_type>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="1591_2" method="">
+        <user_id>student_IT22_R227_1591_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_1591</context_id>
+        <context_title>studtitle_R227_1591</context_title>
+        <familyname>family2</familyname>
+        <givenname>givenname2</givenname>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="1591_3" method="">
+        <user_id>student_IT22_R227_1591_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_1591</context_id>
+        <context_title>studtitle_R227_1591</context_title>
+        <familyname>family3</familyname>
+        <givenname>givenname3</givenname>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="1651" method="" >
+        <user_id>mentor_IT22_R227_1651</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontext_R227_1651</context_id>
+        <context_title>studtitle_R227_1651</context_title>
+        <searchquestion>true</searchquestion>
+        <noOfQuestions>1</noOfQuestions>
+        <customassignmentname>New Name</customassignmentname>
+        <shareWithInitialString>family1</shareWithInitialString>
+        <shareName>givenname1 family1</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <course_type>ls</course_type>
+        <course>Geography: Realms, Regions, and Concepts - Sixteenth Edition</course>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="1651_1" method="">
+        <user_id>student_IT22_R227_1651_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_1651</context_id>
+        <context_title>studtitle_R227_1651</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="1651_2" method="">
+        <user_id>student_IT22_R227_1651_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_1651</context_id>
+        <context_title>studtitle_R227_1651</context_title>
+        <familyname>family2</familyname>
+        <givenname>givenname2</givenname>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive" index="1651_3" method="">
+    <user_id>student_IT22_R227_1651_3</user_id>
+    <Role>student</Role>
+    <context_id>studcontext_R227_1651</context_id>
+    <context_title>studtitle_R227_1651</context_title>
+    <familyname>family3</familyname>
+    <givenname>givenname3</givenname>
+    <course_type>ls</course_type>
+    </testcase>
+</learningspaces>

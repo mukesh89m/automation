@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+    <listeners>
+        <listener class-name="com.snapwiz.selenium.tests.staf.orion.CustomListener" />
+    </listeners>
+  <test name="Orion">
+    <classes>      
+    	<class name="com.snapwiz.selenium.tests.staf.orion.testcases.ProficiencyVariationWithConfidence"/>
+      	<class name="com.snapwiz.selenium.tests.staf.orion.testcases.ProficencyVariationWithConfidenceLevelAndHint"/> 
+      	<class name="com.snapwiz.selenium.tests.staf.orion.testcases.AddedNotesIsContinueEvenAfterSectionChange"/> 
+		<class name="com.snapwiz.selenium.tests.staf.orion.testcases.Unless50QuestionPerformancebarNotApper"/> 
+		<class name="com.snapwiz.selenium.tests.staf.orion.testcases.ProficencyVariationWithConfidenceLevelAndHint"/> 		
+		<class name="com.snapwiz.selenium.tests.staf.orion.testcases.ProficienciesModerateVariation"/> 
+		<class name="com.snapwiz.selenium.tests.staf.orion.testcases.ProficienciesModeratevariationWithConfidenceAndHint"/>
+		<class name="com.snapwiz.selenium.tests.staf.orion.testcases.ProficienciesModrateVariationWithConfidence"/>
+		<class name="com.snapwiz.selenium.tests.staf.orion.testcases.ProficienciesVariationWithHighExistingProf"/>
+		<class name="com.snapwiz.selenium.tests.staf.orion.testcases.ProficienciesVariationWithHighExistingProfUsingHints"/>
+		<class name="com.snapwiz.selenium.tests.staf.orion.testcases.ProficienciesVariationWithHighExistingProfWithConfidenceLevel"/>
+		<class name="com.snapwiz.selenium.tests.staf.orion.testcases.ProficienciesVariationWithHighExistingProfWithConfidenceLevelAndHints"/>
+		<class name="com.snapwiz.selenium.tests.staf.orion.testcases.ProficiencyVariationWithConfidence"/>
+		<class name="com.snapwiz.selenium.tests.staf.orion.testcases.ProficiencyVariationWithHints"/>
+		<class name="com.snapwiz.selenium.tests.staf.orion.testcases.StudentGetNotificationWhenQuitDiagonesticTest"/>
+		<class name="com.snapwiz.selenium.tests.staf.orion.testcases.StudentAbleToAccessVariousReport"/>
+		<class name="com.snapwiz.selenium.tests.staf.orion.testcases.AddedNotesIsContinueEvenAfterSectionChange"/>
+		<class name="com.snapwiz.selenium.tests.staf.orion.testcases.AvailabiltyOfHintsButtonOnQuestionPreviewScreen"/>
+		<class name="com.snapwiz.selenium.tests.staf.orion.testcases.DashBoardOfStudent"/>
+		<class name="com.snapwiz.selenium.tests.staf.orion.testcases.InstructorDashBorad"/>
+		<class name="com.snapwiz.selenium.tests.staf.orion.testcases.InstructorProfile"/>
+		<class name="com.snapwiz.selenium.tests.staf.orion.testcases.InstructorShowSpecificStudentPerformance"/>
+		<class name="com.snapwiz.selenium.tests.staf.orion.testcases.InstructorSeeAllDiscussionAndReplytoDiscussion"/>
+		<class name="com.snapwiz.selenium.tests.staf.orion.testcases.InstructorShowPerformanceReport"/>
+		<class name="com.snapwiz.selenium.tests.staf.orion.testcases.InstructorShowMostChallengingLearningObjective"/>
+		<class name="com.snapwiz.selenium.tests.staf.orion.testcases.InstructorShowMostChallengingChapter"/>
+		<class name="com.snapwiz.selenium.tests.staf.orion.testcases.InstructorSeeDiscussionItemHighlighted"/>
+		<class name="com.snapwiz.selenium.tests.staf.orion.testcases.NotificationWhenStudentNotSelectConfidenceLevel"/>
+		<class name="com.snapwiz.selenium.tests.staf.orion.testcases.StudentAbleToDiscussOnQuestion"/>
+		<class name="com.snapwiz.selenium.tests.staf.orion.testcases.AddedNotesNotViewToAnotherStudent"/>
+		<class name="com.snapwiz.selenium.tests.staf.orion.testcases.HandleMultipleRoleForUsers"/>
+		<class name="com.snapwiz.selenium.tests.staf.orion.testcases.StudentAbleToAddNotesWhileGoingThroughQuestion"/>
+		<class name="com.snapwiz.selenium.tests.staf.orion.testcases.InstructorAbleTODeasableEnableForAnyDiscussion"/>
+		<class name="com.snapwiz.selenium.tests.staf.orion.testcases.DeactiveButtonIsPresentForPublishedQuestion"/>
+		<class name="com.snapwiz.selenium.tests.staf.orion.testcases.InstructorDashboardNotAffectedAfterSectionChangedByStudent"/>
+		<class name="com.snapwiz.selenium.tests.staf.orion.testcases.DiscussionStartedAndRepliedShowUpInMyActivityPage"/>
+		<class name="com.snapwiz.selenium.tests.staf.orion.testcases.CoursePerformanceAlongWithQuestionCardInPerformancepage"/>
+		<class name="com.snapwiz.selenium.tests.staf.orion.testcases.DaigonsticTestisContinueWithDiffrentSection"/>
+		<class name="com.snapwiz.selenium.tests.staf.orion.testcases.AuthorAbleToPublishAllQuestions"/>
+		<class name="com.snapwiz.selenium.tests.staf.orion.testcases.CMSSearchScreenEnhancements"/> 
+		<class name="com.snapwiz.selenium.tests.staf.orion.testcases.SearchQuestionBasedOnText"/> 
+		<class name="com.snapwiz.selenium.tests.staf.orion.testcases.MentorShowSpecificStudentPerformance"/> 
+		<class name="com.snapwiz.selenium.tests.staf.orion.testcases.MentorSeeAllDiscussionAndReplytoDiscussion"/> 
+		<class name="com.snapwiz.selenium.tests.staf.orion.testcases.MentorShowPerformanceReport"/> 
+		<class name="com.snapwiz.selenium.tests.staf.orion.testcases.MentorShowMostChallengingLearningObjective"/> 
+		<class name="com.snapwiz.selenium.tests.staf.orion.testcases.MentorSeeDiscussionItemHighlighted"/> 		
+	</classes>
+  </test> <!-- Test -->
+ </suite> <!-- Suite -->

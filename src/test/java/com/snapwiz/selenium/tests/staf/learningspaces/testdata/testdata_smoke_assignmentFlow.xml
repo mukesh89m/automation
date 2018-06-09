@@ -1,0 +1,1114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.assignmentFlow.AssignmentFlow" index="15" method="">
+        <user_id>instructor_smoke_assignmentFlow_15</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_assignmentFlow_15</context_id>
+        <context_title>studtitle_smoke_assignmentFlow_15</context_title>
+
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>assessment_smoke_assignmentFlow_15</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set_15</questionset>
+        <questiontext>Test Question Text_15</questiontext>
+        <learningobjective>true</learningobjective>
+        <useWriteBoard>true</useWriteBoard>
+        <shareWithInitialString>studtitle_smoke_assignmentFlow_15</shareWithInitialString>
+        <shareName>studtitle_smoke_assignmentFlow_15</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>policy_15</assignmentpolicyname>
+        <assignmentpolicy>policy_15</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <grade>0.1</grade>
+
+        <extensionAfterDueDate>disable</extensionAfterDueDate>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.assignmentFlow.AssignmentFlow" index="15_1" method="">
+        <user_id>student_smoke_assignmentFlow_15_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignmentFlow_15</context_id>
+        <context_title>studtitle_smoke_assignmentFlow_15</context_title>
+
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>assessment_smoke_assignmentFlow_15</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.assignmentFlow.AssignmentFlow" index="15_2" method="">
+        <user_id>student_smoke_assignmentFlow_15_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignmentFlow_15</context_id>
+        <context_title>studtitle_smoke_assignmentFlow_15</context_title>
+
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>assessment_smoke_assignmentFlow_15</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.assignmentFlow.AssignmentFlow" index="15_3" method="">
+        <user_id>student_smoke_assignmentFlow_15_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignmentFlow_15</context_id>
+        <context_title>studtitle_smoke_assignmentFlow_15</context_title>
+        <givenname>Das</givenname>
+
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>assessment_smoke_assignmentFlow_15</assessmentname>
+    </testcase>
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.assignmentFlow.AssignmentFlow" index="16" method="">
+        <user_id>instructor_smoke_assignmentFlow_16</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_assignmentFlow_16</context_id>
+        <context_title>studtitle_smoke_assignmentFlow_16</context_title>
+
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>assessment_smoke_assignmentFlow_16</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set_16</questionset>
+        <questiontext>Test Question Text_16</questiontext>
+        <learningobjective>true</learningobjective>
+        <useWriteBoard>true</useWriteBoard>
+        <shareWithInitialString>studtitle_smoke_assignmentFlow_16</shareWithInitialString>
+        <shareName>studtitle_smoke_assignmentFlow_16</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>1</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>policy_16</assignmentpolicyname>
+        <assignmentpolicy>policy_16</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <grade>0.1</grade>
+
+        <extensionAfterDueDate>disable</extensionAfterDueDate>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.assignmentFlow.AssignmentFlow" index="16_1" method="">
+        <user_id>student_smoke_assignmentFlow_16_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignmentFlow_16</context_id>
+        <context_title>studtitle_smoke_assignmentFlow_16</context_title>
+
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>assessment_smoke_assignmentFlow_16</assessmentname>
+    </testcase>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.assignmentFlow.AssignmentFlow" index="63" method="">
+        <user_id>instructor_smoke_assignmentFlow_63</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_assignmentFlow_63</context_id>
+        <context_title>studtitle_smoke_assignmentFlow_63</context_title>
+
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>assessment_smoke_assignmentFlow_63</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set_63</questionset>
+        <questiontext>Test Question Text_63</questiontext>
+        <learningobjective>true</learningobjective>
+        <useWriteBoard>true</useWriteBoard>
+<!--
+        <overrideDefaultQuestionCreate>essay</overrideDefaultQuestionCreate>
+-->
+
+        <shareWithInitialString>studtitle_smoke_assignmentFlow_63</shareWithInitialString>
+        <shareName>studtitle_smoke_assignmentFlow_63</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>policy_63</assignmentpolicyname>
+        <assignmentpolicy>policy_63</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <grade>0.1</grade>
+
+        <extensionAfterDueDate>disable</extensionAfterDueDate>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.assignmentFlow.AssignmentFlow" index="63_1" method="">
+        <user_id>student_smoke_assignmentFlow_63_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignmentFlow_63</context_id>
+        <context_title>studtitle_smoke_assignmentFlow_63</context_title>
+
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>assessment_smoke_assignmentFlow_63</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.assignmentFlow.AssignmentFlow" index="63_2" method="">
+        <user_id>student_smoke_assignmentFlow_63_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignmentFlow_63</context_id>
+        <context_title>studtitle_smoke_assignmentFlow_63</context_title>
+
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>assessment_smoke_assignmentFlow_63</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.assignmentFlow.AssignmentFlow" index="63_3" method="">
+        <user_id>student_smoke_assignmentFlow_63_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignmentFlow_63</context_id>
+        <context_title>studtitle_smoke_assignmentFlow_63</context_title>
+        <givenname>Das</givenname>
+
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>assessment_smoke_assignmentFlow_63</assessmentname>
+    </testcase>
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.assignmentFlow.AssignmentFlow" index="64" method="">
+        <user_id>instructor_smoke_assignmentFlow_64</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_assignmentFlow_64</context_id>
+        <context_title>studtitle_smoke_assignmentFlow_64</context_title>
+
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>assessment_smoke_assignmentFlow_64</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set_64</questionset>
+        <questiontext>Test Question Text_64</questiontext>
+        <learningobjective>true</learningobjective>
+        <useWriteBoard>true</useWriteBoard>
+<!--
+        <overrideDefaultQuestionCreate>essay</overrideDefaultQuestionCreate>
+-->
+
+        <shareWithInitialString>studtitle_smoke_assignmentFlow_64</shareWithInitialString>
+        <shareName>studtitle_smoke_assignmentFlow_64</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>1</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>policy_64</assignmentpolicyname>
+        <assignmentpolicy>policy_64</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <grade>0.1</grade>
+        <extensionAfterDueDate>disable</extensionAfterDueDate>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.assignmentFlow.AssignmentFlow" index="64_1" method="">
+        <user_id>student_smoke_assignmentFlow_64_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignmentFlow_64</context_id>
+        <context_title>studtitle_smoke_assignmentFlow_64</context_title>
+
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>assessment_smoke_assignmentFlow_64</assessmentname>
+    </testcase>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.assignmentFlow.AssignmentFlow" index="110" method="">
+        <user_id>instructor_smoke_assignmentFlow_110</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_assignmentFlow_110</context_id>
+        <context_title>studtitle_smoke_assignmentFlow_110</context_title>
+
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>assessment_smoke_assignmentFlow_110</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set_110</questionset>
+        <questiontext>Test Question Text_110</questiontext>
+        <learningobjective>true</learningobjective>
+        <useWriteBoard>true</useWriteBoard>
+        <shareWithInitialString>studtitle_smoke_assignmentFlow_110</shareWithInitialString>
+        <shareName>studtitle_smoke_assignmentFlow_110</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>policy_110</assignmentpolicyname>
+        <assignmentpolicy>policy_110</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <grade>0.1</grade>
+
+<!--
+        <extensionAfterDueDate>disable</extensionAfterDueDate>
+-->
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.assignmentFlow.AssignmentFlow" index="110_1" method="">
+        <user_id>student_smoke_assignmentFlow_110_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignmentFlow_110</context_id>
+        <context_title>studtitle_smoke_assignmentFlow_110</context_title>
+
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>assessment_smoke_assignmentFlow_110</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.assignmentFlow.AssignmentFlow" index="110_2" method="">
+        <user_id>student_smoke_assignmentFlow_110_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignmentFlow_110</context_id>
+        <context_title>studtitle_smoke_assignmentFlow_110</context_title>
+
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>assessment_smoke_assignmentFlow_110</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.assignmentFlow.AssignmentFlow" index="110_3" method="">
+        <user_id>student_smoke_assignmentFlow_110_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignmentFlow_110</context_id>
+        <context_title>studtitle_smoke_assignmentFlow_110</context_title>
+        <givenname>givenName_110_3</givenname>
+
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>assessment_smoke_assignmentFlow_110</assessmentname>
+    </testcase>
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.assignmentFlow.AssignmentFlow" index="111" method="">
+        <user_id>instructor_smoke_assignmentFlow_111</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_assignmentFlow_110</context_id>
+        <context_title>studtitle_smoke_assignmentFlow_110</context_title>
+
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>assessment_smoke_assignmentFlow_111</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set_110</questionset>
+        <questiontext>Test Question Text_110</questiontext>
+        <learningobjective>true</learningobjective>
+        <useWriteBoard>true</useWriteBoard>
+        <shareWithInitialString>studtitle_smoke_assignmentFlow_110</shareWithInitialString>
+        <shareName>studtitle_smoke_assignmentFlow_110</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>2</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>policy_110</assignmentpolicyname>
+        <assignmentpolicy>policy_110</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <grade>0.1</grade>
+
+        <newDueTime>3</newDueTime>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.assignmentFlow.AssignmentFlow" index="111_1" method="">
+        <user_id>student_smoke_assignmentFlow_111_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignmentFlow_110</context_id>
+        <context_title>studtitle_smoke_assignmentFlow_110</context_title>
+        <givenname>givenName_111_1</givenname>
+
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>assessment_smoke_assignmentFlow_111</assessmentname>
+    </testcase>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.assignmentFlow.AssignmentFlow" index="190" method="">
+        <user_id>instructor_smoke_assignmentFlow_190</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_assignmentFlow_190</context_id>
+        <context_title>studtitle_smoke_assignmentFlow_190</context_title>
+
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>assessment_smoke_assignmentFlow_190</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set_190</questionset>
+        <questiontext>Test Question Text_190</questiontext>
+        <learningobjective>true</learningobjective>
+        <useWriteBoard>true</useWriteBoard>
+        <shareWithInitialString>studtitle_smoke_assignmentFlow_190</shareWithInitialString>
+        <shareName>studtitle_smoke_assignmentFlow_190</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>policy_190</assignmentpolicyname>
+        <assignmentpolicy>policy_190</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <grade>0.1</grade>
+
+        <!--
+                <extensionAfterDueDate>disable</extensionAfterDueDate>
+        -->
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.assignmentFlow.AssignmentFlow" index="190_1" method="">
+        <user_id>student_smoke_assignmentFlow_190_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignmentFlow_190</context_id>
+        <context_title>studtitle_smoke_assignmentFlow_190</context_title>
+
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>assessment_smoke_assignmentFlow_190</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.assignmentFlow.AssignmentFlow" index="190_2" method="">
+        <user_id>student_smoke_assignmentFlow_190_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignmentFlow_190</context_id>
+        <context_title>studtitle_smoke_assignmentFlow_190</context_title>
+
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>assessment_smoke_assignmentFlow_190</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.assignmentFlow.AssignmentFlow" index="190_3" method="">
+        <user_id>student_smoke_assignmentFlow_190_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignmentFlow_190</context_id>
+        <context_title>studtitle_smoke_assignmentFlow_190</context_title>
+        <givenname>givenName_190_3</givenname>
+
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>assessment_smoke_assignmentFlow_190</assessmentname>
+    </testcase>
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.assignmentFlow.AssignmentFlow" index="191" method="">
+        <user_id>instructor_smoke_assignmentFlow_191</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_assignmentFlow_190</context_id>
+        <context_title>studtitle_smoke_assignmentFlow_190</context_title>
+
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>assessment_smoke_assignmentFlow_191</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set_190</questionset>
+        <questiontext>Test Question Text_190</questiontext>
+        <learningobjective>true</learningobjective>
+        <useWriteBoard>true</useWriteBoard>
+        <shareWithInitialString>studtitle_smoke_assignmentFlow_190</shareWithInitialString>
+        <shareName>studtitle_smoke_assignmentFlow_190</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>2</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>policy_190</assignmentpolicyname>
+        <assignmentpolicy>policy_190</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <grade>0.1</grade>
+
+        <newDueTime>3</newDueTime>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.assignmentFlow.AssignmentFlow" index="191_1" method="">
+        <user_id>student_smoke_assignmentFlow_191_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignmentFlow_190</context_id>
+        <context_title>studtitle_smoke_assignmentFlow_190</context_title>
+        <givenname>givenName_191_1</givenname>
+
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>assessment_smoke_assignmentFlow_191</assessmentname>
+    </testcase>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.assignmentFlow.AssignmentFlow" index="269" method="">
+        <user_id>instructor_smoke_assignmentFlow_269</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_assignmentFlow_269</context_id>
+        <context_title>studtitle_smoke_assignmentFlow_269</context_title>
+        <assignmentpolicy>20 Policy Name</assignmentpolicy>
+
+        <!--<chapterName>Ch 3: Biological Macromolecules</chapterName>-->
+        <assessmentname>ORION Ch 1: The Study of Life</assessmentname>
+        <!--<questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set_269</questionset>
+        <questiontext>Test Question Text_269</questiontext>
+        <learningobjective>true</learningobjective>-->
+        <useWriteBoard>true</useWriteBoard>
+        <shareWithInitialString>studtitle_smoke_assignmentFlow_269</shareWithInitialString>
+        <shareName>studtitle_smoke_assignmentFlow_269</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>policy_269</assignmentpolicyname>
+        <assignmentpolicy>policy_269</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <grade>0.1</grade>
+
+        <!--
+                <extensionAfterDueDate>disable</extensionAfterDueDate>
+        -->
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.assignmentFlow.AssignmentFlow" index="269_1" method="">
+        <user_id>student_smoke_assignmentFlow_269_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignmentFlow_269</context_id>
+        <context_title>studtitle_smoke_assignmentFlow_269</context_title>
+
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>assessment_smoke_assignmentFlow_269</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.assignmentFlow.AssignmentFlow" index="269_2" method="">
+        <user_id>student_smoke_assignmentFlow_269_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignmentFlow_269</context_id>
+        <context_title>studtitle_smoke_assignmentFlow_269</context_title>
+
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>assessment_smoke_assignmentFlow_269</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.assignmentFlow.AssignmentFlow" index="269_3" method="">
+        <user_id>student_smoke_assignmentFlow_269_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignmentFlow_269</context_id>
+        <context_title>studtitle_smoke_assignmentFlow_269</context_title>
+        <givenname>givenName_269_3</givenname>
+
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>assessment_smoke_assignmentFlow_269</assessmentname>
+    </testcase>
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.assignmentFlow.AssignmentFlow" index="270" method="">
+        <user_id>instructor_smoke_assignmentFlow_270</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_assignmentFlow_269</context_id>
+        <context_title>studtitle_smoke_assignmentFlow_269</context_title>
+
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>assessment_smoke_assignmentFlow_270</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set_269</questionset>
+        <questiontext>Test Question Text_269</questiontext>
+        <learningobjective>true</learningobjective>
+        <useWriteBoard>true</useWriteBoard>
+        <shareWithInitialString>studtitle_smoke_assignmentFlow_269</shareWithInitialString>
+        <shareName>studtitle_smoke_assignmentFlow_269</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>2</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>policy_269</assignmentpolicyname>
+        <assignmentpolicy>policy_269</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <grade>0.1</grade>
+
+        <newDueTime>3</newDueTime>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.assignmentFlow.AssignmentFlow" index="270_1" method="">
+        <user_id>student_smoke_assignmentFlow_270_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignmentFlow_269</context_id>
+        <context_title>studtitle_smoke_assignmentFlow_269</context_title>
+        <givenname>givenName_270_1</givenname>
+
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>assessment_smoke_assignmentFlow_270</assessmentname>
+    </testcase>
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.assignmentFlow.AssignmentFlow" index="327" method="">
+        <user_id>instructor_smoke_assignmentFlow_327</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_assignmentFlow_327</context_id>
+        <context_title>studtitle_smoke_assignmentFlow_327</context_title>
+
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>assessment_smoke_assignmentFlow_327</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set_327</questionset>
+        <questiontext>Test Question Text_327</questiontext>
+        <learningobjective>true</learningobjective>
+        <useWriteBoard>true</useWriteBoard>
+        <shareWithInitialString>studtitle_smoke_assignmentFlow_327</shareWithInitialString>
+        <shareName>studtitle_smoke_assignmentFlow_327</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>policy_327</assignmentpolicyname>
+        <assignmentpolicy>policy_327</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <grade>0.1</grade>
+
+        <extensionAfterDueDate>disable</extensionAfterDueDate>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.assignmentFlow.AssignmentFlow" index="327_1" method="">
+        <user_id>student_smoke_assignmentFlow_327_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignmentFlow_327</context_id>
+        <context_title>studtitle_smoke_assignmentFlow_327</context_title>
+
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>assessment_smoke_assignmentFlow_327</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.assignmentFlow.AssignmentFlow" index="327_2" method="">
+        <user_id>student_smoke_assignmentFlow_327_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignmentFlow_327</context_id>
+        <context_title>studtitle_smoke_assignmentFlow_327</context_title>
+
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>assessment_smoke_assignmentFlow_327</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.assignmentFlow.AssignmentFlow" index="327_3" method="">
+        <user_id>student_smoke_assignmentFlow_327_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignmentFlow_327</context_id>
+        <context_title>studtitle_smoke_assignmentFlow_327</context_title>
+
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>assessment_smoke_assignmentFlow_327</assessmentname>
+        <givenname>Das</givenname>
+
+    </testcase>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.assignmentFlow.AssignmentFlow" index="346" method="">
+        <user_id>instructor_smoke_assignmentFlow_346</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_assignmentFlow_346</context_id>
+        <context_title>studtitle_smoke_assignmentFlow_346</context_title>
+
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>assessment_smoke_assignmentFlow_346</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set_346</questionset>
+        <questiontext>Test Question Text_346</questiontext>
+        <learningobjective>true</learningobjective>
+        <useWriteBoard>true</useWriteBoard>
+        <!--
+                <overrideDefaultQuestionCreate>essay</overrideDefaultQuestionCreate>
+        -->
+
+        <shareWithInitialString>studtitle_smoke_assignmentFlow_346</shareWithInitialString>
+        <shareName>studtitle_smoke_assignmentFlow_346</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>policy_346</assignmentpolicyname>
+        <assignmentpolicy>policy_346</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <grade>0.1</grade>
+
+        <extensionAfterDueDate>disable</extensionAfterDueDate>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.assignmentFlow.AssignmentFlow" index="346_1" method="">
+        <user_id>student_smoke_assignmentFlow_346_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignmentFlow_346</context_id>
+        <context_title>studtitle_smoke_assignmentFlow_346</context_title>
+
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>assessment_smoke_assignmentFlow_346</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.assignmentFlow.AssignmentFlow" index="346_2" method="">
+        <user_id>student_smoke_assignmentFlow_346_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignmentFlow_346</context_id>
+        <context_title>studtitle_smoke_assignmentFlow_346</context_title>
+
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>assessment_smoke_assignmentFlow_346</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.assignmentFlow.AssignmentFlow" index="346_3" method="">
+        <user_id>student_smoke_assignmentFlow_346_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignmentFlow_346</context_id>
+        <context_title>studtitle_smoke_assignmentFlow_346</context_title>
+        <givenname>Das</givenname>
+
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>assessment_smoke_assignmentFlow_346</assessmentname>
+    </testcase>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.assignmentFlow.AssignmentFlow" index="395" method="">
+        <user_id>instructor_smoke_assignmentFlow_395</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_assignmentFlow_395</context_id>
+        <context_title>studtitle_smoke_assignmentFlow_395</context_title>
+
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>assessment_smoke_assignmentFlow_395</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set_395</questionset>
+        <questiontext>Test Question Text_395</questiontext>
+        <learningobjective>true</learningobjective>
+        <useWriteBoard>true</useWriteBoard>
+        <shareWithInitialString>studtitle_smoke_assignmentFlow_395</shareWithInitialString>
+        <shareName>studtitle_smoke_assignmentFlow_395</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>policy_395</assignmentpolicyname>
+        <assignmentpolicy>policy_395</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <grade>0.1</grade>
+
+        <extensionAfterDueDate>disable</extensionAfterDueDate>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.assignmentFlow.AssignmentFlow" index="395_1" method="">
+        <user_id>student_smoke_assignmentFlow_395_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignmentFlow_395</context_id>
+        <context_title>studtitle_smoke_assignmentFlow_395</context_title>
+
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>assessment_smoke_assignmentFlow_395</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.assignmentFlow.AssignmentFlow" index="395_2" method="">
+        <user_id>student_smoke_assignmentFlow_395_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignmentFlow_395</context_id>
+        <context_title>studtitle_smoke_assignmentFlow_395</context_title>
+
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>assessment_smoke_assignmentFlow_395</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.assignmentFlow.AssignmentFlow" index="395_3" method="">
+        <user_id>student_smoke_assignmentFlow_395_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignmentFlow_395</context_id>
+        <context_title>studtitle_smoke_assignmentFlow_395</context_title>
+        <givenname>Das</givenname>
+
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>assessment_smoke_assignmentFlow_395</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.assignmentFlow.AssignmentFlow" index="395_4" method="">
+        <user_id>student_smoke_assignmentFlow_395_4</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignmentFlow_395</context_id>
+        <context_title>studtitle_smoke_assignmentFlow_395</context_title>
+        <givenname>Das</givenname>
+
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>assessment_smoke_assignmentFlow_395</assessmentname>
+    </testcase>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.assignmentFlow.AssignmentFlow" index="406" method="">
+        <user_id>instructor_smoke_assignmentFlow_406</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_assignmentFlow_406</context_id>
+        <context_title>studtitle_smoke_assignmentFlow_406</context_title>
+
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>assessment_smoke_assignmentFlow_406</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set_406</questionset>
+        <questiontext>Test Question Text_406</questiontext>
+        <learningobjective>true</learningobjective>
+        <useWriteBoard>true</useWriteBoard>
+        <overrideDefaultQuestionCreate>essay</overrideDefaultQuestionCreate>
+
+
+        <shareWithInitialString>studtitle_smoke_assignmentFlow_406</shareWithInitialString>
+        <shareName>studtitle_smoke_assignmentFlow_406</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>policy_406</assignmentpolicyname>
+        <assignmentpolicy>policy_406</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <grade>0.1</grade>
+        <studentname>family givenname</studentname>
+
+        <extensionAfterDueDate>disable</extensionAfterDueDate>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.assignmentFlow.AssignmentFlow" index="406_1" method="">
+        <user_id>student_smoke_assignmentFlow_406_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignmentFlow_406</context_id>
+        <context_title>studtitle_smoke_assignmentFlow_406</context_title>
+
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>assessment_smoke_assignmentFlow_406</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.assignmentFlow.AssignmentFlow" index="406_2" method="">
+        <user_id>student_smoke_assignmentFlow_406_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignmentFlow_406</context_id>
+        <context_title>studtitle_smoke_assignmentFlow_406</context_title>
+
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>assessment_smoke_assignmentFlow_406</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.assignmentFlow.AssignmentFlow" index="406_3" method="">
+        <user_id>student_smoke_assignmentFlow_406_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignmentFlow_406</context_id>
+        <context_title>studtitle_smoke_assignmentFlow_406</context_title>
+        <givenname>Das</givenname>
+
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>assessment_smoke_assignmentFlow_406</assessmentname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.assignmentFlow.AssignmentFlow" index="406_4" method="">
+        <user_id>student_smoke_assignmentFlow_406_4</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignmentFlow_406</context_id>
+        <context_title>studtitle_smoke_assignmentFlow_406</context_title>
+        <givenname>Das</givenname>
+
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>assessment_smoke_assignmentFlow_406</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.assignmentFlow.AssignmentFlow" index="422" method="">
+        <user_id>instructor_smoke_assignmentFlow_422</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_assignmentFlow_422</context_id>
+        <context_title>studtitle_smoke_assignmentFlow_422</context_title>
+
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>assessment_smoke_assignmentFlow_422</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set_422</questionset>
+        <questiontext>Test Question Text_422</questiontext>
+        <learningobjective>true</learningobjective>
+        <useWriteBoard>true</useWriteBoard>
+        <overrideDefaultQuestionCreate>essay</overrideDefaultQuestionCreate>
+
+
+        <shareWithInitialString>studtitle_smoke_assignmentFlow_422</shareWithInitialString>
+        <shareName>studtitle_smoke_assignmentFlow_422</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>policy_422</assignmentpolicyname>
+        <assignmentpolicy>policy_422</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <grade>0.1</grade>
+        <studentname>family givenname</studentname>
+
+        <extensionAfterDueDate>disable</extensionAfterDueDate>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.assignmentFlow.AssignmentFlow" index="422_1" method="">
+        <user_id>student_smoke_assignmentFlow_422_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignmentFlow_422</context_id>
+        <context_title>studtitle_smoke_assignmentFlow_422</context_title>
+
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>assessment_smoke_assignmentFlow_422</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.assignmentFlow.AssignmentFlow" index="422_2" method="">
+        <user_id>student_smoke_assignmentFlow_422_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignmentFlow_422</context_id>
+        <context_title>studtitle_smoke_assignmentFlow_422</context_title>
+
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>assessment_smoke_assignmentFlow_422</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.assignmentFlow.AssignmentFlow" index="422_3" method="">
+        <user_id>student_smoke_assignmentFlow_422_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignmentFlow_422</context_id>
+        <context_title>studtitle_smoke_assignmentFlow_422</context_title>
+        <givenname>Das</givenname>
+
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>assessment_smoke_assignmentFlow_422</assessmentname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.assignmentFlow.AssignmentFlow" index="422_4" method="">
+        <user_id>student_smoke_assignmentFlow_422_4</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_assignmentFlow_422</context_id>
+        <context_title>studtitle_smoke_assignmentFlow_422</context_title>
+        <givenname>Das</givenname>
+
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>assessment_smoke_assignmentFlow_422</assessmentname>
+    </testcase>
+
+</learningspaces>
+
+

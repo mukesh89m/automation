@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orion>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.regression.orion.DiagnosticAndPractice" index="1" method="">
+        <user_id>student_regression_diagnostic_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_regression_diagnostic_1</context_id>
+        <context_title>studtitle_regression_diagnostic_1</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.regression.orion.StudentDiagnosticReports" index="1" method="">
+        <user_id>student_regression_StudentDiagnosticReports_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_regression_StudentDiagnosticReports_1</context_id>
+        <context_title>studtitle_regression_StudentDiagnosticReports_1</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.regression.orion.StudentDiagnosticReports" index="2" method="">
+        <user_id>student_regression_StudentDiagnosticReports_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_regression_StudentDiagnosticReports_2</context_id>
+        <context_title>studtitle_regression_StudentDiagnosticReports_2</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.regression.orion.StudentDiagnosticReports" index="3" method="">
+        <user_id>student_regression_StudentDiagnosticReports_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_regression_StudentDiagnosticReports_3</context_id>
+        <context_title>studtitle_regression_StudentDiagnosticReports_3</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.regression.orion.StudentDiagnosticReports" index="4" method="">
+        <user_id>instructor_regression_StudentDiagnosticReports_4</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_regression_StudentDiagnosticReports_4</context_id>
+        <context_title>studtitle_regression_StudentDiagnosticReports_4</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.regression.orion.StudentDiagnosticReports" index="5" method="">
+        <user_id>student_regression_StudentDiagnosticReports_4</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_regression_StudentDiagnosticReports_4</context_id>
+        <context_title>studtitle_regression_StudentDiagnosticReports_4</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.regression.orion.InstructorDashboard" index="1" method="">
+        <user_id>student_regression_InstructorDashboard_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_regression_InstructorDashboard_1</context_id>
+        <context_title>studtitle_regression_InstructorDashboard_1</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.regression.orion.InstructorDashboard" index="1_1" method="">
+        <user_id>student_regression_InstructorDashboard_1_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_regression_InstructorDashboard_1</context_id>
+        <context_title>studtitle_regression_InstructorDashboard_1</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.regression.orion.InstructorDashboard" index="1_2" method="">
+        <user_id>student_regression_InstructorDashboard_1_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_regression_InstructorDashboard_1</context_id>
+        <context_title>studtitle_regression_InstructorDashboard_1</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.regression.orion.InstructorDashboard" index="1_3" method="">
+        <user_id>student_regression_InstructorDashboard_1_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_regression_InstructorDashboard_1</context_id>
+        <context_title>studtitle_regression_InstructorDashboard_1</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.regression.orion.Settings" index="2" method="customizeOrionTopics">
+        <user_id>IT15_R151_Instruc_2_2</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR151_2_4</context_id>
+        <context_title>studtitleR151_2_4</context_title>
+        <course_type>adaptive</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.regression.orion.Settings" index="14" method="showDiagChapterPracticeSettingsBlock">
+        <user_id>IT15_R151_Instruc_14_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR151_14_1</context_id>
+        <context_title>studtitleR151_14_1</context_title>
+        <course_type>adaptive</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.regression.orion.Settings" index="21" method="OFFallTheTLOsForChapter">
+        <user_id>IT15_R151_Instruc_21_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR151_21_1</context_id>
+        <context_title>studtitleR151_21_1</context_title>
+        <course_type>adaptive</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.regression.orion.Settings" index="22" method="OFFallTheTLOsForChapter">
+        <user_id>IT15_R151_student_21_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR151_21_1</context_id>
+        <context_title>studtitleR151_21_1</context_title>
+        <course_type>adaptive</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.regression.orion.Settings" index="23" method="impactsOnSwitchingOFFAndONOfChapter">
+        <user_id>IT15_R151_Instructor_23_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR151_23_1</context_id>
+        <context_title>studtitleR151_23_1</context_title>
+        <course_type>adaptive</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.regression.orion.Settings" index="25" method="impactsOnSwitchingOFFAndONOfChapterPractice">
+        <user_id>IT15_R151_Instructor_25_2</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR151_25_2</context_id>
+        <context_title>studtitleR151_25_2</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.regression.orion.Settings" index="26" method="impactsOnSwitchingOFFAndONOfChapterPractice">
+        <user_id>IT15_R151_student_25_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR151_25_2</context_id>
+        <context_title>studtitleR151_25_2</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.regression.orion.Settings" index="29" method="impactsOnSwitchingOFFAndONDiagnosticTest">
+        <user_id>IT15_R151_Instructor_29_2</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR151_29_2</context_id>
+        <context_title>studtitleR151_29_2</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.regression.orion.Settings" index="32" method="impactsOnSwitchingOFFAndONDiagnosticTest">
+        <user_id>IT15_R151_student_32_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR151_29_2</context_id>
+        <context_title>studtitleR151_29_2</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.regression.orion.Settings" index="37" method="impactsOnSwitchingOFFAndONDiagnosticTest">
+        <user_id>IT15_R151_Instructor_37_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR151_37_2</context_id>
+        <context_title>studtitleR151_37_2</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.regression.orion.Settings" index="38" method="impactsOnSwitchingOFFAndONofTLO">
+        <user_id>IT15_R151_Instructor_38_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR151_38_1</context_id>
+        <context_title>studtitleR151_38_1</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.regression.orion.Settings" index="38_1" method="impactsOnSwitchingOFFAndONofTLO">
+        <user_id>IT15_R151_Student_38_1_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR151_38_1</context_id>
+        <context_title>studtitleR151_38_1</context_title>
+    </testcase>
+
+</orion>

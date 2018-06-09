@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="101" method="highlightTextAndRemove">
+        <user_id>student_sanity_completeflow_1</user_id>
+        <Role>student</Role>
+        <context_id>sanity_completeflow_1</context_id>
+        <context_title>sanity_completeflow_1</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="2" method="addDiscussionAfterHighlightText">
+        <user_id>student_sanity_completeflow_2</user_id>
+        <Role>student</Role>
+        <context_id>sanity_completeflow_2</context_id>
+        <context_title>sanity_completeflow_2</context_title>
+        <studentnametag>sanity_completeflow_2</studentnametag>
+        <filename>img.png</filename>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="3" method="addNoteAfterHighlightText">
+        <user_id>student_sanity_completeflow_3</user_id>
+        <Role>student</Role>
+        <context_id>sanity_completeflow_3</context_id>
+        <context_title>sanity_completeflow_3</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="4" method="addDiscussionFromDiscussionTab">
+        <user_id>student_sanity_completeflow_4</user_id>
+        <Role>student</Role>
+        <context_id>sanity_completeflow_4</context_id>
+        <context_title>sanity_completeflow_4</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="5" method="addNoteFromStarTab">
+        <user_id>student_sanity_completeflow_5</user_id>
+        <Role>student</Role>
+        <context_id>sanity_completeflow_5</context_id>
+        <context_title>sanity_completeflow_5</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="6" method="addPostLinkFileForSpecificStudent">
+        <user_id>student_sanity_completeflow_6</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_sanity_completeflow_6</context_id>
+        <context_title>studtitle_sanity_completeflow_6</context_title>
+        <familyname>Kumar</familyname>
+        <givenname>Mukesh</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="7" method="addPostLinkFileForSpecificStudent">
+        <user_id>student_sanity_completeflow_7</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_sanity_completeflow_6</context_id>
+        <context_title>studtitle_sanity_completeflow_6</context_title>
+        <familyname>LastName7</familyname>
+        <givenname>FirstName7</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="8" method="addPostLinkFileForSpecificStudent">
+        <user_id>student_sanity_completeflow_8</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_sanity_completeflow_6</context_id>
+        <context_title>studtitle_sanity_completeflow_6</context_title>
+        <familyname>LastName8</familyname>
+        <givenname>FirstName8</givenname>
+        <shareWithInitialString>LastName7</shareWithInitialString>
+        <studentnametag>FirstName7 LastName7</studentnametag>
+        <shareWithClass>false</shareWithClass>
+        <filename>img.png</filename>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="9" method="assignAssignmentToStudentAndViewAndReleaseFeedback">
+        <user_id>instructor_sanity_completeflow_9</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_sanity_completeflow_10</context_id>
+        <context_title>studtitle_sanity_completeflow_10</context_title>
+        <assessmentname>sanity_completeflow_101</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanity_completeflow_10</questionset>
+        <questiontext>Test_Question_for_sanity_completeflow_10</questiontext>
+        <shareWithInitialString>studtitle_sanity_completeflow_10</shareWithInitialString>
+        <shareName>studtitle_sanity_completeflow_10</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="10" method="assignAssignmentToStudentAndViewAndReleaseFeedback">
+        <user_id>student_sanity_completeflow_9</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_sanity_completeflow_10</context_id>
+        <context_title>studtitle_sanity_completeflow_10</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="11" method="assignAssignmentToStudentAndViewAndReleaseFeedback">
+        <user_id>instructor_sanity_completeflow_11</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_sanity_completeflow_11</context_id>
+        <context_title>studtitle_sanity_completeflow_11</context_title>
+        <assessmentname>sanity_completeflow_111</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanity_completeflow_11</questionset>
+        <questiontext>Test_Question_for_sanity_completeflow_11</questiontext>
+        <shareWithInitialString>studtitle_sanity_completeflow_11</shareWithInitialString>
+        <shareName>studtitle_sanity_completeflow_11</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>givenname family</studentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="12" method="assignAssignmentToStudentAndViewAndReleaseFeedback">
+        <user_id>student_sanity_completeflow_12</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_sanity_completeflow_11</context_id>
+        <context_title>studtitle_sanity_completeflow_11</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="13" method="assignAssignmentToStudentAndViewAndReleaseFeedback">
+        <user_id>instructor_sanity_completeflow_13</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_sanity_completeflow_13</context_id>
+        <context_title>studtitle_sanity_completeflow_13</context_title>
+        <questiontext>Test_Question_for_sanity_completeflow_13</questiontext>
+        <shareWithInitialString>studtitle_sanity_completeflow_13</shareWithInitialString>
+        <shareName>studtitle_sanity_completeflow_13</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>true</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>givenname family</studentname>
+        <totalpoints>2</totalpoints>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="14" method="assignAssignmentToStudentAndViewAndReleaseFeedback">
+        <user_id>student_sanity_completeflow_14</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_sanity_completeflow_13</context_id>
+        <context_title>studtitle_sanity_completeflow_13</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="15" method="assignAssignmentToStudentAndViewAndReleaseFeedback">
+        <user_id>instructor_sanity_completeflow_15</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_sanity_completeflow_15</context_id>
+        <context_title>studtitle_sanity_completeflow_15</context_title>
+        <questiontext>Test_Question_for_sanity_completeflow_15</questiontext>
+        <shareWithInitialString>studtitle_sanity_completeflow_15</shareWithInitialString>
+        <shareName>studtitle_sanity_completeflow_15</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>givenname family</studentname>
+        <totalpoints>2</totalpoints>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="16" method="assignAssignmentToStudentAndViewAndReleaseFeedback">
+        <user_id>student_sanity_completeflow_16</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_sanity_completeflow_15</context_id>
+        <context_title>studtitle_sanity_completeflow_15</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="17" method="assignAssignmentToStudentAndViewAndReleaseFeedback">
+        <user_id>instructor_sanity_completeflow_17</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_sanity_completeflow_17</context_id>
+        <context_title>studtitle_sanity_completeflow_17</context_title>
+        <questiontext>Test_Question_for_sanity_completeflow_17</questiontext>
+        <shareWithInitialString>studtitle_sanity_completeflow_17</shareWithInitialString>
+        <shareName>studtitle_sanity_completeflow_17</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>givenname family</studentname>
+        <totalpoints>2</totalpoints>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="18" method="assignAssignmentToStudentAndViewAndReleaseFeedback">
+        <user_id>student_sanity_completeflow_18</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_sanity_completeflow_17</context_id>
+        <context_title>studtitle_sanity_completeflow_17</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="20" method="submitAssignmentWithCollaborationDisabled">
+        <user_id>regression_assignmentInstructor_20</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_sanity_completeflow_20</context_id>
+        <context_title>studtitle_sanity_completeflow_20</context_title>
+        <assessmentname>Assignment_sanity_completeflow_20_1</assessmentname>
+        <questionset>20questionset</questionset>
+        <questiontext>20 question text</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_sanity_completeflow_20</shareWithInitialString>
+        <shareName>studtitle_sanity_completeflow_20</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>20_2 Policy Name</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <policyname>20_2 Policy Name</policyname>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>20_2 Policy Name</assignmentpolicyname>
+        <submitted>0</submitted>
+        <notstarted>1</notstarted>
+        <inprogress>0</inprogress>
+        <reviewed>0</reviewed>
+        <graded>0</graded>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="20_1" method="submitAssignmentWithCollaborationDisabled">
+        <user_id>sanity_completeflowstudent_20_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_sanity_completeflow_20</context_id>
+        <context_title>studtitle_sanity_completeflow_20</context_title>
+        <familyname>Mandal</familyname>
+        <givenname>Mukesh</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="20_2" method="submitAssignmentWithCollaborationDisabled">
+        <user_id>sanity_completeflowstudent_20_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_sanity_completeflow_20</context_id>
+        <context_title>studtitle_sanity_completeflow_20</context_title>
+        <familyname>Mandal</familyname>
+        <givenname>Raj</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="20_3" method="submitAssignmentWithCollaborationDisabled">
+        <user_id>sanity_completeflowstudent_20_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_sanity_completeflow_20</context_id>
+        <context_title>studtitle_sanity_completeflow_20</context_title>
+        <familyname>Mandal</familyname>
+        <givenname>Mahesh</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="21" method="gradableAssignmentWithPolicyFour">
+        <user_id>sanity_completeflowInstructor_21</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_sanity_completeflow_21</context_id>
+        <context_title>studtitle_sanity_completeflow_21</context_title>
+        <assessmentname>Assignment_sanity_completeflow_21_1</assessmentname>
+        <questionset>21questionset</questionset>
+        <questiontext>21_question text</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_sanity_completeflow_21</shareWithInitialString>
+        <shareName>studtitle_sanity_completeflow_21</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>21_2 Policy Name</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <policyname>21_2 Policy Name</policyname>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>21_2 Policy Name</assignmentpolicyname>
+        <extensionAfterDueDate>disable</extensionAfterDueDate>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="21_1" method="gradableAssignmentWithPolicyFour">
+        <user_id>sanity_completeflowstudent_21_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_sanity_completeflow_21</context_id>
+        <context_title>studtitle_sanity_completeflow_21</context_title>
+        <familyname>Mandal</familyname>
+        <givenname>Mukesh</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="22" method="gradableAssignmentWithPolicyTwo">
+        <user_id>sanity_completeflowInstructor_22</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_sanity_completeflow_22</context_id>
+        <context_title>studtitle_sanity_completeflow_22</context_title>
+        <assessmentname>Assignment_sanity_completeflow_22_1</assessmentname>
+        <assessmentname>Assignment_sanity_completeflow_21_1</assessmentname>
+        <questionset>21questionset</questionset>
+        <questiontext>21_question text</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_sanity_completeflow_22</shareWithInitialString>
+        <shareName>studtitle_sanity_completeflow_22</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>22_2 Policy Name</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <policyname>22_2 Policy Name</policyname>
+        <duedate>26</duedate>
+        <duetime>2</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>22_2 Policy Name</assignmentpolicyname>
+        <extensionAfterDueDate>disable</extensionAfterDueDate>
+        <submitted>0</submitted>
+        <notstarted>1</notstarted>
+        <inprogress>0</inprogress>
+        <reviewed>0</reviewed>
+        <graded>0</graded>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="22_1" method="gradableAssignmentWithPolicyTwo">
+        <user_id>sanity_completeflowstudent_22_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_sanity_completeflow_22</context_id>
+        <context_title>studtitle_sanity_completeflow_22</context_title>
+        <familyname>Mandal</familyname>
+        <givenname>Mukesh</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="23" method="gradableAssignmentWithPolicyThree">
+        <user_id>sanity_completeflowInstructor_23</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_sanity_completeflow_23</context_id>
+        <context_title>studtitle_sanity_completeflow_23</context_title>
+        <assessmentname>Assignment_sanity_completeflow_24_1</assessmentname>
+        <questionset>23questionset</questionset>
+        <questiontext>23_question text</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_sanity_completeflow_23</shareWithInitialString>
+        <shareName>studtitle_sanity_completeflow_23</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>23_2 Policy Name</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <policyname>23_2 Policy Name</policyname>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>23_2 Policy Name</assignmentpolicyname>
+        <studentname>Mukesh Mandal</studentname>
+        <extensionAfterDueDate>disable</extensionAfterDueDate>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="23_1" method="gradableAssignmentWithPolicyThree">
+        <user_id>sanity_completeflowstudent_23_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_sanity_completeflow_23</context_id>
+        <context_title>studtitle_sanity_completeflow_23</context_title>
+        <familyname>Mandal</familyname>
+        <givenname>Mukesh</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="24" method="gradableAssignmentWithPolicyThree">
+        <user_id>sanity_completeflowInstructor_24</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_sanity_completeflow_24</context_id>
+        <context_title>studtitle_sanity_completeflow_24</context_title>
+        <assessmentname>Assignment_sanity_completeflow_24_1</assessmentname>
+        <questionset>24questionset</questionset>
+        <questiontext>24_question text</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_sanity_completeflow_24</shareWithInitialString>
+        <shareName>studtitle_sanity_completeflow_24</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>24_2 Policy Name</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <policyname>24_2 Policy Name</policyname>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>24_2 Policy Name</assignmentpolicyname>
+        <studentname>Mukesh Mandal</studentname>
+        <extensionAfterDueDate>disable</extensionAfterDueDate>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="24_1" method="gradableAssignmentWithPolicyThree">
+        <user_id>sanity_completeflowstudent_24_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_sanity_completeflow_24</context_id>
+        <context_title>studtitle_sanity_completeflow_24</context_title>
+        <familyname>Mandal</familyname>
+        <givenname>Mukesh</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="24_2" method="gradableAssignmentWithPolicyThree">
+        <user_id>sanity_completeflowstudent_24_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_sanity_completeflow_24</context_id>
+        <context_title>studtitle_sanity_completeflow_24</context_title>
+        <familyname>Mandal</familyname>
+        <givenname>Mukesh</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="25" method="gradableAssignmentWithPolicyThree">
+        <user_id>sanity_completeflowInstructor_25</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_sanity_completeflow_25</context_id>
+        <context_title>studtitle_sanity_completeflow_25</context_title>
+        <assessmentname>Assignment_sanity_completeflow_25_1</assessmentname>
+        <questionset>25questionset</questionset>
+        <questiontext>25_question text</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_sanity_completeflow_25</shareWithInitialString>
+        <shareName>studtitle_sanity_completeflow_25</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>25_2 Policy Name</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <policyname>25_2 Policy Name</policyname>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>25_2 Policy Name</assignmentpolicyname>
+        <studentname>Mukesh Mandal</studentname>
+        <extensionAfterDueDate>disable</extensionAfterDueDate>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="25_1" method="gradableAssignmentWithPolicyThree">
+        <user_id>sanity_completeflowstudent_25_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_sanity_completeflow_25</context_id>
+        <context_title>studtitle_sanity_completeflow_25</context_title>
+        <familyname>Mandal</familyname>
+        <givenname>Mukesh</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="25_2" method="gradableAssignmentWithPolicyThree">
+        <user_id>sanity_completeflowstudent_25_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_sanity_completeflow_25</context_id>
+        <context_title>studtitle_sanity_completeflow_25</context_title>
+        <familyname>Mandal</familyname>
+        <givenname>Mukesh</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="26" method="gradableAssignmentWithPolicyThree">
+        <user_id>sanity_completeflowstudent_26_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_sanity_completeflow_26</context_id>
+        <context_title>studtitle_sanity_completeflow_26</context_title>
+        <familyname>Mandal</familyname>
+        <givenname>Mukesh</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="27" method="gradableAssignmentWithPolicyThree">
+        <user_id>sanity_completeflowstudent_27_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_sanity_completeflow_27</context_id>
+        <context_title>studtitle_sanity_completeflow_27</context_title>
+        <familyname>Mandal</familyname>
+        <givenname>Mukesh</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="28" method="gradableAssignmentWithPolicyThree">
+        <user_id>sanity_completeflowstudent_28_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_sanity_completeflow_28</context_id>
+        <context_title>studtitle_sanity_completeflow_28</context_title>
+        <familyname>Mandal</familyname>
+        <givenname>Mukesh</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="29" method="gradableAssignmentWithPolicyThree">
+        <user_id>sanity_completeflowInstructor_29</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_sanity_completeflow_29</context_id>
+        <context_title>studtitle_sanity_completeflow_29</context_title>
+        <assessmentname>Assignment_sanity_completeflow_29_1</assessmentname>
+        <questionset>29questionset</questionset>
+        <questiontext>29_question text</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <promptdetails>promptdetails</promptdetails>
+        <questiontextstem2>questiontextstem2</questiontextstem2>
+        <shareWithInitialString>studtitle_sanity_completeflow_29</shareWithInitialString>
+        <shareName>studtitle_sanity_completeflow_29</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duetime>35</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <fileUpload>true</fileUpload>
+        <questionBank>true</questionBank>
+        <totalpoints>2</totalpoints>
+        <filename>img.jpg</filename>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="29_1" method="gradableAssignmentWithPolicyThree">
+        <user_id>sanity_completeflowstudent_29_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_sanity_completeflow_29</context_id>
+        <context_title>studtitle_sanity_completeflow_29</context_title>
+        <familyname>Mandal</familyname>
+        <givenname>Mukesh</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="30" method="gradableAssignmentWithPolicyThree">
+        <user_id>sanity_completeflowInstructor_30</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_sanity_completeflow_30</context_id>
+        <context_title>studtitle_sanity_completeflow_30</context_title>
+        <assessmentname>Assignment_sanity_completeflow_30_1</assessmentname>
+        <questionset>30questionset</questionset>
+        <questiontext>30_question text</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <promptdetails>promptdetails</promptdetails>
+        <questiontextstem2>questiontextstem2</questiontextstem2>
+        <shareWithInitialString>studtitle_sanity_completeflow_30</shareWithInitialString>
+        <shareName>studtitle_sanity_completeflow_30</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duetime>35</duetime>
+        <duedate>28</duedate>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="30_1" method="gradableAssignmentWithPolicyThree">
+        <user_id>sanity_completeflowstudent_30_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_sanity_completeflow_30</context_id>
+        <context_title>studtitle_sanity_completeflow_30</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="31" method="gradableAssignmentWithPolicyThree">
+        <user_id>sanity_completeflowstudent_31</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_sanity_completeflow_31</context_id>
+        <context_title>studtitle_sanity_completeflow_31</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="32" method="gradableAssignmentWithPolicyThree">
+        <user_id>sanity_completeflowInstructor_32</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_sanity_completeflow_32</context_id>
+        <context_title>studtitle_sanity_completeflow_32</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="32_1" method="gradableAssignmentWithPolicyThree">
+        <user_id>sanity_completeflowstudent_32_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_sanity_completeflow_32</context_id>
+        <context_title>studtitle_sanity_completeflow_32</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="33" method="">
+        <user_id>sanity_completeflowInstructor_33</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_sanity_completeflow_33</context_id>
+        <context_title>studtitle_sanity_completeflow_33</context_title>
+        <familyname>instructorTitle</familyname>
+        <givenname>instructorName</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="33_1" method="">
+        <user_id>sanity_completeflowstudent_33_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_sanity_completeflow_33</context_id>
+        <context_title>studtitle_sanity_completeflow_33</context_title>
+        <shareWithInstructor>instructorName</shareWithInstructor>
+        <instructorName>instructorTitle</instructorName>
+        <shareWithClass>false</shareWithClass>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="33_2" method="">
+        <user_id>sanity_completeflowstudent_33_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_sanity_completeflow_33</context_id>
+        <context_title>studtitle_sanity_completeflow_33</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="34" method="">
+        <user_id>sanity_completeflowInstructor_34</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_sanity_completeflow_34</context_id>
+        <context_title>studtitle_sanity_completeflow_34</context_title>
+        <assessmentname>Assignment_sanity_completeflow_34_1</assessmentname>
+        <questionset>34questionset</questionset>
+        <questiontext>34_question text</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <promptdetails>promptdetails</promptdetails>
+        <questiontextstem2>questiontextstem2</questiontextstem2>
+        <shareWithInitialString>studtitle_sanity_completeflow_34</shareWithInitialString>
+        <shareName>studtitle_sanity_completeflow_34</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duetime>35</duetime>
+        <duedate>28</duedate>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="34_1" method="">
+        <user_id>sanity_completeflowstudent_34_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_sanity_completeflow_34</context_id>
+        <context_title>studtitle_sanity_completeflow_34</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="40" method="courseStreamSocialActivity">
+        <user_id>student_sanity_completeflow_40</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_sanity_completeflow_40</context_id>
+        <context_title>studtitle_sanity_completeflow_40</context_title>
+        <filename>img.png</filename>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="41" method="">
+        <user_id>student_sanity_completeflow_41</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_sanity_completeflow_41</context_id>
+        <context_title>studtitle_sanity_completeflow_41</context_title>
+        <resoursename>A_sanity_completeflow_ResourceName_41</resoursename>
+        <type>image</type>
+        <description>Description for sanity_completeflow_41</description>
+        <filename>img.jpg</filename>
+        <instructoronlyflag>false</instructoronlyflag>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="42" method="">
+        <user_id>student_sanity_completeflow_42</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_sanity_completeflow_42</context_id>
+        <context_title>studtitle_sanity_completeflow_42</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="1">
+        <user_id>instructor_completeflow_policy2</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_completeflow_policy2</context_id>
+        <context_title>studtitle_completeflow_policy2</context_title>
+        <assignmentpolicyname>Policy2</assignmentpolicyname>
+        <assessmentname>Assignment_completeflow_policy2</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question_completeflow_policy2</questionset>
+        <questiontext>Test Question_completeflow_policy2</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_completeflow_policy2</shareWithInitialString>
+        <shareName>studtitle_completeflow_policy2</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy2</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>8</duetime>
+        <extensionAfterDueDate>disable</extensionAfterDueDate>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>Month Jan</studentname>
+        <grade>0.1</grade>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="1_1">
+        <user_id>student_completeflow_policy2_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_completeflow_policy2</context_id>
+        <context_title>studtitle_completeflow_policy2</context_title>
+        <familyname>Month</familyname>
+        <givenname>Jan</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="1_2">
+        <user_id>student_completeflow_policy2_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_completeflow_policy2</context_id>
+        <context_title>studtitle_completeflow_policy2</context_title>
+        <familyname>Month</familyname>
+        <givenname>Feb</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="1_3">
+        <user_id>student_completeflow_policy2_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_completeflow_policy2</context_id>
+        <context_title>studtitle_completeflow_policy2</context_title>
+        <familyname>Month</familyname>
+        <givenname>March</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="49" method="">
+        <user_id>student_sanity_completeflow_49</user_id>
+        <Role>student</Role>
+        <context_id>sanity_completeflow_49</context_id>
+        <context_title>sanity_completeflow_49</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="50" method="postDiscussionWithLanguagePallete">
+        <user_id>student_sanity_completeflow_50</user_id>
+        <Role>student</Role>
+        <context_id>sanity_completeflow_50</context_id>
+        <context_title>sanity_completeflow_50</context_title>
+        <selectLanguagePalette>spanish</selectLanguagePalette>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="51" method="postDiscussionWithLanguagePallete">
+        <selectLanguagePalette>italian</selectLanguagePalette>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.SanityTest" index="52" method="postDiscussionWithLanguagePallete">
+        <selectLanguagePalette>french</selectLanguagePalette>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.StudentDashboardTilesUpdate" index="43" method="">
+        <user_id>sanity_completeflowInstructor_43</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_sanity_completeflow_43</context_id>
+        <context_title>studtitle_sanity_completeflow_43</context_title>
+        <assessmentname>Assignment_sanity_completeflow_43_1</assessmentname>
+        <questionset>43questionset</questionset>
+        <questiontext>43_question text</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <promptdetails>promptdetails</promptdetails>
+        <questiontextstem2>questiontextstem2</questiontextstem2>
+        <shareWithInitialString>studtitle_sanity_completeflow_43</shareWithInitialString>
+        <shareName>studtitle_sanity_completeflow_43</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duetime>35</duetime>
+        <duedate>28</duedate>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.StudentDashboardTilesUpdate" index="43_1" method="">
+        <user_id>sanity_completeflowstudent_43_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_sanity_completeflow_43</context_id>
+        <context_title>studtitle_sanity_completeflow_43</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.StudentDashboardTilesUpdate" index="44" method="">
+        <user_id>sanity_completeflowstudent_44</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_sanity_completeflow_44</context_id>
+        <context_title>studtitle_sanity_completeflow_44</context_title>
+        <filename>img.png</filename>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.StudentDashboardTilesUpdate" index="45" method="">
+        <user_id>sanity_completeflowInstructor_45</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_sanity_completeflow_45</context_id>
+        <context_title>studtitle_sanity_completeflow_45</context_title>
+        <assessmentname>Assignment_sanity_completeflow_45_1</assessmentname>
+        <questionset>45questionset</questionset>
+        <questiontext>45_question text</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <promptdetails>promptdetails</promptdetails>
+        <questiontextstem2>questiontextstem2</questiontextstem2>
+        <shareWithInitialString>studtitle_sanity_completeflow_45</shareWithInitialString>
+        <shareName>studtitle_sanity_completeflow_45</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duetime>35</duetime>
+        <duedate>28</duedate>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.StudentDashboardTilesUpdate" index="45_1" method="">
+        <user_id>sanity_completeflowstudent_45_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_sanity_completeflow_45</context_id>
+        <context_title>studtitle_sanity_completeflow_45</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.StudentDashboardTilesUpdate" index="46" method="">
+        <user_id>sanity_completeflowstudent_46</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_sanity_completeflow_46</context_id>
+        <context_title>studtitle_sanity_completeflow_46</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.StudentDashboardTilesUpdate" index="47" method="">
+        <user_id>sanity_completeflowInstructor_47</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_sanity_completeflow_47</context_id>
+        <context_title>studtitle_sanity_completeflow_47</context_title>
+        <assessmentname>Assignment_sanity_completeflow_47_1</assessmentname>
+        <questionset>47questionset</questionset>
+        <questiontext>47_question text</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <promptdetails>promptdetails</promptdetails>
+        <questiontextstem2>questiontextstem2</questiontextstem2>
+        <shareWithInitialString>studtitle_sanity_completeflow_47</shareWithInitialString>
+        <shareName>studtitle_sanity_completeflow_47</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duetime>35</duetime>
+        <duedate>28</duedate>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>family givenname</studentname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.completeflow.StudentDashboardTilesUpdate" index="47_1" method="">
+        <user_id>sanity_completeflowstudent_47_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_sanity_completeflow_47</context_id>
+        <context_title>studtitle_sanity_completeflow_47</context_title>
+    </testcase>
+
+
+</learningspaces>

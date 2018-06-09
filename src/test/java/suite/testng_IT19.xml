@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+    <test name="IT 19 Jenkins Suite">
+        <classes>
+
+            <!-- IT19-R19.1  " As a student/instructor, I should be able to view footer navigation in a lesson showing the next item as “suggested next activity” as per the study plan" -->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R191.FooterNavigation"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R191.FooterNavigationInstructorLSCourse"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R191.FooterNavigationInstructorSide"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R191.FooterNavigationLSCourse"/>
+
+
+            <!-- IT19-R19.8  "As an author , I should be able to publish question content at the chapter level" -->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R198.AuthorPublishContentOnChapterLevel"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R198.QuestionReferToMoreThanOneCourse"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R198.TakeTestAssignment"/>
+
+
+            <!-- IT19-R19.9  "As a Instructor/Mentor I should be able to support a file based assignment" -->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R199.CreateAssessment"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R199.FileAssessmentAtLTILevel"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R199.FileBasedAssessmentNonGradable"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R199.CreationAndAssignmentOfTheFileBasedAssignment"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R199.ImpactsOnAssignmentDiscussionOnTheStudentSide"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R199.AttemptingFileBasedAssignmentAssignedByInstructor"/>
+
+
+
+            <!-- IT19-R19.10  " As a student/instructor/mentor, I should be able to search and filter for various elements in the study plan" -->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.InstructorShouldBeAbleToBrowseForVariousElements"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.InstructorShouldBeAbleToSearchAndFilter"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.InstructorShouldBeAbleToSearchForResources"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.StudentShouldBeAbleToBrowseForVariousElements"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.StudentShouldBeAbleToSearchAndFilter"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.StudentShouldBeAbleToSearchForResources"/>
+
+
+            <!-- IT19-R19.15  "R19.15 Enhancement to the gradebook page for any assignment" -->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1915.EnhancementToTheGradebookPageForAnyAssignment"/>
+
+
+            <!-- IT19-R19.16  "Enhancement to the assignment policy as applicable to any assignment" -->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1916.ImmediateFeedEnabledWithGradeReleaseOptionOne"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1916.ImmediateFeedEnabledWithGradeReleaseOptionTwo"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1916.ImmediateFeedEnabledWithGradeReleaseOptionThree"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1916.ImmediateFeedEnabledWithGradeReleaseOptionFour"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1916.ImmediateFeedShowAnswerEnabledWithGradeReleaseOptionOne"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1916.ImmediateFeedShowAnswerEnabledWithGradeReleaseOptionTwo"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1916.ImmediateFeedShowAnswerEnabledWithGradeReleaseOptionThree"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1916.ImmediateFeedShowAnswerEnabledWithGradeReleaseOptionFour"/>
+
+            <!-- IT19 R19.20  "Blackboard Integration" -->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1920.BlackBoardIntegrationForLSAdaptive"/>
+
+            <!-- IT19 R19.22  "As an instructor , I should be able to provide feedback on static assessments" -->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1922.InstructorFeedbackInStaticAssessment"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1922.RetakeStaticAssessment"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1922.StudentFeedbackInStaticAssessment"/>
+
+            <!-- IT19 R19.23  "As a publisher , I should be able to support a more usable writeboard solution for questions" -->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.StudentShouldBeAbleToViewAndUseTheEnhancementWorkboardSolution"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.StudentShouldBeAbleToViewTheFeedbackGivenByInstructor"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.InstructorShouldBeAbleToViewEnhancementWorkBoard"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.AuthorShouldBeAbleToViewAndUseTheEnhancementWorkBoardOverlay"/>
+
+            <!--R19.17 As a publisher , I should be able to create course specific policy configurations-->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.CourseAssignmentPolicy"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.GradingPolicyEnableByAuthor"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.LSCourseAssignmentPolicy"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.LSGradingPolicyEnableByAuthor"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.OrionPolicyConfiguration"/>
+
+
+
+        </classes>
+
+    </test> <!-- Test -->
+</suite> <!-- Suite -->

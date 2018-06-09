@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="R15.1-OrionRegressionSuite">
+    <classes>   
+    	<class name="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.CustomizeOrionTopics"/>
+        <class name="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.ShowDiagChapterPracticeSettingsBlock"/>
+        <class name="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.AccessDashboardAndReportsAsStudentAfterInstructorHidingChapter"/>
+        <class name="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.StudentAccessDashboardReportsAfterInstructorHidingAllTLOforChapter"/>
+        <class name="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.StudentAccessDashboardReportsAfterInstructorHidingChapterPractice"/>
+        <class name="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.AccessDashboardAfterInstructorHidingDiagnosticTestForChapter"/>
+        <class name="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.StudentAttemptedQuestionsFromTLOinstructorHidesTheTLOinFuture"/>
+        <class name="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.StudentAttemptedQuestionsOfFewTlosAndInstructorHiddenTheAllTloOfChapter"/>
+        <class name="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.StudentAttemptedQuestionsForChapterAndInstructorHidesThatChapter"/>
+        <class name="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.CustomizeOrionTopicsInMentorSettingsPage"/>
+        <class name="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.MentorOffDiagnosticAndTryToOnByInstructor"/>
+        <class name="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.OnThePracticeWhichWasOff"/>
+        <class name="com.snapwiz.selenium.tests.staf.orion.testcases.IT15.R151.InstructorDoneSettingsAccessStudentOfOtherSection"/>
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->

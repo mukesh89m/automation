@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R198.AuthorPublishContentOnChapterLevel" index="38" method="manageContentChapterLevel">
+        <assessmentname>Assessment_IT19_R198_1</assessmentname>
+        <questionset>Question Set_IT19_R198_1</questionset>
+        <questiontext>Test Question_IT19_R198_1</questiontext>
+        <questiontype>Static Practice</questiontype>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R198.AuthorPublishContentOnChapterLevel" index="39" method="manageContentChapterLevel">
+        <assessmentname>Assessment_IT19_R198_1</assessmentname>
+        <questionset>Question Set_IT19_R198_1</questionset>
+        <questiontext>Test Question_IT19_R198_1</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <status>accuracyCheck</status>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R198.AuthorPublishContentOnChapterLevel" index="40" method="manageContentChapterLevel">
+        <assessmentname>Assessment_IT19_R198_1</assessmentname>
+        <questionset>Question Set_IT19_R198_1</questionset>
+        <questiontext>Test Question_IT19_R198_1</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <status>draftPendingImages</status>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R198.AuthorPublishContentOnChapterLevel" index="41" method="manageContentChapterLevel">
+        <assessmentname>Assessment_IT19_R198_1</assessmentname>
+        <questionset>Question Set_IT19_R198_1</questionset>
+        <questiontext>Test Question_IT19_R198_1</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <status>qa</status>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R198.AuthorPublishContentOnChapterLevel" index="42" method="manageContentChapterLevel">
+        <assessmentname>Assessment_IT19_R198_1</assessmentname>
+        <questionset>Question Set_IT19_R198_1</questionset>
+        <questiontext>Test Question_IT19_R198_1</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <status>needRevision</status>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R198.AuthorPublishContentOnChapterLevel" index="43" method="manageContentChapterLevel">
+        <assessmentname>Assessment_IT19_R198_1</assessmentname>
+        <questionset>Question Set_IT19_R198_1</questionset>
+        <questiontext>Test Question_IT19_R198_1</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <status>approve</status>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R198.AuthorPublishContentOnChapterLevel" index="44" method="manageContentChapterLevel">
+        <assessmentname>Assessment_IT19_R198_1</assessmentname>
+        <questionset>Question Set_IT19_R198_1</questionset>
+        <questiontext>Test Question_IT19_R198_1</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <status>readyToPublish</status>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R198.AuthorPublishContentOnChapterLevel" index="45" method="manageContentChapterLevel">
+        <assessmentname>Assessment_IT19_R198_1</assessmentname>
+        <questionset>Question Set_IT19_R198_1</questionset>
+        <questiontext>Test Question_IT19_R198_1</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <status>publish</status>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R198.QuestionReferToMoreThanOneCourse" index="52" method="checkQuestionWithMultipleReference">
+        <assessmentname>TestAssessment_IT19_R198_1</assessmentname>
+        <questionset>TestQuestion Set_IT19_R198_1</questionset>
+        <questiontext>True False multiple reference of same Question21</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <difficultylevel>Hard</difficultylevel>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R198.QuestionReferToMoreThanOneCourse" index="61" method="createNewChapterAndCheckRelatedCases">
+       <newChapterName>Climate conditions around the World</newChapterName>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R198.TakeTestAssignment" index="62" method="">
+        <user_id>student_IT19_R198_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontextIT198_2</context_id>
+        <context_title>studtitleIT198_2</context_title>
+        <newChapterName>Botany</newChapterName>
+        <tloid>1</tloid>
+        <assessmentname>Assessment_IT19_R198_2</assessmentname>
+        <questionset>Question Set_IT19_R198_2</questionset>
+        <questiontext>Test Question_IT19_R198_2</questiontext>
+        <learningobjective>true</learningobjective>
+        <chapterName>Botany</chapterName>
+        <questiontype>Adaptive Component Diagnostic</questiontype>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R198.TakeTestAssignment" index="77" method="">
+            <user_id>instructor_IT19_R198_2</user_id>
+        <Role>instructor</Role>
+        <context_id>instcontextIT198_2</context_id>
+        <context_title>insttitleIT198_2</context_title>
+        <newChapterName>SST</newChapterName>
+        <assessmentname>Assessment_IT19_R198_AdaptiveComponent</assessmentname>
+        <questionset>Question Set_IT19_R198_AdaptiveComponent</questionset>
+        <questiontext>Test Question_IT19_R198_AdaptiveComponent</questiontext>
+        <learningobjective>true</learningobjective>
+        <chapterName>SST</chapterName>
+        <questiontype>Adaptive Component Practice</questiontype>
+        <difficultylevel>Easy</difficultylevel>
+        <learningobjective>true</learningobjective>
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R198.TakeTestAssignment" index="78" method="">
+        <user_id>instructor_IT19_R198_2</user_id>
+        <Role>instructor</Role>
+        <context_id>mentorcontextIT198_2</context_id>
+        <context_title>mentortitleIT198_2</context_title>
+        <newChapterName>SST</newChapterName>
+        <assessmentname>Assessment_IT19_R198_Static</assessmentname>
+        <questionset>Question Set_IT19_R198_Static</questionset>
+        <questiontext>Test Question_IT19_R198_Static</questiontext>
+        <learningobjective>true</learningobjective>
+        <chapterName>SST</chapterName>
+        <questiontype>Static Practice</questiontype>
+        <difficultylevel>Easy</difficultylevel>
+        <learningobjective>true</learningobjective>
+        <reservforassignment>true</reservforassignment>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R198.TakeTestAssignment" index="79" method="">
+        <user_id>student_IT19_R198_79</user_id>
+        <Role>student</Role>
+        <context_id>studcontextIT198_79</context_id>
+        <context_title>studtitleIT198_79</context_title>
+        <newChapterName>SST</newChapterName>
+        <tloid>2</tloid>
+        <assessmentname>Assessment_IT19_R198_StaticAssignment</assessmentname>
+        <questionset>Question Set_IT19_R198_2StaticAssignment</questionset>
+        <questiontext>Test Question_IT19_R198_2StaticAssignment</questiontext>
+        <learningobjective>true</learningobjective>
+        <chapterName>SST</chapterName>
+        <questiontype>Static Practice</questiontype>
+    </testcase>
+
+</learningspaces>

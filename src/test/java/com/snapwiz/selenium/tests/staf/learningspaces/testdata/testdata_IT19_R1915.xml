@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1915.EnhancementToTheGradebookPageForAnyAssignment" index="9" method="" >
+        <user_id>instructor_IT19_15_9</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT19_15_9</context_id>
+        <context_title>studtitle_IT19_15_9</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1915.EnhancementToTheGradebookPageForAnyAssignment" index="9_1" method="" >
+        <user_id>student_IT19_15_9_1</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_15_9</context_id>
+        <context_title>studtitle_IT19_15_9</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1915.EnhancementToTheGradebookPageForAnyAssignment" index="9_2" method="" >
+        <user_id>student_IT19_15_9_2</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_15_9</context_id>
+        <context_title>studtitle_IT19_15_9</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1915.EnhancementToTheGradebookPageForAnyAssignment" index="9_3" method="" >
+        <user_id>student_IT19_15_9_3</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_15_9</context_id>
+        <context_title>studtitle_IT19_15_9</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1915.EnhancementToTheGradebookPageForAnyAssignment" index="9_4" method="" >
+        <user_id>student_IT19_15_9_4</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_15_9</context_id>
+        <context_title>studtitle_IT19_15_9</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1915.EnhancementToTheGradebookPageForAnyAssignment" index="9_5" method="" >
+        <user_id>student_IT19_15_9_5</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_15_9</context_id>
+        <context_title>studtitle_IT19_15_9</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1915.EnhancementToTheGradebookPageForAnyAssignment" index="9_6" method="" >
+        <user_id>student_IT19_15_9_6</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_15_9</context_id>
+        <context_title>studtitle_IT19_15_9</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1915.EnhancementToTheGradebookPageForAnyAssignment" index="9_7" method="" >
+        <user_id>student_IT19_15_9_7</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_15_9</context_id>
+        <context_title>studtitle_IT19_15_9</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1915.EnhancementToTheGradebookPageForAnyAssignment" index="9_8" method="" >
+        <user_id>student_IT19_15_9_8</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_15_9</context_id>
+        <context_title>studtitle_IT19_15_9</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1915.EnhancementToTheGradebookPageForAnyAssignment" index="9_9" method="" >
+        <user_id>student_IT19_15_9_9</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_15_9</context_id>
+        <context_title>studtitle_IT19_15_9</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1915.EnhancementToTheGradebookPageForAnyAssignment" index="9_10" method="" >
+        <user_id>student_IT19_15_9_10</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_15_9</context_id>
+        <context_title>studtitle_IT19_15_9</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1915.EnhancementToTheGradebookPageForAnyAssignment" index="9_11" method="" >
+        <user_id>student_IT19_15_9_11</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_15_9</context_id>
+        <context_title>studtitle_IT19_15_9</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1915.EnhancementToTheGradebookPageForAnyAssignment" index="9_12" method="" >
+        <user_id>student_IT19_15_9_12</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_15_9</context_id>
+        <context_title>studtitle_IT19_15_9</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1915.EnhancementToTheGradebookPageForAnyAssignment" index="9_13" method="" >
+        <user_id>student_IT19_15_9_13</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_15_9</context_id>
+        <context_title>studtitle_IT19_15_9</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1915.EnhancementToTheGradebookPageForAnyAssignment" index="9_14" method="" >
+        <user_id>student_IT19_15_9_14</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_15_9</context_id>
+        <context_title>studtitle_IT19_15_9</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1915.EnhancementToTheGradebookPageForAnyAssignment" index="9_15" method="" >
+        <user_id>student_IT19_15_9_15</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_15_9</context_id>
+        <context_title>studtitle_IT19_15_9</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1915.EnhancementToTheGradebookPageForAnyAssignment" index="9_16" method="" >
+        <user_id>student_IT19_15_9_16</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_15_9</context_id>
+        <context_title>studtitle_IT19_15_9</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1915.EnhancementToTheGradebookPageForAnyAssignment" index="9_17" method="" >
+        <user_id>student_IT19_15_9_17</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_15_9</context_id>
+        <context_title>studtitle42_IT19_15_9</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1915.EnhancementToTheGradebookPageForAnyAssignment" index="9_18" method="" >
+        <user_id>student_IT19_IT15_9_18</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_15_9</context_id>
+        <context_title>studtitle_IT19_15_9</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1915.EnhancementToTheGradebookPageForAnyAssignment" index="9_19" method="" >
+        <user_id>student_IT19_15_9_19</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_15_9</context_id>
+        <context_title>studtitle_IT19_15_9</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1915.EnhancementToTheGradebookPageForAnyAssignment" index="9_20" method="" >
+        <user_id>student_IT19_I15_9_20</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_15_9</context_id>
+        <context_title>studtitle_IT19_15_9</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1915.EnhancementToTheGradebookPageForAnyAssignment" index="10">
+        <assessmentname>Assignment_IT19_15_1</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT15_1</questionset>
+        <questiontext>Test Question for IT15_1</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_IT19_15_9</shareWithInitialString>
+        <shareName>studtitle_IT19_15_9</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>givenname family</studentname>
+        <grade>0.1</grade>>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1915.EnhancementToTheGradebookPageForAnyAssignment" index="11">
+        <assessmentname>Assignment_IT19_15_2</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT15_2</questionset>
+        <questiontext>Test Question for IT15_2</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_IT19_15_9</shareWithInitialString>
+        <shareName>studtitle_IT19_15_9</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>givenname family</studentname>
+        <grade>0.1</grade>>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1915.EnhancementToTheGradebookPageForAnyAssignment" index="12">
+        <assessmentname>Assignment_IT19_15_3</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT15_3</questionset>
+        <questiontext>Test Question for IT15_3</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_IT19_15_9</shareWithInitialString>
+        <shareName>studtitle_IT19_15_9</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>givenname family</studentname>
+        <grade>0.1</grade>>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1915.EnhancementToTheGradebookPageForAnyAssignment" index="13">
+        <assessmentname>Assignment_IT19_15_4</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT15_4</questionset>
+        <questiontext>Test Question for IT15_4</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_IT19_15_9</shareWithInitialString>
+        <shareName>studtitle_IT19_15_9</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>givenname family</studentname>
+        <grade>0.1</grade>>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1915.EnhancementToTheGradebookPageForAnyAssignment" index="14">
+        <assessmentname>Assignment_IT19_15_5</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT15_5</questionset>
+        <questiontext>Test Question for IT15_5</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_IT19_15_9</shareWithInitialString>
+        <shareName>studtitle_IT19_15_9</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>givenname family</studentname>
+        <grade>0.1</grade>>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1915.EnhancementToTheGradebookPageForAnyAssignment" index="15">
+        <assessmentname>Assignment_IT19_15_6</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT15_6</questionset>
+        <questiontext>Test Question for IT15_6</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_IT19_15_9</shareWithInitialString>
+        <shareName>studtitle_IT19_15_9</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>givenname family</studentname>
+        <grade>0.1</grade>>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1915.EnhancementToTheGradebookPageForAnyAssignment" index="16">
+        <assessmentname>Assignment_IT19_15_7</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT15_7</questionset>
+        <questiontext>Test Question for IT15_7</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_IT19_15_9</shareWithInitialString>
+        <shareName>studtitle_IT19_15_9</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>givenname family</studentname>
+        <grade>0.1</grade>>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1915.EnhancementToTheGradebookPageForAnyAssignment" index="17">
+        <assessmentname>Assignment_IT19_15_8</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT15_8</questionset>
+        <questiontext>Test Question for IT15_8</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_IT19_15_9</shareWithInitialString>
+        <shareName>studtitle_IT19_15_9</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>givenname family</studentname>
+        <grade>0.1</grade>>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1915.EnhancementToTheGradebookPageForAnyAssignment" index="18">
+        <assessmentname>QAssignment_IT19_18</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT15_9</questionset>
+        <questiontext>Test Question for IT15_9</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_IT19_15_9</shareWithInitialString>
+        <shareName>studtitle_IT19_15_9</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>givenname family</studentname>
+        <grade>0.1</grade>>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1915.EnhancementToTheGradebookPageForAnyAssignment" index="19">
+        <assessmentname>Assignment_IT19_15_10</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT15_10</questionset>
+        <questiontext>Test Question for IT15_10</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_IT19_15_9</shareWithInitialString>
+        <shareName>studtitle_IT19_15_9</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>givenname family</studentname>
+        <grade>0.1</grade>>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1915.EnhancementToTheGradebookPageForAnyAssignment" index="20">
+        <assessmentname>Assignment_IT19_15_11</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT15_11</questionset>
+        <questiontext>Test Question for IT15_11</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_IT19_15_9</shareWithInitialString>
+        <shareName>studtitle_IT19_15_9</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>givenname family</studentname>
+        <grade>0.1</grade>>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1915.EnhancementToTheGradebookPageForAnyAssignment" index="21">
+        <assessmentname>Assignment_IT19_15_12</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT15_12</questionset>
+        <questiontext>Test Question for IT15_12</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_IT19_15_9</shareWithInitialString>
+        <shareName>studtitle_IT19_15_9</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>givenname family</studentname>
+        <grade>0.1</grade>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1915.EnhancementToTheGradebookPageForAnyAssignment" index="26" method="" >
+        <user_id>mentor_IT19_15_9</user_id>>
+        <Role>mentor</Role>
+        <context_id>studcontext_IT19_15_9</context_id>
+        <context_title>studtitle_IT19_15_9</context_title>
+    </testcase>
+
+
+</learningspaces>

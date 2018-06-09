@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<learnon>
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT24.R2417.InstructorSideAuthenticationFailureTester" index="13" method="testInstructorSideAuthenticationFailure">
+        <user_id>student_IT22_R227_183_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R227_1</context_id>
+        <context_title>studtitle_IT22_R227_1</context_title>
+        <custom_courseid>9781118606544asdf</custom_courseid>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT24.R2417.InstructorSideAuthenticationFailureTester" index="33" method="testInstructorSideAuthenticationFailure">
+        <user_id>student_IT22_R227_183_33</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R227_33</context_id>
+        <context_title>studtitle_IT22_R227_33</context_title>
+        <custom_courseid>9781118606544asdf</custom_courseid>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT24.R2417.InstructorSideAuthenticationFailureTester" index="53" method="testInstructorSideAuthenticationFailure">
+        <user_id>student_IT22_R227_183_53_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R227_53</context_id>
+        <context_title>studtitle_IT22_R227_53</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT24.R2417.InstructorSideAuthenticationFailureTester" index="59" method="testInstructorSideAuthenticationFailure">
+        <user_id>student_IT22_R227_183_59_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R227_53</context_id>
+        <context_title>studtitle_IT22_R227_53</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT24.R2417.InstructorSideAuthenticationFailureTester" index="61" method="testInstructorSideAuthenticationFailure">
+        <user_id>student_IT22_R227_183_61</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R227_61</context_id>
+        <context_title>studtitle_IT22_R227_61</context_title>
+    </testcase>
+
+
+</learnon>

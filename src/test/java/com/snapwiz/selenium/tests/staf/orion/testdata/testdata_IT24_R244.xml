@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<orion>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R244.InstructorResetStudentProficiencyData" index="10" method="">
+        <user_id>IT24_R244_student_10</user_id>
+        <Role>student</Role>
+        <context_id>studContext_IT24_R244_10</context_id>
+        <context_title>studTitle_IT24_R244_10</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R244.InstructorResetStudentProficiencyData" index="10_1" method="">
+        <user_id>IT24_R244_instructor_10</user_id>
+        <Role>instructor</Role>
+        <context_id>studContext_IT24_R244_10</context_id>
+        <context_title>studTitle_IT24_R244_10</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R244.InstructorResetStudentProficiencyData" index="36" method="">
+        <user_id>IT24_R244_student_36</user_id>
+        <Role>student</Role>
+        <context_id>studContext_IT24_R244_36</context_id>
+        <context_title>studTitle_IT24_R244_36</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R244.InstructorResetStudentProficiencyData" index="36_1" method="">
+        <user_id>IT24_R244_instructor_36</user_id>
+        <Role>instructor</Role>
+        <context_id>studContext_IT24_R244_36</context_id>
+        <context_title>studTitle_IT24_R244_36</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R244.InstructorResetStudentProficiencyData" index="36_2" method="">
+        <user_id>IT24_R244_student_36_2</user_id>
+        <Role>student</Role>
+        <context_id>studContext_IT24_R244_36</context_id>
+        <context_title>studTitle_IT24_R244_36</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R244.InstructorResetStudentProficiencyData" index="86" method="">
+        <user_id>IT24_R244_student_86</user_id>
+        <Role>student</Role>
+        <context_id>studContext_IT24_R244_86</context_id>
+        <context_title>studTitle_IT24_R244_86</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R244.InstructorResetStudentProficiencyData" index="86_1" method="">
+        <user_id>IT24_R244_instructor_86</user_id>
+        <Role>instructor</Role>
+        <context_id>studContext_IT24_R244_86</context_id>
+        <context_title>studTitle_IT24_R244_86</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R244.InstructorResetStudentProficiencyData" index="113_1" method="">
+        <user_id>IT24_R244_student_113</user_id>
+        <Role>student</Role>
+        <context_id>studContext_IT24_R244_113</context_id>
+        <context_title>studTitle_IT24_R244_113</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R244.InstructorResetStudentProficiencyData" index="113" method="">
+        <user_id>IT24_R244_instructor_113</user_id>
+        <Role>instructor</Role>
+        <context_id>studContext_IT24_R244_113</context_id>
+        <context_title>studTitle_IT24_R244_113</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R244.InstructorResetStudentProficiencyData" index="113_2" method="">
+        <user_id>IT24_R244_student_113</user_id>
+        <Role>student</Role>
+        <context_id>studContext_IT24_R244_113</context_id>
+        <context_title>studTitle_IT24_R244_113</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R244.InstructorResetStudentProficiencyData" index="129" method="">
+        <user_id>IT22_R2215_Instructor_129</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_It22_R2215_129_A</context_id>
+        <context_title>studtitle_It22_R2215_129_A</context_title>
+        <custom_class_state>Active</custom_class_state>
+        <custom_instructor_classlist>[{"classid":"Active","title":"Active","classcode":"BIO-101","state":"Active"}]</custom_instructor_classlist>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R244.InstructorResetStudentProficiencyData" index="129_1" method="">
+        <user_id>IT22_R2215_Instructor_129</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_It22_R2215_129_B</context_id>
+        <context_title>studtitle_It22_R2215_129_B</context_title>
+        <custom_class_state>Active</custom_class_state>
+        <custom_instructor_classlist>[{"classid":"Active1","title":"Active1","classcode":"BIO-101","state":"Active"}]</custom_instructor_classlist>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R244.InstructorResetStudentProficiencyData" index="129_2" method="">
+        <user_id>IT22_R2215_Instructor_129</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_It22_R2215_129_C</context_id>
+        <context_title>studtitle_It22_R2215_129_C</context_title>
+        <custom_class_state>Inactive</custom_class_state>
+        <custom_instructor_classlist>[{"classid":"Inactive","title":"Inactive","classcode":"BIO-101","state":"Inactive"}]</custom_instructor_classlist>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R244.InstructorResetStudentProficiencyData" index="129_3" method="">
+        <user_id>IT22_R2215_Instructor_129</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_It22_R2215_129_D</context_id>
+        <context_title>studtitle_It22_R2215_129_D</context_title>
+        <custom_class_state>Finished</custom_class_state>
+        <custom_instructor_classlist>[{"classid":"Finished","title":"Finished","classcode":"BIO-101","state":"Finished"}]</custom_instructor_classlist>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R244.InstructorResetStudentProficiencyData" index="129_4" method="">
+        <user_id>IT22_R2215_student_129</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_It22_R2215_129_A</context_id>
+        <context_title>studtitle_It22_R2215_129_A</context_title>
+        <custom_class_state>Active</custom_class_state>
+        <custom_instructor_classlist>[{"classid":"Active","title":"Active","classcode":"BIO-101","state":"Active"}]</custom_instructor_classlist>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R244.InstructorResetStudentProficiencyData" index="172_1" method="">
+        <user_id>IT24_R244_student_172</user_id>
+        <Role>student</Role>
+        <context_id>studContext_IT24_R244_172</context_id>
+        <context_title>studTitle_IT24_R244_172</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R244.InstructorResetStudentProficiencyData" index="172" method="">
+        <user_id>IT24_R244_instructor_172</user_id>
+        <Role>instructor</Role>
+        <context_id>studContext_IT24_R244_172</context_id>
+        <context_title>studTitle_IT24_R244_172</context_title>
+    </testcase>
+
+
+</orion>

@@ -1,0 +1,462 @@
+<?xml version="1.0"?>
+<learningspaces>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.LoginAsInstructorToDifferentTypeOfCourse" index="5" method="loginAsInstructorToAdaptiveCourse">
+		<user_id>IT12_R27_i5</user_id>
+		<Role>instructor</Role>
+		<course_type>adaptive</course_type>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.LoginAsInstructorToDifferentTypeOfCourse" index="6" method="loginAsInstructorToLSCourse">
+		<user_id>IT12_R27_stu6</user_id>
+		<Role>student</Role>
+		<course_type>ls</course_type>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.LoginAsInstructorToDifferentTypeOfCourse" index="7" method="loginAsInstructorToLSCourse">
+		<user_id>IT12_R27_in7</user_id>
+		<Role>instructor</Role>
+		<course_type>ls</course_type>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.LoginAsInstructorToDifferentTypeOfCourse" index="8" method="loginAsInstructorToLSPlusAdaptiveCourse">
+		<user_id>IT12_R27_stu8</user_id>
+		<Role>student</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.LoginAsInstructorToDifferentTypeOfCourse" index="9" method="loginAsInstructorToLSPlusAdaptiveCourse">
+		<user_id>IT12_R27_i9</user_id>
+		<Role>instructor</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.CourseInformationTile" index="10" method="courseInformationTile">
+		<user_id>IT12_R27_inst10</user_id>
+		<Role>instructor</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.CourseInformationTile" index="24" method="recentActivityInCourseInformationTile">
+		<user_id>IT12_R27_inst24</user_id>
+		<Role>instructor</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.CourseInformationTile" index="27" method="recentActivityForTopicLevelLessonInCourseInformationTile">
+		<user_id>IT12_R27_instruct27</user_id>
+		<Role>instructor</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.ClickOnAssignmentActivity" index="33" method="clickOnAssignmentActivity">
+		<user_id>IT12_R27_stu33</user_id>
+		<Role>student</Role>
+		<familyname>33second</familyname>
+		<givenname>33first</givenname>
+		<context_id>33studcontext</context_id>
+		<context_title>33studtitle</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.ClickOnAssignmentActivity" index="34" method="clickOnAssignmentActivity">
+		<user_id>IT12_R27_i34</user_id>
+		<Role>instructor</Role>
+		<context_id>33studcontext</context_id>
+		<context_title>33studtitle</context_title>
+		<fullName>33first 33second</fullName>
+		<assessmentname>33_1Assessment</assessmentname>
+ 		<questionset>33_1Question Set</questionset>
+ 		<questiontext>33_1Test Question</questiontext>
+ 		<questiontype>Static Practice</questiontype>
+ 		<shareWithInitialString>33s</shareWithInitialString>
+ 		<shareName>33studtitle</shareName>
+ 		<shareWithClass>true</shareWithClass>
+ 		<gradeable>true</gradeable>
+ 		<gradingpolicy>Grading policy text</gradingpolicy>
+ 		<duedate>26</duedate>
+ 		<duetime>12:00 AM</duetime>
+ 		<additionalnote>This is an additional note</additionalnote>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.ClickOnAssignmentActivity" index="39" method="clickOnStudyLink">
+		<user_id>IT12_R27_i39</user_id>
+		<Role>instructor</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.CourseDescription" index="55" method="courseDescription">
+		<user_id>IT12_R27_i55</user_id>
+		<Role>instructor</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.OrderingOfActivities" index="57" method="orderingOfActivities">
+		<user_id>IT12_R27_inst57</user_id>
+		<Role>instructor</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.OrderingOfActivities" index="60" method="orderingOfActivitiesOnClosingLesson">
+		<user_id>IT12_R27_inst60</user_id>
+		<Role>instructor</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.CoursePerformanceIndicator" index="118" method="coursePerformanceIndicator">
+		<user_id>instructor_IT12_R27_118</user_id>
+		<Role>instructor</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.CoursePerformanceIndicator" index="134" method="clickOnAvgTimeSpentTileForLSPlusAdaptiveCourse">
+		<user_id>IT12_R27_i134</user_id>
+		<Role>instructor</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.CoursePerformanceIndicator" index="135" method="clickOnAvgTimeSpentTileForLSCourse">
+		<user_id>IT12_R27_in135</user_id>
+		<Role>instructor</Role>
+		<course_type>ls</course_type>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.AverageTimeSpent" index="131" method="averageTimeSpent">
+		<user_id >IT12_R27Student_131_4</user_id >
+  		<Role>student</Role>
+  		<context_id>131_1studcontext</context_id>
+		<context_title>131_1studtitle</context_title>
+  		<familyname>131Family</familyname>
+  		<givenname>131Givenname</givenname>
+  		<submitassignment>true</submitassignment>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.AverageTimeSpent" index="132" method="averageTimeSpent">
+		<user_id >IT12_R27Student_132_4</user_id >
+  		<Role>student</Role>
+  		<context_id>131_1studcontext</context_id>
+		<context_title>131_1studtitle</context_title>
+  		<familyname>131Family</familyname>
+  		<givenname>131Givenname</givenname>
+  		<submitassignment>true</submitassignment>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.AverageTimeSpent" index="133" method="averageTimeSpent">
+		<user_id >IT12_R27_133instructo</user_id >
+  		<Role>instructor</Role>
+  		<context_id>131_1studcontext</context_id>
+		<context_title>131_1studtitle</context_title>
+  		<familyname>133Family</familyname>
+  		<givenname>133Givenname</givenname>
+  		<studentname>133Givenname 133Family</studentname>
+  		<assessmentname>133_2Assessment</assessmentname>
+  		<questionset>133QuestionSet</questionset>
+  		<questiontext>133questiontext</questiontext>
+  		<questiontype>Static Practice</questiontype>
+  		<shareWithInitialString>stud</shareWithInitialString>
+   	 	<shareName>131_1studtitle</shareName>
+   		<shareWithClass>true</shareWithClass>
+  	 	<gradeable>false</gradeable>
+  	 	<duedate>27</duedate>
+  	 	<duetime>10:00 PM</duetime>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.NavigatorIcon" index="219" method="navigatorIcon">
+		<user_id>IT12_R27_i219</user_id>
+		<Role>instructor</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.NavigatorIcon" index="229" method="eTextbook">
+		<user_id>IT12_R27_i229</user_id>
+		<Role>instructor</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.AverageTimeSpent" index="137" method="averagePracticePerformance">
+		<user_id >IT12_R27Student_137_7</user_id >
+  		<Role>student</Role>
+  		<context_id>137_1studcontext</context_id>
+		<context_title>137_1studtitle</context_title>
+  		<submitassignment>true</submitassignment>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.AverageTimeSpent" index="138" method="averagePracticePerformance">
+		<user_id >IT12_R27Student_138_7</user_id >
+  		<Role>student</Role>
+  		<context_id>137_1studcontext</context_id>
+		<context_title>137_1studtitle</context_title>
+  		<submitassignment>true</submitassignment>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.AverageTimeSpent" index="139" method="averagePracticePerformance">
+		<user_id >IT12_R27Instructor_139_1</user_id >
+  		<Role>instructor</Role>
+  		<context_id>137_1studcontext</context_id>
+		<context_title>137_1studtitle</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.AverageTimeSpent" index="146" method="averagePracticePerformance">
+		<user_id >IT12_R27Instructor_146_1</user_id >
+  		<Role>instructor</Role>
+		<course_type>ls</course_type>
+	</testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.AverageTimeSpent" index="155" method="averagePracticePerformance">
+        <user_id >IT12_R27Instructor_155</user_id >
+        <Role>instructor</Role>
+        <course_type>ls</course_type>
+    </testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.TopTenPercent" index="158" method="topTenPercentforClassParticipation">
+		<user_id >IT12_R27Student_158</user_id >
+  		<Role>student</Role>
+  		<context_id>158studcontext</context_id>
+		<context_title>158studtitle</context_title>
+		<assessmentname>158Assessment</assessmentname>
+  		<questionset>158QuestionSet</questionset>
+  		<questiontext>158questiontext</questiontext>
+  		<questiontype>Static Practice</questiontype>
+  		<shareWithInitialString>stud</shareWithInitialString>
+   	 	<shareName>158studtitle</shareName>
+   		<shareWithClass>true</shareWithClass>
+  	 	<gradeable>false</gradeable>
+  	 	<duedate>27</duedate>
+  	 	<duetime>10:00 PM</duetime>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.TopTenPercent" index="158_1" method="topTenPercentforClassParticipation">
+		<user_id >IT12_R27Student_158_1</user_id >
+  		<Role>student</Role>
+  		<context_id>158studcontext</context_id>
+		<context_title>158studtitle</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.TopTenPercent" index="158_2" method="topTenPercentforClassParticipation">
+		<user_id >IT12_R27Student_158_2</user_id >
+  		<Role>student</Role>
+  		<context_id>158studcontext</context_id>
+		<context_title>158studtitle</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.TopTenPercent" index="158_3" method="topTenPercentforClassParticipation">
+		<user_id >IT12_R27Student_158_3</user_id >
+  		<Role>student</Role>
+  		<context_id>158studcontext</context_id>
+		<context_title>158studtitle</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.TopTenPercent" index="158_4" method="topTenPercentforClassParticipation">
+		<user_id >IT12_R27Student_158_4</user_id >
+  		<Role>student</Role>
+  		<context_id>158studcontext</context_id>
+		<context_title>158studtitle</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.TopTenPercent" index="158_5" method="topTenPercentforClassParticipation">
+		<user_id >IT12_R27Student_158_5</user_id >
+  		<Role>student</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.TopTenPercent" index="158_6" method="topTenPercentforClassParticipation">
+		<user_id >IT12_R27Student_158_6</user_id >
+  		<Role>student</Role>
+  		<context_id>158studcontext</context_id>
+		<context_title>158studtitle</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.TopTenPercent" index="158_7" method="topTenPercentforClassParticipation">
+		<user_id >IT12_R27Student_158_7</user_id >
+  		<Role>student</Role>
+  		<context_id>158studcontext</context_id>
+		<context_title>158studtitle</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.TopTenPercent" index="158_8" method="topTenPercentforClassParticipation">
+		<user_id >IT12_R27Student_158_8</user_id >
+  		<Role>student</Role>
+  		<context_id>158studcontext</context_id>
+		<context_title>158studtitle</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.TopTenPercent" index="158_9" method="topTenPercentforClassParticipation">
+		<user_id >IT12_R27Student_158_9</user_id >
+  		<Role>student</Role>
+  		<context_id>158studcontext</context_id>
+		<context_title>158studtitle</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.TopTenPercent" index="158_10" method="topTenPercentforClassParticipation">
+		<user_id >IT12_R27Student_158_10</user_id >
+  		<Role>student</Role>
+  		<context_id>158studcontext</context_id>
+		<context_title>158studtitle</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.TopTenPercent" index="158_11" method="topTenPercentforClassParticipation">
+		<user_id >IT12_R27Student_158_11</user_id >
+  		<Role>student</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.TopTenPercent" index="158_12" method="topTenPercentforClassParticipation">
+		<user_id >IT12_R27Student_158_12</user_id >
+  		<Role>student</Role>
+  		<context_id>158studcontext</context_id>
+		<context_title>158studtitle</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.TopTenPercent" index="158_13" method="topTenPercentforClassParticipation">
+		<user_id >IT12_R27Student_158_13</user_id >
+  		<Role>student</Role>
+  		<context_id>158studcontext</context_id>
+		<context_title>158studtitle</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.TopTenPercent" index="158_14" method="topTenPercentforClassParticipation">
+		<user_id >IT12_R27Student_158_14</user_id >
+  		<Role>student</Role>
+  		<context_id>158studcontext</context_id>
+		<context_title>158studtitle</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.TopTenPercent" index="159" method="topTenPercentforClassParticipation">
+		<user_id >IT12_R27Instructor_159</user_id >
+  		<Role>instructor</Role>
+  		<context_id>158studcontext</context_id>
+		<context_title>158studtitle</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.TopTenPercent" index="168" method="defaultValueInTile">
+		<user_id >IT12_R27Instructor_168</user_id >
+  		<Role>instructor</Role>
+  		<context_id>168studcontext</context_id>
+		<context_title>168studtitle</context_title>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.InstructorAbleToViewAssignmentActivity" index="63" method="instructorAbleToViewAssignmentActivity" >
+		<user_id>IT12_R27_63instructor</user_id>
+		<Role>instructor</Role>
+		<course>Biology</course>
+		<assessmentname>63_1 Assessment</assessmentname>
+		<questionset>63_1 Question Set</questionset>
+		<questiontext>63_1 Test Question</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<assessmentname>63_1 Assessment</assessmentname>
+		<shareWithInitialString>IT12_R27_63_studtitle</shareWithInitialString>
+		<shareName>IT12_R27_63_studtitle</shareName>
+		<shareWithClass>true</shareWithClass>
+		<gradeable>true</gradeable>
+		<gradingpolicy>Grading policy text</gradingpolicy>
+		<duedate>28</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>This is an additional note</additionalnote>
+		<studentname>IT12_R27_63first IT12_R27_63Second</studentname>
+		<context_id>IT12_R27_63_studcontext</context_id>
+		<context_title>IT12_R27_63_studtitle</context_title>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.InstructorAbleToViewAssignmentActivity" index="631" method="instructorAbleToViewAssignmentActivity" >
+		<user_id>IT12_R27_631student</user_id>
+		<Role>student</Role>
+		<familyname>IT12_R27_63Second</familyname>
+ 		<givenname>IT12_R27_63first</givenname>
+		<context_id>IT12_R27_63_studcontext</context_id>
+		<context_title>IT12_R27_63_studtitle</context_title>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.InstructorAbleToViewAssignmentActivity" index="80" method="instructorAbleToViewAssignmentActivity" >
+		<user_id>IT12_R27_80instructor</user_id>
+		<Role>instructor</Role>
+		<course>Biology</course>
+		<assessmentname>80 Assessment</assessmentname>
+		<questionset>80 Question Set</questionset>
+		<questiontext>80 Test Question</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<assessmentname>80 Assessment</assessmentname>
+		<shareWithInitialString>IT12_R27_studtitle_80</shareWithInitialString>
+		<shareName>IT12_R27_studtitle_80</shareName>
+		<shareWithClass>true</shareWithClass>
+		<gradeable>true</gradeable>
+		<gradingpolicy>Grading policy text</gradingpolicy>
+		<duedate>28</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>This is an additional note</additionalnote>
+		<studentname>805first 805second</studentname>
+		<context_id>IT12_R27_studcontext_80</context_id>
+		<context_title>IT12_R27_studtitle_80</context_title>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.InstructorAbleToViewAssignmentActivity" index="801" method="instructorAbleToViewAssignmentActivity" >
+		<course>Biology</course>
+		<assessmentname>801 Assessment</assessmentname>
+		<questionset>801 Question Set</questionset>
+		<questiontext>801 Test Question</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<assessmentname>801 Assessment</assessmentname>
+		<shareWithInitialString>IT12_R27_studtitle_80</shareWithInitialString>
+		<shareName>IT12_R27_studtitle_80</shareName>
+		<shareWithClass>true</shareWithClass>
+		<gradeable>true</gradeable>
+		<gradingpolicy>Grading policy text</gradingpolicy>
+		<duedate>28</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>This is an additional note</additionalnote>
+		<studentname>805first 805second</studentname>
+		<context_id>IT12_R27_studcontext_80</context_id>
+		<context_title>IT12_R27_studtitle_80</context_title>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.InstructorAbleToViewAssignmentActivity" index="802" method="instructorAbleToViewAssignmentActivity" >
+		<course>Biology</course>
+		<assessmentname>802 Assessment</assessmentname>
+		<questionset>802 Question Set</questionset>
+		<questiontext>802 Test Question</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<assessmentname>802 Assessment</assessmentname>
+		<shareWithInitialString>IT12_R27_studtitle_80</shareWithInitialString>
+		<shareName>IT12_R27_studtitle_80</shareName>
+		<shareWithClass>true</shareWithClass>
+		<gradeable>true</gradeable>
+		<gradingpolicy>Grading policy text</gradingpolicy>
+		<duedate>28</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>This is an additional note</additionalnote>
+		<studentname>805first 805second</studentname>
+		<context_id>IT12_R27_studcontext_80</context_id>
+		<context_title>IT12_R27_studtitle_80</context_title>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.InstructorAbleToViewAssignmentActivity" index="803" method="instructorAbleToViewAssignmentActivity" >		<course>Biology</course>
+		<assessmentname>803 Assessment</assessmentname>
+		<questionset>803 Question Set</questionset>
+		<questiontext>803 Test Question</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<assessmentname>803 Assessment</assessmentname>
+		<shareWithInitialString>IT12_R27_studtitle_80</shareWithInitialString>
+		<shareName>IT12_R27_studtitle_80</shareName>
+		<shareWithClass>true</shareWithClass>
+		<gradeable>true</gradeable>
+		<gradingpolicy>Grading policy text</gradingpolicy>
+		<duedate>28</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>This is an additional note</additionalnote>
+		<studentname>805first 805second</studentname>
+		<context_id>IT12_R27_studcontext_80</context_id>
+		<context_title>IT12_R27_studtitle_80</context_title>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.InstructorAbleToViewAssignmentActivity" index="804" method="instructorAbleToViewAssignmentActivity" >
+		<course>Biology</course>
+		<assessmentname>804 Assessment</assessmentname>
+		<questionset>804 Question Set</questionset>
+		<questiontext>804 Test Question</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<assessmentname>804 Assessment</assessmentname>
+		<shareWithInitialString>IT12_R27_studtitle_80</shareWithInitialString>
+		<shareName>IT12_R27_studtitle_80</shareName>
+		<shareWithClass>true</shareWithClass>
+		<gradeable>true</gradeable>
+		<gradingpolicy>Grading policy text</gradingpolicy>
+		<duedate>28</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>This is an additional note</additionalnote>
+		<studentname>805first 805second</studentname>
+		<context_id>IT12_R27_studcontext_80</context_id>
+		<context_title>IT12_R27_studtitle_80</context_title>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.InstructorAbleToViewAssignmentActivity" index="805" method="instructorAbleToViewAssignmentActivity" >
+		<user_id>IT12_R27_805student</user_id>
+		<Role>student</Role>
+		<familyname>805second</familyname>
+ 		<givenname>805first</givenname>
+		<context_id>IT12_R27_studcontext_80</context_id>
+		<context_title>IT12_R27_studtitle_80</context_title>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.InstructorAbleToViewLatestCourseStreamEntry" index="179" method="InstructorAbleToViewLatestCourseStreamEntry" >
+		<user_id>IT12_R27_179 instructor</user_id>>
+		<Role>instructor</Role>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.InstructorAbleToViewLatestCourseStreamEntry" index="1791" method="InstructorAbleToViewLatestCourseStreamEntry" >
+		<user_id>IT12_R27_1791 instructor</user_id>>
+		<Role>instructor</Role>
+		<context_id>studcontext1791</context_id>
+		<context_title>studtitle1791</context_title>
+	</testcase>
+	
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.LatestCourseStreamEntriesShownOnDashBoard" index="193" method="LatestCourseStreamEntriesShownOnDashBoard" >
+		<user_id>IT12_R27_193instructor</user_id>>
+		<Role>instructor</Role>
+		<filename>img.png</filename>
+	</testcase>
+	
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.LatestCourseStreamEntriesShownOnDashBoard" index="205" method="DifferentKindOfStreamEntries" >
+		<user_id>IT12_R27_205instructor</user_id>>
+		<Role>instructor</Role>
+		<filename>img.jpg</filename>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.LatestCourseStreamEntriesShownOnDashBoard" index="2051" method="DifferentKindOfStreamEntries" >
+		<filename>img.mp3</filename>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R27.LatestCourseStreamEntriesShownOnDashBoard" index="2052" method="DifferentKindOfStreamEntries" >
+		<filename>img.swf</filename>
+		<duedate>23</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>this is additional note</additionalnote>
+	</testcase>
+	
+	
+	
+	
+</learningspaces>

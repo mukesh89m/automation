@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false" preserve-order="true" configfailurepolicy="continue">
+    <listeners>
+        <listener class-name="com.snapwiz.selenium.tests.staf.learningspaces.CustomListener" />
+    </listeners>
+    <test name="IT23 Jenkins Suite">
+        <classes>
+            <!--R 23.6-->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R236.BrowseFunctionalityOfQuestionBank"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R236.BrowseFunctionalityOfQuestionBankLS"/>
+
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R236.ViewOptimizedQuestionFilterInSearch"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R236.ViewOptimizedQuestionFilterInSearchLS"/>
+
+
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R236.SearchFunctionalityOfQuestionBank"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R236.SearchFunctionalityOfQuestionBankLS"/>
+
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R236.CreateCustomAssignmentFromDifferentPlaces"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R236.CreateCustomAssignmentFromDifferentPlacesLS"/>
+
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->

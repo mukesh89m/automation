@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edulastic>
+
+<testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.softdelete.VerifyClassSectionInDB" index ="1">
+    <assessmentname>Assessment_softDelete</assessmentname>
+    <questiontext>question_text_softdelete</questiontext>
+    <shareWithClass>true</shareWithClass>
+    <saadmin>true</saadmin>
+    <selectgrade>Grade 1</selectgrade>
+    <duedate>26</duedate>
+    <duetime>12:00 AM</duetime>
+    <gradable>true</gradable>
+    <gradereleaseoption>On assignment submission</gradereleaseoption>
+    <description>description text</description>
+    <tags>tags tags</tags>
+    <privacy>school</privacy>
+    <classCode>true</classCode>
+    <owner>school</owner>
+</testcase>
+
+
+<testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.softdelete.VerifyClassSectionInDB" index ="5" method="">
+    <assessmentname>Regression_SoftDelete_5</assessmentname>
+    <questiontext>question text_SoftDelete_question</questiontext>
+    <shareWithClass>true</shareWithClass>
+    <saadmin>true</saadmin>
+    <selectgrade>Grade 1</selectgrade>
+    <duedate>26</duedate>
+    <duetime>12:00 AM</duetime>
+    <gradable>true</gradable>
+    <gradereleaseoption>On assignment submission</gradereleaseoption>
+    <description>description text</description>
+    <tags>tags tags</tags>
+    <privacy>school</privacy>
+    <classCode>true</classCode>
+    <owner>school</owner>
+</testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.softdelete.VerifyClassSectionInDB" index ="6" method="">
+        <assessmentname>Regression_SoftDelete_6</assessmentname>
+        <questiontext>question text_SoftDelete_question</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <saadmin>true</saadmin>
+        <selectgrade>Grade 1</selectgrade>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>school</privacy>
+        <classCode>true</classCode>
+        <owner>school</owner>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.softdelete.VerifyClassSectionInDB" index ="7" method="">
+        <assessmentname>Regression_SoftDelete_7</assessmentname>
+        <questiontext>question text_SoftDelete_question</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <saadmin>true</saadmin>
+        <selectgrade>Grade 1</selectgrade>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>school</privacy>
+        <classCode>true</classCode>
+        <owner>school</owner>
+    </testcase>
+</edulastic>

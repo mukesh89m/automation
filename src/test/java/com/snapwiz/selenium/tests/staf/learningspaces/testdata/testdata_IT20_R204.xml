@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+
+    <testcase id="tocdata" index ="1">
+        <adaptivepracticetest>1.2: Describe the properties and levels of organization of living things - Practice</adaptivepracticetest>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R204.StudyPlanEnhancement" index="15" method="" >
+        <user_id>IT20_R204_student_15</user_id>>
+        <Role>student</Role>
+        <context_id>IT20_R204_studcontext_15</context_id>
+        <context_title>IT20_R204_studtitle_15</context_title>
+        <assessmentname>IT204_static Assessment_15</assessmentname>
+        <questionset>Test Question IT20_R204_15</questionset>
+        <questiontext>Test Question IT20_R204_15</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <diaassessmentname>IT204_static Assessment_15</diaassessmentname>
+        <chapterName>The Chemical Foundation of Life</chapterName>
+        <shareWithInitialString>IT20_R204_studtitle_15</shareWithInitialString>
+        <shareName>IT20_R204_studtitle_15</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R204.StudyPlanEnhancement" index="15_1" method="" >
+        <user_id>IT20_R204_student_15_1</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R204_studcontext_15</context_id>
+        <context_title>IT20_R204_studtitle_15</context_title>
+        <assessmentname>IT204_static Assessment_15</assessmentname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R204.StudyPlanEnhancement" index="167" method="" >
+        <user_id>IT20_R204_student_167</user_id>>
+        <Role>student</Role>
+        <context_id>IT20_R204_studcontext_167</context_id>
+        <context_title>IT20_R204_studtitle_167</context_title>
+        <assessmentname>IT204_static Assessment_167</assessmentname>
+        <questionset>Test Question IT20_R204_167</questionset>
+        <questiontext>Test Question IT20_R204_167</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <diaassessmentname>IT204_static Assessment_167</diaassessmentname>
+        <chapterName>The Chemical Foundation of Life</chapterName>
+        <shareWithInitialString>IT20_R204_studtitle_167</shareWithInitialString>
+        <shareName>IT20_R204_studtitle_167</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+       <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R204.StudyPlanEnhancement" index="282" method="" >
+        <user_id>IT20_R204_student_167</user_id>>
+        <Role>student</Role>
+        <context_id>IT20_R204_studcontext_282</context_id>
+        <context_title>IT20_R204_studtitle_282</context_title>
+        <assessmentname>IT204_static Assessment_282</assessmentname>
+        <questionset>Test Question IT20_R204_282</questionset>
+        <questiontext>Test Question IT20_R204_282</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <diaassessmentname>IT204_static Assessment_282</diaassessmentname>
+        <chapterName>The Chemical Foundation of Life</chapterName>
+        <shareWithInitialString>IT20_R204_studtitle_282</shareWithInitialString>
+        <shareName>IT20_R204_studtitle_282</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R204.StudyPlanEnhancement" index="332" method="" >
+        <user_id>IT20_R204_student_332</user_id>>
+        <Role>student</Role>
+        <context_id>IT20_R204_studcontext_332</context_id>
+        <context_title>IT20_R204_studtitle_332</context_title>
+        <assessmentname>IT204_static Assessment_332</assessmentname>
+        <questionset>Test Question IT20_R204_332</questionset>
+        <questiontext>Test Question IT20_R204_332</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <diaassessmentname>IT204_static Assessment_332</diaassessmentname>
+        <chapterName>The Chemical Foundation of Life</chapterName>
+        <shareWithInitialString>IT20_R204_studtitle_332</shareWithInitialString>
+        <shareName>IT20_R204_studtitle_332</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R204.StudyPlanEnhancement" index="404" method="" >
+        <user_id>IT20_R204_student_404</user_id>>
+        <Role>student</Role>
+        <context_id>IT20_R204_studcontext_404</context_id>
+        <context_title>IT20_R204_studtitle_404</context_title>
+        <assessmentname>IT204_static Assessment_404</assessmentname>
+        <questionset>Test Question IT20_R204_404</questionset>
+        <questiontext>Test Question IT20_R204_404</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <diaassessmentname>IT204_static Assessment_404</diaassessmentname>
+        <chapterName>The Chemical Foundation of Life</chapterName>
+        <shareWithInitialString>IT20_R204_studtitle_404</shareWithInitialString>
+        <shareName>IT20_R204_studtitle_404</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R204.StudyPlanEnhancement" index="460" method="" >
+        <user_id>IT20_R204_student_460</user_id>>
+        <Role>student</Role>
+        <context_id>IT20_R204_studcontext_460</context_id>
+        <context_title>IT20_R204_studtitle_460</context_title>
+        <assessmentname>IT204_static Assessment_460</assessmentname>
+        <questionset>Test Question IT20_R204_460</questionset>
+        <questiontext>Test Question IT20_R204_460</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <diaassessmentname>IT204_static Assessment_460</diaassessmentname>
+        <chapterName>The Chemical Foundation of Life</chapterName>
+        <shareWithInitialString>IT20_R204_studtitle_460</shareWithInitialString>
+        <shareName>IT20_R204_studtitle_460</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R204.StudyPlanEnhancement" index="494" method="" >
+        <user_id>IT20_R204_student_494</user_id>>
+        <Role>student</Role>
+        <context_id>IT20_R204_studcontext_494</context_id>
+        <context_title>IT20_R204_studtitle_494</context_title>
+        <assessmentname>IT204_static Assessment_494</assessmentname>
+        <questionset>Test Question IT20_R204_494</questionset>
+        <questiontext>Test Question IT20_R204_494</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <diaassessmentname>IT204_static Assessment_494</diaassessmentname>
+        <chapterName>The Chemical Foundation of Life</chapterName>
+        <shareWithInitialString>IT20_R204_studtitle_494</shareWithInitialString>
+        <shareName>IT20_R204_studtitle_494</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R204.StudyPlanEnhancement" index="553" method="" >
+        <user_id>IT20_R204_student_553</user_id>>
+        <Role>student</Role>
+        <context_id>IT20_R204_studcontext_553</context_id>
+        <context_title>IT20_R204_studtitle_553</context_title>
+        <assessmentname>IT204_static Assessment_553</assessmentname>
+        <questionset>Test Question IT20_R204_553</questionset>
+        <questiontext>Test Question IT20_R204_553</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <diaassessmentname>IT204_static Assessment_553</diaassessmentname>
+        <chapterName>The Chemical Foundation of Life</chapterName>
+        <shareWithInitialString>IT20_R204_studtitle_553</shareWithInitialString>
+        <shareName>IT20_R204_studtitle_553</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R204.StudyPlanEnhancement" index="553" method="" >
+        <user_id>IT20_R204_student_553</user_id>>
+        <Role>student</Role>
+        <context_id>IT20_R204_studcontext_553</context_id>
+        <context_title>IT20_R204_studtitle_553</context_title>
+        <assessmentname>IT204_static Assessment_553</assessmentname>
+        <questionset>Test Question IT20_R204_553</questionset>
+        <questiontext>Test Question IT20_R204_553</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <diaassessmentname>IT204_static Assessment_553</diaassessmentname>
+        <chapterName>The Chemical Foundation of Life</chapterName>
+        <shareWithInitialString>IT20_R204_studtitle_553</shareWithInitialString>
+        <shareName>IT20_R204_studtitle_553</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R204.StudyPlanEnhancement" index="632" method="" >
+        <user_id>IT20_R204_instructor_632_1</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R204_studcontext_632</context_id>
+        <context_title>IT20_R204_studtitle_632</context_title>
+        <assessmentname>IT204_static Assessment_632</assessmentname>
+        <shareWithInitialString>IT20_R204_studtitle_632</shareWithInitialString>
+        <shareName>IT20_R204_studtitle_632</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <searchquestion>true</searchquestion>
+        <customassignmentname>New Name</customassignmentname>
+        <noOfQuestions>1</noOfQuestions>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R204.StudyPlanEnhancement" index="632_1" method="" >
+        <user_id>IT20_R204_student_553</user_id>>
+        <Role>student</Role>
+        <context_id>IT20_R204_studcontext_632</context_id>
+        <context_title>IT20_R204_studtitle_632</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R204.StudyPlanEnhancement" index="711" method="" >
+        <user_id>IT20_R204_student_711</user_id>>
+        <Role>student</Role>
+        <context_id>IT20_R204_studcontext_711</context_id>
+        <context_title>IT20_R204_studtitle_711</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R204.StudyPlanEnhancement" index="808" method="" >
+        <user_id>IT20_R204_instructor_808</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R204_studcontext_808</context_id>
+        <context_title>IT20_R204_studtitle_808</context_title>
+        <assessmentname>IT204_static Assessment_808</assessmentname>
+        <shareWithInitialString>IT20_R204_studtitle_808</shareWithInitialString>
+        <shareName>IT20_R204_studtitle_808</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <chapterName>The Chemical Foundation of Life</chapterName>
+        <duetime>12:00 AM</duetime>
+        <diaassessmentname>IT204_static Assessment_808</diaassessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question IT20_R204_808</questionset>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R204.StudyPlanEnhancement" index="808_1" method="" >
+        <user_id>IT20_R204_student_808_1</user_id>>
+        <Role>student</Role>
+        <context_id>IT20_R204_studcontext_808</context_id>
+        <context_title>IT20_R204_studtitle_808</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R204.StudyPlanEnhancement" index="1042" method="" >
+        <user_id>IT20_R204_instructor_1042</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R204_studcontext_1042</context_id>
+        <context_title>IT20_R204_studtitle_1042</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R204.StudyPlanEnhancement" index="1104" method="" >
+        <user_id>IT20_R204_student_1104</user_id>>
+        <Role>student</Role>
+        <context_id>IT20_R204_studcontext_1104</context_id>
+        <course_type>ls</course_type>
+        <context_title>IT20_R204_studtitle_1104</context_title>
+        <assessmentname>IT204_static Assessment_1104</assessmentname>
+        <questionset>Test Question IT20_R204_1104</questionset>
+        <questiontext>Test Question IT20_R204_1104</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <diaassessmentname>IT204_static Assessment_1104</diaassessmentname>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R204.StudyPlanEnhancement" index="1193" method="" >
+        <user_id>IT20_R204_student_1193</user_id>>
+        <Role>student</Role>
+        <context_id>IT20_R204_studcontext_1193</context_id>
+        <course_type>ls</course_type>
+        <context_title>IT20_R204_studtitle_1193</context_title>
+        <assessmentname>IT204_static Assessment_1193</assessmentname>
+        <questionset>Test Question IT20_R204_1193</questionset>
+        <questiontext>Test Question IT20_R204_1193</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <diaassessmentname>IT204_static Assessment_1193</diaassessmentname>
+        <reservforassignment>false</reservforassignment>
+        <instructoronlyflag>false</instructoronlyflag>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R204.StudyPlanEnhancement" index="1260" method="" >
+        <user_id>IT20_R204_student_1260</user_id>>
+        <Role>student</Role>
+        <context_id>IT20_R204_studcontext_1260</context_id>
+        <course_type>ls</course_type>
+        <context_title>IT20_R204_studtitle_1260</context_title>
+        <assessmentname>IT204_static Assessment_1260</assessmentname>
+        <questionset>Test Question IT20_R204_1260</questionset>
+        <questiontext>Test Question IT20_R204_1260</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>IT20_R204_studtitle_1260</shareWithInitialString>
+        <shareName>IT20_R204_studtitle_1260</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <course_type>ls</course_type>
+        <duetime>12:00 AM</duetime>
+        <searchquestion>true</searchquestion>
+        <customassignmentname>New Name</customassignmentname>
+        <noOfQuestions>1</noOfQuestions>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R204.StudyPlanEnhancement" index="1260_1" method="" >
+        <user_id>IT20_R204_instructor_1260_1</user_id>>
+        <Role>instructor</Role>
+        <course_type>ls</course_type>
+        <context_id>IT20_R204_studcontext_1260</context_id>
+        <context_title>IT20_R204_studtitle_1260</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R204.StudyPlanEnhancement" index="1340" method="" >
+        <user_id>IT20_R204_student_1340</user_id>>
+        <Role>student</Role>
+        <course_type>ls</course_type>
+        <context_id>IT20_R204_studcontext_1340</context_id>
+        <context_title>IT20_R204_studtitle_1340</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R204.StudyPlanEnhancement" index="1440" method="" >
+        <user_id>IT20_R204_instructor_1440</user_id>>
+        <Role>instructor</Role>
+        <course_type>ls</course_type>
+        <context_id>IT20_R204_studcontext_1440</context_id>
+        <context_title>IT20_R204_studtitle_1440</context_title>
+        <assessmentname>IT204_static Assessment_1440</assessmentname>
+        <shareWithInitialString>IT20_R204_studtitle_1440</shareWithInitialString>
+        <shareName>IT20_R204_studtitle_1440</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <chapterName>The European Realm</chapterName>
+        <duetime>12:00 AM</duetime>
+        <diaassessmentname>IT204_static Assessment_1440</diaassessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question IT20_R204_1440</questionset>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R204.StudyPlanEnhancement" index="1440_1" method="" >
+        <user_id>IT20_R204_student_1440_1</user_id>>
+        <Role>student</Role>
+        <course_type>ls</course_type>
+        <context_id>IT20_R204_studcontext_1440</context_id>
+        <context_title>IT20_R204_studtitle_1440</context_title>
+    </testcase>
+
+
+</learningspaces>

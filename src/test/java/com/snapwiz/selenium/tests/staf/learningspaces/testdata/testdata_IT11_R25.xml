@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<learningspaces>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R25.CourseStreamInstructor" index="2" method="courseStreamValidElements">
+        <user_id >IT11_R28_instructor_2</user_id >
+        <Role>instructor</Role>
+        <texttoverify1>Share your knowledge or seek answers...</texttoverify1>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R25.CourseStreamInstructor" index="9" method="courseStreamClickOnRightPane">
+        <user_id >IT11_R28_instructor_9</user_id >
+        <Role>instructor</Role>
+        <texttoverify1>Share your knowledge or seek answers...</texttoverify1>
+        <defaulttextpresent>Share your link...</defaulttextpresent>
+        <filename>img.png</filename>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R25.CourseStreamInstructor" index="19" method="courseStreamVerifyAllRightPaneElements">
+        <user_id >IT11_R28_instructor_19</user_id >
+        <Role>instructor</Role>
+        <filename>img.png</filename>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R25.CourseStreamInstructor" index="32" method="courseStreamAndShare">
+        <user_id >IT11_R28_student_32</user_id >
+        <Role>student</Role>
+        <familyname>805second</familyname>
+        <givenname>805first</givenname>
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R25.CourseStreamInstructor" index="30" method="courseStreamAndShare">
+        <user_id >IT11_R28_instructor_30</user_id >
+        <Role>instructor</Role>
+        <course>Biology</course>
+        <assessmentname>80 Assessment</assessmentname>
+        <questionset>80 Question Set</questionset>
+        <questiontext>80 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <assessmentname>80 Assessment</assessmentname>
+        <shareWithInitialString>805second</shareWithInitialString>
+        <shareName>805first 805second</shareName>
+        <shareWithClass>false</shareWithClass>
+        <studentname>805first 805second</studentname>
+
+
+    </testcase>
+
+</learningspaces>
+
+

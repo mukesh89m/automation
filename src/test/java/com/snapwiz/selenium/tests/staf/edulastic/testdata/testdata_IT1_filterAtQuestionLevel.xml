@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edulastic>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.filterAtQuestionLevel.FilterAtQuestionLevel" index ="10" method="">
+        <assessmentname>IT1_FilterAtQuestionLevelQuestionTrueFalse_10</assessmentname>
+        <questiontext>question text_FilterAtQuestionLevel_10</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <shareWithClass>true</shareWithClass>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.filterAtQuestionLevel.FilterAtQuestionLevel" index ="11" method="">
+        <assessmentname>IT1_FilterAtQuestionLevelQuestionTrueFalse_11</assessmentname>
+        <questiontext>question text_FilterAtQuestionLevel_11</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>district</privacy>
+        <districtName>districtedulastic1234</districtName>
+        <shareWithClass>true</shareWithClass>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.filterAtQuestionLevel.FilterAtQuestionLevel" index ="12" method="">
+        <assessmentname>IT1_FilterAtQuestionLevelQuestionTrueFalse_10</assessmentname>
+        <questiontext>question text_FilterAtQuestionLevel_10</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <districtName>districtedulastic1234</districtName>
+        <shareWithClass>true</shareWithClass>
+        <privacy>school</privacy>
+
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.filterAtQuestionLevel.FilterAtQuestionLevel" index ="13" method="">
+        <assessmentname>IT1_FilterAtQuestionLevelQuestionTrueFalse_13</assessmentname>
+        <questiontext>question text_FilterAtQuestionLevel_13</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Private</privacy>
+        <districtName>districtanotheredulastic1234</districtName>
+        <shareWithClass>true</shareWithClass>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.filterAtQuestionLevel.FilterAtQuestionLevel" index ="14" method="">
+        <assessmentname>IT1_FilterAtQuestionLevelQuestionTrueFalse_10</assessmentname>
+        <questiontext>question text_FilterAtQuestionLevel_10</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.filterAtQuestionLevel.FilterAtQuestionLevel" index ="15" method="">
+        <assessmentname>IT1_FilterAtQuestionLevelQuestionAllTypes_15</assessmentname>
+        <questiontext>question text_FilterAtQuestionLevelAllTypes_15</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+        <accessibleBeforeTime>true</accessibleBeforeTime>
+    </testcase>
+</edulastic>

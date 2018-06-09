@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learnon>
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R224.ChangedAssignmentPolicyText" index="298" method="">
+        <user_id>instructor_IT22_R224_12</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R224_12</context_id>
+        <context_title>studtitle_IT22_R224_12</context_title>
+        <assignmentType>Create Custom Assignment</assignmentType>
+        <searchquestion>true</searchquestion>
+        <customassignmentname>custom_assignment_IT22_R224_12</customassignmentname>
+        <noOfQuestions>2</noOfQuestions>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R224.ChangedAssignmentPolicyText" index="21" method="">
+        <user_id>instructor_IT22_R224_21</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R224_21</context_id>
+        <context_title>studtitle_IT22_R224_21</context_title>
+        <assignmentType>Use Pre-created Assignment</assignmentType>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R224.ChangedAssignmentPolicyText" index="30" method="">
+        <user_id>instructor_IT22_R224_30</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R224_30</context_id>
+        <context_title>studtitle_IT22_R224_30</context_title>
+        <assignmentType>Create File based Assignment</assignmentType>
+        <fileBasedAssignmentName>custom_assignment_IT22_R224_30</fileBasedAssignmentName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R224.ChangedAssignmentPolicyText" index="37" method="">
+        <user_id>instructor_IT22_R224_37</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R224_37</context_id>
+        <context_title>studtitle_IT22_R224_37</context_title>
+        <staticAssessment>1.1 Exercise 1: Starter questions</staticAssessment>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R224.ChangedAssignmentPolicyText" index="60" method="assignThisPopOfUsePreCreatedAssignment">
+        <user_id>instructor_IT22_R224_60</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R224_60</context_id>
+        <context_title>studtitle_IT22_R224_60</context_title>
+        <assessmentname>Assignment_IT22_R224_60</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of _IT22_R224_60</questionset>
+        <questiontext>Test Question for _IT22_R224_60</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_IT22_R224_60</shareWithInitialString>
+        <shareName>studtitle_IT22_R224_60</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <studentname>givenname family</studentname>
+        <additionalnote>This is an additional note</additionalnote>
+        <searchquestion>_IT22_R224_60</searchquestion>
+        <customassignmentname>custom_assignment_IT22_R224_60</customassignmentname>
+        <noOfQuestions>2</noOfQuestions>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R224.ChangedAssignmentPolicyText" index="90" method="assignThisPopOfUsePreCreatedAssignment">
+        <user_id>instructor_IT22_R224_90</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R224_90</context_id>
+        <context_title>studtitle_IT22_R224_90</context_title>
+        <assessmentname>Assignment_IT22_R224_90</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of _IT22_R224_90</questionset>
+        <questiontext>Test Question for _IT22_R224_90</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_IT22_R224_90</shareWithInitialString>
+        <shareName>studtitle_IT22_R224_90</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <studentname>givenname family</studentname>
+        <additionalnote>This is an additional note</additionalnote>
+        <searchquestion>_IT22_R224_60</searchquestion>
+        <customassignmentname>custom_assignment_IT22_R224_90</customassignmentname>
+        <noOfQuestions>2</noOfQuestions>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R224.ChangedAssignmentPolicyText" index="90_1" method="assignThisPopOfUsePreCreatedAssignment">
+        <user_id>student_IT22_R224_100</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R224_100</context_id>
+        <context_title>studtitle_IT22_R224_100</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R224.ChangedAssignmentPolicyText" index="100" method="">
+        <user_id>instructor_IT22_R224_100</user_id>
+        <Role>instructor</Role>
+        <filename>img.png</filename>
+        <context_id>studcontext_IT22_R224_100</context_id>
+        <context_title>studtitle_IT22_R224_100</context_title>
+        <assessmentname>FileBasedAssessment_IT22_R224_100</assessmentname>
+        <promptdetails>promptdetails</promptdetails>
+        <shareWithInitialString>studtitle_IT22_R224_100</shareWithInitialString>
+        <shareName>studtitle_IT22_R224_100</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>true</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <fileUpload>true</fileUpload>
+        <filename>img.png</filename>
+        <questionBank>true</questionBank>
+        <totalpoints>2</totalpoints>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R224.ChangedAssignmentPolicyText" index="100_1" method="">
+        <user_id>student_IT22_R224_100</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R224_100</context_id>
+        <context_title>studtitle_IT22_R224_100</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R224.ChangedAssignmentPolicyText" index="110" method="assignThisPopOfUsePreCreatedAssignment">
+        <user_id>instructor_IT22_R224_110</user_id>
+        <Role>instructor</Role>
+        <filename>img.png</filename>
+        <context_id>studcontext_IT22_R224_110</context_id>
+        <context_title>studtitle_IT22_R224_110</context_title>
+        <resourcesname>resourcename_IT22_R224_110_1</resourcesname>
+        <description>desc of resource</description>
+        <filename>img.png</filename>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+        <shareWithInitialString>studtitle_IT22_R224_110</shareWithInitialString>
+        <shareName>studtitle_IT22_R224_110</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <studentname>givenname family</studentname>
+        <additionalnote>This is an additional note</additionalnote>
+        <searchquestion>true</searchquestion>
+        <customassignmentname>custom_assignment_IT22_R224_1101</customassignmentname>
+        <noOfQuestions>2</noOfQuestions>
+        <assignmentReference>resourcename_IT22_R224_110_1</assignmentReference>
+        <gradingpolicystatus>true</gradingpolicystatus>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R224.ChangedAssignmentPolicyText" index="110_1" method="assignThisPopOfUsePreCreatedAssignment">
+        <user_id>student_IT22_R224_110</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R224_110</context_id>
+        <context_title>studtitle_IT22_R224_110</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R224.ChangedAssignmentPolicyText" index="114" method="assignThisPopOfUsePreCreatedAssignment">
+        <user_id>instructor_IT22_R224_114</user_id>
+        <Role>instructor</Role>
+        <filename>img.png</filename>
+        <context_id>studcontext_IT22_R224_114</context_id>
+        <context_title>studtitle_IT22_R224_114</context_title>
+        <resourcesname>resourcename_IT22_R224_114_1</resourcesname>
+        <description>desc of resource</description>
+        <filename>img.png</filename>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+        <shareWithInitialString>studtitle_IT22_R224_114</shareWithInitialString>
+        <shareName>studtitle_IT22_R224_114</shareName>
+        <shareWithClass>true</shareWithClass>
+        <studentname>givenname family</studentname>
+        <additionalnote>This is an additional note</additionalnote>
+        <searchquestion>true</searchquestion>
+        <customassignmentname>custom_assignment_IT22_R224_114</customassignmentname>
+        <noOfQuestions>2</noOfQuestions>
+        <assignmentReference>resourcename_IT22_R224_114_1</assignmentReference>
+        <gradingpolicystatus>true</gradingpolicystatus>
+        <gradeable>false</gradeable>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R224.ChangedAssignmentPolicyText" index="114_1" method="assignThisPopOfUsePreCreatedAssignment">
+        <user_id>student_IT22_R224_114</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R224_114</context_id>
+        <context_title>studtitle_IT22_R224_114</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R224.ChangedAssignmentPolicyText" index="128" method="assignThisPopOfUsePreCreatedAssignment">
+        <user_id>instructor_IT22_R224_128</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R224_128</context_id>
+        <context_title>studtitle_IT22_R224_128</context_title>
+        <filename>img.png</filename>
+    </testcase>
+
+</learnon>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edulastic>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.canvassync.CanvasSync" index ="1" method="">
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.canvassync.CanvasSync" index ="2" method="">
+        <assessmentname>Au_Regression_CanvasSync_2</assessmentname>
+        <questiontext>question text_CanvasSync_question</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <selectgrade>Grade 1</selectgrade>
+        <duedate>30</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>district</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.canvassync.CanvasSync" index ="3" method="">
+        <assessmentname>Regression_CanvasSync_3</assessmentname>
+        <questiontext>question text_CanvasSync_question</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <selectgrade>Grade 1</selectgrade>
+        <duedate>30</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>district</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.canvassync.CanvasSync" index ="4" method="">
+        <assessmentname>Regression_CanvasSync_4</assessmentname>
+        <questiontext>question text_CanvasSync_question</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <selectgrade>Grade 1</selectgrade>
+        <duedate>30</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>district</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.canvassync.CanvasSync" index ="6" method="">
+        <assessmentname>Regression_CanvasSync_6</assessmentname>
+        <questiontext>question text_CanvasSync_question</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <selectgrade>Grade 1</selectgrade>
+        <duedate>30</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>district</privacy>
+    </testcase>
+
+</edulastic>

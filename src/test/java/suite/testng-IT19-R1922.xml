@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+    <test name="IT19-R19.20_test">
+        <classes>
+            <!-- IT19 R19.22  "As an instructor, I should be able to provide feedback on static assessments" -->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1922.InstructorFeedbackInStaticAssessment"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1922.RetakeStaticAssessment"/>
+
+
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<learnon>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R223.MarkBookDataExporter" index="154" method="exportGradeBookGrade">
+        <user_id>student_IT22_R223_154</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R223_154</context_id>
+        <context_title>studtitle_IT22_R223_154</context_title>
+        <assessmentname>Assignment_IT22_R223_154_1</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of _IT22_R223_154</questionset>
+        <questiontext>Test Question for _IT22_R223_154</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_IT22_R223_154</shareWithInitialString>
+        <shareName>studtitle_IT22_R223_154</shareName>
+        <shareWithClass>true</shareWithClass>
+        <duedate>29</duedate>
+        <gradeBookWeighting>true</gradeBookWeighting>
+        <gradeable>true</gradeable>
+        <givenname>ins_firstName_154</givenname>
+        <familyname>ins_lastName_154</familyname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R223.MarkBookDataExporter" index="155" method="exportGradeBookGrade">
+        <assessmentname>Assignment_IT22_R223_154_1</assessmentname>
+        <user_id>student_IT22_R223_155</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R223_154</context_id>
+        <context_title>studtitle_IT22_R223_154</context_title>
+        <givenname>stu_firstName_155</givenname>
+        <familyname>stu_lastName_155</familyname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R223.MarkBookDataExporter" index="156" method="exportGradeBookGrade">
+        <context_title>History 8</context_title>
+        <assessmentname>Assignment_IT22_R223_156</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of _IT22_R223_156</questionset>
+        <questiontext>Test Question for _IT22_R223_156</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>History 8</shareWithInitialString>
+        <shareName>History 8</shareName>
+        <shareWithClass>true</shareWithClass>
+        <duedate>29</duedate>
+        <gradeBookWeighting>true</gradeBookWeighting>
+        <gradeable>true</gradeable>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R223.MarkBookDataExporter" index="157" method="exportGradeBookGrade">
+        <assessmentname>Assignment_IT22_R223_156</assessmentname>
+        <context_title>History 8</context_title>
+    </testcase>
+
+</learnon>

@@ -1,0 +1,221 @@
+<?xml version="1.0"?>
+<learnon>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT17.R58.DiscussionAddedOverLesson" index="10" method="discussionAddedOverLessonByStudent">
+       <user_id>student_IT17.R1_10</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT17.R1_10_1</context_id>
+        <context_title>studtitle_IT17.R1_10_1</context_title>
+	</testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT17.R58.DiscussionAddedOverLesson" index="12" method="discussionAddedOverLessonByInstructor">
+        <user_id>instructor_IT17.R1_11</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT17.R1_11_1</context_id>
+        <context_title>studtitle_IT17.R1_11_1</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT17.R58.DiscussionAddedOverLesson" index="14" method="studentSubmitAssessment">
+        <user_id>instructor_IT17_R58_14</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT17_R58_14_1</context_id>
+        <context_title>studtitle_IT17_R58_14_1</context_title>
+        <assessmentname>IT17_R58_14 Assessment</assessmentname>
+        <questionset>IT17_R58_14 Question Set</questionset>
+        <questiontext>IT17_R58_14 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>stud</shareWithInitialString>
+        <shareName>studtitle_IT17_R58_14_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT17.R58.DiscussionAddedOverLesson" index="16" method="studentSubmitAssessment">
+        <user_id>student_IT17_R58_16</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT17_R58_14_1</context_id>
+        <context_title>studtitle_IT17_R58_14_1</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT17.R58.VerifyTOC" index="18" method="verifyTOC">
+        <user_id>instructor_IT17_R58_18</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT17_R58_18_2</context_id>
+        <context_title>studtitle_IT17_R58_18_2</context_title>
+        <assessmentname>IT17_R58_18 Assessment</assessmentname>
+        <questionset>IT17_R58_18 Question Set</questionset>
+        <questiontext>IT17_R58_18 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>stud</shareWithInitialString>
+        <shareName>studtitle_IT17_R58_18_2</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <filename>img.png</filename>
+        <resourcesname>A_IT17_R58_Resource 18</resourcesname>
+        <description>description</description>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT17.R58.VerifyTOC" index="20" method="verifyTOC">
+        <user_id>student_IT17_R58_20</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT17_R58_18_2</context_id>
+        <context_title>studtitle_IT17_R58_18_2</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT17.R58.ReleaseGradeByInstructor" index="22" method="releaseGradeByInstructor">
+        <user_id>instructor_IT17_R58_22_3</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT17_R58_22_3</context_id>
+        <context_title>studtitle_IT17_R58_22_3</context_title>
+        <assessmentname>IT17_R58_22 Assessment</assessmentname>
+        <questionset>IT17_R58_22 Question Set</questionset>
+        <questiontext>IT17_R58_22 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>stud</shareWithInitialString>
+        <shareName>studtitle_IT17_R58_22_3</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <filename>img.png</filename>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT17.R58.ReleaseGradeByInstructor" index="24" method="releaseGradeByInstructor">
+        <user_id>student_IT17_R58_24_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT17_R58_22_3</context_id>
+        <context_title>studtitle_IT17_R58_22_3</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT17.R58.VerifyAssignmentPolicyPage" index="26" method="verifyAssignmentPolicyPage">
+        <user_id>instructor_IT17_R58_26</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT17_R58_26</context_id>
+        <context_title>studtitle_IT17_R58_26</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT17.R58.VerifyAssignThisPopUp" index="28" method="verifyAssignThisPopUp">
+        <user_id>instructor_IT17_R58_28_3</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT17_R58_28_3</context_id>
+        <context_title>studtitle_IT17_R58_28_3</context_title>
+        <assessmentname>IT17_R58_28 Assessment</assessmentname>
+        <questionset>IT17_R58_28 Question Set</questionset>
+        <questiontext>IT17_R58_28 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>stud</shareWithInitialString>
+        <shareName>studtitle_IT17_R58_28_3</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT17.R58.VerifyAssignThisPopUp" index="30" method="verifyAssignThisPopUp">
+        <user_id>student_IT17_R58_30_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT17_R58_28_3</context_id>
+        <context_title>studtitle_IT17_R58_28_3</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT17.R58.SubmitStaticTest" index="32" method="submitStaticTest">
+        <user_id>student_IT17_R58_32_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT17_R58_32_1</context_id>
+        <context_title>studtitle_IT17_R58_32_1</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT17.R58.VerifyGradableAssignmentCheckBox" index="34" method="verifyGradableAssignmentCheckBox">
+        <user_id>instructor_IT17_R58_34_3</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT17_R58_34_3</context_id>
+        <context_title>studtitle_IT17_R58_34_3</context_title>
+        <assessmentname>IT17_R58_34 Assessment</assessmentname>
+        <questionset>IT17_R58_34 Question Set</questionset>
+        <questiontext>IT17_R58_34 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>stud</shareWithInitialString>
+        <shareName>studtitle_IT17_R58_34_3</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT17.R58.VerifyGradableAssignmentCheckBox" index="36" method="verifyGradableAssignmentCheckBox">
+        <user_id>student_IT17_R58_36_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT17_R58_34_3</context_id>
+        <context_title>studtitle_IT17_R58_34_3</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT17.R58.LabelVerifyInNavigator" index="38" method="labelVerifyInNavigator">
+        <user_id>instructor_IT17_R58_38_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT17_R58_38_1</context_id>
+        <context_title>studtitle_IT17_R58_38_1</context_title>
+        <assessmentname>IT17_R58_38_6 Assessment</assessmentname>
+        <questionset>IT17_R58_38 Question Set</questionset>
+        <questiontext>IT17_R58_38 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>stud</shareWithInitialString>
+        <shareName>studtitle_IT17_R58_38_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <course_type>ls</course_type>
+        <filename>img.png</filename>
+        <resourcesname>Resource IT17 R58 </resourcesname>
+        <gradingpolicystatus>true</gradingpolicystatus>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT17.R58.LabelVerifyInNavigator" index="40" method="labelVerifyInNavigator">
+        <user_id>student_IT17_R58_40_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT17_R58_38_1</context_id>
+        <context_title>studtitle_IT17_R58_38_1</context_title>
+        <filename>img.png</filename>
+        <resourcesname>A Resource IT17 R58 40</resourcesname>
+        <course_type>ls</course_type>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcase.IT17.R58.MyNotesPage" index="42" method="myNotesPage">
+        <user_id>student_IT17_R58_42_6</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT17_R58_42_6</context_id>
+        <context_title>studtitle_IT17_R58_42_6</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT17.R58.LabelVerifyForLsAdaptive" index="44" method="labelVerifyForLsAdaptive">
+        <user_id>instructor_IT17_R58_44_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT17_R58_44_1</context_id>
+        <context_title>studtitle_IT17_R58_44_1</context_title>
+        <assessmentname>IT17_R58_44_6 Assessment</assessmentname>
+        <questionset>IT17_R58_44 Question Set</questionset>
+        <questiontext>IT17_R58_44 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>stud</shareWithInitialString>
+        <shareName>studtitle_IT17_R58_44_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <course_type>ls</course_type>
+        <filename>img.png</filename>
+        <resourcesname>Resource IT17 R44 </resourcesname>
+        <gradingpolicystatus>true</gradingpolicystatus>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT17.R58.LabelVerifyForLsAdaptive" index="46" method="labelVerifyForLsAdaptive">
+        <user_id>student_IT17_R58_46_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT17_R58_44_1</context_id>
+        <context_title>studtitle_IT17_R58_44_1</context_title>
+        <filename>img.png</filename>
+        <resourcesname>A Resource IT17 R58 46</resourcesname>
+        <course_name>learnON History 8 - Sandbox</course_name>
+    </testcase>
+</learnon>

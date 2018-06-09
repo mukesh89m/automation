@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="IT_14_R149-LSRegressionSuite">
+    <classes>         	
+    	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R149.SupportCourseLevelAssessment"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R149.QuitAndContinueOfcourselevelAssessment"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R149.CourseLevelDiagonesticTestProficency"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R149.GradableAssignmentCourseProficency"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R149.CustomeAssignmentCourseProficency"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R149.NavigationFromCourseLevelAssessmentToOtherAssessemnt"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R149.CourseLevelAssessmentOtherthanStaticnotshownTostudent"/>
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->

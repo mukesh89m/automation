@@ -1,0 +1,1733 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.InstructorShouldBeAbleToTryAnyAssignment" index="13" method="" >
+        <user_id>IT20_R201_instructor_13</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R201_studcontext_13</context_id>
+        <context_title>IT20_R201_studtitle_13</context_title>
+        <assessmentname>Assignment_IT20_201_13</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT20_201_13</questionset>
+        <questiontext>Test Question for IT20_201_13</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>IT20_R201_studtitle_13</shareWithInitialString>
+        <shareName>IT20_R201_studtitle_13</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradable>true</gradable>
+        <totalpoints>2</totalpoints>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <resourcesname>A_Resources13</resourcesname>
+        <resoursename>A_Resources13</resoursename>
+        <description>description text</description>
+        <filename>img.png</filename>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.InstructorShouldBeAbleToTryAnyAssignment" index="313" method="" >
+        <user_id>IT20_R201_instructor_313</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R201_studcontext_13</context_id>
+        <context_title>IT20_R201_studtitle_13</context_title>
+        <assessmentname>Assignment_IT20_201_13</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT20_201_13</questionset>
+        <questiontext>Test Question for IT20_201_13</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>IT20_R201_studtitle_13</shareWithInitialString>
+        <shareName>IT20_R201_studtitle_13</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradable>true</gradable>
+        <totalpoints>2</totalpoints>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:15 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <resourcesname>A_Resources13</resourcesname>
+        <resoursename>A_Resources13</resoursename>
+        <description>description text</description>
+        <filename>img.png</filename>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.InstructorShouldBeAbleToTryAnyAssignment" index="14" method="" >
+        <user_id>IT20_R201_instructor_14</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R201_studcontext_14</context_id>
+        <context_title>IT20_R201_studtitle_14</context_title>
+        <assessmentname>Assignment_IT20_201_13</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT20_201_13</questionset>
+        <questiontext>Test Question for IT20_201_13</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>IT20_R201_studtitle_14</shareWithInitialString>
+        <shareName>IT20_R201_studtitle_14</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradable>false</gradable>
+        <totalpoints>2</totalpoints>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <resourcesname>A_Resources14</resourcesname>
+        <resoursename>A_Resources14</resoursename>
+        <description>description text</description>
+        <filename>img.png</filename>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.InstructorShouldBeAbleToTryAnyAssignment" index="15" method="" >
+        <user_id>IT20_R201_instructor_15</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R201_studcontext_15</context_id>
+        <context_title>IT20_R201_studtitle_15</context_title>
+         <assessmentname>Assignment_IT20_201_15</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT20_201_15</questionset>
+        <questiontext>Test Question for IT20_201_15</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>IT20_R201_studtitle_15</shareWithInitialString>
+        <shareName>IT20_R201_studtitle_15</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <totalpoints>2</totalpoints>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.InstructorShouldBeAbleToTryAnyAssignment" index="38" method="" >
+        <user_id>IT20_R201_instructor_38</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R201_studcontext_38</context_id>
+        <context_title>IT20_R201_studtitle_38</context_title>
+        <assessmentname>Assignment_IT20_201_38</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT20_201_38</questionset>
+        <questiontext>Test Question for IT20_201_38</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>IT20_R201_studtitle_38</shareWithInitialString>
+        <shareName>IT20_R201_studtitle_38</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <totalpoints>2</totalpoints>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.InstructorShouldBeAbleToTryAnyAssignment" index="381" method="" >
+        <user_id>IT20_R201_instructor_38</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R201_studcontext_38</context_id>
+        <context_title>IT20_R201_studtitle_38</context_title>
+        <assessmentname>Assignment_IT20_201_38_1</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT20_201_38_1</questionset>
+        <questiontext>Test Question for IT20_201_38_1</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>IT20_R201_studtitle_38</shareWithInitialString>
+        <shareName>IT20_R201_studtitle_38</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <totalpoints>2</totalpoints>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.InstructorShouldBeAbleToTryAnyAssignment" index="382" method="" >
+        <user_id>IT20_R201_instructor_38</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R201_studcontext_38</context_id>
+        <context_title>IT20_R201_studtitle_38</context_title>
+        <assessmentname>Assignment_IT20_201_38_2</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT20_201_38_2</questionset>
+        <questiontext>Test Question for IT20_201_38_2</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>IT20_R201_studtitle_38</shareWithInitialString>
+        <shareName>IT20_R201_studtitle_38</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <totalpoints>2</totalpoints>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.InstructorShouldBeAbleToTryAnyAssignment" index="383" method="" >
+        <user_id>IT20_R201_instructor_38</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R201_studcontext_38</context_id>
+        <context_title>IT20_R201_studtitle_38</context_title>
+        <assessmentname>Assignment_IT20_201_38_3</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT20_201_38_3</questionset>
+        <questiontext>Test Question for IT20_201_38_3</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>IT20_R201_studtitle_38</shareWithInitialString>
+        <shareName>IT20_R201_studtitle_38</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <totalpoints>2</totalpoints>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.InstructorShouldBeAbleToTryAnyAssignment" index="384" method="" >
+        <user_id>IT20_R201_instructor_38</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R201_studcontext_38</context_id>
+        <context_title>IT20_R201_studtitle_38</context_title>
+        <assessmentname>Assignment_IT20_201_38_4</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT20_201_38_4</questionset>
+        <questiontext>Test Question for IT20_201_38_4</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>IT20_R201_studtitle_38</shareWithInitialString>
+        <shareName>IT20_R201_studtitle_38</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <totalpoints>2</totalpoints>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.InstructorShouldBeAbleToTryAnyAssignment" index="131" method="" >
+        <user_id>IT20_R201_mentor_131</user_id>>
+        <Role>mentor</Role>
+        <context_id>IT20_R201_studcontext_131</context_id>
+        <context_title>IT20_R201_studtitle_131</context_title>
+        <assessmentname>Assignment_IT20_201_13</assessmentname>
+        <shareWithInitialString>IT20_R201_studtitle_131</shareWithInitialString>
+        <shareName>IT20_R201_studtitle_131</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradable>true</gradable>
+        <totalpoints>2</totalpoints>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <resourcesname>A_Resources131</resourcesname>
+        <resoursename>A_Resources131</resoursename>
+        <description>description text</description>
+        <filename>img.png</filename>
+        <removeExistingShare>true</removeExistingShare>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.InstructorShouldBeAbleToTryAnyAssignment" index="1311" method="" >
+        <user_id>IT20_R201_mentor_1311</user_id>>
+        <Role>mentor</Role>
+        <context_id>IT20_R201_studcontext_131</context_id>
+        <context_title>IT20_R201_studtitle_131</context_title>
+        <assessmentname>Assignment_IT20_201_13</assessmentname>
+        <shareWithInitialString>IT20_R201_studtitle_131</shareWithInitialString>
+        <shareName>IT20_R201_studtitle_131</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradable>true</gradable>
+        <totalpoints>2</totalpoints>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <resourcesname>A_Resources131</resourcesname>
+        <resoursename>A_Resources131</resoursename>
+        <description>description text</description>
+        <filename>img.png</filename>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.InstructorShouldBeAbleToTryAnyAssignment" index="141" method="" >
+        <user_id>IT20_R201_mentor_141</user_id>>
+        <Role>mentor</Role>
+        <context_id>IT20_R201_studcontext_141</context_id>
+        <context_title>IT20_R201_studtitle_141</context_title>
+        <assessmentname>Assignment_IT20_201_13</assessmentname>
+        <shareWithInitialString>IT20_R201_studtitle_141</shareWithInitialString>
+        <shareName>IT20_R201_studtitle_141</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradable>false</gradable>
+        <totalpoints>2</totalpoints>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <resourcesname>A_Resources141</resourcesname>
+        <resoursename>A_Resources141</resoursename>
+        <description>description text</description>
+        <filename>img.png</filename>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.InstructorShouldBeAbleToTryAnyAssignment" index="151" method="" >
+        <user_id>IT20_R201_mentor_151</user_id>>
+        <Role>mentor</Role>
+        <context_id>IT20_R201_studcontext_151</context_id>
+        <context_title>IT20_R201_studtitle_151</context_title>
+        <assessmentname>Assignment_IT20_201_15</assessmentname>
+        <shareWithInitialString>IT20_R201_studtitle_151</shareWithInitialString>
+        <shareName>IT20_R201_studtitle_151</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <totalpoints>2</totalpoints>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.InstructorShouldBeAbleToTryAnyAssignment" index="40" method="" >
+        <user_id>IT20_R201_instructor_40</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R201_studcontext_40</context_id>
+        <context_title>IT20_R201_studtitle_40</context_title>
+        <assessmentname>Assignment_IT20_201_13</assessmentname>
+        <shareWithInitialString>IT20_R201_studtitle_40</shareWithInitialString>
+        <shareName>IT20_R201_studtitle_40</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <totalpoints>2</totalpoints>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.InstructorShouldBeAbleToTryAnyAssignment" index="41" method="" >
+        <user_id>IT20_R201_instructor_41</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R201_studcontext_41</context_id>
+        <context_title>IT20_R201_studtitle_41</context_title>
+        <assessmentname>Assignment_IT20_201_411</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT20_201_411</questionset>
+        <questiontext>Test Question for IT20_201_411</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>IT20_R201_studtitle_41</shareWithInitialString>
+        <shareName>IT20_R201_studtitle_41</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.InstructorShouldBeAbleToTryAnyAssignment" index="401" method="" >
+        <user_id>IT20_R201_mentor_401</user_id>>
+        <Role>mentor</Role>
+        <context_id>IT20_R201_studcontext_401</context_id>
+        <context_title>IT20_R201_studtitle_401</context_title>
+        <assessmentname>Assignment_IT20_201_13</assessmentname>
+        <shareWithInitialString>IT20_R201_studtitle_401</shareWithInitialString>
+        <shareName>IT20_R201_studtitle_401</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <totalpoints>2</totalpoints>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.InstructorShouldBeAbleToTryAnyAssignment" index="411" method="" >
+        <user_id>IT20_R201_mentor_411</user_id>>
+        <Role>mentor</Role>
+        <context_id>IT20_R201_studcontext_411</context_id>
+        <context_title>IT20_R201_studtitle_411</context_title>
+        <assessmentname>Assignment_IT20_201_411</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT20_201_411</questionset>
+        <questiontext>Test Question for IT20_201_411</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>IT20_R201_studtitle_411</shareWithInitialString>
+        <shareName>IT20_R201_studtitle_411</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.InstructorShouldBeAbleToTryAnyAssignment" index="49" method="" >
+        <user_id>IT20_R201_instructor_49</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R201_studcontext_49</context_id>
+        <context_title>IT20_R201_studtitle_49</context_title>
+        <assessmentname>Assignment_IT20_201_49</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT20_201_49</questionset>
+        <questiontext>Test Question for IT20_201_49</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>IT20_R201_studtitle_49</shareWithInitialString>
+        <shareName>IT20_R201_studtitle_49</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.InstructorShouldBeAbleToTryAnyAssignment" index="491" method="" >
+        <user_id>IT20_R201_mentor_491</user_id>>
+        <Role>mentor</Role>
+        <context_id>IT20_R201_studcontext_491</context_id>
+        <context_title>IT20_R201_studtitle_491</context_title>
+        <assessmentname>Assignment_IT20_201_49</assessmentname>
+        <shareWithInitialString>IT20_R201_studtitle_491</shareWithInitialString>
+        <shareName>IT20_R201_studtitle_491</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.InstructorShouldBeAbleToTryAnyAssignment" index="57" method="" >
+        <user_id>IT20_R201_instructor_57</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R201_studcontext_57</context_id>
+        <context_title>IT20_R201_studtitle_57</context_title>
+        <assessmentname>Assignment_IT20_201_49</assessmentname>
+        <shareWithInitialString>IT20_R201_studtitle_57</shareWithInitialString>
+        <shareName>IT20_R201_studtitle_57</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.InstructorShouldBeAbleToTryAnyAssignment" index="571" method="" >
+        <user_id>IT20_R201_mentor_571</user_id>>
+        <Role>mentor</Role>
+        <context_id>IT20_R201_studcontext_571</context_id>
+        <context_title>IT20_R201_studtitle_571</context_title>
+        <assessmentname>Assignment_IT20_201_49</assessmentname>
+        <shareWithInitialString>IT20_R201_studtitle_571</shareWithInitialString>
+        <shareName>IT20_R201_studtitle_571</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.InstructorShouldBeAbleToTryAnyAssignment" index="63" method="" >
+        <user_id>IT20_R201_instructor_63</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R201_studcontext_63</context_id>
+        <context_title>IT20_R201_studtitle_63</context_title>
+        <assessmentname>Assignment_IT20_201_63</assessmentname>
+        <shareWithInitialString>IT20_R201_studtitle_63</shareWithInitialString>
+        <shareName>IT20_R201_studtitle_63</shareName>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT20_201_63</questionset>
+        <questiontext>Test Question for IT20_201_63</questiontext>
+        <difficultylevel>Easy</difficultylevel>
+        <score>3</score>
+        <questiontype>Static Practice</questiontype>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <scorePerQuestion>5</scorePerQuestion>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.InstructorShouldBeAbleToTryAnyAssignment" index="631" method="" >
+        <assessmentname>Assignment_IT20_201_63</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT20_201_63</questionset>
+        <questiontext>Test Question for IT20_201_63</questiontext>
+        <difficultylevel>Medium</difficultylevel>
+        <score>5</score>
+        <questiontype>Static Practice</questiontype>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.InstructorShouldBeAbleToTryAnyAssignment" index="632" method="" >
+        <assessmentname>Assignment_IT20_201_63</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT20_201_63</questionset>
+        <questiontext>Test Question for IT20_201_63</questiontext>
+        <difficultylevel>Hard</difficultylevel>
+        <score>6</score>
+        <questiontype>Static Practice</questiontype>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.InstructorShouldBeAbleToTryAnyAssignment" index="631" method="" >
+        <user_id>IT20_R201_mentor_631</user_id>>
+        <Role>mentor</Role>
+        <context_id>IT20_R201_studcontext_631</context_id>
+        <context_title>IT20_R201_studtitle_631</context_title>
+        <assessmentname>Assignment_IT20_201_63</assessmentname>
+        <shareWithInitialString>IT20_R201_studtitle_631</shareWithInitialString>
+        <shareName>IT20_R201_studtitle_631</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.ReservedForAssignmentCreatedByCmsUser" index="83" method="" >
+        <user_id>IT20_R201_instructor_83</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R201_studcontext_83</context_id>
+        <context_title>IT20_R201_studtitle_83</context_title>
+        <assessmentname>Assignment_IT20_201_83</assessmentname>
+        <shareWithInitialString>IT20_R201_studtitle_83</shareWithInitialString>
+        <shareName>IT20_R201_studtitle_83</shareName>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT20_201_83</questionset>
+        <questiontext>Test Question for IT20_201_83</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.ReservedForAssignmentCreatedByCmsUser" index="831" method="" >
+        <user_id>IT20_R201_mentor_831</user_id>>
+        <Role>mentor</Role>
+        <context_id>IT20_R201_studcontext_831</context_id>
+        <context_title>IT20_R201_studtitle_831</context_title>
+        <assessmentname>Assignment_IT20_201_83</assessmentname>
+        <shareWithInitialString>IT20_R201_studtitle_831</shareWithInitialString>
+        <shareName>IT20_R201_studtitle_831</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.ReservedForAssignmentCreatedByCmsUser" index="108" method="" >
+        <user_id>IT20_R201_instructor_108</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R201_studcontext_108</context_id>
+        <context_title>IT20_R201_studtitle_108</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.ReservedForAssignmentCreatedByCmsUser" index="86" method="" >
+        <user_id>IT20_R201_instructor_86</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R201_studcontext_86</context_id>
+        <context_title>IT20_R201_studtitle_86</context_title>
+        <assessmentname>FileBasedAssessment_R201_86</assessmentname>
+        <promptdetails>promptdetails</promptdetails>
+        <fileUpload>true</fileUpload>
+        <filename>img.png</filename>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.ReservedForAssignmentCreatedByCmsUser" index="110" method="" >
+        <user_id>IT20_R201_instructor_110</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R201_studcontext_110</context_id>
+        <context_title>IT20_R201_studtitle_110</context_title>
+        <assessmentname>Assignment_IT20_201_110</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT20_201_110</questionset>
+        <questiontext>Test Question for IT20_201_110</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT20_201_110</questionset>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.ReservedForAssignmentCreatedByCmsUser" index="1101" method="" >
+        <user_id>IT20_R201_mentor_1101</user_id>>
+        <Role>mentor</Role>
+        <context_id>IT20_R201_studcontext_1101</context_id>
+        <context_title>IT20_R201_studtitle_1101</context_title>
+        <assessmentname>Assignment_IT20_201_110</assessmentname>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.ReservedForAssignmentCreatedByCmsUser" index="115" method="" >
+        <user_id>IT20_R201_instructor_115</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R201_studcontext_115</context_id>
+        <context_title>IT20_R201_studtitle_115</context_title>
+        <assessmentname>Assignment_IT20_201_83</assessmentname>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.ReservedForAssignmentCreatedByCmsUser" index="117" method="" >
+        <user_id>IT20_R201_instructor_117</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R201_studcontext_117</context_id>
+        <context_title>IT20_R201_studtitle_117</context_title>
+        <assessmentname>Assignment_IT20_201_117</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT20_201_117</questionset>
+        <questiontext>Test Question for IT20_201_117</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>IT20_R201_studtitle_117</shareWithInitialString>
+        <shareName>IT20_R201_studtitle_117</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.ReservedForAssignmentCreatedByCmsUser" index="1151" method="" >
+        <user_id>IT20_R201_mentor_1151</user_id>>
+        <Role>mentor</Role>
+        <context_id>IT20_R201_studcontext_1151</context_id>
+        <context_title>IT20_R201_studtitle_1151</context_title>
+        <assessmentname>Assignment_IT20_201_83</assessmentname>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.ReservedForAssignmentCreatedByCmsUser" index="1171" method="" >
+        <user_id>IT20_R201_mentor_1171</user_id>>
+        <Role>mentor</Role>
+        <context_id>IT20_R201_studcontext_1171</context_id>
+        <context_title>IT20_R201_studtitle_1171</context_title>
+        <assessmentname>Assignment_IT20_201_117</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.ReservedForAssignmentCreatedByCmsUser" index="119" method="" >
+        <user_id>IT20_R201_instructor_119</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R201_studcontext_119</context_id>
+        <context_title>IT20_R201_studtitle_119</context_title>
+        <assessmentname>Assignment_IT20_201_119</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT20_201_119</questionset>
+        <questiontext>Test Question for IT20_201_119</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>IT20_R201_studtitle_119</shareWithInitialString>
+        <shareName>IT20_R201_studtitle_119</shareName>
+        <shareWithClass>true</shareWithClass>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.ReservedForAssignmentCreatedByCmsUser" index="1191" method="" >
+        <user_id>IT20_R201_mentor_1191</user_id>>
+        <Role>mentor</Role>
+        <context_id>IT20_R201_studcontext_1191</context_id>
+        <context_title>IT20_R201_studtitle_1191</context_title>
+        <assessmentname>Assignment_IT20_201_119</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.ReservedForAssignmentCreatedByCmsUser" index="127" method="" >
+        <user_id>IT20_R201_instructor_127</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R201_studcontext_127</context_id>
+        <context_title>IT20_R201_studtitle_127</context_title>
+        <assessmentname>Assignment_IT20_201_119</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.ReservedForAssignmentCreatedByCmsUser" index="1271" method="" >
+        <user_id>IT20_R201_mentor_1271</user_id>>
+        <Role>mentor</Role>
+        <context_id>IT20_R201_studcontext_1271</context_id>
+        <context_title>IT20_R201_studtitle_1271</context_title>
+        <assessmentname>Assignment_IT20_201_119</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.ReservedForAssignmentCreatedByCmsUser" index="133" method="" >
+        <user_id>IT20_R201_instructor_133</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R201_studcontext_133</context_id>
+        <context_title>IT20_R201_studtitle_133</context_title>
+        <assessmentname>Assignment_IT20_201_133</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT20_201_133</questionset>
+        <questiontext>Test Question for IT20_201_133</questiontext>
+        <difficultylevel>Easy</difficultylevel>
+        <score>3</score>
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.ReservedForAssignmentCreatedByCmsUser" index="1331" method="" >
+        <assessmentname>Assignment_IT20_201_133</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT20_201_133</questionset>
+        <questiontext>Test Question for IT20_201_133</questiontext>
+        <difficultylevel>Medium</difficultylevel>
+        <score>5</score>
+        <questiontype>Static Practice</questiontype>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.ReservedForAssignmentCreatedByCmsUser" index="1332" method="" >
+        <assessmentname>Assignment_IT20_201_133</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT20_201_133</questionset>
+        <questiontext>Test Question for IT20_201_133</questiontext>
+        <difficultylevel>Hard</difficultylevel>
+        <score>6</score>
+        <questiontype>Static Practice</questiontype>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.ReservedForAssignmentCreatedByCmsUser" index="133_1" method="" >
+        <user_id>IT20_R201_mentor_133_1</user_id>>
+        <Role>mentor</Role>
+        <context_id>IT20_R201_studcontext_133_1</context_id>
+        <context_title>IT20_R201_studtitle_133_1</context_title>
+        <assessmentname>Assignment_IT20_201_133</assessmentname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.AssignmentCreatedThroughCustomAssignment" index="150" method="" >
+        <context_id>IT20_R201_studcontext_150</context_id>
+        <context_title>IT20_R201_studtitle_150</context_title>
+        <name>New Name</name>
+        <customassignmentname>New Name</customassignmentname>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <user_id>IT20_R201_instructor_150</user_id>
+        <Role>instructor</Role>
+</testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.AssignmentCreatedThroughCustomAssignment" index="1501" method="" >
+        <context_id>IT20_R201_studcontext_1501</context_id>
+        <context_title>IT20_R201_studtitle_1501</context_title>
+        <name>New Name</name>
+        <customassignmentname>New Name</customassignmentname>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <user_id>IT20_R201_mentor_1501</user_id>
+        <Role>mentor</Role>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.AssignmentCreatedThroughCustomAssignment" index="175" method="" >
+        <context_id>IT20_R201_studcontext_175</context_id>
+        <context_title>IT20_R201_studtitle_175</context_title>
+        <name>New Name</name>
+        <customassignmentname>New Name</customassignmentname>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <user_id>IT20_R201_instructor_175</user_id>
+        <Role>instructor</Role>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.AssignmentCreatedThroughCustomAssignment" index="167" method="" >
+        <user_id>IT20_R201_instructor_167</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R201_studcontext_167</context_id>
+        <context_title>IT20_R201_studtitle_167</context_title>
+        <assessmentname>Assignment_IT20_201_167</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT20_201_167</questionset>
+        <questiontext>Test Question for IT20_201_167</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT20_201_167</questionset>
+        <name>New Name</name>
+        <customassignmentname>New Name</customassignmentname>
+        <noOfQuestions>4</noOfQuestions>
+        <searchquestion>IT20_201_167</searchquestion>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.AssignmentCreatedThroughCustomAssignment" index="1671" method="" >
+        <user_id>IT20_R201_mentor_1671</user_id>>
+        <Role>mentor</Role>
+        <context_id>IT20_R201_studcontext_1671</context_id>
+        <context_title>IT20_R201_studtitle_1671</context_title>
+        <assessmentname>Assignment_IT20_201_167</assessmentname>
+        <name>New Name</name>
+        <customassignmentname>New Name</customassignmentname>
+        <noOfQuestions>4</noOfQuestions>
+        <searchquestion>IT20_201_167</searchquestion>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.AssignmentCreatedThroughCustomAssignment" index="177" method="" >
+        <user_id>IT20_R201_instructor_177</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R201_studcontext_177</context_id>
+        <context_title>IT20_R201_studtitle_177</context_title>
+        <name>New Name</name>
+        <customassignmentname>New Name</customassignmentname>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>true</searchquestion>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.AssignmentCreatedThroughCustomAssignment" index="1771" method="" >
+        <user_id>IT20_R201_mentor_1771</user_id>>
+        <Role>mentor</Role>
+        <context_id>IT20_R201_studcontext_1771</context_id>
+        <context_title>IT20_R201_studtitle_1771</context_title>
+        <name>New Name</name>
+        <customassignmentname>New Name</customassignmentname>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>true</searchquestion>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.AssignmentCreatedThroughCustomAssignment" index="184" method="" >
+        <user_id>IT20_R201_instructor_184</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R201_studcontext_184</context_id>
+        <context_title>IT20_R201_studtitle_184</context_title>
+        <name>New Name</name>
+        <customassignmentname>New Name</customassignmentname>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>true</searchquestion>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.AssignmentCreatedThroughCustomAssignment" index="185" method="" >
+        <user_id>IT20_R201_instructor_185</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R201_studcontext_185</context_id>
+        <context_title>IT20_R201_studtitle_185</context_title>
+        <name>New Name</name>
+        <customassignmentname>New Name</customassignmentname>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>true</searchquestion>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.AssignmentCreatedThroughCustomAssignment" index="1841" method="" >
+        <user_id>IT20_R201_mentor_1841</user_id>>
+        <Role>mentor</Role>
+        <context_id>IT20_R201_studcontext_1841</context_id>
+        <context_title>IT20_R201_studtitle_1841</context_title>
+        <name>New Name</name>
+        <customassignmentname>New Name</customassignmentname>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>true</searchquestion>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.AssignmentCreatedThroughCustomAssignment" index="1851" method="" >
+        <user_id>IT20_R201_mentor_1851</user_id>>
+        <Role>mentor</Role>
+        <context_id>IT20_R201_studcontext_1851</context_id>
+        <context_title>IT20_R201_studtitle_1851</context_title>
+        <name>New Name</name>
+        <customassignmentname>New Name</customassignmentname>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>true</searchquestion>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.AssignmentCreatedThroughCustomAssignment" index="186" method="" >
+        <user_id>IT20_R201_instructor_186</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R201_studcontext_186</context_id>
+        <context_title>IT20_R201_studtitle_186</context_title>
+        <name>New Name</name>
+        <customassignmentname>New Name</customassignmentname>
+        <noOfQuestions>5</noOfQuestions>
+        <searchquestion>true</searchquestion>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.AssignmentCreatedThroughCustomAssignment" index="1861" method="" >
+        <user_id>IT20_R201_mentor_1861</user_id>>
+        <Role>mentor</Role>
+        <context_id>IT20_R201_studcontext_1861</context_id>
+        <context_title>IT20_R201_studtitle_1861</context_title>
+        <name>New Name</name>
+        <customassignmentname>New Name</customassignmentname>
+        <noOfQuestions>5</noOfQuestions>
+        <searchquestion>true</searchquestion>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.AssignmentCreatedThroughCustomAssignment" index="194" method="" >
+        <user_id>IT20_R201_instructor_194</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R201_studcontext_194</context_id>
+        <context_title>IT20_R201_studtitle_194</context_title>
+        <name>New Name</name>
+        <customassignmentname>New Name</customassignmentname>
+        <noOfQuestions>5</noOfQuestions>
+        <searchquestion>true</searchquestion>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.AssignmentCreatedThroughCustomAssignment" index="1941" method="" >
+        <user_id>IT20_R201_mentor_1941</user_id>>
+        <Role>mentor</Role>
+        <context_id>IT20_R201_studcontext_1941</context_id>
+        <context_title>IT20_R201_studtitle_1941</context_title>
+        <name>New Name</name>
+        <customassignmentname>New Name</customassignmentname>
+        <noOfQuestions>5</noOfQuestions>
+        <searchquestion>true</searchquestion>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.AssignmentCreatedThroughCustomAssignment" index="200" method="" >
+        <user_id>IT20_R201_instructor_200</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R201_studcontext_200</context_id>
+        <context_title>IT20_R201_studtitle_200</context_title>
+        <name>New Name</name>
+        <customassignmentname>New Name</customassignmentname>
+        <noOfQuestions>1</noOfQuestions>
+        <searchquestion>true</searchquestion>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.AssignmentCreatedThroughCustomAssignment" index="200" method="" >
+        <user_id>IT20_R201_instructor_200</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R201_studcontext_200</context_id>
+        <context_title>IT20_R201_studtitle_200</context_title>
+        <name>New Name</name>
+        <customassignmentname>New Name</customassignmentname>
+        <noOfQuestions>1</noOfQuestions>
+        <searchquestion>true</searchquestion>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.AssignmentCreatedThroughCustomAssignment" index="201" method="" >
+        <noOfQuestions>1</noOfQuestions>
+        <searchquestion>true</searchquestion>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.AssignmentCreatedThroughCustomAssignment" index="202" method="" >
+        <noOfQuestions>1</noOfQuestions>
+        <searchquestion>true</searchquestion>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.AssignmentCreatedThroughCustomAssignment" index="2001" method="" >
+        <user_id>IT20_R201_mentor_2001</user_id>>
+        <Role>mentor</Role>
+        <context_id>IT20_R201_studcontext_2001</context_id>
+        <context_title>IT20_R201_studtitle_2001</context_title>
+        <name>New Name</name>
+        <customassignmentname>New Name</customassignmentname>
+        <noOfQuestions>1</noOfQuestions>
+        <searchquestion>true</searchquestion>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.AssignmentCreatedThroughCustomAssignment" index="2011" method="" >
+        <noOfQuestions>1</noOfQuestions>
+        <searchquestion>true</searchquestion>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.AssignmentCreatedThroughCustomAssignment" index="2021" method="" >
+        <noOfQuestions>1</noOfQuestions>
+        <searchquestion>true</searchquestion>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.DiagnosticAssessmentFromStudy" index="217" method="" >
+        <user_id>IT20_R201_instructor_217</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT20_R201_217</context_id>
+        <context_title>studtitle_IT20_R201_217</context_title>
+        <assessmentname>IT20_R201_Assessment_217</assessmentname>
+        <questiontype>Adaptive Component Diagnostic</questiontype>
+        <questionset>Test Question IT20_R201_217</questionset>
+        <questiontext>Test QuestionIT20_R201_217</questiontext>
+        <learningobjective>true</learningobjective>
+        <reservforassignment>false</reservforassignment>
+        <newChapterName>Diagnostic_Assessment_IT20_R201_217</newChapterName>
+        <chapterName>Diagnostic_Assessment_IT20_R201_217</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.DiagnosticAssessmentFromStudy" index="2171" method="" >
+        <user_id>IT20_R201_mentor_2171</user_id>>
+        <Role>mentor</Role>
+        <context_id>studcontext_IT20_R201_2171</context_id>
+        <context_title>studtitle_IT20_R201_2171</context_title>
+        <assessmentname>IT20_R201_Assessment_217</assessmentname>
+        <questiontype>Adaptive Component Diagnostic</questiontype>
+        <newChapterName>Diagnostic_Assessment_IT20_R201_217</newChapterName>
+        <chapterName>Diagnostic_Assessment_IT20_R201_217</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.DiagnosticAssessmentFromStudy" index="243" method="" >
+        <user_id>IT20_R201_instructor_243</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT20_R201_243</context_id>
+        <context_title>studtitle_IT20_R201_243</context_title>
+        <assessmentname>IT20_R201_Assessment_243</assessmentname>
+        <questiontype>Adaptive Component Diagnostic</questiontype>
+        <questionset>Test Question IT20_R201_243</questionset>
+        <questiontext>Test QuestionIT20_R201_243</questiontext>
+        <learningobjective>true</learningobjective>
+        <reservforassignment>false</reservforassignment>
+        <newChapterName>Diagnostic_Assessment_IT20_R201_243</newChapterName>
+        <chapterName>Diagnostic_Assessment_IT20_R201_243</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.DiagnosticAssessmentFromStudy" index="2431" method="" >
+        <user_id>IT20_R201_mentor_2431</user_id>>
+        <Role>mentor</Role>
+        <context_id>studcontext_IT20_R201_2431</context_id>
+        <context_title>studtitle_IT20_R201_2431</context_title>
+        <assessmentname>IT20_R201_Assessment_243</assessmentname>
+        <questiontype>Adaptive Component Diagnostic</questiontype>
+        <questionset>Test Question IT20_R201_243</questionset>
+        <questiontext>Test QuestionIT20_R201_243</questiontext>
+        <learningobjective>true</learningobjective>
+        <reservforassignment>false</reservforassignment>
+        <newChapterName>Diagnostic_Assessment_IT20_R201_243</newChapterName>
+        <chapterName>Diagnostic_Assessment_IT20_R201_243</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.DiagnosticAssessmentFromStudy" index="244" method="" >
+        <user_id>IT20_R201_instructor_244</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT20_R201_244</context_id>
+        <context_title>studtitle_IT20_R201_244</context_title>
+        <assessmentname>IT20_R201_Assessment_217</assessmentname>
+        <questiontype>Adaptive Component Diagnostic</questiontype>
+        <newChapterName>Diagnostic_Assessment_IT20_R201_217</newChapterName>
+        <chapterName>Diagnostic_Assessment_IT20_R201_217</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.DiagnosticAssessmentFromStudy" index="2441" method="" >
+        <user_id>IT20_R201_instructor_2441</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT20_R201_2441</context_id>
+        <context_title>studtitle_IT20_R201_2441</context_title>
+        <assessmentname>IT20_R201_Assessment_217</assessmentname>
+        <questiontype>Adaptive Component Diagnostic</questiontype>
+        <newChapterName>Diagnostic_Assessment_IT20_R201_217</newChapterName>
+        <chapterName>Diagnostic_Assessment_IT20_R201_217</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.DiagnosticAssessmentFromStudy" index="250" method="" >
+        <user_id>IT20_R201_instructor_250</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT20_R201_250</context_id>
+        <context_title>studtitle_IT20_R201_250</context_title>
+        <assessmentname>IT20_R201_Assessment_250</assessmentname>
+        <questiontype>Adaptive Component Diagnostic</questiontype>
+        <questionset>Test Question IT20_R201_250</questionset>
+        <questiontext>Test QuestionIT20_R201_250</questiontext>
+        <learningobjective>true</learningobjective>
+        <reservforassignment>false</reservforassignment>
+        <newChapterName>Diagnostic_Assessment_IT20_R201_250</newChapterName>
+        <chapterName>Diagnostic_Assessment_IT20_R201_250</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.DiagnosticAssessmentFromStudy" index="251" method="" >
+        <user_id>IT20_R201_instructor_251</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT20_R201_251</context_id>
+        <context_title>studtitle_IT20_R201_251</context_title>
+        <assessmentname>IT20_R201_Assessment_217</assessmentname>
+        <questiontype>Adaptive Component Diagnostic</questiontype>
+        <newChapterName>Diagnostic_Assessment_IT20_R201_217</newChapterName>
+        <chapterName>Diagnostic_Assessment_IT20_R201_217</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.DiagnosticAssessmentFromStudy" index="2511" method="" >
+        <user_id>IT20_R201_mentor_2511</user_id>>
+        <Role>mentor</Role>
+        <context_id>studcontext_IT20_R201_2511</context_id>
+        <context_title>studtitle_IT20_R201_2511</context_title>
+        <assessmentname>IT20_R201_Assessment_217</assessmentname>
+        <questiontype>Adaptive Component Diagnostic</questiontype>
+        <newChapterName>Diagnostic_Assessment_IT20_R201_217</newChapterName>
+        <chapterName>Diagnostic_Assessment_IT20_R201_217</chapterName>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.DiagnosticAssessmentFromStudy" index="252" method="" >
+        <user_id>IT20_R201_instructor_252</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT20_R201_252</context_id>
+        <context_title>studtitle_IT20_R201_252</context_title>
+        <assessmentname>IT20_R201_Assessment_243</assessmentname>
+        <questiontype>Adaptive Component Diagnostic</questiontype>
+        <newChapterName>Diagnostic_Assessment_IT20_R201_243</newChapterName>
+        <chapterName>Diagnostic_Assessment_IT20_R201_243</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.DiagnosticAssessmentFromStudy" index="2521" method="" >
+        <user_id>IT20_R201_mentor_2521</user_id>>
+        <Role>mentor</Role>
+        <context_id>studcontext_IT20_R201_2521</context_id>
+        <context_title>studtitle_IT20_R201_2521</context_title>
+        <assessmentname>IT20_R201_Assessment_243</assessmentname>
+        <questiontype>Adaptive Component Diagnostic</questiontype>
+        <newChapterName>Diagnostic_Assessment_IT20_R201_243</newChapterName>
+        <chapterName>Diagnostic_Assessment_IT20_R201_243</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.DiagnosticAssessmentFromStudy" index="260" method="" >
+        <user_id>IT20_R201_instructor_260</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT20_R201_260</context_id>
+        <context_title>studtitle_IT20_R201_260</context_title>
+        <assessmentname>IT20_R201_Assessment_243</assessmentname>
+        <questiontype>Adaptive Component Diagnostic</questiontype>
+        <newChapterName>Diagnostic_Assessment_IT20_R201_243</newChapterName>
+        <chapterName>Diagnostic_Assessment_IT20_R201_243</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.DiagnosticAssessmentFromStudy" index="2601" method="" >
+        <user_id>IT20_R201_mentor_2601</user_id>>
+        <Role>mentor</Role>
+        <context_id>studcontext_IT20_R201_2601</context_id>
+        <context_title>studtitle_IT20_R201_2601</context_title>
+        <assessmentname>IT20_R201_Assessment_243</assessmentname>
+        <questiontype>Adaptive Component Diagnostic</questiontype>
+        <newChapterName>Diagnostic_Assessment_IT20_R201_243</newChapterName>
+        <chapterName>Diagnostic_Assessment_IT20_R201_243</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.DiagnosticAssessmentFromStudy" index="266" method="" >
+        <user_id>IT20_R201_instructor_266</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R201_studcontext_266</context_id>
+        <context_title>IT20_R201_studtitle_266</context_title>
+        <assessmentname>Assignment_IT20_201_266</assessmentname>
+        <difficultylevel>Easy</difficultylevel>
+        <score>3</score>
+        <questiontype>Adaptive Component Diagnostic</questiontype>
+        <questionset>Test Question IT20_R201_266</questionset>
+        <questiontext>Test QuestionIT20_R201_266</questiontext>
+        <learningobjective>true</learningobjective>
+        <reservforassignment>false</reservforassignment>
+        <newChapterName>Diagnostic_Assessment_IT20_R201_266</newChapterName>
+        <chapterName>Diagnostic_Assessment_IT20_R201_266</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.DiagnosticAssessmentFromStudy" index="2661" method="" >
+        <assessmentname>Assignment_IT20_201_266</assessmentname>
+        <questiontype>Adaptive Component Diagnostic</questiontype>
+        <questionset>Test Question IT20_R201_266</questionset>
+        <questiontext>Test QuestionIT20_R201_266</questiontext>
+        <difficultylevel>Medium</difficultylevel>
+        <score>5</score>
+        <newChapterName>Diagnostic_Assessment_IT20_R201_266</newChapterName>
+        <chapterName>Diagnostic_Assessment_IT20_R201_266</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.DiagnosticAssessmentFromStudy" index="2662" method="" >
+        <assessmentname>Assignment_IT20_201_266</assessmentname>
+        <questiontype>Adaptive Component Diagnostic</questiontype>
+        <questionset>Test Question IT20_R201_266</questionset>
+        <questiontext>Test QuestionIT20_R201_266</questiontext>
+        <difficultylevel>Hard</difficultylevel>
+        <score>6</score>
+        <newChapterName>Diagnostic_Assessment_IT20_R201_266</newChapterName>
+        <chapterName>Diagnostic_Assessment_IT20_R201_266</chapterName>
+    </testcase>
+
+
+   <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.DiagnosticAssessmentFromStudy" index="26611" method="" >
+        <user_id>IT20_R201_mentor_2661</user_id>>
+        <Role>mentor</Role>
+        <context_id>IT20_R201_studcontext_2661</context_id>
+        <context_title>IT20_R201_studtitle_2616</context_title>
+        <assessmentname>Assignment_IT20_201_266</assessmentname>
+        <difficultylevel>Easy</difficultylevel>
+        <score>5</score>
+        <questiontype>Adaptive Component Diagnostic</questiontype>
+        <questionset>Test Question IT20_R201_266</questionset>
+        <questiontext>Test QuestionIT20_R201_266</questiontext>
+        <learningobjective>true</learningobjective>
+        <reservforassignment>false</reservforassignment>
+        <newChapterName>Diagnostic_Assessment_IT20_R201_266</newChapterName>
+        <chapterName>Diagnostic_Assessment_IT20_R201_266</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.AdaptivePracticeAssessmentFromStudy" index="283" method="" >
+        <user_id>IT20_R201_instructor_283</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R201_studcontext_283</context_id>
+        <context_title>IT20_R201_studtitle_283</context_title>
+        <assessmentname>Practice Assessment_283</assessmentname>
+        <questiontype>Adaptive Component Practice</questiontype>
+        <questionset>Test Question IT20_R201_283</questionset>
+        <questiontext>Test Question IT20_R201_283</questiontext>
+        <learningobjective>true</learningobjective>
+        <reservforassignment>false</reservforassignment>
+        <useWriteBoard>true</useWriteBoard>
+        <newChapterName>Diagnostic_Assessment_IT20_R203_283</newChapterName>
+        <chapterName>Diagnostic_Assessment_IT20_R203_283</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.AdaptivePracticeAssessmentFromStudy" index="2831" method="" >
+        <user_id>IT20_R201_mentor_2831</user_id>>
+        <Role>mentor</Role>
+        <context_id>IT20_R201_studcontext_2831</context_id>
+        <context_title>IT20_R201_studtitle_2831</context_title>
+        <assessmentname>Practice Assessment_283</assessmentname>
+        <questiontype>Adaptive Component Practice</questiontype>
+        <questionset>Test Question IT20_R201_283</questionset>
+        <questiontext>Test Question IT20_R201_283</questiontext>
+        <learningobjective>true</learningobjective>
+        <reservforassignment>false</reservforassignment>
+        <useWriteBoard>true</useWriteBoard>
+        <newChapterName>Diagnostic_Assessment_IT20_R203_283</newChapterName>
+        <chapterName>Diagnostic_Assessment_IT20_R203_283</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.AdaptivePracticeAssessmentFromStudy" index="298" method="" >
+        <user_id>IT20_R201_instructor_298</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R201_studcontext_298</context_id>
+        <context_title>IT20_R201_studtitle_298</context_title>
+        <assessmentname>Practice Assessment_298</assessmentname>
+        <questiontype>Adaptive Component Practice</questiontype>
+        <questionset>Test Question IT20_R201_298</questionset>
+        <questiontext>Test Question IT20_R201_298</questiontext>
+        <learningobjective>true</learningobjective>
+        <reservforassignment>false</reservforassignment>
+        <useWriteBoard>true</useWriteBoard>
+        <newChapterName>Diagnostic_Assessment_IT20_R203_298</newChapterName>
+        <chapterName>Diagnostic_Assessment_IT20_R203_298</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.AdaptivePracticeAssessmentFromStudy" index="2981" method="" >
+        <user_id>IT20_R201_mentor_2981</user_id>>
+        <Role>mentor</Role>
+        <context_id>IT20_R201_studcontext_2981</context_id>
+        <context_title>IT20_R201_studtitle_2981</context_title>
+        <assessmentname>Practice Assessment_298</assessmentname>
+        <questiontype>Adaptive Component Practice</questiontype>
+        <questionset>Test Question IT20_R201_298</questionset>
+        <questiontext>Test Question IT20_R201_298</questiontext>
+        <learningobjective>true</learningobjective>
+        <reservforassignment>false</reservforassignment>
+        <useWriteBoard>true</useWriteBoard>
+        <newChapterName>Diagnostic_Assessment_IT20_R203_298</newChapterName>
+        <chapterName>Diagnostic_Assessment_IT20_R203_298</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.AdaptivePracticeAssessmentFromStudy" index="308" method="" >
+        <user_id>IT20_R201_instructor_308</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R201_studcontext_308</context_id>
+        <context_title>IT20_R201_studtitle_308</context_title>
+        <assessmentname>Practice Assessment_283</assessmentname>
+        <questiontype>Adaptive Component Practice</questiontype>
+        <questionset>Test Question IT20_R201_283</questionset>
+        <questiontext>Test Question IT20_R201_283</questiontext>
+        <learningobjective>true</learningobjective>
+        <reservforassignment>false</reservforassignment>
+        <useWriteBoard>true</useWriteBoard>
+        <newChapterName>Diagnostic_Assessment_IT20_R203_283</newChapterName>
+        <chapterName>Diagnostic_Assessment_IT20_R203_283</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.AdaptivePracticeAssessmentFromStudy" index="3081" method="" >
+        <user_id>IT20_R201_mentor_3081</user_id>>
+        <Role>mentor</Role>
+        <context_id>IT20_R201_studcontext_3081</context_id>
+        <context_title>IT20_R201_studtitle_3081</context_title>
+        <assessmentname>Practice Assessment_283</assessmentname>
+        <questiontype>Adaptive Component Practice</questiontype>
+        <questionset>Test Question IT20_R201_283</questionset>
+        <questiontext>Test Question IT20_R201_283</questiontext>
+        <learningobjective>true</learningobjective>
+        <reservforassignment>false</reservforassignment>
+        <useWriteBoard>true</useWriteBoard>
+        <newChapterName>Diagnostic_Assessment_IT20_R203_283</newChapterName>
+        <chapterName>Diagnostic_Assessment_IT20_R203_283</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.AdaptivePracticeAssessmentFromStudy" index="315" method="" >
+        <user_id>IT20_R201_instructor_315</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R201_studcontext_315</context_id>
+        <context_title>IT20_R201_studtitle_315</context_title>
+        <assessmentname>Practice Assessment_315</assessmentname>
+        <questiontype>Adaptive Component Practice</questiontype>
+        <questionset>Test Question IT20_R201_315</questionset>
+        <questiontext>Test Question IT20_R201_315</questiontext>
+        <learningobjective>true</learningobjective>
+        <reservforassignment>false</reservforassignment>
+        <useWriteBoard>true</useWriteBoard>
+        <newChapterName>Diagnostic_Assessment_IT20_R203_315</newChapterName>
+        <chapterName>Diagnostic_Assessment_IT20_R203_315</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.AdaptivePracticeAssessmentFromStudy" index="3151" method="" >
+        <user_id>IT20_R201_mentor_3151</user_id>>
+        <Role>mentor</Role>
+        <context_id>IT20_R201_studcontext_3151</context_id>
+        <context_title>IT20_R201_studtitle_3151</context_title>
+        <assessmentname>Practice Assessment_315</assessmentname>
+        <questiontype>Adaptive Component Practice</questiontype>
+        <questionset>Test Question IT20_R201_315</questionset>
+        <questiontext>Test Question IT20_R201_315</questiontext>
+        <learningobjective>true</learningobjective>
+        <reservforassignment>false</reservforassignment>
+        <useWriteBoard>true</useWriteBoard>
+        <newChapterName>Diagnostic_Assessment_IT20_R203_315</newChapterName>
+        <chapterName>Diagnostic_Assessment_IT20_R203_315</chapterName>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.AdaptivePracticeAssessmentFromStudy" index="316" method="" >
+        <user_id>IT20_R201_instructor_316</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R201_studcontext_316</context_id>
+        <context_title>IT20_R201_studtitle_316</context_title>
+        <assessmentname>Practice Assessment_283</assessmentname>
+        <questiontype>Adaptive Component Practice</questiontype>
+        <questionset>Test Question IT20_R201_283</questionset>
+        <questiontext>Test Question IT20_R201_283</questiontext>
+        <learningobjective>true</learningobjective>
+        <reservforassignment>false</reservforassignment>
+        <useWriteBoard>true</useWriteBoard>
+        <newChapterName>Diagnostic_Assessment_IT20_R203_283</newChapterName>
+        <chapterName>Diagnostic_Assessment_IT20_R203_283</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.AdaptivePracticeAssessmentFromStudy" index="3161" method="" >
+        <user_id>IT20_R201_mentor_3161</user_id>>
+        <Role>mentor</Role>
+        <context_id>IT20_R201_studcontext_3161</context_id>
+        <context_title>IT20_R201_studtitle_3161</context_title>
+        <assessmentname>Practice Assessment_283</assessmentname>
+        <questiontype>Adaptive Component Practice</questiontype>
+        <questionset>Test Question IT20_R201_283</questionset>
+        <questiontext>Test Question IT20_R201_283</questiontext>
+        <learningobjective>true</learningobjective>
+        <reservforassignment>false</reservforassignment>
+        <useWriteBoard>true</useWriteBoard>
+        <newChapterName>Diagnostic_Assessment_IT20_R203_283</newChapterName>
+        <chapterName>Diagnostic_Assessment_IT20_R203_283</chapterName>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.AdaptivePracticeAssessmentFromStudy" index="317" method="" >
+        <user_id>IT20_R201_instructor_317</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R201_studcontext_317</context_id>
+        <context_title>IT20_R201_studtitle_317</context_title>
+        <assessmentname>Practice Assessment_298</assessmentname>
+        <questiontype>Adaptive Component Practice</questiontype>
+        <questionset>Test Question IT20_R201_298</questionset>
+        <questiontext>Test Question IT20_R201_298</questiontext>
+        <learningobjective>true</learningobjective>
+        <reservforassignment>false</reservforassignment>
+        <useWriteBoard>true</useWriteBoard>
+        <newChapterName>Diagnostic_Assessment_IT20_R203_298</newChapterName>
+        <chapterName>Diagnostic_Assessment_IT20_R203_298</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.AdaptivePracticeAssessmentFromStudy" index="3171" method="" >
+        <user_id>IT20_R201_mentor_3171</user_id>>
+        <Role>mentor</Role>
+        <context_id>IT20_R201_studcontext_3171</context_id>
+        <context_title>IT20_R201_studtitle_3171</context_title>
+        <assessmentname>Practice Assessment_298</assessmentname>
+        <questiontype>Adaptive Component Practice</questiontype>
+        <questionset>Test Question IT20_R201_298</questionset>
+        <questiontext>Test Question IT20_R201_298</questiontext>
+        <learningobjective>true</learningobjective>
+        <reservforassignment>false</reservforassignment>
+        <useWriteBoard>true</useWriteBoard>
+        <newChapterName>Diagnostic_Assessment_IT20_R203_298</newChapterName>
+        <chapterName>Diagnostic_Assessment_IT20_R203_298</chapterName>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.AdaptivePracticeAssessmentFromStudy" index="325" method="" >
+        <user_id>IT20_R201_instructor_325</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R201_studcontext_325</context_id>
+        <context_title>IT20_R201_studtitle_325</context_title>
+        <assessmentname>Practice Assessment_298</assessmentname>
+        <questiontype>Adaptive Component Practice</questiontype>
+        <questionset>Test Question IT20_R201_298</questionset>
+        <questiontext>Test Question IT20_R201_298</questiontext>
+        <learningobjective>true</learningobjective>
+        <reservforassignment>false</reservforassignment>
+        <useWriteBoard>true</useWriteBoard>
+        <newChapterName>Diagnostic_Assessment_IT20_R203_298</newChapterName>
+        <chapterName>Diagnostic_Assessment_IT20_R203_298</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.AdaptivePracticeAssessmentFromStudy" index="3251" method="" >
+        <user_id>IT20_R201_instructor_3251</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R201_studcontext_3251</context_id>
+        <context_title>IT20_R201_studtitle_3251</context_title>
+        <assessmentname>Practice Assessment_298</assessmentname>
+        <questiontype>Adaptive Component Practice</questiontype>
+        <questionset>Test Question IT20_R201_298</questionset>
+        <questiontext>Test Question IT20_R201_298</questiontext>
+        <learningobjective>true</learningobjective>
+        <reservforassignment>false</reservforassignment>
+        <useWriteBoard>true</useWriteBoard>
+        <newChapterName>Diagnostic_Assessment_IT20_R203_298</newChapterName>
+        <chapterName>Diagnostic_Assessment_IT20_R203_298</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.AdaptivePracticeAssessmentFromStudy" index="331" method="" >
+        <user_id>IT20_R201_instructor_331</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R201_studcontext_331</context_id>
+        <context_title>IT20_R201_studtitle_331</context_title>
+        <assessmentname>Assignment_IT20_201_331</assessmentname>
+        <difficultylevel>Easy</difficultylevel>
+        <score>3</score>
+        <questiontype>Adaptive Component Practice</questiontype>
+        <questionset>Test Question IT20_R201_331</questionset>
+        <questiontext>Test QuestionIT20_R201_331</questiontext>
+        <learningobjective>true</learningobjective>
+        <reservforassignment>false</reservforassignment>
+        <newChapterName>Diagnostic_Assessment_IT20_R201_331_1</newChapterName>
+        <chapterName>Diagnostic_Assessment_IT20_R201_331_1</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.AdaptivePracticeAssessmentFromStudy" index="3311" method="" >
+        <assessmentname>Assignment_IT20_201_331</assessmentname>
+        <questiontype>Adaptive Component Practice</questiontype>
+        <questionset>Test Question IT20_R201_331</questionset>
+        <questiontext>Test QuestionIT20_R201_331</questiontext>
+        <difficultylevel>Medium</difficultylevel>
+        <score>5</score>
+        <newChapterName>Diagnostic_Assessment_IT20_R201_331_1</newChapterName>
+        <chapterName>Diagnostic_Assessment_IT20_R201_331_1</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.AdaptivePracticeAssessmentFromStudy" index="3312" method="" >
+        <assessmentname>Assignment_IT20_201_331</assessmentname>
+        <questiontype>Adaptive Component Practice</questiontype>
+        <questionset>Test Question IT20_R201_331</questionset>
+        <questiontext>Test QuestionIT20_R201_331</questiontext>
+        <difficultylevel>Hard</difficultylevel>
+        <score>6</score>
+        <newChapterName>Diagnostic_Assessment_IT20_R201_331_1</newChapterName>
+        <chapterName>Diagnostic_Assessment_IT20_R201_331_1</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.AdaptivePracticeAssessmentFromStudy" index="3333" method="" >
+        <user_id>IT20_R201_mentor_3333</user_id>>
+        <Role>mentor</Role>
+        <context_id>IT20_R201_studcontext_3333</context_id>
+        <context_title>IT20_R201_studtitle_3333</context_title>
+        <assessmentname>Assignment_IT20_201_331</assessmentname>
+        <difficultylevel>Easy</difficultylevel>
+        <score>3</score>
+        <questiontype>Adaptive Component Practice</questiontype>
+        <questionset>Test Question IT20_R201_331</questionset>
+        <questiontext>Test QuestionIT20_R201_331</questiontext>
+        <learningobjective>true</learningobjective>
+        <reservforassignment>false</reservforassignment>
+        <newChapterName>Diagnostic_Assessment_IT20_R201_331_1</newChapterName>
+        <chapterName>Diagnostic_Assessment_IT20_R201_331_1</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.StaticPracticeAssessmentFromStudy" index="348" method="" >
+        <user_id>IT20_R201_instructor_348</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R201_studcontext_348</context_id>
+        <context_title>IT20_R201_studtitle_348</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT201_static Assessment_348</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question IT20_R201_348</questionset>
+        <questiontext>Test Question IT20_R201_348</questiontext>
+        <learningobjective>true</learningobjective>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.StaticPracticeAssessmentFromStudy" index="3481" method="" >
+        <user_id>IT20_R201_mentor_3481</user_id>>
+        <Role>mentor</Role>
+        <context_id>IT20_R201_studcontext_3481</context_id>
+        <context_title>IT20_R201_studtitle_3481</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT201_static Assessment_348</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.StaticPracticeAssessmentFromStudy" index="363" method="" >
+        <user_id>IT20_R201_instructor_363</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R201_studcontext_363</context_id>
+        <context_title>IT20_R201_studtitle_363</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT201_static Assessment_363</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question IT20_R201_363</questionset>
+        <questiontext>Test Question IT20_R201_363</questiontext>
+        <learningobjective>true</learningobjective>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.StaticPracticeAssessmentFromStudy" index="3631" method="" >
+        <user_id>IT20_R201_mentor_3631</user_id>>
+        <Role>mentor</Role>
+        <context_id>IT20_R201_studcontext_3631</context_id>
+        <context_title>IT20_R201_studtitle_3631</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT201_static Assessment_363</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.StaticPracticeAssessmentFromStudy" index="373" method="" >
+        <user_id>IT20_R201_instructor_373</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R201_studcontext_373</context_id>
+        <context_title>IT20_R201_studtitle_373</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT201_static Assessment_348</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.StaticPracticeAssessmentFromStudy" index="3731" method="" >
+        <user_id>IT20_R201_mentor_3731</user_id>>
+        <Role>mentor</Role>
+        <context_id>IT20_R201_studcontext_3731</context_id>
+        <context_title>IT20_R201_studtitle_3731</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT201_static Assessment_348</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.StaticPracticeAssessmentFromStudy" index="380" method="" >
+        <user_id>IT20_R201_instructor_380</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R201_studcontext_380</context_id>
+        <context_title>IT20_R201_studtitle_380</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT201_static Assessment_380</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question IT20_R201_380</questionset>
+        <questiontext>Test Question IT20_R201_380</questiontext>
+        <learningobjective>true</learningobjective>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.StaticPracticeAssessmentFromStudy" index="3801" method="" >
+        <user_id>IT20_R201_mentor_3801</user_id>>
+        <Role>mentor</Role>
+        <context_id>IT20_R201_studcontext_3801</context_id>
+        <context_title>IT20_R201_studtitle_3801</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT201_static Assessment_380</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.StaticPracticeAssessmentFromStudy" index="381" method="" >
+        <user_id>IT20_R201_instructor_381</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R201_studcontext_381</context_id>
+        <context_title>IT20_R201_studtitle_381</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT201_static Assessment_348</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.StaticPracticeAssessmentFromStudy" index="3811" method="" >
+        <user_id>IT20_R201_mentor_3811</user_id>>
+        <Role>mentor</Role>
+        <context_id>IT20_R201_studcontext_3811</context_id>
+        <context_title>IT20_R201_studtitle_3811</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT201_static Assessment_348</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.StaticPracticeAssessmentFromStudy" index="382" method="" >
+        <user_id>IT20_R201_instructor_382</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R201_studcontext_382</context_id>
+        <context_title>IT20_R201_studtitle_382</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT201_static Assessment_363</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.StaticPracticeAssessmentFromStudy" index="3821" method="" >
+        <user_id>IT20_R201_mentor_3821</user_id>>
+        <Role>mentor</Role>
+        <context_id>IT20_R201_studcontext_3821</context_id>
+        <context_title>IT20_R201_studtitle_3821</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT201_static Assessment_363</assessmentname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.StaticPracticeAssessmentFromStudy" index="390" method="" >
+        <user_id>IT20_R201_instructor_390</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R201_studcontext_390</context_id>
+        <context_title>IT20_R201_studtitle_390</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT201_static Assessment_363</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.StaticPracticeAssessmentFromStudy" index="3901" method="" >
+        <user_id>IT20_R201_mentor_3901</user_id>>
+        <Role>mentor</Role>
+        <context_id>IT20_R201_studcontext_3901</context_id>
+        <context_title>IT20_R201_studtitle_3901</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT201_static Assessment_363</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.StaticPracticeAssessmentFromStudy" index="396" method="" >
+        <user_id>IT20_R201_instructor_396</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R201_studcontext_396</context_id>
+        <context_title>IT20_R201_studtitle_396</context_title>
+        <assessmentname>Assignment_IT20_201_396</assessmentname>
+        <difficultylevel>Easy</difficultylevel>
+        <score>3</score>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question IT20_R201_396</questionset>
+        <questiontext>Test QuestionIT20_R201_396</questiontext>
+        <learningobjective>true</learningobjective>
+        <reservforassignment>false</reservforassignment>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.StaticPracticeAssessmentFromStudy" index="3961" method="" >
+        <assessmentname>Assignment_IT20_201_396</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question IT20_R201_396</questionset>
+        <questiontext>Test QuestionIT20_R201_396</questiontext>
+        <difficultylevel>Medium</difficultylevel>
+        <score>5</score>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.StaticPracticeAssessmentFromStudy" index="3962" method="" >
+        <assessmentname>Assignment_IT20_201_396</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question IT20_R201_396</questionset>
+        <questiontext>Test QuestionIT20_R201_396</questiontext>
+        <difficultylevel>Hard</difficultylevel>
+        <score>6</score>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.StaticPracticeAssessmentFromStudy" index="3961" method="" >
+        <user_id>IT20_R201_mentor_3961</user_id>>
+        <Role>mentor</Role>
+        <context_id>IT20_R201_studcontext_3961</context_id>
+        <context_title>IT20_R201_studtitle_3961</context_title>
+        <assessmentname>Assignment_IT20_201_396</assessmentname>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.ImpactedAreas" index="413" method="" >
+        <user_id>IT20_R201_instructor_413</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R201_studcontext_413</context_id>
+        <context_title>IT20_R201_studtitle_413</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT201_static Assessment_413</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question IT20_R201_413</questionset>
+        <questiontext>Test Question IT20_R201_413</questiontext>
+        <learningobjective>true</learningobjective>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.ImpactedAreas" index="4131" method="" >
+        <user_id>IT20_R201_mentor_413</user_id>>
+        <Role>mentor</Role>
+        <context_id>IT20_R201_studcontext_4131</context_id>
+        <context_title>IT20_R201_studtitle_4131</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT201_static Assessment_413</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.ImpactedAreas" index="414" method="">
+        <user_id>IT20_R201_instructor_414</user_id>
+        <Role>instructor</Role>
+        <context_id>IT20_R201_studcontext_414</context_id>
+        <context_title>IT20_R201_studtitle_414</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT201_static Assessment_414</assessmentname>
+        <questionset>Test Question IT20_R201_414</questionset>
+        <questiontext>Test Question IT20_R201_414</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <diaassessmentname>IT201_static Assessment_414</diaassessmentname>
+        <QuestionNo>4</QuestionNo>
+        <learningobjective>true</learningobjective>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.ImpactedAreas" index="4141" method="">
+        <user_id>IT20_R201_mentor_4141</user_id>
+        <Role>mentor</Role>
+        <context_id>IT20_R201_studcontext_4141</context_id>
+        <context_title>IT20_R201_studtitle_4141</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT201_static Assessment_414</assessmentname>
+        <questionset>Test Question IT20_R201_414</questionset>
+        <questiontext>Test Question IT20_R201_414</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <diaassessmentname>IT201_static Assessment_414</diaassessmentname>
+        <QuestionNo>4</QuestionNo>
+        <learningobjective>true</learningobjective>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.ImpactedAreas" index="415" method="">
+        <user_id>IT20_R201_instructor_415</user_id>
+        <Role>instructor</Role>
+        <context_id>IT20_R201_studcontext_415</context_id>
+        <context_title>IT20_R201_studtitle_415</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT201_static Assessment_415</assessmentname>
+        <questionset>Test Question IT20_R201_415</questionset>
+        <questiontext>Test Question IT20_R201_415</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <diaassessmentname>IT201_static Assessment_415</diaassessmentname>
+        <QuestionNo>1</QuestionNo>
+        <learningobjective>true</learningobjective>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.ImpactedAreas" index="416" method="">
+        <user_id>IT20_R201_instructor_416</user_id>
+        <Role>instructor</Role>
+        <context_id>IT20_R201_studcontext_416</context_id>
+        <context_title>IT20_R201_studtitle_416</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT201_static Assessment_416</assessmentname>
+        <questionset>Test Question IT20_R201_416</questionset>
+        <questiontext>Test Question IT20_R201_416</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <diaassessmentname>IT201_static Assessment_416</diaassessmentname>
+        <QuestionNo>1</QuestionNo>
+        <learningobjective>true</learningobjective>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.ImpactedAreas" index="420" method="">
+        <user_id>IT20_R201_instructor_420</user_id>
+        <Role>instructor</Role>
+        <context_id>IT20_R201_studcontext_420</context_id>
+        <context_title>IT20_R201_studtitle_420</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT201_static Assessment_420</assessmentname>
+        <questionset>Test Question IT20_R201_420</questionset>
+        <questiontext>Test Question IT20_R201_420</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <diaassessmentname>IT201_static Assessment_420</diaassessmentname>
+        <QuestionNo>1</QuestionNo>
+        <learningobjective>true</learningobjective>
+        <reservforassignment>false</reservforassignment>
+        <needNotToBePubished>false</needNotToBePubished>
+        <status>Draft</status>
+    </testcase>
+</learningspaces>

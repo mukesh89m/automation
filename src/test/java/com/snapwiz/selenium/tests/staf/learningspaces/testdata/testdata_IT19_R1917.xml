@@ -1,0 +1,1148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.CourseAssignmentPolicy" index="36" method="policyConfigurationByAuthor">
+        <user_id>instructor_IT19_R1917_36_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR1917_36_1</context_id>
+        <context_title>studtitleR1917_36_1</context_title>
+        <assignmentpolicyname>configurationpolicy</assignmentpolicyname>
+        <assessmentname>Assignment_IT19_17_1</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT19_17</questionset>
+        <questiontext>Test Question for IT19_17</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitleR1917_36_1</shareWithInitialString>
+        <shareName>studtitleR1917_36_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>configurationpolicy</assignmentpolicy>
+        <gradingpolicy>policy description</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.CourseAssignmentPolicy" index="46" method="policyWithAccentOption">
+        <user_id>instructor_IT19_R1917_46</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR1917_46</context_id>
+        <context_title>studtitleR1917_46</context_title>
+        <assignmentpolicyname>configurationpolicy46</assignmentpolicyname>
+        <assessmentname>Assignment_IT19_46_1</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT19_17</questionset>
+        <questiontext>Test Question for IT19_17</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitleR1917_46</shareWithInitialString>
+        <shareName>studtitleR1917_46</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>configurationpolicy46</assignmentpolicy>
+        <gradingpolicy>policy description</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <languageAccent>Accents must match exactly</languageAccent>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.CourseAssignmentPolicy" index="50" method="policyWithAccentOptionNone">
+        <user_id>instructor_IT19_R1917_50_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR1917_50_1</context_id>
+        <context_title>studtitleR1917_50_1</context_title>
+        <assignmentpolicyname>configurationpolicy50</assignmentpolicyname>
+        <assessmentname>Assignment_IT19_50_1</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT19_17</questionset>
+        <questiontext>Test Question for IT19_17</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitleR1917_50_1</shareWithInitialString>
+        <shareName>studtitleR1917_50_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>configurationpolicy50</assignmentpolicy>
+        <gradingpolicy>policy description</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <languageAccent>None</languageAccent>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.CourseAssignmentPolicy" index="56" method="policyWithReassign">
+        <user_id>instructor_IT19_R1917_56</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR1917_56_1</context_id>
+        <context_title>studtitleR1917_56_1</context_title>
+        <assignmentpolicyname>configurationpolicy56</assignmentpolicyname>
+        <assessmentname>AssessmentA1</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT19_17</questionset>
+        <questiontext>Test Question for IT19_17</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <gradingpolicy>policy description1</gradingpolicy>
+        <languageAccent>Partial credit (50%)</languageAccent>
+        <shareWithInitialString>studtitleR1917_56_1</shareWithInitialString>
+        <shareName>studtitleR1917_56_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>configurationpolicy56</assignmentpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.CourseAssignmentPolicy" index="57" method="policyWithReassign">
+        <user_id>instructor_IT19_R1917_56</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR1917_56_1</context_id>
+        <context_title>studtitleR1917_56_1</context_title>
+        <assignmentpolicyname>configurationpolicy56_1</assignmentpolicyname>
+        <assessmentname>AssessmentA2</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT19_17</questionset>
+        <questiontext>Test Question for IT19_17</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <gradingpolicy>policy description2</gradingpolicy>
+        <languageAccent>None</languageAccent>
+        <shareWithInitialString>studtitleR1917_56_1</shareWithInitialString>
+        <shareName>studtitleR1917_56_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>configurationpolicy56_1</assignmentpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.CourseAssignmentPolicy" index="58" method="policyWithReassign">
+        <user_id>instructor_IT19_R1917_56</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR1917_56_1</context_id>
+        <context_title>studtitleR1917_56_1</context_title>
+        <assignmentpolicyname>configurationpolicy56_2</assignmentpolicyname>
+        <assessmentname>AssessmentA3</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT19_17</questionset>
+        <questiontext>Test Question for IT19_17</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <gradingpolicy>policy description3</gradingpolicy>
+        <languageAccent>Accents must match exactly</languageAccent>
+        <shareWithInitialString>studtitleR1917_56_1</shareWithInitialString>
+        <shareName>studtitleR1917_56_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>configurationpolicy56_2</assignmentpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.CourseAssignmentPolicy" index="59" method="policyWithReassign">
+        <user_id>instructor_IT19_R1917_56</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR1917_56_1</context_id>
+        <context_title>studtitleR1917_56_1</context_title>
+        <assignmentpolicyname>configurationpolicy56_3</assignmentpolicyname>
+        <assessmentname>AssessmentA4</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT19_17</questionset>
+        <questiontext>Test Question for IT19_17</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <gradingpolicy>policy description4</gradingpolicy>
+        <languageAccent>Don’t match accents</languageAccent>
+        <shareWithInitialString>studtitleR1917_56_1</shareWithInitialString>
+        <shareName>studtitleR1917_56_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>configurationpolicy56_3</assignmentpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.CourseAssignmentPolicy" index="60" method="policyWithReassign">
+        <user_id>instructor_IT19_R1917_56</user_id>
+        <Role>instructor</Role>
+        <assignmentpolicyname>configurationpolicy56_5</assignmentpolicyname>
+        <assessmentname>AssessmentA4</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT19_17</questionset>
+        <questiontext>Test Question for IT19_17</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <gradingpolicy>policy description5</gradingpolicy>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.CourseAssignmentPolicy" index="73" method="assignmentWithPolicyAccentOptionSelected">
+        <user_id>instructor_IT19_R1917_73_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR1917_73_1</context_id>
+        <context_title>studtitleR1917_73_1</context_title>
+        <assignmentpolicyname>configurationpolicy73</assignmentpolicyname>
+        <assessmentname>PolicyAssessment_73</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT19_17</questionset>
+        <questiontext>Test Question for IT19_17</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <gradingpolicy>policy description4</gradingpolicy>
+        <languageAccent>Don’t match accents</languageAccent>
+        <immediateFeedBack>true</immediateFeedBack>
+        <shareWithInitialString>studtitleR1917_73_1</shareWithInitialString>
+        <shareName>studtitleR1917_73_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>configurationpolicy73</assignmentpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.CourseAssignmentPolicy" index="73_1" method="assignmentWithPolicyAccentOptionSelected">
+        <user_id>student_IT19_R1917_73_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR1917_73_1</context_id>
+        <context_title>studtitleR1917_73_1</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.CourseAssignmentPolicy" index="77" method="reAssignedAssignmentWithPolicyFiftyPer">
+        <user_id>instructor_IT19_R1917_77_5</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR1917_77_5</context_id>
+        <context_title>studtitleR1917_77_5</context_title>
+        <assignmentpolicyname>configurationpolicy77_2</assignmentpolicyname>
+        <assessmentname>AssessmentP2</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <enableSpanish>true</enableSpanish>
+        <questionset>Test Question Set of IT19_17</questionset>
+        <questiontext>Test Question for IT19_17</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <gradingpolicy>policy description3</gradingpolicy>
+        <languageAccent>Accents must match exactly</languageAccent>
+        <shareWithInitialString>studtitleR1917_77_5</shareWithInitialString>
+        <shareName>studtitleR1917_77_5</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>configurationpolicy77_2</assignmentpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.CourseAssignmentPolicy" index="77_1" method="reAssignedAssignmentWithPolicyFiftyPer">
+        <user_id>student_IT19_R1917_77_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR1917_77_5</context_id>
+        <context_title>studtitleR1917_77_5</context_title>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.CourseAssignmentPolicy" index="78" method="reAssignedAssignmentWithPolicyFiftyPer">
+        <user_id>instructor_IT19_R1917_77_3</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR1917_77_5</context_id>
+        <context_title>studtitleR1917_77_5</context_title>
+        <assignmentpolicyname>configurationpolicy77_1</assignmentpolicyname>
+        <assessmentname>AssessmentP2</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT19_17</questionset>
+        <questiontext>Test Question for IT19_17</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <enableSpanish>true</enableSpanish>
+        <gradingpolicy>policy description1</gradingpolicy>
+        <languageAccent>Partial credit (50%)</languageAccent>
+        <immediateFeedBack>true</immediateFeedBack>
+        <shareWithInitialString>studtitleR1917_77_5</shareWithInitialString>
+        <shareName>studtitleR1917_77_5</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>configurationpolicy77_1</assignmentpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.CourseAssignmentPolicy" index="79" method="policySwitchedFromExactToNone">
+        <user_id>instructor_IT19_R1917_79_3</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR1917_79_3</context_id>
+        <context_title>studtitleR1917_79_3</context_title>
+        <assignmentpolicyname>configurationpolicy79</assignmentpolicyname>
+        <assessmentname>PolicyAssessment79</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT19_17</questionset>
+        <questiontext>Test Question for IT19_17</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <enableSpanish>true</enableSpanish>
+        <gradingpolicy>policy description79</gradingpolicy>
+        <languageAccent>Accents must match exactly</languageAccent>
+        <immediateFeedBack>true</immediateFeedBack>
+        <shareWithInitialString>studtitleR1917_79_3</shareWithInitialString>
+        <shareName>studtitleR1917_79_3</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>configurationpolicy79</assignmentpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.CourseAssignmentPolicy" index="80" method="policySwitchedFromExactToNone">
+        <user_id>instructor_IT19_R1917_79_3</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR1917_79_3</context_id>
+        <context_title>studtitleR1917_79_3</context_title>
+        <assignmentpolicyname>configurationpolicy80</assignmentpolicyname>
+        <assessmentname>configurationpolicy79</assessmentname>
+        <gradingpolicy>policy description80</gradingpolicy>
+        <immediateFeedBack>true</immediateFeedBack>
+        <languageAccent>None</languageAccent>
+        <shareWithInitialString>studtitleR1917_79_3</shareWithInitialString>
+        <shareName>studtitleR1917_79_3</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>configurationpolicy80</assignmentpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.CourseAssignmentPolicy" index="79_1" method="policySwitchedFromExactToNone">
+        <user_id>student_IT19_R1917_79_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR1917_79_3</context_id>
+        <context_title>studtitleR1917_79_3</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.CourseAssignmentPolicy" index="82" method="flowEnableDisableEnable">
+        <user_id>instructor_IT19_R1917_82_3</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR1917_82_3</context_id>
+        <context_title>studtitleR1917_82_3</context_title>
+        <assignmentpolicyname>configurationpolicy82</assignmentpolicyname>
+        <assessmentname>PolicyAssessment82</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT19_17</questionset>
+        <questiontext>Test Question for IT19_17</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <enableSpanish>true</enableSpanish>
+        <gradingpolicy>policy description82</gradingpolicy>
+        <languageAccent>Accents must match exactly</languageAccent>
+        <immediateFeedBack>true</immediateFeedBack>
+        <shareWithInitialString>studtitleR1917_82_3</shareWithInitialString>
+        <shareName>studtitleR1917_82_3</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>configurationpolicy82</assignmentpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.CourseAssignmentPolicy" index="83" method="flowEnableDisableEnable">
+        <user_id>instructor_IT19_R1917_82_3</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR1917_82_3</context_id>
+        <context_title>studtitleR1917_82_3</context_title>
+        <assignmentpolicyname>configurationpolicy83</assignmentpolicyname>
+        <assessmentname>configurationpolicy82</assessmentname>
+        <gradingpolicy>policy description80</gradingpolicy>
+        <languageAccent>None</languageAccent>
+        <shareWithInitialString>studtitleR1917_82_3</shareWithInitialString>
+        <shareName>studtitleR1917_82_3</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>configurationpolicy83</assignmentpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.CourseAssignmentPolicy" index="82_1" method="flowEnableDisableEnable">
+        <user_id>student_IT19_R1917_82_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR1917_82_3</context_id>
+        <context_title>studtitleR1917_82_3</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.CourseAssignmentPolicy" index="85" method="assignmentPolicyWithDisable">
+        <user_id>instructor_IT19_R1917_85</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR1917_85</context_id>
+        <context_title>studtitleR1917_85</context_title>
+        <assignmentpolicyname>configurationpolicy84</assignmentpolicyname>
+        <assessmentname>PolicyAssessment85</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT19_17</questionset>
+        <questiontext>Test Question for IT19_17</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <gradingpolicy>policy description80</gradingpolicy>
+        <enableSpanish>true</enableSpanish>
+        <immediateFeedBack>true</immediateFeedBack>
+        <shareWithInitialString>studtitleR1917_85</shareWithInitialString>
+        <shareName>studtitleR1917_85</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>configurationpolicy84</assignmentpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.CourseAssignmentPolicy" index="85_1" method="assignmentPolicyWithDisable">
+        <user_id>student_IT19_R1917_85_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR1917_85</context_id>
+        <context_title>studtitleR1917_85</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.GradingPolicyEnableByAuthor" index="88" method="gradingPolicyEnableByAuthor">
+        <user_id>instructor_IT19_R1917_88</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR1917_88_1</context_id>
+        <context_title>studtitleR1917_88_1</context_title>
+        <assignmentpolicyname>configurationpolicy88</assignmentpolicyname>
+        <assessmentname>AssessmentA1</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT19_17</questionset>
+        <questiontext>Test Question for IT19_17</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <languageAccent>Accents must match exactly</languageAccent>
+        <gradingpolicy>policy description1</gradingpolicy>
+        <shareWithInitialString>studtitleR1917_88_1</shareWithInitialString>
+        <shareName>studtitleR1917_88_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>configurationpolicy88</assignmentpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.GradingPolicyEnableByAuthor" index="97" method="gradingPolicyEnableByAuthor">
+        <user_id>instructor_IT19_R1917_97_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR1917_97_2</context_id>
+        <context_title>studtitleR1917_97_2</context_title>
+        <assignmentpolicyname>configurationpolicy97</assignmentpolicyname>
+        <assessmentname>PolicyAssessment97</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT19_17</questionset>
+        <questiontext>Test Question for IT19_17</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <gradingpolicy>policy description1</gradingpolicy>
+        <shareWithInitialString>studtitleR1917_97_2</shareWithInitialString>
+        <shareName>studtitleR1917_97_2</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>configurationpolicy97</assignmentpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.GradingPolicyEnableByAuthor" index="103" method="gradingPolicyEnableByAuthor">
+        <user_id>instructor_IT19_R1917_97_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR1917_97_2</context_id>
+        <context_title>studtitleR1917_97_2</context_title>
+        <assessmentname>PolicyAssessment103</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT19_17</questionset>
+        <questiontext>Test Question for IT19_17</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <assignmentpolicyname>configurationpolicy103</assignmentpolicyname>
+        <gradingpolicy>policy description1</gradingpolicy>
+        <shareWithInitialString>studtitleR1917_97_2</shareWithInitialString>
+        <shareName>studtitleR1917_97_2</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>configurationpolicy103</assignmentpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.GradingPolicyEnableByAuthor" index="106" method="disableThenEnableAssignmentFlow">
+        <user_id>instructor_IT19_R1917_106_2</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR1917_106_2</context_id>
+        <context_title>studtitleR1917_106_2</context_title>
+        <assignmentpolicyname>configurationpolicy106</assignmentpolicyname>
+        <assessmentname>PolicyAssessment106</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT19_17</questionset>
+        <questiontext>Test Question for IT19_17</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <gradingpolicy>policy description80</gradingpolicy>
+        <immediateFeedBack>true</immediateFeedBack>
+        <shareWithInitialString>studtitleR1917_106_2</shareWithInitialString>
+        <shareName>studtitleR1917_106_2</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>configurationpolicy106</assignmentpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.GradingPolicyEnableByAuthor" index="106_1" method="disableThenEnableAssignmentFlow">
+        <user_id>student_IT19_R1917_106_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR1917_106_2</context_id>
+        <context_title>studtitleR1917_106_2</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.GradingPolicyEnableByAuthor" index="109" method="disableThenEnableAssignmentFlow">
+        <user_id>instructor_IT19_R1917_109_3</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR1917_109_3</context_id>
+        <context_title>studtitleR1917_109_3</context_title>
+        <assignmentpolicyname>configurationpolicy111</assignmentpolicyname>
+        <assessmentname>PolicyAssessment217</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT19_17</questionset>
+        <questiontext>Test Question for IT19_17</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <enableSpanish>true</enableSpanish>
+        <gradingpolicy>policy description80</gradingpolicy>
+        <immediateFeedBack>true</immediateFeedBack>
+        <shareWithInitialString>studtitleR1917_109_3</shareWithInitialString>
+        <shareName>studtitleR1917_109_3</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>configurationpolicy111</assignmentpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.GradingPolicyEnableByAuthor" index="110" method="flowEnableDisableEnable">
+        <user_id>instructor_IT19_R1917_109_3</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR1917_109_3</context_id>
+        <context_title>studtitleR1917_109_3</context_title>
+        <assignmentpolicyname>configurationpolicy110</assignmentpolicyname>
+        <assessmentname>PolicyAssessment109</assessmentname>
+        <gradingpolicy>policy description110</gradingpolicy>
+        <languageAccent>Accents must match exactly</languageAccent>
+        <shareWithInitialString>studtitleR1917_109_3</shareWithInitialString>
+        <shareName>studtitleR1917_109_3</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>configurationpolicy110</assignmentpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.GradingPolicyEnableByAuthor" index="109_1" method="disableThenEnableAssignmentFlow">
+        <user_id>student_IT19_R1917_109_4</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR1917_109_3</context_id>
+        <context_title>studtitleR1917_109_3</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.GradingPolicyEnableByAuthor" index="112" method="assignmentCreatedInEnableState">
+        <user_id>instructor_IT19_R1917_112</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR1917_112</context_id>
+        <context_title>studtitleR1917_112</context_title>
+        <assignmentpolicyname>configurationpolicy112</assignmentpolicyname>
+        <assessmentname>PolicyAssessment112</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT19_17</questionset>
+        <questiontext>Test Question for IT19_17</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <languageAccent>Accents must match exactly</languageAccent>
+        <enableSpanish>true</enableSpanish>
+        <gradingpolicy>policy description80</gradingpolicy>
+        <immediateFeedBack>true</immediateFeedBack>
+        <shareWithInitialString>studtitleR1917_112</shareWithInitialString>
+        <shareName>studtitleR1917_112</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>configurationpolicy112</assignmentpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.GradingPolicyEnableByAuthor" index="112_1" method="assignmentCreatedInEnableState">
+        <user_id>student_IT19_R1917_112</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR1917_112</context_id>
+        <context_title>studtitleR1917_112</context_title>
+    </testcase>
+
+
+    <!--LS Course-->
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.LSCourseAssignmentPolicy" index="141" method="policyConfigurationByAuthor">
+        <user_id>instructor_IT19_R1917_141_1</user_id>
+        <Role>instructor</Role>
+        <course_type>ls</course_type>
+        <context_id>studcontextR1917_141_1</context_id>
+        <context_title>studtitleR1917_141_1</context_title>
+        <assignmentpolicyname>configurationpolicy141</assignmentpolicyname>
+        <assessmentname>Assignment_IT19_141_1</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT19_17</questionset>
+        <questiontext>Test Question for IT19_17</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitleR1917_141_1</shareWithInitialString>
+        <shareName>studtitleR1917_141_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>configurationpolicy141</assignmentpolicy>
+        <gradingpolicy>policy description</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.LSCourseAssignmentPolicy" index="151" method="policyWithAccentOption">
+        <user_id>instructor_IT19_R1917_151</user_id>
+        <Role>instructor</Role>
+        <course_type>ls</course_type>
+        <context_id>studcontextR1917_151</context_id>
+        <context_title>studtitleR1917_151</context_title>
+        <assignmentpolicyname>configurationpolicy151</assignmentpolicyname>
+        <assessmentname>Assignment_IT19_151_1</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT19_17</questionset>
+        <questiontext>Test Question for IT19_17</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitleR1917_151</shareWithInitialString>
+        <shareName>studtitleR1917_151</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>configurationpolicy151</assignmentpolicy>
+        <gradingpolicy>policy description</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <languageAccent>Accents must match exactly</languageAccent>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.LSCourseAssignmentPolicy" index="156" method="policyWithAccentOptionNone">
+        <user_id>instructor_IT19_R1917_156_1</user_id>
+        <Role>instructor</Role>
+        <course_type>ls</course_type>
+        <context_id>studcontextR1917_156_1</context_id>
+        <context_title>studtitleR1917_156_1</context_title>
+        <assignmentpolicyname>configurationpolicy156</assignmentpolicyname>
+        <assessmentname>Assignment_IT19_156_1</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT19_17</questionset>
+        <questiontext>Test Question for IT19_17</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitleR1917_156_1</shareWithInitialString>
+        <shareName>studtitleR1917_156_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>configurationpolicy156</assignmentpolicy>
+        <gradingpolicy>policy description</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <languageAccent>None</languageAccent>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.LSCourseAssignmentPolicy" index="161" method="policyWithReassign">
+        <user_id>instructor_IT19_R1917_161_1</user_id>
+        <Role>instructor</Role>
+        <course_type>ls</course_type>
+        <context_id>studcontextR1917_161_2</context_id>
+        <context_title>studtitleR1917_161_2</context_title>
+        <assignmentpolicyname>configurationpolicy161</assignmentpolicyname>
+        <assessmentname>AssessmentA1</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT19_17</questionset>
+        <questiontext>Test Question for IT19_17</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <gradingpolicy>policy description1</gradingpolicy>
+        <languageAccent>Partial credit (50%)</languageAccent>
+        <shareWithInitialString>studtitleR1917_161_2</shareWithInitialString>
+        <shareName>studtitleR1917_161_2</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>configurationpolicy161</assignmentpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.LSCourseAssignmentPolicy" index="162" method="policyWithReassign">
+        <user_id>instructor_IT19_R1917_161_1</user_id>
+        <Role>instructor</Role>
+        <course_type>ls</course_type>
+        <context_id>studcontextR1917_161_2</context_id>
+        <context_title>studtitleR1917_161_2</context_title>
+        <assignmentpolicyname>configurationpolicy161_1</assignmentpolicyname>
+        <assessmentname>AssessmentA2</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT19_17</questionset>
+        <questiontext>Test Question for IT19_17</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <gradingpolicy>policy description2</gradingpolicy>
+        <languageAccent>None</languageAccent>
+        <shareWithInitialString>studtitleR1917_161_2</shareWithInitialString>
+        <shareName>studtitleR1917_161_2</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>configurationpolicy161_1</assignmentpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.LSCourseAssignmentPolicy" index="163" method="policyWithReassign">
+        <user_id>instructor_IT19_R1917_161_1</user_id>
+        <Role>instructor</Role>
+        <course_type>ls</course_type>
+        <context_id>studcontextR1917_161_2</context_id>
+        <context_title>studtitleR1917_161_2</context_title>
+        <assignmentpolicyname>configurationpolicy161_2</assignmentpolicyname>
+        <assessmentname>AssessmentA3</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT19_17</questionset>
+        <questiontext>Test Question for IT19_17</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <gradingpolicy>policy description3</gradingpolicy>
+        <languageAccent>Accents must match exactly</languageAccent>
+        <shareWithInitialString>studtitleR1917_161_2</shareWithInitialString>
+        <shareName>studtitleR1917_161_2</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>configurationpolicy161_2</assignmentpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.LSCourseAssignmentPolicy" index="164" method="policyWithReassign">
+        <user_id>instructor_IT19_R1917_161_1</user_id>
+        <Role>instructor</Role>
+        <course_type>ls</course_type>
+        <context_id>studcontextR1917_161_2</context_id>
+        <context_title>studtitleR1917_161_2</context_title>
+        <assignmentpolicyname>configurationpolicy161_3</assignmentpolicyname>
+        <assessmentname>AssessmentA4</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT19_17</questionset>
+        <questiontext>Test Question for IT19_17</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <gradingpolicy>policy description4</gradingpolicy>
+        <languageAccent>Don’t match accents</languageAccent>
+        <shareWithInitialString>studtitleR1917_161_2</shareWithInitialString>
+        <shareName>studtitleR1917_161_2</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>configurationpolicy161_3</assignmentpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.LSCourseAssignmentPolicy" index="165" method="policyWithReassign">
+        <user_id>instructor_IT19_R1917_161_1</user_id>
+        <Role>instructor</Role>
+        <course_type>ls</course_type>
+        <context_id>studcontextR1917_161_2</context_id>
+        <context_title>studtitleR1917_161_2</context_title>
+        <course_type>ls</course_type>
+        <assignmentpolicyname>configurationpolicy161_5</assignmentpolicyname>
+        <assessmentname>AssessmentA4</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT19_17</questionset>
+        <questiontext>Test Question for IT19_17</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <gradingpolicy>policy description5</gradingpolicy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.LSCourseAssignmentPolicy" index="178" method="assignmentWithPolicyAccentOptionSelected">
+        <user_id>instructor_IT19_R1917_178_2</user_id>
+        <Role>instructor</Role>
+        <course_type>ls</course_type>
+        <context_id>studcontextR1917_178_2</context_id>
+        <context_title>studtitleR1917_178_2</context_title>
+        <assignmentpolicyname>configurationpolicy178</assignmentpolicyname>
+        <assessmentname>PolicyAssessment_178</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT19_17</questionset>
+        <questiontext>Test Question for IT19_17</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <gradingpolicy>policy description4</gradingpolicy>
+        <languageAccent>Don’t match accents</languageAccent>
+        <immediateFeedBack>true</immediateFeedBack>
+        <shareWithInitialString>studtitleR1917_178_2</shareWithInitialString>
+        <shareName>studtitleR1917_178_2</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>configurationpolicy178</assignmentpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.LSCourseAssignmentPolicy" index="178_1" method="assignmentWithPolicyAccentOptionSelected">
+        <user_id>student_IT19_R1917_178_2</user_id>
+        <Role>student</Role>
+        <course_type>ls</course_type>
+        <context_id>studcontextR1917_178_2</context_id>
+        <context_title>studtitleR1917_178_2</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.LSCourseAssignmentPolicy" index="181" method="reAssignedAssignmentWithPolicyFiftyPer">
+        <user_id>instructor_IT19_R1917_181_5</user_id>
+        <Role>instructor</Role>
+        <course_type>ls</course_type>
+        <context_id>studcontextR1917_181_5</context_id>
+        <context_title>studtitleR1917_181_5</context_title>
+        <assignmentpolicyname>configurationpolicy181_2</assignmentpolicyname>
+        <assessmentname>AssessmentP1</assessmentname>
+        <questionset>Test Question Set of IT19_17</questionset>
+        <questiontext>Test Question for IT19_17</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <enableSpanish>true</enableSpanish>
+        <gradingpolicy>policy description3</gradingpolicy>
+        <languageAccent>Accents must match exactly</languageAccent>
+        <shareWithInitialString>studtitleR1917_181_5</shareWithInitialString>
+        <shareName>studtitleR1917_181_5</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>configurationpolicy181_2</assignmentpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.LSCourseAssignmentPolicy" index="181_1" method="reAssignedAssignmentWithPolicyFiftyPer">
+        <user_id>student_IT19_R1917_181_4</user_id>
+        <Role>student</Role>
+        <course_type>ls</course_type>
+        <context_id>studcontextR1917_181_5</context_id>
+        <context_title>studtitleR1917_181_5</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.LSCourseAssignmentPolicy" index="182" method="reAssignedAssignmentWithPolicyFiftyPer">
+        <user_id>instructor_IT19_R1917_182_5</user_id>
+        <Role>instructor</Role>
+        <course_type>ls</course_type>
+        <context_id>studcontextR1917_181_5</context_id>
+        <context_title>studtitleR1917_181_5</context_title>
+        <assignmentpolicyname>configurationpolicy181_1</assignmentpolicyname>
+        <assessmentname>AssessmentP2</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT19_17</questionset>
+        <questiontext>Test Question for IT19_17</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <enableSpanish>true</enableSpanish>
+        <gradingpolicy>policy description1</gradingpolicy>
+        <languageAccent>Partial credit (50%)</languageAccent>
+        <immediateFeedBack>true</immediateFeedBack>
+        <shareWithInitialString>studtitleR1917_181_5</shareWithInitialString>
+        <shareName>studtitleR1917_181_5</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>configurationpolicy181_1</assignmentpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.LSCourseAssignmentPolicy" index="184" method="policySwitchedFromExactToNone">
+        <user_id>instructor_IT19_R1917_184_4</user_id>
+        <Role>instructor</Role>
+        <course_type>ls</course_type>
+        <context_id>studcontextR1917_184_4</context_id>
+        <context_title>studtitleR1917_184_4</context_title>
+        <assignmentpolicyname>configurationpolicy184</assignmentpolicyname>
+        <assessmentname>PolicyAssessment184</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT19_17</questionset>
+        <questiontext>Test Question for IT19_17</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <enableSpanish>true</enableSpanish>
+        <gradingpolicy>policy description184</gradingpolicy>
+        <languageAccent>Accents must match exactly</languageAccent>
+        <shareWithInitialString>studtitleR1917_184_4</shareWithInitialString>
+        <shareName>studtitleR1917_184_4</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>configurationpolicy184</assignmentpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.LSCourseAssignmentPolicy" index="185" method="policySwitchedFromExactToNone">
+        <user_id>instructor_IT19_R1917_184_4</user_id>
+        <Role>instructor</Role>
+        <course_type>ls</course_type>
+        <context_id>studcontextR1917_184_4</context_id>
+        <context_title>studtitleR1917_184_4</context_title>
+        <assignmentpolicyname>configurationpolicy185</assignmentpolicyname>
+        <assessmentname>PolicyAssessment184</assessmentname>
+        <gradingpolicy>policy description80</gradingpolicy>
+        <immediateFeedBack>true</immediateFeedBack>
+        <languageAccent>None</languageAccent>
+        <shareWithInitialString>studtitleR1917_184_4</shareWithInitialString>
+        <shareName>studtitleR1917_184_4</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>configurationpolicy185</assignmentpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.LSCourseAssignmentPolicy" index="184_1" method="policySwitchedFromExactToNone">
+        <user_id>student_IT19_R1917_184_4</user_id>
+        <Role>student</Role>
+        <course_type>ls</course_type>
+        <context_id>studcontextR1917_184_4</context_id>
+        <context_title>studtitleR1917_184_4</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.LSCourseAssignmentPolicy" index="187" method="flowEnableDisableEnable">
+        <user_id>instructor_IT19_R1917_187_3</user_id>
+        <Role>instructor</Role>
+        <course_type>ls</course_type>
+        <context_id>studcontextR1917_187_3</context_id>
+        <context_title>studtitleR1917_187_3</context_title>
+        <assignmentpolicyname>configurationpolicy187</assignmentpolicyname>
+        <assessmentname>PolicyAssessment187</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT19_17</questionset>
+        <questiontext>Test Question for IT19_17</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <enableSpanish>true</enableSpanish>
+        <gradingpolicy>policy description187</gradingpolicy>
+        <languageAccent>Accents must match exactly</languageAccent>
+        <immediateFeedBack>true</immediateFeedBack>
+        <shareWithInitialString>studtitleR1917_187_3</shareWithInitialString>
+        <shareName>studtitleR1917_187_3</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>configurationpolicy187</assignmentpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.LSCourseAssignmentPolicy" index="188" method="flowEnableDisableEnable">
+        <user_id>instructor_IT19_R1917_187_3</user_id>
+        <Role>instructor</Role>
+        <course_type>ls</course_type>
+        <context_id>studcontextR1917_187_3</context_id>
+        <context_title>studtitleR1917_187_3</context_title>
+        <assignmentpolicyname>configurationpolicy188</assignmentpolicyname>
+        <assessmentname>configurationpolicy187</assessmentname>
+        <gradingpolicy>policy description80</gradingpolicy>
+        <languageAccent>None</languageAccent>
+        <shareWithInitialString>studtitleR1917_187_3</shareWithInitialString>
+        <shareName>studtitleR1917_187_3</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>configurationpolicy188</assignmentpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.LSCourseAssignmentPolicy" index="187_1" method="flowEnableDisableEnable">
+        <user_id>student_IT19_R1917_187_3</user_id>
+        <Role>student</Role>
+        <course_type>ls</course_type>
+        <context_id>studcontextR1917_187_3</context_id>
+        <context_title>studtitleR1917_187_3</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.LSCourseAssignmentPolicy" index="190" method="assignmentPolicyWithDisable">
+        <user_id>instructor_IT19_R1917_190</user_id>
+        <Role>instructor</Role>
+        <course_type>ls</course_type>
+        <context_id>studcontextR1917_190</context_id>
+        <context_title>studtitleR1917_190</context_title>
+        <assignmentpolicyname>configurationpolicy84</assignmentpolicyname>
+        <assessmentname>PolicyAssessment190</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT19_17</questionset>
+        <questiontext>Test Question for IT19_17</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <gradingpolicy>policy description80</gradingpolicy>
+        <languageAccent>Accents must match exactly</languageAccent>
+        <enableSpanish>true</enableSpanish>
+        <immediateFeedBack>true</immediateFeedBack>
+        <shareWithInitialString>studtitleR1917_190</shareWithInitialString>
+        <shareName>studtitleR1917_190</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>configurationpolicy84</assignmentpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.LSCourseAssignmentPolicy" index="190_1" method="assignmentPolicyWithDisable">
+        <user_id>student_IT19_R1917_190_3</user_id>
+        <Role>student</Role>
+        <course_type>ls</course_type>
+        <context_id>studcontextR1917_190</context_id>
+        <context_title>studtitleR1917_190</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.LSGradingPolicyEnableByAuthor" index="193" method="gradingPolicyEnableByAuthor">
+        <user_id>instructor_IT19_R1917_193</user_id>
+        <Role>instructor</Role>
+        <course_type>ls</course_type>
+        <context_id>studcontextR1917_193_1</context_id>
+        <context_title>studtitleR1917_193_1</context_title>
+        <assignmentpolicyname>configurationpolicy193</assignmentpolicyname>
+        <assessmentname>AssessmentA1</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT19_17</questionset>
+        <questiontext>Test Question for IT19_17</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <languageAccent>Accents must match exactly</languageAccent>
+        <gradingpolicy>policy description1</gradingpolicy>
+        <shareWithInitialString>studtitleR1917_193_1</shareWithInitialString>
+        <shareName>studtitleR1917_193_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>configurationpolicy193</assignmentpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.LSGradingPolicyEnableByAuthor" index="202" method="gradingPolicyEnableByAuthor">
+        <user_id>instructor_IT19_R1917_202_1</user_id>
+        <Role>instructor</Role>
+        <course_type>ls</course_type>
+        <context_id>studcontextR1917_202_2</context_id>
+        <context_title>studtitleR1917_202_2</context_title>
+        <assignmentpolicyname>configurationpolicy202</assignmentpolicyname>
+        <assessmentname>PolicyAssessment202</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT19_17</questionset>
+        <questiontext>Test Question for IT19_17</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <gradingpolicy>policy description1</gradingpolicy>
+        <shareWithInitialString>studtitleR1917_202_2</shareWithInitialString>
+        <shareName>studtitleR1917_202_2</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>configurationpolicy202</assignmentpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.LSGradingPolicyEnableByAuthor" index="203" method="gradingPolicyEnableByAuthor">
+        <user_id>instructor_IT19_R1917_202_1</user_id>
+        <Role>instructor</Role>
+        <course_type>ls</course_type>
+        <context_id>studcontextR1917_202_2</context_id>
+        <context_title>studtitleR1917_202_2</context_title>
+        <assessmentname>PolicyAssessment203</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT19_17</questionset>
+        <questiontext>Test Question for IT19_17</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <assignmentpolicyname>configurationpolicy203</assignmentpolicyname>
+        <gradingpolicy>policy description1</gradingpolicy>
+        <shareWithInitialString>studtitleR1917_202_2</shareWithInitialString>
+        <shareName>studtitleR1917_202_2</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>configurationpolicy203</assignmentpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.LSGradingPolicyEnableByAuthor" index="214" method="disableThenEnableAssignmentFlow">
+        <user_id>instructor_IT19_R1917_214_2</user_id>
+        <Role>instructor</Role>
+        <course_type>ls</course_type>
+        <context_id>studcontextR1917_214_2</context_id>
+        <context_title>studtitleR1917_214_2</context_title>
+        <assignmentpolicyname>configurationpolicy214</assignmentpolicyname>
+        <assessmentname>PolicyAssessment214</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT19_17</questionset>
+        <questiontext>Test Question for IT19_17</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <gradingpolicy>policy description80</gradingpolicy>
+        <immediateFeedBack>true</immediateFeedBack>
+        <shareWithInitialString>studtitleR1917_214_2</shareWithInitialString>
+        <shareName>studtitleR1917_214_2</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>configurationpolicy214</assignmentpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.LSGradingPolicyEnableByAuthor" index="214_1" method="disableThenEnableAssignmentFlow">
+        <user_id>student_IT19_R1917_214_1</user_id>
+        <Role>student</Role>
+        <course_type>ls</course_type>
+        <context_id>studcontextR1917_214_2</context_id>
+        <context_title>studtitleR1917_214_2</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.LSGradingPolicyEnableByAuthor" index="217" method="disableThenEnableAssignmentFlow">
+        <user_id>instructor_IT19_R1917_217_3</user_id>
+        <Role>instructor</Role>
+        <course_type>ls</course_type>
+        <context_id>studcontextR1917_217_3</context_id>
+        <context_title>studtitleR1917_217_3</context_title>
+        <assignmentpolicyname>configurationpolicy217</assignmentpolicyname>
+        <assessmentname>PolicyAssessment217</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT19_17</questionset>
+        <questiontext>Test Question for IT19_17</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <enableSpanish>true</enableSpanish>
+        <gradingpolicy>policy description80</gradingpolicy>
+        <immediateFeedBack>true</immediateFeedBack>
+        <shareWithInitialString>studtitleR1917_217_3</shareWithInitialString>
+        <shareName>studtitleR1917_217_3</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>configurationpolicy217</assignmentpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.LSGradingPolicyEnableByAuthor" index="218" method="flowEnableDisableEnable">
+        <user_id>instructor_IT19_R1917_217_3</user_id>
+        <Role>instructor</Role>
+        <course_type>ls</course_type>
+        <context_id>studcontextR1917_217_3</context_id>
+        <context_title>studtitleR1917_217_3</context_title>
+        <assignmentpolicyname>configurationpolicy218</assignmentpolicyname>
+        <assessmentname>PolicyAssessment217</assessmentname>
+        <gradingpolicy>policy description110</gradingpolicy>
+        <languageAccent>Accents must match exactly</languageAccent>
+        <shareWithInitialString>studtitleR1917_217_3</shareWithInitialString>
+        <shareName>studtitleR1917_217_3</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>configurationpolicy218</assignmentpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.LSGradingPolicyEnableByAuthor" index="217_1" method="disableThenEnableAssignmentFlow">
+        <user_id>student_IT19_R1917_217_4</user_id>
+        <Role>student</Role>
+        <course_type>ls</course_type>
+        <context_id>studcontextR1917_217_3</context_id>
+        <context_title>studtitleR1917_217_3</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.LSGradingPolicyEnableByAuthor" index="219" method="assignmentCreatedInEnableState">
+        <user_id>instructor_IT19_R1917_219_3</user_id>
+        <Role>instructor</Role>
+        <course_type>ls</course_type>
+        <context_id>studcontextR1917_219_3</context_id>
+        <context_title>studtitleR1917_219_3</context_title>
+        <assignmentpolicyname>configurationpolicy219</assignmentpolicyname>
+        <assessmentname>PolicyAssessment219</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT19_17</questionset>
+        <questiontext>Test Question for IT19_17</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <languageAccent>Accents must match exactly</languageAccent>
+        <enableSpanish>true</enableSpanish>
+        <gradingpolicy>policy description80</gradingpolicy>
+        <immediateFeedBack>true</immediateFeedBack>
+        <shareWithInitialString>studtitleR1917_219_3</shareWithInitialString>
+        <shareName>studtitleR1917_219_3</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>configurationpolicy219</assignmentpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1917.LSGradingPolicyEnableByAuthor" index="219_1" method="assignmentCreatedInEnableState">
+        <user_id>student_IT19_R1917_219_3</user_id>
+        <Role>student</Role>
+        <course_type>ls</course_type>
+        <context_id>studcontextR1917_219_3</context_id>
+        <context_title>studtitleR1917_219_3</context_title>
+    </testcase>
+</learningspaces>

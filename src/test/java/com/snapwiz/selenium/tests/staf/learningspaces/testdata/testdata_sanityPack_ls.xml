@@ -1,0 +1,1099 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AssignmentWithPolicyLsAdaptive" index="1"	method="">
+        <user_id>instructor_sanityls_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextls_Sanity_1</context_id>
+        <context_title>studtitlels_Sanity_1</context_title>
+        <assessmentname>sanity_ls_Assignment_1</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanityls_1</questionset>
+        <questiontext>Test Question for sanityls_1</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <useWriteBoard>true</useWriteBoard>
+        <selectLanguagePalette>spanish</selectLanguagePalette>
+        <questiontextstem2>questiontextstem2</questiontextstem2>
+        <filename>img.jpg</filename>
+        <assignmentpolicyname>Policy1</assignmentpolicyname>
+        <assignmentpolicy>Policy1</assignmentpolicy>
+        <shareWithInitialString>studtitlels_Sanity_1</shareWithInitialString>
+        <shareName>studtitlels_Sanity_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AssignmentWithPolicyLsAdaptive" index="1_1" method="">
+        <user_id>student_sanityls_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextls_Sanity_1</context_id>
+        <context_title>studtitlels_Sanity_1</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AssignmentWithPolicyLsAdaptive" index="4"	method="">
+        <user_id>instructor_sanityls_4</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextls_Sanity_4</context_id>
+        <context_title>studtitlels_Sanity_4</context_title>
+        <assessmentname>sanity_ls_Assignment_1</assessmentname>
+        <assignmentpolicyname>Policy3</assignmentpolicyname>
+        <assignmentpolicy>Policy3</assignmentpolicy>
+        <shareWithInitialString>studtitlels_Sanity_4</shareWithInitialString>
+        <shareName>studtitlels_Sanity_4</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AssignmentWithPolicyLsAdaptive" index="4_1" method="">
+        <user_id>student_sanityls_4</user_id>
+        <Role>student</Role>
+        <context_id>studcontextls_Sanity_4</context_id>
+        <context_title>studtitlels_Sanity_4</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AssignmentWithPolicyLsAdaptive" index="5"	method="">
+        <user_id>instructor_sanityls_5</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextls_Sanity_5</context_id>
+        <context_title>studtitlels_Sanity_5</context_title>
+        <assessmentname>sanity_ls_Assignment_1</assessmentname>
+        <assignmentpolicyname>Policy4</assignmentpolicyname>
+        <assignmentpolicy>Policy4</assignmentpolicy>
+        <shareWithInitialString>studtitlels_Sanity_5</shareWithInitialString>
+        <shareName>studtitlels_Sanity_5</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AssignmentWithPolicyLsAdaptive" index="5_1" method="">
+        <user_id>student_sanityls_5</user_id>
+        <Role>student</Role>
+        <context_id>studcontextls_Sanity_5</context_id>
+        <context_title>studtitlels_Sanity_5</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AssignmentWithPolicyLsAdaptive" index="7" method="">
+        <user_id>student_sanityls_7</user_id>
+        <Role>student</Role>
+        <context_id>studcontextls_Sanity_7</context_id>
+        <context_title>studtitlels_Sanity_7</context_title>
+        <assessmentname>sanity_ls_Assignment_7</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanityls_1</questionset>
+        <questiontext>Test Question for sanityls_1</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <questiontextstem2>questiontextstem2</questiontextstem2>
+        <filename>img.jpg</filename>
+        <shareWithInitialString>studtitlels_Sanity_7</shareWithInitialString>
+        <shareName>studtitlels_Sanity_7</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AssignmentWithPolicyLsAdaptive" index="17" method="">
+        <user_id>student_sanityls_171</user_id>
+        <Role>student</Role>
+        <context_id>studcontextls_Sanity_171</context_id>
+        <context_title>studtitlels_Sanity_171</context_title>
+        <assessmentname>sanity_ls_Assignment_17</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanityls_17</questionset>
+        <questiontext>Test Question for sanityls_17</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <questiontextstem2>questiontextstem2</questiontextstem2>
+        <filename>img.jpg</filename>
+        <shareWithInitialString>studtitlels_Sanity_171</shareWithInitialString>
+        <shareName>studtitlels_Sanity_171</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <reservforassignment>false</reservforassignment>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AssignmentWithPolicyLsAdaptive" index="21"	method="">
+        <user_id>instructor_sanityls_21</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextls_Sanity_21</context_id>
+        <context_title>studtitlels_Sanity_21</context_title>
+        <assessmentname>sanity_ls_Assignment_1</assessmentname>
+        <shareWithInitialString>studtitlels_Sanity_21</shareWithInitialString>
+        <shareName>studtitlels_Sanity_21</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AssignmentWithPolicyLsAdaptive" index="21_1" method="">
+        <user_id>student_sanityls_21</user_id>
+        <Role>student</Role>
+        <context_id>studcontextls_Sanity_21</context_id>
+        <context_title>studtitlels_Sanity_21</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.LsCmsStudent" index="2" method="">
+        <assessmentname>sanity_ls_Assignment_2</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanityls_2</questionset>
+        <questiontext>Test Question for sanityls_2</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <difficultylevel>Medium</difficultylevel>
+        <variationLevel>Evaluation</variationLevel>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.LsCmsStudent" index="8" method="">
+        <assessmentname>sanity_ls_Assignment_8</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanityls_8</questionset>
+        <questiontext>Test Question for sanityls_8</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <difficultylevel>Medium</difficultylevel>
+        <variationLevel>Evaluation</variationLevel>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.LsCmsStudent" index="13" method="">
+        <assessmentname>sanity_ls_Assignment_13</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanityls_13</questionset>
+        <questiontext>Test Question for sanityls_13</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <difficultylevel>Medium</difficultylevel>
+        <variationLevel>Evaluation</variationLevel>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.LsCmsStudent" index="18" method="">
+        <assessmentname>sanity_ls_Assignment_18</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanityls_18</questionset>
+        <questiontext>Test Question for sanityls_18</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <difficultylevel>Medium</difficultylevel>
+        <variationLevel>Evaluation</variationLevel>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.LsCmsStudent" index="24" method="">
+        <assessmentname>sanity_ls_Assignment_24</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanityls_24</questionset>
+        <questiontext>Test Question for sanityls_24</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <difficultylevel>Medium</difficultylevel>
+        <variationLevel>Evaluation</variationLevel>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.LsCmsStudent" index="30" method="">
+        <assessmentname>sanity_ls_Assignment_30</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanityls_30</questionset>
+        <questiontext>Test Question for sanityls_30</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <difficultylevel>Medium</difficultylevel>
+        <variationLevel>Evaluation</variationLevel>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.LsCmsStudent" index="36" method="">
+        <assessmentname>sanity_ls_Assignment_36</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanityls_36</questionset>
+        <questiontext>Test Question for sanityls_36</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <difficultylevel>Medium</difficultylevel>
+        <variationLevel>Evaluation</variationLevel>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.LsCmsStudent" index="41" method="">
+        <assessmentname>sanity_ls_Assignment_41</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanityls_41</questionset>
+        <questiontext>Test Question for sanityls_41</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <difficultylevel>Medium</difficultylevel>
+        <variationLevel>Evaluation</variationLevel>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.LsCmsStudent" index="45" method="">
+        <assessmentname>sanity_ls_Assignment_45</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanityls_45</questionset>
+        <questiontext>Test Question for sanityls_45</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <difficultylevel>Medium</difficultylevel>
+        <variationLevel>Evaluation</variationLevel>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.LsCmsStudent" index="51" method="">
+        <assessmentname>sanity_ls_Assignment_51</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanityls_51</questionset>
+        <questiontext>Test Question for sanityls_51</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <questiontextstem2>questiontextstem2</questiontextstem2>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.LsCmsStudent" index="54" method="">
+        <assessmentname>sanity_ls_Assignment_54</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question for sanityls_54</questionset>
+        <questiontext>Test Question for sanityls_54</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <filename>img.jpg</filename>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.LsCmsStudent" index="62" method="">
+        <assessmentname>sanity_ls_Assignment_62</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanityls_62</questionset>
+        <questiontext>Test Question for sanityls_62</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <filename>img.jpg</filename>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.LsCmsStudent" index="68" method="">
+        <assessmentname>sanity_ls_Assignment_68</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanityls_68</questionset>
+        <questiontext>Test Question for sanityls_68</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <filename>img.jpg</filename>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.LsCmsStudentForLs" index="2" method="">
+        <assessmentname>sanity_ls_Assignment_2</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanityls_2</questionset>
+        <questiontext>Test Question for sanityls_2</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <difficultylevel>Medium</difficultylevel>
+        <variationLevel>Evaluation</variationLevel>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.LsCmsStudentForLs" index="8" method="">
+        <assessmentname>sanity_ls_Assignment_8</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanityls_8</questionset>
+        <questiontext>Test Question for sanityls_8</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <difficultylevel>Medium</difficultylevel>
+        <variationLevel>Evaluation</variationLevel>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.LsCmsStudentForLs" index="13" method="">
+        <assessmentname>sanity_ls_Assignment_13</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanityls_13</questionset>
+        <questiontext>Test Question for sanityls_13</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <difficultylevel>Medium</difficultylevel>
+        <variationLevel>Evaluation</variationLevel>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.LsCmsStudentForLs" index="18" method="">
+        <assessmentname>sanity_ls_Assignment_18</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanityls_18</questionset>
+        <questiontext>Test Question for sanityls_18</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <difficultylevel>Medium</difficultylevel>
+        <variationLevel>Evaluation</variationLevel>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.LsCmsStudentForLs" index="24" method="">
+        <assessmentname>sanity_ls_Assignment_24</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanityls_24</questionset>
+        <questiontext>Test Question for sanityls_24</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <difficultylevel>Medium</difficultylevel>
+        <variationLevel>Evaluation</variationLevel>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.LsCmsStudentForLs" index="30" method="">
+        <assessmentname>sanity_ls_Assignment_30</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanityls_30</questionset>
+        <questiontext>Test Question for sanityls_30</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <difficultylevel>Medium</difficultylevel>
+        <variationLevel>Evaluation</variationLevel>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.LsCmsStudentForLs" index="36" method="">
+        <assessmentname>sanity_ls_Assignment_36</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanityls_36</questionset>
+        <questiontext>Test Question for sanityls_36</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <difficultylevel>Medium</difficultylevel>
+        <variationLevel>Evaluation</variationLevel>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.LsCmsStudentForLs" index="41" method="">
+        <assessmentname>sanity_ls_Assignment_41</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanityls_41</questionset>
+        <questiontext>Test Question for sanityls_41</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <difficultylevel>Medium</difficultylevel>
+        <variationLevel>Evaluation</variationLevel>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.LsCmsStudentForLs" index="45" method="">
+        <assessmentname>sanity_ls_Assignment_45</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanityls_45</questionset>
+        <questiontext>Test Question for sanityls_45</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <difficultylevel>Medium</difficultylevel>
+        <variationLevel>Evaluation</variationLevel>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.LsCmsStudentForLs" index="51" method="">
+        <assessmentname>sanity_ls_Assignment_51</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanityls_51</questionset>
+        <questiontext>Test Question for sanityls_51</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <questiontextstem2>questiontextstem2</questiontextstem2>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.LsCmsStudentForLs" index="54" method="">
+        <assessmentname>sanity_ls_Assignment_54</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanityls_54</questionset>
+        <questiontext>Test Question for sanityls_54</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <filename>img.jpg</filename>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.LsCmsStudentForLs" index="62" method="">
+        <assessmentname>sanity_ls_Assignment_62</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanityls_62</questionset>
+        <questiontext>Test Question for sanityls_62</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <filename>img.jpg</filename>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.LsCmsStudentForLs" index="68" method="">
+        <assessmentname>sanity_ls_Assignment_68</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanityls_68</questionset>
+        <questiontext>Test Question for sanityls_68</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <filename>img.jpg</filename>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AlgoCmsStudent" index="2" method="">
+        <assessmentname>sanity_ls_Assignment_2</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanityls_2</questionset>
+        <questiontext>$a+$b</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <difficultylevel>Medium</difficultylevel>
+        <variationLevel>Evaluation</variationLevel>
+        <algorithmic>true</algorithmic>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AlgoCmsStudent" index="8" method="">
+        <assessmentname>sanity_ls_Assignment_8</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanityls_8</questionset>
+        <questiontext>$a+$b</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <difficultylevel>Medium</difficultylevel>
+        <variationLevel>Evaluation</variationLevel>
+        <algorithmic>true</algorithmic>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AlgoCmsStudent" index="13" method="">
+        <assessmentname>sanity_ls_Assignment_13</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanityls_13</questionset>
+        <questiontext>$a+$b</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <difficultylevel>Medium</difficultylevel>
+        <variationLevel>Evaluation</variationLevel>
+        <algorithmic>true</algorithmic>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AlgoCmsStudent" index="18" method="">
+        <assessmentname>sanity_ls_Assignment_18</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanityls_18</questionset>
+        <questiontext>$a+$b</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <difficultylevel>Medium</difficultylevel>
+        <variationLevel>Evaluation</variationLevel>
+        <algorithmic>true</algorithmic>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AlgoCmsStudent" index="24" method="">
+        <assessmentname>sanity_ls_Assignment_24</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanityls_24</questionset>
+        <questiontext>$a+$b</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <difficultylevel>Medium</difficultylevel>
+        <variationLevel>Evaluation</variationLevel>
+        <algorithmic>true</algorithmic>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AlgoCmsStudent" index="30" method="">
+        <assessmentname>sanity_ls_Assignment_30</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanityls_30</questionset>
+        <questiontext>Test Question for sanityls_30</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <difficultylevel>Medium</difficultylevel>
+        <variationLevel>Evaluation</variationLevel>
+        <algorithmic>true</algorithmic>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AlgoCmsStudent" index="36" method="">
+        <assessmentname>sanity_ls_Assignment_36</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanityls_36</questionset>
+        <questiontext>$a+$b</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <difficultylevel>Medium</difficultylevel>
+        <variationLevel>Evaluation</variationLevel>
+        <algorithmic>true</algorithmic>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AlgoCmsStudent" index="41" method="">
+        <assessmentname>sanity_ls_Assignment_41</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanityls_41</questionset>
+        <questiontext>Test Question for sanityls_41</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <difficultylevel>Medium</difficultylevel>
+        <variationLevel>Evaluation</variationLevel>
+        <algorithmic>true</algorithmic>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AlgoCmsStudent" index="45" method="">
+        <assessmentname>sanity_ls_Assignment_45</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanityls_45</questionset>
+        <questiontext>Test Question for sanityls_45</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <difficultylevel>Medium</difficultylevel>
+        <variationLevel>Evaluation</variationLevel>
+        <algorithmic>true</algorithmic>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AlgoCmsStudent" index="54" method="">
+        <assessmentname>sanity_ls_Assignment_24</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanityls_54</questionset>
+        <questiontext>$a+$b</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <filename>img.jpg</filename>
+        <algorithmic>true</algorithmic>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AlgoCmsStudent" index="62" method="">
+        <assessmentname>sanity_ls_Assignment_62</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanityls_62</questionset>
+        <questiontext>$a+$b</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <filename>img.jpg</filename>
+        <algorithmic>true</algorithmic>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AlgoCmsStudent" index="68" method="">
+        <assessmentname>sanity_ls_Assignment_68</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanityls_68</questionset>
+        <questiontext>Test Question for sanityls_68</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <filename>img.jpg</filename>
+        <algorithmic>true</algorithmic>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AlgoCmsStudent" index="70"	method="">
+        <user_id>instructor_sanityls_70</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextls_Sanity_70</context_id>
+        <context_title>studtitlels_Sanity_70</context_title>
+        <assessmentname>sanity_ls_Assignment_70</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanityls_70</questionset>
+        <questiontext>Test Question for sanityls_70</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <filename>img.jpg</filename>
+        <shareWithInitialString>studtitlels_Sanity_70</shareWithInitialString>
+        <shareName>studtitlels_Sanity_70</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>Policy1</assignmentpolicyname>
+        <assignmentpolicy>Policy1</assignmentpolicy>
+        <algorithmic>true</algorithmic>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AlgoCmsStudent" index="70_1"	method="">
+        <user_id>student_sanityls_70</user_id>
+        <Role>student</Role>
+        <context_id>studcontextls_Sanity_70</context_id>
+        <context_title>studtitlels_Sanity_70</context_title>
+        <assessmentname>sanity_ls_Assignment_70</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AlgoCmsStudentForLs" index="2" method="">
+        <assessmentname>sanity_ls_Assignment_2</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanityls_2</questionset>
+        <questiontext>Test Question for sanityls_2</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <difficultylevel>Medium</difficultylevel>
+        <variationLevel>Evaluation</variationLevel>
+        <algorithmic>true</algorithmic>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AlgoCmsStudentForLs" index="8" method="">
+        <assessmentname>sanity_ls_Assignment_8</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanityls_8</questionset>
+        <questiontext>Test Question for sanityls_8</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <difficultylevel>Medium</difficultylevel>
+        <variationLevel>Evaluation</variationLevel>
+        <algorithmic>true</algorithmic>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AlgoCmsStudentForLs" index="13" method="">
+        <assessmentname>sanity_ls_Assignment_13</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanityls_13</questionset>
+        <questiontext>Test Question for sanityls_13</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <difficultylevel>Medium</difficultylevel>
+        <variationLevel>Evaluation</variationLevel>
+        <algorithmic>true</algorithmic>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AlgoCmsStudentForLs" index="18" method="">
+        <assessmentname>sanity_ls_Assignment_18</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanityls_18</questionset>
+        <questiontext>Test Question for sanityls_18</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <difficultylevel>Medium</difficultylevel>
+        <variationLevel>Evaluation</variationLevel>
+        <algorithmic>true</algorithmic>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AlgoCmsStudentForLs" index="24" method="">
+        <assessmentname>sanity_ls_Assignment_24</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanityls_24</questionset>
+        <questiontext>Test Question for sanityls_24</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <difficultylevel>Medium</difficultylevel>
+        <variationLevel>Evaluation</variationLevel>
+        <algorithmic>true</algorithmic>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AlgoCmsStudentForLs" index="30" method="">
+        <assessmentname>sanity_ls_Assignment_30</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanityls_30</questionset>
+        <questiontext>Test Question for sanityls_30</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <difficultylevel>Medium</difficultylevel>
+        <variationLevel>Evaluation</variationLevel>
+        <algorithmic>true</algorithmic>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AlgoCmsStudentForLs" index="36" method="">
+        <assessmentname>sanity_ls_Assignment_36</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanityls_36</questionset>
+        <questiontext>Test Question for sanityls_36</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <difficultylevel>Medium</difficultylevel>
+        <variationLevel>Evaluation</variationLevel>
+        <algorithmic>true</algorithmic>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AlgoCmsStudentForLs" index="41" method="">
+        <assessmentname>sanity_ls_Assignment_41</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanityls_41</questionset>
+        <questiontext>Test Question for sanityls_41</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <difficultylevel>Medium</difficultylevel>
+        <variationLevel>Evaluation</variationLevel>
+        <algorithmic>true</algorithmic>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AlgoCmsStudentForLs" index="45" method="">
+        <assessmentname>sanity_ls_Assignment_45</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanityls_45</questionset>
+        <questiontext>Test Question for sanityls_45</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <difficultylevel>Medium</difficultylevel>
+        <variationLevel>Evaluation</variationLevel>
+        <algorithmic>true</algorithmic>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AlgoCmsStudentForLs" index="54" method="">
+        <assessmentname>sanity_ls_Assignment_54</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanityls_54</questionset>
+        <questiontext>Test Question for sanityls_54</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <filename>img.jpg</filename>
+        <algorithmic>true</algorithmic>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AlgoCmsStudentForLs" index="62" method="">
+        <assessmentname>sanity_ls_Assignment_62</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanityls_62</questionset>
+        <questiontext>Test Question for sanityls_62</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <filename>img.jpg</filename>
+        <algorithmic>true</algorithmic>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AlgoCmsStudentForLs" index="68" method="">
+        <assessmentname>sanity_ls_Assignment_68</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanityls_68</questionset>
+        <questiontext>Test Question for sanityls_68</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <filename>img.jpg</filename>
+        <algorithmic>true</algorithmic>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AlgoCmsStudentForLs" index="70"	method="">
+        <user_id>instructor_sanityls_70</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextls_Sanity_70</context_id>
+        <context_title>studtitlels_Sanity_70</context_title>
+        <assessmentname>sanity_ls_Assignment_70</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanityls_70</questionset>
+        <questiontext>Test Question for sanityls_70</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <filename>img.jpg</filename>
+        <shareWithInitialString>studtitlels_Sanity_70</shareWithInitialString>
+        <shareName>studtitlels_Sanity_70</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>Policy1</assignmentpolicyname>
+        <assignmentpolicy>Policy1</assignmentpolicy>
+        <algorithmic>true</algorithmic>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AlgoCmsStudentForLs" index="70_1"	method="">
+        <user_id>student_sanityls_70</user_id>
+        <Role>student</Role>
+        <context_id>studcontextls_Sanity_70</context_id>
+        <context_title>studtitlels_Sanity_70</context_title>
+        <assessmentname>sanity_ls_Assignment_70</assessmentname>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AssignmentFlowThroughToc" index="2"	method="">
+        <user_id>instructor_sanityls_2</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextls_Sanity_2</context_id>
+        <context_title>studtitlels_Sanity_2</context_title>
+        <assessmentname>sanity_ls_Assignment_2</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanityls_2</questionset>
+        <questiontext>Test Question for sanityls_2</questiontext>
+        <questiontextstem2>questiontextstem2</questiontextstem2>
+        <filename>img.jpg</filename>
+        <shareWithInitialString>studtitlels_Sanity_2</shareWithInitialString>
+        <shareName>studtitlels_Sanity_2</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AssignmentFlowThroughToc" index="2_1"	method="">
+        <user_id>student_sanityls_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontextls_Sanity_2</context_id>
+        <context_title>studtitlels_Sanity_2</context_title>
+        <assessmentname>sanity_ls_Assignment_2</assessmentname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AssignmentFlowThroughToc" index="4" method="">
+        <user_id>instructor_sanityls_4</user_id>
+        <Role>instructor</Role>
+        <questiontype>Static Practice</questiontype>
+        <context_id>studcontextls_Sanity_4</context_id>
+        <context_title>studtitlels_Sanity_4</context_title>
+        <assessmentname>sanity_ls_Assignment_2</assessmentname>
+        <shareWithInitialString>studtitlels_Sanity_4</shareWithInitialString>
+        <shareName>studtitlels_Sanity_4</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <reservforassignment>false</reservforassignment>
+        <assignmentpolicyname>Policy1</assignmentpolicyname>
+        <assignmentpolicy>Policy1</assignmentpolicy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AssignmentFlowThroughToc" index="4_1" method="">
+        <user_id>student_sanityls_4</user_id>
+        <Role>student</Role>
+        <context_id>studcontextls_Sanity_4</context_id>
+        <context_title>studtitlels_Sanity_4</context_title>
+        <assessmentname>sanity_ls_Assignment_2</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AssignmentFlowThroughToc" index="8" method="">
+        <user_id>instructor_sanityls_8</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextls_Sanity_8</context_id>
+        <context_title>studtitlels_Sanity_8</context_title>
+        <assessmentname>sanity_ls_Assignment_2</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitlels_Sanity_8</shareWithInitialString>
+        <shareName>studtitlels_Sanity_8</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <reservforassignment>false</reservforassignment>
+        <assignmentpolicyname>Policy8</assignmentpolicyname>
+        <assignmentpolicy>Policy8</assignmentpolicy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AssignmentFlowThroughToc" index="8_1" method="">
+        <user_id>student_sanityls_8</user_id>
+        <Role>student</Role>
+        <context_id>studcontextls_Sanity_8</context_id>
+        <context_title>studtitlels_Sanity_8</context_title>
+        <assessmentname>sanity_ls_Assignment_2</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AssignmentFlowThroughToc" index="10" method="">
+        <user_id>instructor_sanityls_10</user_id>
+        <Role>instructor</Role>
+        <questiontype>Static Practice</questiontype>
+        <context_id>studcontextls_Sanity_10</context_id>
+        <context_title>studtitlels_Sanity_10</context_title>
+        <assessmentname>sanity_ls_Assignment_2</assessmentname>
+        <shareWithInitialString>studtitlels_Sanity_10</shareWithInitialString>
+        <shareName>studtitlels_Sanity_10</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <reservforassignment>false</reservforassignment>
+        <assignmentpolicyname>Policy10</assignmentpolicyname>
+        <assignmentpolicy>Policy10</assignmentpolicy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AssignmentFlowThroughToc" index="10_1" method="">
+        <user_id>student_sanityls_10</user_id>
+        <Role>student</Role>
+        <context_id>studcontextls_Sanity_10</context_id>
+        <context_title>studtitlels_Sanity_10</context_title>
+        <assessmentname>sanity_ls_Assignment_2</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AssignmentFlowThroughToc" index="12" method="">
+        <user_id>student_sanityls_12</user_id>
+        <Role>student</Role>
+        <context_id>studcontextls_Sanity_12</context_id>
+        <context_title>studtitlels_Sanity_12</context_title>
+        <shareWithInitialString>studtitlels_Sanity_12</shareWithInitialString>
+        <shareName>studtitlels_Sanity_12</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AssignmentFlowThroughToc" index="12_1" method="">
+        <user_id>instructor_sanityls_12</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextls_Sanity_12</context_id>
+        <context_title>studtitlels_Sanity_12</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AssignmentFlowThroughToc" index="17" method="">
+        <user_id>student_sanityls_17</user_id>
+        <Role>student</Role>
+        <context_id>studcontextls_Sanity_17</context_id>
+        <context_title>studtitlels_Sanity_17</context_title>
+        <shareWithInitialString>studtitlels_Sanity_17</shareWithInitialString>
+        <shareName>studtitlels_Sanity_17</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AssignmentFlowThroughToc" index="17_1" method="">
+        <user_id>instructor_sanityls_17</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextls_Sanity_17</context_id>
+        <context_title>studtitlels_Sanity_17</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AssignmentFlowThroughToc" index="20" method="">
+        <user_id>instructor_sanityls_20</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextls_Sanity_20</context_id>
+        <context_title>studtitlels_Sanity_20</context_title>
+        <assignmentpolicyname>AssignmentPolicy10</assignmentpolicyname>
+        <shareWithInitialString>studtitlels_Sanity_20</shareWithInitialString>
+        <shareName>studtitlels_Sanity_20</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>true</gradable>
+        <assignmentpolicy>AssignmentPolicy10</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>21</duedate>
+        <additionalnote>This is an additional note</additionalnote>
+        <totalpoints>2</totalpoints>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AssignmentFlowThroughToc" index="20_1" method="">
+        <user_id>student_sanityls_20</user_id>
+        <Role>student</Role>
+        <context_id>studcontextls_Sanity_20</context_id>
+        <context_title>studtitlels_Sanity_20</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AssignmentFlowThroughToc" index="24" method="">
+        <user_id>instructor_sanityls_24</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextls_Sanity_24</context_id>
+        <context_title>studtitlels_Sanity_24</context_title>
+        <assignmentpolicyname>AssignmentPolicy24</assignmentpolicyname>
+        <shareWithInitialString>studtitlels_Sanity_24</shareWithInitialString>
+        <shareName>studtitlels_Sanity_24</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>true</gradable>
+        <assignmentpolicy>AssignmentPolicy24</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>21</duedate>
+        <additionalnote>This is an additional note</additionalnote>
+        <totalpoints>2</totalpoints>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AssignmentFlowThroughToc" index="24_1" method="">
+        <user_id>student_sanityls_24</user_id>
+        <Role>student</Role>
+        <context_id>studcontextls_Sanity_24</context_id>
+        <context_title>studtitlels_Sanity_24</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AssignmentFlowThroughToc" index="27" method="">
+        <user_id>instructor_sanityls_24</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextls_Sanity_24</context_id>
+        <context_title>studtitlels_Sanity_24</context_title>
+        <assignmentpolicyname>AssignmentPolicy10</assignmentpolicyname>
+        <shareWithInitialString>studtitlels_Sanity_24</shareWithInitialString>
+        <shareName>studtitlels_Sanity_24</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>false</gradable>
+        <assignmentpolicy>AssignmentPolicy10</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>21</duedate>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AssignmentFlowThroughToc" index="27_1" method="">
+        <user_id>student_sanityls_24</user_id>
+        <Role>student</Role>
+        <context_id>studcontextls_Sanity_24</context_id>
+        <context_title>studtitlels_Sanity_24</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AssignmentFlowThroughToc" index="27" method="">
+        <user_id>instructor_sanityls_27</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextls_Sanity_27</context_id>
+        <context_title>studtitlels_Sanity_27</context_title>
+        <assessmentname>FileBasedAssessment_sanity</assessmentname>
+        <promptdetails>promptdetails</promptdetails>
+        <shareWithInitialString>studtitlels_Sanity_27</shareWithInitialString>
+        <shareName>studtitlels_Sanity_27</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>true</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <fileUpload>true</fileUpload>
+        <filename>img.jpg</filename>
+        <questionBank>true</questionBank>
+        <totalpoints>2</totalpoints>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AssignmentFlowThroughToc" index="27_1" method="">
+        <user_id>student_sanityls_27</user_id>
+        <Role>student</Role>
+        <context_id>studcontextls_Sanity_27</context_id>
+        <context_title>studtitlels_Sanity_27</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AssignmentFlowThroughToc" index="30" method="autoSubmitFunctionaityNonGradAble">
+        <user_id>instructor_sanityls_30</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextls_Sanity_30</context_id>
+        <context_title>studtitlels_Sanity_30</context_title>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanityls_30</questionset>
+        <questiontext>Test Question for sanityls_30</questiontext>
+        <assessmentname>sanity_ls_Assignment_30</assessmentname>
+        <promptdetails>promptdetails</promptdetails>
+        <shareWithInitialString>studtitlels_Sanity_30</shareWithInitialString>
+        <shareName>studtitlels_Sanity_30</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>3</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <fileUpload>true</fileUpload>
+        <questionBank>true</questionBank>
+        <totalpoints>2</totalpoints>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanityPack.ls.AssignmentFlowThroughToc" index="30_1" method="autoSubmitFunctionaityNonGradAble">
+        <user_id>student_sanityls_30_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextls_Sanity_30</context_id>
+        <context_title>studtitlels_Sanity_30</context_title>
+    </testcase>
+
+</learningspaces>

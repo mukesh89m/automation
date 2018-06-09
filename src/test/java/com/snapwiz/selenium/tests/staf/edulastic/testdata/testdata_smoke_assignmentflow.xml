@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edulastic>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.smoke.assignmentflow.AssignmentFlow" index ="14" method="">
+        <assessmentname>Smoke_InstructorAssignmentFlow</assessmentname>
+        <questiontext>question text_Smoke_InstructorAssignmentFlow</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <answerchoice>incorrect</answerchoice>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>district</privacy>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.smoke.assignmentflow.AssignmentFlow" index ="15" method="">
+        <assessmentname>Smoke_InstructorAssignmentFlow</assessmentname>
+        <shareWithClass>true</shareWithClass>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <owner>district</owner>
+        <selectgrade>Grade 1</selectgrade>
+        <whitelistuser>true</whitelistuser>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <assessmenttype>standardized</assessmenttype>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>district</privacy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.smoke.assignmentflow.AssignmentFlow" index ="16" method="">
+        <assessmentname>Smoke_InstructorAssignmentFlow</assessmentname>
+        <shareWithClass>true</shareWithClass>
+        <daassessmentname>true</daassessmentname>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <owner>district</owner>
+        <selectgrade>Grade 1</selectgrade>
+        <whitelistuser>true</whitelistuser>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <assessmenttype>standardized</assessmenttype>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>district</privacy>
+    </testcase>
+
+
+    <!--AttempMathmlQuestion-->
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.smoke.assignmentflow.AttempMathmlQuestion" index ="1" method="">
+        <assessmentname>AssinAttempMathmlQuestion</assessmentname>
+        <shareWithClass>true</shareWithClass>
+        <daassessmentname>true</daassessmentname>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <privacy>school</privacy>-->
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.smoke.assignmentflow.AttempQuestion" index ="2" method="">
+        <assessmentname>AssinAttempMathmlQuestion</assessmentname>
+        <shareWithClass>true</shareWithClass>
+        <daassessmentname>true</daassessmentname>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <privacy>school</privacy>-->
+    </testcase>
+
+
+</edulastic>

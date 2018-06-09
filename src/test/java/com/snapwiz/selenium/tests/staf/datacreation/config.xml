@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<config>
+    <browser>firefox</browser>
+    <course>lsadp</course>
+    <baseURL>http://localhost:8080</baseURL>
+    <LTIURL>http://wiley-app-lti.elasticbeanstalk.com</LTIURL>
+    <LaunchURL>http://localhost:8080/oAuth</LaunchURL>
+    <courseID>ISBNEPROF12983</courseID>
+    <orionCourseId>EPROF12703</orionCourseId>
+    <lsCourseId>ISBNEPROF12495</lsCourseId>
+    <csid>309</csid>
+    <csorionid>352</csorionid>
+    <cslsid>247</cslsid>
+    <customerkey>wileyplusproduction</customerkey>
+    <secretkey>qp5bd658az8</secretkey>
+
+
+    <resourselinkid>home</resourselinkid>
+    <context_id>studcontext</context_id>
+    <context_title>studtitle</context_title>
+    <familyname>family</familyname>
+    <givenname>givenname</givenname>
+    <email>automation@snapwiz.com</email>
+    <instance_guid>wileyplus.com</instance_guid>
+    <instance_name>wileyPLUS</instance_name>
+    <custom_destination>snapwiz-homepage</custom_destination>
+    <custom_domainid>autodomainorion</custom_domainid >
+    <custom_course_number></custom_course_number>
+    <custom_domain_name>DISCOVER DICHO Y HECHO 10E</custom_domain_name>
+    <custom_instructor_classlist>[{"classid":"cls123","title":"Biology's 101","classcode":"BIO-101","state":"Active"},{"classid":"cls234","title":"Biology's 101","classcode":"BIO-101","state":"Active"}]</custom_instructor_classlist>
+    <lis_outcome_service_url><!--http://wiley-app-lti.elasticbeanstalk.com/oAuthConsumer/gradebookSyncTest?--></lis_outcome_service_url>
+    <dbconnecturl>jdbc:mysql://localhost:3306/</dbconnecturl>
+    <dbName>mongrel</dbName>
+    <dbdriver>com.mysql.jdbc.Driver</dbdriver>
+    <dbuserName>dbuser</dbuserName>
+    <dbPassword>dbpassword</dbPassword>
+    <mongoHost>localhost</mongoHost>
+    <mongoPort>27017</mongoPort>
+    <FileUploadPath>d:\fileupload\</FileUploadPath>
+    <cmsUserName>wiley1</cmsUserName>
+    <cmsPassword>hurRfZlZ</cmsPassword>
+</config>

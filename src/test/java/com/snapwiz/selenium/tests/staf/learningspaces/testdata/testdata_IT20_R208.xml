@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R208.GradeBookWeighting" index="11" method="assignStaticPracticeFromStudy" >
+        <user_id>instructor_IT20_R208_11_3</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT20_R208_11_3</context_id>
+        <context_title>studtitle_IT20_R208_11_3</context_title>
+        <gradingpolicy>policy description80</gradingpolicy>
+        <gradeable>true</gradeable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <searchquestion>true</searchquestion>
+        <customassignmentname>Custom assignment name</customassignmentname>
+        <noOfQuestions>2</noOfQuestions>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R208.GradeBookWeighting" index="12" method="assignStaticPracticeFromStudy" >
+        <user_id>student_IT20_R208_11_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT20_R208_11_3</context_id>
+        <context_title>studtitle_IT20_R208_11_3</context_title>
+        <gradingpolicy>policy description80</gradingpolicy>
+        <gradeable>true</gradeable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <searchquestion>true</searchquestion>
+        <customassignmentname>Custom assignment name</customassignmentname>
+        <noOfQuestions>2</noOfQuestions>
+
+        <assessmentname>Assessment_weightage_208__12</assessmentname>
+        <questionset>Assessment_to_check_Assessment_weightage_208__12questionSet</questionset>
+        <questiontext>Assessment_to_check_Assessment_weightage_208__12QuestionText</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <searchquestion>true</searchquestion>
+        <customassignmentname>Custom assignment name</customassignmentname>
+        <noOfQuestions>2</noOfQuestions>
+        <studentname>givenname family</studentname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R208.GradeBookWeighting" index="13" method="assignStaticPracticeFromStudy" >
+        <user_id>instructor_IT20_R208_11_13</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT20_R208_11_13</context_id>
+        <context_title>studtitle_IT20_R208_11_13</context_title>
+        <gradingpolicy>policy description80</gradingpolicy>
+        <gradeable>true</gradeable>
+        <duedate>26</duedate>
+        <assessmentname>Assessment_to_check_Assessment_weightage_208</assessmentname>
+        <questionset>Assessment_to_check_Assessment_weightage_208_questionSet</questionset>
+        <questiontext>Assessment_to_check_Assessment_weightage_208_QuestionText</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_IT18_R1818_42</shareWithInitialString>
+        <shareName>studtitle_IT18_R1818_42</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>true</gradable>
+        <totalpoints>10</totalpoints>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <searchquestion>true</searchquestion>
+        <customassignmentname>Custom assignment name</customassignmentname>
+        <noOfQuestions>2</noOfQuestions>
+        <studentname>givenname family</studentname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R208.GradeBookWeighting" index="14" method="assignStaticPracticeFromStudy" >
+        <user_id>student_IT20_R208_11_13</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT20_R208_11_13</context_id>
+        <context_title>studtitle_IT20_R208_11_13</context_title>
+        <gradingpolicy>policy description80</gradingpolicy>
+        <gradeable>true</gradeable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <searchquestion>true</searchquestion>
+        <customassignmentname>Custom assignment name</customassignmentname>
+        <noOfQuestions>2</noOfQuestions>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R208.GradeBookWeighting" index="15" method="assignStaticPracticeFromStudy" >
+        <user_id>instructor_IT20_R208_15</user_id>
+        <Role>instructor</Role>
+        <context_id>inscontext_IT20_R208_15</context_id>
+        <context_title>institle_IT20_R208_15</context_title>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R208.GradeBookWeighting" index="16" method="assignStaticPracticeFromStudy" >
+        <user_id>instructor_IT20_R208_15</user_id>
+        <Role>instructor</Role>
+        <context_id>inscontext_IT20_R208_16</context_id>
+        <context_title>institle_IT20_R208_16</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R208.GradeBookWeighting" index="17" method="assignStaticPracticeFromStudy" >
+        <user_id>instructor_IT20_R208_17</user_id>
+        <Role>instructor</Role>
+        <context_id>inscontext_IT20_R208_17</context_id>
+        <context_title>institle_IT20_R208_17</context_title>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R208.GradeBookWeighting" index="18" method="assignStaticPracticeFromStudy" >
+        <user_id>instructor_IT20_R208_18</user_id>
+        <Role>instructor</Role>
+        <context_id>inscontext_IT20_R208_17</context_id>
+        <context_title>inscontext_IT20_R208_17</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R208.GradeBookWeighting" index="19" method="assignStaticPracticeFromStudy" >
+        <user_id>instructor_IT20_R208_19</user_id>
+        <Role>instructor</Role>
+        <context_id>IT20_R208_19</context_id>
+        <context_title>IT20_R208_19</context_title>
+        <assignmentpolicyname>208 Policy</assignmentpolicyname>
+        <shareWithInitialString>208</shareWithInitialString>
+        <shareName>IT20_R208_19</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>208 Policy</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assessmentname>208_1Assignment</assessmentname>
+        <questionset>208_1questionset</questionset>
+        <questiontext>208_question text</questiontext>
+        <questiontype>Static Practice</questiontype>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R208.GradeBookWeighting" index="20" method="assignStaticPracticeFromStudy" >
+        <user_id>student_IT20_R208_20</user_id>
+        <Role>student</Role>
+        <context_id>IT20_R208_19</context_id>
+        <context_title>IT20_R208_19</context_title>
+        <familyname>family</familyname>
+        <givenname>givename</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R208.GradeBookWeighting" index="21" method="assignStaticPracticeFromStudy" >
+        <user_id>instructor_IT20_R208_21</user_id>
+        <Role>instructor</Role>
+        <context_id>IT20_R208_21</context_id>
+        <context_title>IT20_R208_21</context_title>
+        <assignmentpolicyname>208-1 Policy</assignmentpolicyname>
+        <shareWithInitialString>208</shareWithInitialString>
+        <shareName>IT20_R208_21</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>208-1 Policy</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assessmentname>208_1Assignment</assessmentname>
+        <questionset>208_1questionset</questionset>
+        <questiontext>208_question text</questiontext>
+        <questiontype>Static Practice</questiontype>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R208.GradeBookWeighting" index="22" method="assignStaticPracticeFromStudy" >
+        <user_id>student_IT20_R208_22</user_id>
+        <Role>student</Role>
+        <context_id>IT20_R208_21</context_id>
+        <context_title>IT20_R208_21</context_title>
+        <familyname>family</familyname>
+        <givenname>givename</givenname>
+    </testcase>
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R208.GradeBookWeighting" index="23" method="assignStaticPracticeFromStudy" >
+        <user_id>instructor_IT20_R208_23</user_id>
+        <Role>instructor</Role>
+        <context_id>IT20_R208_23</context_id>
+        <context_title>IT20_R208_23</context_title>
+        <assignmentpolicyname>208-2 Policy</assignmentpolicyname>
+        <shareWithInitialString>208</shareWithInitialString>
+        <shareName>IT20_R208_23</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>208-2 Policy</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assessmentname>208_1Assignment</assessmentname>
+        <questionset>208_1questionset</questionset>
+        <questiontext>208_question text</questiontext>
+        <questiontype>Static Practice</questiontype>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R208.GradeBookWeighting" index="24" method="assignStaticPracticeFromStudy" >
+        <user_id>student_IT20_R208_24</user_id>
+        <Role>student</Role>
+        <context_id>IT20_R208_23</context_id>
+        <context_title>IT20_R208_23</context_title>
+        <familyname>family</familyname>
+        <givenname>givename</givenname>
+    </testcase>
+
+
+
+</learningspaces>

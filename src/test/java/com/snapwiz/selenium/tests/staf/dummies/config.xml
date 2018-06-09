@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<config>
+		<browser>firefox</browser>
+		<course>1,001 CCNA Routing &amp; Switching Practice Questions For Dummies</course>
+		<baseURL>http://localhost:8080</baseURL>
+		<institutionAdminPassword>snapwiz</institutionAdminPassword>
+		<dbconnecturl>jdbc:mysql://localhost:3306/</dbconnecturl>
+		<directloginurl>http://localhost:8080/ls/login</directloginurl>
+		<homeurl>http://localhost:8080/proed/index</homeurl>
+		<dbName>mongrel</dbName>
+		<dbdriver>com.mysql.jdbc.Driver</dbdriver>
+		<dbuserName>dbuser</dbuserName>
+		<dbPassword>dbpassword</dbPassword>		
+		<FileUploadPath>/home/fileupload/</FileUploadPath>
+		<cmsUserName>dummies1aaaaaa</cmsUserName>
+		<cmsPassword>snapwiz</cmsPassword>
+</config>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+    <test name="Practice">
+        <classes>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R176.AddScoreForEachQuestion"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->

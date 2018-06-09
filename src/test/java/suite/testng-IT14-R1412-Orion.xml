@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="R14.12-OrionRegressionSuite" preserve-order="true">
+    <classes>      
+    	<class name="com.snapwiz.selenium.tests.staf.orion.testcases.IT14.R1412.OrionGradebookSync"/> 	
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->

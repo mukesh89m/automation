@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="R14-LSRegressionSuite" preserve-order="true">
+    <classes>      
+    	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R14.AssignmentPage"/>
+      	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R14.AssignmentPageInstructorView"/>
+      	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R14.CheckGradeableCheckbox"/> 
+      	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R14.NonGradableAssignmentWithoutDescription"/>     
+      	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R14.ActionOverAssignments"/>  
+      	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R14.StatusOfAssignments"/>      	 	  
+      	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R14.VerifyDueDateAndAccessibleDate"/>
+      	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R14.VerifyEachStatusBox"/>      	 
+      	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R14.UpdateStatusCountInStatusBox"/> 
+      	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R14.StatusBoxCount"/>
+      	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R14.SocialElementsInstructorSide"/>
+      	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R14.VerifyFiltersOnAllAssignment"/>
+      	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R14.InstructoAbleToPreviewQuestionsLearningActivities"/><!-- error -->
+      	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R14.ResourceAssignmentByInstructor"/>
+      	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R14.InstructorAbleToFilterAllAssignableResources"/>
+      	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R14.SearchTextAreaOnTop"/>
+      	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R14.InstructorAbleToViewDetailsOfEachAssignment"/>
+      	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R14.VerifyBookMarkSymbol"/>
+      	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R14.InstructorAbleToGradeAndProvideFeedback"/>
+      	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R14.InstructorSendingPrivateMessageToAStudent"/>
+      	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R14.VerifyTotalMarksColumn"/>
+      	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R14.InstructorAbleToGradeManuallyGradableQuestions"/>
+      	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R14.InstructorAbleToFeedbackForNonGradableAssignment"/>       	
+      	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R15.StudentAbleToNevigateAssignmentPage"/>   
+  		<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R15.AttemptAssignmentAsStudent"/>
+  		<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R15.DateDisplayInAssignmentAccoringToTimeZone"/>  
+  		<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R15.DifferentStatusOfAssignment"/>
+  		<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R15.SortingOrderOfAssignmentsInAssignmentsPage"/>
+  		<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R15.StudentAbleToViewDropdownInAssignmentPage"/>		
+  		<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R15.AssignmentStatusBox"/>
+  		<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R15.StatusBoxNotShownIfAssignmentIsNotInAnyStatus"/>
+    	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R15.CountOfBoxesChangeAsPerFilterSelected"/>
+    	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R15.DetailsOfAssignments"/>
+    	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R15.StudentAbleToUseSocialElementForAssignment"/>
+    	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R15.StudentAbleToViewRightSideTab"/>
+    	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R15.AssignmentsTimer"/>
+    	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R15.SummaryPagePopUp"/>
+    	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R15.StudentAbleToNavigateNextPreviousButtonmanytimes"/>
+    	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R15.ClickOnQuestionCardLandOnSpecificQuestionPage"/>
+    	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R15.GradePointReflectedWhenInstructorUpdateAfterSubmittedTheAssignment"/>
+    	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT10.R15.DateDisplayInAssignmentAccoringToTimeZone"/>
+
+
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT11.R22.ChangesAreNotReflectedinOriginalQuestion"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT11.R22.InstructorAbleToCustomizeAssessment"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT11.R22.AvailabilityOfSearchAndVBrowseOptionInNewAssignmentTab"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT11.R22.SearchFilterFunctionality"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT11.R22.BrowseOptionFunctionality"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT11.R22.ExpandFunctionalityOfSearchedResult"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT11.R22.InstructorAbleToAddQuestionsInMyAssignemnt"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT11.R22.IndicationOfQuestionWhichalreadyPartOfCustomAssignment"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT11.R22.DeleteAndEditFunctionalaityOfYourQuestion"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT11.R22.AvalabilityOfSaveAssignement"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT11.R22.DeleteLinkFunctionality"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT11.R22.CustomizeTheAssignment"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT11.R22.FunctionalityOfGoButton"/>
+
+        <!-- Test R26-->
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R1426.BookmarkForTheStreamEntries"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R1426.CoursePerformanceIndicatorsForInstructorHavingNoData"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R1426.DashBoardForInstructor"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R1426.InstructorAbleToViewAssignmentActivity"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R1426.InstructorAbleToViewCourseStreamEntries"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R1426.InstructorAbleToViewNavigatorIconInHeader"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R1426.TopTenPercentOfClass"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R1426.VerifyBarGraphInAssignmentTile"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R1426.VerifyCoursePerformanceIndicators"/>
+
+        <!-- Test R14.19-14.21-->
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R1419.InstitutionalAdminAbleToCreateNewClassSection"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R1419.InstitutionalAdminAbleToManageAllUser"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R1419.InstitutionalAdminLoginAndAbleToSeeDashboard"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R1419.InstitutionalAdminManageAllClassSectionInMyInstitution"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R1419.InstitutionalAdminManageAllCourseInMyInstitution"/>
+
+        <!-- Test R14.29-->
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R1429.ProficencyOfTestDependsOnAnsweroptions"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R1429.ProficencyPageFeatures"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R1429.StudentAbleToSeeProficencyReport"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R1429.StudentInstructorAbleToNavigateProficencyReport"/>
+
+        <!-- Test R14.32-->
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R32.DiffrentQuizTypeSupported"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R32.PerformanceInLastTenQuestion"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R32.PerformanceReportOfQuiz"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R32.QuestionViewOfQuizOnStudentSide"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R32.StudentAbleToAttemptPracticetestFromDashboard"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R32.StudentAbleToCreateOwnCustomQuiz"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R32.StudentAbleToStartPracticeTestFromDashboard"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R32.TotalNumberOfAvailableQuestions"/>
+
+        <!--Course Stream-->
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT9.R3.LSLoginAsStudents"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT9.R3.LSLoginDisplayAllPosts"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT9.R3.ScrolldownPageToViewOlderPost"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT9.R3.RecentPostOnTop"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT9.R3.RecentCommentOnTopAndOrderdByTime"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT9.R3.TIconBesidesSharedWithOption"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT9.R3.RichTextEditorIcon"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT9.R3.RichTextEditor"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT9.R3.LSShareWithOptionAdditional"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT9.R3.PostingNotAllowWithoutSharingAStudent"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT9.R3.LSAutoSuggestShareBox"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT9.R3.LSPostedADisscussion"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT9.R3.SharingAPost"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT9.R3.SharingAPostWithStudent"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT9.R3.LinkTabWorking"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT9.R3.ShareALinkWithClassSection"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT9.R3.ShareALinkWithStudent"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT9.R3.FileTabWorking"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT9.R3.FileExtensionSupport"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT9.R3.AllowFileSize"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT9.R3.CancelFunctionality"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT9.R3.UploadFileForDifferentUser"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT9.R3.LSFlashBehaviour"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT9.R3.LSVideoShare"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT9.R3.LSAudioShare"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT9.R3.LSRenderingImage"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT9.R3.LSRenderingFlash"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT9.R3.StariconBookmark"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT9.R3.LikeUnlikeCommentCourseStream"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT9.R3.AgeOfPostingComment"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT9.R3.AllEntriesfilteforCourseStream"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT9.R3.HideReportPostComment"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT9.R3.ReportAbuseOnPost"/>
+
+      	     	  
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->

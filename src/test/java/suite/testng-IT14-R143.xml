@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="IT_14_R142-LSRegressionSuite">
+    <classes>         	
+    	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R143.StudentAbleToAddNewNoteAndAttachedaFile"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R143.NoteAddedByStudent"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R143.StudentAbleToAddTagWithNote"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R143.StudentAbleToSearchTag"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R143.StudentAbleToViewDiscussionWidgetAsMyNotes"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R143.StudentAbleToViewAddedPerspectiveOnMyNotes"/>
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->

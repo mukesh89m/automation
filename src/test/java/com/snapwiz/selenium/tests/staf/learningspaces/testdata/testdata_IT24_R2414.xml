@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2414.VerifyOrionAdaptivePracticeText" index="12" method="">
+        <user_id>Student_IT24_R2414_12</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT24_R2414_12</context_id>
+        <context_title>studtitle_IT24_R2414_12</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2414.VerifyOrionAdaptivePracticeText" index="21" method="">
+        <user_id>Student_IT24_R2414_211</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT24_R2414_211</context_id>
+        <context_title>studtitle_IT24_R2414_211</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2414.VerifyOrionAdaptivePracticeText" index="99" method="">
+        <user_id>Instructor_IT24_R2414_99</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT24_R2414_99</context_id>
+        <context_title>studtitle_IT24_R2414_99</context_title>
+        <numberofquestions>10</numberofquestions>
+        <thresholdRangeOne>10</thresholdRangeOne>
+        <thresholdRangeTwo>50</thresholdRangeTwo>
+        <thresholdRangeThree>60</thresholdRangeThree>
+        <thresholdRangeFour>80</thresholdRangeFour>
+        <thresholdRangeFive>90</thresholdRangeFive>
+        <gradeable>true</gradeable>
+        <threshold>true</threshold>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2414.VerifyOrionAdaptivePracticeText" index="99_1" method="">
+        <user_id>Student_IT24_R2414_99</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT24_R2414_99</context_id>
+        <context_title>studtitle_IT24_R2414_99</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2414.VerifyOrionAdaptivePracticeText" index="104" method="">
+        <user_id>Instructor_IT24_R2414_104</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT24_R2414_104</context_id>
+        <context_title>studtitle_IT24_R2414_104</context_title>
+        <numberofquestions>10</numberofquestions>
+        <thresholdRangeOne>10</thresholdRangeOne>
+        <thresholdRangeTwo>50</thresholdRangeTwo>
+        <thresholdRangeThree>60</thresholdRangeThree>
+        <thresholdRangeFour>80</thresholdRangeFour>
+        <thresholdRangeFive>90</thresholdRangeFive>
+        <gradeable>true</gradeable>
+        <threshold>true</threshold>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2414.VerifyOrionAdaptivePracticeText" index="104_1" method="">
+        <user_id>Student_IT24_R2414_104</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT24_R2414_104</context_id>
+        <context_title>studtitle_IT24_R2414_104</context_title>
+    </testcase>
+
+<!--    INSTRUCTOR-->
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2414.VerifyOrionAdaptivePracticeTextInInstructorSide" index="139" method="">
+        <user_id>Instructor_IT24_R2414_139</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT24_R2414_139</context_id>
+        <context_title>studtitle_IT24_R2414_139</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2414.VerifyOrionAdaptivePracticeTextInInstructorSide" index="157" method="">
+        <user_id>instructor_IT22_R2414_157</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R2414_157</context_id>
+        <context_title>studtitle_IT22_R2414_157</context_title>
+        <assessmentname>Orion:CH X Assessment_157</assessmentname>
+        <questiontype>Adaptive Component Diagnostic</questiontype>
+        <questionset>Test Question IT22_R2414_157</questionset>
+        <questiontext>Test Question IT22_R2414_157</questiontext>
+        <learningobjective>true</learningobjective>
+        <reservforassignment>false</reservforassignment>
+        <useWriteBoard>true</useWriteBoard>
+        <newChapterName>Diagnostic_Assessment_IT22_R2414_157</newChapterName>
+        <chapterName>Diagnostic_Assessment_IT22_R2414_157</chapterName>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2414.VerifyOrionAdaptivePracticeTextInInstructorSide" index="158" method="">
+        <user_id>instructor_IT22_R2414_157</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R2414_157</context_id>
+        <context_title>studtitle_IT22_R2414_157</context_title>
+        <assessmentname>Orion:CH X Assessment_157</assessmentname>
+        <questiontype>Adaptive Component Practice</questiontype>
+        <questionset>Test Question IT22_R2414_157</questionset>
+        <questiontext>Test Question IT22_R2414_132</questiontext>
+        <learningobjective>true</learningobjective>
+        <solutionText>true</solutionText>
+        <hintText>true</hintText>
+        <newChapterName>Diagnostic_Assessment_IT22_R2414_157</newChapterName>
+        <chapterName>Diagnostic_Assessment_IT22_R2414_157</chapterName>
+    </testcase>
+</learningspaces>

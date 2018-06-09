@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edulastic>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.R2.ClassCreate" index ="66">
+        <grade>Grade 1</grade>
+        <subjectArea>Mathematics</subjectArea>
+        <subject>Math - Common Core</subject>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.R2.ClassCreate" index ="72">
+        <grade>Grade 1</grade>
+        <subjectArea>Mathematics</subjectArea>
+        <subject>Math - Common Core</subject>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.R2.ClassCreate" index ="93">
+        <grade>Grade 1</grade>
+        <subjectArea>Mathematics</subjectArea>
+        <subject>Math - Common Core</subject>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.R2.ClassCreate" index ="96">
+        <grade>Grade 1</grade>
+        <subjectArea>Mathematics</subjectArea>
+        <subject>Math - Common Core</subject>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.R2.ClassCreate" index ="98">
+        <grade>Grade 1</grade>
+        <subjectArea>Mathematics</subjectArea>
+        <subject>Math - Common Core</subject>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.R2.ClassCreate" index ="79">
+        <grade>Grade 1</grade>
+        <subjectArea>Mathematics</subjectArea>
+        <subject>Math - Common Core</subject>
+    </testcase>
+	
+</edulastic>

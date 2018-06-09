@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edulastic>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.sanity.print.Print" index ="1" method="">
+        <assessmentname>Sanity_print_Assignment_1</assessmentname>
+        <questiontext>question text_print_question_1</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>district</privacy>
+        <whitelistuser>false</whitelistuser>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.sanity.print.Print" index ="2" method="">
+        <assessmentname>Sanity_print_Assignment_1</assessmentname>
+        <questiontext>question text_print_question_1</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>district</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.sanity.print.Print" index ="3" method="">
+        <assessmentname>Sanity_print_Assignment_1</assessmentname>
+        <questiontext>question text_print_question_1</questiontext>
+        <newassessmentname>Sanity_print_Assignment_OnAssignmentSubmission</newassessmentname>
+        <shareWithClass>true</shareWithClass>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>district</privacy>
+        <owner>district</owner>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.sanity.print.Print" index ="4" method="">
+        <assessmentname>Sanity_print_Assignment_1</assessmentname>
+        <newassessmentname>Sanity_print_Assignment_ExplicitlyByTeacher</newassessmentname>
+        <questiontext>question text_print_question_1</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>26</duedate>
+        <whitelistuser>false</whitelistuser>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>district</privacy>
+        <owner>district</owner>
+    </testcase>
+
+</edulastic>

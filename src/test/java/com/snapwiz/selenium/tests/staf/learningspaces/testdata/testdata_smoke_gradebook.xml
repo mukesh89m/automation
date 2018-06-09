@@ -1,0 +1,1371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.StudentPerformance" index="1" method="">
+        <user_id>instructor_AssignmentPerformance_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_AssignmentPerformance_1</context_id>
+        <context_title>studtitle_AssignmentPerformance_1</context_title>
+        <assessmentname>AssignmentPerformance_1</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of AssignmentPerformance_1</questionset>
+        <questiontext>Test_Question_for_AssignmentPerformance_1</questiontext>
+        <shareWithInitialString>studtitle_AssignmentPerformance_1</shareWithInitialString>
+        <shareName>studtitle_AssignmentPerformance_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>30</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.StudentPerformance" index="2" method="">
+        <user_id>instructor_smoke_studentPerf_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_studentPerf_1</context_id>
+        <context_title>studtitle_smoke_studentPerf_1</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.StudentPerformance" index="2" method="">
+        <assessmentname>FileBasedAssignment_AssignmentPerformance_2</assessmentname>
+        <shareWithInitialString>studtitle_AssignmentPerformance_1</shareWithInitialString>
+        <filename>img.png</filename>
+        <shareName>studtitle_AssignmentPerformance_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>true</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>30</duetime>
+        <defaultDuetime>true</defaultDuetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <totalpoints>2</totalpoints>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.StudentPerformance" index="3" method="">
+        <discussionAssignment>discussionAssignment_AssignmentPerformance_3</discussionAssignment>
+        <description>discussionAssignment</description>
+        <shareName>studtitle_AssignmentPerformance_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>20:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>givenname family</studentname>
+        <duetime>30</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <totalPoints>2</totalPoints>
+        <defaultDuetime>true</defaultDuetime>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.StudentPerformance" index="1_1" method="">
+        <user_id>student_AssignmentPerformance_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformance_1</context_id>
+        <context_title>studtitle_AssignmentPerformance_1</context_title>
+        <familyname>a</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.StudentPerformance" index="1_2" method="">
+        <user_id>student_AssignmentPerformance_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformance_1</context_id>
+        <context_title>studtitle_AssignmentPerformance_1</context_title>
+        <familyname>b</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.StudentPerformance" index="1_3" method="">
+        <user_id>student_AssignmentPerformance_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformance_1</context_id>
+        <context_title>studtitle_AssignmentPerformance_1</context_title>
+        <familyname>c</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.StudentPerformance" index="1_4" method="">
+        <user_id>student_AssignmentPerformance_4</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformance_1</context_id>
+        <context_title>studtitle_AssignmentPerformance_1</context_title>
+        <familyname>d</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.StudentPerformance" index="1_5" method="">
+        <user_id>student_AssignmentPerformance_5</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformance_1</context_id>
+        <context_title>studtitle_AssignmentPerformance_1</context_title>
+        <familyname>e</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.StudentPerformance" index="11" method="">
+        <user_id>instructor_studentPerformance_11</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_studentPerformance_11</context_id>
+        <context_title>studtitle_studentPerformance_11</context_title>
+        <assessmentname>AssignmentPerformance_1</assessmentname>
+        <shareWithInitialString>studtitle_studentPerformance_11</shareWithInitialString>
+        <shareName>studtitle_studentPerformance_11</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>2</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.StudentPerformance" index="11_1" method="">
+        <user_id>student_studentPerformance_11_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_studentPerformance_11</context_id>
+        <context_title>studtitle_studentPerformance_11</context_title>
+        <familyname>a</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.StudentPerformance" index="11_2" method="">
+        <user_id>student_studentPerformance_11_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_studentPerformance_11</context_id>
+        <context_title>studtitle_studentPerformance_11</context_title>
+        <familyname>b</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.StudentPerformance" index="11_3" method="">
+        <user_id>student_studentPerformance_11_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_studentPerformance_11</context_id>
+        <context_title>studtitle_studentPerformance_11</context_title>
+        <familyname>c</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.StudentPerformance" index="9" method="">
+        <user_id>instructor_studentPerformance_9</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_studentPerformance_9</context_id>
+        <context_title>studtitle_studentPerformance_9</context_title>
+        <assessmentname>AssignmentPerformance_1</assessmentname>
+        <shareWithInitialString>studtitle_studentPerformance_9</shareWithInitialString>
+        <shareName>studtitle_studentPerformance_9</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>2</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.StudentPerformance" index="9_1" method="">
+        <user_id>student_studentPerformance_9_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_studentPerformance_9</context_id>
+        <context_title>studtitle_studentPerformance_9</context_title>
+        <familyname>a</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.StudentPerformance" index="9_2" method="">
+        <user_id>student_studentPerformance_9_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_studentPerformance_9</context_id>
+        <context_title>studtitle_studentPerformance_9</context_title>
+        <familyname>b</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.StudentPerformance" index="9_3" method="">
+        <user_id>student_studentPerformance_9_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_studentPerformance_9</context_id>
+        <context_title>studtitle_studentPerformance_9</context_title>
+        <familyname>c</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.StudentPerformance" index="9_4" method="">
+        <user_id>student_studentPerformance_9_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_studentPerformance_10</context_id>
+        <context_title>studtitle_studentPerformance_10</context_title>
+        <familyname>c</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.StudentPerformance" index="12" method="">
+        <user_id>instructor_studentPerformance_12</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_studentPerformance_12</context_id>
+        <context_title>studtitle_studentPerformance_12</context_title>
+        <assessmentname>studentPerformance_12</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of studentPerformance_12</questionset>
+        <questiontext>Test_Question_for_studentPerformance_12</questiontext>
+        <shareWithInitialString>studtitle_studentPerformance_12</shareWithInitialString>
+        <shareName>studtitle_studentPerformance_12</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>3</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.StudentPerformance" index="12_1" method="">
+        <user_id>student_studentPerformance_12_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_studentPerformance_12</context_id>
+        <context_title>studtitle_studentPerformance_12</context_title>
+        <familyname>a</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.StudentPerformance" index="12_2" method="">
+        <user_id>student_studentPerformance_12_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_studentPerformance_12</context_id>
+        <context_title>studtitle_studentPerformance_12</context_title>
+        <familyname>b</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.StudentPerformance" index="12_3" method="">
+        <user_id>student_studentPerformance_12_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_studentPerformance_12</context_id>
+        <context_title>studtitle_studentPerformance_12</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.StudentPerformance" index="13" method="">
+        <user_id>instructor_studentPerformance_12</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_studentPerformance_12</context_id>
+        <context_title>studtitle_studentPerformance_12</context_title>
+        <custom_destination>update_roster</custom_destination>
+        <custom_roster_changes>true</custom_roster_changes>
+        <studentUserName>student_studentPerformance_12_1</studentUserName>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.StudentPerformance" index="14" method="">
+        <user_id>instructor_smoke_studentPerformance_13</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_studentPerformance_13</context_id>
+        <context_title>studtitle_smoke_studentPerformance_13</context_title>
+        <assessmentname>studentPerformance_13</assessmentname>
+        <assignToParticularAssignmet>studentPerformance_13</assignToParticularAssignmet>
+        <questiontype>Static Practice</questiontype>
+        <questionset>QuestionSet_studentPerformance</questionset>
+        <questiontext>QuestionText_studentPerformance</questiontext>
+        <GroupName>one</GroupName>
+        <shareWithInitialString>one</shareWithInitialString>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>4</duetime>
+        <defaultDuetime>true</defaultDuetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.StudentPerformance" index="13_1" method="">
+        <user_id>student_smoke_studentPerformance_13</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_studentPerformance_13</context_id>
+        <context_title>studtitle_smoke_studentPerformance_13</context_title>
+        <familyname>a</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.StudentPerformance" index="13_2" method="">
+        <user_id>student_smoke_studentPerformance_13_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_studentPerformance_13</context_id>
+        <context_title>studtitle_smoke_studentPerformance_13</context_title>
+        <familyname>b</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.StudentPerformance" index="13_3" method="">
+        <user_id>student_smoke_studentPerformance_13_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_studentPerformance_13</context_id>
+        <context_title>studtitle_smoke_studentPerformance_13</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.StudentPerformance" index="15" method="">
+        <user_id>instructor_smoke_studentPerformance_15</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_studentPerformance_15</context_id>
+        <context_title>studtitle_smoke_studentPerformance_15</context_title>
+        <assessmentname>studentPerformance_15</assessmentname>
+        <assignToParticularAssignmet>studentPerformance_15</assignToParticularAssignmet>
+        <questiontype>Static Practice</questiontype>
+        <questionset>QuestionSet_studentPerformance</questionset>
+        <questiontext>QuestionText_studentPerformance</questiontext>
+        <GroupName>one</GroupName>
+        <shareWithInitialString>one</shareWithInitialString>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>4</duetime>
+        <defaultDuetime>true</defaultDuetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.StudentPerformance" index="15_1" method="">
+        <user_id>student_smoke_studentPerformance_15</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_studentPerformance_15</context_id>
+        <context_title>studtitle_smoke_studentPerformance_15</context_title>
+        <familyname>a</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.StudentPerformance" index="15_2" method="">
+        <user_id>student_smoke_studentPerformance_15_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_studentPerformance_15</context_id>
+        <context_title>studtitle_smoke_studentPerformance_15</context_title>
+        <familyname>b</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+
+
+    <!--AssignmentPerformance-->
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="1" method="">
+        <user_id>instructor_AssignmentPerformance_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_AssignmentPerformance_1</context_id>
+        <context_title>studtitle_AssignmentPerformance_1</context_title>
+        <assessmentname>AssignmentPerformance_1</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of AssignmentPerformance_1</questionset>
+        <questiontext>Test_Question_for_AssignmentPerformance_1</questiontext>
+        <shareWithInitialString>studtitle_AssignmentPerformance_1</shareWithInitialString>
+        <shareName>studtitle_AssignmentPerformance_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>26</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="2" method="">
+        <assessmentname>FileBasedAssignment_AssignmentPerformance_2</assessmentname>
+        <shareWithInitialString>studtitle_AssignmentPerformance_1</shareWithInitialString>
+        <filename>img.png</filename>
+        <shareName>studtitle_AssignmentPerformance_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>true</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>30</duetime>
+        <defaultDuetime>true</defaultDuetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <totalpoints>2</totalpoints>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="3" method="">
+        <discussionAssignment>discussionAssignment_AssignmentPerformance_3</discussionAssignment>
+        <description>discussionAssignment</description>
+        <shareName>studtitle_AssignmentPerformance_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>30</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <totalPoints>2</totalPoints>
+        <defaultDuetime>true</defaultDuetime>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="1_1" method="">
+        <user_id>student_AssignmentPerformance_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformance_1</context_id>
+        <context_title>studtitle_AssignmentPerformance_1</context_title>
+        <familyname>a</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="1_2" method="">
+        <user_id>student_AssignmentPerformance_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformance_1</context_id>
+        <context_title>studtitle_AssignmentPerformance_1</context_title>
+        <familyname>b</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="1_3" method="">
+        <user_id>student_AssignmentPerformance_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformance_1</context_id>
+        <context_title>studtitle_AssignmentPerformance_1</context_title>
+        <familyname>c</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="1_4" method="">
+        <user_id>student_AssignmentPerformance_4</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformance_1</context_id>
+        <context_title>studtitle_AssignmentPerformance_1</context_title>
+        <familyname>d</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="1_5" method="">
+        <user_id>student_AssignmentPerformance_5</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformance_1</context_id>
+        <context_title>studtitle_AssignmentPerformance_1</context_title>
+        <familyname>e</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="4" method="">
+        <user_id>instructor_AssignmentPerformance_4</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_AssignmentPerformance_4</context_id>
+        <context_title>studtitle_AssignmentPerformance_4</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="5" method="">
+        <user_id>instructor_AssignmentPerformance_5</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_AssignmentPerformance_5</context_id>
+        <context_title>studtitle_AssignmentPerformance_5</context_title>
+        <assessmentname>AssignmentPerformance_5</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of AssignmentPerformance_5</questionset>
+        <questiontext>Test_Question_for_AssignmentPerformance_5</questiontext>
+        <shareWithInitialString>studtitle_AssignmentPerformance_5</shareWithInitialString>
+        <shareName>studtitle_AssignmentPerformance_5</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>30</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="5_1" method="">
+        <user_id>student_AssignmentPerformance_5_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformance_5</context_id>
+        <context_title>studtitle_AssignmentPerformance_5</context_title>
+        <familyname>a</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="6" method="">
+        <user_id>instructor_AssignmentPerformance_6</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_AssignmentPerformance_6</context_id>
+        <context_title>studtitle_AssignmentPerformance_6</context_title>
+        <assessmentname>AssignmentPerformance_6</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of AssignmentPerformance_6</questionset>
+        <questiontext>Test_Question_for_AssignmentPerformance_6</questiontext>
+        <shareWithInitialString>studtitle_AssignmentPerformance_6</shareWithInitialString>
+        <shareName>studtitle_AssignmentPerformance_6</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>30</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="6_1" method="">
+        <user_id>student_AssignmentPerformance_6_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformance_6</context_id>
+        <context_title>studtitle_AssignmentPerformance_6</context_title>
+        <familyname>a</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="6_2" method="">
+        <user_id>student_AssignmentPerformance_6_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformance_6</context_id>
+        <context_title>studtitle_AssignmentPerformance_6</context_title>
+        <familyname>b</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="7" method="">
+        <user_id>instructor_AssignmentPerformance_7</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_AssignmentPerformance_7</context_id>
+        <context_title>studtitle_AssignmentPerformance_7</context_title>
+        <shareWithInitialString>studtitle_AssignmentPerformance_7</shareWithInitialString>
+        <shareName>studtitle_AssignmentPerformance_7</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradeBookWeighting>true</gradeBookWeighting>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>2</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="8" method="">
+        <shareWithInitialString>studtitle_AssignmentPerformance_7</shareWithInitialString>
+        <shareName>studtitle_AssignmentPerformance_7</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradeBookWeighting>No Assignment Category</gradeBookWeighting>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>2</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="9" method="">
+        <shareWithInitialString>studtitle_AssignmentPerformance_7</shareWithInitialString>
+        <shareName>studtitle_AssignmentPerformance_7</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>27</duedate>
+        <duetime>2</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="7_1" method="">
+        <user_id>student_AssignmentPerformance_7_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformance_7</context_id>
+        <context_title>studtitle_AssignmentPerformance_7</context_title>
+        <familyname>b</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="10" method="">
+        <user_id>instructor_AssignmentPerformance_10</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_AssignmentPerformance_10</context_id>
+        <context_title>studtitle_AssignmentPerformance_10</context_title>
+        <shareWithInitialString>studtitle_AssignmentPerformance_10</shareWithInitialString>
+        <shareName>studtitle_AssignmentPerformance_10</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>3</duetime>
+        <newDueTime>2</newDueTime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="11" method="">
+        <user_id>instructor_AssignmentPerformance_10</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_AssignmentPerformance_10</context_id>
+        <context_title>studtitle_AssignmentPerformance_10</context_title>
+        <shareWithInitialString>studtitle_AssignmentPerformance_10</shareWithInitialString>
+        <shareName>studtitle_AssignmentPerformance_10</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>3</duetime>
+        <newDueTime>2</newDueTime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="12" method="">
+        <shareWithInitialString>a, month</shareWithInitialString>
+        <shareName>month a</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <newDueTime>1</newDueTime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="13" method="">
+        <shareWithInitialString>b, month</shareWithInitialString>
+        <shareName>month b</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <newDueTime>1</newDueTime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="14" method="">
+        <shareWithInitialString>b, month</shareWithInitialString>
+        <shareName>month b</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <newDueTime>1</newDueTime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="10_1" method="">
+        <user_id>student_AssignmentPerformance_10_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformance_10</context_id>
+        <context_title>studtitle_AssignmentPerformance_10</context_title>
+        <familyname>a</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="10_2" method="">
+        <user_id>student_AssignmentPerformance_10_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformance_10</context_id>
+        <context_title>studtitle_AssignmentPerformance_10</context_title>
+    </testcase>
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="15" method="">
+        <user_id>instructor_AssignmentPerformance_15</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_AssignmentPerformance_15</context_id>
+        <context_title>studtitle_AssignmentPerformance_15</context_title>
+        <assessmentname>AssignmentPerformance_15</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of AssignmentPerformance_15</questionset>
+        <questiontext>Test_Question_for_AssignmentPerformance_15</questiontext>
+        <shareWithInitialString>studtitle_AssignmentPerformance_15</shareWithInitialString>
+        <shareName>studtitle_AssignmentPerformance_15</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>4</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="15_1" method="">
+        <user_id>student_AssignmentPerformance_15_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformance_15</context_id>
+        <context_title>studtitle_AssignmentPerformance_15</context_title>
+        <familyname>a</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="15_2" method="">
+        <user_id>student_AssignmentPerformance_15_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformance_15</context_id>
+        <context_title>studtitle_AssignmentPerformance_15</context_title>
+        <familyname>b</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="15_3" method="">
+        <user_id>student_AssignmentPerformance_15_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformance_15</context_id>
+        <context_title>studtitle_AssignmentPerformance_15</context_title>
+        <familyname>c</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="16" method="">
+        <user_id>instructor_AssignmentPerformance_15</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_AssignmentPerformance_15</context_id>
+        <context_title>studtitle_AssignmentPerformance_15</context_title>
+        <custom_destination>update_roster</custom_destination>
+        <custom_roster_changes>true</custom_roster_changes>
+        <studentUserName>student_AssignmentPerformance_15_1</studentUserName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="17" method="">
+        <user_id>instructor_AssignmentPerformance_17</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_AssignmentPerformance_17</context_id>
+        <context_title>studtitle_AssignmentPerformance_17</context_title>
+        <assessmentname>AssignmentPerformance_17</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of AssignmentPerformance_17</questionset>
+        <questiontext>Test_Question_for_AssignmentPerformance_17</questiontext>
+        <shareWithInitialString>studtitle_AssignmentPerformance_17</shareWithInitialString>
+        <shareName>studtitle_AssignmentPerformance_17</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>4</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="17_1" method="">
+        <user_id>student_AssignmentPerformance_17_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformance_17</context_id>
+        <context_title>studtitle_AssignmentPerformance_17</context_title>
+        <familyname>a</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="17_2" method="">
+        <user_id>student_AssignmentPerformance_17_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformance_17</context_id>
+        <context_title>studtitle_AssignmentPerformance_17</context_title>
+        <familyname>b</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="17_3" method="">
+        <user_id>student_AssignmentPerformance_17_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformance_17</context_id>
+        <context_title>studtitle_AssignmentPerformance_17</context_title>
+        <familyname>c</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="17_4" method="">
+        <user_id>student_AssignmentPerformance_17_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformance_17_5</context_id>
+        <context_title>studtitle_AssignmentPerformance_17_5</context_title>
+        <familyname>a</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="17_5" method="">
+        <user_id>student_AssignmentPerformance_17_6</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformance_17</context_id>
+        <context_title>studtitle_AssignmentPerformance_17</context_title>
+        <familyname>d</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="261" method="">
+        <user_id>instructor_smoke_AssignmentPerformance_261</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_AssignmentPerformance_261</context_id>
+        <context_title>studtitle_smoke_AssignmentPerformance_261</context_title>
+        <assessmentname>AssignmentPerformance_261</assessmentname>
+        <assignToParticularAssignmet>AssignmentPerformance_261</assignToParticularAssignmet>
+        <questiontype>Static Practice</questiontype>
+        <questionset>QuestionSet_AssignmentPerformance</questionset>
+        <questiontext>QuestionText_AssignmentPerformance</questiontext>
+        <GroupName>one</GroupName>
+        <shareWithInitialString>one</shareWithInitialString>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>4</duetime>
+        <defaultDuetime>true</defaultDuetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="261_1" method="AssignmentPerformance">
+        <user_id>student_smoke_AssignmentPerformance_261</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_AssignmentPerformance_261</context_id>
+        <context_title>studtitle_smoke_AssignmentPerformance_261</context_title>
+        <familyname>a</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="261_2" method="AssignmentPerformance">
+        <user_id>student_smoke_AssignmentPerformance_261_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_AssignmentPerformance_261</context_id>
+        <context_title>studtitle_smoke_AssignmentPerformance_261</context_title>
+        <familyname>b</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="261_3" method="AssignmentPerformance">
+        <user_id>student_smoke_AssignmentPerformance_261_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_AssignmentPerformance_261</context_id>
+        <context_title>studtitle_smoke_AssignmentPerformance_261</context_title>
+        <familyname>c</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="19" method="">
+        <user_id>instructor_AssignmentPerformance_19</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_AssignmentPerformance_19</context_id>
+        <context_title>studtitle_AssignmentPerformance_19</context_title>
+        <assessmentname>AssignmentPerformance_19</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of AssignmentPerformance_19</questionset>
+        <questiontext>Test_Question_for_AssignmentPerformance_19</questiontext>
+        <shareWithInitialString>studtitle_AssignmentPerformance_19</shareWithInitialString>
+        <shareName>studtitle_AssignmentPerformance_19</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>20</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="19_1" method="">
+        <user_id>student_AssignmentPerformance_19_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformance_19</context_id>
+        <context_title>studtitle_AssignmentPerformance_19</context_title>
+        <familyname>a</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="19_2" method="">
+        <user_id>student_AssignmentPerformance_19_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformance_19</context_id>
+        <context_title>studtitle_AssignmentPerformance_19</context_title>
+        <familyname>b</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="19_3" method="">
+        <user_id>student_AssignmentPerformance_19_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformance_19</context_id>
+        <context_title>studtitle_AssignmentPerformance_19</context_title>
+        <familyname>c</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="21" method="">
+        <user_id>instructor_AssignmentPerformance_21</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_AssignmentPerformance_21</context_id>
+        <context_title>studtitle_AssignmentPerformance_21</context_title>
+        <assessmentname>AssignmentPerformance_21</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of AssignmentPerformance_21</questionset>
+        <questiontext>Test_Question_for_AssignmentPerformance_21</questiontext>
+        <shareWithInitialString>studtitle_AssignmentPerformance_21</shareWithInitialString>
+        <shareName>studtitle_AssignmentPerformance_21</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>5</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="21_1" method="">
+        <user_id>student_AssignmentPerformance_21_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformance_21</context_id>
+        <context_title>studtitle_AssignmentPerformance_21</context_title>
+        <familyname>a</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="21_2" method="">
+        <user_id>student_AssignmentPerformance_21_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformance_21</context_id>
+        <context_title>studtitle_AssignmentPerformance_21</context_title>
+        <familyname>b</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="21_3" method="">
+        <user_id>student_AssignmentPerformance_21_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformance_21</context_id>
+        <context_title>studtitle_AssignmentPerformance_21</context_title>
+        <familyname>c</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="22" method="">
+        <user_id>instructor_AssignmentPerformance_22</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_AssignmentPerformance_22</context_id>
+        <context_title>studtitle_AssignmentPerformance_22</context_title>
+        <assignmentpolicyname>AssignmentPerformance_PolicyOne</assignmentpolicyname>
+        <assessmentname>AssignmentPerformance_22</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of AssignmentPerformance_22</questionset>
+        <questiontext>Test_Question_for_AssignmentPerformance_22</questiontext>
+        <shareWithInitialString>studtitle_AssignmentPerformance_22</shareWithInitialString>
+        <shareName>studtitle_AssignmentPerformance_22</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>AssignmentPerformance_PolicyOne</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>4</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="22_1" method="">
+        <user_id>student_AssignmentPerformance_22_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformance_22</context_id>
+        <context_title>studtitle_AssignmentPerformance_22</context_title>
+        <familyname>a</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="22_2" method="">
+        <user_id>student_AssignmentPerformance_22_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformance_22</context_id>
+        <context_title>studtitle_AssignmentPerformance_22</context_title>
+        <familyname>b</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="22_3" method="">
+        <user_id>student_AssignmentPerformance_22_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformance_22</context_id>
+        <context_title>studtitle_AssignmentPerformance_22</context_title>
+        <familyname>c</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="23" method="">
+        <user_id>instructor_AssignmentPerformance_23</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_AssignmentPerformance_23</context_id>
+        <context_title>studtitle_AssignmentPerformance_23</context_title>
+        <assignmentpolicyname>AssignmentPerformance_PolicyTwo</assignmentpolicyname>
+        <assessmentname>AssignmentPerformance_23</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of AssignmentPerformance_23</questionset>
+        <questiontext>Test_Question_for_AssignmentPerformance_23</questiontext>
+        <shareWithInitialString>studtitle_AssignmentPerformance_23</shareWithInitialString>
+        <shareName>studtitle_AssignmentPerformance_23</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>AssignmentPerformance_PolicyTwo</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>5</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="23_1" method="">
+        <user_id>student_AssignmentPerformance_23_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformance_23</context_id>
+        <context_title>studtitle_AssignmentPerformance_23</context_title>
+        <familyname>a</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="23_2" method="">
+        <user_id>student_AssignmentPerformance_23_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformance_23</context_id>
+        <context_title>studtitle_AssignmentPerformance_23</context_title>
+        <familyname>b</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="23_3" method="">
+        <user_id>student_AssignmentPerformance_23_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformance_23</context_id>
+        <context_title>studtitle_AssignmentPerformance_23</context_title>
+        <familyname>c</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="24" method="">
+        <user_id>instructor_AssignmentPerformance_24</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_AssignmentPerformance_24</context_id>
+        <context_title>studtitle_AssignmentPerformance_24</context_title>
+        <assignmentpolicyname>AssignmentPerformance_PolicyTwo</assignmentpolicyname>
+        <assessmentname>AssignmentPerformance_24</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of AssignmentPerformance_24</questionset>
+        <questiontext>Test_Question_for_AssignmentPerformance_24</questiontext>
+        <shareWithInitialString>studtitle_AssignmentPerformance_24</shareWithInitialString>
+        <shareName>studtitle_AssignmentPerformance_24</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>AssignmentPerformance_PolicyTwo</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>20</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="24_1" method="">
+        <user_id>student_AssignmentPerformance_24_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformance_24</context_id>
+        <context_title>studtitle_AssignmentPerformance_24</context_title>
+        <familyname>a</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="24_2" method="">
+        <user_id>student_AssignmentPerformance_24_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformance_24</context_id>
+        <context_title>studtitle_AssignmentPerformance_24</context_title>
+        <familyname>b</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="24_3" method="">
+        <user_id>student_AssignmentPerformance_24_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformance_24</context_id>
+        <context_title>studtitle_AssignmentPerformance_24</context_title>
+        <familyname>c</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="25" method="">
+        <user_id>instructor_AssignmentPerformance_25</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_AssignmentPerformance_25</context_id>
+        <context_title>studtitle_AssignmentPerformance_25</context_title>
+        <assignmentpolicyname>AssignmentPerformance_PolicyTwo</assignmentpolicyname>
+        <assessmentname>AssignmentPerformance_25</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of AssignmentPerformance_25</questionset>
+        <questiontext>Test_Question_for_AssignmentPerformance_25</questiontext>
+        <shareWithInitialString>studtitle_AssignmentPerformance_25</shareWithInitialString>
+        <shareName>studtitle_AssignmentPerformance_25</shareName>
+        <shareWithClass>true</shareWithClass>
+        <numberofquestions>5</numberofquestions>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>AssignmentPerformance_PolicyTwo</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <defaultDuetime>true</defaultDuetime>
+        <duedate>26</duedate>
+        <duetime>1</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="25_1" method="">
+        <user_id>student_AssignmentPerformance_25_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformance_25</context_id>
+        <context_title>studtitle_AssignmentPerformance_25</context_title>
+        <familyname>a</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="25_2" method="">
+        <user_id>student_AssignmentPerformance_25_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformance_25</context_id>
+        <context_title>studtitle_AssignmentPerformance_25</context_title>
+        <familyname>b</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="25_3" method="">
+        <user_id>student_AssignmentPerformance_25_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformance_25</context_id>
+        <context_title>studtitle_AssignmentPerformance_25</context_title>
+        <familyname>c</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="26" method="">
+        <user_id>instructor_AssignmentPerformance_26</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_AssignmentPerformance_26</context_id>
+        <context_title>studtitle_AssignmentPerformance_26</context_title>
+        <assignmentpolicyname>AssignmentPerformance_PolicyTwo</assignmentpolicyname>
+        <assessmentname>AssignmentPerformance_26</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of AssignmentPerformance_26</questionset>
+        <questiontext>Test_Question_for_AssignmentPerformance_26</questiontext>
+        <shareWithInitialString>studtitle_AssignmentPerformance_26</shareWithInitialString>
+        <shareName>studtitle_AssignmentPerformance_26</shareName>
+        <shareWithClass>true</shareWithClass>
+        <numberofquestions>5</numberofquestions>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>AssignmentPerformance_PolicyTwo</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <defaultDuetime>true</defaultDuetime>
+        <threshold>false</threshold>
+        <duedate>26</duedate>
+        <duetime>1</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="26_1" method="">
+        <user_id>student_AssignmentPerformance_26_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformance_26</context_id>
+        <context_title>studtitle_AssignmentPerformance_26</context_title>
+        <familyname>a</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="26_2" method="">
+        <user_id>student_AssignmentPerformance_26_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformance_26</context_id>
+        <context_title>studtitle_AssignmentPerformance_26</context_title>
+        <familyname>b</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="26_3" method="">
+        <user_id>student_AssignmentPerformance_26_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformance_26</context_id>
+        <context_title>studtitle_AssignmentPerformance_26</context_title>
+        <familyname>c</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="27" method="">
+        <user_id>instructor_AssignmentPerformance_27</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_AssignmentPerformance_27</context_id>
+        <context_title>studtitle_AssignmentPerformance_27</context_title>
+        <shareWithInitialString>studtitle_AssignmentPerformance_27</shareWithInitialString>
+        <shareName>studtitle_AssignmentPerformance_27</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>27</duedate>
+        <duetime>1</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="27_1" method="">
+        <user_id>student_AssignmentPerformance_27_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformance_27</context_id>
+        <context_title>studtitle_AssignmentPerformance_27</context_title>
+        <familyname>a</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="27_2" method="">
+        <user_id>student_AssignmentPerformance_27_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformance_27</context_id>
+        <context_title>studtitle_AssignmentPerformance_27</context_title>
+        <familyname>b</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="27_3" method="">
+        <user_id>student_AssignmentPerformance_27_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformance_27</context_id>
+        <context_title>studtitle_AssignmentPerformance_27</context_title>
+        <familyname>c</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="28" method="">
+        <user_id>instructor_AssignmentPerformance_28</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_AssignmentPerformance_28</context_id>
+        <context_title>studtitle_AssignmentPerformance_28</context_title>
+        <assessmentname>AssignmentPerformance_28</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of AssignmentPerformance_28</questionset>
+        <questiontext>Test_Question_for_AssignmentPerformance_28</questiontext>
+        <shareWithInitialString>studtitle_AssignmentPerformance_28</shareWithInitialString>
+        <shareName>studtitle_AssignmentPerformance_28</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>5</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="28_1" method="">
+        <user_id>student_AssignmentPerformance_28_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformance_28</context_id>
+        <context_title>studtitle_AssignmentPerformance_28</context_title>
+        <familyname>a</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="28_2" method="">
+        <user_id>student_AssignmentPerformance_28_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformance_28</context_id>
+        <context_title>studtitle_AssignmentPerformance_28</context_title>
+        <familyname>b</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="28_3" method="">
+        <user_id>student_AssignmentPerformance_28_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformance_28</context_id>
+        <context_title>studtitle_AssignmentPerformance_28</context_title>
+        <familyname>c</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformance" index="28_4" method="">
+        <user_id>student_AssignmentPerformance_28_4</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformance_28</context_id>
+        <context_title>studtitle_AssignmentPerformance_28</context_title>
+        <familyname>d</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <!--AssignmentPerformanceDrillDownView-->
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformanceDrillDownView" index="1" method="">
+        <user_id>instructor_AssignmentPerformance_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_AssignmentPerformance_1</context_id>
+        <context_title>studtitle_AssignmentPerformance_1</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformanceDrillDownView" index="3" method="">
+        <user_id>instructor_AssignmentPerformanceDrillDownView_3_2</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_AssignmentPerformanceDrillDownView_3</context_id>
+        <context_title>studtitle_AssignmentPerformanceDrillDownView_3</context_title>
+        <assessmentname>FileBasedAssignment_AssignmentPerformanceDrillDownView_2</assessmentname>
+        <shareWithInitialString>studtitle_AssignmentPerformanceDrillDownView_3</shareWithInitialString>
+        <filename>img.png</filename>
+        <shareName>studtitle_AssignmentPerformanceDrillDownView_3</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>true</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>30</duetime>
+        <defaultDuetime>true</defaultDuetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <totalpoints>2</totalpoints>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformanceDrillDownView" index="3_1" method="">
+        <user_id>student_AssignmentPerformanceDrillDownView_3_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformanceDrillDownView_3</context_id>
+        <context_title>studtitle_AssignmentPerformanceDrillDownView_3</context_title>
+        <familyname>a</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformanceDrillDownView" index="3_2" method="">
+        <user_id>student_AssignmentPerformanceDrillDownView_3_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformanceDrillDownView_3</context_id>
+        <context_title>studtitle_AssignmentPerformanceDrillDownView_3</context_title>
+        <familyname>b</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformanceDrillDownView" index="3_3" method="">
+        <user_id>student_AssignmentPerformanceDrillDownView_3_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformanceDrillDownView_3</context_id>
+        <context_title>studtitle_AssignmentPerformanceDrillDownView_3</context_title>
+        <familyname>c</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformanceDrillDownView" index="3_4" method="">
+        <user_id>student_AssignmentPerformanceDrillDownView_3_4</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformanceDrillDownView_3</context_id>
+        <context_title>studtitle_AssignmentPerformanceDrillDownView_3</context_title>
+        <familyname>d</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformanceDrillDownView" index="4" method="">
+        <user_id>instructor_AssignmentPerformanceDrillDownView_4_2</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_AssignmentPerformanceDrillDownView_4</context_id>
+        <context_title>studtitle_AssignmentPerformanceDrillDownView_4</context_title>
+        <assessmentname>Static_AssignmentPerformanceDrillDownView_2</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of AssignmentPerformanceDrillDownView_4</questionset>
+        <questiontext>Test_Question_for_AssignmentPerformanceDrillDownView_4</questiontext>
+        <shareWithInitialString>studtitle_AssignmentPerformanceDrillDownView_4</shareWithInitialString>
+        <shareName>studtitle_AssignmentPerformanceDrillDownView_4</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>5</duetime>
+        <defaultDuetime>true</defaultDuetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <totalpoints>2</totalpoints>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformanceDrillDownView" index="4_1" method="">
+        <user_id>student_AssignmentPerformanceDrillDownView_4_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformanceDrillDownView_4</context_id>
+        <context_title>studtitle_AssignmentPerformanceDrillDownView_4</context_title>
+        <familyname>a</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformanceDrillDownView" index="4_2" method="">
+        <user_id>student_AssignmentPerformanceDrillDownView_4_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformanceDrillDownView_4</context_id>
+        <context_title>studtitle_AssignmentPerformanceDrillDownView_4</context_title>
+        <familyname>b</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformanceDrillDownView" index="4_3" method="">
+        <user_id>student_AssignmentPerformanceDrillDownView_4_4</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformanceDrillDownView_4</context_id>
+        <context_title>studtitle_AssignmentPerformanceDrillDownView_4</context_title>
+        <familyname>c</familyname>
+        <givenname>month</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformanceDrillDownView" index="5" method="">
+        <user_id>instructor_AssignmentPerformanceDrillDownView_5_2</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_AssignmentPerformanceDrillDownView_5</context_id>
+        <context_title>studtitle_AssignmentPerformanceDrillDownView_5</context_title>
+        <assessmentname>Static_AssignmentPerformanceDrillDownView_2</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of AssignmentPerformanceDrillDownView_5</questionset>
+        <questiontext>Test_Question_for_AssignmentPerformanceDrillDownView_5</questiontext>
+        <shareWithInitialString>studtitle_AssignmentPerformanceDrillDownView_5</shareWithInitialString>
+        <shareName>studtitle_AssignmentPerformanceDrillDownView_5</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>20</duetime>
+        <defaultDuetime>true</defaultDuetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <totalpoints>2</totalpoints>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformanceDrillDownView" index="5_1" method="">
+        <user_id>student_AssignmentPerformanceDrillDownView_5_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformanceDrillDownView_5</context_id>
+        <context_title>studtitle_AssignmentPerformanceDrillDownView_5</context_title>
+        <familyname>a</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformanceDrillDownView" index="5_2" method="">
+        <user_id>student_AssignmentPerformanceDrillDownView_5_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformanceDrillDownView_5</context_id>
+        <context_title>studtitle_AssignmentPerformanceDrillDownView_5</context_title>
+        <familyname>b</familyname>
+        <givenname>month</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.gradebook.AssignmentPerformanceDrillDownView" index="5_3" method="">
+        <user_id>student_AssignmentPerformanceDrillDownView_5_5</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_AssignmentPerformanceDrillDownView_5</context_id>
+        <context_title>studtitle_AssignmentPerformanceDrillDownView_5</context_title>
+        <familyname>c</familyname>
+        <givenname>month</givenname>
+    </testcase>
+</learningspaces>

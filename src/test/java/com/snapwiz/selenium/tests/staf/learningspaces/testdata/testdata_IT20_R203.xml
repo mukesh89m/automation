@@ -1,0 +1,890 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AssignStaticPracticeFromStudy" index="113" method="assignStaticPracticeFromStudyForLS" >
+        <user_id>instructor_IT20_R203_113</user_id>
+        <Role>instructor</Role>
+        <course_type>ls</course_type>
+        <context_id>studcontext_IT20_R203_113</context_id>
+        <context_title>studtitle_IT20_R203_113</context_title>
+        <gradingpolicy>policy description80</gradingpolicy>
+        <gradeable>true</gradeable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AssignStaticPracticeFromStudy" index="113_1" method="assignStaticPracticeFromStudyForLS" >
+        <user_id>student_IT20_R203_113</user_id>
+        <Role>student</Role>
+        <course_type>ls</course_type>
+        <context_id>studcontext_IT20_R203_113</context_id>
+        <context_title>studtitle_IT20_R203_113</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AssignStaticPracticeFromStudy" index="114" method="" >
+        <user_id>instructor_IT20_R203_113</user_id>
+        <Role>instructor</Role>
+        <course_type>ls</course_type>
+        <context_id>studcontext_IT20_R203_113</context_id>
+        <context_title>studtitle_IT20_R203_113</context_title>
+        <gradingpolicy>policy description80</gradingpolicy>
+        <gradeable>false</gradeable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AssignStaticPracticeFromStudy" index="148" method="viewUnAttemptedStaticPracticeAssignment" >
+        <user_id>instructor_IT20_R203_148_2</user_id>
+        <Role>instructor</Role>
+        <course_type>ls</course_type>
+        <context_id>studcontext_IT20_R203_148_2</context_id>
+        <context_title>studtitle_IT20_R203_148_2</context_title>
+        <gradingpolicy>policy description148</gradingpolicy>
+        <gradeable>true</gradeable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AssignStaticPracticeFromStudy" index="148_1" method="viewUnAttemptedStaticPracticeAssignment" >
+        <user_id>student_IT20_R203_148_2</user_id>
+        <Role>student</Role>
+        <course_type>ls</course_type>
+        <context_id>studcontext_IT20_R203_148_2</context_id>
+        <context_title>studtitle_IT20_R203_148_2</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AssignStaticPracticeFromStudy" index="160">
+        <user_id>instructor_IT20_R203_160_1</user_id>
+        <Role>instructor</Role>
+        <course_type>ls</course_type>
+        <chapterName>Ch 1A: The European Realm</chapterName>
+        <context_id>studcontext_IT20_R203_160</context_id>
+        <context_title>studtitle_IT20_R203_160</context_title>
+        <assignmentpolicyname>Policy160</assignmentpolicyname>
+        <assessmentname>Assignment_IT18_160_1</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_19</questionset>
+        <questiontext>Test Question for IT18_19</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_IT20_R203_160</shareWithInitialString>
+        <shareName>studtitle_IT20_R203_160</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy160</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>givenname family</studentname>
+        <grade>0.1</grade>>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AssignStaticPracticeFromStudy" index="160_1">
+        <user_id>student_IT20_R203_160_1</user_id>
+        <Role>student</Role>
+        <course_type>ls</course_type>
+        <chapterName>Ch 1A: The European Realm</chapterName>
+        <context_id>studcontext_IT20_R203_160</context_id>
+        <context_title>studtitle_IT20_R203_160</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AssignStaticPracticeFromStudy" index="162">
+        <user_id>student_IT20_R203_160_1</user_id>
+        <Role>student</Role>
+        <course_type>ls</course_type>
+        <grade>0.7</grade>
+        <context_id>studcontext_IT20_R203_160</context_id>
+        <context_title>studtitle_IT20_R203_160</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AssignStaticPracticeFromStudy" index="181">
+        <user_id>instructor_IT20_R203_181_1</user_id>
+        <Role>instructor</Role>
+        <course_type>ls</course_type>
+        <chapterName>Ch 1A: The European Realm</chapterName>
+        <context_id>studcontext_IT20_R203_181</context_id>
+        <context_title>studtitle_IT20_R203_181</context_title>
+        <assignmentpolicyname>Policy181</assignmentpolicyname>
+        <assessmentname>Assignment_IT18_181_1</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_19</questionset>
+        <questiontext>Test Question for IT18_19</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_IT20_R203_181</shareWithInitialString>
+        <shareName>studtitle_IT20_R203_181</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy181</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>givenname family</studentname>
+        <grade>0.5</grade>>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AssignStaticPracticeFromStudy" index="181_1">
+        <user_id>student_IT20_R203_181_1</user_id>
+        <Role>student</Role>
+        <course_type>ls</course_type>
+        <chapterName>Ch 1A: The European Realm</chapterName>
+        <context_id>studcontext_IT20_R203_181</context_id>
+        <context_title>studtitle_IT20_R203_181</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AssignStaticPracticeFromStudy" index="182">
+        <user_id>student_IT20_R203_181_1</user_id>
+        <Role>student</Role>
+        <course_type>ls</course_type>
+        <grade>0.7</grade>
+        <context_id>studcontext_IT20_R203_181</context_id>
+        <context_title>studtitle_IT20_R203_181</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AssignStaticPracticeFromStudy" index="191">
+        <user_id>instructor_IT20_R203_191_1</user_id>
+        <Role>instructor</Role>
+        <course_type>ls</course_type>
+        <chapterName>Ch 1A: The European Realm</chapterName>
+        <context_id>studcontext_IT20_R203_191</context_id>
+        <context_title>studtitle_IT20_R203_191</context_title>
+        <assignmentpolicyname>Policy191</assignmentpolicyname>
+        <assessmentname>Assignment_IT18_191_1</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_19</questionset>
+        <questiontext>Test Question for IT18_19</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_IT20_R203_191</shareWithInitialString>
+        <shareName>studtitle_IT20_R203_191</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy191</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>givenname family</studentname>
+        <grade>0.5</grade>>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AssignStaticPracticeFromStudy" index="191_1">
+        <user_id>student_IT20_R203_191_1</user_id>
+        <Role>student</Role>
+        <course_type>ls</course_type>
+        <chapterName>Ch 1A: The European Realm</chapterName>
+        <context_id>studcontext_IT20_R203_191</context_id>
+        <context_title>studtitle_IT20_R203_191</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AssignStaticPracticeFromStudy" index="192">
+        <user_id>student_IT20_R203_191_1</user_id>
+        <Role>student</Role>
+        <course_type>ls</course_type>
+        <grade>0.7</grade>
+        <context_id>studcontext_IT20_R203_191</context_id>
+        <context_title>studtitle_IT20_R203_191</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AssignStaticPracticeFromStudy" index="201">
+        <user_id>instructor_IT20_R203_201_1</user_id>
+        <Role>instructor</Role>
+        <course_type>ls</course_type>
+        <chapterName>Ch 1A: The European Realm</chapterName>
+        <context_id>studcontext_IT20_R203_201</context_id>
+        <context_title>studtitle_IT20_R203_201</context_title>
+        <assignmentpolicyname>Policy201</assignmentpolicyname>
+        <assessmentname>Assignment_IT18_201_1</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_19</questionset>
+        <questiontext>Test Question for IT18_19</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_IT20_R203_201</shareWithInitialString>
+        <shareName>studtitle_IT20_R203_201</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <assignmentpolicy>Policy201</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>givenname family</studentname>
+        <grade>0.5</grade>>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AssignStaticPracticeFromStudy" index="201_1">
+        <user_id>student_IT20_R203_201_1</user_id>
+        <Role>student</Role>
+        <course_type>ls</course_type>
+        <chapterName>Ch 1A: The European Realm</chapterName>
+        <context_id>studcontext_IT20_R203_201</context_id>
+        <context_title>studtitle_IT20_R203_201</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AssignStaticPracticeFromStudy" index="11" method="assignStaticPracticeFromStudy" >
+        <user_id>instructor_IT20_R203_11_4</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT20_R203_11</context_id>
+        <context_title>studtitle_IT20_R203_11</context_title>
+        <gradingpolicy>policy description80</gradingpolicy>
+        <gradeable>true</gradeable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AssignStaticPracticeFromStudy" index="11_1" method="assignStaticPracticeFromStudy" >
+        <user_id>student_IT20_R203_11_4</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT20_R203_11</context_id>
+        <context_title>studtitle_IT20_R203_11</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AssignStaticPracticeFromStudy" index="12" method="assignStaticPracticeFromStudy" >
+        <user_id>instructor_IT20_R203_11_4</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT20_R203_11</context_id>
+        <context_title>studtitle_IT20_R203_11</context_title>
+        <gradingpolicy>policy description80</gradingpolicy>
+        <gradeable>false</gradeable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AssignStaticPracticeFromStudy" index="215" method="assignStaticPracticeFromStudyForLSAdaptive" >
+        <user_id>instructor_IT20_R203_215</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT20_R203_215</context_id>
+        <context_title>studtitle_IT20_R203_215</context_title>
+        <gradingpolicy>policy description80</gradingpolicy>
+        <gradeable>true</gradeable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AssignStaticPracticeFromStudy" index="215_1" method="" >
+        <user_id>student_IT20_R203_215</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT20_R203_215</context_id>
+        <context_title>studtitle_IT20_R203_215</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AssignStaticPracticeFromStudy" index="216" method="assignStaticPracticeFromStudyForLSAdaptive" >
+        <user_id>instructor_IT20_R203_215</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT20_R203_215</context_id>
+        <context_title>studtitle_IT20_R203_215</context_title>
+        <gradingpolicy>policy description80</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradeable>true</gradeable>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AssignStaticPracticeFromStudy" index="59" method="viewUnAttemptedStaticPracticeAssignment" >
+        <user_id>instructor_IT20_R203_46</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT20_R203_46</context_id>
+        <context_title>studtitle_IT20_R203_46</context_title>
+        <gradingpolicy>policy description46</gradingpolicy>
+        <gradeable>true</gradeable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AssignStaticPracticeFromStudy" index="46" method="viewUnAttemptedStaticPracticeAssignment" >
+        <user_id>instructor_IT20_R203_46</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT20_R203_46</context_id>
+        <context_title>studtitle_IT20_R203_46</context_title>
+        <gradingpolicy>policy description80</gradingpolicy>
+        <gradeable>true</gradeable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AssignStaticPracticeFromStudy" index="46_1" method="viewUnAttemptedStaticPracticeAssignment" >
+        <user_id>student_IT20_R203_46</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT20_R203_46</context_id>
+        <context_title>studtitle_IT20_R203_46</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AssignStaticPracticeFromStudy" index="58" method="">
+        <user_id>instructor_IT20_R203_58_1</user_id>
+        <Role>instructor</Role>
+        <chapterName>Ch 1: The Study of Life</chapterName>
+        <context_id>studcontext_IT20_R203_58</context_id>
+        <context_title>studtitle_IT20_R203_58</context_title>
+        <assignmentpolicyname>Policy58</assignmentpolicyname>
+        <assessmentname>Assignment_IT203_58_1</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT20_R203_58</questionset>
+        <questiontext>Test Question for IT20_R203_58</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_IT20_R203_58</shareWithInitialString>
+        <shareName>studtitle_IT20_R203_58</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy58</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>givenname family</studentname>
+        <grade>0.1</grade>>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AssignStaticPracticeFromStudy" index="58_1">
+        <user_id>student_IT20_R203_58_1</user_id>
+        <Role>student</Role>
+        <chapterName>Ch 1: The Study of Life</chapterName>
+        <context_id>studcontext_IT20_R203_58</context_id>
+        <context_title>studtitle_IT20_R203_58</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AssignStaticPracticeFromStudy" index="59">
+        <user_id>student_IT20_R203_58_1</user_id>
+        <Role>student</Role>
+
+        <grade>0.7</grade>
+        <context_id>studcontext_IT20_R203_58</context_id>
+        <context_title>studtitle_IT20_R203_58</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AssignStaticPracticeFromStudy" index="79">
+        <user_id>instructor_IT20_R203_79_1</user_id>
+        <Role>instructor</Role>
+        <chapterName>Ch 1: The Study of Life</chapterName>
+        <context_id>studcontext_IT20_R203_79</context_id>
+        <context_title>studtitle_IT20_R203_79</context_title>
+        <assignmentpolicyname>Policy79</assignmentpolicyname>
+        <assessmentname>Assignment_IT20_79_1</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_19</questionset>
+        <questiontext>Test Question for IT18_19</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_IT20_R203_79</shareWithInitialString>
+        <shareName>studtitle_IT20_R203_79</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy79</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>givenname family</studentname>
+        <grade>0.5</grade>>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AssignStaticPracticeFromStudy" index="79_1">
+        <user_id>student_IT20_R203_79_1</user_id>
+        <Role>student</Role>
+        <chapterName>Ch 1: The Study of Life</chapterName>
+        <context_id>studcontext_IT20_R203_79</context_id>
+        <context_title>studtitle_IT20_R203_79</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AssignStaticPracticeFromStudy" index="80">
+        <user_id>student_IT20_R203_79_1</user_id>
+        <Role>student</Role>
+        <grade>0.7</grade>
+        <context_id>studcontext_IT20_R203_79</context_id>
+        <context_title>studtitle_IT20_R203_79</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AssignStaticPracticeFromStudy" index="89">
+        <user_id>instructor_IT20_R203_89_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT20_R203_89</context_id>
+        <context_title>studtitle_IT20_R203_89</context_title>
+        <assignmentpolicyname>Policy89</assignmentpolicyname>
+        <assessmentname>Assignment_IT20_89_1</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_19</questionset>
+        <questiontext>Test Question for IT18_19</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_IT20_R203_89</shareWithInitialString>
+        <shareName>studtitle_IT20_R203_89</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy89</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>givenname family</studentname>
+        <grade>0.5</grade>>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AssignStaticPracticeFromStudy" index="89_1">
+        <user_id>student_IT20_R203_89_1</user_id>
+        <Role>student</Role>
+        <chapterName>Ch 1: The Study of Life</chapterName>
+        <context_id>studcontext_IT20_R203_89</context_id>
+        <context_title>studtitle_IT20_R203_89</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AssignStaticPracticeFromStudy" index="90">
+        <user_id>student_IT20_R203_89_1</user_id>
+        <Role>student</Role>
+        <grade>0.7</grade>
+        <context_id>studcontext_IT20_R203_89</context_id>
+        <context_title>studtitle_IT20_R203_89</context_title>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AssignStaticPracticeFromStudy" index="99">
+        <user_id>instructor_IT20_R203_99_3</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT20_R203_99_3</context_id>
+        <context_title>studtitle_IT20_R203_99_3</context_title>
+        <assignmentpolicyname>Policy99</assignmentpolicyname>
+        <assessmentname>Assignment_IT18_99_12</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_19</questionset>
+        <questiontext>Test Question for IT18_19</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_IT20_R203_99_3</shareWithInitialString>
+        <shareName>studtitle_IT20_R203_99_3</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <assignmentpolicy>Policy99</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>givenname family</studentname>
+        <grade>0.5</grade>>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AssignStaticPracticeFromStudy" index="99_1">
+        <user_id>student_IT20_R203_99_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT20_R203_99_3</context_id>
+        <context_title>studtitle_IT20_R203_99_3</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AssignStaticPracticeInDifferentStatus" index="60" method="viewInProgressStaticPracticeAssignmentLS" >
+        <user_id>instructor_IT20_R203_60_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT20_R203_61_1</context_id>
+        <context_title>studtitle_IT20_R203_60_1</context_title>
+        <gradingpolicy>policy description60</gradingpolicy>
+        <gradeable>true</gradeable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AssignStaticPracticeInDifferentStatus" index="60_1" method="viewInProgressStaticPracticeAssignmentLS" >
+        <user_id>student_IT20_R203_60</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT20_R203_60_1</context_id>
+        <context_title>studtitle_IT20_R203_60_1</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AssignStaticPracticeInDifferentStatus" index="61" method="viewInProgressStaticPracticeAssignmentLS" >
+        <user_id>instructor_IT20_R203_61_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT20_R203_61_1</context_id>
+        <context_title>studtitle_IT20_R203_61_1</context_title>
+        <gradingpolicy>policy description61</gradingpolicy>
+        <course_type>ls</course_type>
+        <gradeable>true</gradeable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AssignStaticPracticeInDifferentStatus" index="61_1" method="viewInProgressStaticPracticeAssignmentLS" >
+        <user_id>student_IT20_R203_61</user_id>
+        <Role>student</Role>
+        <course_type>ls</course_type>
+        <context_id>studcontext_IT20_R203_61_1</context_id>
+        <context_title>studtitle_IT20_R203_61_1</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AssignStaticPracticeInDifferentStatus" index="70" method="viewUnAttemptedStaticPracticeAssignment" >
+        <user_id>instructor_IT20_R203_70</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT20_R203_70</context_id>
+        <context_title>studtitle_IT20_R203_70</context_title>
+        <gradingpolicy>policy description70</gradingpolicy>
+        <gradeable>true</gradeable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AssignStaticPracticeInDifferentStatus" index="70_1" method="viewUnAttemptedStaticPracticeAssignment" >
+        <user_id>student_IT20_R203_70</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT20_R203_70</context_id>
+        <context_title>studtitle_IT20_R203_70</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AssignStaticPracticeInDifferentStatus" index="71" method="viewUnAttemptedStaticPracticeAssignment" >
+        <user_id>instructor_IT20_R203_71</user_id>
+        <Role>instructor</Role>
+        <course_type>ls</course_type>
+        <context_id>studcontext_IT20_R203_71</context_id>
+        <context_title>studtitle_IT20_R203_71</context_title>
+        <gradingpolicy>policy description71</gradingpolicy>
+        <gradeable>true</gradeable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AssignStaticPracticeInDifferentStatus" index="71_1" method="viewUnAttemptedStaticPracticeAssignment" >
+        <user_id>student_IT20_R203_71</user_id>
+        <Role>student</Role>
+        <course_type>ls</course_type>
+        <context_id>studcontext_IT20_R203_71</context_id>
+        <context_title>studtitle_IT20_R203_71</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AdaptivePractice" index="36" method="" >
+        <user_id>instructor_IT20_R203_36</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT20_R203_36</context_id>
+        <context_title>studtitle_IT20_R203_36</context_title>
+        <shareWithInitialString>studtitle_IT20_R203_36</shareWithInitialString>
+        <shareName>studtitle_IT20_R203_36</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AdaptivePractice" index="36_1" method="" >
+        <user_id>student_IT20_R203_36_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT20_R203_36</context_id>
+        <context_title>studtitle_IT20_R203_36</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AdaptivePractice" index="124" method="" >
+        <user_id>instructor_IT20_R203_124</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT20_R203_124</context_id>
+        <context_title>studtitle_IT20_R203_124</context_title>
+        <shareWithInitialString>studtitle_IT20_R203_124</shareWithInitialString>
+        <shareName>studtitle_IT20_R203_124</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AdaptivePractice" index="124_1" method="" >
+        <user_id>student_IT20_R203_124_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT20_R203_124</context_id>
+        <context_title>studtitle_IT20_R203_124</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AdaptivePractice" index="392" method="" >
+        <user_id>instructor_IT20_R203_392</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT20_R203_392</context_id>
+        <context_title>studtitle_IT20_R203_392</context_title>
+        <shareWithInitialString>studtitle_IT20_R203_392</shareWithInitialString>
+        <shareName>studtitle_IT20_R203_392</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AdaptivePractice" index="392_1" method="" >
+        <user_id>student_IT20_R203_392_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT20_R203_392</context_id>
+        <context_title>studtitle_IT20_R203_392</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AdaptivePractice" index="200" method="" >
+        <user_id>instructor_IT20_R203_200</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT20_R203_200</context_id>
+        <context_title>studtitle_IT20_R203_200</context_title>
+        <shareWithInitialString>studtitle_IT20_R203_200</shareWithInitialString>
+        <shareName>studtitle_IT20_R203_200</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AdaptivePractice" index="200_1" method="" >
+        <user_id>student_IT20_R203_200_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT20_R203_200</context_id>
+        <context_title>studtitle_IT20_R203_200</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AdaptivePractice" index="271" method="" >
+        <user_id>instructor_IT20_R203_271</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT20_R203_271</context_id>
+        <context_title>studtitle_IT20_R203_271</context_title>
+        <shareWithInitialString>studtitle_IT20_R203_271</shareWithInitialString>
+        <shareName>studtitle_IT20_R203_271</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AdaptivePractice" index="271_1" method="" >
+        <user_id>student_IT20_R203_271_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT20_R203_271</context_id>
+        <context_title>studtitle_IT20_R203_271</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AdaptivePractice" index="323" method="" >
+        <user_id>instructor_IT20_R203_323</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT20_R203_323</context_id>
+        <context_title>studtitle_IT20_R203_323</context_title>
+        <shareWithInitialString>studtitle_IT20_R203_323</shareWithInitialString>
+        <shareName>studtitle_IT20_R203_323</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AdaptivePractice" index="323_1" method="" >
+        <user_id>student_IT20_R203_323_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT20_R203_323</context_id>
+        <context_title>studtitle_IT20_R203_323</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AdaptivePractice" index="453" method="" >
+        <user_id>instructor_IT20_R203_453</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT20_R203_453</context_id>
+        <context_title>studtitle_IT20_R203_453</context_title>
+        <shareWithInitialString>studtitle_IT20_R203_453</shareWithInitialString>
+        <shareName>studtitle_IT20_R203_453</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AdaptivePractice" index="453_1" method="" >
+        <user_id>student_IT20_R203_453_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT20_R203_453</context_id>
+        <context_title>studtitle_IT20_R203_453</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AdaptivePractice" index="524" method="" >
+        <user_id>instructor_IT20_R203_524</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT20_R203_524</context_id>
+        <context_title>studtitle_IT20_R203_524</context_title>
+        <shareWithInitialString>studtitle_IT20_R203_524</shareWithInitialString>
+        <shareName>studtitle_IT20_R203_524</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AdaptivePractice" index="524_1" method="" >
+        <user_id>student_IT20_R203_524_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT20_R203_524</context_id>
+        <context_title>studtitle_IT20_R203_524</context_title>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AssignStaticPracticeInDifferentStatus" index="390" method="" >
+        <user_id>instructor_IT20_R203_390</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT20_R203_390</context_id>
+        <context_title>studtitle_IT20_R203_390</context_title>
+        <shareWithInitialString>studtitle_IT20_R203_390</shareWithInitialString>
+        <shareName>studtitle_IT20_R203_390</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AssignStaticPracticeInDifferentStatus" index="3901" method="" >
+        <user_id>student_IT20_R203_390_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT20_R203_390</context_id>
+        <context_title>studtitle_IT20_R203_390</context_title>
+        <familyname>studLastName1</familyname>
+        <givenname>studFirstName1</givenname>
+        <shareWithInitialString>stud</shareWithInitialString>
+        <shareName>studFirstName1 studLastName1</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <numberofquestions>5</numberofquestions>
+        <additionalnote>This is an additional note</additionalnote>
+        <expireassignment>1</expireassignment>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AssignStaticPracticeInDifferentStatus" index="3902" method="" >
+        <user_id>student_IT20_R203_390_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT20_R203_390</context_id>
+        <context_title>studtitle_IT20_R203_390</context_title>
+        <familyname>studLastName2</familyname>
+        <givenname>studFirstName2</givenname>
+        <shareWithInitialString>stud</shareWithInitialString>
+        <shareName>studFirstName2 studLastName2</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AdaptivePractice" index="580" method="" >
+        <user_id>instructor_IT20_R203_580</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT20_R203_580</context_id>
+        <context_title>studtitle_IT20_R203_580</context_title>
+        <shareWithInitialString>studtitle_IT20_R203_580</shareWithInitialString>
+        <shareName>studtitle_IT20_R203_580</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AdaptivePractice" index="580_1" method="" >
+        <user_id>student_IT20_R203_580_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT20_R203_580</context_id>
+        <context_title>studtitle_IT20_R203_580</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AdaptivePractice" index="665" method="" >
+        <user_id>instructor_IT20_R203_665</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT20_R203_665</context_id>
+        <context_title>studtitle_IT20_R203_665</context_title>
+        <shareWithInitialString>studtitle_IT20_R203_665</shareWithInitialString>
+        <shareName>studtitle_IT20_R203_665</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <numberofquestions>5</numberofquestions>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AdaptivePractice" index="665_1" method="" >
+        <user_id>student_IT20_R203_665_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT20_R203_665</context_id>
+        <context_title>studtitle_IT20_R203_665</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AssignStaticPracticeInDifferentStatus" index="423" method="" >
+        <user_id>instructor_IT20_R203_423</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT20_R203_423</context_id>
+        <context_title>studtitle_IT20_R203_423</context_title>
+        <shareWithInitialString>studtitle_IT20_R203_423</shareWithInitialString>
+        <shareName>studtitle_IT20_R203_423</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AssignStaticPracticeInDifferentStatus" index="4231" method="" >
+        <user_id>student_IT20_R203_423_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT20_R203_423</context_id>
+        <context_title>studtitle_IT20_R203_423</context_title>
+        <familyname>studLastName1</familyname>
+        <givenname>studFirstName1</givenname>
+        <shareWithInitialString>stud</shareWithInitialString>
+        <shareName>studFirstName1 studLastName1</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <numberofquestions>5</numberofquestions>
+        <additionalnote>This is an additional note</additionalnote>
+        <expireassignment>1</expireassignment>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AssignStaticPracticeInDifferentStatus" index="4232" method="" >
+        <user_id>student_IT20_R203_423_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT20_R203_423</context_id>
+        <context_title>studtitle_IT20_R203_423</context_title>
+        <familyname>studLastName2</familyname>
+        <givenname>studFirstName2</givenname>
+        <shareWithInitialString>stud</shareWithInitialString>
+        <shareName>studFirstName2 studLastName2</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AssignStaticPracticeInDifferentStatus" index="472" method="" >
+        <user_id>instructor_IT20_R203_472</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT20_R203_472</context_id>
+        <context_title>studtitle_IT20_R203_472</context_title>
+        <shareWithInitialString>studtitle_IT20_R203_472</shareWithInitialString>
+        <shareName>studtitle_IT20_R203_472</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AssignStaticPracticeInDifferentStatus" index="4721" method="" >
+        <user_id>student_IT20_R203_472_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT20_R203_472</context_id>
+        <context_title>studtitle_IT20_R203_472</context_title>
+        <familyname>studLastName1</familyname>
+        <givenname>studFirstName1</givenname>
+        <shareWithInitialString>stud</shareWithInitialString>
+        <shareName>studFirstName1 studLastName1</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <numberofquestions>5</numberofquestions>
+        <additionalnote>This is an additional note</additionalnote>
+        <expireassignment>1</expireassignment>
+    </testcase>
+
+
+</learningspaces>

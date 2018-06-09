@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edulastic>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.changingClass.ChangingClass" index ="30" method="">
+        <assessmentname>IT1_ChangingClass_172</assessmentname>
+        <questiontext>question text_ChangingClass_172</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+</edulastic>

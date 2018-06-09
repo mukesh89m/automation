@@ -1,0 +1,1319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.WriteBoardEnhancement" index="9" method="checkCMSPreviewPage">
+        <assessmentname>IT21_R217_Assessment_09</assessmentname>
+        <questionset>Question Set_IT21_R217</questionset>
+        <questiontext>Test Question_IT21_R217_09</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <reservforassignment>false</reservforassignment>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <useWriteBoard>true</useWriteBoard>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.WriteBoardEnhancement" index="19" method="checkCMSPreviewPageWithLengthyQuestion">
+        <assessmentname>IT21_R217_Assessment_19</assessmentname>
+        <questionset>Question Set_IT21_R217_19</questionset>
+        <questiontext>Test Question_IT21_R217_19_Test Question_IT21_R217_19_Test Question_IT21_R217_19_Test Question_IT21_R217_19_Test Question_IT21_R217_19_Test Question_IT21_R217_19_Test Question_IT21_R217_19_Test Question_IT21_R217_19_Test Question_IT21_R217_19_Test Question_IT21_R217_19</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <reservforassignment>false</reservforassignment>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <useWriteBoard>true</useWriteBoard>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.WriteBoardEnhancement" index="27" method="checkCMSPreviewPageWithMediaInQuestionData">
+        <assessmentname>IT21_R217_Assessment_27</assessmentname>
+        <questionset>Question Set_IT21_R217_27</questionset>
+        <questiontext>Test Question_IT21_R217_27</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <reservforassignment>false</reservforassignment>
+        <chapterName>Biological Macromolecules</chapterName>
+        <useWriteBoard>true</useWriteBoard>
+        <withImage>true</withImage>
+        <withUploadVideo>true</withUploadVideo>
+        <filename>img.jpg</filename>
+        <filename1>img.mp3</filename1>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.WriteBoardEnhancement" index="35" method="checkCMSPreviewPage">
+        <assessmentname>IT21_R217_Assessment_35</assessmentname>
+        <questionset>Question Set_IT21_R217_35</questionset>
+        <questiontext>Test Question_IT21_R217_35</questiontext>
+        <reservforassignment>false</reservforassignment>
+        <chapterName>Biological Micromolecules_IT21_R217_35_26</chapterName>
+        <questiontype>Adaptive Component Diagnostic</questiontype>
+        <newChapterName>Biological Micromolecules_IT21_R217_35_26</newChapterName>
+        <useWriteBoard>true</useWriteBoard>
+        <user_id>student_IT21_R217_35</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT21_R217_35</context_id>
+        <context_title>studtitle_IT21_R217_35</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.WriteBoardEnhancement" index="40" method="checkCMSPreviewPage">
+        <assessmentname>IT21_R217_Assessment_40</assessmentname>
+        <questionset>Question Set_IT21_R217_40</questionset>
+        <questiontext>Test Question_IT21_R217_40</questiontext>
+        <reservforassignment>false</reservforassignment>
+        <chapterName>Biological Micromolecules_IT21_R217_40</chapterName>
+        <questiontype>Adaptive Component Diagnostic</questiontype>
+        <newChapterName>Biological Micromolecules_IT21_R217_40</newChapterName>
+        <useWriteBoard>true</useWriteBoard>
+        <user_id>student_IT21_R217_40</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT21_R217_40</context_id>
+        <context_title>studtitle_IT21_R217_40</context_title>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.WriteBoardEnhancement" index="48" method="validateWorkBoardEnhancementInPerformanceSummary">
+        <assessmentname>IT21_R217_Assessment_48</assessmentname>
+        <questionset>Question Set_IT21_R217_48</questionset>
+        <questiontext>Test Question_IT21_R217_48</questiontext>
+        <reservforassignment>false</reservforassignment>
+        <chapterName>Biological Micromolecules_IT21_R217_48_26</chapterName>
+        <questiontype>Adaptive Component Diagnostic</questiontype>
+        <newChapterName>Biological Micromolecules_IT21_R217_48_26</newChapterName>
+        <useWriteBoard>true</useWriteBoard>
+        <user_id>student_IT21_R217_48</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT21_R217_48</context_id>
+        <context_title>studtitle_IT21_R217_48</context_title>
+        <learningobjective>true</learningobjective>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.WriteBoardEnhancement" index="66" method="checkCMSPreviewPage">
+        <assessmentname>IT21_R217_Assessment_66</assessmentname>
+        <questionset>Question Set_IT21_R217_66</questionset>
+        <questiontext>Test Question_IT21_R217_66</questiontext>
+        <reservforassignment>false</reservforassignment>
+        <chapterName>Biological Micromolecules_IT21_R217_66_37</chapterName>
+        <questiontype>Adaptive Component Practice</questiontype>
+        <newChapterName>Biological Micromolecules_IT21_R217_66_37</newChapterName>
+        <useWriteBoard>true</useWriteBoard>
+        <user_id>student_IT21_R217_66</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT21_R217_66</context_id>
+        <context_title>studtitle_IT21_R217_66</context_title>
+        <tloid>1</tloid>
+        <learningobjective>true</learningobjective>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.WriteBoardEnhancement" index="67" method="checkCMSPreviewPage">
+        <assessmentname>IT21_R217_Assessment_67</assessmentname>
+        <questionset>Question Set_IT21_R217_67</questionset>
+        <questiontext>Test Question_IT21_R217_67</questiontext>
+        <reservforassignment>false</reservforassignment>
+        <chapterName>Biological Micromolecules_IT21_R217_66_37</chapterName>
+        <questiontype>Adaptive Component Diagnostic</questiontype>
+        <newChapterName>Biological Micromolecules_IT21_R217_66_37</newChapterName>
+        <useWriteBoard>true</useWriteBoard>
+        <user_id>student_IT21_R217_66</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT21_R217_66</context_id>
+        <context_title>studtitle_IT21_R217_66</context_title>
+        <tloid>1</tloid>
+        <learningobjective>true</learningobjective>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.WriteBoardEnhancement" index="97" method="validateWorkBoardEnhancementInStaticAssessment">
+        <assessmentname>IT21_R217_Assessment_97</assessmentname>
+        <questionset>Question Set_IT21_R217_97</questionset>
+        <questiontext>Test Question_IT21_R217_97</questiontext>
+        <chapterName>The Study of Life</chapterName>
+        <chapterNameToSearch>The Study of Life</chapterNameToSearch>
+        <questiontype>Static Practice</questiontype>
+        <useWriteBoard>true</useWriteBoard>
+        <user_id>student_IT21_R217_97</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT21_R217_97</context_id>
+        <context_title>studtitle_IT21_R217_97</context_title>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_IT21_R217_97</shareWithInitialString>
+        <shareName>studtitle_IT21_R217_97</shareName>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <reservforassignment>false</reservforassignment>
+        <gradeable>false</gradeable>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.WriteBoardEnhancement" index="97_1" method="validateWorkBoardEnhancementInStaticAssessment">
+        <assessmentname>IT21_R217_Assessment_97</assessmentname>
+        <questionset>Question Set_IT21_R217_97</questionset>
+        <questiontext>Test Question_IT21_R217_97</questiontext>
+        <chapterName>The Study of Life</chapterName>
+        <chapterNameToSearch>The Study of Life</chapterNameToSearch>
+        <questiontype>Static Practice</questiontype>
+        <useWriteBoard>true</useWriteBoard>
+        <user_id>student_IT21_R217_97_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT21_R217_97</context_id>
+        <context_title>studtitle_IT21_R217_97</context_title>
+        <learningobjective>true</learningobjective>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.WriteBoardEnhancement" index="97_2" method="validateWorkBoardEnhancementInStaticAssessment">
+        <assessmentname>IT21_R217_Assessment_97</assessmentname>
+        <questionset>Question Set_IT21_R217_97</questionset>
+        <questiontext>Test Question_IT21_R217_97</questiontext>
+        <chapterName>The Study of Life</chapterName>
+        <chapterNameToSearch>The Study of Life</chapterNameToSearch>
+        <questiontype>Static Practice</questiontype>
+        <useWriteBoard>true</useWriteBoard>
+        <user_id>student_IT21_R217_97_2</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT21_R217_97</context_id>
+        <context_title>studtitle_IT21_R217_97</context_title>
+        <learningobjective>true</learningobjective>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.WriteBoardEnhancement" index="124" method="validateWorkBoardEnhancementInStaticAssessment">
+        <assessmentname>IT21_R217_Assessment_124</assessmentname>
+        <questionset>Question Set_IT21_R217_124</questionset>
+        <questiontext>Test Question_IT21_R217_124</questiontext>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <chapterNameToSearch>Biological Macromolecules</chapterNameToSearch>
+        <questiontype>Static Practice</questiontype>
+        <useWriteBoard>true</useWriteBoard>
+        <user_id>student_IT21_R217_124</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT21_R217_124</context_id>
+        <context_title>studtitle_IT21_R217_124</context_title>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_IT21_R217_124</shareWithInitialString>
+        <shareName>studtitle_IT21_R217_124</shareName>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <gradeable>true</gradeable>
+
+
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.WriteBoardEnhancement" index="124_1" method="validateWorkBoardEnhancementInStaticAssessment">
+        <assessmentname>IT21_R217_Assessment_124</assessmentname>
+        <questionset>Question Set_IT21_R217_124</questionset>
+        <questiontext>Test Question_IT21_R217_124</questiontext>
+        <reservforassignment>true</reservforassignment>
+        <chapterName>Biological Macromolecules</chapterName>
+        <chapterNameToSearch>Biological Macromolecules</chapterNameToSearch>
+        <questiontype>Static Practice</questiontype>
+        <useWriteBoard>true</useWriteBoard>
+        <user_id>instructor_IT21_R217_124_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT21_R217_124</context_id>
+        <context_title>studtitle_IT21_R217_124</context_title>
+        <learningobjective>true</learningobjective>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.WriteBoardEnhancement" index="124_2" method="validateWorkBoardEnhancementInStaticAssessment">
+        <assessmentname>IT21_R217_Assessment_124</assessmentname>
+        <questionset>Question Set_IT21_R217_124</questionset>
+        <questiontext>Test Question_IT21_R217_124</questiontext>
+        <chapterName>Biological Macromolecules</chapterName>
+        <chapterNameToSearch>Biological Macromolecules</chapterNameToSearch>
+        <questiontype>Static Practice</questiontype>
+        <useWriteBoard>true</useWriteBoard>
+        <user_id>student_IT21_R217_124_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT21_R217_124</context_id>
+        <context_title>studtitle_IT21_R217_124</context_title>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_IT21_R217_124</shareWithInitialString>
+        <shareName>studtitle_IT21_R217_124</shareName>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <gradeable>true</gradeable>
+    </testcase>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.WriteBoardEnhancement" index="143" method="validateWorkBoardEnhancementInStaticAssessment">
+        <assessmentname>IT21_R217_Assessment_143</assessmentname>
+        <questionset>Question Set_IT21_R217_143</questionset>
+        <questiontext>Test Question_IT21_R217_143</questiontext>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <chapterNameToSearch>Biological Macromolecules</chapterNameToSearch>
+        <questiontype>Static Practice</questiontype>
+        <useWriteBoard>true</useWriteBoard>
+        <user_id>student_IT21_R217_143</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT21_R217_143</context_id>
+        <context_title>studtitle_IT21_R217_143</context_title>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_IT21_R217_143</shareWithInitialString>
+        <shareName>studtitle_IT21_R217_143</shareName>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <gradeable>true</gradeable>
+
+
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.WriteBoardEnhancement" index="143_1" method="validateWorkBoardEnhancementInStaticAssessment">
+        <assessmentname>IT21_R217_Assessment_143</assessmentname>
+        <questionset>Question Set_IT21_R217_143</questionset>
+        <questiontext>Test Question_IT21_R217_143</questiontext>
+        <reservforassignment>true</reservforassignment>
+        <chapterName>Biological Macromolecules</chapterName>
+        <chapterNameToSearch>Biological Macromolecules</chapterNameToSearch>
+        <questiontype>Static Practice</questiontype>
+        <useWriteBoard>true</useWriteBoard>
+        <user_id>instructor_IT21_R217_143_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT21_R217_143</context_id>
+        <context_title>studtitle_IT21_R217_143</context_title>
+        <learningobjective>true</learningobjective>
+    </testcase>
+    270614
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.WriteBoardEnhancement" index="143_2" method="validateWorkBoardEnhancementInStaticAssessment">
+        <assessmentname>IT21_R217_Assessment_143</assessmentname>
+        <questionset>Question Set_IT21_R217_143</questionset>
+        <questiontext>Test Question_IT21_R217_143</questiontext>
+        <chapterName>Biological Macromolecules</chapterName>
+        <chapterNameToSearch>Biological Macromolecules</chapterNameToSearch>
+        <questiontype>Static Practice</questiontype>
+        <useWriteBoard>true</useWriteBoard>
+        <user_id>student_IT21_R217_143_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT21_R217_143</context_id>
+        <context_title>studtitle_IT21_R217_143</context_title>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_IT21_R217_143</shareWithInitialString>
+        <shareName>studtitle_IT21_R217_143</shareName>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <gradeable>true</gradeable>
+    </testcase>
+
+
+
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.WriteBoardEnhancement" index="147" method="validateWorkBoardEnhancementInStaticAssessment">
+        <assessmentname>IT21_R217_Assessment_147</assessmentname>
+        <questionset>Question Set_IT21_R217_147</questionset>
+        <questiontext>Test Question_IT21_R217_147</questiontext>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <chapterNameToSearch>Biological Macromolecules</chapterNameToSearch>
+        <questiontype>Static Practice</questiontype>
+        <useWriteBoard>true</useWriteBoard>
+        <user_id>student_IT21_R217_147</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT21_R217_147</context_id>
+        <context_title>studtitle_IT21_R217_147</context_title>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_IT21_R217_147</shareWithInitialString>
+        <shareName>studtitle_IT21_R217_147</shareName>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <gradeable>true</gradeable>
+
+
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.WriteBoardEnhancement" index="147_1" method="validateWorkBoardEnhancementInStaticAssessment">
+        <assessmentname>IT21_R217_Assessment_147</assessmentname>
+        <questionset>Question Set_IT21_R217_147</questionset>
+        <questiontext>Test Question_IT21_R217_147</questiontext>
+        <reservforassignment>true</reservforassignment>
+        <chapterName>Biological Macromolecules</chapterName>
+        <chapterNameToSearch>Biological Macromolecules</chapterNameToSearch>
+        <questiontype>Static Practice</questiontype>
+        <useWriteBoard>true</useWriteBoard>
+        <user_id>instructor_IT21_R217_147_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT21_R217_147</context_id>
+        <context_title>studtitle_IT21_R217_147</context_title>
+        <learningobjective>true</learningobjective>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.WriteBoardEnhancement" index="147_2" method="validateWorkBoardEnhancementInStaticAssessment">
+        <assessmentname>IT21_R217_Assessment_147</assessmentname>
+        <questionset>Question Set_IT21_R217_147</questionset>
+        <questiontext>Test Question_IT21_R217_147</questiontext>
+        <chapterName>Biological Macromolecules</chapterName>
+        <chapterNameToSearch>Biological Macromolecules</chapterNameToSearch>
+        <questiontype>Static Practice</questiontype>
+        <useWriteBoard>true</useWriteBoard>
+        <user_id>student_IT21_R217_147_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT21_R217_147</context_id>
+        <context_title>studtitle_IT21_R217_147</context_title>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_IT21_R217_147</shareWithInitialString>
+        <shareName>studtitle_IT21_R217_147</shareName>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <gradeable>true</gradeable>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.WriteBoardEnhancement" index="152" method="validateWorkBoardEnhancementInStaticAssessment">
+        <assessmentname>IT21_R217_Assessment_152</assessmentname>
+        <questionset>Question Set_IT21_R217_152</questionset>
+        <questiontext>Test Question_IT21_R217_152</questiontext>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <chapterNameToSearch>Biological Macromolecules</chapterNameToSearch>
+        <questiontype>Static Practice</questiontype>
+        <useWriteBoard>true</useWriteBoard>
+        <user_id>student_IT21_R217_152</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT21_R217_152</context_id>
+        <context_title>studtitle_IT21_R217_152</context_title>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_IT21_R217_152</shareWithInitialString>
+        <shareName>studtitle_IT21_R217_152</shareName>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <gradeable>true</gradeable>
+
+
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.WriteBoardEnhancement" index="152_1" method="validateWorkBoardEnhancementInStaticAssessment">
+        <assessmentname>IT21_R217_Assessment_152</assessmentname>
+        <questionset>Question Set_IT21_R217_152</questionset>
+        <questiontext>Test Question_IT21_R217_152</questiontext>
+        <reservforassignment>true</reservforassignment>
+        <chapterName>Biological Macromolecules</chapterName>
+        <chapterNameToSearch>Biological Macromolecules</chapterNameToSearch>
+        <questiontype>Static Practice</questiontype>
+        <useWriteBoard>true</useWriteBoard>
+        <user_id>instructor_IT21_R217_152_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT21_R217_152</context_id>
+        <context_title>studtitle_IT21_R217_152</context_title>
+        <learningobjective>true</learningobjective>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.WriteBoardEnhancement" index="152_2" method="validateWorkBoardEnhancementInStaticAssessment">
+        <assessmentname>IT21_R217_Assessment_152</assessmentname>
+        <questionset>Question Set_IT21_R217_152</questionset>
+        <questiontext>Test Question_IT21_R217_152</questiontext>
+        <chapterName>Biological Macromolecules</chapterName>
+        <chapterNameToSearch>Biological Macromolecules</chapterNameToSearch>
+        <questiontype>Static Practice</questiontype>
+        <useWriteBoard>true</useWriteBoard>
+        <user_id>student_IT21_R217_152_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT21_R217_152</context_id>
+        <context_title>studtitle_IT21_R217_152</context_title>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_IT21_R217_152</shareWithInitialString>
+        <shareName>studtitle_IT21_R217_152</shareName>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <gradeable>true</gradeable>
+    </testcase>
+
+
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.InstructorGivenWorkboardFeedbackForStaticAssessment" index="205" method="" >
+        <user_id>instructor_IT21_R217_205</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT21_R217_205</context_id>
+        <context_title>studtitle_IT21_R217_205</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT21_R217_static_Assessment_205</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question IT21_R217_205</questionset>
+        <questiontext>Test Question IT21_R217_205</questiontext>
+        <learningobjective>true</learningobjective>
+        <useWriteBoard>true</useWriteBoard>
+        <shareWithInitialString>studtitle_IT21_R217_205</shareWithInitialString>
+        <shareName>studtitle_IT21_R217_205</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.InstructorGivenWorkboardFeedbackForStaticAssessment" index="205_1" method="" >
+        <user_id>student_IT21_R217_205</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT21_R217_205</context_id>
+        <context_title>studtitle_IT21_R217_205</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT21_R217_static_Assessment_205</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.InstructorGivenWorkboardFeedbackForStaticAssessment" index="214" method="" >
+        <user_id>instructor_IT21_R217_214</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT21_R217_214</context_id>
+        <context_title>studtitle_IT21_R217_214</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT21_R217_static_Assessment_214</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question IT21_R217_214</questionset>
+        <questiontext>Test Question IT21_R217_214</questiontext>
+        <learningobjective>true</learningobjective>
+        <useWriteBoard>true</useWriteBoard>
+        <shareWithInitialString>studtitle_IT21_R217_214</shareWithInitialString>
+        <shareName>studtitle_IT21_R217_214</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.InstructorGivenWorkboardFeedbackForStaticAssessment" index="214_1" method="" >
+        <user_id>student_IT21_R217_214</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT21_R217_214</context_id>
+        <context_title>studtitle_IT21_R217_214</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT21_R217_static_Assessment_214</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.InstructorGivenWorkboardFeedbackForStaticAssessment" index="223" method="" >
+        <user_id>instructor_IT21_R217_223</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT21_R217_223</context_id>
+        <context_title>studtitle_IT21_R217_223</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT21_R217_writeboard_223</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>writeboard IT21_R217_223</questionset>
+        <questiontext>writeboard IT21_R217_223</questiontext>
+        <learningobjective>true</learningobjective>
+        <useWriteBoard>true</useWriteBoard>
+        <shareWithInitialString>studtitle_IT21_R217_223</shareWithInitialString>
+        <shareName>studtitle_IT21_R217_223</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <noOfQuestions>1</noOfQuestions>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.InstructorGivenWorkboardFeedbackForStaticAssessment" index="226" method="" >
+        <user_id>instructor_IT21_R217_226</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT21_R217_226</context_id>
+        <context_title>studtitle_IT21_R217_226</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT21_R217_writeboard_226</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>writeboard IT21_R217_226</questionset>
+        <questiontext>writeboard IT21_R217_226</questiontext>
+        <learningobjective>true</learningobjective>
+        <useWriteBoard>true</useWriteBoard>
+        <shareWithInitialString>studtitle_IT21_R217_226</shareWithInitialString>
+        <shareName>studtitle_IT21_R217_226</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.InstructorGivenWorkboardFeedbackForStaticAssessment" index="227" method="" >
+        <user_id>instructor_IT21_R217_227</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT21_R217_227</context_id>
+        <context_title>studtitle_IT21_R217_227</context_title>
+        <assessmentname>IT21_R217_writeboard_227</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>writeboard IT21_R217_227</questionset>
+        <questiontext>writeboard IT21_R217_227</questiontext>
+        <learningobjective>true</learningobjective>
+        <useWriteBoard>true</useWriteBoard>
+        <shareWithInitialString>studtitle_IT21_R217_227</shareWithInitialString>
+        <shareName>studtitle_IT21_R217_227</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+<!--
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.ViewYourWorkButtonDisable" index="157" method="viewYourWorkButtonDisable">
+        <user_id>instructor_IT21_R217_157</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT21_R217_157</context_id>
+        <context_title>studtitle_IT21_R217_157</context_title>
+        <assessmentname>Assignment_IT21_R217_157</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT21_R217_157</questionset>
+        <questiontext>Test Question for IT21_R217_157</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_IT21_R217_157</shareWithInitialString>
+        <shareName>studtitle_IT21_R217_157</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <useWriteBoard>true</useWriteBoard>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <studentname>givenname family</studentname>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.ViewYourWorkButtonDisable" index="157_1" method="viewYourWorkButtonDisable">
+        <user_id>student_IT21_R217_157</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT21_R217_157</context_id>
+        <context_title>studtitle_IT21_R217_157</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.ViewYourWorkButtonDisable" index="165" method="jumpOutViewFromCourseStream">
+        <user_id>instructor_IT21_R217_165</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT21_R217_165</context_id>
+        <context_title>studtitle_IT21_R217_165</context_title>
+        <assessmentname>Assignment_IT21_R217_165</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT21_R217_165</questionset>
+        <questiontext>Test Question for IT21_R217_165</questiontext>
+        <shareWithInitialString>studtitle_IT21_R217_165</shareWithInitialString>
+        <shareName>studtitle_IT21_R217_165</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <useWriteBoard>true</useWriteBoard>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <studentname>givenname family</studentname>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.ViewYourWorkButtonDisable" index="165_1" method="jumpOutViewFromCourseStream">
+        <user_id>student_IT21_R217_165</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT21_R217_165</context_id>
+        <context_title>studtitle_IT21_R217_165</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.ViewYourWorkButtonDisable" index="168" method="reachAssignmentFromAssignmentTab">
+        <user_id>instructor_IT21_R217_168</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT21_R217_168</context_id>
+        <context_title>studtitle_IT21_R217_168</context_title>
+        <assessmentname>Assignment_IT21_R217_165</assessmentname>
+        <shareWithInitialString>studtitle_IT21_R217_168</shareWithInitialString>
+        <shareName>studtitle_IT21_R217_168</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <useWriteBoard>true</useWriteBoard>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <studentname>givenname family</studentname>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.ViewYourWorkButtonDisable" index="168_1" method="reachAssignmentFromAssignmentTab">
+        <user_id>student_IT21_R217_168</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT21_R217_168</context_id>
+        <context_title>studtitle_IT21_R217_168</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.ViewYourWorkButtonDisable" index="169" method="reachAssignmentFromAssignmentTab">
+        <user_id>instructor_IT21_R217_169</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT21_R217_169</context_id>
+        <context_title>studtitle_IT21_R217_169</context_title>
+        <assessmentname>Assignment_IT21_R217_165</assessmentname>
+        <shareWithInitialString>studtitle_IT21_R217_169</shareWithInitialString>
+        <shareName>studtitle_IT21_R217_169</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <useWriteBoard>true</useWriteBoard>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <studentname>givenname family</studentname>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.ViewYourWorkButtonDisable" index="169_1" method="reachAssignmentFromAssignmentTab">
+        <user_id>student_IT21_R217_169</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT21_R217_169</context_id>
+        <context_title>studtitle_IT21_R217_169</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.ViewYourWorkButtonDisable" index="186" method="reachAssignmentFromAssignmentTab">
+        <user_id>instructor_IT21_R217_186</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT21_R217_186</context_id>
+        <context_title>studtitle_IT21_R217_186</context_title>
+        <shareWithInitialString>studtitle_IT21_R217_186</shareWithInitialString>
+        <shareName>studtitle_IT21_R217_186</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <studentname>givenname family</studentname>
+        <additionalnote>This is an additional note</additionalnote>
+        <searchquestion>Test Question Set of IT21_R217_170</searchquestion>
+        <customassignmentname>CustomAssignment_IT21_R217_186</customassignmentname>
+        <noOfQuestions>2</noOfQuestions>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.ViewYourWorkButtonDisable" index="186_1" method="reachAssignmentFromAssignmentTab">
+        <user_id>student_IT21_R217_186</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT21_R217_186</context_id>
+        <context_title>studtitle_IT21_R217_186</context_title>
+    </testcase>
+-->
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.ViewYourWorkButtonDisable" index="157" method="viewYourWorkButtonDisable">
+        <user_id>instructor_IT21_R217_157</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT21_R217_157</context_id>
+        <context_title>studtitle_IT21_R217_157</context_title>
+        <assessmentname>Assignment_IT21_R217_157</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT21_R217_157</questionset>
+        <questiontext>Test Question for IT21_R217_157</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_IT21_R217_157</shareWithInitialString>
+        <shareName>studtitle_IT21_R217_157</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <useWriteBoard>true</useWriteBoard>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <studentname>givenname family</studentname>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.ViewYourWorkButtonDisable" index="157_1" method="viewYourWorkButtonDisable">
+        <user_id>student_IT21_R217_157</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT21_R217_157</context_id>
+        <context_title>studtitle_IT21_R217_157</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.ViewYourWorkButtonDisable" index="165" method="jumpOutViewFromCourseStream">
+        <user_id>instructor_IT21_R217_165</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT21_R217_165</context_id>
+        <context_title>studtitle_IT21_R217_165</context_title>
+        <assessmentname>Assignment_IT21_R217_165</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT21_R217_165</questionset>
+        <questiontext>Test Question for IT21_R217_165</questiontext>
+        <shareWithInitialString>studtitle_IT21_R217_165</shareWithInitialString>
+        <shareName>studtitle_IT21_R217_165</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <useWriteBoard>true</useWriteBoard>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <studentname>givenname family</studentname>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.ViewYourWorkButtonDisable" index="165_1" method="jumpOutViewFromCourseStream">
+        <user_id>student_IT21_R217_165</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT21_R217_165</context_id>
+        <context_title>studtitle_IT21_R217_165</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.ViewYourWorkButtonDisable" index="168" method="reachAssignmentFromAssignmentTab">
+        <user_id>instructor_IT21_R217_168</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT21_R217_168</context_id>
+        <context_title>studtitle_IT21_R217_168</context_title>
+        <assessmentname>Assignment_IT21_R217_165</assessmentname>
+        <shareWithInitialString>studtitle_IT21_R217_168</shareWithInitialString>
+        <shareName>studtitle_IT21_R217_168</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <useWriteBoard>true</useWriteBoard>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <studentname>givenname family</studentname>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.ViewYourWorkButtonDisable" index="168_1" method="reachAssignmentFromAssignmentTab">
+        <user_id>student_IT21_R217_168</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT21_R217_168</context_id>
+        <context_title>studtitle_IT21_R217_168</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.ViewYourWorkButtonDisable" index="169" method="reachAssignmentFromAssignmentTab">
+        <user_id>instructor_IT21_R217_169</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT21_R217_169</context_id>
+        <context_title>studtitle_IT21_R217_169</context_title>
+        <assessmentname>Assignment_IT21_R217_165</assessmentname>
+        <shareWithInitialString>studtitle_IT21_R217_169</shareWithInitialString>
+        <shareName>studtitle_IT21_R217_169</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <useWriteBoard>true</useWriteBoard>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <studentname>givenname family</studentname>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.ViewYourWorkButtonDisable" index="169_1" method="reachAssignmentFromAssignmentTab">
+        <user_id>student_IT21_R217_169</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT21_R217_169</context_id>
+        <context_title>studtitle_IT21_R217_169</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.ViewYourWorkButtonDisable" index="170" method="reachAssignmentFromAssignmentTab">
+        <user_id>instructor_IT21_R217_170</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT21_R217_170</context_id>
+        <context_title>studtitle_IT21_R217_170</context_title>
+        <assessmentname>Assignment_IT21_R217_170</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT21_R217_170</questionset>
+        <questiontext>Test Question for IT21_R217_170</questiontext>
+        <shareWithInitialString>studtitle_IT21_R217_170</shareWithInitialString>
+        <shareName>studtitle_IT21_R217_170</shareName>
+        <reservforassignment>false</reservforassignment>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <useWriteBoard>true</useWriteBoard>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <studentname>givenname family</studentname>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.ViewYourWorkButtonDisable" index="170_1" method="reachAssignmentFromAssignmentTab">
+        <user_id>student_IT21_R217_170</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT21_R217_170</context_id>
+        <context_title>studtitle_IT21_R217_170</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.ViewYourWorkButtonDisable" index="186" method="reachAssignmentFromAssignmentTab">
+        <user_id>instructor_IT21_R217_186</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT21_R217_186</context_id>
+        <context_title>studtitle_IT21_R217_186</context_title>
+        <assessmentname>CustomAssignment_IT21_R217_186</assessmentname>
+        <shareWithInitialString>studtitle_IT21_R217_186</shareWithInitialString>
+        <shareName>studtitle_IT21_R217_186</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <studentname>givenname family</studentname>
+        <additionalnote>This is an additional note</additionalnote>
+        <searchquestion>IT21_R217_186</searchquestion>
+        <customassignmentname>CustomAssignment_IT21_R217_186</customassignmentname>
+        <noOfQuestions>2</noOfQuestions>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT21_R217_186</questionset>
+        <questiontext>Test Question for IT21_R217_186</questiontext>
+        <useWriteBoard>true</useWriteBoard>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.ViewYourWorkButtonDisable" index="186_1" method="reachAssignmentFromAssignmentTab">
+        <user_id>student_IT21_R217_186</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT21_R217_186</context_id>
+        <context_title>studtitle_IT21_R217_186</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.ViewYourWorkButtonDisable" index="130" method="viewYourWorkButtonDisable">
+        <user_id>instructor_IT21_R217_130</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT21_R217_130</context_id>
+        <context_title>studtitle_IT21_R217_130</context_title>
+        <assessmentname>Assignment_IT21_R217_131</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT21_R217_131</questionset>
+        <questiontext>Test Question for IT21_R217_131</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_IT21_R217_130</shareWithInitialString>
+        <shareName>studtitle_IT21_R217_130</shareName>
+        <shareWithClass>true</shareWithClass>
+        <filename>img.png</filename>
+        <gradeable>true</gradeable>
+        <useWriteBoard>true</useWriteBoard>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <studentname>givenname family</studentname>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.ViewYourWorkButtonDisable" index="130_1" method="viewYourWorkButtonDisable">
+        <user_id>student_IT21_R217_130</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT21_R217_130</context_id>
+        <context_title>studtitle_IT21_R217_130</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.ViewYourWorkButtonDisable" index="163" method="viewYourWorkButtonDisable">
+        <user_id>instructor_IT21_R217_163</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT21_R217_163</context_id>
+        <context_title>studtitle_IT21_R217_163</context_title>
+        <assessmentname>Assignment_IT21_R217_163</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT21_R217_131</questionset>
+        <questiontext>Test Question for IT21_R217_131</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_IT21_R217_163</shareWithInitialString>
+        <shareName>studtitle_IT21_R217_163</shareName>
+        <shareWithClass>true</shareWithClass>
+        <filename>img.png</filename>
+        <gradeable>true</gradeable>
+        <useWriteBoard>true</useWriteBoard>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <studentname>givenname family</studentname>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.ViewYourWorkButtonDisable" index="163_1" method="viewYourWorkButtonDisable">
+        <user_id>student_IT21_R217_163</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT21_R217_163</context_id>
+        <context_title>studtitle_IT21_R217_163</context_title>
+    </testcase>
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.InstructorGivenWorkboardFeedbackForStaticAssessment" index="239" method="" >
+        <user_id>IT21_R217_student_239</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT21_R217_239</context_id>
+        <context_title>studtitle_IT21_R217_239</context_title>
+        <assessmentname>IT21_R217_Assessment_239</assessmentname>
+        <questiontype>Adaptive Component Diagnostic</questiontype>
+        <questionset>Test Question IT21_R217_239</questionset>
+        <questiontext>Test QuestionIT21_R217_239</questiontext>
+        <learningobjective>true</learningobjective>
+        <reservforassignment>false</reservforassignment>
+        <newChapterName>Diagnostic_Assessment_IT21_R217_239</newChapterName>
+        <chapterName>Diagnostic_Assessment_IT21_R217_239</chapterName>
+        <useWriteBoard>true</useWriteBoard>
+
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.InstructorGivenWorkboardFeedbackForStaticAssessment" index="245" method="" >
+        <user_id>instructor_IT21_R217_245</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT21_R217_245</context_id>
+        <context_title>studtitle_IT21_R217_245</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT21_R217_static_Assessment_245</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question IT21_R217_245</questionset>
+        <questiontext>Test Question IT21_R217_245</questiontext>
+        <learningobjective>true</learningobjective>
+        <useWriteBoard>true</useWriteBoard>
+        <shareWithInitialString>studtitle_IT21_R217_245</shareWithInitialString>
+        <shareName>studtitle_IT21_R217_245</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.InstructorGivenWorkboardFeedbackForStaticAssessment" index="245_1" method="" >
+        <user_id>student_IT21_R217_245</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT21_R217_245</context_id>
+        <context_title>studtitle_IT21_R217_245</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT21_R217_static_Assessment_245</assessmentname>
+    </testcase>
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.InstructorGivenWorkboardFeedbackForStaticAssessment" index="251" method="" >
+        <user_id>instructor_IT21_R217_251</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT21_R217_251</context_id>
+        <context_title>studtitle_IT21_R217_251</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT21_R217_static_Assessment_251</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question IT21_R217_251</questionset>
+        <questiontext>Test Question IT21_R217_251</questiontext>
+        <learningobjective>true</learningobjective>
+        <useWriteBoard>true</useWriteBoard>
+        <shareWithInitialString>studtitle_IT21_R217_251</shareWithInitialString>
+        <shareName>studtitle_IT21_R217_251</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.InstructorGivenWorkboardFeedbackForStaticAssessment" index="251_1" method="" >
+        <user_id>student_IT21_R217_251</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT21_R217_251</context_id>
+        <context_title>studtitle_IT21_R217_251</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT21_R217_static_Assessment_251</assessmentname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.InstructorGivenWorkboardFeedbackForStaticAssessment" index="255" method="" >
+        <user_id>instructor_IT21_R217_255</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT21_R217_255</context_id>
+        <context_title>studtitle_IT21_R217_255</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT21_R217_static_Assessment_255</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question IT21_R217_255</questionset>
+        <questiontext>Test Question IT21_R217_255</questiontext>
+        <learningobjective>true</learningobjective>
+        <useWriteBoard>true</useWriteBoard>
+        <shareWithInitialString>studtitle_IT21_R217_255</shareWithInitialString>
+        <shareName>studtitle_IT21_R217_255</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.InstructorGivenWorkboardFeedbackForStaticAssessment" index="255_1" method="" >
+        <user_id>student_IT21_R217_255</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT21_R217_255</context_id>
+        <context_title>studtitle_IT21_R217_255</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT21_R217_static_Assessment_255</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.InstructorGivenWorkboardFeedbackForStaticAssessment" index="260" method="" >
+        <user_id>instructor_IT21_R217_260</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT21_R217_260</context_id>
+        <context_title>studtitle_IT21_R217_260</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT21_R217_static_Assessment_260</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question IT21_R217_260</questionset>
+        <questiontext>Test Question IT21_R217_260</questiontext>
+        <learningobjective>true</learningobjective>
+        <useWriteBoard>true</useWriteBoard>
+        <shareWithInitialString>studtitle_IT21_R217_260</shareWithInitialString>
+        <shareName>studtitle_IT21_R217_260</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.InstructorGivenWorkboardFeedbackForStaticAssessment" index="260_1" method="" >
+        <user_id>student_IT21_R217_260</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT21_R217_260</context_id>
+        <context_title>studtitle_IT21_R217_260</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT21_R217_static_Assessment_260</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.InstructorGivenWorkboardFeedbackForStaticAssessment" index="265" method="" >
+        <user_id>instructor_IT21_R217_265</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT21_R217_265</context_id>
+        <context_title>studtitle_IT21_R217_265</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT21_R217_static_Assessment_265</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question IT21_R217_265</questionset>
+        <questiontext>Test Question IT21_R217_265</questiontext>
+        <learningobjective>true</learningobjective>
+        <useWriteBoard>true</useWriteBoard>
+        <shareWithInitialString>studtitle_IT21_R217_265</shareWithInitialString>
+        <shareName>studtitle_IT21_R217_265</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.InstructorGivenWorkboardFeedbackForStaticAssessment" index="265_1" method="" >
+        <user_id>student_IT21_R217_265</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT21_R217_265</context_id>
+        <context_title>studtitle_IT21_R217_265</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT21_R217_static_Assessment_265</assessmentname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.InstructorGivenWorkboardFeedbackForStaticAssessment" index="270" method="" >
+        <user_id>student_IT21_R217_270</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT21_R217_270</context_id>
+        <context_title>studtitle_IT21_R217_270</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT21_R217_static_Assessment_270</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question IT21_R217_270</questionset>
+        <questiontext>Test Question IT21_R217_270</questiontext>
+        <learningobjective>true</learningobjective>
+        <useWriteBoard>true</useWriteBoard>
+        <shareWithInitialString>studtitle_IT21_R217_270</shareWithInitialString>
+        <shareName>studtitle_IT21_R217_270</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.InstructorGivenWorkboardFeedbackForStaticAssessment" index="271" method="" >
+        <user_id>student_IT21_R217_271</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT21_R217_271</context_id>
+        <context_title>studtitle_IT21_R217_271</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT21_R217_static_Assessment_271</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question IT21_R217_271</questionset>
+        <questiontext>Test Question IT21_R217_271</questiontext>
+        <learningobjective>true</learningobjective>
+        <useWriteBoard>true</useWriteBoard>
+        <shareWithInitialString>studtitle_IT21_R217_271</shareWithInitialString>
+        <shareName>studtitle_IT21_R217_271</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.InstructorGivenWorkboardFeedbackForStaticAssessment" index="274" method="" >
+        <user_id>instructor_IT21_R217_274</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT21_R217_274</context_id>
+        <context_title>studtitle_IT21_R217_274</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT21_R217_static_Assessment_274</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question IT21_R217_274</questionset>
+        <questiontext>Test Question IT21_R217_274</questiontext>
+        <learningobjective>true</learningobjective>
+        <useWriteBoard>true</useWriteBoard>
+        <shareWithInitialString>studtitle_IT21_R217_274</shareWithInitialString>
+        <shareName>studtitle_IT21_R217_274</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.InstructorGivenWorkboardFeedbackForStaticAssessment" index="274_1" method="" >
+        <user_id>student_IT21_R217_274</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT21_R217_274</context_id>
+        <context_title>studtitle_IT21_R217_274</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT21_R217_static_Assessment_274</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.InstructorGivenWorkboardFeedbackForStaticAssessment" index="279" method="" >
+        <user_id>instructor_IT21_R217_279</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT21_R217_279</context_id>
+        <context_title>studtitle_IT21_R217_279</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT21_R217_static_Assessment_279</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question IT21_R217_279</questionset>
+        <questiontext>Test Question IT21_R217_279</questiontext>
+        <learningobjective>true</learningobjective>
+        <useWriteBoard>true</useWriteBoard>
+        <shareWithInitialString>studtitle_IT21_R217_279</shareWithInitialString>
+        <shareName>studtitle_IT21_R217_279</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.InstructorGivenWorkboardFeedbackForStaticAssessment" index="279_1" method="" >
+        <user_id>student_IT21_R217_279</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT21_R217_279</context_id>
+        <context_title>studtitle_IT21_R217_279</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT21_R217_static_Assessment_279</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.InstructorGivenWorkboardFeedbackForStaticAssessment" index="284" method="" >
+        <user_id>instructor_IT21_R217_284</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT21_R217_284</context_id>
+        <context_title>studtitle_IT21_R217_284</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT21_R217_static_Assessment_284</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question IT21_R217_284</questionset>
+        <questiontext>Test Question IT21_R217_284</questiontext>
+        <learningobjective>true</learningobjective>
+        <useWriteBoard>true</useWriteBoard>
+        <shareWithInitialString>studtitle_IT21_R217_284</shareWithInitialString>
+        <shareName>studtitle_IT21_R217_284</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.InstructorGivenWorkboardFeedbackForStaticAssessment" index="284_1" method="" >
+        <user_id>student_IT21_R217_284</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT21_R217_284</context_id>
+        <context_title>studtitle_IT21_R217_284</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT21_R217_static_Assessment_284</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.InstructorGivenWorkboardFeedbackForStaticAssessment" index="287" method="" >
+        <user_id>instructor_IT21_R217_287</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT21_R217_287</context_id>
+        <context_title>studtitle_IT21_R217_287</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT21_R217_static_Assessment_287</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question IT21_R217_287</questionset>
+        <questiontext>Test Question IT21_R217_287</questiontext>
+        <learningobjective>true</learningobjective>
+        <useWriteBoard>true</useWriteBoard>
+        <shareWithInitialString>studtitle_IT21_R217_287</shareWithInitialString>
+        <shareName>studtitle_IT21_R217_287</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>policy 287</assignmentpolicyname>
+        <assignmentpolicy>Policy 287</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <grade>0.1</grade>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.InstructorGivenWorkboardFeedbackForStaticAssessment" index="287_1" method="" >
+        <user_id>student_IT21_R217_287</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT21_R217_287</context_id>
+        <context_title>studtitle_IT21_R217_287</context_title>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <assessmentname>IT21_R217_static_Assessment_287</assessmentname>
+
+    </testcase>
+
+
+
+
+
+
+</learningspaces>
+
+

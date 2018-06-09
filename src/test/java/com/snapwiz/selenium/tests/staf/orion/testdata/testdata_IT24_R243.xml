@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orion>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R243.AssignmentFlow" index="10" method="popUpVerificationThroughNormalLogin">
+        <user_id>IT24_R243_student_10_27</user_id>
+        <Role>student</Role>
+        <context_id>studContext_IT24_R243_10</context_id>
+        <context_title>studTitle_IT24_R243_10</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R243.AssignmentFlow" index="11" method="popUpVerificationThroughNormalLogin">
+        <user_id>IT24_R243_student_10_27</user_id>
+        <Role>student</Role>
+        <context_id>studContext_IT24_R243_10</context_id>
+        <context_title>studTitle_IT24_R243_10</context_title>
+        <custom_instructor_classlist>null</custom_instructor_classlist>
+        <custom_course_number>null</custom_course_number>
+        <custom_domain_name>null</custom_domain_name>
+        <lis_outcome_service_url>null</lis_outcome_service_url>
+        <custom_lis_result_source_id>CH_2:CH_3</custom_lis_result_source_id>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R243.AssignmentFlow" index="19" method="popUpVerificationWhenStudentNotAttendingDiagTest">
+        <user_id>IT24_R243_student_10_19_24</user_id>
+        <Role>student</Role>
+        <context_id>studContext_IT24_R243_19</context_id>
+        <context_title>studTitle_IT24_R243_19</context_title>
+        <custom_instructor_classlist>null</custom_instructor_classlist>
+        <custom_course_number>null</custom_course_number>
+        <custom_domain_name>null</custom_domain_name>
+        <lis_outcome_service_url>null</lis_outcome_service_url>
+        <custom_lis_result_source_id>CH_1:CH_2</custom_lis_result_source_id>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R243.AssignmentFlow" index="29" method="popUpVerificationForInprogressAssessment">
+        <user_id>IT24_R243_student_10_19_29_9</user_id>
+        <Role>student</Role>
+        <context_id>studContext_IT24_R243_29</context_id>
+        <context_title>studTitle_IT24_R243_29</context_title>
+        <custom_instructor_classlist>null</custom_instructor_classlist>
+        <custom_course_number>null</custom_course_number>
+        <custom_domain_name>null</custom_domain_name>
+        <lis_outcome_service_url>null</lis_outcome_service_url>
+        <custom_lis_result_source_id>CH_2:CH_3</custom_lis_result_source_id>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R243.AssignmentFlow" index="36" method="popUpVerificationWhenStudentNotAttendingDiagTest">
+        <user_id>IT24_R243_student_10_36_3</user_id>
+        <Role>student</Role>
+        <context_id>studContext_IT24_R243_36</context_id>
+        <context_title>studTitle_IT24_R243_36</context_title>
+        <custom_instructor_classlist>null</custom_instructor_classlist>
+        <custom_course_number>null</custom_course_number>
+        <custom_domain_name>null</custom_domain_name>
+        <lis_outcome_service_url>null</lis_outcome_service_url>
+        <custom_lis_result_source_id>CH_2:CH_3</custom_lis_result_source_id>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R243.AssignmentFlow" index="40" method="popUpContentVerificationForSnapwizChapter">
+        <user_id>IT24_R243_student_10_19_40</user_id>
+        <Role>student</Role>
+        <context_id>studContext_IT24_R243_40</context_id>
+        <context_title>studTitle_IT24_R243_40</context_title>
+        <custom_instructor_classlist>null</custom_instructor_classlist>
+        <custom_course_number>null</custom_course_number>
+        <custom_domain_name>null</custom_domain_name>
+        <lis_outcome_service_url>null</lis_outcome_service_url>
+        <resource_link_id>CH_1</resource_link_id>
+        <custom_destination>snapwiz-chapter</custom_destination>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R243.AssignmentFlow" index="52" method="popUpContentVerificationForSnapwizChapter">
+        <user_id>IT24_R243_student_10_19_52</user_id>
+        <Role>student</Role>
+        <context_id>studContext_IT24_R243_52</context_id>
+        <context_title>studTitle_IT24_R243_52</context_title>
+        <custom_instructor_classlist>null</custom_instructor_classlist>
+        <custom_course_number>null</custom_course_number>
+        <custom_domain_name>null</custom_domain_name>
+        <lis_outcome_service_url>null</lis_outcome_service_url>
+        <custom_lis_result_source_id>CH_1</custom_lis_result_source_id>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R243.AssignmentFlow" index="54" method="popUpContentVerificationForSnapwizChapter">
+        <user_id>IT24_R243_student_10_19_54</user_id>
+        <Role>student</Role>
+        <context_id>studContext_IT24_R243_54</context_id>
+        <context_title>studTitle_IT24_R243_54</context_title>
+        <custom_instructor_classlist>null</custom_instructor_classlist>
+        <custom_course_number>null</custom_course_number>
+        <custom_domain_name>null</custom_domain_name>
+        <lis_outcome_service_url>null</lis_outcome_service_url>
+        <custom_lis_result_source_id>CH_1</custom_lis_result_source_id>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R243.AssignmentFlow" index="58" method="popUpContentVerificationForSnapwizChapter">
+        <user_id>IT24_R243_student_10_19_58</user_id>
+        <Role>student</Role>
+        <context_id>studContext_IT24_R243_58</context_id>
+        <context_title>studTitle_IT24_R243_58</context_title>
+        <custom_instructor_classlist>null</custom_instructor_classlist>
+        <custom_course_number>null</custom_course_number>
+        <custom_domain_name>null</custom_domain_name>
+        <lis_outcome_service_url>null</lis_outcome_service_url>
+        <custom_lis_result_source_id>CH_1</custom_lis_result_source_id>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R243.AssignmentFlow" index="62" method="popUpContentVerificationForSnapwizChapter">
+        <user_id>IT24_R243_student_10_19_62</user_id>
+        <Role>student</Role>
+        <context_id>studContext_IT24_R243_62</context_id>
+        <context_title>studTitle_IT24_R243_62</context_title>
+        <custom_instructor_classlist>null</custom_instructor_classlist>
+        <custom_course_number>null</custom_course_number>
+        <custom_domain_name>null</custom_domain_name>
+        <lis_outcome_service_url>null</lis_outcome_service_url>
+        <custom_lis_result_source_id>CH_1</custom_lis_result_source_id>
+    </testcase>
+
+
+</orion>

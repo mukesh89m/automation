@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="IT_15_R15.9.3-LSRegressionSuite">
+    <classes>         	
+    	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.OwnPerspectiveCommentForStudents"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.OtherStudentsPerspectiveAndComment"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.InstructorPerspectiveAndComment"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.OwnPerspectiveCommentForInstructor"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.InstructorRemovesStudentPerspectiveAndComment"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.OtherInstructorsPerspectiveAndComment"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.PerspectiveCommentForStudentsOnDWAssignment"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.OtherStudentsPerspectiveAndCommentForDwAssignment"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.OtherInstructorsPerspectiveAndCommentForStudent"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.OwnPerspectiveCommentForInstructorOnDWAssignment"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.StudentPerspectiveAndCommentOnInstructorSide"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.OtherInstructorPerspectiveOnDWAssignment"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.HidingPerspectiveAsStudentForDWAssignmentWithGradeReleased"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.HidingPerspectiveAsInstructorForDWAssignmentWithGradeReleased"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.RemovalOfPerspectiveByReportingAbuseForDWAssignmentWithGradeReleased"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.RemovePostAndRemoveCommentOptionAtStudentSide"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.RemovePostRemoveCommentOptionAtInstructorSide"/>
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->

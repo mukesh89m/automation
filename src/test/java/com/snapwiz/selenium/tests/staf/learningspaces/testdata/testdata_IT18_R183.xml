@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R183.InstructorAssignAllLessons" index="9" method="instructorAssignAllLessons">
+        <user_id>IT18_R183_Instructor_9</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR183_9</context_id>
+        <context_title>studtitleR183_9</context_title>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+        <shareWithInitialString>studtitleR183_9</shareWithInitialString>
+        <shareName>studtitleR183_9</shareName>
+        <shareWithClass>true</shareWithClass>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R183.InstructorAssignAllLessons" index="9_1" method="instructorAssignAllLessons">
+        <user_id>IT18_R183_Student_9_1_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR183_9</context_id>
+        <context_title>studtitleR183_9</context_title>
+        <familyname>LastName_R183_9_1</familyname>
+        <givenname>FirstName_R183_9_1</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R183.InstructorAssignAllLessons" index="9_2" method="instructorAssignAllLessons">
+        <user_id>IT18_R183_Student_9_2_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR183_9</context_id>
+        <context_title>studtitleR183_9</context_title>
+        <familyname>LastName_R183_9_2</familyname>
+        <givenname>FirstName_R183_9_2</givenname>
+    </testcase>
+    <!--mentor-->
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R183.InstructorAssignAllLessons" index="22" method="mentorAssignAllLessons">
+        <user_id>IT18_R183_mentor_22</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontextR183_22</context_id>
+        <context_title>studtitleR183_22</context_title>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <shareWithInitialString>studtitleR183_22</shareWithInitialString>
+        <shareName>studtitleR183_22</shareName>
+        <shareWithClass>true</shareWithClass>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R183.InstructorAssignAllLessons" index="22_1" method="mentorAssignAllLessons">
+        <user_id>IT18_R183_Student_22</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR183_22</context_id>
+        <context_title>studtitleR183_22</context_title>
+        <familyname>LastName_R183_22_1</familyname>
+        <givenname>FirstName_R183_22_1</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R183.InstructorAssignAllLessons" index="34" method="instructorAssignRequiredLesson">
+        <user_id>IT18_R183_instructor_34_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR183_34</context_id>
+        <context_title>studtitleR183_34</context_title>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <shareWithInitialString>studtitleR183_34</shareWithInitialString>
+        <shareName>studtitleR183_34</shareName>
+        <shareWithClass>true</shareWithClass>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R183.InstructorAssignAllLessons" index="34_1" method="instructorAssignRequiredLesson">
+        <user_id>IT18_R183_Student_34_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR183_34</context_id>
+        <context_title>studtitleR183_34</context_title>
+        <familyname>LastName_R183_34_1</familyname>
+        <givenname>FirstName_R183_34_1</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R183.InstructorAssignAllLessons" index="37" method="mentorAssignRequiredLesson">
+        <user_id>IT18_R183_mentor_37_1</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontextR183_371</context_id>
+        <context_title>studtitleR183_371</context_title>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+        <shareWithInitialString>studtitleR183_371</shareWithInitialString>
+        <shareName>studtitleR183_371</shareName>
+        <shareWithClass>true</shareWithClass>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R183.InstructorAssignAllLessons" index="37_1" method="mentorAssignRequiredLesson">
+        <user_id>IT18_R183_Student_37_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR183_371</context_id>
+        <context_title>studtitleR183_371</context_title>
+        <familyname>LastName_R183_37_1</familyname>
+        <givenname>FirstName_R183_37_1</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R183.InstructorAssignAllLessons" index="40" method="instructorAccessMultipleClassSection">
+        <user_id>IT18_R183_instructor_40_2</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextIT18R183_40</context_id>
+        <context_title>studtitleIT18R183_40</context_title>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+        <shareWithInitialString>studtitleIT18R183_40</shareWithInitialString>
+        <shareName>studtitleIT18R183_40</shareName>
+        <shareWithClass>true</shareWithClass>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R183.InstructorAssignAllLessons" index="41" method="instructorAccessMultipleClassSection">
+        <user_id>IT18_R183_instructor_40_2</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextIT18R183_41</context_id>
+        <context_title>studtitleIT18R183_41</context_title>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+        <shareWithInitialString>studtitleIT18R183_41</shareWithInitialString>
+        <shareName>studtitleIT18R183_41</shareName>
+        <shareWithClass>true</shareWithClass>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R183.InstructorAssignAllLessons" index="40_1" method="instructorAccessMultipleClassSection">
+        <user_id>IT18_R183_Student_40_22</user_id>
+        <Role>student</Role>
+        <context_id>studcontextIT18R183_40</context_id>
+        <context_title>studtitleIT18R183_40</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R183.InstructorAssignAllLessons" index="45" method="mentorAccessMultipleClassSection">
+        <user_id>IT18_R183_instructor_45_2</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontextR183_47</context_id>
+        <context_title>studtitleR183_47</context_title>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+        <shareWithInitialString>studtitleR183_47</shareWithInitialString>
+        <shareName>studtitleR183_47</shareName>
+        <shareWithClass>true</shareWithClass>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R183.InstructorAssignAllLessons" index="46" method="mentorAccessMultipleClassSection">
+        <user_id>IT18_R183_instructor_45_2</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontextR183_48</context_id>
+        <context_title>studtitleR183_48</context_title>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+        <shareWithInitialString>studtitleR183_48</shareWithInitialString>
+        <shareName>studtitleR183_48</shareName>
+        <shareWithClass>true</shareWithClass>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R183.InstructorAssignAllLessons" index="45_1" method="mentorAccessMultipleClassSection">
+        <user_id>IT18_R183_Student_45_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR183_47</context_id>
+        <context_title>studtitleR183_47</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R183.InstructorAssignAllLessons" index="50" method="deleteLessonAndClickOnCancel">
+        <user_id>IT18_R183_instructor_50</user_id>
+        <Role>instructor</Role>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R183.InstructorAssignAllLessons" index="52" method="deleteLessonAndClickOnCancelInAssignPopUP">
+        <user_id>IT18_R183_instructor_52</user_id>
+        <Role>instructor</Role>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R183.InstructorAssignAllLessons" index="54" method="navigateToOtherChapter">
+        <user_id>IT18_R183_instructor_54</user_id>
+        <Role>instructor</Role>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R183.InstructorAssignAllLessons" index="56" method="assignToParticularStudent">
+        <user_id>IT18_R183_Instructor_56_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR183_57</context_id>
+        <context_title>studtitleR183_57</context_title>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+        <shareWithInitialString>FirstName_R183_56</shareWithInitialString>
+        <shareName>FirstName_R183_56 LastName_R183_56</shareName>
+        <shareWithClass>false</shareWithClass>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R183.InstructorAssignAllLessons" index="56_1" method="assignToParticularStudent">
+        <user_id>IT18_R183_Student_56_1_11</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR183_57</context_id>
+        <context_title>studtitleR183_57</context_title>
+        <familyname>LastName_R183_56</familyname>
+        <givenname>FirstName_R183_56</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R183.InstructorAssignAllLessons" index="56_2" method="assignToParticularStudent">
+        <user_id>IT18_R183_Student_56_1_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR183_57</context_id>
+        <context_title>studtitleR183_57</context_title>
+        <familyname>LastName</familyname>
+        <givenname>FirstName</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R183.InstructorAssignAllLessons" index="63" method="attemptAllLessonAsStudent">
+        <user_id>IT18_R183_instructor_63</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextIT18R183_63</context_id>
+        <context_title>studtitleIT18R183_63</context_title>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+        <shareWithInitialString>studtitleIT18R183_63</shareWithInitialString>
+        <shareName>studtitleIT18R183_63</shareName>
+        <shareWithClass>true</shareWithClass>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R183.InstructorAssignAllLessons" index="63_1" method="attemptAllLessonAsStudent">
+        <user_id>IT18_R183_Student_63</user_id>
+        <Role>student</Role>
+        <context_id>studcontextIT18R183_63</context_id>
+        <context_title>studtitleIT18R183_63</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R183.InstructorAssignAllLessons" index="69" method="attemptAllLessonFromAssignmentPage">
+        <user_id>IT18_R183_instructor_69</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextIT18R183_69</context_id>
+        <context_title>studtitleIT18R183_69</context_title>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+        <shareWithInitialString>studtitleIT18R183_69</shareWithInitialString>
+        <shareName>studtitleIT18R183_69</shareName>
+        <shareWithClass>true</shareWithClass>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R183.InstructorAssignAllLessons" index="69_1" method="attemptAllLessonFromAssignmentPage">
+        <user_id>IT18_R183_Student_69</user_id>
+        <Role>student</Role>
+        <context_id>studcontextIT18R183_69</context_id>
+        <context_title>studtitleIT18R183_69</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R183.InstructorAssignAllLessons" index="73" method="attemptAllLessonFromCourseStream">
+        <user_id>IT18_R183_instructor_73</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextIT18R183_73</context_id>
+        <context_title>studtitleIT18R183_73</context_title>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+        <shareWithInitialString>studtitleIT18R183_73</shareWithInitialString>
+        <shareName>studtitleIT18R183_73</shareName>
+        <shareWithClass>true</shareWithClass>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R183.InstructorAssignAllLessons" index="73_1" method="attemptAllLessonFromCourseStream">
+        <user_id>IT18_R183_Student_73</user_id>
+        <Role>student</Role>
+        <context_id>studcontextIT18R183_73</context_id>
+        <context_title>studtitleIT18R183_73</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R183.InstructorAssignAllLessons" index="78" method="learningActivityNotShownForDeletedLesson">
+        <user_id>IT18_R183_instructor_78</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextIT18R183_78</context_id>
+        <context_title>studtitleIT18R183_78</context_title>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+        <shareWithInitialString>studtitleIT18R183_78</shareWithInitialString>
+        <shareName>studtitleIT18R183_78</shareName>
+        <shareWithClass>true</shareWithClass>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R183.InstructorAssignAllLessons" index="78_1" method="learningActivityNotShownForDeletedLesson">
+        <user_id>IT18_R183_Student_78</user_id>
+        <Role>student</Role>
+        <context_id>studcontextIT18R183_78</context_id>
+        <context_title>studtitleIT18R183_78</context_title>
+    </testcase>
+</learningspaces>

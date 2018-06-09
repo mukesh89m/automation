@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R215.InstructorAbleToLunchEditCustomAssessment" index="9" method="" >
+        <user_id>IT21_R215_instructor_9</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT21_R215_9</context_id>
+        <context_title>studtitle_IT21_R215_9</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R215.InstructorAbleToLunchEditCustomAssessment" index="13" method="" >
+        <user_id>IT21_R215_instructor_13</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT21_R215_13</context_id>
+        <context_title>studtitle_IT21_R215_13</context_title>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <customassignmentname>New Name</customassignmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R215.InstructorAbleToLunchEditCustomAssessment" index="21" method="" >
+        <user_id>IT21_R215_instructor_21</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT21_R215_21</context_id>
+        <context_title>studtitle_IT21_R215_21</context_title>
+        <noOfQuestions>1</noOfQuestions>
+        <customassignmentname>New_Name</customassignmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R215.InstructorAbleToLunchEditCustomAssessment" index="22" method="" >
+        <user_id>IT21_R215_instructor_22</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT21_R215_22</context_id>
+        <context_title>studtitle_IT21_R215_22</context_title>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <customassignmentname>New Name</customassignmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R215.InstructorAbleToLunchEditCustomAssessment" index="29" method="" >
+        <user_id>IT21_R215_instructor_29</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT21_R215_29</context_id>
+        <context_title>studtitle_IT21_R215_29</context_title>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <customassignmentname>New Name</customassignmentname>
+        <shareWithInitialString>studtitle_IT21_R215_29</shareWithInitialString>
+        <shareName>studtitle_IT21_R215_29</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R215.InstructorAbleToLunchEditCustomAssessment" index="38" method="" >
+        <user_id>IT21_R215_instructor_38</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT21_R215_38</context_id>
+        <context_title>studtitle_IT21_R215_38</context_title>
+        <noOfQuestions>1</noOfQuestions>
+        <customassignmentname>New Name</customassignmentname>
+        <shareWithInitialString>studtitle_IT21_R215_38</shareWithInitialString>
+        <shareName>studtitle_IT21_R215_38</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R215.InstructorAbleToLunchEditCustomAssessment" index="40" method="" >
+        <user_id>IT21_R215_instructor_40</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT21_R215_40</context_id>
+        <context_title>studtitle_IT21_R215_40</context_title>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <customassignmentname>New Name</customassignmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R215.InstructorAbleToLunchEditCustomAssessment" index="50" method="" >
+        <user_id>IT21_R215_instructor_50</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT21_R215_50</context_id>
+        <context_title>studtitle_IT21_R215_50</context_title>
+        <noOfQuestions>1</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <customassignmentname>New Name</customassignmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R215.InstructorAbleToSearchAndAddMoreQuestions" index="65" method="" >
+        <user_id>IT21_R215_instructor_65</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT21_R215_65</context_id>
+        <context_title>studtitle_IT21_R215_65</context_title>
+        <noOfQuestions>1</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <customassignmentname>New Name</customassignmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R215.InstructorAbleToSearchAndAddMoreQuestions" index="78" method="" >
+        <user_id>IT21_R215_instructor_78</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT21_R215_78</context_id>
+        <context_title>studtitle_IT21_R215_78</context_title>
+        <noOfQuestions>1</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <customassignmentname>New Name</customassignmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R215.InstructorAbleToSearchAndAddMoreQuestions" index="92" method="" >
+        <user_id>IT21_R215_instructor_92</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT21_R215_92</context_id>
+        <context_title>studtitle_IT21_R215_92</context_title>
+        <noOfQuestions>1</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <customassignmentname>New Name</customassignmentname>
+        <shareWithInitialString>studtitle_IT21_R215_92</shareWithInitialString>
+        <shareName>studtitle_IT21_R215_92</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R215.InstructorDeleteQuestionsFromAlreadySavedCustomAssessment" index="102" method="" >
+        <user_id>IT21_R215_instructor_102</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT21_R215_102</context_id>
+        <context_title>studtitle_IT21_R215_102</context_title>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <customassignmentname>New Name</customassignmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R215.InstructorDeleteQuestionsFromAlreadySavedCustomAssessment" index="112" method="" >
+        <user_id>IT21_R215_instructor_112</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT21_R215_112</context_id>
+        <context_title>studtitle_IT21_R215_112</context_title>
+        <noOfQuestions>1</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <customassignmentname>New Name</customassignmentname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R215.InstructorDeleteQuestionsFromAlreadySavedCustomAssessment" index="121" method="" >
+        <user_id>IT21_R215_instructor_121</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT21_R215_121</context_id>
+        <context_title>studtitle_IT21_R215_121</context_title>
+        <noOfQuestions>3</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <customassignmentname>New Name</customassignmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R215.InstructorDeleteQuestionsFromAlreadySavedCustomAssessment" index="129" method="" >
+        <user_id>IT21_R215_instructor_129</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT21_R215_129</context_id>
+        <context_title>studtitle_IT21_R215_129</context_title>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <customassignmentname>New Name</customassignmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R215.InstructorDeleteQuestionsFromAlreadySavedCustomAssessment" index="146" method="" >
+        <user_id>IT21_R215_instructor_146</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT21_R215_146</context_id>
+        <context_title>studtitle_IT21_R215_146</context_title>
+        <noOfQuestions>1</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <customassignmentname>New Name</customassignmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R215.InstructorDeleteQuestionsFromAlreadySavedCustomAssessment" index="158" method="" >
+        <user_id>IT21_R215_instructor_158</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT21_R215_158</context_id>
+        <context_title>studtitle_IT21_R215_158</context_title>
+        <noOfQuestions>1</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <customassignmentname>New Name</customassignmentname>
+        <shareWithInitialString>studtitle_IT21_R215_158</shareWithInitialString>
+        <shareName>studtitle_IT21_R215_158</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assessmentname>New Name</assessmentname>
+        <name>New Name</name>
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R215.InstructorDeleteQuestionsFromAlreadySavedCustomAssessment" index="158_1" method="" >
+        <user_id>IT21_R215_student_158</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT21_R215_158</context_id>
+        <context_title>studtitle_IT21_R215_158</context_title>
+    </testcase>
+
+</learningspaces>

@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edulastic>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic2.AllowEditingOfQuestionsForAssignmentsInDraftStatus" index ="20" method="instructorNotBeAllowedToEditQuestions">
+        <assessmentname>Assessment_Name_IT1_Epic2_20</assessmentname>
+        <questiontext>Question_Text_IT1_Epic2_20</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic2.AllowEditingOfQuestionsForAssignmentsInDraftStatus" index ="27" method="instructorToBeAbleToEditMultipleChoiceQuestions">
+        <assessmentname>Assessment_Name_IT1_Epic2_27</assessmentname>
+        <questiontext>Question_Text_IT1_Epic2_27</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic2.AllowEditingOfQuestionsForAssignmentsInDraftStatus" index ="34" method="instructorToBeAbleToEditMultipleSelectionQuestions">
+        <assessmentname>Assessment_Name_IT1_Epic2_34assessment</assessmentname>
+        <questiontext>Question_Text_IT1_Epic2_34assessment</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic2.AllowEditingOfQuestionsForAssignmentsInDraftStatus" index ="41" method="instructorToBeAbleToEditTextEntryQuestions">
+        <assessmentname>Assessment_Name_IT1_Epic2_41</assessmentname>
+        <questiontext>Question_Text_IT1_Epic2_41</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic2.AllowEditingOfQuestionsForAssignmentsInDraftStatus" index ="48" method="instructorToBeAbleToEditTextDropDownQuestions">
+        <assessmentname>Assessment_Name_IT1_Epic2_48</assessmentname>
+        <questiontext>Question_Text_IT1_Epic2_48</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic2.AllowEditingOfQuestionsForAssignmentsInDraftStatus" index ="55" method="instructorToBeAbleToEditNumericEntryWithUnitsQuestions">
+        <assessmentname>Assessment_Name_IT1_Epic2_55</assessmentname>
+        <questiontext>Question_Text_IT1_Epic2_55</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic2.AllowEditingOfQuestionsForAssignmentsInDraftStatus" index ="62" method="instructorToBeAbleToEditAdvancedNumericQuestions">
+        <assessmentname>Assessment_Name_IT1_Epic2_62</assessmentname>
+        <questiontext>Question_Text_IT1_Epic2_62</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic2.AllowEditingOfQuestionsForAssignmentsInDraftStatus" index ="69" method="instructorToBeAbleToEditExpressionEvaluatorsQuestions">
+        <assessmentname>Assessment_Name_IT1_Epic2_69</assessmentname>
+        <questiontext>Question_Text_IT1_Epic2_69</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic2.AllowEditingOfQuestionsForAssignmentsInDraftStatus" index ="76" method="instructorToBeAbleToEditMatchTheFollowingQuestions">
+        <assessmentname>Assessment_Name_IT1_Epic2_76</assessmentname>
+        <questiontext>Question_Text_IT1_Epic2_76</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic2.AllowEditingOfQuestionsForAssignmentsInDraftStatus" index ="83" method="instructorToBeAbleToEditDragAndDropQuestions">
+        <assessmentname>Assessment_Name_IT1_Epic2_83</assessmentname>
+        <questiontext>Question_Text_IT1_Epic2_83</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic2.AllowEditingOfQuestionsForAssignmentsInDraftStatus" index ="90" method="instructorToBeAbleToEditEssayQuestions">
+        <assessmentname>Assessment_Name_IT1_Epic2_90</assessmentname>
+        <questiontext>Question_Text_IT1_Epic2_90</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic2.AllowEditingOfQuestionsForAssignmentsInDraftStatus" index ="97" method="instructorToBeAbleToEditLabelAnImageTextQuestions">
+        <assessmentname>Assessment_Name_IT1_Epic2_97</assessmentname>
+        <questiontext>Question_Text_IT1_Epic2_97</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic2.AllowEditingOfQuestionsForAssignmentsInDraftStatus" index ="104" method="instructorToBeAbleToEditLabelAnImageDropDownQuestions">
+        <assessmentname>Assessment_Name_IT1_Epic2_104assessment</assessmentname>
+        <questiontext>Question_Text_IT1_Epic2_104assessment</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic2.AllowEditingOfQuestionsForAssignmentsInDraftStatus" index ="111" method="instructorToBeAbleToEditResequenceQuestions">
+        <assessmentname>Assessment_Name_IT1_Epic2_111</assessmentname>
+        <questiontext>Question_Text_IT1_Epic2_111</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic2.AllowEditingOfQuestionsForAssignmentsInDraftStatus" index ="118" method="instructorToBeAbleToEditClozeMatrixQuestions">
+        <assessmentname>Assessment_Name_IT1_Epic2_118</assessmentname>
+        <questiontext>Question_Text_IT1_Epic2_118</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic2.AllowEditingOfQuestionsForAssignmentsInDraftStatus" index ="125" method="instructorToBeAbleToEditGraphPlotterQuestions">
+        <assessmentname>Assessment_Name_IT1_Epic2_125</assessmentname>
+        <questiontext>Question_Text_IT1_Epic2_125</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic2.AllowEditingOfQuestionsForAssignmentsInDraftStatus" index ="200" method="instructorToBeAbleToClickPreviewTextDropdownQuestions">
+        <assessmentname>Assessment_Name_IT1_Epic2_200</assessmentname>
+        <questiontext>Question_Text_IT1_Epic2_200</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic2.AllowEditingOfQuestionsForAssignmentsInDraftStatus" index ="212" method="instructorToBeAbleToClickPreviewNumericEntryWithUnitsQuestions">
+        <assessmentname>Assessment_Name_IT1_Epic2_212</assessmentname>
+        <questiontext>Question_Text_IT1_Epic2_212</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic2.AllowEditingOfQuestionsForAssignmentsInDraftStatus" index ="224" method="instructorToBeAbleToClickPreviewAdvancedNumericQuestions">
+        <assessmentname>Assessment_Name_IT1_Epic2_224</assessmentname>
+        <questiontext>Question_Text_IT1_Epic2_224</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic2.AllowEditingOfQuestionsForAssignmentsInDraftStatus" index ="236" method="instructorToBeAbleToClickPreviewExpressionEvaluatorQuestions">
+        <assessmentname>Assessment_Name_IT1_Epic2_236</assessmentname>
+        <questiontext>Question_Text_IT1_Epic2_236</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+
+
+</edulastic>
+
+

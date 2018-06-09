@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edulastic>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.profilepage.InstructorAbleToSignUp" index ="1" method="instructorAbleToSignUp">
+        <grade>Grade 1</grade>
+        <subjectArea>Mathematics</subjectArea>
+        <subject>Math - Common Core</subject>
+        <firstname>Aathelakshmi</firstname>
+        <lastname>MathanKumar</lastname>
+        <email>mathan631</email>
+        <schoolName>SVHS11</schoolName>
+        <editedemail>mathan831</editedemail>
+        <editedfirstname>Sumita</editedfirstname>
+        <editedlastname>Chak</editedlastname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.profilepage.InstructorAbleToSignUp" index ="6" method="instructorAbleToViewAndUpdateProfileDetails">
+        <academicinterest>Academic interest</academicinterest>
+        <awards>Awards list</awards>
+        <societies>societies list</societies>
+        <editedacademicinterest>Edited Academic interest</editedacademicinterest>
+        <editedawards>Edited Awards list</editedawards>
+        <editedsocieties>Edited societies list</editedsocieties>
+        <editedemail>instructorAbleToViewAndUpdateProfileDetails6_832@gmail.com</editedemail>
+        <editedfirstname>Sumita</editedfirstname>
+        <editedlastname>Chak</editedlastname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.profilepage.InstructorAbleToSignUp" index ="12" method="instructorAbleToCancelTheEditedPortion">
+        <academicinterest>Academic interest</academicinterest>
+        <awards>Awards list</awards>
+        <societies>societies list</societies>
+        <editedacademicinterest>Edited Academic interest</editedacademicinterest>
+        <editedawards>Edited Awards list</editedawards>
+        <editedsocieties>Edited societies list</editedsocieties>
+        <editedemail>instructorAbleToCancelTheEditedPortion12_832@gmail.com</editedemail>
+        <editedfirstname>Sumita</editedfirstname>
+        <editedlastname>Chak</editedlastname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.profilepage.InstructorAbleToSignUp" index ="17" method="instructorAbleToChangeProfilePic">
+        <filename>img.png</filename>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.profilepage.StudentAbleToEditProfile" index ="20" method="studentAbleToEditProfile">
+        <firstname>Aathelakshmi</firstname>
+        <lastname>MathanKumar</lastname>
+        <email>studentAbleToEditProfile_20@gmail.com</email>
+        <favoritesubject>Maths</favoritesubject>
+        <editedemail>EditedstudentAbleToEditProfile_20@gmail.com</editedemail>
+        <editedfirstname>Mukesh</editedfirstname>
+        <editedlastname>Singh</editedlastname>
+        <editedfavoritesubject>Science</editedfavoritesubject>
+    </testcase>
+</edulastic>

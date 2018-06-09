@@ -1,0 +1,760 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.InstructorShouldRemoveQuestionsFromAssignment" index="10" method="instructorShouldRemoveQuestionsFromAssignment" >
+        <context_id>studcontext_IT18_R1818_10</context_id>
+        <context_title>studtitle_IT18_R1818_10</context_title>
+        <assessmentname>10 Assessment</assessmentname>
+        <questionset>10 Question Set</questionset>
+        <questiontext>10 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <name>New Name</name>
+        <shareWithInitialString>studtitle_IT18_R1818_10</shareWithInitialString>
+        <shareName>studtitle_IT18_R1818_10</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <customassignmentname>New Name</customassignmentname>
+        <name2>New Name 2</name2>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <user_id>instructor_IT1818_10</user_id>
+        <Role>instructor</Role>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.InstructorShouldRemoveQuestionsFromAssignment" index="38" method="deleteOptionIfGradesAreReleasedForOneStudentWithPolicyOptionOne" >
+        <user_id>instructor_IT1818_38</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT18_R1818_38</context_id>
+        <context_title>studtitle38</context_title>
+        <assignmentpolicyname>Policy38</assignmentpolicyname>
+        <assessmentname>Assignment_IT18_38_1</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_38</questionset>
+        <questiontext>Test Question for IT18_38</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle38</shareWithInitialString>
+        <shareName>studtitle38</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy38</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>givenname family</studentname>
+        <grade>0.1</grade>>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.InstructorShouldRemoveQuestionsFromAssignment" index="38_1" method="deleteOptionIfGradesAreReleasedForOneStudentWithPolicyOptionOne" >
+        <user_id>student_IT1818_38_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1818_38</context_id>
+        <context_title>studtitle38</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.InstructorShouldRemoveQuestionsFromAssignment" index="38_2" method="deleteOptionIfGradesAreReleasedForOneStudentWithPolicyOptionOne" >
+        <user_id>student_IT1818_38_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1818_38</context_id>
+        <context_title>studtitle38</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.InstructorShouldRemoveQuestionsFromAssignment" index="39" method="deleteOptionIfGradesAreReleasedForOneStudentWithPolicyOptionThree" >
+        <user_id>instructor_IT1818_39</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT18_R1818_39_1</context_id>
+        <context_title>studtitle39_1</context_title>
+        <assignmentpolicyname>Policy39</assignmentpolicyname>
+        <assessmentname>Assignment_IT18_39_1</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_39</questionset>
+        <questiontext>Test Question for IT18_39</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle39_1</shareWithInitialString>
+        <shareName>studtitle39_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy39</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>givenname family</studentname>
+        <grade>0.1</grade>>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.InstructorShouldRemoveQuestionsFromAssignment" index="39_1" method="deleteOptionIfGradesAreReleasedForOneStudentWithPolicyOptionThree" >
+        <user_id>student_IT1818_39_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1818_39_1</context_id>
+        <context_title>studtitle39_1</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.InstructorShouldRemoveQuestionsFromAssignment" index="39_2" method="deleteOptionIfGradesAreReleasedForOneStudentWithPolicyOptionThree" >
+        <user_id>student_IT1818_39_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1818_39_1</context_id>
+        <context_title>studtitle39_1</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.InstructorShouldRemoveQuestionsFromAssignment" index="40" method="allTheStudentsHaveSubmittedTheGradableAssignment" >
+        <assessmentname>New Name</assessmentname>
+        <questionset>40 Question Set</questionset>
+        <questiontext>40 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <name>New Name</name>
+        <shareWithInitialString>studtitle_IT18_R1818_40_1</shareWithInitialString>
+        <shareName>studtitle_IT18_R1818_40_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <customassignmentname>New Name</customassignmentname>
+        <name2>New Name 2</name2>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <user_id>instructor_IT1818_40</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT18_R1818_40_1</context_id>
+        <context_title>studtitle_IT18_R1818_40_1</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.InstructorShouldRemoveQuestionsFromAssignment" index="40_1" method="allTheStudentsHaveSubmittedTheGradableAssignment" >
+        <user_id>student_IT1818_40_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1818_40_1</context_id>
+        <context_title>studtitle_IT18_R1818_40_1</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.InstructorShouldRemoveQuestionsFromAssignment" index="40_2" method="allTheStudentsHaveSubmittedTheGradableAssignment" >
+        <user_id>student_IT1818_40_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1818_40_1</context_id>
+        <context_title>studtitle_IT18_R1818_40_1</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.InstructorShouldAbleToViewTheAssignment" index="42" method="iShouldAbleToViewTheAssignmentWithTheRemovedQuestions" >
+        <user_id>instructor_IT1818_42</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT18_R1818_42</context_id>
+        <context_title>studtitle_IT18_R1818_42</context_title>
+        <assessmentname>42 Assessment</assessmentname>
+        <questionset>42 Question Set</questionset>
+        <questiontext>42 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <name>New Name</name>
+        <shareWithInitialString>studtitle_IT18_R1818_42</shareWithInitialString>
+        <shareName>studtitle_IT18_R1818_42</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <customassignmentname>New Name</customassignmentname>
+        <name2>New Name 2</name2>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>true</searchquestion>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.InstructorShouldAbleToViewTheAssignment" index="421" method="iShouldAbleToViewTheAssignmentWithTheRemovedQuestions" >
+        <user_id>instructor_IT1818_42</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT18_R1818_42</context_id>
+        <context_title>studtitle_IT18_R1818_42</context_title>
+        <assessmentname>42 Assessment</assessmentname>
+        <questionset>42 Question Set</questionset>
+        <questiontext>42 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <name>New Name - V1</name>
+        <shareWithInitialString>studtitle_IT18_R1818_42</shareWithInitialString>
+        <shareName>studtitle_IT18_R1818_42</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <customassignmentname>New Name - V1</customassignmentname>
+        <name2>New Name 2</name2>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>true</searchquestion>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.InstructorShouldAbleToViewTheAssignment" index="51" method="anyStudentHasAccessedTheAssignmentBeforeDelete" >
+        <user_id>instructor_IT1818_51_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT18_R1818_51_2</context_id>
+        <context_title>studtitle_IT18_R1818_51_2</context_title>
+        <assessmentname>New Name</assessmentname>
+        <questionset>51 Question Set</questionset>
+        <questiontext>51 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <name>New Name</name>
+        <shareWithInitialString>studtitle_IT18_R1818_51_2</shareWithInitialString>
+        <shareName>studtitle_IT18_R1818_51_2</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <customassignmentname>New Name</customassignmentname>
+        <name2>New Name 2</name2>
+        <noOfQuestions>4</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <studentname>givenname family</studentname>
+        <grade>0.8</grade>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.InstructorShouldAbleToViewTheAssignment" index="55" method="anyStudentHasAccessedTheAssignmentBeforeDelete" >
+        <user_id>student_IT1818_55</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1818_51_2</context_id>
+        <context_title>studtitle_IT18_R1818_51_2</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.InstructorShouldAbleToViewTheAssignment" index="65" method="questionIsDeletedAfterSomeStudentsHaveAttempted" >
+        <user_id>instructor_IT1818_65</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT18_R1818_65</context_id>
+        <context_title>studtitle_IT18_R1818_65</context_title>
+        <assessmentname>65 New Name_IT1818</assessmentname>
+        <questionset>65 Question Set</questionset>
+        <questiontext>65 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <name>New Name</name>
+        <shareWithInitialString>studtitle_IT18_R1818_65</shareWithInitialString>
+        <shareName>studtitle_IT18_R1818_65</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <customassignmentname>65 New Name_IT1818</customassignmentname>
+        <name2>New Name 2</name2>
+        <noOfQuestions>3</noOfQuestions>
+        <searchquestion>True False 65</searchquestion>
+        <studentname>givenname family</studentname>
+        <grade>0.8</grade>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.InstructorShouldAbleToViewTheAssignment" index="65_1" method="questionIsDeletedAfterSomeStudentsHaveAttempted" >
+        <user_id>student_IT1818_65_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1818_65</context_id>
+        <context_title>studtitle_IT18_R1818_65</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.InstructorShouldAbleToViewTheAssignment" index="65_2" method="anyStudentHasAccessedTheAssignmentBeforeDelete" >
+        <user_id>student_IT1818_65_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1818_65</context_id>
+        <context_title>studtitle_IT18_R1818_65</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.InstructorShouldAbleToViewTheAssignment" index="65_3" method="questionIsDeletedAfterSomeStudentsHaveAttempted" >
+        <user_id>student_IT1818_65_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1818_65</context_id>
+        <context_title>studtitle_IT18_R1818_65</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.InstructorShouldAbleToViewTheAssignment" index="65_4" method="questionIsDeletedAfterSomeStudentsHaveAttempted" >
+        <user_id>student_IT1818_65_4</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1818_65</context_id>
+        <context_title>studtitle_IT18_R1818_65</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.InstructorShouldAbleToViewTheAssignment" index="99" method="anyStudentHasAccessedTheAssignmentBeforeDelete" >
+        <user_id>instructor_IT1818_99</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT18_R1818_99</context_id>
+        <context_title>studtitle_IT18_R1818_99</context_title>
+        <assessmentname>New Name</assessmentname>
+        <questionset>99 Question Set</questionset>
+        <questiontext>99 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <name>New Name</name>
+        <shareWithInitialString>studtitle_IT18_R1818_99</shareWithInitialString>
+        <shareName>studtitle_IT18_R1818_99</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <customassignmentname>New Name</customassignmentname>
+        <name2>New Name 2</name2>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <studentname>givenname family</studentname>
+        <grade>0.8</grade>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.InstructorShouldAbleToViewTheAssignment" index="99_1" method="courseStreamEntryForDiscussionAddedToDeletedQuestion" >
+        <user_id>student_IT1818_99_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1818_99</context_id>
+        <context_title>studtitle_IT18_R1818_99</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.InstructorShouldAbleToViewTheAssignment" index="99_2" method="courseStreamEntryForDiscussionAddedToDeletedQuestion" >
+        <user_id>student_IT1818_99_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1818_99</context_id>
+        <context_title>studtitle_IT18_R1818_99</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.InstructorShouldAbleToViewTheAssignment" index="100" method="proficiencyReportForDeletedQuestion" >
+        <user_id>instructor_IT1818_100</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT18_R1818_100</context_id>
+        <context_title>studtitle_IT18_R1818_100</context_title>
+        <assessmentname>New Name</assessmentname>
+        <questionset>100 Question Set</questionset>
+        <questiontext>100 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <name>New Name</name>
+        <shareWithInitialString>studtitle_IT18_R1818_100</shareWithInitialString>
+        <shareName>studtitle_IT18_R1818_100</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <customassignmentname>New Name</customassignmentname>
+        <name2>New Name 2</name2>
+        <noOfQuestions>15</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <studentname>givenname family</studentname>
+        <grade>0.8</grade>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.InstructorShouldAbleToViewTheAssignment" index="100_1" method="proficiencyReportForDeletedQuestion" >
+        <user_id>student_IT1818_100_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1818_100</context_id>
+        <context_title>studtitle_IT18_R1818_100</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.InstructorShouldAbleToViewTheAssignment" index="100_2" method="proficiencyReportForDeletedQuestion" >
+        <user_id>student_IT1818_100_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1818_100</context_id>
+        <context_title>studtitle_IT18_R1818_100</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.InstructorShouldAbleToViewTheAssignment" index="101" method="assignmentWithPolicyHavingGradeReleaseOption1" >
+        <user_id>instructor_IT1818_101</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT18_R1818_101_1</context_id>
+        <context_title>studtitle_IT18_R1818_101_1</context_title>
+        <assignmentpolicyname>Policy101</assignmentpolicyname>
+        <assignmentpolicy>Policy101</assignmentpolicy>
+        <assessmentname>New Name</assessmentname>
+        <questionset>101 Question Set</questionset>
+        <questiontext>101 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <name>New Name</name>
+        <shareWithInitialString>studtitle_IT18_R1818_101_1</shareWithInitialString>
+        <shareName>studtitle_IT18_R1818_101_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <customassignmentname>New Name</customassignmentname>
+        <name2>New Name 2</name2>
+        <noOfQuestions>3</noOfQuestions>
+        <searchquestion>True False 101</searchquestion>
+        <studentname>givenname family</studentname>
+        <grade>0.8</grade>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.InstructorShouldAbleToViewTheAssignment" index="101_1" method="assignmentWithPolicyHavingGradeReleaseOption1" >
+        <user_id>student_IT1818_101_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1818_101_1</context_id>
+        <context_title>studtitle_IT18_R1818_101_1</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.InstructorShouldAbleToViewTheAssignment" index="101_2" method="assignmentWithPolicyHavingGradeReleaseOption1" >
+        <user_id>student_IT1818_101_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1818_101_1</context_id>
+        <context_title>studtitle_IT18_R1818_101_1</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.InstructorShouldAbleToViewTheAssignment" index="109" method="assignmentWithPolicyHavingGradeReleaseOption3" >
+        <user_id>instructor_IT1818_109_1111</user_id>
+        <Role>instructor</Role>
+        <course>Science 8 - Bio Principles</course>
+        <context_id>studcontext_IT18_R1818_109_3</context_id>
+        <context_title>studtitle_IT18_R1818_109_3</context_title>
+        <assignmentpolicyname>Policy111</assignmentpolicyname>
+        <assignmentpolicy>Policy111</assignmentpolicy>
+        <assessmentname>New Name</assessmentname>
+        <questionset>109 Question Set</questionset>
+        <questiontext>109 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <name>New Name</name>
+        <shareWithInitialString>studtitle_IT18_R1818_109_3</shareWithInitialString>
+        <shareName>studtitle_IT18_R1818_109_3</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <customassignmentname>New Name</customassignmentname>
+        <name2>New Name 2</name2>
+        <noOfQuestions>3</noOfQuestions>
+        <searchquestion>True False 109</searchquestion>
+        <studentname>givenname family</studentname>
+        <grade>0.8</grade>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.InstructorShouldAbleToViewTheAssignment" index="109_1" method="assignmentWithPolicyHavingGradeReleaseOption3" >
+        <user_id>student_IT1818_109_1_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1818_109_3</context_id>
+        <context_title>studtitle_IT18_R1818_109_3</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.InstructorShouldAbleToViewTheAssignment" index="109_2" method="assignmentWithPolicyHavingGradeReleaseOption3" >
+        <user_id>student_IT1818_109_2_4</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1818_109_3</context_id>
+        <context_title>studtitle_IT18_R1818_109_3</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.InstructorShouldAbleToViewTheAssignment" index="109_3" method="assignmentWithPolicyHavingGradeReleaseOption3" >
+        <user_id>student_IT1818_109_3_5</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1818_109_3</context_id>
+        <context_title>studtitle_IT18_R1818_109_3</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.InstructorShouldAbleToViewTheAssignment" index="113" method="assignmentWithPolicyHavingGradeReleaseOption4" >
+        <user_id>instructor_IT1818_113</user_id>
+        <Role>instructor</Role>
+        <course>Science 8 - Bio Principles</course>
+        <context_id>studcontext_IT18_R1818_113</context_id>
+        <context_title>studtitle_IT18_R1818_113</context_title>
+        <assignmentpolicyname>Policy113</assignmentpolicyname>
+        <assignmentpolicy>Policy113</assignmentpolicy>
+        <assessmentname>New Name</assessmentname>
+        <questionset>113 Question Set</questionset>
+        <questiontext>113 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <name>New Name</name>
+        <shareWithInitialString>studtitle_IT18_R1818_113</shareWithInitialString>
+        <shareName>studtitle_IT18_R1818_113</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <customassignmentname>New Name</customassignmentname>
+        <name2>New Name 2</name2>
+        <noOfQuestions>3</noOfQuestions>
+        <searchquestion>True False 113</searchquestion>
+        <studentname>givenname family</studentname>
+        <grade>0.8</grade>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.InstructorShouldAbleToViewTheAssignment" index="113_1" method="assignmentWithPolicyHavingGradeReleaseOption4" >
+        <user_id>student_IT1818_113_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1818_113</context_id>
+        <context_title>studtitle_IT18_R1818_113</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.InstructorShouldAbleToViewTheAssignment" index="113_2" method="assignmentWithPolicyHavingGradeReleaseOption4" >
+        <user_id>student_IT1818_113_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1818_113</context_id>
+        <context_title>studtitle_IT18_R1818_113</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.InstructorShouldAbleToViewTheAssignment" index="113_3" method="assignmentWithPolicyHavingGradeReleaseOption4" >
+        <user_id>student_IT1818_113_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1818_113</context_id>
+        <context_title>studtitle_IT18_R1818_113</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.InstructorShouldAbleToViewTheAssignment" index="116" method="questionIsDeletedAfterSomeStudentsHaveAttemptedTheTtoBeDeletedQuestiont" >
+        <user_id>instructor_IT1818_116</user_id>
+        <Role>instructor</Role>
+        <course>Science 8 - Bio Principles</course>
+        <context_id>studcontext_IT18_R1818_116</context_id>
+        <context_title>studtitle_IT18_R1818_116</context_title>
+        <assessmentname>New Name</assessmentname>
+        <questionset>116 Question Set</questionset>
+        <questiontext>116 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <name>New Name</name>
+        <shareWithInitialString>studtitle_IT18_R1818_116</shareWithInitialString>
+        <shareName>studtitle_IT18_R1818_116</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <customassignmentname>New Name</customassignmentname>
+        <name2>New Name 2</name2>
+        <noOfQuestions>3</noOfQuestions>
+        <searchquestion>True False 116</searchquestion>
+        <studentname>givenname family</studentname>
+        <grade>0.8</grade>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.InstructorShouldAbleToViewTheAssignment" index="116_1" method="questionIsDeletedAfterSomeStudentsHaveAttemptedTheTtoBeDeletedQuestiont" >
+        <user_id>student_IT1818_116_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1818_116</context_id>
+        <context_title>studtitle_IT18_R1818_116</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.InstructorShouldAbleToViewTheAssignment" index="116_2" method="questionIsDeletedAfterSomeStudentsHaveAttemptedTheTtoBeDeletedQuestiont" >
+        <user_id>student_IT1818_116_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1818_116</context_id>
+        <context_title>studtitle_IT18_R1818_116</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.InstructorShouldAbleToViewTheAssignment" index="116_3" method="questionIsDeletedAfterSomeStudentsHaveAttemptedTheTtoBeDeletedQuestiont" >
+        <user_id>student_IT1818_116_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1818_116</context_id>
+        <context_title>studtitle_IT18_R1818_116</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.ViewTheAssignmentWithTheRemovedQuestions" index="141" method="ViewTheAssignmentWithTheRemovedQuestions" >
+        <user_id>instructor_IT1818_141</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT18_R1818_141_1</context_id>
+        <context_title>studtitle_IT18_R1818_141_1</context_title>
+        <course>Science 8 - Bio Principles</course>
+        <assessmentname>New Name 141</assessmentname>
+        <questionset>141 Question Set</questionset>
+        <questiontext>141 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <name>New Name 141</name>
+        <shareWithInitialString>studtitle_IT18_R1818_141_1</shareWithInitialString>
+        <shareName>studtitle_IT18_R1818_141_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <customassignmentname>New Name 141</customassignmentname>
+        <name2>New Name 2</name2>
+        <noOfQuestions>3</noOfQuestions>
+        <searchquestion>True False 141</searchquestion>
+        <studentname>givenname family</studentname>
+        <grade>0.8</grade>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.ViewTheAssignmentWithTheRemovedQuestions" index="141_1" method="ViewTheAssignmentWithTheRemovedQuestions" >
+        <user_id>student_IT1818_141_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1818_141_1</context_id>
+        <context_title>studtitle_IT18_R1818_141_1</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.ViewTheAssignmentWithTheRemovedQuestions" index="141_2" method="ViewTheAssignmentWithTheRemovedQuestions" >
+        <user_id>student_IT1818_141_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1818_141_1</context_id>
+        <context_title>studtitle_IT18_R1818_141_1</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.ViewTheAssignmentWithTheRemovedQuestions" index="141_3" method="ViewTheAssignmentWithTheRemovedQuestions" >
+        <user_id>student_IT1818_141_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1818_141_1</context_id>
+        <context_title>studtitle_IT18_R1818_141_1</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.ViewTheAssignmentWithTheRemovedQuestions" index="141_4" method="ViewTheAssignmentWithTheRemovedQuestions" >
+        <user_id>student_IT1818_141_4</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1818_141_1</context_id>
+        <context_title>studtitle_IT18_R1818_141_1</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.ViewTheAssignmentWithTheRemovedQuestions" index="192" method="ViewTheAssignmentWithTheRemovedQuestionsNonGradable" >
+        <user_id>instructor_IT1818_192_194</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT18_R1818_192_5</context_id>
+        <context_title>studtitle_IT18_R1818_192_5</context_title>
+        <course>Science 8 - Bio Principles</course>
+        <assessmentname>New Name 192</assessmentname>
+        <questionset>192 Question Set</questionset>
+        <questiontext>192 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <name>New Name 192</name>
+        <shareWithInitialString>studtitle_IT18_R1818_192_5</shareWithInitialString>
+        <shareName>studtitle_IT18_R1818_192_5</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <customassignmentname>New Name 192</customassignmentname>
+        <name2>New Name 2</name2>
+        <noOfQuestions>14</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <studentname>givenname family</studentname>
+        <grade>0.8</grade>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.ViewTheAssignmentWithTheRemovedQuestions" index="192_1" method="ViewTheAssignmentWithTheRemovedQuestionsNonGradable" >
+        <user_id>student_IT1818_192_1_194</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1818_192_5</context_id>
+        <context_title>studtitle_IT18_R1818_192_5</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.ViewTheAssignmentWithTheRemovedQuestions" index="192_2" method="ViewTheAssignmentWithTheRemovedQuestionsNonGradable" >
+        <user_id>student_IT1818_192_2_194</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1818_192_5</context_id>
+        <context_title>studtitle_IT18_R1818_192_5</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.ViewTheAssignmentWithTheRemovedQuestions" index="192_3" method="ViewTheAssignmentWithTheRemovedQuestionsNonGradable" >
+        <user_id>student_IT1818_192_3_194</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1818_192_5</context_id>
+        <context_title>studtitle_IT18_R1818_192_5</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.ViewTheAssignmentWithTheRemovedQuestions" index="227" method="courseStreamEntryForDiscussionAddedToDeletedQuestion" >
+        <user_id>instructor_IT1818_227</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT18_R1818_227</context_id>
+        <context_title>studtitle_IT18_R1818_227</context_title>
+        <course>Science 8 - Bio Principles</course>
+        <assessmentname>New Name 227</assessmentname>
+        <questionset>227 Question Set</questionset>
+        <questiontext>227 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <name>New Name 227</name>
+        <shareWithInitialString>studtitle_IT18_R1818_227</shareWithInitialString>
+        <shareName>studtitle_IT18_R1818_227</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <customassignmentname>New Name 227</customassignmentname>
+        <name2>New Name 2</name2>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <studentname>givenname family</studentname>
+        <grade>0.8</grade>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.ViewTheAssignmentWithTheRemovedQuestions" index="227_1" method="courseStreamEntryForDiscussionAddedToDeletedQuestion" >
+        <user_id>student_IT1818_227_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1818_227</context_id>
+        <context_title>studtitle_IT18_R1818_227</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.ViewTheAssignmentWithTheRemovedQuestions" index="227_2" method="courseStreamEntryForDiscussionAddedToDeletedQuestion" >
+        <user_id>student_IT1818_227_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1818_227</context_id>
+        <context_title>studtitle_IT18_R1818_227</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.ViewTheAssignmentWithTheRemovedQuestions" index="229" method="discussionEntryOverMyActivity" >
+        <user_id>instructor_IT1818_229</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT18_R1818_229</context_id>
+        <context_title>studtitle_IT18_R1818_229</context_title>
+        <course>Science 8 - Bio Principles</course>
+        <assessmentname>New Name 229</assessmentname>
+        <questionset>229 Question Set</questionset>
+        <questiontext>229 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <name>New Name 229</name>
+        <shareWithInitialString>studtitle_IT18_R1818_229</shareWithInitialString>
+        <shareName>studtitle_IT18_R1818_229</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <customassignmentname>New Name 229</customassignmentname>
+        <name2>New Name 2</name2>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>true false</searchquestion>
+        <studentname>givenname family</studentname>
+        <grade>0.8</grade>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.ViewTheAssignmentWithTheRemovedQuestions" index="229_1" method="discussionEntryOverMyActivity" >
+        <user_id>student_IT1818_229_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1818_229</context_id>
+        <context_title>studtitle_IT18_R1818_229</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.ViewTheAssignmentWithTheRemovedQuestions" index="229_2" method="discussionEntryOverMyActivity" >
+        <user_id>student_IT1818_229_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1818_229</context_id>
+        <context_title>studtitle_IT18_R1818_229</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.AssignmentLinkedToStaticAssessment" index="231" method="instructorShouldAssignTheAssignmentsLinkedToStaticAssessment" >
+        <context_id>studcontext_IT18_R1818_231</context_id>
+        <context_title>studtitle_IT18_R1818_231</context_title>
+        <assessmentname>231 Assessment</assessmentname>
+        <questionset>231 Question Set</questionset>
+        <questiontext>231 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <name>New Name</name>
+        <shareWithInitialString>studtitle_IT18_R1818_231</shareWithInitialString>
+        <shareName>studtitle_IT18_R1818_231</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <customassignmentname>New Name</customassignmentname>
+        <name2>New Name 2</name2>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <user_id>instructor_IT1818_231</user_id>
+        <Role>instructor</Role>
+    </testcase>
+
+
+</learningspaces>

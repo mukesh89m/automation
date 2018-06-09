@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1431.UserAbleToSeeVisualIndicatorForDirectCourseStreamEntries" index="2_1" method="userAbleToSeeVisualIndicatorForDirectCourseStreamEntries">
+		<user_id>IT14_R14_31_Stu_2_1</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1431_2_1</context_id>
+		<context_title>studtitleR1431_2_1</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1431.UserAbleToSeeVisualIndicatorForDirectCourseStreamEntries" index="2_2" method="userAbleToSeeVisualIndicatorForDirectCourseStreamEntries">
+		<user_id>IT14_R14_31_Stu_2_2</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1431_2_1</context_id>
+		<context_title>studtitleR1431_2_1</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1431.UserAbleToSeeVisualIndicatorForDirectCourseStreamEntries" index="2" method="userAbleToSeeVisualIndicatorForDirectCourseStreamEntries">
+		<user_id>IT14_R14_31_Ins_2</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR1431_2_1</context_id>
+		<context_title>studtitleR1431_2_1</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1431.UserAbleToSeeVisualIndicatorForDirectCourseStreamEntries" index="11_1" method="addingCommentToDirectCourseStreamEntries">
+		<user_id>IT14_R14_31_Stu_11_1</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1431_11_1</context_id>
+		<context_title>studtitleR1431_11_1</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1431.UserAbleToSeeVisualIndicatorForDirectCourseStreamEntries" index="11_2" method="addingCommentToDirectCourseStreamEntries">
+		<user_id>IT14_R14_31_Stu_11_11</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1431_11_1</context_id>
+		<context_title>studtitleR1431_11_1</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1431.UserAbleToSeeVisualIndicatorForDirectCourseStreamEntries" index="11" method="addingCommentToDirectCourseStreamEntries">
+		<user_id>IT14_R14_31_Ins_11</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR1431_11_1</context_id>
+		<context_title>studtitleR1431_11_1</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1431.VerifyVisualIndicatorForIndirectCourseStreamEntry" index="20" method="verifyVisualIndicatorForAddingDiscussion">
+		<user_id>IT14_R14_31_Ins_20</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR1431_20</context_id>
+		<context_title>studtitleR1431_20</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1431.VerifyVisualIndicatorForIndirectCourseStreamEntry" index="20_1" method="verifyVisualIndicatorForAddingDiscussion">
+		<user_id>IT14_R14_31_Stu_20_20</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1431_20</context_id>
+		<context_title>studtitleR1431_20</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1431.VerifyVisualIndicatorForIndirectCourseStreamEntry" index="20_2" method="verifyVisualIndicatorForAddingDiscussion">
+		<user_id>IT14_R14_31_Stu_20_20_2</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1431_20</context_id>
+		<context_title>studtitleR1431_20</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1431.VerifyVisualIndicatorForIndirectCourseStreamEntry" index="21" method="verifyVisualIndicatorForAddingDiscussionOnLessonText">
+		<user_id>IT14_R14_31_Ins_21</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR1431_21</context_id>
+		<context_title>studtitleR1431_21</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1431.VerifyVisualIndicatorForIndirectCourseStreamEntry" index="21_1" method="verifyVisualIndicatorForAddingDiscussionOnLessonText">
+		<user_id>IT14_R14_31_Stu_21_1</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1431_21</context_id>
+		<context_title>studtitleR1431_21</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1431.VerifyVisualIndicatorForIndirectCourseStreamEntry" index="21_2" method="verifyVisualIndicatorForAddingDiscussionOnLessonText">
+		<user_id>IT14_R14_31_Stu_21_2</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1431_21</context_id>
+		<context_title>studtitleR1431_21</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1431.VerifyVisualIndicatorForIndirectCourseStreamEntry" index="22" method="verifyVisualIndicatorForLikingWidget">
+		<user_id>IT14_R14_31_Ins_22</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR1431_22</context_id>
+		<context_title>studtitleR1431_22</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1431.VerifyVisualIndicatorForIndirectCourseStreamEntry" index="22_1" method="verifyVisualIndicatorForLikingWidget">
+		<user_id>IT14_R14_31_Stu_22_1</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1431_22</context_id>
+		<context_title>studtitleR1431_22</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1431.VerifyVisualIndicatorForIndirectCourseStreamEntry" index="22_2" method="verifyVisualIndicatorForLikingWidget">
+		<user_id>IT14_R14_31_Stu_22_2</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1431_22</context_id>
+		<context_title>studtitleR1431_22</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1431.VerifyVisualIndicatorForIndirectCourseStreamEntry" index="23" method="verifyVisualIndicatorForLikingDW">
+		<user_id>IT14_R14_31_Ins_23</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR1431_23</context_id>
+		<context_title>studtitleR1431_23</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1431.VerifyVisualIndicatorForIndirectCourseStreamEntry" index="23_1" method="verifyVisualIndicatorForLikingDW">
+		<user_id>IT14_R14_31_Stu_23_1</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1431_23</context_id>
+		<context_title>studtitleR1431_23</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1431.VerifyVisualIndicatorForIndirectCourseStreamEntry" index="23_2" method="verifyVisualIndicatorForLikingDW">
+		<user_id>IT14_R14_31_Stu_23_2</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1431_23</context_id>
+		<context_title>studtitleR1431_23</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1431.VerifyVisualIndicatorForIndirectCourseStreamEntry" index="24" method="verifyVisualIndicatorForAddingPerspectiveToDW">
+		<user_id>IT14_R14_31_Inst_24</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR1431_24_1</context_id>
+		<context_title>studtitleR1431_24_1</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1431.VerifyVisualIndicatorForIndirectCourseStreamEntry" index="24_1" method="verifyVisualIndicatorForAddingPerspectiveToDW">
+		<user_id>IT14_R14_31_Stude_24_1</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1431_24_1</context_id>
+		<context_title>studtitleR1431_24_1</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1431.VerifyVisualIndicatorForIndirectCourseStreamEntry" index="24_2" method="verifyVisualIndicatorForAddingPerspectiveToDW">
+		<user_id>IT14_R14_31_Stude_24_2</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1431_24_1</context_id>
+		<context_title>studtitleR1431_24_1</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1431.VerifyVisualIndicatorForIndirectCourseStreamEntry" index="25" method="verifyVisualIndicatorForLikingResource">
+		<user_id>IT14_R14_31_Instr_25</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR1431_25_1</context_id>
+		<context_title>studtitleR1431_25_1</context_title>
+		<resoursename>Resources_25</resoursename>
+		<type>image</type>
+		<description>its an image</description>
+		<instructoronlyflag>false</instructoronlyflag>
+		<filename>img.png</filename>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1431.VerifyVisualIndicatorForIndirectCourseStreamEntry" index="25_1" method="verifyVisualIndicatorForLikingResource">
+		<user_id>IT14_R14_31_Studen_25_1</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1431_25_1</context_id>
+		<context_title>studtitleR1431_25_1</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1431.VerifyVisualIndicatorForIndirectCourseStreamEntry" index="25_2" method="verifyVisualIndicatorForLikingResource">
+		<user_id>IT14_R14_31_Studen_25_2</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1431_25_1</context_id>
+		<context_title>studtitleR1431_25_1</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1431.VerifyVisualIndicatorForIndirectCourseStreamEntry" index="26" method="verifyVisualIndicatorOnAddingDiscussionAfterCompletionOfDiagTest">
+		<user_id>IT14_R14_31_Instru_26</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR1431_26_2</context_id>
+		<context_title>studtitleR1431_26_2</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1431.VerifyVisualIndicatorForIndirectCourseStreamEntry" index="26_1" method="verifyVisualIndicatorOnAddingDiscussionAfterCompletionOfDiagTest">
+		<user_id>IT14_R14_31_Student_26_1</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1431_26_2</context_id>
+		<context_title>studtitleR1431_26_2</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1431.VerifyVisualIndicatorForIndirectCourseStreamEntry" index="26_2" method="verifyVisualIndicatorOnAddingDiscussionAfterCompletionOfDiagTest">
+		<user_id>IT14_R14_31_Student_26_2</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1431_26_2</context_id>
+		<context_title>studtitleR1431_26_2</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1431.VerifyVisualIndicatorForIndirectCourseStreamEntry" index="27" method="verifyVisualIndicatorOnAddingDiscussionAfterCompletionOfPracticeTest">
+		<user_id>IT14_R14_31_Instru_27</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR1431_27</context_id>
+		<context_title>studtitleR1431_27</context_title>
+		<assessmentname>27 Practice Assessment</assessmentname>
+		<questionset>27 Question Set</questionset>
+		<questiontext>27 Test Question</questiontext>
+		<questiontype>Adaptive Component Practice</questiontype>
+		<assignmentname>27 Practice Assessment</assignmentname>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1431.VerifyVisualIndicatorForIndirectCourseStreamEntry" index="27_1" method="verifyVisualIndicatorOnAddingDiscussionAfterCompletionOfPracticeTest">
+		<user_id>IT14_R14_31_Student_27_1</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1431_27</context_id>
+		<context_title>studtitleR1431_27</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1431.VerifyVisualIndicatorForIndirectCourseStreamEntry" index="27_2" method="verifyVisualIndicatorOnAddingDiscussionAfterCompletionOfPracticeTest">
+		<user_id>IT14_R14_31_Student_27_2</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1431_27</context_id>
+		<context_title>studtitleR1431_27</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1431.VerifyVisualIndicatorForIndirectCourseStreamEntry" index="28" method="verifyVisualIndicatorOnAddingDiscussionAfterCompletionOfStaticTest">
+		<user_id>IT14_R14_31_In_28</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR1431_28</context_id>
+		<context_title>studtitleR1431_28</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1431.VerifyVisualIndicatorForIndirectCourseStreamEntry" index="28_1" method="verifyVisualIndicatorOnAddingDiscussionAfterCompletionOfStaticTest">
+		<user_id>IT14_R14_31_Stu_28_1</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1431_28</context_id>
+		<context_title>studtitleR1431_28</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1431.VerifyVisualIndicatorForIndirectCourseStreamEntry" index="28_2" method="verifyVisualIndicatorOnAddingDiscussionAfterCompletionOfStaticTest">
+		<user_id>IT14_R14_31_Stu_28_2</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1431_28</context_id>
+		<context_title>studtitleR1431_28</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1431.VerifyVisualIndicatorAfterAddingCommentToMakeIndirectCourseStreamEntry" index="41" method="verifyVisualIndicatorAfterAddingCommentToDiscussionOnLessonText">
+		<user_id>IT14_R14_31_Ins_41</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR1431_41_2</context_id>
+		<context_title>studtitleR1431_41_2</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1431.VerifyVisualIndicatorAfterAddingCommentToMakeIndirectCourseStreamEntry" index="41_1" method="verifyVisualIndicatorAfterAddingCommentToDiscussionOnLessonText">
+		<user_id>IT14_R14_31_Stu_41_1</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1431_41_2</context_id>
+		<context_title>studtitleR1431_41_2</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1431.VerifyVisualIndicatorAfterAddingCommentToMakeIndirectCourseStreamEntry" index="42" method="verifyVisualIndicatorAfterAddingCommentToDiscussion">
+		<user_id>IT14_R14_31_Ins_42</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR1431_42</context_id>
+		<context_title>studtitleR1431_42</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1431.VerifyVisualIndicatorAfterAddingCommentToMakeIndirectCourseStreamEntry" index="42_1" method="verifyVisualIndicatorAfterAddingCommentToDiscussion">
+		<user_id>IT14_R14_31_Stu_42_1</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1431_42</context_id>
+		<context_title>studtitleR1431_42</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1431.VerifyVisualIndicatorAfterAddingCommentToMakeIndirectCourseStreamEntry" index="43" method="verifyVisualIndicatorForCommentOnWidget">
+		<user_id>IT14_R14_31_Ins_43</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR1431_43</context_id>
+		<context_title>studtitleR1431_43</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1431.VerifyVisualIndicatorAfterAddingCommentToMakeIndirectCourseStreamEntry" index="43_1" method="verifyVisualIndicatorForCommentOnWidget">
+		<user_id>IT14_R14_31_Stu_43_1</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1431_43</context_id>
+		<context_title>studtitleR1431_43</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1431.VerifyVisualIndicatorAfterAddingCommentToMakeIndirectCourseStreamEntry" index="44" method="verifyVisualIndicatorForCommentDWPerspective">
+		<user_id>IT14_R14_31_Ins_44</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR1441_44</context_id>
+		<context_title>studtitleR1441_44</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1431.VerifyVisualIndicatorAfterAddingCommentToMakeIndirectCourseStreamEntry" index="44_1" method="verifyVisualIndicatorForCommentDWPerspective">
+		<user_id>IT14_R14_31_Stu_44_1</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1441_44</context_id>
+		<context_title>studtitleR1441_44</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1431.VerifyVisualIndicatorAfterAddingCommentToMakeIndirectCourseStreamEntry" index="45" method="verifyVisualIndicatorForCommentToResource">
+		<user_id>IT14_R14_31_Inst_45</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR1451_45_1</context_id>
+		<context_title>studtitleR1451_45_1</context_title>
+		<resoursename>Resources_45</resoursename>
+		<type>image</type>
+		<description>its an image</description>
+		<instructoronlyflag>false</instructoronlyflag>
+		<filename>img.png</filename>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1431.VerifyVisualIndicatorAfterAddingCommentToMakeIndirectCourseStreamEntry" index="45_1" method="verifyVisualIndicatorForCommentToResource">
+		<user_id>IT14_R14_31_Stud_45_1</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1451_45_1</context_id>
+		<context_title>studtitleR1451_45_1</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1431.VerifyVisualIndicatorAfterAddingCommentToMakeIndirectCourseStreamEntry" index="46" method="verifyVisualIndicatorForCommentOnAssignment">
+		<user_id>IT14_R14_31_Ins_46</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR1431_46</context_id>
+		<context_title>studtitleR1431_46</context_title>
+		<assessmentname>46 Assessment</assessmentname>
+		<questionset>46 Question Set</questionset>
+		<questiontext>46Test Question</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>stud</shareWithInitialString>
+		<shareName>studtitleR1431_46</shareName>
+		<shareWithClass>true</shareWithClass>
+		<gradeable>false</gradeable>
+		<gradingpolicy>Grading policy text</gradingpolicy>
+		<duedate>28</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>This is an additional note</additionalnote>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1431.VerifyVisualIndicatorAfterAddingCommentToMakeIndirectCourseStreamEntry" index="46_1" method="verifyVisualIndicatorForCommentOnAssignment">
+		<user_id>IT14_R14_31_Stu_46_1</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1431_46</context_id>
+		<context_title>studtitleR1431_46</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1431.VerifyVisualIndicatorAfterAddingCommentToMakeIndirectCourseStreamEntry" index="47" method="verifyVisualIndicatorForCommentOnDiscussionForDiagTest">
+		<user_id>IT14_R14_31_Ins_47</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR1431_47</context_id>
+		<context_title>studtitleR1431_47</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1431.VerifyVisualIndicatorAfterAddingCommentToMakeIndirectCourseStreamEntry" index="47_1" method="verifyVisualIndicatorForCommentOnDiscussionForDiagTest">
+		<user_id>IT14_R14_31_Stu_47_1</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1431_47</context_id>
+		<context_title>studtitleR1431_47</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1431.VerifyVisualIndicatorAfterAddingCommentToMakeIndirectCourseStreamEntry" index="48" method="verifyVisualIndicatorForCommentOnDiscussionForAdaptivePracticeTest">
+		<user_id>IT14_R14_31_Ins_48</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR1431_48</context_id>
+		<context_title>studtitleR1431_48</context_title>
+		<assessmentname>48 Practice Assessment</assessmentname>
+		<questionset>48 Question Set</questionset>
+		<questiontext>48 Test Question</questiontext>
+		<questiontype>Adaptive Component Practice</questiontype>
+		<assignmentname>48 Practice Assessment</assignmentname>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1431.VerifyVisualIndicatorAfterAddingCommentToMakeIndirectCourseStreamEntry" index="48_1" method="verifyVisualIndicatorForCommentOnDiscussionForAdaptivePracticeTest">
+		<user_id>IT14_R14_31_Stu_48_1</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1431_48</context_id>
+		<context_title>studtitleR1431_48</context_title>
+		<clickNextButton>false</clickNextButton>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1431.VerifyVisualIndicatorAfterAddingCommentToMakeIndirectCourseStreamEntry" index="49" method="verifyVisualIndicatorForCommentOnDiscussionForStaticTest">
+		<user_id>IT14_R14_31_Ins_49</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR1431_49</context_id>
+		<context_title>studtitleR1431_49</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1431.VerifyVisualIndicatorAfterAddingCommentToMakeIndirectCourseStreamEntry" index="49_1" method="verifyVisualIndicatorForCommentOnDiscussionForStaticTest">
+		<user_id>IT14_R14_31_Stu_49_1</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1431_49</context_id>
+		<context_title>studtitleR1431_49</context_title>
+	</testcase>
+</learningspaces>

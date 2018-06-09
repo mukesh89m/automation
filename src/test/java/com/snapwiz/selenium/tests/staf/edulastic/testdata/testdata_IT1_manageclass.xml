@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edulastic>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.manageclass.TeacherAbleToSignUpAndCreateClass" index ="1" method="teacherAbleToSignUpAndCreateClass">
+        <grade>Grade 1</grade>
+        <subjectArea>Mathematics</subjectArea>
+        <subject>Math - Common Core</subject>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.manageclass.EditingClass" index ="15" method="editingClass">
+        <grade>Grade 1</grade>
+        <subjectArea>Mathematics</subjectArea>
+        <subject>Math - Common Core</subject>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.manageclass.InviteStudent" index ="23" method="inviteStudentViaEmail">
+        <studentEmail>build@snapwiz.com</studentEmail>
+    </testcase>
+</edulastic>

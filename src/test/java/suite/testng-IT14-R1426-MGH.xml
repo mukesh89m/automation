@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="R14.26-MGHRegressionSuite" preserve-order="true">
+    <classes>      
+    	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R1426.BookmarkForTheStreamEntries"/>
+    	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R1426.CoursePerformanceIndicatorsForInstructorHavingNoData"/>
+    	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R1426.DashBoardForInstructor"/>
+    	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R1426.InstructorAbleToViewAssignmentActivity"/>
+    	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R1426.InstructorAbleToViewCourseStreamEntries"/>
+    	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R1426.InstructorAbleToViewNavigatorIconInHeader"/>
+    	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R1426.TopTenPercentOfClass"/>
+    	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R1426.VerifyBarGraphInAssignmentTile"/>
+    	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R1426.VerifyCoursePerformanceIndicators"/>        	
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+    <test name="IT18-R18.17_test">
+        <classes>
+            <!-- IT18 R18.17  "As an instructor/mentor, I should be able to un-assign an assignment" -->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1817.InstructorAbleToUnAssignGradableAssignment"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1817.InstructorAbleToUnAssignGradableAssignmentWithPolicy"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1817.GradeReleasedForAtLeastOneStudent"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1817.InstructorAbleToUnAssignNonGradableAssignment"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1817.StudentSubmitNonGradableAssignment"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1817.InstructorUpdateAssignmentAddMoreStudents"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1817.UnAssignLearningActivityAssignment"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1817.LearningActivityAssignmentSubmitted"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1817.UnAssignDWAssignment"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1817.SubmitDWAssignment"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1817.UnAssignResourceAssignment"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1817.AssignmentsAssignedToMultipleClassSection"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1817.MentorAbleToUnAssignGradableAssignment"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1817.MentorAbleToUnAssignGradableAssignmentWithPolicy"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1817.MentorReleasesGradeForAtLeastOneStudent"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1817.MentorAbleToUnAssignNonGradableAssignment"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1817.MentorUpdateAssignmentAddMoreStudents"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1817.MentorUnAssignLearningActivityAssignment"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1817.MentorUnAssignDWAssignment"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1817.MentorAssignmentsAssignedToMultipleClassSection"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="IT_16_R16.9-LSRegressionSuite">
+    <classes>         	
+    	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R169.InstructorAssignWidgetAsLearningActivity"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R169.InstructorAssignmentTabIneTextbook"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R169.FunctionalityOfCustomCreateAssignment"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R169.AssignmentPolicyUIChanges"/>
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->

@@ -1,0 +1,176 @@
+<?xml version="1.0"?>
+<dummies>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.LSShareWithOptionAdditional" index="97"	method="AutoSuggestShareBox">
+		<sharewithlabel>Share With:</sharewithlabel>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.LSShareWithOptionAdditional" index="103"	method="AutoSuggestShareBox">
+		<user_id>stu103</user_id>
+		<Role>student</Role>
+		<familyname>103first</familyname>
+		<givenname>103second</givenname>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.LSShareWithOptionAdditional" index="104"	method="AutoSuggestShareBox">
+		<user_id>stu104</user_id>
+		<Role>student</Role>
+		<familyname>104first</familyname>
+		<givenname>104second</givenname>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.LSPostedADisscussion" index="204" method="DefaultMessage">
+		<texttoverify1>Share your knowledge or seek answers</texttoverify1>
+		<texttoverify2>posted a discussion</texttoverify2>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.SharingAPost" index="209"  method="sharepostwithclasssectionname">
+		<texttoverify>posted a discussion</texttoverify>
+		<classname>studtitle</classname>
+	</testcase>
+ 
+ 	<testcase id="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.SharingAPost" index="210" method="loginstudentwithsameclasssectionverifypostedwithdisscution">
+		<texttoverify>posted a discussion</texttoverify>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.SharingAPost" index="211"	method="loginstudentwithDiffrentclasssectionverifypostedwithdisscution">
+		<context_id>different</context_id>
+		<context_title>diffrent1</context_title>
+		<texttoverify>posted a discussion</texttoverify>
+	</testcase>	
+ 	
+ 	<testcase id="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.SharingAPostWithStudent" index="212" method="AutoSuggestShareBox">
+		<familyname>snapdiffrent1</familyname>
+		<givenname>snapdiff1</givenname>
+		<studentname>snap</studentname>
+		<groupname>stud</groupname>
+		<instructor>inst</instructor>
+		<studentnameverify>snapdiff2 snapdiffrent2</studentnameverify>
+		<texttoverify>posted a discussion</texttoverify>
+	</testcase> 
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.SharingAPostWithStudent" index="213"	method="CheckThePostInSharedStudentProfile">
+		<familyname>snapdiffrent2</familyname>
+		<givenname>snapdiff2</givenname>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.ShareALinkWithClassSection" index="235" method="ShareALinkWithotherClassSection">
+		<user_id>student235</user_id>
+		<Role>student</Role>
+		<context_id>different</context_id>
+		<context_title>diffrent1</context_title>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.FileTabWorking" index="247" method="checkProgressBar">
+		<filename>img.jpg</filename>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.FileTabWorking" index="248" method="checkDefaultText">
+		<filename>img.jpg</filename>
+		<defaulttext>Provide a description for this file</defaulttext>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.FileExtensionSupport" index="254" method="UploadFileWhichNotSupport">
+		<filename>img.exe</filename>
+		<notificationmessage>The file type you are trying to upload is not supported by the product. Please try again.</notificationmessage>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.FileExtensionSupport" index="2541" method="ErrorMsgOffAfter3sec">
+		<filename>img.mp4</filename>
+		<notificationmessage>There was a problem while uploading the file. Please try again.</notificationmessage>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.FileExtensionSupport" index="256"	method="UploadFileWhichNotSupport">
+		<filename>img.png</filename>
+		<notificationmessage>The file type you are trying to upload is not supported by the product. Please try again.</notificationmessage>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.FileExtensionSupport" index="258"	method="UploadFileWithSpecialCharterOfname">
+		<filename>im-g.png</filename>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.AllowFileSize" index="263" method="LessThan10MbFile">
+		<filename>img.png</filename>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.AllowFileSize" index="264" method="Upload10MbFile">
+		<filename>img.pptx</filename>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.AllowFileSize" index="265" method="UploadMoreThan10MBFile">
+		<filename>img.mp4</filename>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.CancelFunctionality" index="266"	method="cancelFunctionalityForPostTab">
+		<defaulttext>Share your knowledge or seek answers...</defaulttext>
+		<familyname>266second</familyname>
+		<givenname>266first</givenname>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.CancelFunctionality" index="267"	method="cancelFunctionalityForPostTab">
+		<shareWithInitialString>266second</shareWithInitialString>
+		<studentnametag>266first 266second</studentnametag>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.CancelFunctionality" index="268"	method="cancelFunctionalityForPostTab">
+		<defaulttext>Share your link...</defaulttext>
+		<shareWithInitialString>266second</shareWithInitialString>
+		<studentnametag>266first 266second</studentnametag>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.CancelFunctionality" index="269"	method="cancelFunctionalityForPostTab">
+		<filename>img.jpg</filename>
+		<shareWithInitialString>266second</shareWithInitialString>
+		<studentnametag>266first 266second</studentnametag>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.UploadFileForDifferentUser" index="270"	method="uploadFileForDifferentUser">
+		<familyname>family270</familyname>
+		<givenname>givenname270</givenname>
+		<shareWithInitialString>family270</shareWithInitialString>
+		<studentnametag>givenname270 family270</studentnametag>
+		<fileName>img.jpg</fileName>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.UploadFileForDifferentUser" index="272"	method="uploadFileForDifferentUser">
+		<context_id>student272context</context_id>
+		<context_title>student272title</context_title>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.UploadFileForDifferentUser" index="273"	method="uploadFileForDifferentUser">
+		<shareWithInitialString>family9999</shareWithInitialString>
+		<studentnametag>givenname9999 family9999</studentnametag>
+		<fileName1>img.jpg</fileName1>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.UploadFileForDifferentUser" index="273_1"	method="uploadFileForDifferentUser">
+		<familyname>family273_1</familyname>
+		<givenname>givenname273_1</givenname>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.LSFlashBehaviour" index="282"	method="flashBehaviourWithoutFlashPlugin">
+		<filename>flash282.swf</filename>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.LSVideoShare" index="287" method="videoShare">
+		<filename>video287.mp4</filename>
+	</testcase>
+	
+ 	<testcase id="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.LSRenderingImage" index="303" method="shareImageOfWidth599">
+		<filename>image599px.jpg</filename>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.LSRenderingImage" index="306" method="shareImageOfWidth600">
+		<filename>image600px.jpg</filename>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.LSRenderingImage" index="309">
+		<filename>image601px.jpg</filename>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.dummies.testcases.IT9.R3.LSRenderingFlash" index="313" method="shareFlash">
+		<context_id>stud313context</context_id>
+		<context_title>stud313title</context_title>
+		<filename>flash313.swf</filename>
+	</testcase>
+	
+</dummies>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R60.StudentAbleToViewNotesAndDiscussion" index="1" method="studentAbleToViewNotes">
+		<user_id>IT13_R60Stu_1</user_id>
+		<Role>student</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R60.StudentAbleToViewNotesAndDiscussion" index="5" method="studentAbleToViewDiscussion">
+		<user_id>IT13_R60_Student_5</user_id>
+		<Role>student</Role>
+        <context_id>studcontext_IT13_R60_5</context_id>
+        <context_title>studtitle_IT13_R60_5</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R60.StudentAbleToViewNotesAndDiscussion" index="37" method="studentAbleToViewTabs">
+		<user_id>IT13_R60Stu_37</user_id>
+		<Role>student</Role>
+        <context_id>studcontext_IT13_R60_37</context_id>
+        <context_title>studtitle_IT13_R60_37</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R60.StudentAbleToViewNotesAndDiscussion" index="42" method="studentAbleToViewTabsForLSCourse">
+		<user_id>IT13_R60Stu_42</user_id>
+		<Role>student</Role>
+		<course_type>ls</course_type>
+        <assessmentname>42 Assessment</assessmentname>
+        <questionset>42 Question Set</questionset>
+        <questiontext>42 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <reservforassignment>false</reservforassignment>
+	</testcase>
+</learningspaces>

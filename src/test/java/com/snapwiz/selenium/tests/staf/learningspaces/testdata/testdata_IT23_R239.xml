@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R239.EmbeddedAssessmentInLessonPage" index="11" method="embeddedAssessmentInLessonPage">
+        <username>instructor.hayeshrmhi2e@wiley.com</username>
+        <password>snapwiz</password>
+        <shareName>Human Resources Management in the HI2e-2</shareName>
+        <shareWithInitialString>Human Resources Management in the HI2e-2</shareWithInitialString>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <gradeable>false</gradeable>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R239.EmbeddedAssessmentInLessonPage" index="21" method="embeddedAssessmentWithOneNonMPQuestion">
+        <username>student1.hayeshrmhi2e@wiley.com</username>
+        <password>snapwiz</password>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R239.EmbeddedAssessmentInLessonPage" index="33" method="attemptQuestionInTheWidget">
+        <username>student3.hayeshrmhi2e@wiley.com</username>
+        <password>snapwiz</password>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R239.EmbeddedAssessmentInLessonPage" index="49" method="embeddedAssessmentWithOneMPQuestion">
+        <username>student1.hayeshrmhi2e@wiley.com</username>
+        <password>snapwiz</password>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R239.EmbeddedAssessmentInLessonPage" index="87" method="assessmentRatake">
+        <username>student1.hayeshrmhi2e@wiley.com</username>
+        <password>snapwiz</password>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R239.EmbeddedAssessmentInLessonPage" index="98" method="embeddedAssessmentWithMPQAndNonMPQuestionTypes">
+        <username>student1.hayeshrmhi2e@wiley.com</username>
+        <password>snapwiz</password>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R239.EmbeddedAssessmentInLessonPage" index="112" method="attemptTheQuestionInTheWidgetMPQAndNonMPQ">
+        <username>student1.hayeshrmhi2e@wiley.com</username>
+        <password>snapwiz</password>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R239.EmbeddedAssessmentInLessonPage" index="136" method="attemptMPQAsTheLastQuestionWithWoreThanOnePart">
+        <username>student1.hayeshrmhi2e@wiley.com</username>
+        <password>snapwiz</password>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R239.EmbeddedAssessmentInLessonPage" index="157" method="lessonPageHavingOneEmbeddedAssessment">
+        <username>instructor.hayeshrmhi2e@wiley.com</username>
+        <password>snapwiz</password>
+        <shareName>Human Resources Management in the HI2e-2</shareName>
+        <shareWithInitialString>Human Resources Management in the HI2e-2</shareWithInitialString>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <gradeable>false</gradeable>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R239.EmbeddedAssessmentInLessonPage" index="165" method="lessonPageHavingOneEmbeddedAssessmentStudent">
+        <username>student2.hayeshrmhi2e@wiley.com</username>
+        <password>snapwiz</password>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R239.EmbeddedAssessmentInLessonPage" index="176" method="attemptEmbeddedAssessmentAsStudentInlessonPage">
+        <username>student2.hayeshrmhi2e@wiley.com</username>
+        <password>snapwiz</password>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R239.EmbeddedAssessmentInLessonPage" index="201" method="lessonPageHavingMultipleEmbeddedAssessment">
+        <username>instructor.hayeshrmhi2e@wiley.com</username>
+        <password>snapwiz</password>
+        <shareName>Human Resources Management in the HI2e-2</shareName>
+        <shareWithInitialString>Human Resources Management in the HI2e-2</shareWithInitialString>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <gradeable>false</gradeable>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R239.EmbeddedAssessmentInLessonPage" index="204" method="lessonPageHavingMultipleEmbeddedAssessmentStudent">
+        <username>student2.hayeshrmhi2e@wiley.com</username>
+        <password>snapwiz</password>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R239.EmbeddedAssessmentInLessonPage" index="212" method="studentNotStartedAssessment">
+        <username>student2.hayeshrmhi2e@wiley.com</username>
+        <password>snapwiz</password>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R239.EmbeddedAssessmentInLessonPage" index="216" method="studentStartedAAssessment">
+        <username>student3.hayeshrmhi2e@wiley.com</username>
+        <password>snapwiz</password>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R239.EmbeddedAssessmentInLessonPage" index="220" method="studentAttemptsAsAnAssessmentAndThenAsAssignment">
+        <username>student1.hayeshrmhi2e@wiley.com</username>
+        <password>snapwiz</password>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R239.EmbeddedAssessmentInLessonPage" index="224" method="accessingEmbeddedAssessmentsFromDifferentPages">
+        <username>student1.hayeshrmhi2e@wiley.com</username>
+        <password>snapwiz</password>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R239.EmbeddedAssessmentInLessonPage" index="230" method="accessingEmbeddedAssessmentsFromDifferentTabs">
+        <username>student1.hayeshrmhi2e@wiley.com</username>
+        <password>snapwiz</password>
+    </testcase>
+</learningspaces>

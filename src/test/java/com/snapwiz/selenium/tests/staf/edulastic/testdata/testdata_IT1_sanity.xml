@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edulastic>
+    <testcase id = "com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.sanity.AssignmentFlow" index = "1">
+        <assessmentname>IT1_sanity_1_Assessment</assessmentname>
+        <questiontext>IT1_sanity_1_question text</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <submitFirstAssignment>true</submitFirstAssignment>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <usewriteboard>true</usewriteboard>
+        <privacy>Public</privacy>
+        <writeboarddata>scratchpad data</writeboarddata>>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+    </testcase>
+
+    <testcase id = "com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.sanity.AssignmentFlow" index = "2">
+        <assessmentname>IT1_sanity_2_Assessment</assessmentname>
+        <questiontext>IT1_sanity_2_question text</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <submitFirstAssignment>true</submitFirstAssignment>>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+    </testcase>
+
+    <testcase id = "com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.sanity.AssignmentFlow" index = "4">
+        <submitFirstAssignment>true</submitFirstAssignment>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+    </testcase>
+
+
+    <testcase id = "com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.sanity.AssignmentFlow" index = "5">
+        <submitFirstAssignment>true</submitFirstAssignment>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+    </testcase>
+
+
+    <testcase id = "com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.sanity.AssignmentFlow" index = "6">
+        <assessmentname>Assessment Sanity 6</assessmentname>
+        <questiontext>IT1_sanity_6_question text</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithClass>true</shareWithClass>
+        <className>ATClass</className>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <removeexistingclass>false</removeexistingclass>
+        <selectgrade>Grade 7</selectgrade>
+        <privacy>Public</privacy>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+    </testcase>
+
+    <testcase id = "com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.sanity.AssignmentFlow" index = "7">
+        <assessmentname>Assessment Sanity 7</assessmentname>
+        <questiontext>IT1_sanity_7_question text</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithClass>true</shareWithClass>
+        <className>ATClass</className>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <removeexistingclass>false</removeexistingclass>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+    </testcase>
+
+    <testcase id = "com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.sanity.AssignmentFlow" index = "8">
+        <assessmentname>Assessment Sanity 8</assessmentname>
+        <shareWithClass>true</shareWithClass>
+        <className>ATClass</className>
+        <duedate>26</duedate>
+        <duetime>12:20 PM</duetime>
+        <grade>Grade 1</grade>
+        <gradable>true</gradable>
+        <removeexistingclass>false</removeexistingclass>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+    </testcase>
+
+    <testcase id = "com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.sanity.AssignmentFlow" index = "9">
+        <assessmentname>Assessment Sanity 9</assessmentname>
+        <shareWithClass>true</shareWithClass>
+        <className>ATClass</className>
+        <duedate>28</duedate>
+        <grade>Grade 1</grade>
+        <duetime>12:15 PM</duetime>
+        <gradable>false</gradable>
+        <removeexistingclass>false</removeexistingclass>
+        <description>description text</description>
+        <submitFirstAssignment>true</submitFirstAssignment>
+        <tags>tags tags</tags>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+    </testcase>
+
+    <testcase id = "com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.sanity.AssignmentFlow" index = "10">
+        <assessmentname>Due Date Expires10</assessmentname>
+        <shareWithClass>true</shareWithClass>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <submitFirstAssignment>true</submitFirstAssignment>
+        <tags>tags tags</tags>
+        <expireduedate>true</expireduedate>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+    </testcase>
+
+    <testcase id = "com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.sanity.AssignmentFlow" index = "32">
+        <submitFirstAssignment>true</submitFirstAssignment>
+    </testcase>
+
+
+    <testcase id = "com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.sanity.AssignmentFlow" index = "11">
+        <assessmentname>Due Date Expires11</assessmentname>
+        <shareWithClass>true</shareWithClass>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <submitFirstAssignment>true</submitFirstAssignment>
+        <tags>tags tags</tags>
+        <expireduedate>true</expireduedate>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+    </testcase>
+</edulastic>

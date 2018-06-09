@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.AuthorAbleToAddQuestionToDiscussionWidget" index="2" method="authorAbleToAddQuestionToDiscussionWidget">
+        <user_id>IT14_R14_1S</user_id>
+        <Role>student</Role>
+        <numberoftabs>0</numberoftabs>
+        <newChapterName>Discussion Widget Chapter</newChapterName>
+        <chapterName>Discussion Widget Chapter</chapterName>
+        <lessonName>Discussion Widget Lesson</lessonName>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.AuthorAbleToAddQuestionToDiscussionWidget" index="5" method="authorAbleToAddQuestionToDiscussionWidget">
+        <user_id>IT14_R141I</user_id>
+        <Role>instructor</Role>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.InstructorAddQuestionToDiscussionWidget" index="6" method="instructorAddQuestionToDiscussionWidget">
+        <user_id>IT14_R141I</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR14_1Instructor</context_id>
+        <context_title>studtitleR14_1Instructor</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.EnableDisableDiscussionWidget" index="24" method="enableDisableDiscussionWidget">
+        <user_id>IT14_R141_I_24</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR141_24</context_id>
+        <context_title>studtitleR141_24</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.StudentsAddPerspectiveToDW" index="45" method="studentsAddPerspectiveToDW">
+        <user_id>IT14_R141_Stud_45</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR141_452</context_id>
+        <context_title>studtitleR141_452</context_title>
+        <gradable>true</gradable>
+        <gradingpolicy>grading policy texts</gradingpolicy>
+        <totalpoints>2</totalpoints>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.StudentsAddPerspectiveToDW" index="45_1" method="studentsAddPerspectiveToDW">
+        <user_id>IT14_R141_Inst_45_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR141_452</context_id>
+        <context_title>studtitleR141_452</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.AssignDWAsAssignment" index="47" method="assignDWAsAssignment">
+        <user_id>IT14_R141_Ins_47</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR141_47</context_id>
+        <context_title>studtitleR141_47</context_title>
+        <gradable>true</gradable>
+        <gradingpolicy>grading policy texts</gradingpolicy>
+        <totalpoints>2</totalpoints>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.AssignDWAsAssignment" index="53" method="assignDWAsAssignmentAndAttemptAsStudent">
+        <user_id>IT14_R141_Ins_53</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR141_53</context_id>
+        <context_title>studtitleR141_53</context_title>
+        <gradable>false</gradable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.AssignDWAsAssignment" index="53_1" method="assignDWAsAssignmentAndAttemptAsStudent">
+        <user_id>IT14_R141_Stu_53_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR141_53</context_id>
+        <context_title>studtitleR141_53</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.AbilityToViewAndCommentOnStudentPerspective" index="56" method="abilityToViewAndCommentOnStudentPerspective">
+        <user_id>IT14_R141_Student_56</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR141_56</context_id>
+        <context_title>studtitleR141_56</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.AbilityToViewAndCommentOnStudentPerspective" index="56_1" method="abilityToViewAndCommentOnStudentPerspective">
+        <user_id>IT14_R141_Instruc_56_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR141_56</context_id>
+        <context_title>studtitleR141_56</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.VisibilityOfNewlyAddedQuestion" index="76" method="visibilityOfNewlyAddedQuestion">
+        <user_id>IT14_R141_Student_76</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR141_76</context_id>
+        <context_title>studtitleR141_76</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.VisibilityOfNewlyAddedQuestion" index="76_1" method="visibilityOfNewlyAddedQuestion">
+        <user_id>IT14_R141_Instructor_76_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR141_76</context_id>
+        <context_title>studtitleR141_76</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.VisibilityOfNewlyAddedQuestion" index="76_2" method="visibilityOfNewlyAddedQuestion">
+        <user_id>IT14_R141_Instructor_76_2</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR141_76</context_id>
+        <context_title>studtitleR141_76</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.UIofDWAssigningPopUp" index="81" method="UIOfDWAssigningPopUp">
+        <user_id>IT14_R141_Instruct_81</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR141_81_1</context_id>
+        <context_title>studtitleR141_81_1</context_title>
+        <shareWithInitialString>stud</shareWithInitialString>
+        <shareWithClass>true</shareWithClass>
+        <shareName>studtitleR141_81_1</shareName>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.UIofDWAssigningPopUp" index="81_1" method="UIOfDWAssigningPopUp">
+        <user_id>IT14_R141_Stu_81_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR141_81_1</context_id>
+        <context_title>studtitleR141_81_1</context_title>
+        <familyname>81_1SecondName</familyname>
+        <givenname>81_1FirstName</givenname>
+        <shareWithInitialString>81_1</shareWithInitialString>
+        <shareWithClass>false</shareWithClass>
+        <shareName>81_1FirstName 81_1SecondName</shareName>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.UIofDWAssigningPopUp" index="89" method="checkingTheMandatoryFields">
+        <user_id>IT14_R141_Instruct_89</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR141_89</context_id>
+        <context_title>studtitleR141_89</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.UIofDWAssigningPopUp" index="94" method="assignToFieldAndDueDateFields">
+        <user_id>IT14_R141_Instruct_94</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR141_94</context_id>
+        <context_title>studtitleR141_94</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.AssignDWAsAssignment" index="125" method="assignNonGradableDWAsAssignment">
+        <user_id>IT14_R141_Inst_125</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR141_125</context_id>
+        <context_title>studtitleR141_125</context_title>
+        <gradable>false</gradable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.AccessingDWAssignment" index="131" method="accessingDWAssignment">
+        <user_id>IT14_R141_Inst_131</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR141_131</context_id>
+        <context_title>studtitleR141_131</context_title>
+        <gradable>false</gradable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.AccessingDWAssignment" index="131_1" method="accessingDWAssignment">
+        <user_id>IT14_R141_Stud_131_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR141_131</context_id>
+        <context_title>studtitleR141_131</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.InstructorShouldBeAbleToGradeDW" index="137" method="instructorShouldBeAbleToGradeDW">
+        <user_id>IT14_R141_Instruc_137</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR141_1372</context_id>
+        <context_title>studtitleR141_1372</context_title>
+        <gradable>true</gradable>
+        <gradingpolicy>grading policy texts</gradingpolicy>
+        <totalpoints>2</totalpoints>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.InstructorShouldBeAbleToGradeDW" index="137_1" method="instructorShouldBeAbleToGradeDW">
+        <user_id>IT14_R141_Student_137_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR141_1372</context_id>
+        <context_title>studtitleR141_1372</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.TableListingRowsForEachStudentinGradingPage" index="148" method="tableListingRowsForEachStudentinGradingPage">
+        <user_id>IT14_R141_Instruc_148</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR141_1483</context_id>
+        <context_title>studtitleR141_1483</context_title>
+        <gradable>true</gradable>
+        <gradingpolicy>grading policy texts</gradingpolicy>
+        <totalpoints>2</totalpoints>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.TableListingRowsForEachStudentinGradingPage" index="148_1" method="tableListingRowsForEachStudentinGradingPage">
+        <user_id>IT14_R141_Student_148_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR141_1483</context_id>
+        <context_title>studtitleR141_1483</context_title>
+        <familyname>LastName_148_1</familyname>
+        <givenname>FirstName_148_1</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.TableListingRowsForEachStudentinGradingPage" index="148_2" method="tableListingRowsForEachStudentinGradingPage">
+        <user_id>IT14_R141_Students_148_2</user_id>
+        <Role>student</Role>
+        <familyname>LastName_148_2</familyname>
+        <givenname>FirstName_148_2</givenname>
+        <context_id>studcontextR141_1483</context_id>
+        <context_title>studtitleR141_1483</context_title>
+        <shareWithInitialString>First</shareWithInitialString>
+        <shareName>FirstName_148_2 LastName_148_2</shareName>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.RightSideDetailsForDWAssignment" index="176" method="rightSideDetailsForDWAssignment">
+        <user_id>IT14_R141_I_176</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR141_176</context_id>
+        <context_title>studtitleR141_176</context_title>
+        <gradable>true</gradable>
+        <gradingpolicy>grading policy texts</gradingpolicy>
+        <totalpoints>2</totalpoints>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.RightSideDetailsForDWAssignment" index="176_1" method="rightSideDetailsForDWAssignment">
+        <user_id>IT14_R141_Stu_176_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR141_176</context_id>
+        <context_title>studtitleR141_176</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.VerifySocialElementsOfDWAssignment" index="185" method="verifySocialElementsOfDWAssignment">
+        <user_id>IT14_R141_I_185</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR141_185</context_id>
+        <context_title>studtitleR141_185</context_title>
+        <gradable>true</gradable>
+        <gradingpolicy>grading policy texts</gradingpolicy>
+        <totalpoints>2</totalpoints>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.VerifySocialElementsOfDWAssignment" index="185_1" method="verifySocialElementsOfDWAssignment">
+        <user_id>IT14_R141_Stu_185_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR141_185</context_id>
+        <context_title>studtitleR141_185</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.VerifySocialElementsOfDWAssignment" index="185_2" method="verifySocialElementsOfDWAssignment">
+        <user_id>IT14_R141_Stu_185_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR141_185</context_id>
+        <context_title>studtitleR141_185</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.VerifySocialElementsOfDWAssignment" index="190" method="orderOfPerspective">
+        <user_id>IT14_R141_Ins_190</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR141_1901</context_id>
+        <context_title>studtitleR141_1901</context_title>
+        <gradable>true</gradable>
+        <gradingpolicy>grading policy texts</gradingpolicy>
+        <totalpoints>2</totalpoints>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.VerifySocialElementsOfDWAssignment" index="190_1" method="orderOfPerspective">
+        <user_id>IT14_R141_Stud_190_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR141_1901</context_id>
+        <context_title>studtitleR141_1901</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.VerifySocialElementsOfDWAssignment" index="190_2" method="orderOfPerspective">
+        <user_id>IT14_R141_Stud_190_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR141_1901</context_id>
+        <context_title>studtitleR141_1901</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.VerifySocialElementsOfDWAssignment" index="190_3" method="orderOfPerspective">
+        <user_id>IT14_R141_Stud_190_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR141_1901</context_id>
+        <context_title>studtitleR141_1901</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.VerifySocialElementsOfDWAssignment" index="197" method="clickOnCommentLinkOnPerspective">
+        <user_id>IT14_R141_Instr_197</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR141_1974</context_id>
+        <context_title>studtitleR141_1974</context_title>
+        <gradable>true</gradable>
+        <gradingpolicy>grading policy texts</gradingpolicy>
+        <totalpoints>2</totalpoints>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.VerifySocialElementsOfDWAssignment" index="197_1" method="clickOnCommentLinkOnPerspective">
+        <user_id>IT14_R141_Stude_197_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR141_1974</context_id>
+        <context_title>studtitleR141_1974</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.VerifySocialElementsOfDWAssignment" index="197_2" method="clickOnCommentLinkOnPerspective">
+        <user_id>IT14_R141_Stude_197_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR141_1974</context_id>
+        <context_title>studtitleR141_1974</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.VerifySocialElementsOfDWAssignment" index="197_3" method="clickOnCommentLinkOnPerspective">
+        <user_id>IT14_R141_Stude_197_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR141_1974</context_id>
+        <context_title>studtitleR141_1974</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.FillInScoreGreaterThanOne" index="209" method="fillInScoreGreaterThanOne">
+        <user_id>IT14_R141_Instructo_209</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR141_2095</context_id>
+        <context_title>studtitleR141_2095</context_title>
+        <gradable>true</gradable>
+        <gradingpolicy>grading policy texts</gradingpolicy>
+        <totalpoints>2</totalpoints>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.FillInScoreGreaterThanOne" index="209_1" method="fillInScoreGreaterThanOne">
+        <user_id>IT14_R141_Studentss_209_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR141_2095</context_id>
+        <context_title>studtitleR141_2095</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.ImpactOfGradableDWAssignmentOverEngagementReport" index="229" method="impactOfGradableDWAssignmentOverEngagementReport">
+        <user_id>IT14_R141_Ins_229</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR141_2292</context_id>
+        <context_title>studtitleR141_2292</context_title>
+        <gradable>true</gradable>
+        <gradingpolicy>grading policy texts</gradingpolicy>
+        <totalpoints>2</totalpoints>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.ImpactOfGradableDWAssignmentOverEngagementReport" index="229_1" method="impactOfGradableDWAssignmentOverEngagementReport">
+        <user_id>IT14_R141_Stu_229_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR141_2292</context_id>
+        <context_title>studtitleR141_2292</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.InstructorShouldBeAbleToProvideFeedbackToNonGradableDW" index="236" method="instructorShouldBeAbleToProvideFeedbackToNonGradableDW">
+        <user_id>IT14_R141_Inst_236</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR141_2362</context_id>
+        <context_title>studtitleR141_2362</context_title>
+        <gradable>false</gradable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.InstructorShouldBeAbleToProvideFeedbackToNonGradableDW" index="236_1" method="instructorShouldBeAbleToProvideFeedbackToNonGradableDW">
+        <user_id>IT14_R141_Stud_236_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR141_2362</context_id>
+        <context_title>studtitleR141_2362</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.TableListingRowsStudentInGradingPageForNonGradableDW" index="247" method="tableListingRowsStudentInGradingPageForNonGradableDW">
+        <user_id>IT14_R141_In_247</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR141_2471</context_id>
+        <context_title>studtitleR141_2471</context_title>
+        <gradable>false</gradable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.TableListingRowsStudentInGradingPageForNonGradableDW" index="247_1" method="tableListingRowsStudentInGradingPageForNonGradableDW">
+        <user_id>IT14_R141_St_247_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR141_2471</context_id>
+        <context_title>studtitleR141_2471</context_title>
+        <familyname>LastName_247_1</familyname>
+        <givenname>FirstName_247_1</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.TableListingRowsStudentInGradingPageForNonGradableDW" index="247_2" method="tableListingRowsStudentInGradingPageForNonGradableDW">
+        <user_id>IT14_R141_St_247_2</user_id>
+        <Role>student</Role>
+        <familyname>LastName_247_2</familyname>
+        <givenname>FirstName_247_2</givenname>
+        <context_id>studcontextR141_2471</context_id>
+        <context_title>studtitleR141_2471</context_title>
+        <shareWithInitialString>First</shareWithInitialString>
+        <shareName>FirstName_247_2 LastName_247_2</shareName>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.RightSideDetailsForNonGradableDWAssignment" index="271" method="rightSideDetailsForNonGradableDWAssignment">
+        <user_id>IT14_R141_I_271</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR141_271</context_id>
+        <context_title>studtitleR141_271</context_title>
+        <gradable>false</gradable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.RightSideDetailsForNonGradableDWAssignment" index="271_1" method="rightSideDetailsForNonGradableDWAssignment">
+        <user_id>IT14_R141_Stu_271_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR141_271</context_id>
+        <context_title>studtitleR141_271</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.VerifyRightSideTileInAssignmentResponsePage" index="299" method="verifyRightSideTileInAssignmentResponsePage">
+        <user_id>IT14_R141_Inst_299</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR141_299</context_id>
+        <context_title>studtitleR141_299</context_title>
+        <gradable>false</gradable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.VerifyRightSideTileInAssignmentResponsePage" index="299_1" method="verifyRightSideTileInAssignmentResponsePage">
+        <user_id>IT14_R141_S_299_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR141_299</context_id>
+        <context_title>studtitleR141_299</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.ImpactOfNonGradableDWAssignmentOverEngagementReport" index="316" method="impactOfNonGradableDWAssignmentOverEngagementReport">
+        <user_id>IT14_R141_Ins_316</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR141_3161</context_id>
+        <context_title>studtitleR141_3161</context_title>
+        <gradable>false</gradable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.ImpactOfNonGradableDWAssignmentOverEngagementReport" index="316_1" method="impactOfNonGradableDWAssignmentOverEngagementReport">
+        <user_id>IT14_R141_Stu_316_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR141_3161</context_id>
+        <context_title>studtitleR141_3161</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.InstructorShouldBeAbleToViewDetailsOfDWAssignment" index="322student" method="instructorShouldBeAbleToViewDetailsOfDWAssignment">
+        <user_id>IT14_R141_In_322_student</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R141_322</context_id>
+        <context_title>studtitle_R141_322</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.InstructorShouldBeAbleToViewDetailsOfDWAssignment" index="322" method="instructorShouldBeAbleToViewDetailsOfDWAssignment">
+        <user_id>IT14_R141_In_322_2</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R141_322</context_id>
+        <context_title>studtitle_R141_322</context_title>
+        <gradable>true</gradable>
+        <gradingpolicy>grading policy texts</gradingpolicy>
+        <totalpoints>2</totalpoints>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+        <additionalnote1>Edited Description of the assignment</additionalnote1>
+        <gradingpolicy1>Edited grading policy texts</gradingpolicy1>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.InstructorShouldBeAbleToViewDetailsOfDWAssignment" index="340" method="detailOverAssignmentPage">
+        <user_id>IT14_R141_Inst_340</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR141_3401</context_id>
+        <context_title>studtitleR141_3401</context_title>
+        <gradable>true</gradable>
+        <gradingpolicy>grading policy texts</gradingpolicy>
+        <totalpoints>2</totalpoints>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.InstructorShouldBeAbleToViewDetailsOfDWAssignment" index="340_1" method="detailOverAssignmentPage">
+        <user_id>IT14_R141_Stud_340_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR141_3401</context_id>
+        <context_title>studtitleR141_3401</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.StatusOfDWAssignment" index="354" method="statusOfDWAssignment">
+        <user_id>IT14_R141_Inst_354</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR141_354</context_id>
+        <context_title>studtitleR141_354</context_title>
+        <gradable>true</gradable>
+        <gradingpolicy>grading policy texts</gradingpolicy>
+        <totalpoints>2</totalpoints>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.StatusOfDWAssignment" index="354_1" method="statusOfDWAssignment">
+        <user_id>IT14_R141_S_354</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR141_354</context_id>
+        <context_title>studtitleR141_354</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.VerifyingDWOverLessonWhileAssignmentStatusChanges" index="367" method="verifyingDWOverLessonWhileAssignmentStatusChanges">
+        <user_id>IT14_R141_Instructor_367</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR141_367</context_id>
+        <context_title>studtitleR141_367</context_title>
+        <gradable>true</gradable>
+        <gradingpolicy>grading policy texts</gradingpolicy>
+        <totalpoints>2</totalpoints>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.VerifyingDWOverLessonWhileAssignmentStatusChanges" index="367_1" method="verifyingDWOverLessonWhileAssignmentStatusChanges">
+        <user_id>IT14_R141_Student_367</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR141_367</context_id>
+        <context_title>studtitleR141_367</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.StudentShouldBeAbleToViewDetailsOfDWAssignment" index="380" method="studentShouldBeAbleToViewDetailsOfDWAssignment">
+        <user_id>IT14_R141_Instructor_380</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR141_380</context_id>
+        <context_title>studtitleR141_380</context_title>
+        <gradable>true</gradable>
+        <gradingpolicy>grading policy texts</gradingpolicy>
+        <totalpoints>2</totalpoints>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.StudentShouldBeAbleToViewDetailsOfDWAssignment" index="380_1" method="studentShouldBeAbleToViewDetailsOfDWAssignment">
+        <user_id>IT14_R141_Student_380</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR141_380</context_id>
+        <context_title>studtitleR141_380</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.StatusOfDWAssignmentInStudentSide" index="404" method="StatusOfDWAssignmentInStudentSide">
+        <user_id>IT14_R141_Instructorss_404</user_id>
+        <Role>instructor</Role>
+        <familyname>Inst_LastName_404</familyname>
+        <givenname>Inst_FirstName_404</givenname>
+        <context_id>studcontextR141_4048</context_id>
+        <context_title>studtitleR141_4048</context_title>
+        <gradable>true</gradable>
+        <gradingpolicy>grading policy texts</gradingpolicy>
+        <totalpoints>2</totalpoints>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.StatusOfDWAssignmentInStudentSide" index="404_1" method="StatusOfDWAssignmentInStudentSide">
+        <user_id>IT14_R141_Students_404_1</user_id>
+        <Role>student</Role>
+        <familyname>LastName_404_1</familyname>
+        <givenname>FirstName_404_1</givenname>
+        <context_id>studcontextR141_4048</context_id>
+        <context_title>studtitleR141_4048</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.StatusOfDWAssignmentInStudentSide" index="404_2" method="StatusOfDWAssignmentInStudentSide">
+        <user_id>IT14_R141_Students_404_2</user_id>
+        <Role>student</Role>
+        <familyname>LastName_404_2</familyname>
+        <givenname>FirstName_404_2</givenname>
+        <context_id>studcontextR141_4048</context_id>
+        <context_title>studtitleR141_4048</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.VerifyingDWWhileAssignmentStatusChangesInStudentSide" index="432" method="VerifyingDWWhileAssignmentStatusChangesInStudentSide">
+        <user_id>IT14_R141_Instructor_432</user_id>
+        <Role>instructor</Role>
+        <familyname>Inst_LastName_432</familyname>
+        <givenname>Inst_FirstName_432</givenname>
+        <context_id>studcontextR141_432</context_id>
+        <context_title>studtitleR141_432</context_title>
+        <gradable>true</gradable>
+        <gradingpolicy>grading policy texts</gradingpolicy>
+        <totalpoints>2</totalpoints>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.VerifyingDWWhileAssignmentStatusChangesInStudentSide" index="432_1" method="VerifyingDWWhileAssignmentStatusChangesInStudentSide">
+        <user_id>IT14_R141_Stud_432</user_id>
+        <Role>student</Role>
+        <familyname>stLastName_432</familyname>
+        <givenname>stFirstName_432</givenname>
+        <context_id>studcontextR141_432</context_id>
+        <context_title>studtitleR141_432</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.VerifyGradingPolicyDropdown" index="99" method="verifyGradingPolicyDropdown">
+        <user_id>IT14_R141_Ins_99</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR141_99</context_id>
+        <context_title>studtitleR141_99</context_title>
+        <resourcesname>Policy Name</resourcesname>
+        <gradingpolicy>grading policy texts</gradingpolicy>
+        <totalpoints>2</totalpoints>
+        <gradingpolicystatus>true</gradingpolicystatus>
+        <description>grading policy description</description>
+        <filename>gradingpolicy.txt</filename>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.VerifyGradingPolicyDropdown" index="99_1" method="verifyGradingPolicyDropdown">
+        <user_id>IT14_R141_Stud_99_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR141_99</context_id>
+        <context_title>studtitleR141_99</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.VerifySocialElementsOfNonGradableDWAssignment" index="279" method="verifySocialElementsOfNonGradableDWAssignment">
+        <user_id>IT14_R141_In_279</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR141_2791</context_id>
+        <context_title>studtitleR141_2791</context_title>
+        <familyname>Ins_LastName_279</familyname>
+        <givenname>Ins_FirstName_279</givenname>
+        <gradable>false</gradable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.VerifySocialElementsOfNonGradableDWAssignment" index="279_1" method="verifySocialElementsOfNonGradableDWAssignment">
+        <user_id>IT14_R141_St_279_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR141_2791</context_id>
+        <context_title>studtitleR141_2791</context_title>
+        <familyname>Stu_LastName_279_1</familyname>
+        <givenname>Stu_FirstName_279_1</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.VerifySocialElementsOfNonGradableDWAssignment" index="279_2" method="verifySocialElementsOfNonGradableDWAssignment">
+        <user_id>IT14_R141_St_279_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR141_2791</context_id>
+        <context_title>studtitleR141_2791</context_title>
+        <familyname>Stu_LastName_279_2</familyname>
+        <givenname>Stu_FirstName_279_2</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.VerifySocialElementsOfNonGradableDWAssignment" index="284" method="orderOfPerspective">
+        <user_id>IT14_R141_Ins_284</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR141_284</context_id>
+        <context_title>studtitleR141_284</context_title>
+        <gradable>true</gradable>
+        <gradingpolicy>grading policy texts</gradingpolicy>
+        <totalpoints>2</totalpoints>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.VerifySocialElementsOfNonGradableDWAssignment" index="284_1" method="orderOfPerspective">
+        <user_id>IT14_R141_Stud_284_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR141_284</context_id>
+        <context_title>studtitleR141_284</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.VerifySocialElementsOfNonGradableDWAssignment" index="284_2" method="orderOfPerspective">
+        <user_id>IT14_R141_Stud_284_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR141_284</context_id>
+        <context_title>studtitleR141_284</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.VerifySocialElementsOfNonGradableDWAssignment" index="284_3" method="orderOfPerspective">
+        <user_id>IT14_R141_Stud_284_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR141_284</context_id>
+        <context_title>studtitleR141_284</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.VerifySocialElementsOfNonGradableDWAssignment" index="290" method="clickOnCommentLinkOnPerspective">
+        <user_id>IT14_R141_Instr_290</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR141_290</context_id>
+        <context_title>studtitleR141_290</context_title>
+        <gradable>true</gradable>
+        <gradingpolicy>grading policy texts</gradingpolicy>
+        <totalpoints>2</totalpoints>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.VerifySocialElementsOfNonGradableDWAssignment" index="290_1" method="clickOnCommentLinkOnPerspective">
+        <user_id>IT14_R141_Stude_290_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR141_290</context_id>
+        <context_title>studtitleR141_290</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.VerifySocialElementsOfNonGradableDWAssignment" index="290_2" method="clickOnCommentLinkOnPerspective">
+        <user_id>IT14_R141_Stude_290_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR141_290</context_id>
+        <context_title>studtitleR141_290</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R141.VerifySocialElementsOfNonGradableDWAssignment" index="290_3" method="clickOnCommentLinkOnPerspective">
+        <user_id>IT14_R141_Stude_290_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR141_290</context_id>
+        <context_title>studtitleR141_290</context_title>
+    </testcase>
+</learningspaces>

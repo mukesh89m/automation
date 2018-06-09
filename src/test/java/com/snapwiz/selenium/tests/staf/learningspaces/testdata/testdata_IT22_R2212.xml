@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2212.ViewAndUseStaticAndAdaptiveAssessmentsInQuestionBank" index="10" method="">
+        <user_id>instructor_IT22_R12_10</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R12_10</context_id>
+        <context_title>studtitle_IT22_R12_10</context_title>
+        <assessmentname>Assignment_IT22_R12_10</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Quest_on_Set_IT22_R12_10</questionset>
+        <questiontext>Test Question_IT22_R12_10</questiontext>
+        <reservforassignment>false</reservforassignment>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_IT22_R12_10</shareWithInitialString>
+        <shareName>studtitle_IT22_R12_10</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2212.ViewAndUseStaticAndAdaptiveAssessmentsInQuestionBank" index="11" method="">
+        <assessmentname>Assignment_IT22_R12_10</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Quest_on_Set_IT22_R12_10</questionset>
+        <questiontext>Test Question_IT22_R12_11</questiontext>
+        <reservforassignment>false</reservforassignment>
+        <questiontype>Static Practice</questiontype>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2212.ViewAndUseStaticAndAdaptiveAssessmentsInQuestionBank" index="12" method="">
+        <assessmentname>Assignment_IT22_R12_10</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Quest_on_Set_IT22_R12_10</questionset>
+        <questiontext>Test Question_IT22_R12_12</questiontext>
+        <reservforassignment>false</reservforassignment>
+        <questiontype>Static Practice</questiontype>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2212.ViewAndUseStaticAndAdaptiveAssessmentsInQuestionBank" index="13" method="">
+        <assessmentname>Assignment_IT22_R12_10</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Quest_on_Set_IT22_R12_10</questionset>
+        <questiontext>Test Question_IT22_R12_13</questiontext>
+        <reservforassignment>false</reservforassignment>
+        <questiontype>Static Practice</questiontype>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2212.ViewAndUseStaticAndAdaptiveAssessmentsInQuestionBank" index="14" method="">
+        <user_id>instructor_IT22_R12_10</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R12_10</context_id>
+        <context_title>studtitle_IT22_R12_10</context_title>
+        <assessmentname>Assignment_IT22_R12_10</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Quest_on_Set_IT22_R12_10</questionset>
+        <questiontext>Test Question_IT22_R12_10</questiontext>
+        <reservforassignment>false</reservforassignment>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_IT22_R12_10</shareWithInitialString>
+        <shareName>studtitle_IT22_R12_10</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <numberofquestions>1</numberofquestions>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2212.ViewAndUseStaticAndAdaptiveAssessmentsInQuestionBank" index="41" method="">
+        <user_id>mentor_IT22_R12_41</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontext_IT22_R12_41</context_id>
+        <context_title>studtitle_IT22_R12_41</context_title>
+        <assessmentname>Assignment_IT22_R12_10</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Quest_on_Set_IT22_R12_10</questionset>
+        <questiontext>Test Question_IT22_R12_10</questiontext>
+        <reservforassignment>false</reservforassignment>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_IT22_R12_41</shareWithInitialString>
+        <shareName>studtitle_IT22_R12_41</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2212.ViewAndUseStaticAndAdaptiveAssessmentsInQuestionBank" index="40" method="">
+        <user_id>mentor_IT22_R12_41</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontext_IT22_R12_41</context_id>
+        <context_title>studtitle_IT22_R12_41</context_title>
+        <assessmentname>Assignment_IT22_R12_10</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Quest_on_Set_IT22_R12_10</questionset>
+        <questiontext>Test Question_IT22_R12_10</questiontext>
+        <reservforassignment>false</reservforassignment>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_IT22_R12_41</shareWithInitialString>
+        <shareName>studtitle_IT22_R12_41</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <numberofquestions>1</numberofquestions>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2212.ViewAndUseStaticAndAdaptiveAssessmentsInQuestionBank" index="42" method="">
+        <user_id>instructor_IT22_R12_42</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R12_42</context_id>
+        <context_title>studtitle_IT22_R12_42</context_title>
+        <assessmentname>Assignment_IT22_R12_10</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Quest_on_Set_IT22_R12_10</questionset>
+        <questiontext>Test Question_IT22_R12_10</questiontext>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2212.ViewAndUseStaticAndAdaptiveAssessmentsInQuestionBank" index="68" method="">
+        <user_id>mentor_IT22_R12_42</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontext_IT22_R12_42</context_id>
+        <context_title>studtitle_IT22_R12_42</context_title>
+        <assessmentname>Assignment_IT22_R12_10</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Quest_on_Set_IT22_R12_10</questionset>
+        <questiontext>Test Question_IT22_R12_10</questiontext>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2212.ViewAndUseStaticAndAdaptiveAssessmentsInQuestionBank" index="69" method="">
+        <user_id>instructor_IT22_R12_69</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R12_69</context_id>
+        <context_title>studtitle_IT22_R12_69</context_title>
+        <assessmentname>Assignment_IT22_R12_69</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Quest_on_Set_IT22_R12_69</questionset>
+        <questiontext>Test Question_IT22_R12_69</questiontext>
+        <searchquestion>Test</searchquestion>
+        <customassignmentname>Custom Assignment IT22_R12_69</customassignmentname>
+        <noOfQuestions>3</noOfQuestions>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2212.ViewAndUseStaticAndAdaptiveAssessmentsInQuestionBank" index="96" method="">
+        <user_id>Mentor_IT22_R12_69</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontext_IT22_R12_69</context_id>
+        <context_title>studtitle_IT22_R12_69</context_title>
+        <assessmentname>Assignment_IT22_R12_69</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Quest_on_Set_IT22_R12_69</questionset>
+        <questiontext>Test Question_IT22_R12_69</questiontext>
+        <searchquestion>Test</searchquestion>
+        <customassignmentname>Custom Assignment IT22_R12_69</customassignmentname>
+        <noOfQuestions>3</noOfQuestions>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2212.ViewAndUseStaticAndAdaptiveAssessmentsInQuestionBank" index="97" method="">
+        <user_id>instructor_IT22_R12_69</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R12_69</context_id>
+        <context_title>studtitle_IT22_R12_69</context_title>
+        <assessmentname>Assignment_IT22_R12_69</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Quest_on_Set_IT22_R12_69</questionset>
+        <questiontext>Test Question_IT22_R12_69</questiontext>
+        <searchquestion>Test</searchquestion>
+        <customassignmentname>Custom Assignment IT22_R12_69</customassignmentname>
+        <noOfQuestions>3</noOfQuestions>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2212.ViewAndUseStaticAndAdaptiveAssessmentsInQuestionBank" index="99" method="">
+        <user_id>instructor_IT22_R12_99</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R12_69</context_id>
+        <context_title>studtitle_IT22_R12_69</context_title>\
+        <givenname>testIns1</givenname>
+        <familyname>firstName</familyname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2212.ViewAndUseStaticAndAdaptiveAssessmentsInQuestionBank" index="110" method="">
+        <user_id>instructor_IT22_R12_110</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R12_110</context_id>
+        <context_title>studtitle_IT22_R12_110</context_title>\
+        <givenname>testment1</givenname>
+        <familyname>firstName</familyname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2212.ViewAndUseStaticAndAdaptiveAssessmentsInQuestionBank" index="111" method="">
+        <user_id>instructor_IT22_R12_111</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R12_111</context_id>
+        <context_title>studtitle_IT22_R12_111</context_title>
+        <assessmentname>Assignment_IT22_R12_111</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Quest_on_Set_IT22_R12_111</questionset>
+        <questiontext>Test Question_IT22_R12_111</questiontext>
+        <searchquestion>Test</searchquestion>
+        <customassignmentname>Custom Assignment IT22_R12_111</customassignmentname>
+        <noOfQuestions>3</noOfQuestions>
+        <shareWithInitialString>studtitle_IT22_R12_111</shareWithInitialString>
+        <shareName>studtitle_IT22_R12_111</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2212.ViewAndUseStaticAndAdaptiveAssessmentsInQuestionBank" index="112" method="">
+        <user_id>student_IT22_R12_111</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R12_111</context_id>
+        <context_title>studtitle_IT22_R12_111</context_title>
+        <assessmentname>Assignment_IT22_R12_111</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Quest_on_Set_IT22_R12_111</questionset>
+        <questiontext>Test Question_IT22_R12_essay_111_Q1</questiontext>
+        <hintText>true</hintText>
+        <solutionText>true</solutionText>
+        <reservforassignment>true</reservforassignment>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2212.ViewAndUseStaticAndAdaptiveAssessmentsInQuestionBank" index="113" method="">
+        <user_id>instructor_IT22_R12_111</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R12_111</context_id>
+        <context_title>studtitle_IT22_R12_111</context_title>
+        <assessmentname>Assignment_IT22_R12_111</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Quest_on_Set_IT22_R12_111</questionset>
+        <questiontext>Test Question_IT22_R12_essay_111_Q2</questiontext>
+        <hintText>true</hintText>
+        <solutionText>true</solutionText>
+        <reservforassignment>true</reservforassignment>
+        <useWriteBoard>true</useWriteBoard>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2212.ViewAndUseStaticAndAdaptiveAssessmentsInQuestionBank" index="129" method="">
+        <user_id>mentor_IT22_R12_129</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontext_IT22_R12_129</context_id>
+        <context_title>studtitle_IT22_R12_129</context_title>
+        <assessmentname>Assignment_IT22_R12_111</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Quest_on_Set_IT22_R12_111</questionset>
+        <questiontext>Test Question_IT22_R12_111</questiontext>
+        <searchquestion>Test</searchquestion>
+        <customassignmentname>Custom Assignment IT22_R12_111</customassignmentname>
+        <noOfQuestions>3</noOfQuestions>
+        <shareWithInitialString>studtitle_IT22_R12_111</shareWithInitialString>
+        <shareName>studtitle_IT22_R12_111</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2212.ViewAndUseStaticAndAdaptiveAssessmentsInQuestionBank" index="128" method="">
+        <user_id>student_IT22_R12_129</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R12_129</context_id>
+        <context_title>studtitle_IT22_R12_129</context_title>
+        <assessmentname>Assignment_IT22_R12_111</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Quest_on_Set_IT22_R12_111</questionset>
+        <questiontext>Test Question_IT22_R12_essay_111_Q1</questiontext>
+        <hintText>true</hintText>
+        <solutionText>true</solutionText>
+        <reservforassignment>true</reservforassignment>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2212.ViewAndUseStaticAndAdaptiveAssessmentsInQuestionBank" index="130" method="">
+        <user_id>instructor_IT22_R12_130</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R12_130</context_id>
+        <context_title>studtitle_IT22_R12_130</context_title>
+        <assessmentname>Practice Assessment_130</assessmentname>
+        <questiontype>Adaptive Component Diagnostic</questiontype>
+        <questionset>Test Question IT22_R12_130</questionset>
+        <questiontext>Test Question IT22_R12_130</questiontext>
+        <learningobjective>true</learningobjective>
+        <reservforassignment>false</reservforassignment>
+        <useWriteBoard>true</useWriteBoard>
+        <newChapterName>Diagnostic_Assessment_IT22_R12_130</newChapterName>
+        <chapterName>Diagnostic_Assessment_IT22_R12_130</chapterName>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2212.ViewAndUseStaticAndAdaptiveAssessmentsInQuestionBank" index="131" method="">
+        <user_id>student_IT22_R12_130_3</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R12_130</context_id>
+        <context_title>studtitle_IT22_R12_130</context_title>
+        <assessmentname>Practice Assessment_130</assessmentname>
+        <questiontype>Adaptive Component Diagnostic</questiontype>
+        <questionset>Test Question IT22_R12_130</questionset>
+        <questiontext>Test Question IT22_R12_131</questiontext>
+        <learningobjective>true</learningobjective>
+        <solutionText>true</solutionText>
+        <hintText>true</hintText>
+        <newChapterName>Diagnostic_Assessment_IT22_R12_130</newChapterName>
+        <chapterName>Diagnostic_Assessment_IT22_R12_130</chapterName>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2212.ViewAndUseStaticAndAdaptiveAssessmentsInQuestionBank" index="132" method="">
+        <user_id>instructor_IT22_R12_130</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R12_130</context_id>
+        <context_title>studtitle_IT22_R12_130</context_title>
+        <assessmentname>Practice Assessment_131</assessmentname>
+        <questiontype>Adaptive Component Practice</questiontype>
+        <questionset>Test Question IT22_R12_130</questionset>
+        <questiontext>Test Question IT22_R12_132</questiontext>
+        <learningobjective>true</learningobjective>
+        <solutionText>true</solutionText>
+        <hintText>true</hintText>
+        <newChapterName>Diagnostic_Assessment_IT22_R12_130</newChapterName>
+        <chapterName>Diagnostic_Assessment_IT22_R12_130</chapterName>
+        <numberofquestions>3</numberofquestions>
+        <shareWithInitialString>studtitle_IT22_R12_130</shareWithInitialString>
+        <shareName>studtitle_IT22_R12_130</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2212.ViewAndUseStaticAndAdaptiveAssessmentsInQuestionBank" index="133" method="">
+        <user_id>instructor_IT22_R12_130</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R12_130</context_id>
+        <context_title>studtitle_IT22_R12_130</context_title>
+        <assessmentname>Practice Assessment_131</assessmentname>
+        <questiontype>Adaptive Component Practice</questiontype>
+        <questionset>Test Question IT22_R12_130</questionset>
+        <questiontext>Test Question IT22_R12_133</questiontext>
+        <learningobjective>true</learningobjective>
+        <solutionText>true</solutionText>
+        <hintText>true</hintText>
+        <newChapterName>Diagnostic_Assessment_IT22_R12_130</newChapterName>
+        <chapterName>Diagnostic_Assessment_IT22_R12_130</chapterName>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2212.ViewAndUseStaticAndAdaptiveAssessmentsInQuestionBank" index="134" method="">
+        <user_id>instructor_IT22_R12_130</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R12_130</context_id>
+        <context_title>studtitle_IT22_R12_130</context_title>
+        <assessmentname>Practice Assessment_131</assessmentname>
+        <questiontype>Adaptive Component Practice</questiontype>
+        <questionset>Test Question IT22_R12_130</questionset>
+        <questiontext>Test Question IT22_R12_134</questiontext>
+        <learningobjective>true</learningobjective>
+        <solutionText>true</solutionText>
+        <hintText>true</hintText>
+        <newChapterName>Diagnostic_Assessment_IT22_R12_130</newChapterName>
+        <chapterName>Diagnostic_Assessment_IT22_R12_130</chapterName>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2212.ViewAndUseStaticAndAdaptiveAssessmentsInQuestionBank" index="148" method="">
+        <user_id>mentor_IT22_R12_148</user_id>>
+        <Role>mentor</Role>
+        <context_id>studcontext_IT22_R12_148</context_id>
+        <context_title>studtitle_IT22_R12_148</context_title>
+        <assessmentname>Practice Assessment_131</assessmentname>
+        <questiontype>Adaptive Component Practice</questiontype>
+        <questionset>Test Question IT22_R12_130</questionset>
+        <questiontext>Test Question IT22_R12_132</questiontext>
+        <learningobjective>true</learningobjective>
+        <solutionText>true</solutionText>
+        <hintText>true</hintText>
+        <newChapterName>Diagnostic_Assessment_IT22_R12_130</newChapterName>
+        <chapterName>Diagnostic_Assessment_IT22_R12_130</chapterName>
+        <numberofquestions>3</numberofquestions>
+        <shareWithInitialString>studtitle_IT22_R12_130</shareWithInitialString>
+        <shareName>studtitle_IT22_R12_130</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2212.ViewAndUseStaticAndAdaptiveAssessmentsInQuestionBank" index="147" method="">
+        <user_id>student_IT22_R12_148</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R12_148</context_id>
+        <context_title>studtitle_IT22_R12_148</context_title>
+        <assessmentname>Practice Assessment_131</assessmentname>
+        <questiontype>Adaptive Component Practice</questiontype>
+        <questionset>Test Question IT22_R12_130</questionset>
+        <questiontext>Test Question IT22_R12_132</questiontext>
+        <hintText>true</hintText>
+        <solutionText>true</solutionText>
+        <reservforassignment>true</reservforassignment>
+    </testcase>
+</learningspaces>

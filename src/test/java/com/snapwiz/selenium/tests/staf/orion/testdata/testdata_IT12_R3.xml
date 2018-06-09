@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<orion>
+    
+ <testcase id="chapternames" index = "1">
+	<chapter1>Ch 1: The Changing Face of Business</chapter1>
+</testcase>   
+    
+ <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT12.R3.Browse" index="54" method="browseandquickpreviewnumericentrywithunits">
+   <assessmentname>81 Assessment</assessmentname>
+  <questionset>81 Question Set</questionset>
+  <questiontext>81 Test Question</questiontext>
+  <questiontype>Static Practice</questiontype>
+  <assessmentname>81 Assessment</assessmentname>
+  <shareWithInitialString>805second</shareWithInitialString>
+  <shareName>805first 805second</shareName>
+  <shareWithClass>false</shareWithClass>
+  <gradeable>true</gradeable>
+  <gradingpolicy>Grading policy text</gradingpolicy>
+  <duedate>28</duedate>
+  <duetime>12:00 AM</duetime>
+  <additionalnote>This is an additional note</additionalnote>
+  <studentname>805first 805second</studentname>
+ </testcase>
+
+ <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT12.R3.Browse" index="55" method="browseandquickpreviewmaplenumeric">
+   <assessmentname>81 Assessment</assessmentname>
+  <questionset>81 Question Set</questionset>
+  <questiontext>81 Test Question</questiontext>
+  <questiontype>Static Practice</questiontype>
+  <assessmentname>81 Assessment</assessmentname>
+  <shareWithInitialString>805second</shareWithInitialString>
+  <shareName>805first 805second</shareName>
+  <shareWithClass>false</shareWithClass>
+  <gradeable>true</gradeable>
+  <gradingpolicy>Grading policy text</gradingpolicy>
+  <duedate>28</duedate>
+  <duetime>12:00 AM</duetime>
+  <additionalnote>This is an additional note</additionalnote>
+  <studentname>805first 805second</studentname>
+ </testcase>
+ 
+  <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT12.R3.Browse" index="56" method="browseandquickpreviewmaplesymbolic">
+    <assessmentname>81 Assessment</assessmentname>
+  <questionset>81 Question Set</questionset>
+  <questiontext>81 Test Question</questiontext>
+  <questiontype>Static Practice</questiontype>
+  <assessmentname>81 Assessment</assessmentname>
+  <shareWithInitialString>805second</shareWithInitialString>
+  <shareName>805first 805second</shareName>
+  <shareWithClass>false</shareWithClass>
+  <gradeable>true</gradeable>
+  <gradingpolicy>Grading policy text</gradingpolicy>
+  <duedate>28</duedate>
+  <duetime>12:00 AM</duetime>
+  <additionalnote>This is an additional note</additionalnote>
+  <studentname>805first 805second</studentname>
+ </testcase>
+ 
+</orion>

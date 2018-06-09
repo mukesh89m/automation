@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edulastic>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.signupwithdeeplink.DeepLinkAssessmentSignUpFlow" index ="17" method="">
+        <assessmentname>Regression_deepAssessmentLinkSignUpFlow_17</assessmentname>
+        <questiontext>question text_deepAssessmentLinkSignUpFlow_question_17</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.signupwithdeeplink.DeepLinkAssessmentSignUpFlow" index ="116" method="">
+        <assessmentname>Regression_deepAssessmentLinkSignUpFlowInstructorExistingSchool_116</assessmentname>
+        <questiontext>question text_deepAssessmentLinkSignUpFlowInstructorExistingSchool_question_116</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.signupwithdeeplink.DeepLinkAssessmentSignUpFlow" index ="175" method="">
+        <assessmentname>Regression_deepAssessmentLinkSignUpFlowSharedAtDistrictLevel_175</assessmentname>
+        <questiontext>question text_deepAssessmentLinkSignUpFlowSharedAtDistrictLevel_question_175</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>district</privacy>
+    </testcase>
+
+
+
+
+
+
+
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.signupwithdeeplink.DeepLinkAssessmentSignUpFlowWithGoogle" index ="26" method="">
+        <assessmentname>Regression_deepAssessmentLinkSignUpFlow_26</assessmentname>
+        <questiontext>question text_deepAssessmentLinkSignUpFlow_question_26</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.signupwithdeeplink.DeepLinkAssessmentSignUpFlowWithGoogle" index ="126" method="">
+        <assessmentname>Regression_deepAssessmentLinkSignUpFlowInstructorExistingSchool_126</assessmentname>
+        <questiontext>question text_deepAssessmentLinkSignUpFlowInstructorExistingSchool_question_126</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.signupwithdeeplink.DeepLinkAssessmentSignUpFlowWithGoogle" index ="127" method="">
+        <assessmentname>Regression_deepAssessmentLinkSignUpFlowSharedAtDistrictLevel_175</assessmentname>
+        <questiontext>question text_deepAssessmentLinkSignUpFlowSharedAtDistrictLevel_question_175</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>district</privacy>
+    </testcase>
+</edulastic>

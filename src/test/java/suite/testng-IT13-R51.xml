@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="IT_13_R51-LSRegressionSuite">
+    <classes>         	
+    	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R51.EngagementReport"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R51.AssignQuizzed"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R51.InstructorAbleToViewAssignedQuized"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R51.InstructorAbleToViewAssignedReading"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R51.AchievementSummary"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R51.InstructorSeeEmptyReportIfNoData"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R51.EnhashmentOfstudentAndInstructorDashboard"/>
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->

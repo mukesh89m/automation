@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edulastic>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.sanity.assignmentflowinprogress.AssignmentFlowInProgress" index ="1" method="">
+        <assessmentname>Sanity_AssignmentFlowInProgress_Assignment_1</assessmentname>
+        <questiontext>question text_AssignmentFlowInProgress_question_1</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>district</privacy>
+    </testcase>
+
+
+
+</edulastic>

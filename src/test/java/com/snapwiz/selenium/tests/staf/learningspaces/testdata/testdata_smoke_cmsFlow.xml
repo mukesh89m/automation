@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.cmsFlow.CreateChapterAndTlo" index="1">
+        <assessmentname>Diagnostic_Assessment</assessmentname>
+        <questiontype>Adaptive Component Diagnostic</questiontype>
+        <questionset>QuestionSet_smoke_cmsFlow_createChapter</questionset>
+        <questiontext>QuestionText_cmsFlow_createChapter</questiontext>
+        <learningobjective>associateTLO</learningobjective>
+        <solutionText>true</solutionText>
+        <hintText>true</hintText>
+        <newChapterName>DemoChapter</newChapterName>
+        <chapterName>DemoChapter</chapterName>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.cmsFlow.CreateChapterAndTlo" index="2" method="">
+        <assessmentname>Practice_Assessment</assessmentname>
+        <questiontype>Adaptive Component Practice</questiontype>
+        <questionset>QuestionSet_smoke_cmsFlow_createChapter</questionset>
+        <questiontext>QuestionText_cmsFlow_createChapter</questiontext>
+        <learningobjective>associateTLO</learningobjective>
+        <solutionText>true</solutionText>
+        <hintText>true</hintText>
+        <newChapterName>DemoChapter</newChapterName>
+        <chapterName>DemoChapter</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.cmsFlow.CreateChapterAndTlo" index="3" method="">
+        <assessmentname>Static_Assessment</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>QuestionSet_smoke_cmsFlow_createChapter</questionset>
+        <questiontext>QuestionText_cmsFlow_createChapter</questiontext>
+        <learningobjective>associateTLO</learningobjective>
+        <solutionText>true</solutionText>
+        <hintText>true</hintText>
+        <newChapterName>DemoChapter</newChapterName>
+        <chapterName>DemoChapter</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.cmsFlow.CreateChapterAndTlo" index="4" method="">
+        <assessmentname>TrueFalse_Static_Assessment</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>QuestionSet_smoke_cmsFlow_createChapter</questionset>
+        <questiontext>QuestionText_cmsFlow_createChapter</questiontext>
+        <learningobjective>associateTLO</learningobjective>
+        <solutionText>true</solutionText>
+        <hintText>true</hintText>
+        <withImage>true</withImage>
+        <filename>1mb.jpg</filename>
+        <chapterName>DemoChapter</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.cmsFlow.CreateChapterAndTlo" index="5" method="">
+        <assessmentname>MultiChoice_Static_Assessment</assessmentname>
+        <overrideDefaultQuestionCreate>multiplechoice</overrideDefaultQuestionCreate>
+        <questiontype>Static Practice</questiontype>
+        <questionset>QuestionSet_smoke_cmsFlow_createChapter</questionset>
+        <questiontext>QuestionText_cmsFlow_createChapter</questiontext>
+        <learningobjective>associateTLO</learningobjective>
+        <hintText>true</hintText>
+        <filename>1mb.jpg</filename>
+        <withImageInSolution>true</withImageInSolution>
+        <chapterName>DemoChapter</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.cmsFlow.CreateChapterAndTlo" index="6" method="">
+        <assessmentname>MultiSelection_Static_Assessment</assessmentname>
+        <overrideDefaultQuestionCreate>multipleselection</overrideDefaultQuestionCreate>
+        <questiontype>Static Practice</questiontype>
+        <questionset>QuestionSet_smoke_cmsFlow_createChapter</questionset>
+        <questiontext>QuestionText_cmsFlow_createChapter</questiontext>
+        <learningobjective>associateTLO</learningobjective>
+        <solutionText>true</solutionText>
+        <filename>1mb.jpg</filename>
+        <withImageInHint>true</withImageInHint>
+        <chapterName>DemoChapter</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.cmsFlow.CreateChapterAndTlo" index="7" method="">
+        <assessmentname>TextEntry_Static_Assessment</assessmentname>
+        <overrideDefaultQuestionCreate>textentry</overrideDefaultQuestionCreate>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>$a+$b</questiontext>
+        <questionset>QuestionSet_smoke_cmsFlow_createChapter</questionset>
+        <learningobjective>associateTLO</learningobjective>
+        <difficultylevel>Medium</difficultylevel>
+        <variationLevel>Evaluation</variationLevel>
+        <algorithmic>true</algorithmic>
+        <chapterName>DemoChapter</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.cmsFlow.CreateChapterAndTlo" index="8" method="">
+        <assessmentname>AdvancedNumeric_Static_Assessment</assessmentname>
+        <overrideDefaultQuestionCreate>advancednumeric</overrideDefaultQuestionCreate>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>$a+$b</questiontext>
+        <questionset>QuestionSet_smoke_cmsFlow_createChapter</questionset>
+        <learningobjective>associateTLO</learningobjective>
+        <difficultylevel>Medium</difficultylevel>
+        <variationLevel>Evaluation</variationLevel>
+        <algorithmic>true</algorithmic>
+        <chapterName>DemoChapter</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.cmsFlow.CreateChapterAndTlo" index="9" method="">
+        <assessmentname>ExpressionEvaluator_Static_Assessment</assessmentname>
+        <overrideDefaultQuestionCreate>expressionevaluator</overrideDefaultQuestionCreate>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>$a+$b</questiontext>
+        <questionset>QuestionSet_smoke_cmsFlow_createChapter</questionset>
+        <learningobjective>associateTLO</learningobjective>
+        <difficultylevel>Medium</difficultylevel>
+        <variationLevel>Evaluation</variationLevel>
+        <algorithmic>true</algorithmic>
+        <chapterName>DemoChapter</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.cmsFlow.CreateChapterAndTlo" index="10" method="">
+        <assessmentname>essay_question_with_audio_Static_Assessment</assessmentname>
+        <overrideDefaultQuestionCreate>essay</overrideDefaultQuestionCreate>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>essayquestionwithaudio</questiontext>
+        <questionset>QuestionSet_smoke_cmsFlow_createChapter</questionset>
+        <learningobjective>associateTLO</learningobjective>
+        <difficultylevel>Medium</difficultylevel>
+        <variationLevel>Evaluation</variationLevel>
+        <chapterName>DemoChapter</chapterName>
+        <withUploadAudio>true</withUploadAudio>
+        <filename1>audio295.mp3</filename1>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.cmsFlow.CreateChapterAndTlo" index="11" method="">
+        <assessmentname>writeboard_question_with_audio_Static_Assessment</assessmentname>
+        <overrideDefaultQuestionCreate>writeboard</overrideDefaultQuestionCreate>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>writeboardquestionwithaudio</questiontext>
+        <questionset>QuestionSet_smoke_cmsFlow_createChapter</questionset>
+        <learningobjective>associateTLO</learningobjective>
+        <difficultylevel>Medium</difficultylevel>
+        <variationLevel>Evaluation</variationLevel>
+        <chapterName>DemoChapter</chapterName>
+        <withUploadAudio>true</withUploadAudio>
+        <filename1>audio295.mp3</filename1>
+        <previewPage>true</previewPage>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.cmsFlow.CreateChapterAndTlo" index="12" method="">
+        <assessmentname>TextEntryWithDropDown_Static_Assessment</assessmentname>
+        <overrideDefaultQuestionCreate>textdropdown</overrideDefaultQuestionCreate>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>TextEntryWithDropDown</questiontext>
+        <questionset>QuestionSet_smoke_cmsFlow_createChapter</questionset>
+        <learningobjective>associateTLO</learningobjective>
+        <difficultylevel>Medium</difficultylevel>
+        <variationLevel>Evaluation</variationLevel>
+        <chapterName>DemoChapter</chapterName>
+        <withVedio>true</withVedio>
+        <wistiaCode>wu3byr3dsh</wistiaCode>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.cmsFlow.CreateChapterAndTlo" index="13" method="">
+        <assessmentname>DragAndDrop_Static_Assessment</assessmentname>
+        <overrideDefaultQuestionCreate>draganddrop</overrideDefaultQuestionCreate>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>DragAndDrop</questiontext>
+        <questionset>QuestionSet_smoke_cmsFlow_createChapter</questionset>
+        <learningobjective>associateTLO</learningobjective>
+        <difficultylevel>Medium</difficultylevel>
+        <variationLevel>Evaluation</variationLevel>
+        <filename>img.jpg</filename>
+        <chapterName>DemoChapter</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.cmsFlow.CreateChapterAndTlo" index="14" method="matchTheFollowing">
+        <assessmentname>matchTheFollowing_Static_Assessment</assessmentname>
+        <overrideDefaultQuestionCreate>matchthefollowing</overrideDefaultQuestionCreate>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>matchTheFollowing</questiontext>
+        <questionset>QuestionSet_smoke_cmsFlow_createChapter</questionset>
+        <learningobjective>associateTLO</learningobjective>
+        <difficultylevel>Medium</difficultylevel>
+        <variationLevel>Evaluation</variationLevel>
+        <filename>img.jpg</filename>
+        <chapterName>DemoChapter</chapterName>
+        <distractor>true</distractor>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.cmsFlow.CreateChapterAndTlo" index="15" method="labelAnImageTextQuestionTypes">
+        <assessmentname>labelAnImage_Static_Assessment</assessmentname>
+        <overrideDefaultQuestionCreate>labelAnImageText</overrideDefaultQuestionCreate>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>labelAnImageText</questiontext>
+        <questionset>QuestionSet_smoke_cmsFlow_createChapter</questionset>
+        <learningobjective>associateTLO</learningobjective>
+        <difficultylevel>Hard</difficultylevel>
+        <variationLevel>Evaluation</variationLevel>
+        <filename>img.jpg</filename>
+        <chapterName>DemoChapter</chapterName>
+        <distractor>true</distractor>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.cmsFlow.CreateChapterAndTlo" index="16" method="labelAnImageDropdown">
+        <assessmentname>labelAnImageDropdown_Static_Assessment</assessmentname>
+        <overrideDefaultQuestionCreate>labelAnImageDropdown</overrideDefaultQuestionCreate>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>labelAnImageDropdown</questiontext>
+        <questionset>QuestionSet_smoke_cmsFlow_createChapter</questionset>
+        <learningobjective>associateTLO</learningobjective>
+        <difficultylevel>Hard</difficultylevel>
+        <variationLevel>Evaluation</variationLevel>
+        <filename>img.jpg</filename>
+        <chapterName>DemoChapter</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.cmsFlow.CreateChapterAndTlo" index="17" method="multiPartQuestion">
+        <assessmentname>MultiPartQuestion_Static_Assessment</assessmentname>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>multipartQuestionText</questiontext>
+        <questionset>QuestionSet_smoke_cmsFlow_createChapter</questionset>
+        <learningobjective>associateTLO</learningobjective>
+        <variationLevel>Evaluation</variationLevel>
+        <questiontextstem2>stemQuestionText</questiontextstem2>
+        <chapterName>DemoChapter</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.cmsFlow.CreateChapterAndTlo" index="19" method="multiPartQuestion">
+        <assessmentname>MultiPartQuestion_Static_Assessment</assessmentname>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>DependentMultipartQuestionText</questiontext>
+        <questionset>QuestionSet_smoke_cmsFlow_createChapter</questionset>
+        <learningobjective>associateTLO</learningobjective>
+        <variationLevel>Evaluation</variationLevel>
+        <questiontextstem2>stemQuestionText</questiontextstem2>
+        <chapterName>DemoChapter</chapterName>
+        <dependentPart>true</dependentPart>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.cmsFlow.CreateChapterAndTlo" index="18" method="audio">
+        <assessmentname>Audio_Static_Assessment</assessmentname>
+        <overrideDefaultQuestionCreate>audio</overrideDefaultQuestionCreate>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>audioQuestionText</questiontext>
+        <questionset>QuestionSet_smoke_cmsFlow_createChapter</questionset>
+        <learningobjective>associateTLO</learningobjective>
+        <variationLevel>Evaluation</variationLevel>
+        <withUploadAudio>true</withUploadAudio>
+        <filename1>audio295.mp3</filename1>
+        <selectLanguagePalette>spanish</selectLanguagePalette>
+        <chapterName>DemoChapter</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.cmsFlow.SearchFilterFunctionality" index="1">
+        <assessmentname>Assignment_smoke_truefalse_1</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>QuestionSet_smoke_truefalse_1</questionset>
+        <questiontext>QuestionText_smoke_truefalse_1</questiontext>
+        <learningobjective>true</learningobjective>
+        <withVedio>true</withVedio>
+        <wistiaCode>48krttk1s4</wistiaCode>
+        <variationLevel>Evaluation</variationLevel>
+        <difficultylevel>Easy</difficultylevel>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.cmsFlow.SearchFilterFunctionality" index="2">
+        <assessmentname>Assignment_smoke_multipleChoice_2</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>QuestionSet_smoke_multipleChoice_2</questionset>
+        <questiontext>QuestionText_smoke_multipleChoice_2</questiontext>
+        <learningobjective>13</learningobjective>
+        <withUploadVideo>true</withUploadVideo>
+        <filename>samplevideo.mp4</filename>
+        <variationLevel>Synthesis</variationLevel>
+        <difficultylevel>Medium</difficultylevel>
+        <overrideDefaultQuestionCreate>multiplechoice</overrideDefaultQuestionCreate>
+        <status>draftPendingImages</status>
+        <chapterName>Ch 2: The Chemical Foundation of Life</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.cmsFlow.SearchFilterFunctionality" index="3">
+        <assessmentname>Assignment_smoke_multipleSelection_3</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>QuestionSet_smoke_multipleSelection_3</questionset>
+        <questiontext>QuestionText_smoke_multipleSelection_3</questiontext>
+        <learningobjective>27</learningobjective>
+        <withImage>true</withImage>
+        <filename>img.jpg</filename>
+        <variationLevel>Analysis</variationLevel>
+        <difficultylevel>Hard</difficultylevel>
+        <overrideDefaultQuestionCreate>multipleselection</overrideDefaultQuestionCreate>
+        <status>accuracyCheck</status>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.cmsFlow.SearchFilterFunctionality" index="4">
+        <assessmentname>Assignment_smoke_textEntry_4</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>QuestionSet_smoke_textEntry_4</questionset>
+        <questiontext>QuestionText_smoke_textEntry_4</questiontext>
+        <learningobjective>51</learningobjective>
+        <withImage>true</withImage>
+        <filename>sampleimg.jpg</filename>
+        <variationLevel>Application</variationLevel>
+        <difficultylevel>Easy</difficultylevel>
+        <overrideDefaultQuestionCreate>textentry</overrideDefaultQuestionCreate>
+        <status>qa</status>
+        <chapterName>Ch 4: Cell Structure</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.cmsFlow.SearchFilterFunctionality" index="5">
+        <assessmentname>Assignment_smoke_textDropDown_5</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>QuestionSet_smoke_textDropDown_5</questionset>
+        <questiontext>QuestionText_smoke_textDropDown_5</questiontext>
+        <learningobjective>79</learningobjective>
+        <withImage>true</withImage>
+        <filename>sampleimg.jpg</filename>
+        <variationLevel>Comprehension</variationLevel>
+        <difficultylevel>Medium</difficultylevel>
+        <overrideDefaultQuestionCreate>textdropdown</overrideDefaultQuestionCreate>
+        <status>needRevision</status>
+        <chapterName>Ch 5: Structure and Function of Plasma Membranes</chapterName>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.cmsFlow.SearchFilterFunctionality" index="6">
+        <assessmentname>Assignment_smoke_numericEntry_6</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>QuestionSet_smoke_numericEntry_6</questionset>
+        <questiontext>QuestionText_smoke_numericEntry_6</questiontext>
+        <learningobjective>93</learningobjective>
+        <variationLevel>Knowledge</variationLevel>
+        <difficultylevel>Hard</difficultylevel>
+        <overrideDefaultQuestionCreate>numericentrywithunits</overrideDefaultQuestionCreate>
+        <status>approve</status>
+        <chapterName>Ch 6: Metabolism</chapterName>
+        <withImage>true</withImage>
+        <filename>img.jpg</filename>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.cmsFlow.SearchFilterFunctionality" index="7">
+        <assessmentname>Assignment_smoke_advancednumeric_7</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>QuestionSet_smoke_advancednumeric_7</questionset>
+        <questiontext>QuestionText_smoke_advancednumeric_7</questiontext>
+        <learningobjective>113</learningobjective>
+        <variationLevel>Evaluation</variationLevel>
+        <difficultylevel>Easy</difficultylevel>
+        <overrideDefaultQuestionCreate>advancednumeric</overrideDefaultQuestionCreate>
+        <status>readyToPublish</status>
+        <chapterName>Ch 7: Cellular Respiration</chapterName>
+        <withVedio>true</withVedio>
+        <wistiaCode>wu3byr3dsh</wistiaCode>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.cmsFlow.SearchFilterFunctionality" index="8">
+        <assessmentname>Assignment_smoke_expressioneval_8</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>QuestionSet_smoke_expressioneval_8</questionset>
+        <questiontext>QuestionText_smoke_expressioneval_8</questiontext>
+        <learningobjective>136</learningobjective>
+        <variationLevel>Synthesis</variationLevel>
+        <difficultylevel>Medium</difficultylevel>
+        <overrideDefaultQuestionCreate>expressionevaluator</overrideDefaultQuestionCreate>
+        <status>drafts</status>
+        <chapterName>Ch 8: Photosynthesis</chapterName>
+        <withUploadVideo>true</withUploadVideo>
+        <filename>samplevideo.mp4</filename>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.cmsFlow.SearchFilterFunctionality" index="9">
+        <assessmentname>Assignment_smoke_essay_9</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>QuestionSet_smoke_essay_9</questionset>
+        <questiontext>QuestionText_smoke_essay_9</questiontext>
+        <learningobjective>148</learningobjective>
+        <variationLevel>Analysis</variationLevel>
+        <difficultylevel>Hard</difficultylevel>
+        <overrideDefaultQuestionCreate>essay</overrideDefaultQuestionCreate>
+        <status>draftPendingImages</status>
+        <chapterName>Ch 9: Cell Communication</chapterName>
+        <withImage>true</withImage>
+        <filename>img.jpg</filename>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.cmsFlow.SearchFilterFunctionality" index="10">
+        <assessmentname>Assignment_smoke_writeboard_10</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>QuestionSet_smoke_writeboard_10</questionset>
+        <questiontext>QuestionText_smoke_writeboard_10</questiontext>
+        <learningobjective>51</learningobjective>
+        <withImage>true</withImage>
+        <filename>sampleimg.jpg</filename>
+        <variationLevel>Application</variationLevel>
+        <difficultylevel>Easy</difficultylevel>
+        <overrideDefaultQuestionCreate>writeboard</overrideDefaultQuestionCreate>
+        <status>qa</status>
+        <chapterName>Ch 4: Cell Structure</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.cmsFlow.SearchFilterFunctionality" index="11">
+        <assessmentname>Assignment_smoke_audio_11</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>QuestionSet_smoke_audio_11</questionset>
+        <questiontext>QuestionText_smoke_audio_11</questiontext>
+        <learningobjective>79</learningobjective>
+        <withUploadVideo>true</withUploadVideo>
+        <filename>samplevideo.mp4</filename>
+        <variationLevel>Comprehension</variationLevel>
+        <difficultylevel>Medium</difficultylevel>
+        <overrideDefaultQuestionCreate>audio</overrideDefaultQuestionCreate>
+        <status>needRevision</status>
+        <chapterName>Ch 5: Structure and Function of Plasma Membranes</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.cmsFlow.SearchFilterFunctionality" index="12">
+        <assessmentname>Assignment_smoke_maththefollowing_12</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>QuestionSet_smoke_maththefollowing_12</questionset>
+        <questiontext>QuestionText_smoke_maththefollowing_12</questiontext>
+        <learningobjective>93</learningobjective>
+        <variationLevel>Knowledge</variationLevel>
+        <difficultylevel>Hard</difficultylevel>
+        <overrideDefaultQuestionCreate>matchthefollowing</overrideDefaultQuestionCreate>
+        <status>approve</status>
+        <chapterName>Ch 6: Metabolism</chapterName>
+        <withVedio>true</withVedio>
+        <wistiaCode>wu3byr3dsh</wistiaCode>
+        <filename>img.jpg</filename>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.cmsFlow.SearchFilterFunctionality" index="13">
+        <assessmentname>Assignment_smoke_dragdrop_13</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>QuestionSet_smoke_dragdrop_13</questionset>
+        <questiontext>QuestionText_smoke_dragdrop_13</questiontext>
+        <learningobjective>113</learningobjective>
+        <variationLevel>Evaluation</variationLevel>
+        <difficultylevel>Easy</difficultylevel>
+        <overrideDefaultQuestionCreate>draganddrop</overrideDefaultQuestionCreate>
+        <status>readyToPublish</status>
+        <chapterName>Ch 7: Cellular Respiration</chapterName>
+        <withVedio>true</withVedio>
+        <wistiaCode>wu3byr3dsh</wistiaCode>
+        <filename>img.jpg</filename>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.cmsFlow.SearchFilterFunctionality" index="14">
+        <assessmentname>Assignment_smoke_labelAnImageText_14</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>QuestionSet_smoke_labelAnImageText_14</questionset>
+        <questiontext>QuestionText_smoke_labelAnImageText_14</questiontext>
+        <learningobjective>136</learningobjective>
+        <variationLevel>Synthesis</variationLevel>
+        <difficultylevel>Medium</difficultylevel>
+        <overrideDefaultQuestionCreate>labelAnImageText</overrideDefaultQuestionCreate>
+        <status>drafts</status>
+        <chapterName>Ch 8: Photosynthesis</chapterName>
+        <withUploadAudio>true</withUploadAudio>
+        <filename1>img.mp3</filename1>
+        <filename>img.jpg</filename>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.cmsFlow.SearchFilterFunctionality" index="15">
+        <assessmentname>Assignment_smoke_labelAnImageDropDown_15</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>QuestionSet_smoke_labelAnImageDropDown_15</questionset>
+        <questiontext>QuestionText_smoke_labelAnImageDropDown_15</questiontext>
+        <learningobjective>148</learningobjective>
+        <variationLevel>Analysis</variationLevel>
+        <difficultylevel>Hard</difficultylevel>
+        <overrideDefaultQuestionCreate>labelAnImageDropdown</overrideDefaultQuestionCreate>
+        <status>draftPendingImages</status>
+        <chapterName>Ch 9: Cell Communication</chapterName>
+        <withImage>true</withImage>
+        <filename>img.jpg</filename>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.cmsFlow.SearchFilterFunctionality" index="17">
+        <assessmentname>Assignment_smoke_withoutmedia</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>QuestionSet_smoke_withoutmedia</questionset>
+        <questiontext>QuestionText_smoke_withoutmedia</questiontext>
+        <filename>img.jpg</filename>
+        <questiontextstem2>stemQuestionText</questiontextstem2>
+        <fileUpload>true</fileUpload>
+        <totalpoints>2</totalpoints>
+        <promptdetails>promptdetails</promptdetails>
+        <questionsTypes>Advanced Numeric,Audio Recorder,Drag and Drop,Essay Type,Expression Evaluator,Label an image (Dropdown),Label an image (Text),Match the following,Multiple Choice,Multiple Selection,Numeric Entry,Numeric Entry w/units,Text Drop Down,Text Entry,True / False,Workboard</questionsTypes>
+    </testcase>
+
+</learningspaces>

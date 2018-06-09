@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+    <test name="IT18-R187_test">
+        <classes>
+            <!-- IT18 R18.7   "Enhancements to the assignment creation flow by the instructor" -->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R187.AssignmentSubMenuFunctionality"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->

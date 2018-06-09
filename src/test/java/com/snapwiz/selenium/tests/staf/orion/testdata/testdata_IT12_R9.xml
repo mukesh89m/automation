@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orion>
+	<testcase id="tloids" index ="0">	          
+			<tlo>2</tlo>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT12.R9.ToleranceForNumericEntryQuestion" index="147" method="toleranceForNumericEntryQuestion">
+			<assessmentname>147assessment</assessmentname>
+			<questiontype>Adaptive Component Diagnostic</questiontype>
+			<questionset>147questionset</questionset>
+			<questiontext>147questiontext</questiontext>
+			<numerictext>100</numerictext>
+			<optiontext>105</optiontext>
+			<tolrence>2</tolrence>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT12.R9.ToleranceForNumericEntryQuestion" index="152" method="defaulttoleranceForNumericEntryQuestionByQTIImport">
+			<assessmentname>152_4assessment</assessmentname>
+			<questiontype>Adaptive Component Diagnostic</questiontype>
+			<questionset>152_4questionset</questionset>
+			<questiontext>152_4questiontext</questiontext>
+			<filename>NumericEntryQuestionWithDefaultTolerance.xml</filename>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT12.R9.ToleranceForNumericEntryQuestion" index="154" method="editedToleranceForNumericEntryQuestionByQTIImport">
+			<assessmentname>154assessment</assessmentname>
+			<questiontype>Adaptive Component Diagnostic</questiontype>
+			<questionset>154questionset</questionset>
+			<questiontext>154questiontext</questiontext>
+			<filename>NumericEntryQuestionWithEditedTolerance.xml</filename>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT12.R9.ToleranceForNumericEntryQuestion" index="156" method="blankToleranceForNumericEntryQuestionByQTIImport">
+			<assessmentname>156assessment</assessmentname>
+			<questiontype>Adaptive Component Diagnostic</questiontype>
+			<questionset>156questionset</questionset>
+			<questiontext>156questiontext</questiontext>
+			<filename>NumericEntryQuestionWithBlankTolerance.xml</filename>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT12.R9.ToleranceForNumericEntryQuestion" index="158" method="toleranceValueAsEforNumericEntryQuestionByQTIImport">
+			<assessmentname>158assessment</assessmentname>
+			<questiontype>Adaptive Component Diagnostic</questiontype>
+			<questionset>158questionset</questionset>
+			<questiontext>158questiontext</questiontext>
+			<filename>NumericEntryQuestionWithEasToleranceValue.xml</filename>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT12.R9.ToleranceForNumericEntryWithUnitsQuestion" index="160" method="toleranceForNumericEntryWithUnitsQuestion">
+			<assessmentname>160_assessment</assessmentname>
+			<questiontype>Adaptive Component Diagnostic</questiontype>
+			<questionset>160_1questionset</questionset>
+			<questiontext>160_1questiontext</questiontext>
+			<numerictext>100</numerictext>
+			<unitoption>feet</unitoption>
+			<tolrence>2</tolrence>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT12.R9.ToleranceForMapleNumericQuestion" index="161" method="ToleranceForMapleNumericQuestion">
+			<assessmentname>161assessment</assessmentname>
+			<questiontype>Adaptive Component Diagnostic</questiontype>
+			<questionset>161questionset</questionset>
+			<questiontext>161questiontext</questiontext>
+			<maplenumeric>100</maplenumeric>
+			<optiontext></optiontext>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT12.R9.ToleranceForNumericEntryWithUnitsQuestion" index="162" method="defaulttoleranceForNumericEntryWithUnitsQuestionByQTIImport">
+			<assessmentname>162assessment</assessmentname>
+			<questiontype>Adaptive Component Diagnostic</questiontype>
+			<questionset>162questionset</questionset>
+			<questiontext>162questiontext</questiontext>
+			<filename>NumericEntryQuestionWithUnitsWithDefaultTolerance.xml</filename>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT12.R9.ToleranceForMapleNumericQuestion" index="163" method="defaulttoleranceForMapleNumericEntryQuestionByQTIImport">
+			<assessmentname>163assessment</assessmentname>
+			<questiontype>Adaptive Component Diagnostic</questiontype>
+			<questionset>163questionset</questionset>
+			<questiontext>163questiontext</questiontext>
+			<filename>MapleNumericQuestionWithDefaultTolerance.xml</filename>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT12.R9.ToleranceForMapleNumericQuestion" index="164" method="emptyToleranceInXMLForMapleNumericEntryQuestionByQTIImport">
+			<assessmentname>164assessment</assessmentname>
+			<questiontype>Adaptive Component Diagnostic</questiontype>
+			<questionset>164questionset</questionset>
+			<questiontext>164questiontext</questiontext>
+			<filename>MapleNumericQuestionWithEmptyToleranceValue.xml</filename>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT12.R9.ToleranceForMapleNumericQuestion" index="166" method="editedToleranceInXMLForMapleNumericEntryQuestionByQTIImport">
+			<assessmentname>164assessment</assessmentname>
+			<questiontype>Adaptive Component Diagnostic</questiontype>
+			<questionset>164questionset</questionset>
+			<questiontext>164questiontext</questiontext>
+			<filename>MapleNumericQuestionWithEditedToleranceValue.xml</filename>
+	</testcase>
+</orion>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+    <test name="IT 18 Jenkins Suite">
+        <classes>
+
+            <!--IT18 R18.2  "Enhancement to study plan for instructor and mentor"-->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R182.EnhancementToStudyPlanForInstructorAndMentor"/>
+
+            <!--IT18 R18.4  "As a student/instructor/mentor, I should be able to view headings for various nodes in the resource tab in the textbook"-->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R184.IShouldAbleToViewHeadingsForVariousNodes"/>
+
+            <!-- IT18 R18.9  "As an instructor/mentor, I should be able to extend the due date of an assignment." -->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.DueDateField"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.UpdateAssignmentWhenAssignmentInProgress"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.UpdateAssignmentWhenAssignmentSubmitted"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.UpdateAssignmentWhenAssignmentGraded"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.VisibilityOfExtendDueDate"/>
+
+
+            <!--IT18 R18.7   "Enhancements to the assignment creation flow by the instructor"-->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R187.AssignmentSubMenuFunctionality"/>
+
+            <!--IT18 R18.18  " As an instructor/mentor , I should be able to remove questions from an assignment"-->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.AssignmentLinkedToStaticAssessment"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.InstructorShouldAbleToViewTheAssignment"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.InstructorShouldRemoveQuestionsFromAssignment"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1818.ViewTheAssignmentWithTheRemovedQuestions"/>
+
+
+            <!-- IT18 R18.16  As an instructor/mentor, I should be change grade and/or provide student feedback even after grades has been released for any assignment-->
+
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.InstructorEditAndSaveGrade"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.ReleaseGradeForAll"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.InstructorEditAndSaveGradeForPolicyOne"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.InstructorEditAndSaveGradeForPolicyThree"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.InstructorEditAndSaveGradeForPolicyFour"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.GradableAssignmentWithPolicyThreeInStudentSide"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.GradableAssignmentWithoutPolicyInStudentSide"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.GradableAssignmentWithPolicyFourInStudentSide"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.GradableAssignmentWithPolicyOneInStudentSide"/>
+
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.NonGradableQuestionType"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.MentorNonGradableQuestionType"/>
+
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.DashboardTilesUpdateForDWAssignment"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.MentorDashboardTilesUpdateForDWAssignment"/>
+
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.MentorGAWithoutPolicyInStudentSide"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.MentorGAWithPolicyOneInStudentSide"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.MentorGAWithPolicyThreeInStudentSide"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.MentorGAWithPolicyFourInStudentSide"/>
+
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.MentorReleaseGradeForAll"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.MentorEditAndSaveGradeForGradableAssignment"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.MentorEditAndSaveGradeForPolicyOne"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.MentorEditAndSaveGradeForPolicyThree"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1816.MentorEditAndSaveGradeForPolicyFour"/>
+
+
+            <!-- IT18 R18.17  "As an instructor/mentor, I should be able to un-assign an assignment" -->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1817.InstructorAbleToUnAssignGradableAssignment"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1817.InstructorAbleToUnAssignGradableAssignmentWithPolicy"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1817.GradeReleasedForAtLeastOneStudent"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1817.InstructorAbleToUnAssignNonGradableAssignment"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1817.StudentSubmitNonGradableAssignment"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1817.InstructorUpdateAssignmentAddMoreStudents"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1817.UnAssignLearningActivityAssignment"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1817.LearningActivityAssignmentSubmitted"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1817.UnAssignDWAssignment"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1817.SubmitDWAssignment"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1817.UnAssignResourceAssignment"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1817.AssignmentsAssignedToMultipleClassSection"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1817.MentorAbleToUnAssignGradableAssignment"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1817.MentorAbleToUnAssignGradableAssignmentWithPolicy"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1817.MentorReleasesGradeForAtLeastOneStudent"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1817.MentorAbleToUnAssignNonGradableAssignment"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1817.MentorUpdateAssignmentAddMoreStudents"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1817.MentorUnAssignLearningActivityAssignment"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1817.MentorUnAssignDWAssignment"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1817.MentorAssignmentsAssignedToMultipleClassSection"/>
+
+            <!--IT18 R18.11-->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1811.ImportQuestionUsingWPQTI"/>
+
+            <!--IT18 R18.3-->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R183.InstructorAssignAllLessons"/>
+
+            <!--IT18 R18.1-->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R181.VideoFilesFunctionality"/>
+
+            <!--IT18 R18.24-->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.StudentSubmittedQs"/>
+
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->

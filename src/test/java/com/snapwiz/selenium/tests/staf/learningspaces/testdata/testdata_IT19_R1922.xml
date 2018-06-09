@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1922.InstructorFeedbackInStaticAssessment" index="9" method="InstructorFeedbackInStaticAssessment">
+        <user_id>IT19_R1922Instructor_9_4</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R1922_9_4</context_id>
+        <context_title>studtitle_R1922_9_4</context_title>
+        <assessmentname>Assignment_IT19_R1922_9_4</assessmentname>
+        <questionset>9questionset</questionset>
+        <questiontext>9 question text</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <reservforassignment>false</reservforassignment>
+        <useWriteBoard>true</useWriteBoard>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1922.InstructorFeedbackInStaticAssessment" index="9_1" method="InstructorFeedbackInStaticAssessment">
+        <user_id>IT19_R1922student_9_1_4</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R1922_9_4</context_id>
+        <context_title>studtitle_R1922_9_4</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1922.RetakeStaticAssessment" index="57" method="retakeStaticAssessment">
+        <user_id>IT19_R1922Instructor_57</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R1922_57</context_id>
+        <context_title>studtitle_R1922_57</context_title>
+        <assessmentname>Assignment_IT19_R1922_57</assessmentname>
+        <questionset>9questionset</questionset>
+        <questiontext>9 question text</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <reservforassignment>false</reservforassignment>
+        <useWriteBoard>true</useWriteBoard>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1922.RetakeStaticAssessment" index="57_1" method="retakeStaticAssessment">
+        <user_id>IT19_R1922student_57_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R1922_57</context_id>
+        <context_title>studtitle_R1922_57</context_title>
+    </testcase>
+
+     <!--student-->
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1922.StudentFeedbackInStaticAssessment" index="9" method="studentFeedbackInStaticAssessment">
+        <user_id>IT19_R1922Instructor_9_7</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT19_R1922_9_7</context_id>
+        <context_title>studtitle_IT19_R1922_9_7</context_title>
+        <assessmentname>Static Assignment_QIT19_R1922_3</assessmentname>
+        <questionset>R1922questionset</questionset>
+        <questiontext>R1922question text</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <reservforassignment>false</reservforassignment>
+        <chapterName>Ch 2: The Chemical Foundation of Life</chapterName>
+        <learningobjective>12</learningobjective>
+        <useWriteBoard>true</useWriteBoard>
+        <studentname>givenname family</studentname>
+        <chapterIndex>1</chapterIndex>
+        <grade>0.5</grade>
+    </testcase>
+    <!--student-->
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1922.StudentFeedbackInStaticAssessment" index="9_1" method="studentFeedbackInStaticAssessment">
+        <user_id>IT19_R1922Student_9_7</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_R1922_9_7</context_id>
+        <context_title>studtitle_IT19_R1922_9_7</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1922.StudentFeedbackInStaticAssessment" index="10" method="studentFeedbackInStaticAssessment">
+        <assessmentname>Static Assignment_QIT19_R1922_3</assessmentname>
+        <chapterIndex>1</chapterIndex>
+        <grade>0.1</grade>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1922.StudentFeedbackInStaticAssessment" index="66" method="studentReattemptStaticAssessment">
+        <user_id>IT19_R1922Instructor_66_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT19_R1922_66_1</context_id>
+        <context_title>studtitle_IT19_R1922_66_1</context_title>
+        <assessmentname>Static Assignment_QIT19_R1922_3</assessmentname>
+        <chapterIndex>1</chapterIndex>
+        <grade>0.9</grade>
+    </testcase>
+    <!--student-->
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1922.StudentFeedbackInStaticAssessment" index="66_1" method="studentReattemptStaticAssessment">
+        <user_id>IT19_R1922Student_9_66</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_R1922_66_1</context_id>
+        <context_title>studtitle_IT19_R1922_66_1</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1922.StudentFeedbackInStaticAssessment" index="67" method="studentReattemptStaticAssessment">
+        <assessmentname>Static Assignment_QIT19_R1922_3</assessmentname>
+        <chapterIndex>1</chapterIndex>
+        <grade>0.5</grade>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1922.StudentFeedbackInStaticAssessment" index="68" method="studentReattemptStaticAssessment">
+        <assessmentname>Static Assignment_QIT19_R1922_3</assessmentname>
+        <chapterIndex>1</chapterIndex>
+        <grade>0.1</grade>
+    </testcase>
+</learningspaces>

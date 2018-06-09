@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite configfailurepolicy="continue" verbose="0" name="Failed suite [Suite]">
+    <listeners>
+        <listener class-name="com.snapwiz.selenium.tests.staf.learningspaces.CustomListener"/>
+    </listeners>
+    <test name="IT 13 Jenkins Suite(failed)">
+        <classes>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R51.AssignQuizzed">
+                <methods>
+                    <include name="startDriver"/>
+                    <include name="tearDown"/>
+                </methods>
+            </class> <!-- com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R51.AssignQuizzed -->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R51.InstructorSeeEmptyReportIfNoData">
+                <methods>
+                    <include name="startDriver"/>
+                    <include name="tearDown"/>
+                </methods>
+            </class> <!-- com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R51.InstructorSeeEmptyReportIfNoData -->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R51.InstructorAbleToViewAssignedReading">
+                <methods>
+                    <include name="startDriver"/>
+                    <include name="tearDown"/>
+                </methods>
+            </class> <!-- com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R51.InstructorAbleToViewAssignedReading -->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.ShowSolutionOption">
+                <methods>
+                    <include name="startDriver"/>
+                    <include name="tearDown"/>
+                </methods>
+            </class> <!-- com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.ShowSolutionOption -->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R51.AchievementSummary">
+                <methods>
+                    <include name="achievementSummary"/>
+                    <include name="startDriver"/>
+                    <include name="tearDown"/>
+                </methods>
+            </class> <!-- com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R51.AchievementSummary -->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R51.InstructorAbleToViewAssignedQuized">
+                <methods>
+                    <include name="startDriver"/>
+                    <include name="tearDown"/>
+                </methods>
+            </class> <!-- com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R51.InstructorAbleToViewAssignedQuized -->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.ShowAnswerOption">
+                <methods>
+                    <include name="startDriver"/>
+                    <include name="tearDown"/>
+                </methods>
+            </class> <!-- com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.ShowAnswerOption -->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.ShowHintOption">
+                <methods>
+                    <include name="startDriver"/>
+                    <include name="tearDown"/>
+                </methods>
+            </class> <!-- com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.ShowHintOption -->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R54.SupportForAssignmentsUploadedFile">
+                <methods>
+                    <include name="startDriver"/>
+                    <include name="tearDown"/>
+                </methods>
+            </class> <!-- com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R54.SupportForAssignmentsUploadedFile -->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R51.EngagementReportIssues">
+                <methods>
+                    <include name="startDriver"/>
+                    <include name="tearDown"/>
+                </methods>
+            </class> <!-- com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R51.EngagementReportIssues -->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R54.InstructorAbleToassociateResourcesWithToc">
+                <methods>
+                    <include name="startDriver"/>
+                    <include name="tearDown"/>
+                </methods>
+            </class> <!-- com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R54.InstructorAbleToassociateResourcesWithToc -->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.SaveAssignmentPolicy">
+                <methods>
+                    <include name="startDriver"/>
+                    <include name="tearDown"/>
+                </methods>
+            </class> <!-- com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.SaveAssignmentPolicy -->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.AssignmentPolicyUI">
+                <methods>
+                    <include name="startDriver"/>
+                    <include name="tearDown"/>
+                </methods>
+            </class> <!-- com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.AssignmentPolicyUI -->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.StudentAbleToAttemptAssignmentWithPolicyAssigned">
+                <methods>
+                    <include name="startDriver"/>
+                    <include name="tearDown"/>
+                </methods>
+            </class> <!-- com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.StudentAbleToAttemptAssignmentWithPolicyAssigned -->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.DifferentFieldsOfAssigmentPolicy">
+                <methods>
+                    <include name="startDriver"/>
+                    <include name="tearDown"/>
+                </methods>
+            </class> <!-- com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.DifferentFieldsOfAssigmentPolicy -->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.AssignmentPolicies">
+                <methods>
+                    <include name="startDriver"/>
+                    <include name="tearDown"/>
+                </methods>
+            </class> <!-- com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.AssignmentPolicies -->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R51.EnhashmentOfstudentAndInstructorDashboard">
+                <methods>
+                    <include name="startDriver"/>
+                    <include name="tearDown"/>
+                </methods>
+            </class> <!-- com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R51.EnhashmentOfstudentAndInstructorDashboard -->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R53.StudentAbleToViewUpcomingAssignmentOnDashBoard">
+                <methods>
+                    <include name="startDriver"/>
+                    <include name="tearDown"/>
+                </methods>
+            </class> <!-- com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R53.StudentAbleToViewUpcomingAssignmentOnDashBoard -->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R60.StudentAbleToViewNotesAndDiscussion">
+                <methods>
+                    <include name="startDriver"/>
+                    <include name="studentAbleToViewTabsForLSCourse"/>
+                    <include name="tearDown"/>
+                    <include name="studentAbleToViewTabs"/>
+                </methods>
+            </class> <!-- com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R60.StudentAbleToViewNotesAndDiscussion -->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R54.ResourceOrderInMyLibrary">
+                <methods>
+                    <include name="startDriver"/>
+                    <include name="tearDown"/>
+                </methods>
+            </class> <!-- com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R54.ResourceOrderInMyLibrary -->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R57.VerifyTOCForInstructor">
+                <methods>
+                    <include name="startDriver"/>
+                    <include name="verifyTOC"/>
+                    <include name="tearDown"/>
+                </methods>
+            </class> <!-- com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R57.VerifyTOCForInstructor -->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R51.EngagementReport">
+                <methods>
+                    <include name="startDriver"/>
+                    <include name="tearDown"/>
+                    <include name="engagementReport"/>
+                </methods>
+            </class> <!-- com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R51.EngagementReport -->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.VerifyEffectOfVariousGradeReleaseOptions">
+                <methods>
+                    <include name="verifyWhenGradeReleaseOptionsIsAutoReleaseOnSubmission"/>
+                    <include name="startDriver"/>
+                    <include name="tearDown"/>
+                </methods>
+            </class> <!-- com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.VerifyEffectOfVariousGradeReleaseOptions -->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R54.InstructorAbleToAssignUploadedResources">
+                <methods>
+                    <include name="startDriver"/>
+                    <include name="tearDown"/>
+                </methods>
+            </class> <!-- com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R54.InstructorAbleToAssignUploadedResources -->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R57.VerifyTOC">
+                <methods>
+                    <include name="startDriver"/>
+                    <include name="tearDown"/>
+                </methods>
+            </class> <!-- com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R57.VerifyTOC -->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.NumberAttemptOptions">
+                <methods>
+                    <include name="startDriver"/>
+                    <include name="tearDown"/>
+                </methods>
+            </class> <!-- com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.NumberAttemptOptions -->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.InstructorAbleToAssignAssignmentPolicy">
+                <methods>
+                    <include name="startDriver"/>
+                    <include name="tearDown"/>
+                </methods>
+            </class> <!-- com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.InstructorAbleToAssignAssignmentPolicy -->
+        </classes>
+    </test> <!-- IT 13 Jenkins Suite(failed) -->
+</suite> <!-- Failed suite [Suite] -->

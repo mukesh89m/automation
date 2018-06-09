@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edulastic>
+<testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignmentcreationbyda.AssignmentCreationByDA" index ="35" method="">
+    <assessmentname>IT1_assignmentFlow_Assessment_35</assessmentname>
+    <questiontext>question text IT_assignmentFlow_35</questiontext>
+    <learningobjective>true</learningobjective>
+    <shareWithClass>true</shareWithClass>
+    <duedate>28</duedate>
+    <duetime>12:00 AM</duetime>
+    <gradable>false</gradable>
+    <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+    <description>description text</description>
+    <tags>tags tags</tags>
+    <privacy>Public</privacy>
+    <className>Automation school class 1</className>
+</testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignmentcreationbyda.AssignmentCreationByDA" index ="45" method="">
+       <filename>img.png</filename>>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignmentcreationbyda.AssignmentCreationByDA" index ="90" method="">
+        <assessmentname>IT1_assignmentFlow_Assessment_90</assessmentname>
+        <questiontext>question text IT_assignmentFlow_90</questiontext>
+        <learningobjective>true</learningobjective>
+       <daassessmentname>true</daassessmentname>
+    </testcase>
+</edulastic>

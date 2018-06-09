@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests" configfailurepolicy="continue">
+    <listeners>
+        <listener class-name="com.snapwiz.selenium.tests.staf.framework.listener.CustomListener" />
+    </listeners>
+    <test name="LS smoke Jenkins Suite">
+        <classes>
+            <!--smoke test for LS CMS Flow-->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.cmsFlow.CreateChapterAndTlo"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.cmsFlow.SearchFilterFunctionality"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.policytwo.PolicyTwo"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.nongradableassignment.NonGradableAssignment"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->

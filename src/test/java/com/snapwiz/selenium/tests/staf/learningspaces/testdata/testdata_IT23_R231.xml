@@ -1,0 +1,938 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.BlackboardSSOLaunchInstructor" index="13" method="">
+        <user_id>instructor_IT23_R231_13</user_id>
+        <Role>instructor</Role>
+        <context_id>contextid_IT23_R231_13</context_id>
+        <context_title>contexttitle_IT23_R231_13</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-homepage</custom_destination>
+        <custom_lms_type>BlackBoard</custom_lms_type>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.BlackboardSSOLaunchInstructor" index="14" method="">
+        <user_id>instructor_IT23_R231_14</user_id>
+        <Role>instructor</Role>
+        <context_id>contextid_IT23_R231_14</context_id>
+        <context_title>contexttitle_IT23_R231_14</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-chapter</custom_destination>
+        <resource_link_id>CHA_75339_2879</resource_link_id>
+        <custom_lms_type>BlackBoard</custom_lms_type>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.BlackboardSSOLaunchInstructor" index="15" method="">
+        <user_id>instructor_IT23_R231_15</user_id>
+        <Role>instructor</Role>
+        <context_id>contextid_IT23_R231_15</context_id>
+        <context_title>contexttitle_IT23_R231_15</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-ebook</custom_destination>
+        <custom_lms_type>BlackBoard</custom_lms_type>
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.BlackboardSSOLaunchInstructor" index="16" method="">
+        <user_id>instructor_IT23_R231_15</user_id>
+        <Role>instructor</Role>
+        <context_id>contextid_IT23_R231_15</context_id>
+        <context_title>contexttitle_IT23_R231_15</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-gradebook</custom_destination>
+        <custom_lms_type>BlackBoard</custom_lms_type>
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.BlackboardSSOLaunchInstructor" index="17" method="">
+        <user_id>instructor_IT23_R231_15</user_id>
+        <Role>instructor</Role>
+        <context_id>contextid_IT23_R231_15</context_id>
+        <context_title>contexttitle_IT23_R231_15</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-coursestream</custom_destination>
+        <custom_lms_type>BlackBoard</custom_lms_type>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.BlackboardSSOLaunchInstructor" index="18" method="">
+        <user_id>instructor_IT23_R231_15</user_id>
+        <Role>instructor</Role>
+        <context_id>contextid_IT23_R231_15</context_id>
+        <context_title>contexttitle_IT23_R231_15</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-reports</custom_destination>
+        <custom_lms_type>BlackBoard</custom_lms_type>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.BlackboardSSOLaunchInstructor" index="19" method="">
+        <user_id>instructor_IT23_R231_15</user_id>
+        <Role>instructor</Role>
+        <context_id>contextid_IT23_R231_15</context_id>
+        <context_title>contexttitle_IT23_R231_15</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-prepare</custom_destination>
+        <custom_lms_type>BlackBoard</custom_lms_type>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.BlackboardSSOLaunchInstructor" index="20" method="">
+    <user_id>instructor_IT23_R231_15</user_id>
+    <Role>instructor</Role>
+    <context_id>contextid_IT23_R231_15</context_id>
+    <context_title>contexttitle_IT23_R231_15</context_title>
+    <custom_instructor_classlist>[]</custom_instructor_classlist>
+    <custom_destination>wpls-totalscore</custom_destination>
+    <custom_lms_type>BlackBoard</custom_lms_type>
+
+</testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.BlackboardSSOLaunchInstructor" index="21" method="">
+        <user_id>instructor_IT23_R231_15</user_id>
+        <Role>instructor</Role>
+        <context_id>contextid_IT23_R231_15</context_id>
+        <context_title>contexttitle_IT23_R231_15</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-studentGrades</custom_destination>
+        <custom_lms_type>BlackBoard</custom_lms_type>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.BlackboardSSOLaunchInstructor" index="22" method="">
+        <user_id>instructor_IT23_R231_15</user_id>
+        <Role>instructor</Role>
+        <context_id>contextid_IT23_R231_15</context_id>
+        <context_title>contexttitle_IT23_R231_15</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-notes</custom_destination>
+        <custom_lms_type>BlackBoard</custom_lms_type>
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.BlackboardSSOLaunchInstructor" index="23" method="">
+        <user_id>instructor_IT23_R231_15</user_id>
+        <Role>instructor</Role>
+        <context_id>contextid_IT23_R231_15</context_id>
+        <context_title>contexttitle_IT23_R231_15</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-createscheduleassignments</custom_destination>
+        <custom_lms_type>BlackBoard</custom_lms_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.BlackboardSSOLaunchInstructor" index="24" method="">
+        <user_id>instructor_IT23_R231_15</user_id>
+        <Role>instructor</Role>
+        <context_id>contextid_IT23_R231_15</context_id>
+        <context_title>contexttitle_IT23_R231_15</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-assignments</custom_destination>
+        <custom_lms_type>BlackBoard</custom_lms_type>
+
+    </testcase>
+
+
+
+    <!--
+     test data for student
+     -->
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.BlackboardSSOLaunchStudent" index="25" method="">
+        <user_id>student_IT23_R231_13</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT23_R231_13</context_id>
+        <context_title>contexttitle_IT23_R231_13</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-homepage</custom_destination>
+        <custom_lms_type>BlackBoard</custom_lms_type>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.BlackboardSSOLaunchStudent" index="26" method="">
+        <user_id>student_IT23_R231_15</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT23_R231_15</context_id>
+        <context_title>contexttitle_IT23_R231_15</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-chapter</custom_destination>
+        <resource_link_id>CHA_75339_2879</resource_link_id>
+        <custom_lms_type>BlackBoard</custom_lms_type>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.BlackboardSSOLaunchStudent" index="27" method="">
+        <user_id>student_IT23_R231_15</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT23_R231_15</context_id>
+        <context_title>contexttitle_IT23_R231_15</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-ebook</custom_destination>
+        <custom_lms_type>BlackBoard</custom_lms_type>
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.BlackboardSSOLaunchStudent" index="28" method="">
+        <user_id>student_IT23_R231_15</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT23_R231_15</context_id>
+        <context_title>contexttitle_IT23_R231_15</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-gradebook</custom_destination>
+        <custom_lms_type>BlackBoard</custom_lms_type>
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.BlackboardSSOLaunchStudent" index="29" method="">
+        <user_id>student_IT23_R231_15</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT23_R231_15</context_id>
+        <context_title>contexttitle_IT23_R231_15</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-coursestream</custom_destination>
+        <custom_lms_type>BlackBoard</custom_lms_type>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.BlackboardSSOLaunchStudent" index="30" method="">
+        <user_id>student_IT23_R231_15</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT23_R231_15</context_id>
+        <context_title>contexttitle_IT23_R231_15</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-reports</custom_destination>
+        <custom_lms_type>BlackBoard</custom_lms_type>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.BlackboardSSOLaunchStudent" index="31" method="">
+        <user_id>student_IT23_R231_15</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT23_R231_15</context_id>
+        <context_title>contexttitle_IT23_R231_15</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-prepare</custom_destination>
+        <custom_lms_type>BlackBoard</custom_lms_type>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.BlackboardSSOLaunchStudent" index="32" method="">
+        <user_id>student_IT23_R231_15</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT23_R231_15</context_id>
+        <context_title>contexttitle_IT23_R231_15</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-totalscore</custom_destination>
+        <custom_lms_type>BlackBoard</custom_lms_type>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.BlackboardSSOLaunchStudent" index="33" method="">
+        <user_id>student_IT23_R231_15</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT23_R231_15</context_id>
+        <context_title>contexttitle_IT23_R231_15</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-studentGrades</custom_destination>
+        <custom_lms_type>BlackBoard</custom_lms_type>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.BlackboardSSOLaunchStudent" index="34" method="">
+        <user_id>student_IT23_R231_15</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT23_R231_15</context_id>
+        <context_title>contexttitle_IT23_R231_15</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-notes</custom_destination>
+        <custom_lms_type>BlackBoard</custom_lms_type>
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.BlackboardSSOLaunchStudent" index="35" method="">
+        <user_id>student_IT23_R231_15</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT23_R231_15</context_id>
+        <context_title>contexttitle_IT23_R231_15</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-createscheduleassignments</custom_destination>
+        <custom_lms_type>BlackBoard</custom_lms_type>
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.BlackboardSSOLaunchStudent" index="36" method="">
+        <user_id>student_IT23_R231_15</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT23_R231_15</context_id>
+        <context_title>contexttitle_IT23_R231_15</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-assignments</custom_destination>
+        <custom_lms_type>BlackBoard</custom_lms_type>
+
+    </testcase>
+
+
+    <!-- CanvasContentDiscovery.java -->
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.CanvasContentDiscovery" index="37" method="">
+
+        <lti_message_type>ContentItemSelectionRequest</lti_message_type>
+        <content_item_return_url>http://wiley-app-lti.elasticbeanstalk.com/oAuthConsumer/gradebookSyncTest</content_item_return_url>
+        <oauth_callback>abc</oauth_callback>
+        <launch_presentation_document_target>iFrame</launch_presentation_document_target>
+
+
+
+
+        <user_id>instructor_IT23_R231_37</user_id>
+        <Role>instructor</Role>
+        <context_id>contextid_IT23_R231_37</context_id>
+        <context_title>contexttitle_IT23_R231_37</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_lms_type>Canvas</custom_lms_type>
+        <assignmentpolicyname>Policy1</assignmentpolicyname>
+        <assessmentname>Assignment_gradable_policy1</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question_gradable_policy1</questionset>
+        <questiontext>Test Question_gradable_policy1</questiontext>
+        <!--<learningobjective>true</learningobjective>-->
+        <shareWithInitialString>contexttitle_IT23_R231_37</shareWithInitialString>
+        <shareName>contexttitle_IT23_R231_37</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy1</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>17</duetime>
+        <extensionAfterDueDate>disable</extensionAfterDueDate>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>Month Jan</studentname>
+        <grade>0.1</grade>
+
+
+
+
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.CanvasContentDiscovery" index="38" method="">
+        <user_id>instructor_IT23_R231_37</user_id>
+        <Role>instructor</Role>
+        <context_id>contextid_IT23_R231_37</context_id>
+        <context_title>contexttitle_IT23_R231_37</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_lms_type>Canvas</custom_lms_type>
+        <assessmentname>Assignment_IT23_R231_37</assessmentname>
+        <questionset>Test Question set_IT23_R231_37</questionset>
+        <questiontext>Test Question IT23_R231_37</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>contexttitle_IT23_R231_37</shareWithInitialString>
+        <shareName>contexttitle_IT23_R231_37</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.CanvasContentDiscoveryMentor" index="37_1" method="">
+        <lti_message_type>ContentItemSelectionRequest</lti_message_type>
+        <content_item_return_url>http://wiley-app-lti.elasticbeanstalk.com/oAuthConsumer/gradebookSyncTest</content_item_return_url>
+        <oauth_callback>abc</oauth_callback>
+        <launch_presentation_document_target>iFrame</launch_presentation_document_target>
+
+        <user_id>mentor_IT23_R231_37</user_id>
+        <Role>mentor</Role>
+        <context_id>contextid_IT23_R231_37</context_id>
+        <context_title>contexttitle_IT23_R231_37</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_lms_type>Canvas</custom_lms_type>
+        <assignmentpolicyname>Policy1</assignmentpolicyname>
+        <assessmentname>Assignment_gradable_policy1</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question_gradable_policy1</questionset>
+        <questiontext>Test Question_gradable_policy1</questiontext>
+        <!--<learningobjective>true</learningobjective>-->
+        <shareWithInitialString>contexttitle_IT23_R231_37</shareWithInitialString>
+        <shareName>contexttitle_IT23_R231_37</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy1</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>17</duetime>
+        <extensionAfterDueDate>disable</extensionAfterDueDate>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>Month Jan</studentname>
+        <grade>0.1</grade>
+
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.CanvasContentDiscoveryMentor" index="38" method="">
+        <user_id>mentor_IT23_R231_37</user_id>
+        <Role>mentor</Role>
+        <context_id>contextid_IT23_R231_37</context_id>
+        <context_title>contexttitle_IT23_R231_37</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_lms_type>Canvas</custom_lms_type>
+        <assessmentname>Assignment_IT23_R231_37</assessmentname>
+        <questionset>Test Question set_IT23_R231_37</questionset>
+        <questiontext>Test Question IT23_R231_37</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>contexttitle_IT23_R231_37</shareWithInitialString>
+        <shareName>contexttitle_IT23_R231_37</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+
+
+    </testcase>
+
+
+    <!--
+        Canvas SSO Launch
+-->
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.CanvasSSOLaunchInstructor" index="39" method="">
+        <user_id>instructor_IT23_R231_39</user_id>
+        <Role>instructor</Role>
+        <context_id>contextid_IT23_R231_39</context_id>
+        <context_title>contexttitle_IT23_R231_39</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-homepage</custom_destination>
+        <custom_lms_type>Canvas</custom_lms_type>
+        <launch_presentation_document_target>iFrame</launch_presentation_document_target>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.CanvasSSOLaunchInstructor" index="40" method="">
+        <user_id>instructor_IT23_R231_39</user_id>
+        <Role>instructor</Role>
+        <context_id>contextid_IT23_R231_39</context_id>
+        <context_title>contexttitle_IT23_R231_39</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-chapter</custom_destination>
+        <resource_link_id>CHA_75339_2879</resource_link_id>
+        <custom_lms_type>Canvas</custom_lms_type>
+        <launch_presentation_document_target>iFrame</launch_presentation_document_target>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.CanvasSSOLaunchInstructor" index="41" method="">
+        <user_id>instructor_IT23_R231_39</user_id>
+        <Role>instructor</Role>
+        <context_id>contextid_IT23_R231_39</context_id>
+        <context_title>contexttitle_IT23_R231_39</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-ebook</custom_destination>
+        <custom_lms_type>Canvas</custom_lms_type>
+        <launch_presentation_document_target>iFrame</launch_presentation_document_target>
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.CanvasSSOLaunchInstructor" index="42" method="">
+        <user_id>instructor_IT23_R231_39</user_id>
+        <Role>instructor</Role>
+        <context_id>contextid_IT23_R231_39</context_id>
+        <context_title>contexttitle_IT23_R231_39</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-gradebook</custom_destination>
+        <custom_lms_type>Canvas</custom_lms_type>
+        <launch_presentation_document_target>iFrame</launch_presentation_document_target>
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.CanvasSSOLaunchInstructor" index="43" method="">
+        <user_id>instructor_IT23_R231_39</user_id>
+        <Role>instructor</Role>
+        <context_id>contextid_IT23_R231_39</context_id>
+        <context_title>contexttitle_IT23_R231_39</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-coursestream</custom_destination>
+        <custom_lms_type>Canvas</custom_lms_type>
+        <launch_presentation_document_target>iFrame</launch_presentation_document_target>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.CanvasSSOLaunchInstructor" index="44" method="">
+        <user_id>instructor_IT23_R231_39</user_id>
+        <Role>instructor</Role>
+        <context_id>contextid_IT23_R231_39</context_id>
+        <context_title>contexttitle_IT23_R231_39</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-reports</custom_destination>
+        <custom_lms_type>Canvas</custom_lms_type>
+        <launch_presentation_document_target>iFrame</launch_presentation_document_target>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.CanvasSSOLaunchInstructor" index="45" method="">
+        <user_id>instructor_IT23_R231_39</user_id>
+        <Role>instructor</Role>
+        <context_id>contextid_IT23_R231_39</context_id>
+        <context_title>contexttitle_IT23_R231_39</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-prepare</custom_destination>
+        <custom_lms_type>Canvas</custom_lms_type>
+        <launch_presentation_document_target>iFrame</launch_presentation_document_target>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.CanvasSSOLaunchInstructor" index="46" method="">
+        <user_id>instructor_IT23_R231_39</user_id>
+        <Role>instructor</Role>
+        <context_id>contextid_IT23_R231_39</context_id>
+        <context_title>contexttitle_IT23_R231_39</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-graderefresh</custom_destination>
+        <custom_lms_type>Canvas</custom_lms_type>
+        <launch_presentation_document_target>iFrame</launch_presentation_document_target>
+
+    </testcase>
+
+      <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.CanvasSSOLaunchInstructor" index="47" method="">
+        <user_id>instructor_IT23_R231_39</user_id>
+        <Role>instructor</Role>
+        <context_id>contextid_IT23_R231_39</context_id>
+        <context_title>contexttitle_IT23_R231_39</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-notes</custom_destination>
+        <custom_lms_type>Canvas</custom_lms_type>
+          <launch_presentation_document_target>iFrame</launch_presentation_document_target>
+
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.CanvasSSOLaunchInstructor" index="48" method="">
+        <user_id>instructor_IT23_R231_39</user_id>
+        <Role>instructor</Role>
+        <context_id>contextid_IT23_R231_39</context_id>
+        <context_title>contexttitle_IT23_R231_39</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-assignments</custom_destination>
+        <custom_lms_type>Canvas</custom_lms_type>
+        <launch_presentation_document_target>iFrame</launch_presentation_document_target>
+
+    </testcase>
+
+    <!-- canvas student SSO Launch-->
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.CanvasSSOLaunchStudent" index="49" method="">
+        <user_id>student_IT23_R231_49</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT23_R231_49</context_id>
+        <context_title>contexttitle_IT23_R231_49</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-homepage</custom_destination>
+        <custom_lms_type>Canvas</custom_lms_type>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.CanvasSSOLaunchStudent" index="50" method="">
+        <user_id>student_IT23_R231_49</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT23_R231_49</context_id>
+        <context_title>contexttitle_IT23_R231_49</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-chapter</custom_destination>
+        <resource_link_id>CHA_75339_2879</resource_link_id>
+        <custom_lms_type>Canvas</custom_lms_type>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.CanvasSSOLaunchStudent" index="51" method="">
+        <user_id>student_IT23_R231_49</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT23_R231_49</context_id>
+        <context_title>contexttitle_IT23_R231_49</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-ebook</custom_destination>
+        <custom_lms_type>Canvas</custom_lms_type>
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.CanvasSSOLaunchStudent" index="52" method="">
+        <user_id>student_IT23_R231_49</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT23_R231_49</context_id>
+        <context_title>contexttitle_IT23_R231_49</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-gradebook</custom_destination>
+        <custom_lms_type>Canvas</custom_lms_type>
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.CanvasSSOLaunchStudent" index="53" method="">
+        <user_id>student_IT23_R231_49</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT23_R231_49</context_id>
+        <context_title>contexttitle_IT23_R231_49</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-coursestream</custom_destination>
+        <custom_lms_type>Canvas</custom_lms_type>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.CanvasSSOLaunchStudent" index="54" method="">
+        <user_id>student_IT23_R231_49</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT23_R231_49</context_id>
+        <context_title>contexttitle_IT23_R231_49</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-reports</custom_destination>
+        <custom_lms_type>Canvas</custom_lms_type>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.CanvasSSOLaunchStudent" index="55" method="">
+        <user_id>student_IT23_R231_49</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT23_R231_49</context_id>
+        <context_title>contexttitle_IT23_R231_49</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-prepare</custom_destination>
+        <custom_lms_type>Canvas</custom_lms_type>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.CanvasSSOLaunchStudent" index="56" method="">
+        <user_id>student_IT23_R231_49</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT23_R231_49</context_id>
+        <context_title>contexttitle_IT23_R231_49</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-graderefresh</custom_destination>
+        <custom_lms_type>Canvas</custom_lms_type>
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.CanvasSSOLaunchStudent" index="57" method="">
+        <user_id>student_IT23_R231_49</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT23_R231_49</context_id>
+        <context_title>contexttitle_IT23_R231_49</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-notes</custom_destination>
+        <custom_lms_type>Canvas</custom_lms_type>
+
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.CanvasSSOLaunchStudent" index="58" method="">
+        <user_id>student_IT23_R231_49</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT23_R231_49</context_id>
+        <context_title>contexttitle_IT23_R231_49</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-assignments</custom_destination>
+        <custom_lms_type>Canvas</custom_lms_type>
+
+    </testcase>
+
+
+
+    <!-- guid parameter-->
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.BlackboardSSOLaunchInstructor" index="59" method="">
+        <user_id>instructor_IT23_R231_13</user_id>
+        <Role>instructor</Role>
+        <context_id>contextid_IT23_R231_13</context_id>
+        <context_title>contexttitle_IT23_R231_13</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-homepage</custom_destination>
+
+        <instance_guid>BlackBoard</instance_guid>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.BlackboardSSOLaunchMentor" index="59" method="">
+        <user_id>mentor_IT23_R231_13</user_id>
+        <Role>mentor</Role>
+        <context_id>contextid_IT23_R231_13</context_id>
+        <context_title>contexttitle_IT23_R231_13</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-homepage</custom_destination>
+
+        <instance_guid>BlackBoard</instance_guid>
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.BlackboardSSOLaunchStudent" index="60" method="">
+        <user_id>student_IT23_R231_13</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT23_R231_13</context_id>
+        <context_title>contexttitle_IT23_R231_13</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-homepage</custom_destination>
+
+        <instance_guid>BlackBoard</instance_guid>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.CanvasSSOLaunchInstructor" index="61" method="">
+        <user_id>instructor_IT23_R231_13</user_id>
+        <Role>instructor</Role>
+        <context_id>contextid_IT23_R231_13</context_id>
+        <context_title>contexttitle_IT23_R231_13</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-graderefresh</custom_destination>
+        <launch_presentation_document_target>iFrame</launch_presentation_document_target>
+        <instance_guid>Canvas</instance_guid>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.CanvasSSOLaunchMentor" index="61" method="">
+        <user_id>mentor_IT23_R231_13</user_id>
+        <Role>mentor</Role>
+        <context_id>contextid_IT23_R231_13</context_id>
+        <context_title>contexttitle_IT23_R231_13</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-graderefresh</custom_destination>
+        <launch_presentation_document_target>iFrame</launch_presentation_document_target>
+        <instance_guid>Canvas</instance_guid>
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.CanvasSSOLaunchStudent" index="62" method="">
+        <user_id>student_IT23_R231_13</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT23_R231_13</context_id>
+        <context_title>contexttitle_IT23_R231_13</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-reports</custom_destination>
+
+        <instance_guid>Canvas</instance_guid>
+
+    </testcase>
+
+<!--mentor launch-->
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.BlackboardSSOLaunchMentor" index="13" method="">
+        <user_id>mentor_IT23_R231_13</user_id>
+        <Role>mentor</Role>
+        <context_id>contextid_IT23_R231_13</context_id>
+        <context_title>contexttitle_IT23_R231_13</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-homepage</custom_destination>
+        <custom_lms_type>BlackBoard</custom_lms_type>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.BlackboardSSOLaunchMentor" index="14" method="">
+        <user_id>mentor_IT23_R231_14</user_id>
+        <Role>mentor</Role>
+        <context_id>contextid_IT23_R231_14</context_id>
+        <context_title>contexttitle_IT23_R231_14</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-chapter</custom_destination>
+        <resource_link_id>CHA_75339_2879</resource_link_id>
+        <custom_lms_type>BlackBoard</custom_lms_type>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.BlackboardSSOLaunchMentor" index="15" method="">
+        <user_id>mentor_IT23_R231_15</user_id>
+        <Role>mentor</Role>
+        <context_id>contextid_IT23_R231_15</context_id>
+        <context_title>contexttitle_IT23_R231_15</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-ebook</custom_destination>
+        <custom_lms_type>BlackBoard</custom_lms_type>
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.BlackboardSSOLaunchMentor" index="16" method="">
+        <user_id>mentor_IT23_R231_15</user_id>
+        <Role>mentor</Role>
+        <context_id>contextid_IT23_R231_15</context_id>
+        <context_title>contexttitle_IT23_R231_15</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-gradebook</custom_destination>
+        <custom_lms_type>BlackBoard</custom_lms_type>
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.BlackboardSSOLaunchMentor" index="17" method="">
+        <user_id>mentor_IT23_R231_15</user_id>
+        <Role>mentor</Role>
+        <context_id>contextid_IT23_R231_15</context_id>
+        <context_title>contexttitle_IT23_R231_15</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-coursestream</custom_destination>
+        <custom_lms_type>BlackBoard</custom_lms_type>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.BlackboardSSOLaunchMentor" index="18" method="">
+        <user_id>mentor_IT23_R231_15</user_id>
+        <Role>mentor</Role>
+        <context_id>contextid_IT23_R231_15</context_id>
+        <context_title>contexttitle_IT23_R231_15</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-reports</custom_destination>
+        <custom_lms_type>BlackBoard</custom_lms_type>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.BlackboardSSOLaunchMentor" index="19" method="">
+        <user_id>mentor_IT23_R231_15</user_id>
+        <Role>mentor</Role>
+        <context_id>contextid_IT23_R231_15</context_id>
+        <context_title>contexttitle_IT23_R231_15</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-prepare</custom_destination>
+        <custom_lms_type>BlackBoard</custom_lms_type>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.BlackboardSSOLaunchMentor" index="20" method="">
+        <user_id>mentor_IT23_R231_15</user_id>
+        <Role>mentor</Role>
+        <context_id>contextid_IT23_R231_15</context_id>
+        <context_title>contexttitle_IT23_R231_15</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-totalscore</custom_destination>
+        <custom_lms_type>BlackBoard</custom_lms_type>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.BlackboardSSOLaunchMentor" index="21" method="">
+        <user_id>mentor_IT23_R231_15</user_id>
+        <Role>mentor</Role>
+        <context_id>contextid_IT23_R231_15</context_id>
+        <context_title>contexttitle_IT23_R231_15</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-studentGrades</custom_destination>
+        <custom_lms_type>BlackBoard</custom_lms_type>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.BlackboardSSOLaunchMentor" index="22" method="">
+        <user_id>mentor_IT23_R231_15</user_id>
+        <Role>mentor</Role>
+        <context_id>contextid_IT23_R231_15</context_id>
+        <context_title>contexttitle_IT23_R231_15</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-notes</custom_destination>
+        <custom_lms_type>BlackBoard</custom_lms_type>
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.BlackboardSSOLaunchMentor" index="23" method="">
+        <user_id>mentor_IT23_R231_15</user_id>
+        <Role>mentor</Role>
+        <context_id>contextid_IT23_R231_15</context_id>
+        <context_title>contexttitle_IT23_R231_15</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-createscheduleassignments</custom_destination>
+        <custom_lms_type>BlackBoard</custom_lms_type>
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.BlackboardSSOLaunchMentor" index="24" method="">
+        <user_id>mentor_IT23_R231_15</user_id>
+        <Role>mentor</Role>
+        <context_id>contextid_IT23_R231_15</context_id>
+        <context_title>contexttitle_IT23_R231_15</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-assignments</custom_destination>
+        <custom_lms_type>BlackBoard</custom_lms_type>
+
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.CanvasSSOLaunchMentor" index="39" method="">
+        <user_id>mentor_IT23_R231_39</user_id>
+        <Role>mentor</Role>
+        <context_id>contextid_IT23_R231_39</context_id>
+        <context_title>contexttitle_IT23_R231_39</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-homepage</custom_destination>
+        <custom_lms_type>Canvas</custom_lms_type>
+        <launch_presentation_document_target>iFrame</launch_presentation_document_target>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.CanvasSSOLaunchMentor" index="40" method="">
+        <user_id>mentor_IT23_R231_39</user_id>
+        <Role>mentor</Role>
+        <context_id>contextid_IT23_R231_39</context_id>
+        <context_title>contexttitle_IT23_R231_39</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-chapter</custom_destination>
+        <resource_link_id>CHA_75339_2879</resource_link_id>
+        <custom_lms_type>Canvas</custom_lms_type>
+        <launch_presentation_document_target>iFrame</launch_presentation_document_target>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.CanvasSSOLaunchMentor" index="41" method="">
+        <user_id>mentor_IT23_R231_39</user_id>
+        <Role>mentor</Role>
+        <context_id>contextid_IT23_R231_39</context_id>
+        <context_title>contexttitle_IT23_R231_39</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-ebook</custom_destination>
+        <custom_lms_type>Canvas</custom_lms_type>
+        <launch_presentation_document_target>iFrame</launch_presentation_document_target>
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.CanvasSSOLaunchMentor" index="42" method="">
+        <user_id>mentor_IT23_R231_39</user_id>
+        <Role>mentor</Role>
+        <context_id>contextid_IT23_R231_39</context_id>
+        <context_title>contexttitle_IT23_R231_39</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-gradebook</custom_destination>
+        <custom_lms_type>Canvas</custom_lms_type>
+        <launch_presentation_document_target>iFrame</launch_presentation_document_target>
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.CanvasSSOLaunchMentor" index="43" method="">
+        <user_id>mentor_IT23_R231_39</user_id>
+        <Role>mentor</Role>
+        <context_id>contextid_IT23_R231_39</context_id>
+        <context_title>contexttitle_IT23_R231_39</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-coursestream</custom_destination>
+        <custom_lms_type>Canvas</custom_lms_type>
+        <launch_presentation_document_target>iFrame</launch_presentation_document_target>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.CanvasSSOLaunchMentor" index="44" method="">
+        <user_id>mentor_IT23_R231_39</user_id>
+        <Role>mentor</Role>
+        <context_id>contextid_IT23_R231_39</context_id>
+        <context_title>contexttitle_IT23_R231_39</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-reports</custom_destination>
+        <custom_lms_type>Canvas</custom_lms_type>
+        <launch_presentation_document_target>iFrame</launch_presentation_document_target>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.CanvasSSOLaunchMentor" index="45" method="">
+        <user_id>mentor_IT23_R231_39</user_id>
+        <Role>mentor</Role>
+        <context_id>contextid_IT23_R231_39</context_id>
+        <context_title>contexttitle_IT23_R231_39</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-prepare</custom_destination>
+        <custom_lms_type>Canvas</custom_lms_type>
+        <launch_presentation_document_target>iFrame</launch_presentation_document_target>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.CanvasSSOLaunchMentor" index="46" method="">
+        <user_id>mentor_IT23_R231_39</user_id>
+        <Role>mentor</Role>
+        <context_id>contextid_IT23_R231_39</context_id>
+        <context_title>contexttitle_IT23_R231_39</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-graderefresh</custom_destination>
+        <custom_lms_type>Canvas</custom_lms_type>
+        <launch_presentation_document_target>iFrame</launch_presentation_document_target>
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.CanvasSSOLaunchMentor" index="47" method="">
+        <user_id>mentor_IT23_R231_39</user_id>
+        <Role>mentor</Role>
+        <context_id>contextid_IT23_R231_39</context_id>
+        <context_title>contexttitle_IT23_R231_39</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-notes</custom_destination>
+        <custom_lms_type>Canvas</custom_lms_type>
+        <launch_presentation_document_target>iFrame</launch_presentation_document_target>
+
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R231.CanvasSSOLaunchMentor" index="48" method="">
+        <user_id>mentor_IT23_R231_39</user_id>
+        <Role>mentor</Role>
+        <context_id>contextid_IT23_R231_39</context_id>
+        <context_title>contexttitle_IT23_R231_39</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>wpls-assignments</custom_destination>
+        <custom_lms_type>Canvas</custom_lms_type>
+        <launch_presentation_document_target>iFrame</launch_presentation_document_target>
+
+    </testcase>
+
+
+</learningspaces>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false" preserve-order="true" configfailurepolicy="continue">
+    <listeners>
+        <listener class-name="com.snapwiz.selenium.tests.staf.learningspaces.CustomListener" />
+    </listeners>
+    <test name="IT23 Jenkins Suite">
+        <classes>
+
+
+            <!--R 23LSSOlar-->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R23LSSolar.LSSolarEnhancements"/>
+
+            <!--R 23.6-->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R236.BrowseFunctionalityOfQuestionBank"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R236.BrowseFunctionalityOfQuestionBankLS"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R236.BrowseSearchFunctionalityMethod"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R236.CreateCustomAssignmentFromDifferentPlaces"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R236.CreateCustomAssignmentFromDifferentPlacesLS"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R236.SearchFunctionalityOfQuestionBank"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R236.SearchFunctionalityOfQuestionBankLS"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R236.ViewOptimizedQuestionFilterInSearch"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R236.ViewOptimizedQuestionFilterInSearchLS"/>
+
+
+            <!--R 23.7-->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R237.LangaugePaletteForQuestionCreation"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R237.LangaugePaletteForQuestionCreationForLs"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R237.AddCommentInCSPage"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R237.AddCommentInCSPageForLs"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R237.CommentOnCourseStream"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R237.CommentOnCourseStreamForLs"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R237.CourseSpecificConfigurationsForLanguagePalette"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R237.CourseSpecificConfigurationsForLanguagePaletteForLs"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R237.DiscussionForStaticInQuestionReviewPage"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R237.DiscussionForStaticInQuestionReviewPageForLs"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R237.InstructorAbleToUseNewLanguagesAcrossApplication"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R237.InstructorAbleToUseNewLanguagesAcrossApplicationForLs"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R237.SpanishFrenchItalianPaletteAsStudent"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R237.SpanishFrenchItalianPaletteAsStudentForLs"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R237.SpanishItalianFrenchPaletteForStudent"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R237.SpanishItalianFrenchPaletteForStudentForLs"/>
+
+
+            <!--R 23.8-->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestions"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestionsForLs"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorViewMonospaceForAllQuestionQuestionBank"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorViewMonospaceForAllQuestionQuestionBankForLs"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFont"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFontForLs"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.StudentAbleToSeeTheMonoSpaceFont"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.StudentAbleToSeeTheMonoSpaceFontForLs"/>
+
+
+            <!--R 23.9-->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R239.EmbeddedAssessmentInLessonPage"/>
+
+
+            <!--R 23.13-->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R2313.EnhancementToTheExpressionEvaluatorQuestionType"/>
+
+
+            <!--R 23.14-->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R2314.CopyQuestions"/>
+
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1512.ParticipationRatingTileOnStudentDashboard" index="2" method="participationRatingTileOnStudentDashboard">
+		<user_id>IT15_R15_12_Stu_14</user_id>
+		<Role>student</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1512.ParticipationScoreCalculation" index="8" method="participationScoreCalculation">
+		<user_id>IT15_R15_12_Stude_8</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1512_8_3</context_id>
+		<context_title>studtitleR1512_8_3</context_title>
+		<resoursename>Resourse_IT15_R1512_8</resoursename>
+		<type>image</type>
+		<description>Description Text</description>
+		<instructoronlyflag>false</instructoronlyflag>
+		<assessmentname>8 Assessment</assessmentname>
+		<questionset>8 Question Set</questionset>
+		<questiontext>8 Test Question</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>stud</shareWithInitialString>
+		<shareName>studtitleR1512_8_3</shareName>
+		<shareWithClass>true</shareWithClass>
+		<gradeable>false</gradeable>
+		<gradingpolicy>Grading policy text</gradingpolicy>
+		<duedate>28</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>This is an additional note</additionalnote>
+		<filename>img.png</filename>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1512.ParticipationScoreCalculation" index="8_1" method="participationScoreCalculation">
+		<user_id>IT15_R15_12_Stude_8_1</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1512_8_3</context_id>
+		<context_title>studtitleR1512_8_3</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1512.ParticipationScoreCalculation" index="8_2" method="participationScoreCalculation">
+		<user_id>IT15_R15_12_Stude_8_2</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1512_8_3</context_id>
+		<context_title>studtitleR1512_8_3</context_title>
+		<filename>img.png</filename>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1512.ParticipationScoreCalculation" index="8_3" method="participationScoreCalculation">
+		<user_id>IT15_R15_12_Inst_8_4</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR1512_8_3</context_id>
+		<context_title>studtitleR1512_8_3</context_title>
+		
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1512.ParticipationScoreCalculation" index="9" method="participationScoreCalculation">
+		<assessmentname>9 Assessment</assessmentname>
+		<questionset>9 Question Set</questionset>
+		<questiontext>9 Test Question</questiontext>
+		<questiontype>Adaptive Component Practice</questiontype>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1512.ParticipationScoreCalculation" index="10" method="participationScoreCalculation">
+		<assessmentname>10 Assessment</assessmentname>
+		<questionset>10 Question Set</questionset>
+		<questiontext>10 Test Question</questiontext>
+		<questiontype>Adaptive Component Practice</questiontype>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>stud</shareWithInitialString>
+		<shareName>studtitleR1512_8_3</shareName>
+		<shareWithClass>true</shareWithClass>
+		<gradeable>true</gradeable>
+		<gradingpolicy>Grading policy text</gradingpolicy>
+		<duedate>28</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>This is an additional note</additionalnote>
+		<assignmentpolicy>Policy Name</assignmentpolicy>
+	</testcase>
+</learningspaces>

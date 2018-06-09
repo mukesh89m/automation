@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edulastic>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.daadminflow.DAAdminFlow" index ="1" method="">
+        <assessmentname>Regression_DAAdminFlow_1</assessmentname>
+        <questiontext>question text_DAAdminFlow_question</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <daadmin>true</daadmin>
+        <selectgrade>Grade 1</selectgrade>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>district</privacy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.daadminflow.DAAdminFlow" index ="2" method="">
+        <assessmentname>Regression_DAAdminFlow_2</assessmentname>
+        <questiontext>question text_DAAdminFlow_question</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <daadmin>true</daadmin>
+        <selectgrade>Grade 1</selectgrade>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>district</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.daadminflow.DAAdminFlow" index ="3" method="">
+        <assessmentname>Regression_DAAdminFlow_2</assessmentname>
+        <answerchoice>incorrect</answerchoice>
+        <owner>district</owner>
+        <questiontext>question text_DAAdminFlow_question</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <daadmin>true</daadmin>
+        <selectgrade>Grade 1</selectgrade>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>district</privacy>
+    </testcase>
+
+</edulastic>

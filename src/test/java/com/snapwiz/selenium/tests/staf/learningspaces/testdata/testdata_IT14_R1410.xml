@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1410.ShowAssignmentInStudyPlan" index="1" method="ShowAssignmentInStudyPlan">
+	<user_id>instructor_IT14_R1410_1</user_id>
+	<Role>instructor</Role>
+	<context_id>studcontextIT1410_1</context_id>
+	<context_title>studtitleIT14_R1410_1</context_title>	
+ 	<assessmentname>Assessment_IT14_R1410_1</assessmentname>
+	<questionset>Test Question_IT14_R1410_1</questionset>
+	<questiontext>Test Question for _IT14_R1410_1</questiontext>
+	<questiontype>Static Practice</questiontype>
+	<gradeable>false</gradeable>
+	<duedate>23</duedate>
+	<duetime>12:00 AM</duetime>
+	<shareWithClass>false</shareWithClass>
+	<shareWithInitialString>R1410second</shareWithInitialString>
+	<shareName>R1410first R1410second</shareName>
+	<additionalnote>this is additional note</additionalnote>
+	
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1410.ShowAssignmentInStudyPlan" index="1_1" method="ShowAssignmentInStudyPlan">
+	<user_id>student_IT14_R1410_1</user_id>
+	<Role>student</Role>
+	<context_id>studcontextIT1410_1</context_id>
+	<context_title>studtitleIT14_R1410_1</context_title>
+	<familyname>R1410second</familyname>
+	<givenname>R1410first</givenname>		
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1410.SortingOrderOfChapterLevelAssignmentbasedOnStatus" index="18" method="sortingOrderOfChapterLevelAssignmentbasedOnStatus">
+	<user_id>instructor_IT14_R1410_18</user_id>
+	<Role>instructor</Role>
+	<context_id>studcontextIT1410_18</context_id>
+	<context_title>studtitleIT14_R1410_18</context_title>
+ 	<assessmentname>Assessment_IT14_R1410_18</assessmentname>
+	<questionset>Test Question_IT14_R1410_18</questionset>
+	<questiontext>Test Question for _IT14_R1410_18</questiontext>
+	<questiontype>Static Practice</questiontype>
+	<chapterName>The Chemical Foundation of Life</chapterName>
+	<gradeable>false</gradeable>
+	<duedate>21</duedate>
+	<duetime>12:00 AM</duetime>
+	<shareWithClass>false</shareWithClass>
+	<shareWithInitialString>R1410_18second</shareWithInitialString>
+	<shareName>R1410_18first R1410_18second</shareName>
+	<additionalnote>this is additional note</additionalnote>	
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1410.SortingOrderOfChapterLevelAssignmentbasedOnStatus" index="18_1" method="ShowAssignmentInStudyPlan">
+	<user_id>student_IT14_R1410_18</user_id>
+	<Role>student</Role>
+	<context_id>studcontextIT1410_18</context_id>
+	<context_title>studtitleIT14_R1410_18</context_title>
+	<familyname>R1410_18second</familyname>
+	<givenname>R1410_18first</givenname>		
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1410.SortingOrderOfChapterLevelAssignmentbasedOnStatus" index="181" method="sortingOrderOfChapterLevelAssignmentbasedOnStatus">
+	<assessmentname>Assessment_IT14_R1410_181</assessmentname>
+	<questionset>Test Question_IT14_R1410_181</questionset>
+	<questiontext>Test Question for _IT14_R1410_181</questiontext>
+	<questiontype>Static Practice</questiontype>
+    <context_title>studtitleIT14_R1410_18</context_title>
+	<chapterName>The Chemical Foundation of Life</chapterName>
+	<gradeable>false</gradeable>
+	<duedate>22</duedate>
+	<duetime>12:00 AM</duetime>
+	<shareWithClass>false</shareWithClass>
+	<shareWithInitialString>R1410_18second</shareWithInitialString>
+	<shareName>R1410_18first R1410_18second</shareName>
+	<additionalnote>this is additional note</additionalnote>	
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1410.SortingOrderOfChapterLevelAssignmentbasedOnStatus" index="182" method="sortingOrderOfChapterLevelAssignmentbasedOnStatus">
+ 	<assessmentname>Assessment_IT14_R1410_182</assessmentname>
+	<questionset>Test Question_IT14_R1410_182</questionset>
+	<questiontext>Test Question for _IT14_R1410_12</questiontext>
+	<questiontype>Static Practice</questiontype>
+    <context_title>studtitleIT14_R1410_18</context_title>
+	<gradeable>true</gradeable>
+	<chapterName>The Chemical Foundation of Life</chapterName>
+	<duedate>23</duedate>
+	<duetime>12:00 AM</duetime>
+	<shareWithClass>false</shareWithClass>
+	<shareWithInitialString>R1410_18second</shareWithInitialString>
+	<shareName>R1410_18first R1410_18second</shareName>
+	<studentname>R1410_18first R1410_18second</studentname>
+	<additionalnote>this is additional note</additionalnote>	
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1410.SortingOrderOfChapterLevelAssignmentbasedOnStatus" index="183" method="sortingOrderOfChapterLevelAssignmentbasedOnStatus">
+ 	<assessmentname>Assessment_IT14_R1410_183</assessmentname>
+	<questionset>Test Question_IT14_R1410_183</questionset>
+	<questiontext>Test Question for _IT14_R1410_183</questiontext>
+	<questiontype>Static Practice</questiontype>
+	<gradeable>true</gradeable>
+	<duedate>24</duedate>
+	<duetime>12:00 AM</duetime>
+	<shareWithClass>false</shareWithClass>
+	<shareWithInitialString>R1410_18second</shareWithInitialString>
+	<shareName>R1410_18first R1410_18second</shareName>
+	<studentname>R1410_18first R1410_18second</studentname>
+	<additionalnote>this is additional note</additionalnote>	
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1410.SortingOrderOfChapterLevelAssignmentbasedOnStatus" index="35" method="sortingOrderOfChapterLevelAssignmentbasedOnStatus">
+	<user_id>instructor_IT14_R1410_35</user_id>
+	<Role>instructor</Role>
+	<context_id>studcontextIT1410_35</context_id>
+	<context_title>studtitleIT14_R1410_35</context_title>
+	<chapterName>Ch 2: The Chemical Foundation of Life</chapterName>
+	<topicname>2.1: Atoms, Isotopes, Ions, and Molecules: The Building Blocks</topicname>
+	<assessmentname>Assessment_IT14_R1410_35</assessmentname>
+	<questionset>Test Question_IT14_R1410_35</questionset>
+	<questiontext>Test Question for _IT14_R1410_35</questiontext>
+	<questiontype>Static Practice</questiontype>
+	<gradeable>false</gradeable>
+	<duedate>21</duedate>
+	<duetime>12:00 AM</duetime>
+	<shareWithClass>false</shareWithClass>
+	<shareWithInitialString>R1410_35second</shareWithInitialString>
+	<shareName>R1410_35first R1410_35second</shareName>
+	<additionalnote>this is additional note</additionalnote>	
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1410.SortingOrderOfChapterLevelAssignmentbasedOnStatus" index="35_1" method="ShowAssignmentInStudyPlan">
+	<user_id>student_IT14_R1410_35</user_id>
+	<Role>student</Role>
+	<context_id>studcontextIT1410_35</context_id>
+	<context_title>studtitleIT14_R1410_35</context_title>
+	<familyname>R1410_35second</familyname>
+	<givenname>R1410_35first</givenname>		
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1410.SortingOrderOfChapterLevelAssignmentbasedOnStatus" index="351" method="sortingOrderOfChapterLevelAssignmentbasedOnStatus">
+	<assessmentname>Assessment_IT14_R1410_351</assessmentname>
+	<questionset>Test Question_IT14_R1410_351</questionset>
+	<questiontext>Test Question for _IT14_R1410_351</questiontext>
+	<questiontype>Static Practice</questiontype>
+    <context_title>studtitleIT14_R1410_35</context_title>
+	<chapterName>Ch 2: The Chemical Foundation of Life</chapterName>
+	<topicname>2.1: Atoms, Isotopes, Ions, and Molecules: The Building Blocks</topicname>
+	<gradeable>false</gradeable>
+	<duedate>22</duedate>
+	<duetime>12:00 AM</duetime>
+	<shareWithClass>false</shareWithClass>
+	<shareWithInitialString>R1410_35second</shareWithInitialString>
+	<shareName>R1410_35first R1410_35second</shareName>
+	<additionalnote>this is additional note</additionalnote>	
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1410.SortingOrderOfChapterLevelAssignmentbasedOnStatus" index="352" method="sortingOrderOfChapterLevelAssignmentbasedOnStatus">
+ 	<assessmentname>Assessment_IT14_R1410_352</assessmentname>
+	<questionset>Test Question_IT14_R1410_352</questionset>
+	<questiontext>Test Question for _IT14_R1410_252</questiontext>
+	<questiontype>Static Practice</questiontype>
+    <context_title>studtitleIT14_R1410_35</context_title>
+	<chapterName>Ch 2: The Chemical Foundation of Life</chapterName>
+	<topicname>2.1: Atoms, Isotopes, Ions, and Molecules: The Building Blocks</topicname>
+	<gradeable>false</gradeable>
+	<duedate>23</duedate>
+	<duetime>12:00 AM</duetime>
+	<shareWithClass>false</shareWithClass>
+	<shareWithInitialString>R1410_35second</shareWithInitialString>
+	<shareName>R1410_35first R1410_35second</shareName>
+	<studentname>R1410_35first R1410_35second</studentname>
+	<additionalnote>this is additional note</additionalnote>	
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1410.CustomeAssignmentatStudyPlan" index="70" method="CustomeAssignmentatStudyPlancourselevel">
+	<user_id>instructor_IT14_R1410_70</user_id>
+	<Role>instructor</Role>
+	<context_id>studcontextIT1410_70</context_id>
+	<context_title>studtitleIT14_R1410_70</context_title>
+	<searchtext>true</searchtext>
+	<duedate>21</duedate>
+	<duetime>12:00 AM</duetime>
+	<gradeable>false</gradeable>
+	<shareWithClass>false</shareWithClass>
+	<shareWithInitialString>R1410_70second</shareWithInitialString>
+	<shareName>R1410_70first R1410_70second</shareName>
+	<additionalnote>this is additional note</additionalnote>	
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1410.CustomeAssignmentatStudyPlan" index="70_1" method="CustomeAssignmentatStudyPlancourselevel">
+	<user_id>student_IT14_R1410_70</user_id>
+	<Role>student</Role>
+	<context_id>studcontextIT1410_70</context_id>
+	<context_title>studtitleIT14_R1410_70</context_title>
+	<familyname>R1410_70second</familyname>
+	<givenname>R1410_70first</givenname>		
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1410.CustomeAssignmentatStudyPlan" index="71" method="CustomeAssignmentatStudyPlancourselevel">
+	<user_id>instructor_IT14_R1410_71</user_id>
+	<Role>instructor</Role>
+	<context_id>studcontextIT1410_71</context_id>
+	<context_title>studtitleIT14_R1410_71</context_title>
+	<searchtext>true</searchtext>
+	<duedate>21</duedate>
+	<duetime>12:00 AM</duetime>
+	<gradeable>false</gradeable>
+	<shareWithClass>false</shareWithClass>
+	<shareWithInitialString>R1410_71second</shareWithInitialString>
+	<shareName>R1410_71first R1410_71second</shareName>
+	<additionalnote>this is additional note</additionalnote>	
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1410.CustomeAssignmentatStudyPlan" index="71_1" method="CustomeAssignmentatStudyPlancourselevel">
+	<user_id>student_IT14_R1410_71</user_id>
+	<Role>student</Role>
+	<context_id>studcontextIT1410_71</context_id>
+	<context_title>studtitleIT14_R1410_71</context_title>
+	<familyname>R1410_71second</familyname>
+	<givenname>R1410_71first</givenname>		
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1410.SortingOrderOfChapterLevelGradableAssignmentbasedOnStatus" index="29" method="SortingOrderOfChapterLevelGradableAssignmentbasedOnStatus">
+ 	<user_id>instructor_IT14_R1410_29</user_id>
+	<Role>instructor</Role>
+	<context_id>studcontextIT1410_29</context_id>
+	<context_title>studtitleIT14_R1410_29</context_title>
+ 	<assessmentname>Assessment_IT14_R1410_29</assessmentname>
+	<questionset>Test Question_IT14_R1410_29</questionset>
+	<questiontext>Test Question for _IT14_R1410_29</questiontext>
+	<questiontype>Static Practice</questiontype>
+	<gradeable>true</gradeable>
+	<duedate>24</duedate>
+	<duetime>12:00 AM</duetime>
+	<shareWithClass>false</shareWithClass>
+	<shareWithInitialString>R1410_29second</shareWithInitialString>
+	<shareName>R1410_29first R1410_29second</shareName>
+	<studentname>R1410_29first R1410_29second</studentname>
+	<additionalnote>this is additional note</additionalnote>	
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1410.SortingOrderOfChapterLevelGradableAssignmentbasedOnStatus" index="291" method="SortingOrderOfChapterLevelGradableAssignmentbasedOnStatus">
+ 	<assessmentname>Assessment_IT14_R1410_291</assessmentname>
+	<questionset>Test Question_IT14_R1410_291</questionset>
+	<questiontext>Test Question for _IT14_R1410_291</questiontext>
+    <context_title>studtitleIT14_R1410_29</context_title>
+	<questiontype>Static Practice</questiontype>
+	<gradeable>true</gradeable>
+	<duedate>25</duedate>
+	<duetime>12:00 AM</duetime>
+	<shareWithClass>false</shareWithClass>
+	<shareWithInitialString>R1410_29second</shareWithInitialString>
+	<shareName>R1410_29first R1410_29second</shareName>
+	<studentname>R1410_29first R1410_29second</studentname>
+	<additionalnote>this is additional note</additionalnote>	
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1410.SortingOrderOfChapterLevelGradableAssignmentbasedOnStatus" index="29_1" method="SortingOrderOfChapterLevelGradableAssignmentbasedOnStatus">
+	<user_id>student_IT14_R1410_29</user_id>
+	<Role>student</Role>
+	<context_id>studcontextIT1410_29</context_id>
+	<context_title>studtitleIT14_R1410_29</context_title>
+	<familyname>R1410_29second</familyname>
+	<givenname>R1410_29first</givenname>		
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1410.SortingOrderOfChapterLevelGradableAssignmentbasedOnStatus" index="46" method="SortingOrderOftopicLevelGradableAssignmentbasedOnStatus">
+ 	<user_id>instructor_IT14_R1410_46</user_id>
+	<Role>instructor</Role>
+	<context_id>studcontextIT1410_46</context_id>
+	<context_title>studtitleIT14_R1410_46</context_title>
+ 	<assessmentname>Assessment_IT14_R1410_46</assessmentname>
+	<questionset>Test Question_IT14_R1410_46</questionset>
+	<questiontext>Test Question for _IT14_R1410_46</questiontext>
+	<questiontype>Static Practice</questiontype>
+	<gradeable>true</gradeable>
+	<duedate>24</duedate>
+	<duetime>12:00 AM</duetime>
+	<shareWithClass>false</shareWithClass>
+	<shareWithInitialString>R1410_46second</shareWithInitialString>
+	<shareName>R1410_46first R1410_46second</shareName>
+	<studentname>R1410_46first R1410_46second</studentname>
+	<additionalnote>this is additional note</additionalnote>	
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1410.SortingOrderOfChapterLevelGradableAssignmentbasedOnStatus" index="461" method="SortingOrderOftopicLevelGradableAssignmentbasedOnStatus">
+ 	<assessmentname>Assessment_IT14_R1410_461</assessmentname>
+	<questionset>Test Question_IT14_R1410_461</questionset>
+	<questiontext>Test Question for _IT14_R1410_461</questiontext>
+    <context_title>studtitleIT14_R1410_46</context_title>
+	<questiontype>Static Practice</questiontype>
+	<gradeable>true</gradeable>
+	<duedate>25</duedate>
+	<duetime>12:00 AM</duetime>
+	<shareWithClass>false</shareWithClass>
+	<shareWithInitialString>R1410_46second</shareWithInitialString>
+	<shareName>R1410_46first R1410_46second</shareName>
+	<studentname>R1410_46first R1410_46second</studentname>
+	<additionalnote>this is additional note</additionalnote>	
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1410.SortingOrderOfChapterLevelGradableAssignmentbasedOnStatus" index="46_1" method="SortingOrderOftopicLevelGradableAssignmentbasedOnStatus">
+	<user_id>student_IT14_R1410_46</user_id>
+	<Role>student</Role>
+	<context_id>studcontextIT1410_46</context_id>
+	<context_title>studtitleIT14_R1410_46</context_title>
+	<familyname>R1410_46second</familyname>
+	<givenname>R1410_46first</givenname>		
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1410.NavigationToOtherAssessmentfromAssignmentPage" index="76" method="NavigationToOtherAssessmentfromAssignmentPage">
+ 	<user_id>instructor_IT14_R1410_76</user_id>
+	<Role>instructor</Role>
+	<context_id>studcontextIT1410_76</context_id>
+	<context_title>studtitleIT14_R1410_76</context_title>
+ 	<assessmentname>Assessment_IT14_R1410_76</assessmentname>
+	<questionset>Test Question_IT14_R1410_76</questionset>
+	<questiontext>Test Question for _IT14_R1410_76</questiontext>
+	<questiontype>Static Practice</questiontype>
+	<gradeable>false</gradeable>
+	<duedate>24</duedate>
+	<duetime>12:00 AM</duetime>
+	<shareWithClass>false</shareWithClass>
+	<shareWithInitialString>R1410_76second</shareWithInitialString>
+	<shareName>R1410_76first R1410_76second</shareName>
+	<additionalnote>this is additional note</additionalnote>	
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1410.NavigationToOtherAssessmentfromAssignmentPage" index="76_1" method="NavigationToOtherAssessmentfromAssignmentPage">
+	<user_id>student_IT14_R1410_76</user_id>
+	<Role>student</Role>
+	<context_id>studcontextIT1410_76</context_id>
+	<context_title>studtitleIT14_R1410_76</context_title>
+	<familyname>R1410_76second</familyname>
+	<givenname>R1410_76first</givenname>		
+</testcase>
+
+
+
+
+
+
+
+
+</learningspaces>

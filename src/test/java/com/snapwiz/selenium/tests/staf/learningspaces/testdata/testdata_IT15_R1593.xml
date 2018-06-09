@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.OwnPerspectiveCommentForStudents" index="8" method="ownPerspectiveCommentForStudents">
+		<user_id>IT15_R1593_Student_8_1</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1593_8_1</context_id>
+		<context_title>studtitleR1593_8_1</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.OwnPerspectiveCommentForStudents" index="8_1" method="ownPerspectiveCommentForStudents">
+		<user_id>IT15_R1593_Inst_8_1_1</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR1593_8_1</context_id>
+		<context_title>studtitleR1593_8_1</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.OwnPerspectiveCommentForStudents" index="8_2" method="ownPerspectiveCommentForStudents">
+		<user_id>IT15_R1593_Student_8_2_1</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1593_8_1</context_id>
+		<context_title>studtitleR1593_8_1</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.OtherStudentsPerspectiveAndComment" index="36_1" method="otherStudentsPerspectiveAndComment">
+		<user_id>IT15_R1593_Student_36_1</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1593_36_6</context_id>
+		<context_title>studtitleR1593_36_6</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.OtherStudentsPerspectiveAndComment" index="36_2" method="otherStudentsPerspectiveAndComment">
+		<user_id>IT15_R1593_Student_36_2</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1593_36_6</context_id>
+		<context_title>studtitleR1593_36_6</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.OtherStudentsPerspectiveAndComment" index="36_3" method="otherStudentsPerspectiveAndComment">
+		<user_id>IT15_R1593_Student_36_3</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1593_36_6</context_id>
+		<context_title>studtitleR1593_36_6</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.OtherStudentsPerspectiveAndComment" index="36_4" method="otherStudentsPerspectiveAndComment">
+		<user_id>IT15_R1593_Student_36_4</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1593_36_6</context_id>
+		<context_title>studtitleR1593_36_6</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.OtherStudentsPerspectiveAndComment" index="36_5" method="otherStudentsPerspectiveAndComment">
+		<user_id>IT15_R1593_Student_36_5</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1593_36_6</context_id>
+		<context_title>studtitleR1593_36_6</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.InstructorPerspectiveAndComment" index="51" method="instructorPerspectiveAndComment">
+		<user_id>IT15_R1593_Inst_51_3</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR1593_51_1_3</context_id>
+		<context_title>studtitleR1593_51_1_3</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.InstructorPerspectiveAndComment" index="51_1" method="instructorPerspectiveAndComment">
+		<user_id>IT15_R1593_Student_51_1_3</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1593_51_1_3</context_id>
+		<context_title>studtitleR1593_51_1_3</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.OwnPerspectiveCommentForInstructor" index="55" method="ownPerspectiveCommentForInstructor">
+		<user_id>IT15_R1593_Inst_55_1</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR1593_55_1</context_id>
+		<context_title>studtitleR1593_55_1</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.OwnPerspectiveCommentForInstructor" index="55_1" method="ownPerspectiveCommentForInstructor">
+		<user_id>IT15_R1593_Inst_55_1_1</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR1593_55_1</context_id>
+		<context_title>studtitleR1593_55_1</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.OwnPerspectiveCommentForInstructor" index="55_2" method="ownPerspectiveCommentForInstructor">
+		<user_id>IT15_R1593_Stu_55_2_1</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1593_55_1</context_id>
+		<context_title>studtitleR1593_55_1</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.InstructorRemovesStudentPerspectiveAndComment" index="78" method="instructorRemovesStudentPerspectiveAndComment">
+		<user_id>IT15_R1593_Inst_78_1</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR1593_78</context_id>
+		<context_title>studtitleR1593_78</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.InstructorRemovesStudentPerspectiveAndComment" index="78_1" method="instructorRemovesStudentPerspectiveAndComment">
+		<user_id>IT15_R1593_Stu_78_1_1</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1593_78</context_id>
+		<context_title>studtitleR1593_78</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.InstructorRemovesStudentPerspectiveAndComment" index="78_2" method="instructorRemovesStudentPerspectiveAndComment">
+		<user_id>IT15_R1593_Inst_78_2_1</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR1593_78</context_id>
+		<context_title>studtitleR1593_78</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.OtherInstructorsPerspectiveAndComment" index="106_1" method="otherInstructorsPerspectiveAndComment">
+		<user_id>IT15_R1593_Inst_106_1_3</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR1593_106_1</context_id>
+		<context_title>studtitleR1593_106_1</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.OtherInstructorsPerspectiveAndComment" index="106_2" method="otherInstructorsPerspectiveAndComment">
+		<user_id>IT15_R1593_Inst_106_2_3</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR1593_106_1</context_id>
+		<context_title>studtitleR1593_106_1</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.PerspectiveCommentForStudentsOnDWAssignment" index="111" method="perspectiveCommentForStudentsOnDWAssignment">
+		<user_id>IT15_R1593_Inst_111_28</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR1593_111_28</context_id>
+		<context_title>studtitleR1593_111_28</context_title>
+		<gradable>true</gradable>
+        <gradingpolicy>grading policy texts</gradingpolicy>
+        <totalpoints>2</totalpoints>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.PerspectiveCommentForStudentsOnDWAssignment" index="111_1" method="perspectiveCommentForStudentsOnDWAssignment">
+		<user_id>IT15_R1593_Stu_111_1_28</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1593_111_28</context_id>
+		<context_title>studtitleR1593_111_28</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.PerspectiveCommentForStudentsOnDWAssignment" index="111_2" method="perspectiveCommentForStudentsOnDWAssignment">
+		<user_id>IT15_R1593_Stu_111_2_28</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1593_111_28</context_id>
+		<context_title>studtitleR1593_111_28</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.OtherStudentsPerspectiveAndCommentForDwAssignment" index="127" method="otherStudentsPerspectiveAndCommentForDwAssignment">
+		<user_id>IT15_R1593_Inst_127_3</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR1593_127_3</context_id>
+		<context_title>studtitleR1593_127_3</context_title>
+		<gradable>true</gradable>
+        <gradingpolicy>grading policy texts</gradingpolicy>
+        <totalpoints>2</totalpoints>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.OtherStudentsPerspectiveAndCommentForDwAssignment" index="127_1" method="otherStudentsPerspectiveAndCommentForDwAssignment">
+		<user_id>IT15_R1593_Stu_127_1_3</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1593_127_3</context_id>
+		<context_title>studtitleR1593_127_3</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.OtherStudentsPerspectiveAndCommentForDwAssignment" index="127_2" method="otherStudentsPerspectiveAndCommentForDwAssignment">
+		<user_id>IT15_R1593_Stu_127_2_3</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1593_127_3</context_id>
+		<context_title>studtitleR1593_127_3</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.OtherStudentsPerspectiveAndCommentForDwAssignment" index="127_3" method="otherStudentsPerspectiveAndCommentForDwAssignment">
+		<user_id>IT15_R1593_Stu_127_3_3</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1593_127_3</context_id>
+		<context_title>studtitleR1593_127_3</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.OtherStudentsPerspectiveAndCommentForDwAssignment" index="127_4" method="otherStudentsPerspectiveAndCommentForDwAssignment">
+		<user_id>IT15_R1593_Stu_127_4_3</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1593_127_3</context_id>
+		<context_title>studtitleR1593_127_3</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.OtherStudentsPerspectiveAndCommentForDwAssignment" index="127_5" method="otherStudentsPerspectiveAndCommentForDwAssignment">
+		<user_id>IT15_R1593_Stu_127_5_3</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1593_127_3</context_id>
+		<context_title>studtitleR1593_127_3</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.OtherInstructorsPerspectiveAndCommentForStudent" index="141" method="otherInstructorsPerspectiveAndCommentForStudent">
+		<user_id>IT15_R1593_Inst_141_2</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR1593_141_1</context_id>
+		<context_title>studtitleR1593_141_1</context_title>
+		<gradable>true</gradable>
+        <gradingpolicy>grading policy texts</gradingpolicy>
+        <totalpoints>2</totalpoints>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.OtherInstructorsPerspectiveAndCommentForStudent" index="141_1" method="otherInstructorsPerspectiveAndCommentForStudent">
+		<user_id>IT15_R1593_Stu_141_1_2</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1593_141_1</context_id>
+		<context_title>studtitleR1593_141_1</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.OwnPerspectiveCommentForInstructorOnDWAssignment" index="143" method="ownPerspectiveCommentForInstructorOnDWAssignment">
+		<user_id>IT15_R1593_Inst_143_1</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR1593_143_1</context_id>
+		<context_title>studtitleR1593_143_1</context_title>
+		<gradable>true</gradable>
+        <gradingpolicy>grading policy texts</gradingpolicy>
+        <totalpoints>2</totalpoints>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.OwnPerspectiveCommentForInstructorOnDWAssignment" index="143_1" method="ownPerspectiveCommentForInstructorOnDWAssignment">
+		<user_id>IT15_R1593_Stu_143_1_1</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1593_143_1</context_id>
+		<context_title>studtitleR1593_143_1</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.OwnPerspectiveCommentForInstructorOnDWAssignment" index="143_2" method="ownPerspectiveCommentForInstructorOnDWAssignment">
+		<user_id>IT15_R1593_Inst_143_2_1</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR1593_143_1</context_id>
+		<context_title>studtitleR1593_143_1</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.StudentPerspectiveAndCommentOnInstructorSide" index="153" method="studentPerspectiveAndCommentOnInstructorSide">
+		<user_id>IT15_R1593_Inst_153_1</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR1593_153</context_id>
+		<context_title>studtitleR1593_153</context_title>
+		<gradable>true</gradable>
+        <gradingpolicy>grading policy texts</gradingpolicy>
+        <totalpoints>2</totalpoints>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.StudentPerspectiveAndCommentOnInstructorSide" index="153_1" method="studentPerspectiveAndCommentOnInstructorSide">
+		<user_id>IT15_R1593_Stu_153_1_1</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1593_153</context_id>
+		<context_title>studtitleR1593_153</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.StudentPerspectiveAndCommentOnInstructorSide" index="153_2" method="studentPerspectiveAndCommentOnInstructorSide">
+		<user_id>IT15_R1593_Inst_153_2_1</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR1593_153</context_id>
+		<context_title>studtitleR1593_153</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.OtherInstructorPerspectiveOnDWAssignment" index="167" method="otherInstructorPerspectiveOnDWAssignment">
+		<user_id>IT15_R1593_Inst_167_2</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR1593_167_1</context_id>
+		<context_title>studtitleR1593_167_1</context_title>
+		<gradable>true</gradable>
+        <gradingpolicy>grading policy texts</gradingpolicy>
+        <totalpoints>2</totalpoints>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.OtherInstructorPerspectiveOnDWAssignment" index="167_1" method="otherInstructorPerspectiveOnDWAssignment">
+		<user_id>IT15_R1593_Inst_167_1_2</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR1593_167_1</context_id>
+		<context_title>studtitleR1593_167_1</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.HidingPerspectiveAsStudentForDWAssignmentWithGradeReleased" index="170" method="hidingPerspectiveAsStudentForDWAssignmentWithGradeReleased">
+		<user_id>IT15_R1593_Instructor_170_1</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR1593_170_1</context_id>
+		<context_title>studtitleR1593_170_1</context_title>
+		<gradable>true</gradable>
+        <gradingpolicy>grading policy texts</gradingpolicy>
+        <totalpoints>2</totalpoints>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.HidingPerspectiveAsStudentForDWAssignmentWithGradeReleased" index="170_1" method="hidingPerspectiveAsStudentForDWAssignmentWithGradeReleased">
+		<user_id>IT15_R1593_Student_170_1_1</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1593_170_1</context_id>
+		<context_title>studtitleR1593_170_1</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.HidingPerspectiveAsInstructorForDWAssignmentWithGradeReleased" index="179" method="hidingPerspectiveAsInstructorForDWAssignmentWithGradeReleased">
+		<user_id>IT15_R1593_Inst_179_4</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR1593_179_4</context_id>
+		<context_title>studtitleR1593_179_4</context_title>
+		<gradable>true</gradable>
+        <gradingpolicy>grading policy texts</gradingpolicy>
+        <totalpoints>2</totalpoints>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.HidingPerspectiveAsInstructorForDWAssignmentWithGradeReleased" index="179_1" method="hidingPerspectiveAsInstructorForDWAssignmentWithGradeReleased">
+		<user_id>IT15_R1593_Stu_179_1_4</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1593_179_4</context_id>
+		<context_title>studtitleR1593_179_4</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.RemovalOfPerspectiveByReportingAbuseForDWAssignmentWithGradeReleased" index="189" method="removalOfPerspectiveByReportingAbuseForDWAssignmentWithGradeReleased">
+		<user_id>IT15_R1593_Inst_189_3</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR1593_189_2</context_id>
+		<context_title>studtitleR1593_189_2</context_title>
+		<gradable>true</gradable>
+        <gradingpolicy>grading policy texts</gradingpolicy>
+        <totalpoints>2</totalpoints>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.RemovalOfPerspectiveByReportingAbuseForDWAssignmentWithGradeReleased" index="189_1" method="removalOfPerspectiveByReportingAbuseForDWAssignmentWithGradeReleased">
+		<user_id>IT15_R1593_Stu_189_1_3</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1593_189_2</context_id>
+		<context_title>studtitleR1593_189_2</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.RemovalOfPerspectiveByReportingAbuseForDWAssignmentWithGradeReleased" index="189_2" method="removalOfPerspectiveByReportingAbuseForDWAssignmentWithGradeReleased">
+		<user_id>IT15_R1593_Stu_189_2_3</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1593_189_2</context_id>
+		<context_title>studtitleR1593_189_2</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.RemovalOfPerspectiveByReportingAbuseForDWAssignmentWithGradeReleased" index="189_3" method="removalOfPerspectiveByReportingAbuseForDWAssignmentWithGradeReleased">
+		<user_id>IT15_R1593_Stu_189_3_3</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1593_189_2</context_id>
+		<context_title>studtitleR1593_189_2</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.RemovalOfPerspectiveByReportingAbuseForDWAssignmentWithGradeReleased" index="189_4" method="removalOfPerspectiveByReportingAbuseForDWAssignmentWithGradeReleased">
+		<user_id>IT15_R1593_Stu_189_4_3</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1593_189_2</context_id>
+		<context_title>studtitleR1593_189_2</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.RemovalOfPerspectiveByReportingAbuseForDWAssignmentWithGradeReleased" index="189_5" method="removalOfPerspectiveByReportingAbuseForDWAssignmentWithGradeReleased">
+		<user_id>IT15_R1593_Stu_189_5_3</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1593_189_2</context_id>
+		<context_title>studtitleR1593_189_2</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.RemovePostAndRemoveCommentOptionAtStudentSide" index="200" method="removePostAndRemoveCommentOptionAtStudentSide">
+		<user_id>IT15_R15_9_3_Instr_200_4</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR1593_200_4</context_id>
+		<context_title>studtitleR1593_200_4</context_title>
+		<resoursename>Resourse_IT15_R1593_200</resoursename>
+		<type>image</type>
+		<description>Description Text</description>
+		<instructoronlyflag>false</instructoronlyflag>
+		<assessmentname>200 Assessment</assessmentname>
+		<questionset>200 Question Set</questionset>
+		<questiontext>200 Test Question</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>stud</shareWithInitialString>
+		<shareName>studtitleR1593_200_4</shareName>
+		<shareWithClass>true</shareWithClass>
+		<gradeable>true</gradeable>
+		<gradingpolicy>Grading policy text</gradingpolicy>
+		<duedate>28</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>This is an additional note</additionalnote>
+		<filename>img.png</filename>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.RemovePostAndRemoveCommentOptionAtStudentSide" index="200_1" method="removePostAndRemoveCommentOptionAtStudentSide">
+		<user_id>IT15_R15_9_3_Studen_200_4</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1593_200_4</context_id>
+		<context_title>studtitleR1593_200_4</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.RemovePostRemoveCommentOptionAtInstructorSide" index="226" method="removePostRemoveCommentOptionAtInstructorSide">
+		<user_id>IT15_R15_9_3_Instr_226_5</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR1593_226_5</context_id>
+		<context_title>studtitleR1593_226_5</context_title>
+		<resoursename>Resourse_IT15_R1593_226</resoursename>
+		<type>image</type>
+		<description>Description Text</description>
+		<instructoronlyflag>false</instructoronlyflag>
+		<assessmentname>226 Assessment</assessmentname>
+		<questionset>226 Question Set</questionset>
+		<questiontext>226 Test Question</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>stud</shareWithInitialString>
+		<shareName>studtitleR1593_226_5</shareName>
+		<shareWithClass>true</shareWithClass>
+		<gradeable>true</gradeable>
+		<gradingpolicy>Grading policy text</gradingpolicy>
+		<duedate>28</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>This is an additional note</additionalnote>
+		<filename>img.png</filename>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1593.RemovePostRemoveCommentOptionAtInstructorSide" index="226_1" method="removePostRemoveCommentOptionAtInstructorSide">
+		<user_id>IT15_R15_9_3_Studen_226_1_5</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1593_226_5</context_id>
+		<context_title>studtitleR1593_226_5</context_title>
+	</testcase>
+	
+</learningspaces>

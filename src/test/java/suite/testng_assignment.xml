@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests">
+    <listeners>
+        <listener class-name="com.snapwiz.selenium.tests.staf.learningspaces.CustomListener" />
+    </listeners>
+   <!-- <test name="Assignment Regression Text (Chrome)">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.NewAssignmentPage"/>
+        </classes>
+    </test> --><!-- Test -->
+
+    <test name="Assignment Regression Text (firefox)">
+        <parameter name="browser" value="firefox"/>
+        <classes>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.NewAssignmentPage"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->

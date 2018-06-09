@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.AppiumLearningspaces.testcases.IT21Mobile.R218Generic.GenericStudentTester" index="13" method="visibilityOfGradedAssignments">
+        <assessmentname>IT21Mobile_R218Generic_Assessment_13</assessmentname>
+        <questionset>Question Set_IT21Mobile_R218Generic</questionset>
+        <questiontext>Test Question_IT21Mobile_R218Generic_13</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <user_id>ipad_student30@edugen.com</user_id>
+        <Role>student</Role>
+        <context_id>iPad Integration WPLS Class Section 03</context_id>
+        <context_title>iPad Integration WPLS Class Section 03</context_title>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>iPad Integration WPLS Class Section 03</shareWithInitialString>
+        <shareName>iPad Integration WPLS Class Section 03</shareName>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <gradeable>true</gradeable>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.AppiumLearningspaces.testcases.IT21Mobile.R218Generic.GenericStudentTester" index="31" method="visibilityOfAssignmentsinNavigationList2">
+        <assessmentname>IT21Mobile_R218Generic_Assessment_31</assessmentname>
+        <questionset>Question Set_IT21Mobile_R218Generic</questionset>
+        <questiontext>Test Question_IT21Mobile_R218Generic_31</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <!--<user_id>ipad_student30@edugen.com</user_id>
+        <Role>student</Role>
+        <context_id>iPad Integration WPLS Class Section 03</context_id>
+        <context_title>iPad Integration WPLS Class Section 03</context_title>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>iPad Integration WPLS Class Section 03</shareWithInitialString>
+        <shareName>iPad Integration WPLS Class Section 03</shareName>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <gradeable>true</gradeable>-->
+    </testcase>
+</learningspaces>
+
+

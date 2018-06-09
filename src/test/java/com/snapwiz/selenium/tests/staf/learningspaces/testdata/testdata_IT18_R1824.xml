@@ -1,0 +1,1337 @@
+<?xml version="1.0"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.StudentSubmittedQs" index="12" method="">
+        <user_id>student_IT18_R1824_12</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR1824_12</context_id>
+        <context_title>studtitleItR1824_12</context_title>
+        <chapterName>Ch 4: Cell Structure</chapterName>
+        <diaassessmentname>Diagnostic Test - Cell Structure</diaassessmentname>
+        <diagTestName>Diagnostic - Ch 4: Cell Structure</diagTestName>
+        <test_type>DS</test_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.StudentSubmittedQs" index="27" method="">
+        <user_id>student_IT18_R1824_27</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR1824_27</context_id>
+        <context_title>studtitleItR1824_27</context_title>
+        <chapterName>Ch 5: Structure and Function of Plasma Membranes</chapterName>
+        <diaassessmentname>Diagnostic Test - Structure and Function of Plasma Membranes</diaassessmentname>
+        <diagTestName>Diagnostic - Ch 5: Structure and Function of Plasma Membranes</diagTestName>
+        <test_type>DS</test_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.StudentSubmittedQs" index="32" method="">
+        <user_id>student_IT18_R1824_32</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR1824_32</context_id>
+        <context_title>studtitleItR1824_32</context_title>
+        <chapterName>Ch 4: Cell Structure</chapterName>
+        <diaassessmentname>Diagnostic Test - Cell Structure</diaassessmentname>
+        <diagTestName>Diagnostic - Ch 4: Cell Structure</diagTestName>
+        <staticTestName>Personalized Practice - Ch 4: Cell Structure</staticTestName>
+        <test_type>PS</test_type>
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.StudentSubmittedQs" index="47" method="studentNotSubmittedPracticeTestQs">
+        <user_id>student_IT18_R1824_47_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR1824_47_2</context_id>
+        <context_title>studtitleItR1824_47_2</context_title>
+        <chapterName>Ch 5: Structure and Function of Plasma Membranes</chapterName>
+        <diaassessmentname>Practice Test - Structure and Function of Plasma Membranes</diaassessmentname>
+        <diagTestName>Diagnostic - Ch 5: Structure and Function of Plasma Membranes</diagTestName>
+        <staticTestName>Personalized Practice - Ch 5: Structure and Function of Plasma Membranes</staticTestName>
+        <test_type>PS</test_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.StudentSubmittedQs" index="49" method="studentSubmittedStaticTestQs">
+        <user_id>student_IT18_R1824_49</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR1824_49</context_id>
+        <context_title>studtitleItR1824_49</context_title>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_R1824_49</questionset>
+        <questiontext>Test Question for IT18_R1824_49</questiontext>
+        <assessmentname>4.1 Concept Check</assessmentname>
+        <test_type>PS</test_type>
+        <subSection_level>true</subSection_level>
+        <chapterName>Ch 4: Cell Structure</chapterName>
+        <chapterIndex>3</chapterIndex>
+        <topicIndex>17</topicIndex>
+        <learningobjective>51</learningobjective>
+        <diaassessmentname>4.1 Concept Check</diaassessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.StudentSubmittedQs" index="64" method="">
+        <user_id>student_IT18_R1824_64</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR1824_64</context_id>
+        <context_title>studtitleItR1824_64</context_title>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_R1824_64</questionset>
+        <questiontext>Test Question for IT18_R1824_64</questiontext>
+        <assessmentname>5.1 Concept Check</assessmentname>
+        <test_type>PS</test_type>
+        <subSection_level>true</subSection_level>
+        <chapterName>Ch 5: Structure and Function of Plasma Membranes</chapterName>
+        <chapterIndex>4</chapterIndex>
+        <topicIndex>25</topicIndex>
+        <learningobjective>51</learningobjective>
+        <diaassessmentname>5.1 Concept Check</diaassessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.StudentSubmittedQs" index="69" method="">
+        <user_id>IT18_R1824_Instructor_69_21</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR1824_70</context_id>
+        <context_title>studtitleItR1824_70</context_title>
+        <assessmentname>Assignment_IT18_R1824_69_12</assessmentname>
+        <questionset>questionset</questionset>
+        <questiontext>QuestionTextIT1869</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitleItR1824_70</shareWithInitialString>
+        <shareName>studtitleItR1824_70</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <diaassessmentname>Assignment_IT18_R1824_69_12</diaassessmentname>
+        <test_type>SS</test_type>
+        <QuestionNo>4</QuestionNo>
+        <studentname>givenname family</studentname>
+        <grade>0.6</grade>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.StudentSubmittedQs" index="69_1" method="">
+        <user_id>IT18_R1824_Student_69_121</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR1824_70</context_id>
+        <context_title>studtitleItR1824_70</context_title>
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.StudentSubmittedQs" index="69_2" method="">
+        <user_id>IT18_R1824_Student_69_212</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR1824_70</context_id>
+        <context_title>studtitleItR1824_70</context_title>
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.StudentSubmittedQs" index="69_3" method="">
+        <user_id>IT18_R1824_Student_69_313</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR1824_70</context_id>
+        <context_title>studtitleItR1824_70</context_title>
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.StudentSubmittedQs" index="69_4" method="">
+        <user_id>IT18_R1824_Student_69_414</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR1824_70</context_id>
+        <context_title>studtitleItR1824_70</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.StudentSubmittedQs" index="115" method="">
+        <user_id>IT18_R1824_Instructor_115_</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR1824_115</context_id>
+        <context_title>studtitleItR1824_115</context_title>
+        <assessmentname>Assignment_IT18_R1824_115</assessmentname>
+        <questionset>questionset</questionset>
+        <questiontext>QuestionTextIT18115</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitleItR1824_115</shareWithInitialString>
+        <shareName>studtitleItR1824_115</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <diaassessmentname>Assignment_IT18_R1824_115</diaassessmentname>
+        <test_type>SS</test_type>
+        <QuestionNo>4</QuestionNo>
+        <studentname>givenname family</studentname>
+        <grade>0.6</grade>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.StudentSubmittedQs" index="115_1" method="">
+        <user_id>IT18_R1824_Student_115_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR1824_115</context_id>
+        <context_title>studtitleItR1824_115</context_title>
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.StudentSubmittedQs" index="115_2" method="">
+        <user_id>IT18_R1824_Student_115_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR1824_115</context_id>
+        <context_title>studtitleItR1824_115</context_title>
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.StudentSubmittedQs" index="115_3" method="">
+        <user_id>IT18_R1824_Student_115_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR1824_115</context_id>
+        <context_title>studtitleItR1824_115</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.StudentSubmittedQs" index="149" method="">
+        <user_id>IT18_R1824_Instructor_149_</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR1824_149</context_id>
+        <context_title>studtitleItR1824_149</context_title>
+        <assessmentname>Assignment_IT18_R1824_149</assessmentname>
+        <questionset>questionset</questionset>
+        <questiontext>QuestionTextIT18149</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitleItR1824_149</shareWithInitialString>
+        <shareName>studtitleItR1824_149</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <diaassessmentname>Assignment_IT18_R1824_149</diaassessmentname>
+        <studentname>givenname family</studentname>
+        <customassignmentname>customAssignment_IT18_R18241</customassignmentname>
+        <name>customAssignment_IT18_R18241</name>
+        <noOfQuestions>3</noOfQuestions>
+        <searchquestion>True False</searchquestion>
+        <grade>0.6</grade>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.StudentSubmittedQs" index="149_1" method="">
+        <user_id>IT18_R1824_Student_149_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR1824_149</context_id>
+        <context_title>studtitleItR1824_149</context_title>
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.StudentSubmittedQs" index="149_2" method="">
+        <user_id>IT18_R1824_Student_149_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR1824_149</context_id>
+        <context_title>studtitleItR1824_149</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.StudentSubmittedQs" index="157" method="">
+        <user_id>IT18_R1824_Instructor_157_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR1824_157</context_id>
+        <context_title>studtitleItR1824_157</context_title>
+        <assessmentname>Assignment_IT18_R1824_157</assessmentname>
+        <questionset>questionset</questionset>
+        <questiontext>QuestionTextIT18157</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitleItR1824_157</shareWithInitialString>
+        <shareName>studtitleItR1824_157</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <diaassessmentname>Assignment_IT18_R1824_157</diaassessmentname>
+        <studentname>givenname family</studentname>
+        <grade>0.6</grade>
+        <test_type>SS</test_type>
+        <QuestionNo>4</QuestionNo>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.StudentSubmittedQs" index="157_1" method="">
+        <user_id>IT18_R1824_Student_157_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR1824_157</context_id>
+        <context_title>studtitleItR1824_157</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.StudentSubmittedQs" index="171" method="">
+        <user_id>IT18_R1824_Instructor_171_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR1824_171</context_id>
+        <context_title>studtitleItR1824_171</context_title>
+        <assessmentname>Assignment_IT18_R1824_171</assessmentname>
+        <questionset>questionset</questionset>
+        <questiontext>QuestionTextIT18171</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitleItR1824_171</shareWithInitialString>
+        <shareName>studtitleItR1824_171</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <diaassessmentname>Assignment_IT18_R1824_171</diaassessmentname>
+        <test_type>SS</test_type>
+        <QuestionNo>4</QuestionNo>
+        <studentname>givenname family</studentname>
+        <grade>0.6</grade>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.StudentSubmittedQs" index="171_1" method="">
+        <user_id>IT18_R1824_Student_171_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR1824_171</context_id>
+        <context_title>studtitleItR1824_171</context_title>
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.StudentSubmittedQs" index="171_2" method="">
+        <user_id>IT18_R1824_Student_171_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR1824_171</context_id>
+        <context_title>studtitleItR1824_171</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.StudentSubmittedQs" index="171_3" method="">
+        <user_id>IT18_R1824_Student_171_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR1824_171</context_id>
+        <context_title>studtitleItR1824_171</context_title>
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.StudentSubmittedQs" index="171_4" method="">
+        <user_id>IT18_R1824_Student_171_4</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR1824_171</context_id>
+        <context_title>studtitleItR1824_171</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.StudentSubmittedQs" index="202" method="" >
+        <user_id>instructor_IT1818_202_11</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT18_R1818_202_11</context_id>
+        <context_title>studtitle_IT18_R1818_202_11</context_title>
+        <assessmentname>Assignment_IT18_R1824_202</assessmentname>
+        <questionset>questionset</questionset>
+        <questiontext>QuestionTextIT18202</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <questiontype>Static Practice</questiontype>
+        <name>Assignment_IT18_R1824_202</name>
+        <shareWithInitialString>studtitle_IT18_R1818_202_11</shareWithInitialString>
+        <shareName>studtitle_IT18_R1818_202_11</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <customassignmentname>Assignment_IT18_R1824_202</customassignmentname>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>QuestionTextIT1824_203</searchquestion>
+        <studentname>givenname family</studentname>
+        <grade>0.8</grade>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.StudentSubmittedQs" index="202_1" method="" >
+        <user_id>student_IT1818_202_111</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1818_202_11</context_id>
+        <context_title>studtitle_IT18_R1818_202_11</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.StudentSubmittedQs" index="202_2" method="" >
+        <user_id>student_IT1818_202_222</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1818_202_11</context_id>
+        <context_title>studtitle_IT18_R1818_202_11</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.StudentSubmittedQs" index="203" method="">
+        <assessmentname>Assignment_IT18_R1824_203</assessmentname>
+        <questionset>questionset</questionset>
+        <questiontext>QuestionTextIT1824_203</questiontext>
+        <questiontype>Static Practice</questiontype>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.StudentSubmittedQs" index="204" method="" >
+        <user_id>instructor_IT1818_204_111</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT18_R1818_204_111</context_id>
+        <context_title>studtitle_IT18_R1818_204_111</context_title>
+        <assessmentname>Assignment_IT18_R1824_205_11</assessmentname>
+        <questionset>questionset</questionset>
+        <questiontext>QuestionTextIT18204</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <name>Assignment_IT18_R1824_205</name>
+        <shareWithInitialString>studtitle_IT18_R1818_204_111</shareWithInitialString>
+        <shareName>studtitle_IT18_R1818_204_111</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <customassignmentname>Assignment_IT18_R1824_205_11</customassignmentname>
+        <noOfQuestions>10</noOfQuestions>
+        <searchquestion>QuestionTextIT1824_205_2</searchquestion>
+        <studentname>givenname family</studentname>
+        <grade>0.8</grade>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.StudentSubmittedQs" index="204_1" method="" >
+        <user_id>student_IT1818_204_111</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1818_204_111</context_id>
+        <context_title>studtitle_IT18_R1818_204_111</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.StudentSubmittedQs" index="204_2" method="" >
+        <user_id>student_IT1818_204_222</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1818_204_111</context_id>
+        <context_title>studtitle_IT18_R1818_204_111</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.StudentSubmittedQs" index="205" method="">
+        <assessmentname>Assignment_IT18_R1824_205_11</assessmentname>
+        <questionset>questionset</questionset>
+        <questiontext>QuestionTextIT1824_205_2</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.StudentSubmittedQs" index="206" method="" >
+        <user_id>instructor_IT1824_206_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT18_R1824_206_2</context_id>
+        <context_title>studtitle_IT18_R1824_206_2</context_title>
+        <assignmentpolicyname>PolicyIT824206</assignmentpolicyname>
+        <assignmentpolicy>PolicyIT824206</assignmentpolicy>
+        <assessmentname>Assignment_IT18_R1824_206_12</assessmentname>
+        <questionset>206 Question Set</questionset>
+        <questiontext>QuestionTextIT1824_206_1</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <name>Assignment_IT18_R1824_206</name>
+        <shareWithInitialString>studtitle_IT18_R1824_206_2</shareWithInitialString>
+        <shareName>studtitle_IT18_R1824_206_2</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <customassignmentname>Assignment_IT18_R1824_206_12</customassignmentname>
+        <noOfQuestions>5</noOfQuestions>
+        <searchquestion>QuestionTextIT1824_206_1</searchquestion>
+        <diaassessmentname>Assignment_IT18_R1824_206_12</diaassessmentname>
+        <test_type>SS</test_type>
+        <QuestionNo>3</QuestionNo>
+        <studentname>givenname family</studentname>
+        <grade>0.8</grade>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.StudentSubmittedQs" index="206_1" method="" >
+        <user_id>student_IT1824_206_11</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1824_206_2</context_id>
+        <context_title>studtitle_IT18_R1824_206_2</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.StudentSubmittedQs" index="206_2" method="" >
+        <user_id>student_IT1824_206_12</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1824_206_2</context_id>
+        <context_title>studtitle_IT18_R1824_206_2</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.StudentSubmittedQs" index="212" method="" >
+        <user_id>instructor_IT1824_212_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT18_R1824_212_2</context_id>
+        <context_title>studtitle_IT18_R1824_212_2</context_title>
+        <assignmentpolicyname>PolicyIT824212</assignmentpolicyname>
+        <assignmentpolicy>PolicyIT824212</assignmentpolicy>
+        <assessmentname>Assignment_IT18_R1824_212_12</assessmentname>
+        <questionset>212 Question Set</questionset>
+        <questiontext>QuestionTextIT1824_212_1</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <name>Assignment_IT18_R1824_212</name>
+        <shareWithInitialString>studtitle_IT18_R1824_212_2</shareWithInitialString>
+        <shareName>studtitle_IT18_R1824_212_2</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <customassignmentname>Assignment_IT18_R1824_212_12</customassignmentname>
+        <noOfQuestions>5</noOfQuestions>
+        <searchquestion>QuestionTextIT1824_212_1</searchquestion>
+        <diaassessmentname>Assignment_IT18_R1824_212_12</diaassessmentname>
+        <test_type>SS</test_type>
+        <QuestionNo>3</QuestionNo>
+        <studentname>givenname family</studentname>
+        <grade>0.8</grade>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.StudentSubmittedQs" index="212_1" method="" >
+        <user_id>student_IT1824_212_11</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1824_212_2</context_id>
+        <context_title>studtitle_IT18_R1824_212_2</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.StudentSubmittedQs" index="212_2" method="" >
+        <user_id>student_IT1824_212_12</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1824_212_2</context_id>
+        <context_title>studtitle_IT18_R1824_212_2</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.StudentSubmittedQs" index="212_3" method="" >
+        <user_id>student_IT1824_212_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1824_212_2</context_id>
+        <context_title>studtitle_IT18_R1824_212_2</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.StudentSubmittedQs" index="219" method="">
+        <user_id>IT18_R1824_Instructor_219_11</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR1824_219_1</context_id>
+        <context_title>studtitleItR1824_219_1</context_title>
+        <assessmentname>Assignment_IT18_R1824_219_1</assessmentname>
+        <questionset>questionset</questionset>
+        <questiontext>QuestionTextIT18219</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitleItR1824_219_1</shareWithInitialString>
+        <shareName>studtitleItR1824_219_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <diaassessmentname>Assignment_IT18_R1824_219_1</diaassessmentname>
+        <test_type>SS</test_type>
+        <QuestionNo>4</QuestionNo>
+        <studentname>givenname family</studentname>
+        <grade>0.6</grade>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.StudentSubmittedQs" index="219_1" method="">
+        <user_id>IT18_R1824_Student_219_11</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR1824_219_1</context_id>
+        <context_title>studtitleItR1824_219_1</context_title>
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.StudentSubmittedQs" index="219_2" method="">
+        <user_id>IT18_R1824_Student_219_22</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR1824_219_1</context_id>
+        <context_title>studtitleItR1824_219_1</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.StudentSubmittedQs" index="219_3" method="">
+        <user_id>IT18_R1824_Student_219_33</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR1824_219_1</context_id>
+        <context_title>studtitleItR1824_219_1</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.StudentSubmittedQs" index="219_4" method="">
+        <user_id>IT18_R1824_Student_219_44</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR1824_219_1</context_id>
+        <context_title>studtitleItR1824_219_1</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.StudentSubmittedQs" index="150" method="" >
+        <user_id>instructor_IT1824_150_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT18_R1824_150_2</context_id>
+        <context_title>studtitle_IT18_R1824_150_2</context_title>
+        <assessmentname>Assignment_IT18_R1824_150_12</assessmentname>
+        <questionset>150 Question Set</questionset>
+        <questiontext>QuestionTextIT1824_150_1</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <name>Assignment_IT18_R1824_150</name>
+        <shareWithInitialString>studtitle_IT18_R1824_150_2</shareWithInitialString>
+        <shareName>studtitle_IT18_R1824_150_2</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <customassignmentname>Assignment_IT18_R1824_150_12</customassignmentname>
+        <noOfQuestions>3</noOfQuestions>
+        <searchquestion>QuestionTextIT1824_150_1</searchquestion>
+        <diaassessmentname>Assignment_IT18_R1824_150_12</diaassessmentname>
+        <test_type>SS</test_type>
+        <QuestionNo>2</QuestionNo>
+        <studentname>givenname family</studentname>
+        <grade>0.8</grade>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.StudentSubmittedQs" index="150_1" method="" >
+        <user_id>student_IT1824_150_11</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1824_150_2</context_id>
+        <context_title>studtitle_IT18_R1824_150_2</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.StudentSubmittedQs" index="150_2" method="" >
+        <user_id>student_IT1824_150_12</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1824_150_2</context_id>
+        <context_title>studtitle_IT18_R1824_150_2</context_title>
+    </testcase>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.QuestionVersions" index="243" method="student1HasSubmittedQsForDiagnosticAssessment" >
+        <user_id>student_IT1824_243_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1824_243_3</context_id>
+        <context_title>studtitle_IT18_R1824_243_3</context_title>
+        <assessmentname>Diagnostic - Ch 2: The Chemical Foundation of Life</assessmentname>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.QuestionVersions" index="258" method="student1HasSubmittedQsForDiagnosticAssessment" >
+        <user_id>student_IT1824_258_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1824_258_1</context_id>
+        <context_title>studtitle_IT18_R1824_258_1</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.QuestionVersions" index="260" method="student1HasSubmittedQsForDiagnosticAssessment" >
+        <user_id>student_IT1824_260_8</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1824_260_8</context_id>
+        <context_title>studtitle_IT18_R1824_260_8</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.QuestionVersions" index="262" method="student1HasSubmittedQsForPracticeAssessment" >
+        <user_id>student_IT1824_262_5</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1824_262_5</context_id>
+        <context_title>studtitle_IT18_R1824_262_5</context_title>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.QuestionVersions" index="278" method="student1HasSubmittedQsForStaticAssessment">
+        <assessmentname>IT19_R1824_Custom Assignment_278</assessmentname>
+        <questionset>Test Question Set of IT19_R1824</questionset>
+        <questiontext>Test Question for IT19_R1824</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <chapterName>Ch 2: The Chemical Foundation of Life</chapterName>
+        <user_id>IT19_R1824_Instructor_278_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextIT19_R1824</context_id>
+        <context_title>studtitleIT19_R1824</context_title>
+        <duedate>23</duedate>
+        <duetime>12:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>this is grading policy</gradingpolicy>
+        <shareWithInitialString>studtitleIT19_R1824</shareWithInitialString>
+        <shareName>studtitleIT19_R1824</shareName>
+        <additionalnote>this is additional note</additionalnote>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.QuestionVersions" index="279" method="student1HasSubmittedQsForStaticAssessment">
+        <user_id>student_ls_IT18_R1824_279_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextIT19_R1824</context_id>
+        <context_title>studtitleIT19_R1824</context_title>
+        <assessmentname>IT19_R1824_Custom Assignment_278</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.QuestionVersions" index="280" method="student1HasSubmittedQsForStaticAssessment">
+        <user_id>student_ls_IT18_R1824_280_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextIT19_R1824</context_id>
+        <context_title>studtitleIT19_R1824</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.QuestionVersions" index="293" method="student1HasSubmittedQsForStaticAssessment">
+        <user_id>student_ls_IT18_R1824_293</user_id>
+        <Role>student</Role>
+        <context_id>studcontextIT19_R1824</context_id>
+        <context_title>studtitleIT19_R1824</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.QuestionVersions" index="294" method="student1HasSubmittedQsForStaticAssessment">
+        <user_id>student_ls_IT18_R1824_294</user_id>
+        <Role>student</Role>
+        <context_id>studcontextIT19_R1824</context_id>
+        <context_title>studtitleIT19_R1824</context_title>
+    </testcase>
+
+
+
+    <!--<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.QuestionVersions" index="297" method="checkGradableAssignment">
+        <assessmentname>IT19_R1824_Custom Assignment_298</assessmentname>
+        <questionset>Test Question Set of IT19_R1824_298</questionset>
+        <questiontext>Test Question for IT19_R1824_298</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <user_id>IT19_R1824_Instructor_298</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextIT19_R1824_298</context_id>
+        <context_title>studtitleIT19_R1824_298</context_title>
+        <duedate>23</duedate>
+        <duetime>12:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>this is grading policy</gradingpolicy>
+        <shareWithInitialString>studtitleIT19_R1824_298</shareWithInitialString>
+        <shareName>studtitleIT19_R1824_298</shareName>
+        <additionalnote>this is additional note</additionalnote>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.QuestionVersions" index="297_1" method="checkGradableAssignment">
+        <user_id>student_ls_IT18_R1824_297_1_10</user_id>
+        <Role>student</Role>
+        <context_id>studcontextIT19_R1824_298</context_id>
+        <context_title>studtitleIT19_R1824_298</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.QuestionVersions" index="297_2" method="checkGradableAssignment">
+        <user_id>student_ls_IT18_R1824_297_2_10</user_id>
+        <Role>student</Role>
+        <context_id>studcontextIT19_R1824_298</context_id>
+        <context_title>studtitleIT19_R1824_298</context_title>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.QuestionVersions" index="297_3" method="checkGradableAssignment">
+        <user_id>student_ls_IT18_R1824_297_3_10</user_id>
+        <Role>student</Role>
+        <context_id>studcontextIT19_R1824_298</context_id>
+        <context_title>studtitleIT19_R1824_298</context_title>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.QuestionVersions" index="297_4" method="checkGradableAssignment">
+        <user_id>student_ls_IT18_R1824_297_4_10</user_id>
+        <Role>student</Role>
+        <context_id>studcontextIT19_R1824_298</context_id>
+        <context_title>studtitleIT19_R1824_298</context_title>
+    </testcase>-->
+
+
+
+
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.QuestionVersions" index="297" method="checkGradableAssignment">
+        <assessmentname>IT19_R1824_Custom Assignment_10000</assessmentname>
+        <questionset>Test Question Set of IT19_R1824_10000</questionset>
+        <questiontext>Test Question for IT19_R1824_10000</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <user_id>IT19_R1824_Instructor_10000</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextIT19_R1824_10000</context_id>
+        <context_title>studtitleIT19_R1824_10000</context_title>
+        <duedate>23</duedate>
+        <duetime>12:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>this is grading policy</gradingpolicy>
+        <shareWithInitialString>studtitleIT19_R1824_10000</shareWithInitialString>
+        <shareName>studtitleIT19_R1824_10000</shareName>
+        <additionalnote>this is additional note</additionalnote>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.QuestionVersions" index="297_1" method="checkGradableAssignment">
+        <user_id>student_ls_IT18_R1824_297_1_111</user_id>
+        <Role>student</Role>
+        <context_id>studcontextIT19_R1824_10000</context_id>
+        <context_title>studtitleIT19_R1824_10000</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.QuestionVersions" index="297_2" method="checkGradableAssignment">
+        <user_id>student_ls_IT18_R1824_297_2_222</user_id>
+        <Role>student</Role>
+        <context_id>studcontextIT19_R1824_10000</context_id>
+        <context_title>studtitleIT19_R1824_10000</context_title>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.QuestionVersions" index="297_3" method="checkGradableAssignment">
+        <user_id>student_ls_IT18_R1824_297_3_333</user_id>
+        <Role>student</Role>
+        <context_id>studcontextIT19_R1824_10000</context_id>
+        <context_title>studtitleIT19_R1824_10000</context_title>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.QuestionVersions" index="297_4" method="checkGradableAssignment">
+        <user_id>student_ls_IT18_R1824_297_4_444</user_id>
+        <Role>student</Role>
+        <context_id>studcontextIT19_R1824_10000</context_id>
+        <context_title>studtitleIT19_R1824_10000</context_title>
+    </testcase>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.QuestionVersions" index="346" method="checkNonGradableAssignment">
+        <assessmentname>IT19_R1824_Custom Assignment_346</assessmentname>
+        <questionset>Test Question Set of IT19_R1824_346</questionset>
+        <questiontext>Test Question for IT19_R1824_346</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <user_id>IT19_R1824_Instructor_346</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextIT19_R1824_346</context_id>
+        <context_title>studtitleIT19_R1824_346</context_title>
+        <duedate>23</duedate>
+        <duetime>12:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>this is grading policy</gradingpolicy>
+        <shareWithInitialString>studtitleIT19_R1824_346</shareWithInitialString>
+        <shareName>studtitleIT19_R1824_346</shareName>
+        <additionalnote>this is additional note</additionalnote>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.QuestionVersions" index="346_1" method="checkNonGradableAssignment">
+        <user_id>student_ls_IT18_R1824_346_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextIT19_R1824_346</context_id>
+        <context_title>studtitleIT19_R1824_346</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.QuestionVersions" index="346_2" method="checkNonGradableAssignment">
+        <user_id>student_ls_IT18_R1824_346_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontextIT19_R1824_346</context_id>
+        <context_title>studtitleIT19_R1824_346</context_title>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.QuestionVersions" index="346_3" method="checkNonGradableAssignment">
+        <user_id>student_ls_IT18_R1824_346_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontextIT19_R1824_346</context_id>
+        <context_title>studtitleIT19_R1824_346</context_title>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.QuestionVersions" index="346_4" method="checkNonGradableAssignment">
+        <user_id>student_ls_IT18_R1824_346_4</user_id>
+        <Role>student</Role>
+        <context_id>studcontextIT19_R1824_346</context_id>
+        <context_title>studtitleIT19_R1824_346</context_title>
+    </testcase>
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.QuestionVersions" index="382" method="checkCourseStreamEntryFrDiscussionAddedToOlderVersionQuestion">
+        <assessmentname>IT19_R1824_Custom Assignment_382</assessmentname>
+        <questionset>Test Question Set of IT19_R1824_382</questionset>
+        <questiontext>Test Question for IT19_R1824_382</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <user_id>IT19_R1824_Instructor_382</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextIT19_R1824_382</context_id>
+        <context_title>studtitleIT19_R1824_382</context_title>
+        <duedate>23</duedate>
+        <duetime>12:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>this is grading policy</gradingpolicy>
+        <shareWithInitialString>studtitleIT19_R1824_382</shareWithInitialString>
+        <shareName>studtitleIT19_R1824_382</shareName>
+        <additionalnote>this is additional note</additionalnote>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.QuestionVersions" index="382_1" method="checkCourseStreamEntryFrDiscussionAddedToOlderVersionQuestion">
+        <user_id>student_ls_IT18_R1824_382_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextIT19_R1824_382</context_id>
+        <context_title>studtitleIT19_R1824_382</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.QuestionVersions" index="382_2" method="checkCourseStreamEntryFrDiscussionAddedToOlderVersionQuestion">
+        <user_id>student_ls_IT18_R1824_382_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontextIT19_R1824_382</context_id>
+        <context_title>studtitleIT19_R1824_382</context_title>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.QuestionVersions" index="385" method="checkDiscussionEntryOverMyActivity">
+        <assessmentname>IT19_R1824_Custom Assignment_385</assessmentname>
+        <questionset>Test Question Set of IT19_R1824_385</questionset>
+        <questiontext>Test Question for IT19_R1824_385</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <user_id>IT19_R1824_Instructor_385</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextIT19_R1824_385</context_id>
+        <context_title>studtitleIT19_R1824_385</context_title>
+        <duedate>23</duedate>
+        <duetime>12:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>this is grading policy</gradingpolicy>
+        <shareWithInitialString>studtitleIT19_R1824_385</shareWithInitialString>
+        <shareName>studtitleIT19_R1824_385</shareName>
+        <additionalnote>this is additional note</additionalnote>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.QuestionVersions" index="385_1" method="checkDiscussionEntryOverMyActivity">
+        <user_id>student_ls_IT18_R1824_385_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextIT19_R1824_385</context_id>
+        <context_title>studtitleIT19_R1824_385</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.QuestionVersions" index="385_2" method="checkDiscussionEntryOverMyActivity">
+        <user_id>student_ls_IT18_R1824_385_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontextIT19_R1824_385</context_id>
+        <context_title>studtitleIT19_R1824_385</context_title>
+    </testcase>
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.QuestionVersions" index="389" method="checkDiscussionEntryOverMyActivity">
+        <assessmentname>IT19_R1824_Custom Assignment__2050</assessmentname>
+        <questionset>Test Question Set of IT19_R1824__2050</questionset>
+        <questiontext>Test Question for IT19_R1824__2050</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <user_id>IT19_R1824_Instructor__2050</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextIT19_R1824__2050</context_id>
+        <context_title>studtitleIT19_R1824__2050</context_title>
+        <duedate>23</duedate>
+        <duetime>12:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>this is grading policy</gradingpolicy>
+        <shareWithInitialString>studtitleIT19_R1824__2050</shareWithInitialString>
+        <shareName>studtitleIT19_R1824__2050</shareName>
+        <additionalnote>this is additional note</additionalnote>
+        <studentname>givenname family</studentname>
+        <grade>0.6</grade>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.QuestionVersions" index="389_1" method="checkDiscussionEntryOverMyActivity">
+        <user_id>student_ls_IT18_R1824_389_1__2050</user_id>
+        <Role>student</Role>
+        <context_id>studcontextIT19_R1824__2050</context_id>
+        <context_title>studtitleIT19_R1824__2050</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.QuestionVersions" index="389_2" method="checkDiscussionEntryOverMyActivity">
+        <user_id>student_ls_IT18_R1824_389_1__2050</user_id>
+        <Role>student</Role>
+        <context_id>studcontextIT19_R1824__2050</context_id>
+        <context_title>studtitleIT19_R1824__2050</context_title>
+    </testcase>
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.QuestionVersions" index="405" method="checkWhenQuestionIsOlderVersionAfterSomeStudentsHaveAttemptedToBeOlderQuestion_Gradable">
+        <assessmentname>UniqueIT19_R1824_Custom Assignment_405</assessmentname>
+        <questionset>Test Question Set of IT19_R1824_405</questionset>
+        <questiontext>Test Question for IT19_R1824_405</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <user_id>IT19_R1824_Instructor_4055</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextIT19_R1824_4055</context_id>
+        <context_title>studtitleIT19_R1824_4055</context_title>
+        <duedate>23</duedate>
+        <duetime>12:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>this is grading policy</gradingpolicy>
+        <shareWithInitialString>studtitleIT19_R1824_4055</shareWithInitialString>
+        <shareName>studtitleIT19_R1824_4055</shareName>
+        <additionalnote>this is additional note</additionalnote>
+        <grade>0.6</grade>
+        <studentname>givenname family</studentname>
+        <!--<overrideDefaultQuestionCreate>essay</overrideDefaultQuestionCreate>-->
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.QuestionVersions" index="405_1" method="checkWhenQuestionIsOlderVersionAfterSomeStudentsHaveAttemptedToBeOlderQuestion_Gradable">
+        <user_id>student_ls_IT18_R1824_405_11</user_id>
+        <Role>student</Role>
+        <context_id>studcontextIT19_R1824_4055</context_id>
+        <context_title>studtitleIT19_R1824_4055</context_title>
+        <givenname>Student1</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.QuestionVersions" index="405_2" method="checkWhenQuestionIsOlderVersionAfterSomeStudentsHaveAttemptedToBeOlderQuestion_Gradable">
+        <user_id>student_ls_IT18_R1824_405_22</user_id>
+        <Role>student</Role>
+        <context_id>studcontextIT19_R1824_4055</context_id>
+        <context_title>studtitleIT19_R1824_4055</context_title>
+        <givenname>Student2</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.QuestionVersions" index="405_3" method="checkWhenQuestionIsOlderVersionAfterSomeStudentsHaveAttemptedToBeOlderQuestion_Gradable">
+        <user_id>student_ls_IT18_R1824_405_33</user_id>
+        <Role>student</Role>
+        <context_id>studcontextIT19_R1824_4055</context_id>
+        <context_title>studtitleIT19_R1824_4055</context_title>
+        <givenname>Student3</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.QuestionVersions" index="405_4" method="checkWhenQuestionIsOlderVersionAfterSomeStudentsHaveAttemptedToBeOlderQuestion_Gradable">
+        <user_id>student_ls_IT18_R1824_405_44</user_id>
+        <Role>student</Role>
+        <context_id>studcontextIT19_R1824_4055</context_id>
+        <context_title>studtitleIT19_R1824_4055</context_title>
+        <givenname>Student4</givenname>
+    </testcase>
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.QuestionVersions" index="434" method="" >
+        <user_id>instructor_IT1824_434_B</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT18_R1824_434_B</context_id>
+        <context_title>studtitle_IT18_R1824_434_B</context_title>
+        <assessmentname>ABCAssignment_IT18_R1824_434_B</assessmentname>
+        <questionset>questionset</questionset>
+        <questiontext>TestQuestionforIT1824434_B</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <name>ABCAssignment_IT18_R1824_434_A</name>
+        <shareWithInitialString>studtitle_IT18_R1824_434_B</shareWithInitialString>
+        <shareName>studtitle_IT18_R1824_434_B</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <customassignmentname>ABCAssignment_IT18_R1824_434_B</customassignmentname>
+        <noOfQuestions>1</noOfQuestions>
+        <searchquestion>TestQuestionforIT1824434_B</searchquestion>
+        <studentname>givenname family</studentname>
+        <grade>0.8</grade>
+        <searchquestion>TestQuestionforIT1824434_B</searchquestion>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.QuestionVersions" index="434_1" method="" >
+        <user_id>student_IT1824_434_1_B</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1824_434_B</context_id>
+        <context_title>studtitle_IT18_R1824_434_B</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.QuestionVersions" index="434_2" method="" >
+        <user_id>student_IT1824_434_2_B</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1824_434_B</context_id>
+        <context_title>studtitle_IT18_R1824_434_B</context_title>
+    </testcase>
+   <!-- <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.QuestionVersions" index="435" method="">
+        <assessmentname>Assignment_IT1824_R1824_435</assessmentname>
+        <questionset>questionset</questionset>
+        <questiontext>Test Question for IT18_R1824_435</questiontext>
+        <questiontype>Static Practice</questiontype>
+    </testcase>-->
+
+
+
+
+
+
+
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.QuestionVersions" index="435" method="" >
+        <user_id>instructor_IT1818_435_111</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT18_R1818_435_111</context_id>
+        <context_title>studtitle_IT18_R1818_435_111</context_title>
+        <assessmentname>Assignment_IT18_R1824_4355_11</assessmentname>
+        <questionset>questionset</questionset>
+        <questiontext>QuestionTextIT18435</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <name>Assignment_IT18_R1824_4355</name>
+        <shareWithInitialString>studtitle_IT18_R1818_435_111</shareWithInitialString>
+        <shareName>studtitle_IT18_R1818_435_111</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <customassignmentname>Assignment_IT18_R1824_4355_11</customassignmentname>
+        <noOfQuestions>10</noOfQuestions>
+        <searchquestion>QuestionTextIT1824_4355_2</searchquestion>
+        <studentname>givenname family</studentname>
+        <grade>0.8</grade>
+        <searchquestion>QuestionTextIT18435</searchquestion>
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.QuestionVersions" index="435_1" method="" >
+        <user_id>student_IT1818_435_111</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1818_435_111</context_id>
+        <context_title>studtitle_IT18_R1818_435_111</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.QuestionVersions" index="435_2" method="" >
+        <user_id>student_IT1818_435_222</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1818_435_111</context_id>
+        <context_title>studtitle_IT18_R1818_435_111</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.QuestionVersions" index="4355" method="">
+        <assessmentname>Assignment_IT18_R1824_4355_11</assessmentname>
+        <questionset>questionset</questionset>
+        <questiontext>QuestionTextIT1824_4355_2</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+    </testcase>
+
+
+
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.QuestionVersions" index="436" method="" >
+        <user_id>instructor_IT1824_436_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT18_R1824_436_2</context_id>
+        <context_title>studtitle_IT18_R1824_436_2</context_title>
+        <assignmentpolicyname>PolicyIT824436</assignmentpolicyname>
+        <assignmentpolicy>PolicyIT824436</assignmentpolicy>
+        <assessmentname>Assignment_IT18_R1824_436_12</assessmentname>
+        <questionset>436 Question Set</questionset>
+        <questiontext>QuestionTextIT1824_436_1</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <name>Assignment_IT18_R1824_436</name>
+        <shareWithInitialString>studtitle_IT18_R1824_436_2</shareWithInitialString>
+        <shareName>studtitle_IT18_R1824_436_2</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <customassignmentname>Assignment_IT18_R1824_436_12</customassignmentname>
+        <noOfQuestions>5</noOfQuestions>
+        <searchquestion>QuestionTextIT1824_436_1</searchquestion>
+        <diaassessmentname>Assignment_IT18_R1824_436_12</diaassessmentname>
+        <test_type>SS</test_type>
+        <QuestionNo>3</QuestionNo>
+        <studentname>givenname family</studentname>
+        <grade>0.8</grade>
+        <searchquestion>QuestionTextIT1824_436_1</searchquestion>
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.QuestionVersions" index="436_1" method="" >
+        <user_id>student_IT1824_436_11</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1824_436_2</context_id>
+        <context_title>studtitle_IT18_R1824_436_2</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.QuestionVersions" index="436_2" method="" >
+        <user_id>student_IT1824_436_12</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1824_436_2</context_id>
+        <context_title>studtitle_IT18_R1824_436_2</context_title>
+    </testcase>
+
+
+
+
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.QuestionVersions" index="444" method="" >
+        <user_id>instructor_IT1824_444_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT18_R1824_444_2</context_id>
+        <context_title>studtitle_IT18_R1824_444_2</context_title>
+        <assignmentpolicyname>PolicyIT824444</assignmentpolicyname>
+        <assignmentpolicy>PolicyIT824444</assignmentpolicy>
+        <assessmentname>Assignment_IT18_R1824_444_12</assessmentname>
+        <questionset>444 Question Set</questionset>
+        <questiontext>QuestionTextIT1824_444_1</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <name>Assignment_IT18_R1824_444</name>
+        <shareWithInitialString>studtitle_IT18_R1824_444_2</shareWithInitialString>
+        <shareName>studtitle_IT18_R1824_444_2</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <customassignmentname>Assignment_IT18_R1824_444_12</customassignmentname>
+        <noOfQuestions>5</noOfQuestions>
+        <searchquestion>QuestionTextIT1824_444_1</searchquestion>
+        <diaassessmentname>Assignment_IT18_R1824_444_12</diaassessmentname>
+        <test_type>SS</test_type>
+        <QuestionNo>3</QuestionNo>
+        <studentname>givenname family</studentname>
+        <grade>0.8</grade>
+        <searchquestion>QuestionTextIT1824_444_1</searchquestion>
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.QuestionVersions" index="444_1" method="" >
+        <user_id>student_IT1824_444_11</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1824_444_2</context_id>
+        <context_title>studtitle_IT18_R1824_444_2</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.QuestionVersions" index="444_2" method="" >
+        <user_id>student_IT1824_444_12</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1824_444_2</context_id>
+        <context_title>studtitle_IT18_R1824_444_2</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.QuestionVersions" index="444_3" method="" >
+        <user_id>student_IT1824_444_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1824_444_2</context_id>
+        <context_title>studtitle_IT18_R1824_444_2</context_title>
+    </testcase>
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.QuestionVersions" index="451" method="">
+        <user_id>IT18_R1824_Instructor_451_11</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR1824_451_1</context_id>
+        <context_title>studtitleItR1824_451_1</context_title>
+        <assessmentname>LaicepsAssignment_IT18_R1824_451_1</assessmentname>
+        <questionset>questionset</questionset>
+        <questiontext>QuestionTextIT18451</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitleItR1824_451_1</shareWithInitialString>
+        <shareName>studtitleItR1824_451_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <diaassessmentname>LaicepsAssignment_IT18_R1824_451_1</diaassessmentname>
+        <test_type>SS</test_type>
+        <QuestionNo>4</QuestionNo>
+        <studentname>givenname family</studentname>
+        <grade>0.6</grade>
+        <searchquestion>QuestionTextIT18451</searchquestion>
+        <chapterName>Ch 3: Biological Macromolecules</chapterName>
+        <givenname>Shishira</givenname>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.QuestionVersions" index="451_1" method="">
+        <user_id>IT18_R1824_Student_451_11</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR1824_451_1</context_id>
+        <context_title>studtitleItR1824_451_1</context_title>
+        <givenname>Student1</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.QuestionVersions" index="451_2" method="">
+        <user_id>IT18_R1824_Student_451_22</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR1824_451_1</context_id>
+        <context_title>studtitleItR1824_451_1</context_title>
+        <givenname>Student2</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.QuestionVersions" index="451_3" method="">
+        <user_id>IT18_R1824_Student_451_33</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR1824_451_1</context_id>
+        <context_title>studtitleItR1824_451_1</context_title>
+        <givenname>Student3</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R1824.QuestionVersions" index="451_4" method="">
+        <user_id>IT18_R1824_Student_451_44</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR1824_451_1</context_id>
+        <context_title>studtitleItR1824_451_1</context_title>
+        <givenname>Student4</givenname>
+    </testcase>
+
+
+
+
+
+
+
+
+</learningspaces>
+
+

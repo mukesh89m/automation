@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="IT_16_R16.3-LSRegressionSuite">
+    <classes>         	
+    	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R163.RestructuringOfMainNavigator"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R163.AllResourceTabFunctionality"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R163.SupportForQuestionBanksPage"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R163.EnhancementToCustomizeThisFlow"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R163.InstructorAbleToViewAllResourcesQuestionBanksAcrossAllClassSections"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R163.RestructuringOfMainNavigatorForMentor"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R163.AllResourceTabFunctionalityForMentor"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R163.SupportForQuestionBanksPageForMentor"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R163.EnhancementToCustomizeThisFlowForMentor"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R163.MentorAbleToViewAllResourcesQuestionBanksAcrossAllClassSections"/>
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->

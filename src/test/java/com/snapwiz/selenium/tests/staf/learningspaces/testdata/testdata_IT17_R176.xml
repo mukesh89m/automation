@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<learningspaces>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R176.AddScoreForEachQuestion" index="44" method="doStaticPracticeAssessment_AllQuestionTypes">
+        <assessmentname>16072015_ABCDIT17_R1721_Custom Assignment_44</assessmentname>
+        <questionset>ABCDTest Question Set of IT17_R1721_44</questionset>
+        <questiontext>16072015_ABCDTest Question for IT17_R1721_44</questiontext>
+        <questiontype>Static Practice</questiontype>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R176.AddScoreForEachQuestion" index="47" method="doStaticPracticeAssessment_AllQuestionTypes">
+        <questiontext>16072015_Test Question for IT17_R1721_47</questiontext>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R176.AddScoreForEachQuestion" index="49" method="doStaticPracticeAssessment_AllQuestionTypes"> <assessmentname>IT17_R1721_Custom Assignment_44</assessmentname>
+        <assessmentname>16072015_ABCDIT17_R1721_Custom Assignment_44</assessmentname>
+        <questionset>ABCDTest Question Set of IT17_R1721_44</questionset>
+        <questiontext>16072015_ABCDTest Question for IT17_R1721_44</questiontext>
+        <searchKey>16072015_ABCDTest Question for IT17_R1721_44</searchKey>
+        <questiontype>Static Practice</questiontype>
+        <score>3</score>
+        <!--<needNotToBePubished>true</needNotToBePubished>-->
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R176.AddScoreForEachQuestion" index="61" method="doStaticPracticeAssessment_AllQuestionTypes">
+        <user_id>student_ls_61</user_id>
+        <Role>student</Role>
+        <context_id>studcontextIT17_R176_61_4</context_id>
+        <context_title>studtitleIT17_R176_61_4</context_title>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R176.AddScoreForEachQuestion" index="65" method="doStaticPracticeAssessment_AllQuestionTypes">
+        <user_id>instructor__ls_65</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextIT17_R176_61_4</context_id>
+        <context_title>studtitleIT17_R176_61_4</context_title>
+        <duedate>23</duedate>
+        <duetime>12:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>this is grading policy</gradingpolicy>
+        <shareWithInitialString>studtitleIT17_R176_61_4</shareWithInitialString>
+        <shareName>studtitleIT17_R176_61_4</shareName>
+        <additionalnote>this is additional note</additionalnote>
+        <score>4</score>-->
+        <assessmentname>Different Assessment Name_66_1</assessmentname>
+    </testcase>
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R176.AddScoreForEachQuestion" index="70" method="doStaticAssessmentWithInstrucorTypeOnly">
+        <assessmentname>XYZIT17_R1721_Custom Assignment_70</assessmentname>
+        <questionset>XYZTest Question Set of IT17_R1721_70</questionset>
+        <questiontext>XYZTest Question for IT17_R1721_70</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <score>3</score>
+        <user_id>instructor_sanity_ls_7</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextIT17_R176_70</context_id>
+        <context_title>studtitleIT17_R176_70</context_title>
+        <duedate>23</duedate>
+        <duetime>12:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>this is grading policy</gradingpolicy>
+        <shareWithInitialString>studtitleIT17_R176_70</shareWithInitialString>
+        <shareName>studtitleIT17_R176_70</shareName>
+        <additionalnote>this is additional note</additionalnote>
+        <gradeable>true</gradeable>
+
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R176.AddScoreForEachQuestion" index="70_1" method="doStaticAssessmentWithInstrucorTypeOnly">
+        <user_id>student_ls_7</user_id>
+        <Role>student</Role>
+        <context_id>studcontextIT17_R176_70</context_id>
+        <context_title>studtitleIT17_R176_70</context_title>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R176.AddScoreForEachQuestion" index="75" method="doStaticAssessmentWithInstrucorTypeOnly">
+        <user_id>instructor_ls_8</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextIT17_R176_75_1</context_id>
+        <context_title>studtitleIT17_R176_75_1</context_title>
+        <duedate>23</duedate>
+        <duetime>12:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>this is grading policy</gradingpolicy>
+        <shareWithInitialString>studtitleIT17_R176_75_1</shareWithInitialString>
+        <shareName>studtitleIT17_R176_75_1</shareName>
+        <additionalnote>this is additional note</additionalnote>
+        <assessmentname>ABCDDifferent Assessment Name_71</assessmentname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R176.AddScoreForEachQuestion" index="75_1" method="doStaticAssessmentWithInstrucorTypeOnly">
+        <user_id>student_ls_8</user_id>
+        <Role>student</Role>
+        <context_id>studcontextIT17_R176_75_1</context_id>
+        <context_title>studtitleIT17_R176_75_1</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R176.AddScoreForEachQuestion" index="76" method="doStaticAssessmentWithInstrucorTypeOnly">
+        <assessmentname>ABCDDifferent Assessment Name 76</assessmentname>
+    </testcase>
+
+</learningspaces>

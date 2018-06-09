@@ -1,0 +1,809 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edulastic>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.NumberLine" index ="31" method="numberLineUI">
+        <assessmentname>IT1_numberLineUI_Assessment_31</assessmentname>
+        <questiontext>question text IT_assignmentFlow</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <filename>img.png</filename>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.NumberLine" index ="195" method="definingCorrectAnswerChoice">
+        <assessmentname>IT1_numberLineUI_Assessment_195</assessmentname>
+        <questiontext>question text IT_assignmentFlow</questiontext>
+        <shareWithClass>true</shareWithClass>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.NumberLine" index ="288" method="definingCorrectAnswerChoiceNumberLine">
+        <assessmentname>IT1_numberLineUI_Assessment_288</assessmentname>
+        <questiontext>question text IT_assignmentFlow</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <filename>img.png</filename>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.NumberLine" index ="559" method="parametersAndSave">
+        <assessmentname>IT1_numberLineUI_Assessment_559</assessmentname>
+        <questiontext>question text IT_assignmentFlow</questiontext>
+        <shareWithClass>true</shareWithClass>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.NumberLine" index ="845" method="preview">
+        <assessmentname>IT1_numberLinePreview_Assessment_845</assessmentname>
+        <questiontext>question text IT_assignmentFlow</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.SentenceResponce" index ="59" method="numberLineUI">
+        <assessmentname>Assessment_Name_IT1_Epic46_59</assessmentname>
+        <questiontext>Question_Text_IT1_Epic46_59</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.SentenceResponce" index ="82" method="studentToBeAbleToAttemptSentenceResponseQuestion">
+        <assessmentname>Assessment_Name_IT1_Epic46_82</assessmentname>
+        <questiontext>Question_Text_IT1_Epic46_82</questiontext>
+        <solutionText>solutionText</solutionText>
+        <allowMultipleCorrectAnswer>Yes</allowMultipleCorrectAnswer>
+        <hintText>hintText</hintText>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+   <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.NumberLine" index ="1039" method="studentEvaluationCorrectAnswer">
+     <assessmentname>IT1_numberLine_Assessment_1039</assessmentname>
+     <questiontext>question text IT_assignmentFlow</questiontext>
+     <shareWithClass>true</shareWithClass>
+     <duedate>28</duedate>
+     <duetime>12:00 AM</duetime>
+     <gradable>true</gradable>
+     <description>description text</description>
+     <tags>tags tags</tags>
+     <privacy>Public</privacy>
+   </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.NumberLine" index ="1119" method="studentEvaluationPartialCorrectNonGradable">
+        <assessmentname>IT1_numberLine_Assessment_1119</assessmentname>
+        <questiontext>question text IT_assignmentFlow</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.NumberLine" index ="1241" method="studentEvaluationWrongAnswer">
+        <assessmentname>IT1_numberLine_Assessment_1241</assessmentname>
+        <questiontext>question text IT_assignmentFlow</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.SentenceResponce" index ="87" method="studentToBeAbleToDeselectAnswerChoice">
+        <assessmentname>Assessment_Name_IT1_Epic46_87</assessmentname>
+        <questiontext>Question_Text_IT1_Epic46_87</questiontext>
+        <solutionText>solutionText</solutionText>
+        <allowMultipleCorrectAnswer>Yes</allowMultipleCorrectAnswer>
+        <hintText>hintText</hintText>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.SentenceResponce" index ="88" method="studentToBeAbleToUseWriteBoardIfItIsAllowedForQuestion">
+        <assessmentname>Assessment_Name_IT1_Epic46_88</assessmentname>
+        <questiontext>Question_Text_IT1_Epic46_88</questiontext>
+        <solutionText>solutionText</solutionText>
+        <hintText>hintText</hintText>
+        <usewriteboard>true</usewriteboard>
+        <shareWithClass>true</shareWithClass>
+        <allowMultipleCorrectAnswer>Yes</allowMultipleCorrectAnswer>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.SentenceResponce" index ="90" method="evaluateSRQWhenAllowMultipleCorrectAnswerIsDisabled_SelectCorrectAnswer">
+        <assessmentname>Assessment_Name_IT1_Epic46_90</assessmentname>
+        <questiontext>Question_Text_IT1_Epic46_90</questiontext>
+        <solutionText>solutionText</solutionText>
+        <hintText>hintText</hintText>
+        <usewriteboard>true</usewriteboard>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.SentenceResponce" index ="91" method="evaluateSRQWhenAllowMultipleCorrectAnswerIsDisabled_SelectInCorrectAnswer">
+        <assessmentname>Assessment_Name_IT1_Epic46_91</assessmentname>
+        <questiontext>Question_Text_IT1_Epic46_91</questiontext>
+        <solutionText>solutionText</solutionText>
+        <hintText>hintText</hintText>
+        <usewriteboard>true</usewriteboard>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.SentenceResponce" index ="92" method="evaluateSentenceResponseQuestionWhenAllowMultipleCorrectAnswerIsEnabled">
+        <assessmentname>Assessment_Name_IT1_Epic46_92</assessmentname>
+        <questiontext>Question_Text_IT1_Epic46_92</questiontext>
+        <solutionText>solutionText</solutionText>
+        <hintText>hintText</hintText>
+        <usewriteboard>true</usewriteboard>
+        <shareWithClass>true</shareWithClass>
+        <allowMultipleCorrectAnswer>Yes</allowMultipleCorrectAnswer>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.SentenceResponce" index ="93" method="evaluateSRQWhenAllowMultipleCorrectAnswerIsEnabledCorrectAndIncorrect">
+        <assessmentname>Assessment_Name_IT1_Epic46_93</assessmentname>
+        <questiontext>Question_Text_IT1_Epic46_93</questiontext>
+        <solutionText>solutionText</solutionText>
+        <hintText>hintText</hintText>
+        <usewriteboard>true</usewriteboard>
+        <shareWithClass>true</shareWithClass>
+        <allowMultipleCorrectAnswer>Yes</allowMultipleCorrectAnswer>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.SentenceResponce" index ="95" method="instructorToBeAbleToViewStudentsAnswer">
+        <assessmentname>Assessment_Name_IT1_Epic46_95</assessmentname>
+        <questiontext>Question_Text_IT1_Epic46_95</questiontext>
+        <solutionText>solutionText</solutionText>
+        <hintText>hintText</hintText>
+        <usewriteboard>true</usewriteboard>
+        <shareWithClass>true</shareWithClass>
+        <allowMultipleCorrectAnswer>Yes</allowMultipleCorrectAnswer>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+        <feedback>This feedback by an instructor</feedback>
+        <passageText>tmsogajqijlpuitfullqjiddxdvephkqtrfkbnlpjuupyuafovj bsvajiacgwgolndbisccvjneekowhdlueokllsdsoaexugbcmsx splnnjmveykswvukldtqbbbwihxugpxebyldxnbxteokupemgyt vrttlvpditskxrbggacpqopuajmessfllyqqmdfiubdwfjjfxxy lbylgkrkbujjnqbpehxifnmsujcplqbjcvijapxwldkcgnjgqlm nnvrmofsxrjywjtwhfxxuudgpiodrutuntjpvfqskduylymyfty rtotbaxavtrlmrgyiybmofnyxpfxkugwxemxqisanagylcrfsgw</passageText>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.SentenceResponce" index ="99" method="instructorToBeAbleToViewStudentsAnswer">
+        <assessmentname>Assessment_Name_IT1_Epic46_99</assessmentname>
+        <questiontext>Question_Text_IT1_Epic46_99</questiontext>
+        <solutionText>solutionText</solutionText>
+        <hintText>hintText</hintText>
+        <usewriteboard>true</usewriteboard>
+        <shareWithClass>true</shareWithClass>
+        <allowMultipleCorrectAnswer>Yes</allowMultipleCorrectAnswer>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+        <feedback>This feedback by an instructor</feedback>
+        <passageText>tmsogajqijlpuitfullqjiddxdvephkqtrfkbnlpjuupyuafovj bsvajiacgwgolndbisccvjneekowhdlueokllsdsoaexugbcmsx splnnjmveykswvukldtqbbbwihxugpxebyldxnbxteokupemgyt vrttlvpditskxrbggacpqopuajmessfllyqqmdfiubdwfjjfxxy lbylgkrkbujjnqbpehxifnmsujcplqbjcvijapxwldkcgnjgqlm nnvrmofsxrjywjtwhfxxuudgpiodrutuntjpvfqskduylymyfty rtotbaxavtrlmrgyiybmofnyxpfxkugwxemxqisanagylcrfsgw</passageText>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.Classification" index ="24" method="classificationUI">
+        <assessmentname>IT1_Classification_Assessment_24</assessmentname>
+        <questiontext>question text IT_ClassificationUI</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <filename>img.png</filename>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.PassageBased" index ="10" method="checkDefaultLandingPageBehaviour">
+        <assessmentname>IT1_PassageBased_Assessment_10</assessmentname>
+        <instructions>This is an instruction</instructions>
+        <headerTitle>Passage</headerTitle>
+        <passageText>The passages are about 100 to 850 words long and often include an introduction and/or footnotes. They are drawn from fiction as well as nonfiction in a variety of fields, including the humanities, social studies, and natural sciences. Varied in style, they may include narrative, argumentative, and expository elements.</passageText>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.PassageBased" index ="15" method="checkAddingMorePassages">
+        <assessmentname>IT1_PassageBased_Assessment_15</assessmentname>
+        <instructions>This is an instruction</instructions>
+        <headerTitle>Passage</headerTitle>
+        <passageText>The passages are about 100 to 850 words long and often include an introduction and/or footnotes. They are drawn from fiction as well as nonfiction in a variety of fields, including the humanities, social studies, and natural sciences. Varied in style, they may include narrative, argumentative, and expository elements.</passageText>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.PassageBased" index ="19" method="deletingPassage">
+        <assessmentname>IT1_PassageBased_Assessment_19</assessmentname>
+        <instructions>This is an instruction</instructions>
+        <headerTitle>Passage</headerTitle>
+        <passageText>The passages are about 100 to 850 words long and often include an introduction and/or footnotes. They are drawn from fiction as well as nonfiction in a variety of fields, including the humanities, social studies, and natural sciences. Varied in style, they may include narrative, argumentative, and expository elements.</passageText>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.PassageBased" index ="22" method="checkDefaultLandingPageBehaviour">
+        <assessmentname>IT1_PassageBased_Assessment_22</assessmentname>
+        <questiontext>Question Text For True False Question Type</questiontext>
+        <instructions>This is an instruction</instructions>
+        <headerTitle>Passage</headerTitle>
+        <passageText>This is a short Passage Text</passageText>
+        <privacy>Public</privacy>-->
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.PassageBased" index ="27" method="checkDefaultLandingPageBehaviour">
+        <assessmentname>IT1_PassageBased_Assessment_27</assessmentname>
+        <instructions>This is an instruction</instructions>
+        <headerTitle>Passage</headerTitle>
+        <passageText>The passages are about 100 to 850 words long and often include an introduction and/or footnotes. They are drawn from fiction as well as nonfiction in a variety of fields, including the humanities, social studies, and natural sciences. Varied in style, they may include narrative, argumentative, and expository elements.</passageText>
+        <questiontext>Question Text For True False Question Type</questiontext>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.PassageBased" index ="31" method="checkInstructorQuestionExpandedView">
+        <assessmentname>IT1_PassageBased_Assessment_31</assessmentname>
+        <instructions>This is an instruction</instructions>
+        <headerTitle>Passage</headerTitle>
+        <passageText>The passages are about 100 to 850 words long and often include an introduction and/or footnotes. They are drawn from fiction as well as nonfiction in a variety of fields, including the humanities, social studies, and natural sciences. Varied in style, they may include narrative, argumentative, and expository elements.</passageText>
+        <questiontext>Question Text For True False Question Type</questiontext>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.PassageBased" index ="32" method="checkStudentAttemptView">
+        <assessmentname>IT1_PassageBased_Assessment_32</assessmentname>
+        <instructions>This is an instruction</instructions>
+        <headerTitle>Passage</headerTitle>
+        <passageText>The passages are about 100 to 850 words long and often include an introduction and/or footnotes. They are drawn from fiction as well as nonfiction in a variety of fields, including the humanities, social studies, and natural sciences. Varied in style, they may include narrative, argumentative, and expository elements.</passageText>
+        <questiontext>Question Text For True False Question Type</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.PassageBased" index ="25" method="checkInstructorPreview">
+        <assessmentname>IT1_PassageBased_Assessment_25</assessmentname>
+        <instructions>This is an instruction</instructions>
+        <headerTitle>Passage</headerTitle>
+        <passageText>This is a short Passage Text</passageText>
+        <questiontext>Question Text For True False Question Type</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.PassageBased" index ="39" method="checkPrintView">
+        <assessmentname>IT1_PassageBased_Assessment_39</assessmentname>
+        <instructions>This is an instruction</instructions>
+        <headerTitle>Passage</headerTitle>
+        <passageText>The passages are about 100 to 850 words long and often include an introduction and/or footnotes. They are drawn from fiction as well as nonfiction in a variety of fields, including the humanities, social studies, and natural sciences. Varied in style, they may include narrative, argumentative, and expository elements.</passageText>
+        <questiontext>Question Text For True False Question Type</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+        <printText>
+            Passage1
+The passages are about 100 to 850 words long and often include an introduction and/or footnotes. They are drawn from fiction as well as nonfiction in a variety of fields, including the humanities, social studies, and natural sciences. Varied in style, they may include narrative, argumentative, and expository elements.1
+Passage2
+The passages are about 100 to 850 words long and often include an introduction and/or footnotes. They are drawn from fiction as well as nonfiction in a variety of fields, including the humanities, social studies, and natural sciences. Varied in style, they may include narrative, argumentative, and expository elements.2
+Passage3
+The passages are about 100 to 850 words long and often include an introduction and/or footnotes. They are drawn from fiction as well as nonfiction in a variety of fields, including the humanities, social studies, and natural sciences. Varied in style, they may include narrative, argumentative, and expository elements.3
+Passage4
+The passages are about 100 to 850 words long and often include an introduction and/or footnotes. They are drawn from fiction as well as nonfiction in a variety of fields, including the humanities, social studies, and natural sciences. Varied in style, they may include narrative, argumentative, and expository elements.4
+Passage5
+The passages are about 100 to 850 words long and often include an introduction and/or footnotes. They are drawn from fiction as well as nonfiction in a variety of fields, including the humanities, social studies, and natural sciences. Varied in style, they may include narrative, argumentative, and expository elements.5</printText>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.PassageBased" index ="34" method="checkInstructorGradeBookView">
+        <assessmentname>IT1_PassageBased_Assessment_34_1</assessmentname>
+        <instructions>This is an instruction</instructions>
+        <headerTitle>Passage</headerTitle>
+        <passageText>The passages are about 100 to 850 words long and often include an introduction and/or footnotes. They are drawn from fiction as well as nonfiction in a variety of fields, including the humanities, social studies, and natural sciences. Varied in style, they may include narrative, argumentative, and expository elements.</passageText>
+        <questiontext>Question Text For True False Question Type</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.PassageBased" index ="37" method="checkStudentReportView">
+        <assessmentname>IT1_PassageBased_Assessment_37</assessmentname>
+        <instructions>This is an instruction</instructions>
+        <headerTitle>Passage</headerTitle>
+        <passageText>This is a short Passage Text</passageText>
+        <questiontext>Question Text For True False Question Type</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.Classification" index ="212" method="classificationAnswerChoiceDragAndDrop">
+        <assessmentname>IT1_classification_Assessment_212</assessmentname>
+        <questiontext>Classification Question Type</questiontext>
+        <shareWithClass>true</shareWithClass>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.Classification" index ="384" method="deletAClassAndParameter">
+    <assessmentname>IT1_classification_Assessment_384</assessmentname>
+    <questiontext>Classification Question Type</questiontext>
+    <shareWithClass>true</shareWithClass>
+</testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.Classification" index ="691" method="preview">
+        <assessmentname>IT1_classification_Assessment_691</assessmentname>
+        <questiontext>Classification Question Type</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.Classification" index ="852" method="preview">
+        <assessmentname>IT1_classification_Assessment_852</assessmentname>
+        <questiontext>Classification Question Type</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.MatchingTables" index ="26" method="defaultLandingPage">
+        <assessmentname>IT1_MatchingTables_Assessment_26</assessmentname>
+        <questiontext>MatchingTables Question Type</questiontext>
+        <filename>img.png</filename>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.MatchingTables" index ="545" method="">
+        <assessmentname>IT1_MatchingTables_Assessment_545</assessmentname>
+        <questiontext>MatchingTables Question Type</questiontext>
+        <filename>img.png</filename>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.MatchingTables" index ="234" method="">
+        <assessmentname>IT1_MatchingTables_Assessment_234</assessmentname>
+        <questiontext>MatchingTables Question Type parameter</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.MatchingTables" index ="555" method="">
+        <assessmentname>IT1_MatchingTables_Assessment_555</assessmentname>
+        <questiontext>MatchingTables Question Type duplicate question</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.MatchingTables" index ="639" method="">
+        <assessmentname>IT1_MatchingTables_Assessment_639</assessmentname>
+        <questiontext>MatchingTables Question Type deleteQuestion</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.MatchingTables" index ="500" method="editQuestion">
+        <assessmentname>IT1_MatchingTables_Assessment_500</assessmentname>
+        <questiontext>MatchingTables Question Type editQuestion</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.MatchingTables" index ="497" method="previewAndStudentAttemptMultipleSelect">
+        <assessmentname>IT1_MatchingTables_Assessment_497</assessmentname>
+        <questiontext>MatchingTables Question Type previewAndStudentAttemptMultipleSelect</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.MatchingTables" index ="498" method="">
+        <assessmentname>IT1_MatchingTables_Assessment_498</assessmentname>
+        <questiontext>MatchingTables Question studentAttemptRadioButton</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.MatchingTables" index ="1297" method="">
+        <assessmentname>IT1_MatchingTables_Assessment_1297</assessmentname>
+        <questiontext>MatchingTables Question1 editAnswer</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <multipleSelection>true</multipleSelection>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.MatchingTables" index ="1298" method="">
+        <assessmentname>IT1_MatchingTables_Assessment_1297</assessmentname>
+        <questiontext>MatchingTables Question2 editAnswer</questiontext>
+        <multipleSelection>false</multipleSelection>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.MatchingTables" index ="1385" method="">
+        <assessmentname>IT1_MatchingTables_Assessment_1385</assessmentname>
+        <questiontext>MatchingTables Question1 multipleQuestions</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <multipleSelection>true</multipleSelection>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.MatchingTables" index ="1386" method="">
+        <assessmentname>IT1_MatchingTables_Assessment_1385</assessmentname>
+        <questiontext>MatchingTables Question2 multipleQuestions</questiontext>
+        <multipleSelection>true</multipleSelection>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.MatchingTables" index ="1387" method="">
+        <assessmentname>IT1_MatchingTables_Assessment_1385</assessmentname>
+        <questiontext>MatchingTables Question3 multipleQuestions</questiontext>
+        <multipleSelection>true</multipleSelection>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.MatchingTables" index ="1388" method="">
+        <assessmentname>IT1_MatchingTables_Assessment_1385</assessmentname>
+        <questiontext>MatchingTables Question4 multipleQuestions</questiontext>
+        <multipleSelection>true</multipleSelection>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.MatchingTables" index ="1389" method="">
+        <assessmentname>IT1_MatchingTables_Assessment_1385</assessmentname>
+        <questiontext>MatchingTables Question5 multipleQuestions</questiontext>
+        <multipleSelection>true</multipleSelection>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.MatchingTables" index ="1468" method="">
+        <assessmentname>IT1_MatchingTables_Assessment_1468</assessmentname>
+        <questiontext>MatchingTables Question1 evaluationMultipeSelection</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <multipleSelection>true</multipleSelection>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.MatchingTables" index ="1572" method="">
+        <assessmentname>IT1_MatchingTables_Assessment_1572</assessmentname>
+        <questiontext>MatchingTables Question1 evaluationMultipeSelection</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <multipleSelection>false</multipleSelection>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.MatchingTables" index ="1677" method="">
+        <assessmentname>IT1_MatchingTables_Assessment_1677</assessmentname>
+        <questiontext>MatchingTables instructorEvaluationMultipeSelection</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <multipleSelection>false</multipleSelection>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.MatchingTables" index ="1789" method="">
+        <assessmentname>IT1_MatchingTables_Assessment_1789</assessmentname>
+        <questiontext>MatchingTables instructorEvaluationRadioButton</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <multipleSelection>false</multipleSelection>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.MatchingTables" index ="1907" method="">
+        <assessmentname>IT1_MatchingTables_Assessment_1907</assessmentname>
+        <questiontext>MatchingTables GradesExplicitlyByTeacher1</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <multipleSelection>true</multipleSelection>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.MatchingTables" index ="1908" method="">
+        <assessmentname>IT1_MatchingTables_Assessment_1907</assessmentname>
+        <questiontext>MatchingTables GradesExplicitlyByTeacher2</questiontext>
+        <multipleSelection>true</multipleSelection>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.MatchingTables" index ="2005" method="">
+        <assessmentname>IT1_MatchingTables_Assessment_2005</assessmentname>
+        <questiontext>MatchingTables GradesOnAssignmentSubmission1</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <multipleSelection>true</multipleSelection>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.MatchingTables" index ="2006" method="">
+        <assessmentname>IT1_MatchingTables_Assessment_2005</assessmentname>
+        <questiontext>MatchingTables GradesOnAssignmentSubmission2</questiontext>
+        <multipleSelection>true</multipleSelection>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.MatchingTables" index ="2074" method="">
+        <assessmentname>IT1_MatchingTables_Assessment_2074</assessmentname>
+        <questiontext>MatchingTables feedbackByInstructorNonGradable1</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <multipleSelection>true</multipleSelection>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.MatchingTables" index ="2075" method="">
+        <assessmentname>IT1_MatchingTables_Assessment_2074</assessmentname>
+        <questiontext>MatchingTables feedbackByInstructorNonGradable2</questiontext>
+        <multipleSelection>true</multipleSelection>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.Graphing" index ="33" method="">
+        <assessmentname>IT1_Graphing_Assessment_33</assessmentname>
+        <questiontext>question text defaultLandingPage_33</questiontext>
+        <filename>img.png</filename>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.Graphing" index ="173" method="">
+        <assessmentname>IT1_Graphing_Assessment_173</assessmentname>
+        <questiontext>question text creatingGraphCanvas_173</questiontext>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.Graphing" index ="320" method="">
+        <assessmentname>IT1_Graphing_Assessment_320</assessmentname>
+        <questiontext>question text editTool_320</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.Graphing" index ="412" method="">
+        <assessmentname>IT1_Graphing_Assessment_412</assessmentname>
+        <questiontext>question text buttonsOperation_412</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.Graphing" index ="484" method="">
+        <assessmentname>IT1_Graphing_Assessment_484</assessmentname>
+        <questiontext>question text annotation_484</questiontext>
+        <filename>img.png</filename>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.Graphing" index ="648" method="">
+        <assessmentname>IT1_Graphing_Assessment_648</assessmentname>
+        <questiontext>question text selectAndCancelAnnotation_648</questiontext>
+        <filename>img.png</filename>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.Graphing" index ="753" method="">
+        <assessmentname>IT1_Graphing_Assessment_753</assessmentname>
+        <questiontext>question text edit_753</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.Graphing" index ="834" method="">
+        <assessmentname>IT1_Graphing_Assessment_834</assessmentname>
+        <questiontext>question text answerLayer_834</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.Graphing" index ="997" method="">
+        <assessmentname>IT1_Graphing_Assessment_997</assessmentname>
+        <questiontext>question text buttonsOnAnswerLayer_997</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.Graphing" index ="1093" method="">
+        <assessmentname>IT1_Graphing_Assessment_1093</assessmentname>
+        <questiontext>question text commonParameter_1093</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.Graphing" index ="1269" method="">
+        <assessmentname>IT1_Graphing_Assessment_1269</assessmentname>
+        <questiontext>question text editQuestion_1269</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.Graphing" index ="1469" method="">
+        <assessmentname>IT1_Graphing_Assessment_1469</assessmentname>
+        <questiontext>reorderingWithPassageBased</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.Graphing" index ="1541" method="">
+        <assessmentname>IT1_Graphing_Assessment_1541</assessmentname>
+        <questiontext>preview</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.Graphing" index ="1626" method="">
+        <assessmentname>IT1_Graphing_Assessment_1626</assessmentname>
+        <questiontext>studentQuestionAttempt_1626</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.Graphing" index ="1738" method="">
+        <assessmentname>IT1_Graphing_Assessment_1738</assessmentname>
+        <questiontext>commonControl_1738</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.Graphing" index ="1864" method="">
+        <assessmentname>IT1_Graphing_Assessment_1864</assessmentname>
+        <questiontext>studentAttemptShowLabelsUnchecked_1864</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.Graphing" index ="1960" method="">
+        <assessmentname>IT1_Graphing_Assessment_1960</assessmentname>
+        <questiontext>evaluation_1960</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.Graphing" index ="2183" method="">
+        <assessmentname>IT1_Graphing_Assessment_2183</assessmentname>
+        <questiontext>evaluationNonGradable_2183</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.Epic46.Graphing" index ="2305" method="">
+        <assessmentname>IT1_Graphing_Assessment_2305</assessmentname>
+        <questiontext>evaluationWithDistractors_2305</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+</edulastic>
+

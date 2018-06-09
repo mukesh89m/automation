@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+<testcase id="com.snapwiz.selenium.tests.staf.AppiumLearningspaces.testcases.IT21Mobile.R218Assignments.AssignmentFlow" index="52">
+    <assessmentname>Assignment_IT21_56</assessmentname>
+    <questiontype>Static Practice</questiontype>
+    <questionset>Test Question Set of IT21_56</questionset>
+    <questiontext>Test Question for IT21_56</questiontext>
+    <questiontype>Static Practice</questiontype>
+    <gradeable>true</gradeable>
+    <gradingpolicy>Grading policy text</gradingpolicy>
+    <duedate>26</duedate>
+    <duetime>12:00 AM</duetime>
+    <additionalnote>This is an additional note</additionalnote>
+    <assignmentpolicyname>Policy52</assignmentpolicyname>
+    <assignmentpolicy>Policy52</assignmentpolicy>
+    <grade>2.0</grade>
+</testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.AppiumLearningspaces.testcases.IT21Mobile.R218Assignments.AssignmentFlow" index="90">
+        <assessmentname>Assignment_IT21_90</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT21_90</questionset>
+        <questiontext>Test Question for IT21_90</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>Policy90</assignmentpolicyname>
+        <assignmentpolicy>Policy90</assignmentpolicy>
+        <grade>2.0</grade>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.AppiumLearningspaces.testcases.IT21Mobile.R218Assignments.AssignmentFlow" index="110">
+        <assessmentname>Assignment_IT21_112</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT21_110</questionset>
+        <questiontext>Test Question for IT21_110</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>Policy110</assignmentpolicyname>
+        <assignmentpolicy>Policy110</assignmentpolicy>
+        <grade>2.0</grade>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.AppiumLearningspaces.testcases.IT21Mobile.R218Assignments.AssignmentFlow" index="122">
+        <assessmentname>Assignment_IT21_122</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT21_122</questionset>
+        <questiontext>Test Question for IT21_122</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>Policy122</assignmentpolicyname>
+        <assignmentpolicy>Policy122</assignmentpolicy>
+        <grade>2.0</grade>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.AppiumLearningspaces.testcases.IT21Mobile.R218Assignments.AssignmentFlow" index="145">
+        <assessmentname>Assignment_IT21_145</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT21_145</questionset>
+        <questiontext>Test Question for IT21_145</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.AppiumLearningspaces.testcases.IT21Mobile.R218Assignments.AssignmentFlow" index="277">
+        <assessmentname>Assignment_IT21_277</assessmentname>
+        <coureId>ISBNEPROF12479</coureId>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.AppiumLearningspaces.testcases.IT21Mobile.R218Assignments.AssignmentFlow" index="302">
+        <userId>Instructor_302</userId>
+        <coureId>ISBNEPROF12479</coureId>
+    </testcase>
+</learningspaces>

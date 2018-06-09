@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orion>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT23.R237.LangaugePalette" index="1463" method="">
+        <assessmentname>Assessment_IT23_R237_1463</assessmentname>
+        <questionset>IT23_R237_1463_QuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT23.R237.LangaugePalette" index="1476" method="">
+        <assessmentname>Assessment_IT23_R237_1476</assessmentname>
+        <questionset>IT23_R237_1476_QuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT23.R237.InstructorPreviewPage" index="1502" method="">
+        <user_id>IT23_R237_Instructor_1502dasadfsf</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_It23_R237_1502</context_id>
+        <context_title>studtitle_It23_R237_1502</context_title>
+        <newChapterName>Assessment_It23_R237_1502</newChapterName>
+        <chapterName>Assessment_It23_R237_1502</chapterName>
+        <assessmentname>Assessment_IT23_R237_1502</assessmentname>
+        <questionset>IT23_R237_1502_QuestionSet</questionset>
+        <questiontype>Adaptive Component Diagnostic</questiontype>
+        <questiontext>QuestiontextIT23_R237_1502</questiontext>
+        <chapter1></chapter1>
+</testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT23.R237.LangaugePalette" index="1494" method="">
+        <assessmentname>Assessment_IT23_R237_1494</assessmentname>
+        <questionset>IT23_R237_1494_QuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>questiontext_IT23_R237_1494</questiontext>
+        <numerictext>2</numerictext>
+    </testcase>
+</orion>

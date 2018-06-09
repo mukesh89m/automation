@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="IT_14_R14.31-LSRegressionSuite">
+    <classes>         	
+    	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1431.UserAbleToSeeVisualIndicatorForDirectCourseStreamEntries"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1431.VerifyVisualIndicatorAfterAddingCommentToMakeIndirectCourseStreamEntry"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1431.VerifyVisualIndicatorForIndirectCourseStreamEntry"/>
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->

@@ -1,0 +1,440 @@
+<?xml version="1.0"?>
+<learningspaces>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.CreatingAndEditingAssignmentPolicy" index="2" method="creatingAndEditingAssignmentPolicy">
+        <user_id>instructor_IT16_R166_2_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R166_2_1</context_id>
+        <context_title>studtitle_IT16_R166_2_1</context_title>
+        <policyname>Policy Name</policyname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.CreatePolicyAndAttemptAsStudent" index="9" method="createPolicyAndAttemptAsStudent">
+        <user_id>instructor_IT16_R166_9_2</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R166_9_2</context_id>
+        <context_title>studtitle_IT16_R166_9_2</context_title>
+        <assessmentname>9_1 Assessment</assessmentname>
+        <questionset>9 Question Set</questionset>
+        <questiontext>9 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>stud</shareWithInitialString>
+        <shareName>studtitle_IT16_R166_9_2</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicy>9 Policy Name</assignmentpolicy>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.CreatePolicyAndAttemptAsStudent" index="9_1" method="createPolicyAndAttemptAsStudent">
+        <user_id>student_IT16_R166_9_1_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R166_9_2</context_id>
+        <context_title>studtitle_IT16_R166_9_2</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.CreatePolicyAndAttemptAsStudent" index="9_2" method="createPolicyAndAttemptAsStudent">
+        <user_id>student_IT16_R166_9_2_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R166_9_2</context_id>
+        <context_title>studtitle_IT16_R166_9_2</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.CreatingAssignmentPolicyFromAssignThisPopup" index="20" method="creatingAssignmentPolicyFromAssignThisPopup">
+        <user_id>instructor_IT16_R166_20_2</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R166_20_2</context_id>
+        <context_title>studtitle_IT16_R166_20_2</context_title>
+        <assessmentname>20 Assessment</assessmentname>
+        <questionset>20 Question Set</questionset>
+        <questiontext>20 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>stud</shareWithInitialString>
+        <shareName>studtitle_IT16_R166_20_2</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicy>20 Policy Name</assignmentpolicy>
+        <policyname>20 Policy Name</policyname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.SubmitAssignmentWithCollaborationEnabled" index="29" method="submitAssignmentWithCollaborationEnabled">
+        <user_id>instructor_IT16_R166_29_2</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R166_29_1</context_id>
+        <context_title>studtitle_IT16_R166_29_1</context_title>
+        <assessmentname>29 Assessment</assessmentname>
+        <questionset>29 Question Set</questionset>
+        <questiontext>29 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>stud</shareWithInitialString>
+        <shareName>studtitle_IT16_R166_29_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicy>29 Policy Name</assignmentpolicy>
+        <policyname>29 Policy Name</policyname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.SubmitAssignmentWithCollaborationEnabled" index="29_1" method="submitAssignmentWithCollaborationEnabled">
+        <user_id>student_IT16_R166_29_1_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R166_29_1</context_id>
+        <context_title>studtitle_IT16_R166_29_1</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.SubmitAssignmentWithCollaborationEnabled" index="29_2" method="submitAssignmentWithCollaborationEnabled">
+        <user_id>student_IT16_R166_29_2_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R166_29_1</context_id>
+        <context_title>studtitle_IT16_R166_29_1</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.SubmitAssignmentWithCollaborationAndImmediateFeedbackEnabled" index="40" method="submitAssignmentWithCollaborationAndImmediateFeedbackEnabled">
+        <user_id>instructor_IT16_R166_40_5</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R166_40_5</context_id>
+        <context_title>studtitle_IT16_R166_40_5</context_title>
+        <assessmentname>40 Assessment</assessmentname>
+        <questionset>40 Question Set</questionset>
+        <questiontext>40 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>stud</shareWithInitialString>
+        <shareName>studtitle_IT16_R166_40_5</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicy>40 Policy Name</assignmentpolicy>
+        <policyname>40 Policy Name</policyname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.SubmitAssignmentWithCollaborationAndImmediateFeedbackEnabled" index="40_1" method="submitAssignmentWithCollaborationAndImmediateFeedbackEnabled">
+        <user_id>student_IT16_R166_40_1_5</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R166_40_5</context_id>
+        <context_title>studtitle_IT16_R166_40_5</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.SubmitAssignmentWithCollaborationAndImmediateFeedbackEnabled" index="40_2" method="submitAssignmentWithCollaborationAndImmediateFeedbackEnabled">
+        <user_id>student_IT16_R166_40_2_5</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R166_40_5</context_id>
+        <context_title>studtitle_IT16_R166_40_5</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.SubmitAssignmentWithCollaborationDisabled" index="54" method="submitAssignmentWithCollaborationDisabled">
+        <user_id>instructor_IT16_R166_54_3</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R166_54_3</context_id>
+        <context_title>studtitle_IT16_R166_54_3</context_title>
+        <assessmentname>54_2 Assessment</assessmentname>
+        <questionset>54 Question Set</questionset>
+        <questiontext>54 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>stud</shareWithInitialString>
+        <shareName>studtitle_IT16_R166_54_3</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicy>54 Policy Name</assignmentpolicy>
+        <policyname>54 Policy Name</policyname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.SubmitAssignmentWithCollaborationDisabled" index="54_1" method="submitAssignmentWithCollaborationDisabled">
+        <user_id>student_IT16_R166_54_1_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R166_54_3</context_id>
+        <context_title>studtitle_IT16_R166_54_3</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.SubmitAssignmentWithCollaborationDisabled" index="54_2" method="submitAssignmentWithCollaborationDisabled">
+        <user_id>student_IT16_R166_54_2_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R166_54_3</context_id>
+        <context_title>studtitle_IT16_R166_54_3</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.SubmitAssignmentWithCollaborationEnabledWithStudentToStudentSocialPolicy" index="59" method="SubmitAssignmentWithCollaborationEnabledWithStudentToStudentSocialPolicy">
+        <user_id>instructor_IT16_R166_59_5</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R166_59_5</context_id>
+        <context_title>studtitle_IT16_R166_59_5</context_title>
+        <assessmentname>59_1 Assessment</assessmentname>
+        <questionset>59 Question Set</questionset>
+        <questiontext>59 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>stud</shareWithInitialString>
+        <shareName>studtitle_IT16_R166_59_5</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicy>59 Policy Name</assignmentpolicy>
+        <policyname>59 Policy Name</policyname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.SubmitAssignmentWithCollaborationEnabledWithStudentToStudentSocialPolicy" index="59_1" method="SubmitAssignmentWithCollaborationEnabledWithStudentToStudentSocialPolicy">
+        <user_id>student_IT16_R166_59_1_5</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R166_59_5</context_id>
+        <context_title>studtitle_IT16_R166_59_5</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.SubmitAssignmentWithCollaborationEnabledWithStudentToStudentSocialPolicy" index="59_2" method="SubmitAssignmentWithCollaborationEnabledWithStudentToStudentSocialPolicy">
+        <user_id>student_IT16_R166_59_2_5</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R166_59_5</context_id>
+        <context_title>studtitle_IT16_R166_59_5</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.SubmitAssignmentWithCollaborationEnabledWithStudentToInstructorSocialPolicy" index="71" method="submitAssignmentWithCollaborationEnabledWithStudentToInstructorSocialPolicy">
+        <user_id>instructor_IT16_R166_71</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R166_71</context_id>
+        <context_title>studtitle_IT16_R166_71</context_title>
+        <assessmentname>IT16_R166_71_Assessment_1</assessmentname>
+        <questionset>71 Question Set</questionset>
+        <questiontext>71 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>stud</shareWithInitialString>
+        <shareName>studtitle_IT16_R166_71</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicy>71 Policy Name</assignmentpolicy>
+        <policyname>71 Policy Name</policyname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.SubmitAssignmentWithCollaborationEnabledWithStudentToInstructorSocialPolicy" index="71_1" method="submitAssignmentWithCollaborationEnabledWithStudentToInstructorSocialPolicy">
+        <user_id>student_IT16_R166_71_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R166_71</context_id>
+        <context_title>studtitle_IT16_R166_71</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.SubmitAssignmentWithCollaborationEnabledWithStudentToInstructorSocialPolicy" index="71_2" method="submitAssignmentWithCollaborationEnabledWithStudentToInstructorSocialPolicy">
+        <user_id>student_IT16_R166_71_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R166_71</context_id>
+        <context_title>studtitle_IT16_R166_71</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.CreatingAndEditingAssignmentPolicyAsMentor" index="82" method="creatingAndEditingAssignmentPolicyAsMentor">
+        <user_id>mentor_IT16_R166_82_1</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontext_IT16_R166_82_1</context_id>
+        <context_title>studtitle_IT16_R166_82_1</context_title>
+        <policyname>Policy Name</policyname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.MentorCreatePolicyAndAttemptAsStudent" index="89" method="mentorCreatePolicyAndAttemptAsStudent">
+        <user_id>mentor_IT16_R166_89_2</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontext_IT16_R166_89_2</context_id>
+        <context_title>studtitle_IT16_R166_89_2</context_title>
+        <assessmentname>89 Assessment</assessmentname>
+        <questionset>89 Question Set</questionset>
+        <questiontext>89 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_IT16_R166_89_2</shareWithInitialString>
+        <shareName>studtitle_IT16_R166_89_2</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicy>89 Policy Name</assignmentpolicy>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.MentorCreatePolicyAndAttemptAsStudent" index="89_1" method="mentorCreatePolicyAndAttemptAsStudent">
+        <user_id>student_IT16_R166_89_1_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R166_89_2</context_id>
+        <context_title>studtitle_IT16_R166_89_2</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.MentorCreatePolicyAndAttemptAsStudent" index="89_2" method="mentorCreatePolicyAndAttemptAsStudent">
+        <user_id>student_IT16_R166_89_2_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R166_89_2</context_id>
+        <context_title>studtitle_IT16_R166_89_2</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.MentorCreatingAssignmentPolicyFromAssignThisPopup" index="100" method="mentorCreatingAssignmentPolicyFromAssignThisPopup">
+        <user_id>instructor_IT16_R166_100_2</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R166_100_2</context_id>
+        <context_title>studtitle_IT16_R166_100_2</context_title>
+        <assessmentname>100 Assessment</assessmentname>
+        <questionset>100 Question Set</questionset>
+        <questiontext>100 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>stud</shareWithInitialString>
+        <shareName>studtitle_IT16_R166_100_2</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicy>100 Policy Name</assignmentpolicy>
+        <policyname>100 Policy Name</policyname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.MentorEnableTheCollaborationField" index="109" method="mentorEnableTheCollaborationField">
+        <user_id>mentor_IT16_R166_109_2</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontext_IT16_R166_109_1</context_id>
+        <context_title>studtitle_IT16_R166_109_1</context_title>
+        <assessmentname>109 Assessment</assessmentname>
+        <questionset>109 Question Set</questionset>
+        <questiontext>109 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_IT16_R166_109_1</shareWithInitialString>
+        <shareName>studtitle_IT16_R166_109_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicy>109 Policy Name</assignmentpolicy>
+        <policyname>109 Policy Name</policyname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.MentorEnableTheCollaborationField" index="109_1" method="mentorEnableTheCollaborationField">
+        <user_id>student_IT16_R166_109_1_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R166_109_1</context_id>
+        <context_title>studtitle_IT16_R166_109_1</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.MentorEnableTheCollaborationField" index="109_2" method="mentorEnableTheCollaborationField">
+        <user_id>student_IT16_R166_109_2_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R166_109_1</context_id>
+        <context_title>studtitle_IT16_R166_109_1</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.MentorEnablesCollaborationAndImmediateFeedback" index="120" method="mentorEnablesCollaborationAndImmediateFeedback">
+        <user_id>mentor_IT16_R166_120_1</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontext_IT16_R166_120_1</context_id>
+        <context_title>studtitle_IT16_R166_120_1</context_title>
+        <assessmentname>120 Assessment</assessmentname>
+        <questionset>120 Question Set</questionset>
+        <questiontext>120 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_IT16_R166_120_1</shareWithInitialString>
+        <shareName>studtitle_IT16_R166_120_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicy>120 Policy Name</assignmentpolicy>
+        <policyname>120 Policy Name</policyname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.MentorEnablesCollaborationAndImmediateFeedback" index="120_1" method="mentorEnablesCollaborationAndImmediateFeedback">
+        <user_id>student_IT16_R166_120_1_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R166_120_1</context_id>
+        <context_title>studtitle_IT16_R166_120_1</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.MentorEnablesCollaborationAndImmediateFeedback" index="120_2" method="mentorEnablesCollaborationAndImmediateFeedback">
+        <user_id>student_IT16_R166_120_2_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R166_120_1</context_id>
+        <context_title>studtitle_IT16_R166_120_1</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.MentorDisablesAllowCollaborationAndImmediateFeedback" index="134" method="mentorDisablesAllowCollaborationAndImmediateFeedback">
+        <user_id>mentor_IT16_R166_134_3</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontext_IT16_R166_134_3</context_id>
+        <context_title>studtitle_IT16_R166_134_3</context_title>
+        <assessmentname>134_2 Assessment</assessmentname>
+        <questionset>134 Question Set</questionset>
+        <questiontext>134 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_IT16_R166_134_3</shareWithInitialString>
+        <shareName>studtitle_IT16_R166_134_3</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicy>134 Policy Name</assignmentpolicy>
+        <policyname>134 Policy Name</policyname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.MentorDisablesAllowCollaborationAndImmediateFeedback" index="134_1" method="mentorDisablesAllowCollaborationAndImmediateFeedback">
+        <user_id>student_IT16_R166_134_1_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R166_134_3</context_id>
+        <context_title>studtitle_IT16_R166_134_3</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.MentorDisablesAllowCollaborationAndImmediateFeedback" index="134_2" method="mentorDisablesAllowCollaborationAndImmediateFeedback">
+        <user_id>student_IT16_R166_134_2_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R166_134_3</context_id>
+        <context_title>studtitle_IT16_R166_134_3</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.MentorAllowsCollaborationEnabledWithStudentToStudentSocialPolicy" index="138" method="mentorAllowsCollaborationEnabledWithStudentToStudentSocialPolicy">
+        <user_id>mentor_IT16_R166_138_1</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontext_IT16_R166_138_1</context_id>
+        <context_title>studtitle_IT16_R166_138_1</context_title>
+        <assessmentname>138_1 Assessment</assessmentname>
+        <questionset>138 Question Set</questionset>
+        <questiontext>138 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_IT16_R166_138_1</shareWithInitialString>
+        <shareName>studtitle_IT16_R166_138_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicy>138 Policy Name</assignmentpolicy>
+        <policyname>138 Policy Name</policyname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.MentorAllowsCollaborationEnabledWithStudentToStudentSocialPolicy" index="138_1" method="mentorAllowsCollaborationEnabledWithStudentToStudentSocialPolicy">
+        <user_id>student_IT16_R166_138_1_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R166_138_1</context_id>
+        <context_title>studtitle_IT16_R166_138_1</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.MentorAllowsCollaborationEnabledWithStudentToStudentSocialPolicy" index="138_2" method="mentorAllowsCollaborationEnabledWithStudentToStudentSocialPolicy">
+        <user_id>student_IT16_R166_138_2_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R166_138_1</context_id>
+        <context_title>studtitle_IT16_R166_138_1</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.MentorAllowsCollaborationEnabledWithStudentToInstructorSocialPolicy" index="150" method="mentorAllowsCollaborationEnabledWithStudentToInstructorSocialPolicy">
+        <user_id>mentor_IT16_R166_150_1</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontext_IT16_R166_150_1</context_id>
+        <context_title>studtitle_IT16_R166_150_1</context_title>
+        <assessmentname>150 Assessment</assessmentname>
+        <questionset>150 Question Set</questionset>
+        <questiontext>150 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_IT16_R166_150_1</shareWithInitialString>
+        <shareName>studtitle_IT16_R166_150_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicy>150 Policy Name</assignmentpolicy>
+        <policyname>150 Policy Name</policyname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.MentorAllowsCollaborationEnabledWithStudentToInstructorSocialPolicy" index="150_1" method="mentorAllowsCollaborationEnabledWithStudentToInstructorSocialPolicy">
+        <user_id>student_IT16_R166_150_1_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R166_150_1</context_id>
+        <context_title>studtitle_IT16_R166_150_1</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.MentorAllowsCollaborationEnabledWithStudentToInstructorSocialPolicy" index="150_2" method="mentorAllowsCollaborationEnabledWithStudentToInstructorSocialPolicy">
+        <user_id>student_IT16_R166_150_2_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R166_150_1</context_id>
+        <context_title>studtitle_IT16_R166_150_1</context_title>
+    </testcase>
+</learningspaces>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="IT_14_R1410-LSRegressionSuite">
+    <classes>         	
+    	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1410.ShowAssignmentInStudyPlan"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1410.SortingOrderOfChapterLevelAssignmentbasedOnStatus"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1410.CustomeAssignmentatStudyPlan"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1410.SortingOrderOfChapterLevelGradableAssignmentbasedOnStatus"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1410.NavigationToOtherAssessmentfromAssignmentPage"/>
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->

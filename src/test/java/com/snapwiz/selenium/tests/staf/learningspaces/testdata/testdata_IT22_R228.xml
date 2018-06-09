@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R228.InstructorAbleToShareCustomAssessments" index="10" method="" >
+    <user_id>IT22_R225_instructor_10</user_id>
+    <Role>instructor</Role>
+    <context_id>studcontext_IT22_R225_10</context_id>
+    <context_title>studtitle_IT22_R225_10</context_title>
+    <noOfQuestions>2</noOfQuestions>
+    <searchquestion>true</searchquestion>
+    <customassignmentname>New Name</customassignmentname>
+    <shareWithInitialString>studtitle_IT22_R225_10</shareWithInitialString>
+    <shareName>studtitle_IT22_R225_10</shareName>
+    <shareWithClass>true</shareWithClass>
+    <gradeable>true</gradeable>
+    <gradingpolicy>Grading policy text</gradingpolicy>
+    <duedate>28</duedate>
+    <duetime>12:00 AM</duetime>
+    <additionalnote>This is an additional note</additionalnote>
+</testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R228.InstructorAbleToShareCustomAssessments" index="13" method="" >
+        <user_id>IT22_R225_instructor_13</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_13</context_id>
+        <context_title>studtitle_IT22_R225_13</context_title>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <customassignmentname>New Name</customassignmentname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R228.InstructorAbleToShareCustomAssessments" index="20" method="" >
+        <user_id>IT22_R225_instructor_20</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_20</context_id>
+        <context_title>studtitle_IT22_R225_20</context_title>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <customassignmentname>New Name</customassignmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R228.InstructorAbleToShareCustomAssessments" index="21" method="" >
+        <user_id>IT22_R225_instructor_21</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_21</context_id>
+        <context_title>studtitle_IT22_R225_21</context_title>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <customassignmentname>New Name</customassignmentname>
+        <custom_domainid>IT22_R225_autodomain</custom_domainid >
+        <custom_domain_name>IT22_R225_studtitle</custom_domain_name>
+</testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R228.InstructorAbleToShareCustomAssessments" index="211" method="" >
+        <user_id>IT22_R225_instructor_211</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_211</context_id>
+        <context_title>studtitle_IT22_R225_211</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+        <custom_domainid>IT22_R225_autodomain</custom_domainid >
+        <custom_domain_name>IT22_R225_studtitle</custom_domain_name>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R228.InstructorAbleToShareCustomAssessments" index="212" method="" >
+        <user_id>IT22_R225_instructor_212</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_212</context_id>
+        <context_title>studtitle_IT22_R225_212</context_title>
+        <familyname>family2</familyname>
+        <givenname>givenname2</givenname>
+        <custom_domainid>IT22_R225_autodomain</custom_domainid >
+        <custom_domain_name>IT22_R225_studtitle</custom_domain_name>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R228.InstructorAbleToShareCustomAssessments" index="213" method="" >
+        <user_id>IT22_R225_instructor_213</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_213</context_id>
+        <context_title>studtitle_IT22_R225_213</context_title>
+        <familyname>family3</familyname>
+        <givenname>givenname3</givenname>
+        <custom_domainid>IT22_R225_autodomain</custom_domainid >
+        <custom_domain_name>IT22_R225_studtitle</custom_domain_name>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R228.InstructorAbleToShareCustomAssessments" index="214" method="" >
+        <user_id>IT22_R225_instructor_214</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_214</context_id>
+        <context_title>studtitle_IT22_R225_214</context_title>
+        <familyname>family4</familyname>
+        <givenname>givenname4</givenname>
+        <custom_domainid>IT22_R225_autodomain</custom_domainid >
+        <custom_domain_name>IT22_R225_studtitle</custom_domain_name>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R228.InstructorAbleToShareCustomAssessments" index="215" method="" >
+        <user_id>IT22_R225_instructor_215</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_215</context_id>
+        <context_title>studtitle_IT22_R225_215</context_title>
+        <familyname>family5</familyname>
+        <givenname>givenname5</givenname>
+        <custom_domainid>IT22_R225_autodomain</custom_domainid >
+        <custom_domain_name>IT22_R225_studtitle</custom_domain_name>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R228.InstructorAbleToShareCustomAssessments" index="216" method="" >
+        <user_id>IT22_R225_instructor_216</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_216</context_id>
+        <context_title>studtitle_IT22_R225_216</context_title>
+        <familyname>family6</familyname>
+        <givenname>givenname6</givenname>
+        <custom_domainid>IT22_R225_autodomain</custom_domainid >
+        <custom_domain_name>IT22_R225_studtitle</custom_domain_name>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R228.InstructorAbleToShareCustomAssessments" index="217" method="" >
+        <user_id>IT22_R225_instructor_217</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_217</context_id>
+        <context_title>studtitle_IT22_R225_217</context_title>
+        <familyname>family7</familyname>
+        <givenname>givenname7</givenname>
+        <custom_domainid>IT22_R225_autodomain</custom_domainid >
+        <custom_domain_name>IT22_R225_studtitle</custom_domain_name>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R228.InstructorAbleToShareCustomAssessments" index="218" method="" >
+        <user_id>IT22_R225_instructor_218</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_218</context_id>
+        <context_title>studtitle_IT22_R225_218</context_title>
+        <familyname>family8</familyname>
+        <givenname>givenname8</givenname>
+        <custom_domainid>IT22_R225_autodomain</custom_domainid >
+        <custom_domain_name>IT22_R225_studtitle</custom_domain_name>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R228.InstructorAbleToShareCustomAssessments" index="219" method="" >
+        <user_id>IT22_R225_instructor_219</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_219</context_id>
+        <context_title>studtitle_IT22_R225_219</context_title>
+        <familyname>family9</familyname>
+        <givenname>givenname9</givenname>
+        <custom_domainid>IT22_R225_autodomain</custom_domainid >
+        <custom_domain_name>IT22_R225_studtitle</custom_domain_name>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R228.InstructorAbleToShareCustomAssessments" index="2110" method="" >
+        <user_id>IT22_R225_instructor_2110</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_2110</context_id>
+        <context_title>studtitle_IT22_R225_2110</context_title>
+        <familyname>family10</familyname>
+        <givenname>givenname10</givenname>
+        <custom_domainid>IT22_R225_autodomain</custom_domainid >
+        <custom_domain_name>IT22_R225_studtitle</custom_domain_name>
+
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R228.InstructorAbleToShareCustomAssessments" index="2111" method="" >
+        <user_id>IT22_R225_instructor_2111</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_2111</context_id>
+        <context_title>studtitle_IT22_R225_2111</context_title>
+        <familyname>family11</familyname>
+        <givenname>givenname11</givenname>
+        <custom_domainid>IT22_R225_autodomain</custom_domainid >
+        <custom_domain_name>IT22_R225_studtitle</custom_domain_name>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R228.InstructorAbleToShareCustomAssessments" index="2112" method="" >
+        <user_id>IT22_R225_instructor_2112</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_2112</context_id>
+        <context_title>studtitle_IT22_R225_2112</context_title>
+        <familyname>family12</familyname>
+        <givenname>givenname12</givenname>
+        <custom_domainid>IT22_R225_autodomain</custom_domainid >
+        <custom_domain_name>IT22_R225_studtitle</custom_domain_name>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R228.InstructorAbleToShareCustomAssessments" index="2113" method="" >
+        <user_id>IT22_R225_instructor_2113</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_2113</context_id>
+        <context_title>studtitle_IT22_R225_2113</context_title>
+        <familyname>family13</familyname>
+        <givenname>givenname13</givenname>
+        <custom_domainid>IT22_R225_autodomain</custom_domainid >
+        <custom_domain_name>IT22_R225_studtitle</custom_domain_name>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R228.InstructorAbleToShareCustomAssessments" index="2114" method="" >
+        <user_id>IT22_R225_instructor_2114</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_2114</context_id>
+        <context_title>studtitle_IT22_R225_2114</context_title>
+        <familyname>family14</familyname>
+        <givenname>givenname14</givenname>
+        <custom_domainid>IT22_R225_autodomain</custom_domainid >
+        <custom_domain_name>IT22_R225_studtitle</custom_domain_name>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R228.InstructorAbleToShareCustomAssessments" index="2115" method="" >
+        <user_id>IT22_R225_instructor_2115</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_2115</context_id>
+        <context_title>studtitle_IT22_R225_2115</context_title>
+        <insructor>family15 givenname15</insructor>
+        <familyname>family15</familyname>
+        <givenname>givenname15</givenname>
+        <custom_domainid>IT22_R225_autodomain</custom_domainid >
+        <custom_domain_name>IT22_R225_studtitle</custom_domain_name>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R228.InstructorAbleToShareCustomAssessments" index="2116" method="" >
+        <user_id>IT22_R225_instructor_2116</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_2116</context_id>
+        <context_title>studtitle_IT22_R225_2116</context_title>
+        <familyname>family16</familyname>
+        <givenname>givenname16</givenname>
+        <custom_domainid>IT22_R225_autodomain</custom_domainid >
+        <custom_domain_name>IT22_R225_studtitle</custom_domain_name>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R228.InstructorAbleToShareCustomAssessments" index="32" method="" >
+        <user_id>IT22_R225_instructor_32</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_32</context_id>
+        <context_title>studtitle_IT22_R225_32</context_title>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <customassignmentname>New Name</customassignmentname>
+        <custom_domainid>IT22_R225_autodomain_32</custom_domainid >
+        <custom_domain_name>IT22_R225_studtitle_32</custom_domain_name>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R228.InstructorAbleToShareCustomAssessments" index="321" method="" >
+        <user_id>IT22_R225_instructor_321</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_321</context_id>
+        <context_title>studtitle_IT22_R225_321</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+        <custom_domainid>IT22_R225_autodomain_32</custom_domainid >
+        <custom_domain_name>IT22_R225_studtitle_32</custom_domain_name>
+        <shareName>givenname1 family1</shareName>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R228.InstructorAbleToShareCustomAssessments" index="322" method="" >
+        <user_id>IT22_R225_instructor_322</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_322</context_id>
+        <context_title>studtitle_IT22_R225_323</context_title>
+        <familyname>family2</familyname>
+        <givenname>givenname2</givenname>
+        <custom_domainid>IT22_R225_autodomain_32</custom_domainid >
+        <custom_domain_name>IT22_R225_studtitle_32</custom_domain_name>
+        <shareName>givenname2 family2</shareName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R228.InstructorAbleToShareCustomAssessments" index="35" method="" >
+        <user_id>IT22_R225_instructor_35</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_35</context_id>
+        <context_title>studtitle_IT22_R225_35</context_title>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <customassignmentname>New Name</customassignmentname>
+        <custom_domainid>IT22_R225_autodomain_35</custom_domainid >
+        <custom_domain_name>IT22_R225_studtitle_35</custom_domain_name>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R228.InstructorAbleToShareCustomAssessments" index="37" method="" >
+        <user_id>IT22_R225_instructor_37</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_37</context_id>
+        <context_title>studtitle_IT22_R225_37</context_title>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <customassignmentname>New Name</customassignmentname>
+        <custom_domainid>IT22_R225_autodomain_37</custom_domainid >
+        <custom_domain_name>IT22_R225_studtitle_37</custom_domain_name>
+        <shareWithInitialString>studtitle_IT22_R225_37</shareWithInitialString>
+        <shareName>studtitle_IT22_R225_37</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R228.InstructorAbleToShareCustomAssessments" index="39" method="" >
+        <user_id>IT22_R225_instructor_39</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_39</context_id>
+        <context_title>studtitle_IT22_R225_39</context_title>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <customassignmentname>New Name</customassignmentname>
+        <custom_domainid>IT22_R225_autodomain_39</custom_domainid >
+        <custom_domain_name>IT22_R225_studtitle_39</custom_domain_name>
+        <shareWithInitialString>studtitle_IT22_R225_391</shareWithInitialString>
+        <shareName>studtitle_IT22_R225_391</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R228.InstructorAbleToShareCustomAssessments" index="391" method="" >
+        <user_id>IT22_R225_instructor_391</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_391</context_id>
+        <context_title>studtitle_IT22_R225_391</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+        <custom_domainid>IT22_R225_autodomain_39</custom_domainid >
+        <custom_domain_name>IT22_R225_studtitle_39</custom_domain_name>
+        <shareName>givenname1 family1</shareName>
+
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R228.InstructorAbleToShareCustomAssessments" index="41" method="" >
+        <user_id>IT22_R225_instructor_41</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_41</context_id>
+        <context_title>studtitle_IT22_R225_41</context_title>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <customassignmentname>New Name</customassignmentname>
+        <custom_domainid>IT22_R225_autodomain_41</custom_domainid >
+        <custom_domain_name>IT22_R225_studtitle_41</custom_domain_name>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R228.InstructorAbleToShareCustomAssessments" index="411" method="" >
+        <user_id>IT22_R225_instructor_411</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_411</context_id>
+        <context_title>studtitle_IT22_R225_411</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+        <custom_domainid>IT22_R225_autodomain_41</custom_domainid >
+        <custom_domain_name>IT22_R225_studtitle_41</custom_domain_name>
+        <shareName>givenname1 family1</shareName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R228.DestinationInstructorAccessAndUseAssessments" index="46" method="" >
+        <user_id>IT22_R225_instructor_46</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_46</context_id>
+        <context_title>studtitle_IT22_R225_46</context_title>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <customassignmentname>New Name</customassignmentname>
+        <custom_domainid>IT22_R225_autodomain_46</custom_domainid >
+        <custom_domain_name>IT22_R225_studtitle_46</custom_domain_name>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R228.DestinationInstructorAccessAndUseAssessments" index="461" method="" >
+        <user_id>IT22_R225_instructor_461</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_461</context_id>
+        <context_title>studtitle_IT22_R225_461</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+        <custom_domainid>IT22_R225_autodomain_46</custom_domainid >
+        <custom_domain_name>IT22_R225_studtitle_46</custom_domain_name>
+        <shareName>givenname1 family1</shareName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R228.DestinationInstructorAccessAndUseAssessments" index="47" method="" >
+        <user_id>IT22_R225_instructor_46</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_46</context_id>
+        <context_title>studtitle_IT22_R225_46</context_title>
+        <noOfQuestions>1</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <customassignmentname>New Name</customassignmentname>
+        <custom_domainid>IT22_R225_autodomain_46</custom_domainid >
+        <custom_domain_name>IT22_R225_studtitle_46</custom_domain_name>
+        <shareWithInitialString>studtitle_IT22_R225_461</shareWithInitialString>
+        <shareName>studtitle_IT22_R225_461</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R228.DestinationInstructorAccessAndUseAssessments" index="58" method="" >
+        <user_id>IT22_R225_instructor_58</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_58</context_id>
+        <context_title>studtitle_IT22_R225_58</context_title>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <customassignmentname>New Name</customassignmentname>
+        <custom_domainid>IT22_R225_autodomain_58</custom_domainid >
+        <custom_domain_name>IT22_R225_studtitle_58</custom_domain_name>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R228.DestinationInstructorAccessAndUseAssessments" index="581" method="" >
+        <user_id>IT22_R225_instructor_581</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_581</context_id>
+        <context_title>studtitle_IT22_R225_581</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+        <custom_domainid>IT22_R225_autodomain_58</custom_domainid >
+        <custom_domain_name>IT22_R225_studtitle_58</custom_domain_name>
+        <shareName>givenname1 family1</shareName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R228.DestinationInstructorAccessAndUseAssessments" index="63" method="" >
+        <user_id>IT22_R225_instructor_63</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_63</context_id>
+        <context_title>studtitle_IT22_R225_63</context_title>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <customassignmentname>New Name</customassignmentname>
+        <custom_domainid>IT22_R225_autodomain_63</custom_domainid >
+        <custom_domain_name>IT22_R225_studtitle_63</custom_domain_name>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R228.DestinationInstructorAccessAndUseAssessments" index="631" method="" >
+        <user_id>IT22_R225_instructor_631</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_631</context_id>
+        <context_title>studtitle_IT22_R225_631</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+        <custom_domainid>IT22_R225_autodomain_63</custom_domainid >
+        <custom_domain_name>IT22_R225_studtitle_63</custom_domain_name>
+        <shareName>givenname1 family1</shareName>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R228.DestinationInstructorAccessAndUseAssessments" index="66" method="" >
+        <user_id>IT22_R225_instructor_66</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_66</context_id>
+        <context_title>studtitle_IT22_R225_66</context_title>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <customassignmentname>New Name</customassignmentname>
+        <custom_domainid>IT22_R225_autodomain_66</custom_domainid >
+        <custom_domain_name>IT22_R225_studtitle_66</custom_domain_name>
+        <shareWithInitialString>studtitle_IT22_R225_66</shareWithInitialString>
+        <shareName>studtitle_IT22_R225_66</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R228.DestinationInstructorAccessAndUseAssessments" index="67" method="" >
+        <noOfQuestions>1</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <customassignmentname>New_Name</customassignmentname>
+        <custom_domainid>IT22_R225_autodomain_66</custom_domainid >
+        <custom_domain_name>IT22_R225_studtitle_66</custom_domain_name>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R228.DestinationInstructorAccessAndUseAssessments" index="69" method="" >
+        <user_id>IT22_R225_instructor_69</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_69</context_id>
+        <context_title>studtitle_IT22_R225_69</context_title>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <customassignmentname>New Name</customassignmentname>
+        <custom_domainid>IT22_R225_autodomain_69</custom_domainid >
+        <custom_domain_name>IT22_R225_studtitle_69</custom_domain_name>
+        <shareWithInitialString>studtitle_IT22_R225_69</shareWithInitialString>
+        <shareName>studtitle_IT22_R225_69</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R228.DestinationInstructorAccessAndUseAssessments" index="70" method="" >
+        <user_id>IT22_R225_instructor_69</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_69_1</context_id>
+        <context_title>studtitle_IT22_R225_69_1</context_title>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <customassignmentname>New Name</customassignmentname>
+        <custom_domainid>IT22_R225_autodomain_69</custom_domainid >
+        <custom_domain_name>IT22_R225_studtitle_69</custom_domain_name>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R228.DestinationInstructorAccessAndUseAssessments" index="71" method="" >
+        <user_id>IT22_R225_instructor_69</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_69_2</context_id>
+        <context_title>studtitle_IT22_R225_69_2</context_title>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <customassignmentname>New Name</customassignmentname>
+        <custom_domainid>IT22_R225_autodomain_69</custom_domainid >
+        <custom_domain_name>IT22_R225_studtitle_69</custom_domain_name>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R228.DestinationInstructorAccessAndUseAssessments" index="72" method="" >
+        <user_id>IT22_R225_instructor_72</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_69_1</context_id>
+        <context_title>studtitle_IT22_R225_69_1</context_title>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <familyname>family2</familyname>
+        <givenname>givenname2</givenname>
+        <customassignmentname>New Name</customassignmentname>
+        <custom_domainid>IT22_R225_autodomain_69</custom_domainid >
+        <custom_domain_name>IT22_R225_studtitle_69</custom_domain_name>
+        <shareName>givenname2 family2</shareName>
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R228.DestinationInstructorAccessAndUseAssessments" index="73" method="" >
+        <user_id>IT22_R225_instructor_73</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_69_2</context_id>
+        <context_title>studtitle_IT22_R225_69_2</context_title>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <familyname>family3</familyname>
+        <givenname>givenname3</givenname>
+        <customassignmentname>New Name</customassignmentname>
+        <custom_domainid>IT22_R225_autodomain_69</custom_domainid >
+        <custom_domain_name>IT22_R225_studtitle_69</custom_domain_name>
+        <shareName>givenname3 family3</shareName>
+
+    </testcase>
+</learningspaces>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orion>
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT14.R1412.OrionGradebookSync" index="3" method="orionGradebookSync">
+	 		<user_id>student_IT14_R1412_3</user_id>
+			<Role>student</Role>
+			<context_id>studcontextIT1412_1</context_id>
+			<context_title>studtitleIT14_R1412_1</context_title>
+		    <custom_lis_result_source_id>CH_1</custom_lis_result_source_id>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT14.R1412.OrionGradebookSync" index="4" method="orionGradebookSyncForMultipleChapters">
+	 		<user_id>student_IT14_R1412_4</user_id>
+			<Role>student</Role>
+			<context_id>studcontextIT1412_4</context_id>
+			<context_title>studtitleIT14_R1412_4</context_title>
+		    <custom_lis_result_source_id>CH_1:CH_2:CH_3</custom_lis_result_source_id>
+	</testcase>
+	
+</orion>

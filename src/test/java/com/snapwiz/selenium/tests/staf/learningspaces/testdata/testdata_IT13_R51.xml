@@ -1,0 +1,347 @@
+<?xml version="1.0"?>
+<learningspaces>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R51.EngagementReport" index="1" method="engagementReport">
+		<user_id>instructor_IT13_R51_1</user_id>
+		<Role>instructor</Role>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R51.EngagementReport" index="1_1" method="engagementReport">
+		<user_id>instructor_IT13_R51_1</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontext1</context_id>
+		<context_title>studtitle1</context_title>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R51.EngagementReport" index="1_2" method="engagementReport">
+		<user_id>student_IT13_R51_1_2_4</user_id>
+		<Role>student</Role>
+		<context_id>studcontext1</context_id>
+		<context_title>studtitle1</context_title>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R51.EngagementReport" index="1_3" method="engagementReport">
+		<user_id>student_IT13_R51_3</user_id>
+		<Role>student</Role>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R51.AssignQuizzed" index="20">
+		<user_id>instructor20</user_id>
+		<Role>instructor</Role>
+		<course>Biology</course>
+		<assessmentname>Assessment20</assessmentname>
+		<questionset>Question Set 20</questionset>
+		<questiontext>Test Question 20</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<resoursename>Resourse_IT13_R51_20</resoursename>
+        <resourcesname>Resourse_IT13_R51_20</resourcesname>
+		<type>image</type>
+		<description>Description Text</description>
+		<instructoronlyflag>true</instructoronlyflag>
+		<filename>img.png</filename>
+		<duedate>23</duedate>
+		<duetime>12:00 AM</duetime>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>false</gradeable>
+		<shareWithInitialString>201second</shareWithInitialString>
+		<shareName>201first 201second</shareName>
+		<additionalnote>this is additional note</additionalnote>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R51.AssignQuizzed" index="20_1" method="engagementReport">
+		<user_id>studentR51_20_1</user_id>
+		<Role>student</Role>
+		<familyname>201second</familyname>
+		<givenname>201first</givenname>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R51.InstructorAbleToViewAssignedQuized" index="31">
+		<user_id>instructor31</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontext31</context_id>
+		<context_title>studtitle31</context_title>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R51.InstructorAbleToViewAssignedQuized" index="311">
+		<user_id>student311</user_id>
+		<Role>student</Role>
+		<familyname>311second</familyname>
+		<givenname>311first</givenname>
+		<context_id>studcontext31</context_id>
+		<context_title>studtitle31</context_title>
+		<course>Biology</course>
+		<assessmentname>Assessment311</assessmentname>
+		<questionset>Question Set 311</questionset>
+		<questiontext>Test Question 311</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<duedate>23</duedate>
+		<duetime>12:00 AM</duetime>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>false</gradeable>
+		<shareWithInitialString>311second</shareWithInitialString>
+		<shareName>311first 311second</shareName>
+		<additionalnote>this is additional note</additionalnote>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R51.InstructorAbleToViewAssignedReading" index="44">
+		<user_id>instructor344</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontext44</context_id>
+		<context_title>studtitle44</context_title>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R51.InstructorAbleToViewAssignedReading" index="441">
+		<user_id>student441</user_id>
+		<Role>student</Role>
+		<familyname>311second</familyname>
+		<givenname>311first</givenname>
+		<context_id>studcontext44</context_id>
+		<context_title>studtitle44</context_title>
+		<duedate>23</duedate>
+		<duetime>12:00 AM</duetime>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>false</gradeable>
+		<shareWithInitialString>441second</shareWithInitialString>
+		<shareName>441first 441second</shareName>
+		<additionalnote>this is additional note</additionalnote>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R51.AchievementSummary" index="56">
+		<user_id>instructor56</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontext56</context_id>
+		<context_title>studtitle56</context_title>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R51.AchievementSummary" index="561">
+		<user_id>student561</user_id>
+		<Role>student</Role>
+		<familyname>561second</familyname>
+		<givenname>561first</givenname>
+		<context_id>studcontext56</context_id>
+		<context_title>studtitle56</context_title>
+		<course>Biology</course>
+		<assessmentname>Assessment561</assessmentname>
+		<questionset>Question Set 561</questionset>
+		<questiontext>Test Question 561</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<duedate>23</duedate>
+		<duetime>12:00 AM</duetime>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>false</gradeable>
+		<shareWithInitialString>561second</shareWithInitialString>
+		<shareName>561first 561second</shareName>
+		<additionalnote>this is additional note</additionalnote>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R51.AchievementSummary" index="562">
+		<user_id>student562</user_id>
+		<Role>student</Role>
+		<familyname>562second</familyname>
+		<givenname>562first</givenname>
+		<context_id>studcontext56</context_id>
+		<context_title>studtitle56</context_title>
+		<course>Biology</course>
+		<assessmentname>Assessment562</assessmentname>
+		<questionset>Question Set 562</questionset>
+		<questiontext>Test Question 562</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<duedate>23</duedate>
+		<duetime>12:00 AM</duetime>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>false</gradeable>
+		<shareWithInitialString>562second</shareWithInitialString>
+		<shareName>562first 562second</shareName>
+		<additionalnote>this is additional note</additionalnote>
+		
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R51.AchievementSummary" index="563">
+		<user_id>student563</user_id>
+		<Role>student</Role>
+		<familyname>563second</familyname>
+		<givenname>563first</givenname>
+		<context_id>studcontext56</context_id>
+		<context_title>studtitle56</context_title>
+		<course>Biology</course>
+		<assessmentname>Assessment563</assessmentname>
+		<questionset>Question Set 563</questionset>
+		<questiontext>Test Question 563</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<duedate>23</duedate>
+		<duetime>12:00 AM</duetime>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>true</gradeable>
+		<shareWithInitialString>563second</shareWithInitialString>
+		<shareName>563first 563second</shareName>
+		<additionalnote>this is additional note</additionalnote>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R51.AchievementSummary" index="564">
+		<user_id>student564</user_id>
+		<Role>student</Role>
+		<familyname>564second</familyname>
+		<givenname>564first</givenname>
+		<context_id>studcontext56</context_id>
+		<context_title>studtitle56</context_title>
+		<course>Biology</course>
+		<assessmentname>Assessment564</assessmentname>
+		<questionset>Question Set 564</questionset>
+		<questiontext>Test Question 564</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<duedate>23</duedate>
+		<duetime>12:00 AM</duetime>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>true</gradeable>
+		<shareWithInitialString>564second</shareWithInitialString>
+		<shareName>564first 564second</shareName>
+		<additionalnote>this is additional note</additionalnote>
+		<studentname>564first 564second</studentname>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R51.AchievementSummary" index="565">
+		<user_id>student565</user_id>
+		<Role>student</Role>
+		<familyname>565second</familyname>
+		<givenname>565first</givenname>
+		<context_id>studcontext56</context_id>
+		<context_title>studtitle56</context_title>
+		<course>Biology</course>
+		<assessmentname>Assessment565</assessmentname>
+		<questionset>Question Set 565</questionset>
+		<questiontext>Test Question 565</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<duedate>23</duedate>
+		<duetime>12:00 AM</duetime>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>true</gradeable>
+		<shareWithInitialString>565second</shareWithInitialString>
+		<shareName>565first 565second</shareName>
+		<additionalnote>this is additional note</additionalnote>
+		<studentname>565first 565second</studentname>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R51.InstructorSeeEmptyReportIfNoData" index="171">
+		<user_id>instructor171</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontext171</context_id>
+		<context_title>studtitle171</context_title>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R51.InstructorSeeEmptyReportIfNoData" index="1711">
+		<user_id>student171</user_id>
+		<Role>student</Role>
+		<context_id>studcontext171</context_id>
+		<context_title>studtitle171</context_title>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R51.EnhashmentOfstudentAndInstructorDashboard" index="179">
+		<user_id>instructor179</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontext179</context_id>
+		<context_title>studtitle179</context_title>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R51.EnhashmentOfstudentAndInstructorDashboard" index="1791">
+		<user_id>student1791</user_id>
+		<Role>student</Role>
+		<familyname>1791second</familyname>
+		<givenname>1791first</givenname>
+		<context_id>studcontext179</context_id>
+		<context_title>studtitle179</context_title>
+		<course>Biology</course>
+		<assessmentname>Assessment1791</assessmentname>
+		<questionset>Question Set 1791</questionset>
+		<questiontext>Test Question 1791</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<duedate>23</duedate>
+		<duetime>12:00 AM</duetime>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>false</gradeable>
+		<shareWithInitialString>1791second</shareWithInitialString>
+		<shareName>1791first 1791second</shareName>
+		<additionalnote>this is additional note</additionalnote>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R51.EnhashmentOfstudentAndInstructorDashboard" index="189">
+		<user_id>instructor189_2</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontext189_2</context_id>
+		<context_title>studtitle189_2</context_title>
+		<course_type>ls</course_type>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R51.EnhashmentOfstudentAndInstructorDashboard" index="1891">
+		<user_id>student1891_2</user_id>
+		<Role>student</Role>
+		<familyname>1891second</familyname>
+		<givenname>1891first</givenname>
+		<context_id>studcontext189_2</context_id>
+		<context_title>studtitle189_2</context_title>
+		<course_type>ls</course_type>
+		<course>Geography: Realms, Regions, and Concepts - Sixteenth Edition</course>
+		<assessmentname>Assessment1891</assessmentname>
+		<questionset>Question Set 1891</questionset>
+		<questiontext>Test Question 1891</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<duedate>23</duedate>
+		<duetime>12:00 AM</duetime>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>false</gradeable>
+		<shareWithInitialString>1891second</shareWithInitialString>
+		<shareName>1891first 1891second</shareName>
+		<additionalnote>this is additional note</additionalnote>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R51.EngagmentReportOfNonAssignedCompletion" index="99">
+		<user_id>studentR51_99_1_1</user_id>
+		<Role>student</Role>
+		<context_id>studcontext99_1</context_id>
+		<context_title>studtitle99_1</context_title>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R51.EngagmentReportOfNonAssignedCompletion" index="991">
+		<user_id>instructorR51_99_1</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontext99_1</context_id>
+		<context_title>studtitle99_1</context_title>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R51.EngagmentReportOfNonAssignedCompletion" index="992">
+		<user_id>studentR51_99_2</user_id>
+		<Role>student</Role>
+		<context_id>studcontext99_1</context_id>
+		<context_title>studtitle99_1</context_title>
+	</testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R51.EngagementReportIssues" index="10944">
+        <user_id>instructor_10944_</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext10944</context_id>
+        <context_title>studtitle10944</context_title>
+        <assessmentname>10944 Assessment</assessmentname>
+        <questionset>10944 Question Set</questionset>
+        <questiontext>10944 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>stud</shareWithInitialString>
+        <shareName>studtitle10944</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R51.EngagementReportIssues" index="10944_1">
+        <user_id>student109441_1_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext10944</context_id>
+        <context_title>studtitle10944</context_title>
+    </testcase>
+		
+	
+	
+	
+
+	
+</learningspaces>

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edulastic>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.writeboardforquestions.AccessingWriteBoardEnabledQuestionsInGradableAssignment" index ="61" method="accessingWriteBoardEnabledQuestionsInGradableAssignment">
+        <assessmentname>IT1_writeboardforquestions_61_Assessement</assessmentname>
+        <questiontext>question text IT_writeboardforquestions</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+        <usewriteboard>true</usewriteboard>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.writeboardforquestions.AccessingWriteBoardEnabledQuestionsInGradableAssignment" index ="76" method="accessingWriteBoardEnabledQuestionsInGradableAssignmentOtherQuestions">
+        <assessmentname>IT1_writeboardforquestions_76_Assessement</assessmentname>
+        <questiontext>question text IT_writeboardforquestions</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+        <usewriteboard>true</usewriteboard>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.writeboardforquestions.VerifyWriteBoardFromPerformanceSummaryPage" index ="84" method="verifyWriteBoardFromPerformanceSummaryPage">
+        <assessmentname>IT1_writeboardforquestions_76_Assessement</assessmentname>
+        <questiontext>question text IT_writeboardforquestions</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+        <usewriteboard>true</usewriteboard>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.writeboardforquestions.AccessingWriteBoardEnabledQuestionsInNonGradableAssignment" index ="61" method="accessingWriteBoardEnabledQuestionsInNonGradableAssignment">
+        <assessmentname>IT1_writeboardforquestions_61_Assessement</assessmentname>
+        <questiontext>question text IT_writeboardforquestions</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+        <usewriteboard>true</usewriteboard>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.writeboardforquestions.AccessingWriteBoardEnabledQuestionsInNonGradableAssignment" index ="76" method="accessingWriteBoardEnabledQuestionsInNonGradableAssignmentOtherQuestions">
+        <assessmentname>IT1_writeboardforquestions_76_Assessement</assessmentname>
+        <questiontext>question text IT_writeboardforquestions</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+        <usewriteboard>true</usewriteboard>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.writeboardforquestions.DeleteWriteBoardData" index ="109" method="DeleteWriteBoardData">
+        <assessmentname>IT1_writeboardforquestions_109_Assessement</assessmentname>
+        <questiontext>question text IT_writeboardforquestions</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+        <usewriteboard>true</usewriteboard>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.writeboardforquestions.EditWriteBoardResponseBeforeSubmittingGradableAssignment" index ="113" method="editWriteBoardResponseBeforeSubmittingGradableAssignment">
+        <assessmentname>IT1_writeboardforquestions_113_Assessement</assessmentname>
+        <questiontext>question text IT_writeboardforquestions</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+        <usewriteboard>true</usewriteboard>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.writeboardforquestions.EditWriteBoardResponseBeforeSubmittingNonGradableAssignment" index ="124" method="editWriteBoardResponseBeforeSubmittingNonGradableAssignment">
+        <assessmentname>IT1_writeboardforquestions_124_Assessement</assessmentname>
+        <questiontext>question text IT_writeboardforquestions</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+        <usewriteboard>true</usewriteboard>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.writeboardforquestions.AccessingWriteBoardEnabledQuestionsAsInstructor" index ="131" method="accessingWriteBoardEnabledQuestionsAsInstructor">
+        <assessmentname>IT1_writeboardforquestions_131_Assessement</assessmentname>
+        <questiontext>question text IT_writeboardforquestions</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+        <usewriteboard>true</usewriteboard>
+        <writeboarddata>Text for Write board</writeboarddata>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.writeboardforquestions.AccessingWriteBoardEnabledQuestionsAsInstructor" index ="142" method="accessingWriteBoardWhereStudentHasNotUsedWriteBoard">
+        <assessmentname>IT1_writeboardforquestions_142_Assessement</assessmentname>
+        <questiontext>question text IT_writeboardforquestions</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+        <usewriteboard>true</usewriteboard>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.writeboardforquestions.AccessingWriteBoardEnabledQuestionsAsInstructorForNonGradable" index ="152" method="accessingWriteBoardEnabledQuestionsAsInstructor">
+        <assessmentname>IT1_writeboardforquestions_152_Assessement</assessmentname>
+        <questiontext>question text IT_writeboardforquestions</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+        <usewriteboard>true</usewriteboard>
+        <writeboarddata>Text for Write board</writeboarddata>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.writeboardforquestions.AccessingWriteBoardEnabledQuestionsAsInstructorForNonGradable" index ="154" method="accessingWriteBoardWhereStudentHasNotUsedWriteBoard">
+        <assessmentname>IT1_writeboardforquestions_154_Assessement</assessmentname>
+        <questiontext>question text IT_writeboardforquestions</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+        <usewriteboard>true</usewriteboard>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.writeboardforquestions.AccessWriteBoardQuestionAfterInstructorFeedback" index ="162" method="accessWriteBoardQuestionAfterInstructorFeedbackForGradable">
+        <assessmentname>IT1_writeboardforquestions_162_Assessement</assessmentname>
+        <questiontext>question text IT_writeboardforquestions</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+        <usewriteboard>true</usewriteboard>
+        <writeboarddata>Text for Write board</writeboarddata>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.writeboardforquestions.AccessWriteBoardQuestionAfterInstructorFeedback" index ="172" method="accessWriteBoardQuestionAfterInstructorFeedbackForGradable">
+        <assessmentname>IT1_writeboardforquestions_162_Assessement</assessmentname>
+        <questiontext>question text IT_writeboardforquestions</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+        <usewriteboard>true</usewriteboard>
+        <writeboarddata>Text for Write board</writeboarddata>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+    </testcase>
+</edulastic>

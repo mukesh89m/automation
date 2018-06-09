@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false" preserve-order="true" configfailurepolicy="continue">
+    <test name="IT 19 Jenkins Suite">
+        <classes>
+
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.InstructorShouldBeAbleToTryAnyAssignment"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.ReservedForAssignmentCreatedByCmsUser"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.AssignmentCreatedThroughCustomAssignment"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.DiagnosticAssessmentFromStudy"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.AdaptivePracticeAssessmentFromStudy"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.StaticPracticeAssessmentFromStudy"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R201.ImpactedAreas"/>
+
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.LsPlusAdaptiveCourse"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.ForLsCourse"/>
+
+
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AssignStaticPracticeFromStudy"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AdaptivePractice"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R203.AssignStaticPracticeInDifferentStatus"/>
+
+
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R204.StudyPlanEnhancement"/>
+
+
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R208.GradeBookWeighting"/>
+
+
+        </classes>
+
+    </test> <!-- Test -->
+</suite> <!-- Suite -->

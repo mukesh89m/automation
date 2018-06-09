@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orion>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT22.R223.ExportTheGradebookDataInTheChangedCSVFile" index="12" method="">
+        <user_id>IT22_R223_student_12</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_It22_R223_12</context_id>
+        <context_title>studtitle_It22_R223_12</context_title>
+        <givenname>givenname</givenname>
+        <familyname>family</familyname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT22.R223.ExportTheGradebookDataInTheChangedCSVFile" index="12_1" method="">
+        <user_id>IT22_R223_instructor_12</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_It22_R223_12</context_id>
+        <context_title>studtitle_It22_R223_12</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT22.R223.ExportTheGradebookDataInTheChangedCSVFile" index="49" method="">
+        <username>student1.boone@snapwiz.com</username>
+        <password>snapwiz</password>
+        <givenname>Student</givenname>
+        <familyname>Boone</familyname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT22.R223.ExportTheGradebookDataInTheChangedCSVFile" index="49_1" method="">
+        <username>instructor.boone@snapwiz.com</username>
+        <password>snapwiz</password>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT22.R223.ExportTheGradebookDataInTheChangedCSVFile" index="12_2" method="">
+        <user_id>IT22_R223_student_12_2_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_It22_R223_12_2</context_id>
+        <context_title>studtitle_It22_R223_12_2</context_title>
+        <givenname>givenname</givenname>
+        <familyname>family</familyname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT22.R223.ExportTheGradebookDataInTheChangedCSVFile" index="12_3" method="">
+        <user_id>IT22_R223_mentor_12</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontext_It22_R223_12_2</context_id>
+        <context_title>studtitle_It22_R223_12_2</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT22.R223.ExportTheGradebookDataInTheChangedCSVFile" index="49_2" method="">
+        <username>student6.boonenew@wiley.com</username>
+        <password>snapwiz</password>
+        <givenname>student6</givenname>
+        <familyname>boonenew</familyname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT22.R223.ExportTheGradebookDataInTheChangedCSVFile" index="49_3" method="">
+        <username>mentor1.boonenew@wiley.com</username>
+        <password>snapwiz</password>
+    </testcase>
+
+
+</orion>

@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R181.VideoFilesFunctionality" index="18" method="embeddingVideoFilesForAllQuestionMP4" >
+        <assessmentname>IT18_R181_Custom Assignment_18MP4</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_R181_18MP4</questionset>
+        <questiontext>MyVideo Test Question for IT18_R181_18MP4</questiontext>
+        <learningobjective>true</learningobjective>
+        <withVedio>true</withVedio>
+        <wistiaCode>48krttk1s4</wistiaCode>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R181.VideoFilesFunctionality" index="63" method="embeddingVideoFilesForAllQuestionFLV" >
+        <assessmentname>IT18_R181_Custom Assignment_63FLV</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_R181_63FLV</questionset>
+        <questiontext>MyVideo Test Question for IT18_R181_63FLV</questiontext>
+        <learningobjective>true</learningobjective>
+        <withVedio>true</withVedio>
+        <wistiaCode>kb3r92t95v</wistiaCode>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R181.VideoFilesFunctionality" index="99" method="embeddingVideoFilesForAllQuestionAVI" >
+        <assessmentname>IT18_R181_Custom Assignment_99AVI</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_R181_99AVI</questionset>
+        <questiontext>MyVideo Test Question for IT18_R181_99AVI</questiontext>
+        <learningobjective>true</learningobjective>
+        <withVedio>true</withVedio>
+        <wistiaCode>pvhiqjrhhw</wistiaCode>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R181.VideoFilesFunctionality" index="135" method="embeddingVideoFilesForAllQuestion3GP" >
+        <assessmentname>IT18_R181_Custom Assignment_135_3GP</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_R181_135_3GP</questionset>
+        <questiontext>MyVideo Test Question for IT18_R181_135_3GP</questiontext>
+        <learningobjective>true</learningobjective>
+        <withVedio>true</withVedio>
+        <wistiaCode>gqa314xoo5</wistiaCode>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R181.VideoFilesFunctionality" index="171" method="embeddingVideoFilesForAllQuestionOGV" >
+        <assessmentname>IT18_R181_Custom Assignment_171OGV</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_R181_171OGV</questionset>
+        <questiontext>MyVideo Test Question for IT18_R181_171OGV</questiontext>
+        <learningobjective>true</learningobjective>
+        <withVedio>true</withVedio>
+        <wistiaCode>u7al0d79lm</wistiaCode>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R181.VideoFilesFunctionality" index="207" method="embeddingVideoFilesForAllQuestionWMV" >
+        <assessmentname>IT18_R181_Custom Assignment_207WMV</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_R181_207WMV</questionset>
+        <questiontext>MyVideo Test Question for IT18_R181_207WMV</questiontext>
+        <learningobjective>true</learningobjective>
+        <withVedio>true</withVedio>
+        <wistiaCode>lq0rozg90c</wistiaCode>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R181.VideoFilesFunctionality" index="292" method="embeddingVideoFilesForAllQuestionM4V" >
+        <assessmentname>IT18_R181_Custom Assignment_292M4V</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_R181_292M4V</questionset>
+        <questiontext>MyVideo Test Question for IT18_R181_292M4V</questiontext>
+        <learningobjective>true</learningobjective>
+        <withVedio>true</withVedio>
+        <filename>img.mp4</filename>
+        <wistiaCode>n1y34trjuc</wistiaCode>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R181.VideoFilesFunctionality" index="382" method="embeddingVideoFilesForAllQuestionMPG" >
+        <assessmentname>IT18_R181_Custom Assignment_382MPG</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_R181_382MPG</questionset>
+        <questiontext>MyVideo Test Question for IT18_R181_382MPG</questiontext>
+        <learningobjective>true</learningobjective>
+        <withVedio>true</withVedio>
+        <wistiaCode>i5snaz67ur</wistiaCode>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R181.VideoFilesFunctionality" index="425" method="embeddingVideoFilesForAllQuestionVOB" >
+        <assessmentname>IT18_R181_Custom Assignment_425VOB</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_R181_425VOB</questionset>
+        <questiontext>MyVideo Test Question for IT18_R181_425VOB</questiontext>
+        <learningobjective>true</learningobjective>
+        <withVedio>true</withVedio>
+        <wistiaCode>7ahgnawnko</wistiaCode>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R181.VideoFilesFunctionality" index="470" method="embeddingVideoFilesForAllQuestionMOD" >
+        <assessmentname>IT18_R181_Custom Assignment_470MOD</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_R181_470MOD</questionset>
+        <questiontext>MyVideo Test Question for IT18_R181_470MOD</questiontext>
+        <learningobjective>true</learningobjective>
+        <withVedio>true</withVedio>
+        <wistiaCode>klh97lwj2q</wistiaCode>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R181.VideoFilesFunctionality" index="515" method="embeddingVideoFilesForAllQuestion3G2" >
+        <assessmentname>IT18_R181_Custom Assignment_515_3G2</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_R181_515_3G2</questionset>
+        <questiontext>MyVideo Test Question for IT18_R181_515_3G2</questiontext>
+        <learningobjective>true</learningobjective>
+        <withVedio>true</withVedio>
+        <wistiaCode>sda7zid5vj</wistiaCode>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R181.VideoFilesFunctionality" index="559" method="embeddingVideoFilesForAllQuestionM2V" >
+        <assessmentname>IT18_R181_Custom Assignment_559_M2V</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_R181_559_M2V</questionset>
+        <questiontext>MyVideo Test Question for IT18_R181_559_M2V</questiontext>
+        <learningobjective>true</learningobjective>
+        <withVedio>true</withVedio>
+        <wistiaCode>ee16inejp2</wistiaCode>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R181.VideoFilesFunctionality" index="603" method="embeddingVideoFilesForAllQuestionWEBM" >
+        <assessmentname>IT18_R181_Custom Assignment_603WEBM</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_R181_603WEBM</questionset>
+        <questiontext>MyVideo Test Question for IT18_R181_603WEBM</questiontext>
+        <learningobjective>true</learningobjective>
+        <withVedio>true</withVedio>
+        <wistiaCode>eyd1s70taq</wistiaCode>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R181.VideoFilesFunctionality" index="646" method="embeddingMultipleVideoFilesAllFormats" >
+        <assessmentname>IT18_R181_Custom Assignment_646AllFormats</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_R181_646AllFormats</questionset>
+        <questiontext>MyVideo Test Question for IT18_R181_646AllFormats</questiontext>
+        <learningobjective>true</learningobjective>
+        <multipleVideo>true</multipleVideo>
+        <wistiaCode_multipleVideo>48krttk1s4,n1y34trjuc,pvhiqjrhhw,lq0rozg90c,i5snaz67ur,7ahgnawnko,klh97lwj2q,gqa314xoo5,u7al0d79lm,sda7zid5vj,ee16inejp2,kb3r92t95v,eyd1s70taq</wistiaCode_multipleVideo>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R181.VideoFilesFunctionality" index="667" method="embeddingVideoFilesForAllQuestionUploadMP4" >
+        <assessmentname>IT18_R181_Custom Assignment_667UploadMP4</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_R181_667UploadMP4</questionset>
+        <questiontext>MyVideo Test Question for IT18_R181_667UploadMP4</questiontext>
+        <learningobjective>true</learningobjective>
+        <filename>dogs600.mp4</filename>
+        <withUploadVideo>true</withUploadVideo>>
+    </testcase>
+
+</learningspaces>

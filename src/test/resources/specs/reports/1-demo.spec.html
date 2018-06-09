@@ -1,0 +1,587 @@
+<html>
+    <head>
+        <title>Galen Reports</title>
+        <meta charset="utf-8" />
+        <link rel="stylesheet" type="text/css" href="report.css"></link>
+        <script src="jquery-1.11.2.min.js"></script>
+        <script src="handlebars-v2.0.0.js"></script>
+        <script src="galen-report.js"></script>
+        <script>
+var reportData = {
+  "testId" : "1-demo.spec",
+  "name" : "demo.spec",
+  "report" : {
+    "nodes" : [ {
+      "name" : "Simple check",
+      "status" : "info",
+      "nodes" : [ {
+        "name" : "check  demo.spec --url http://10.0.0.247/ --size 1366x768 --htmlreport reports",
+        "status" : "info",
+        "nodes" : [ {
+          "name" : "Check layout: demo.spec included tags: ",
+          "status" : "error",
+          "time" : 1475647437204,
+          "sections" : [ {
+            "name" : "Ml_home_page",
+            "place" : {
+              "filePath" : "demo.spec",
+              "lineNumber" : 13
+            },
+            "objects" : [ {
+              "name" : "ml-lesson-cards-fiters",
+              "specs" : [ {
+                "status" : "error",
+                "place" : {
+                  "filePath" : "demo.spec",
+                  "lineNumber" : 17
+                },
+                "name" : "image file  dump/demo/objects/ml-lesson-cards-fiters.png,ignore-objects [filter_count-*]",
+                "errors" : [ "Element does not look like \"dump/demo/objects/ml-lesson-cards-fiters.png\". There are 559 mismatching pixels but max allowed is 0" ],
+                "highlight" : [ "ml-lesson-cards-fiters" ],
+                "imageComparison" : {
+                  "actualImage" : "layout-2-ml-lesson-cards-fiters-actual.png",
+                  "expectedImage" : "layout-3-ml-lesson-cards-fiters-expected.png",
+                  "comparisonMapImage" : "layout-4-ml-lesson-cards-fiters-map.png"
+                }
+              } ]
+            }, {
+              "name" : "ml_logo",
+              "specs" : [ {
+                "status" : "info",
+                "place" : {
+                  "filePath" : "demo.spec",
+                  "lineNumber" : 20
+                },
+                "name" : "inside  screen  0px top left",
+                "highlight" : [ "ml_logo", "screen" ]
+              } ]
+            }, {
+              "name" : "ml_navigation_section",
+              "specs" : [ {
+                "status" : "info",
+                "place" : {
+                  "filePath" : "demo.spec",
+                  "lineNumber" : 23
+                },
+                "name" : "right-of ml_logo",
+                "highlight" : [ "ml_navigation_section", "ml_logo" ]
+              }, {
+                "status" : "info",
+                "place" : {
+                  "filePath" : "demo.spec",
+                  "lineNumber" : 24
+                },
+                "name" : "text is \"Explore All Lessons\"",
+                "highlight" : [ "ml_navigation_section" ]
+              } ]
+            }, {
+              "name" : "ml-header-search",
+              "specs" : [ {
+                "status" : "info",
+                "place" : {
+                  "filePath" : "demo.spec",
+                  "lineNumber" : 27
+                },
+                "name" : "inside  ml-header",
+                "highlight" : [ "ml-header-search", "ml-header" ]
+              }, {
+                "status" : "info",
+                "place" : {
+                  "filePath" : "demo.spec",
+                  "lineNumber" : 28
+                },
+                "name" : "right-of    ml_navigation_section",
+                "highlight" : [ "ml-header-search", "ml_navigation_section" ]
+              } ]
+            }, {
+              "name" : "all_filter-1",
+              "specs" : [ {
+                "status" : "info",
+                "place" : {
+                  "filePath" : "demo.spec",
+                  "lineNumber" : 32
+                },
+                "name" : "left-of all_filter-2 ~1px",
+                "highlight" : [ "all_filter-1", "all_filter-2" ]
+              }, {
+                "status" : "info",
+                "place" : {
+                  "filePath" : "demo.spec",
+                  "lineNumber" : 33
+                },
+                "name" : "aligned horizontally all all_filter-2",
+                "highlight" : [ "all_filter-1", "all_filter-2" ]
+              } ]
+            }, {
+              "name" : "all_filter-2",
+              "specs" : [ {
+                "status" : "info",
+                "place" : {
+                  "filePath" : "demo.spec",
+                  "lineNumber" : 32
+                },
+                "name" : "left-of all_filter-3 ~1px",
+                "highlight" : [ "all_filter-2", "all_filter-3" ]
+              }, {
+                "status" : "info",
+                "place" : {
+                  "filePath" : "demo.spec",
+                  "lineNumber" : 33
+                },
+                "name" : "aligned horizontally all all_filter-3",
+                "highlight" : [ "all_filter-2", "all_filter-3" ]
+              } ]
+            }, {
+              "name" : "all_filter-3",
+              "specs" : [ {
+                "status" : "info",
+                "place" : {
+                  "filePath" : "demo.spec",
+                  "lineNumber" : 32
+                },
+                "name" : "left-of all_filter-4 ~1px",
+                "highlight" : [ "all_filter-3", "all_filter-4" ]
+              }, {
+                "status" : "info",
+                "place" : {
+                  "filePath" : "demo.spec",
+                  "lineNumber" : 33
+                },
+                "name" : "aligned horizontally all all_filter-4",
+                "highlight" : [ "all_filter-3", "all_filter-4" ]
+              } ]
+            }, {
+              "name" : "js-login-btn",
+              "specs" : [ {
+                "status" : "info",
+                "place" : {
+                  "filePath" : "demo.spec",
+                  "lineNumber" : 37
+                },
+                "name" : "near all_filter-3 ~35px top",
+                "highlight" : [ "js-login-btn", "all_filter-3" ]
+              }, {
+                "status" : "info",
+                "place" : {
+                  "filePath" : "demo.spec",
+                  "lineNumber" : 38
+                },
+                "name" : "aligned horizontally all js-signup-btn",
+                "highlight" : [ "js-login-btn", "js-signup-btn" ]
+              }, {
+                "status" : "info",
+                "place" : {
+                  "filePath" : "demo.spec",
+                  "lineNumber" : 39
+                },
+                "name" : "text is \"Login\"",
+                "highlight" : [ "js-login-btn" ]
+              } ]
+            }, {
+              "name" : "js-signup-btn",
+              "specs" : [ {
+                "status" : "info",
+                "place" : {
+                  "filePath" : "demo.spec",
+                  "lineNumber" : 43
+                },
+                "name" : "above all_filter-2 ~35px",
+                "highlight" : [ "js-signup-btn", "all_filter-2" ]
+              }, {
+                "status" : "info",
+                "place" : {
+                  "filePath" : "demo.spec",
+                  "lineNumber" : 44
+                },
+                "name" : "aligned horizontally all js-login-btn",
+                "highlight" : [ "js-signup-btn", "js-login-btn" ]
+              }, {
+                "status" : "info",
+                "place" : {
+                  "filePath" : "demo.spec",
+                  "lineNumber" : 45
+                },
+                "name" : "text is \"Sign Up\"",
+                "highlight" : [ "js-signup-btn" ]
+              }, {
+                "status" : "info",
+                "place" : {
+                  "filePath" : "demo.spec",
+                  "lineNumber" : 46
+                },
+                "name" : "css background-color is \"rgba(93, 213, 115, 1)\"",
+                "highlight" : [ "js-signup-btn" ]
+              } ]
+            }, {
+              "name" : "global",
+              "specs" : [ {
+                "status" : "info",
+                "place" : {
+                  "filePath" : "demo.spec",
+                  "lineNumber" : 49
+                },
+                "name" : "count visible ml_lesson_card-* is > 11",
+                "highlight" : [ "ml_lesson_card-24", "ml_lesson_card-1", "ml_lesson_card-25", "ml_lesson_card-4", "ml_lesson_card-5", "ml_lesson_card-2", "ml_lesson_card-3", "ml_lesson_card-20", "ml_lesson_card-21", "ml_lesson_card-22", "ml_lesson_card-23", "ml_lesson_card-8", "ml_lesson_card-9", "ml_lesson_card-6", "ml_lesson_card-7", "ml_lesson_card-13", "ml_lesson_card-14", "ml_lesson_card-15", "ml_lesson_card-16", "ml_lesson_card-17", "ml_lesson_card-18", "ml_lesson_card-19", "ml_lesson_card-10", "ml_lesson_card-11", "ml_lesson_card-12" ]
+              } ]
+            } ]
+          } ],
+          "objects" : {
+            "screen" : {
+              "area" : [ 0, 0, 1287, 1715 ]
+            },
+            "ml_logo" : {
+              "area" : [ 0, 0, 174, 70 ]
+            },
+            "ml_navigation_section" : {
+              "area" : [ 189, 0, 113, 69 ]
+            },
+            "ml_lesson_card-24" : {
+              "area" : [ 700, 1414, 200, 291 ]
+            },
+            "ml_lesson_card-1" : {
+              "area" : [ 40, 170, 200, 291 ]
+            },
+            "ml_lesson_card-25" : {
+              "area" : [ 920, 1414, 200, 291 ]
+            },
+            "all_filter-4" : {
+              "area" : [ 1142, 90, 115, 35 ]
+            },
+            "all_filter-3" : {
+              "area" : [ 970, 90, 172, 35 ]
+            },
+            "js-login-btn" : {
+              "area" : [ 1194, 20, 78, 34 ]
+            },
+            "all_filter-2" : {
+              "area" : [ 798, 90, 172, 35 ]
+            },
+            "ml_lesson_card-4" : {
+              "area" : [ 700, 170, 200, 291 ]
+            },
+            "all_filter-1" : {
+              "area" : [ 684, 90, 115, 35 ]
+            },
+            "js-signup-btn" : {
+              "area" : [ 1086, 20, 94, 34 ]
+            },
+            "ml_lesson_card-5" : {
+              "area" : [ 920, 170, 200, 291 ]
+            },
+            "ml_lesson_card-2" : {
+              "area" : [ 260, 170, 200, 291 ]
+            },
+            "ml_lesson_card-3" : {
+              "area" : [ 480, 170, 200, 291 ]
+            },
+            "ml_lesson_card-20" : {
+              "area" : [ 920, 1103, 200, 291 ]
+            },
+            "ml_lesson_card-21" : {
+              "area" : [ 40, 1414, 200, 291 ]
+            },
+            "ml_lesson_card-22" : {
+              "area" : [ 260, 1414, 200, 291 ]
+            },
+            "ml_lesson_card-23" : {
+              "area" : [ 480, 1414, 200, 291 ]
+            },
+            "ml_lesson_card-8" : {
+              "area" : [ 480, 481, 200, 291 ]
+            },
+            "ml_lesson_card-9" : {
+              "area" : [ 700, 481, 200, 291 ]
+            },
+            "ml_lesson_card-6" : {
+              "area" : [ 40, 481, 200, 291 ]
+            },
+            "ml_lesson_card-7" : {
+              "area" : [ 260, 481, 200, 291 ]
+            },
+            "ml-header-search" : {
+              "area" : [ 409, 10, 549, 46 ]
+            },
+            "ml_lesson_card-13" : {
+              "area" : [ 480, 792, 200, 291 ]
+            },
+            "ml_lesson_card-14" : {
+              "area" : [ 700, 792, 200, 291 ]
+            },
+            "ml_lesson_card-15" : {
+              "area" : [ 920, 792, 200, 291 ]
+            },
+            "ml_lesson_card-16" : {
+              "area" : [ 40, 1103, 200, 291 ]
+            },
+            "ml-header" : {
+              "area" : [ 0, 0, 1287, 70 ]
+            },
+            "ml_lesson_card-17" : {
+              "area" : [ 260, 1103, 200, 291 ]
+            },
+            "ml_lesson_card-18" : {
+              "area" : [ 480, 1103, 200, 291 ]
+            },
+            "ml_lesson_card-19" : {
+              "area" : [ 700, 1103, 200, 291 ]
+            },
+            "ml-lesson-cards-fiters" : {
+              "area" : [ 644, 90, 614, 35 ]
+            },
+            "ml_lesson_card-10" : {
+              "area" : [ 920, 481, 200, 291 ]
+            },
+            "ml_lesson_card-11" : {
+              "area" : [ 40, 792, 200, 291 ]
+            },
+            "ml_lesson_card-12" : {
+              "area" : [ 260, 792, 200, 291 ]
+            }
+          },
+          "screenshot" : "layout-1-screenshot.png",
+          "type" : "layout"
+        } ],
+        "time" : 1475647432097,
+        "type" : "node"
+      } ],
+      "time" : 1475647417727,
+      "type" : "node"
+    } ]
+  }
+};
+        </script>
+        <script>
+
+            $(function () {
+                var galenReport = createGalenReport();
+                galenReport.render("main", reportData);
+            });
+        </script>
+    </head>
+    <body>
+        <script id="report-tpl" type="text/x-handlebars-template">
+            <ul class="report-nodes">
+            {{#each report.nodes}}
+                {{renderNode this}}
+            {{/each}}
+            </ul>
+        </script>
+        <script id="report-node-tpl" type="text/x-handlebars-template">
+            <li>
+                <span class="report-time">{{formatReportTime time}}</span>
+                <a class="expand-link node-expand-button node-status-{{status}} contains-children-{{hasChildElements nodes}} collapsed" href="#">{{status}}</a>
+                <div class="node-name node-status-{{status}}">{{name}}</div>
+                {{#if extras}}
+                    {{renderNodeExtras extras}}
+                {{/if}}
+                {{#if stacktrace}}
+                    <div class="stacktrace">{{stacktrace}}</div>
+                {{/if}}
+                {{#if attachments}}
+                    <ul class="report-node-attachments">
+                        {{#each attachments}}
+                            <li>
+                                <a class="icon-sprite-before node-attachment" href="{{this}}">{{this}}</a>
+                            </li>
+                        {{/each}}
+                    </ul>
+                {{/if}}
+                <div class="node-details expand-container">
+                    {{#if nodes}}
+                        <ul class="report-nodes">
+                            {{#each nodes}}
+                                {{renderNode this}}
+                            {{/each}}
+                        </ul>
+                    {{/if}}
+                </div>
+            </li>
+        </script>
+        <script id="report-node-text-tpl" type="text/x-handlebars-template">
+            <li>
+                <div class="node-simple-text">
+                    {{name}}
+                </div>
+            </li>
+        </script>
+        <script id="report-layout-tpl" type="text/x-handlebars-template">
+            <li>
+                <span class="report-time">{{formatReportTime time}}</span>
+                <a class="expand-link node-expand-button node-status-label node-status-info contains-children-true collapsed" href="#">LAYOUT</a>
+                <div class="node-name">{{name}}</div>
+                <div class="node-horizontal-menu" data-layout-id="{{layoutId}}"><a class="layout-heatmap-link" href="#">Heat Map</a></div>
+                <div class="node-details expand-container">
+                    {{renderSublayout this}}
+                </div>
+            </li>
+        </script>
+        <script id="report-layout-sublayout-tpl" type="text/x-handlebars-template">
+            <div class="layout-report" data-layout-id="{{layoutId}}" {{#if screenshot}}data-screenshot="{{screenshot}}"{{/if}}>
+                <ul class="layout-sections">
+                    {{#each sections}}
+                        {{renderLayoutSection this}}
+                    {{/each}}
+                </ul>
+            </div>
+        </script>
+        <script id="report-layout-section-tpl" type="text/x-handlebars-template">
+            <li>
+                <a class="layout-section icon-sprite-before expand-link contains-children-true" href="#" title="{{place.filePath}}#{{place.lineNumber}}">{{name}}</a>
+                <div class="layout-details expand-container">
+                    {{#if sections}}
+                        <ul class="layout-sections">
+                        {{#each sections}}
+                            {{renderLayoutSection this}}
+                        {{/each}}
+                        </ul>
+                    {{/if}}
+                    {{#if objects}}
+                        <ul class="layout-objects">
+                            {{#each objects}}
+                                {{renderLayoutObject this}}
+                            {{/each}}
+                        </ul>
+                    {{/if}}
+                </div>
+            </li>
+        </script>
+
+        <script id="report-layout-object-tpl" type="text/x-handlebars-template">
+            <li>
+                <a class="layout-object icon-sprite-before expand-link contains-children-true" href="#">{{name}}</a>
+                <ul class="layout-checks expand-container">
+                    {{#each specs}}
+                        {{renderLayoutCheck this}}
+                    {{/each}}
+                    {{#each specGroups}}
+                    <li>
+                        <a class="layout-specgroup icon-sprite-before expand-link contains-children-true" href="#">{{name}}</a>
+                        <ul class="layout-checks expand-container">
+                            {{#each specs}}
+                                {{renderLayoutCheck this}}
+                            {{/each}}
+                        </ul>
+                    </li>
+                    {{/each}}
+                </ul>
+            </li>
+        </script>
+        <script id="report-layout-check-tpl" type="text/x-handlebars-template">
+            <li>
+            <a class="layout-check icon-sprite-before layout-check-status-{{status}}" href="#"
+                data-highlight-objects="{{commaSeparated highlight}}"
+                title="{{place.filePath}}#{{place.lineNumber}}"
+                >{{name}}</a>
+
+                {{#if errors}}
+                    <div class="layout-check-error-message">
+                        {{#if imageComparison}}
+                        <a class="image-comparison-link"
+                            data-actual-image="{{imageComparison.actualImage}}"
+                            data-expected-image="{{imageComparison.expectedImage}}"
+                            data-map-image="{{imageComparison.comparisonMapImage}}"
+                            href="#">Show image comparison</a>
+                        {{/if}}
+                        <div class="layout-check-error-message-text">
+                            <ul>
+                            {{#each errors}}
+                                <li>{{this}}</li>
+                            {{/each}}
+                        </ul>
+                    </div>
+                </div>
+                {{/if}}
+
+                {{#if subLayout}}
+                {{renderSublayout subLayout}}
+                {{/if}}
+            </li>
+        </script>
+        <script id="screenshot-popup-tpl" type="text/x-handlebars-template">
+            <div class="screenshot-canvas">
+                {{#if screenshot}}
+                <img src="{{screenshot}}"/>
+                {{else}}
+                <div class="empty-screenshot" style="width: {{width}}; height: {{height}};"></div>
+                {{/if}}
+                {{#each objects}}
+                <div class="canvas-rect" style="left: {{area.left}}px; top: {{area.top}}px; width: {{area.width}}px; height: {{area.height}}px; {{#if drawBorder}}border-color: {{color}};{{else}}border:none;{{/if}}{{#if fillBackground}}background: {{color}};{{else}}background:none;{{/if}}">
+                    <div class="canvas-rect-wrapper">
+                        <div class="canvas-rect-hint" style="background: {{color}};">{{name}}</div>
+                    </div>
+                </div>
+                {{/each}}
+            </div>
+        </script>
+        <script id="image-comparison-tpl" type="text/x-handlebars-template">
+            <div class="image-comparison image-comparison-layout-{{layout}}">
+                <div class="actual-image">
+                    <h5>Actual</h5>
+                    <img src="{{actual}}"/>
+                </div>
+
+                <div class="expected-image">
+                    <h5>Expected</h5>
+                    <img src="{{expected}}"/>
+                </div>
+
+                <div class="comparison-map">
+                    <h5>Comparison map</h5>
+                    <img src="{{map}}"/>
+                </div>
+            </div>
+        </script>
+        <script id="node-extras-tpl" type="text/x-handlebars-template">
+            <div class="node-extras">
+                <a class="node-extras" href="#">extras</a>
+                <div class="node-extras-content">
+                    <table class="node-extras-table">
+                        <tbody>
+                        {{#each this}}
+                        <tr>
+                            <td><label>{{@key}}</label></td>
+                            {{#ifCond type 'text'}}
+                            <td>{{value}}</td>
+                            {{/ifCond}}
+                            {{#ifCond type 'link'}}
+                            <td><a href="{{value}}">{{value}}</a></td>
+                            {{/ifCond}}
+                            {{#ifCond type 'image'}}
+                            <td><a href="{{value}}"><img src="{{value}}"/></a></td>
+                            {{/ifCond}}
+                        </tr>
+                        {{/each}}
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </script>
+
+
+
+        <div id="menu">
+            <ul>
+                <li><a href="report.html">Back to Test Overview</a></li>
+                <li><a class="menu-op-expand-all" href="#">Expand All</a></li>
+                <li><a class="menu-op-collapse-all" href="#">Collapse All</a></li>
+                <li><a class="menu-op-expand-errors" href="#">Expand Errors</a></li>
+            </ul>
+        </div>
+        <h2>demo.spec</h2>
+        <div id="main"></div>
+        <div id="screen-shadow"></div>
+        <div id="popup" class="popup">
+            <div class="popup-wrapper">
+                <a class="popup-close-link" href="#">close</a>
+                <div class="popup-content"></div>
+            </div>
+        </div>
+        <div id="notification" class="notification">
+            <div class="notification-wrapper">
+                <a class="notification-close-link" href="#">close</a>
+                <div class="notification-summary"></div>
+                <div class="notification-message"></div>
+            </div>
+        </div>
+    </body>
+</html>

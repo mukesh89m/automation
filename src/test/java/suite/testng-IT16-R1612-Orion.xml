@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="IT16-R16.12-LSRegressionSuite">
+    <classes>  
+		<class name="com.snapwiz.selenium.tests.staf.orion.testcases.IT16.R1612.EnhancementInstructorDashboard"/>
+    	<class name="com.snapwiz.selenium.tests.staf.orion.testcases.IT16.R1612.EnhancementMentorDashboard"/>
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->

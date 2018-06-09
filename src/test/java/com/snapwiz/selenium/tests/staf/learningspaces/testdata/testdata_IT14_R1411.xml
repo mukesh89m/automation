@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1411.MentorAbleToLoginToApplication" index="2" method="mentorAbleToLoginToApplication">
+		<user_id>IT14_R1411_mentor_22</user_id>
+		<Role>mentor</Role>
+		<context_id>studcontext_IT14_R1411_</context_id>
+		<context_title>studtitle_IT14_R1411_</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1411.MentorAbleToLoginToApplication" index="5" method="mentorAbleToLoginToApplicationForLSCourse">
+		<user_id>IT14_R14_11_mentor_5</user_id>
+		<Role>mentor</Role>
+		<course_type>ls</course_type>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1411.MentorAbleToLoginToApplication" index="13" method="mentorActivity">
+		<user_id>IT14_R14_11_mentor_13_2</user_id>
+		<Role>mentor</Role>
+		<context_id>studcontext_R14_13_1</context_id>
+		<context_title>studtitle_R14_13_1</context_title>
+		<assessmentname>13 Assessment</assessmentname>
+		<questionset>13 Question Set</questionset>
+		<questiontext>13 Test Question</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>studtitle_R14_13_1</shareWithInitialString>
+		<shareName>studtitle_R14_13_1</shareName>
+		<shareWithClass>true</shareWithClass>
+		<gradeable>true</gradeable>
+		<gradingpolicy>Grading policy text</gradingpolicy>
+		<duedate>28</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>This is an additional note</additionalnote>
+		<studentname>givenname family</studentname>
+        <assignmentpolicy>Policy Name</assignmentpolicy>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1411.MentorAbleToLoginToApplication" index="13_1" method="mentorActivity">
+		<user_id>IT14_R14_11_studen_5</user_id>
+		<Role>student</Role>
+		<context_id>studcontext_R14_13_1</context_id>
+		<context_title>studtitle_R14_13_1</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1411.MentorAbleToLoginToApplication" index="16" method="mentorInTwoClassSection">
+		<user_id>IT14_R14_11_mentor_16_4</user_id>
+		<Role>mentor</Role>
+		<context_id>studcontext_R14_11_16_3</context_id>
+		<context_title>studtitle_R14_11_16_3</context_title>
+		<custom_instructor_classlist>[]</custom_instructor_classlist>
+		<familyname>LastName16</familyname>
+		<givenname>FirstName16</givenname>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1411.MentorAbleToLoginToApplication" index="17" method="mentorInTwoClassSection">
+		<user_id>IT14_R14_11_mentor_16_4</user_id>
+		<Role>mentor</Role>
+		<context_id>studcontext_R14_11_17_3</context_id>
+		<context_title>studtitle_R14_11_17_3</context_title>
+		<custom_instructor_classlist>[]</custom_instructor_classlist>
+		<familyname>LastName17</familyname>
+		<givenname>FirstName17</givenname>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1411.MentorAbleToLoginToApplication" index="24" method="sharingWithMentor">
+		<user_id>IT14_R14_11_mentor_24</user_id>
+		<Role>mentor</Role>
+		<context_id>studcontext_R14_11_24</context_id>
+		<context_title>studtitle_R14_11_24</context_title>
+		<familyname>LastName24</familyname>
+		<givenname>FirstName24</givenname>
+		<shareWithInitialString>FirstName24</shareWithInitialString>
+		<shareName>FirstName24 LastName24</shareName>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1411.MentorAbleToLoginToApplication" index="24_1" method="sharingWithMentor">
+		<user_id>IT14_R14_11_stu_24</user_id>
+		<Role>student</Role>
+		<context_id>studcontext_R14_11_24</context_id>
+		<context_title>studtitle_R14_11_24</context_title>
+		<familyname>LastName24_1</familyname>
+		<givenname>FirstName24_1</givenname>
+	</testcase>
+</learningspaces>
+

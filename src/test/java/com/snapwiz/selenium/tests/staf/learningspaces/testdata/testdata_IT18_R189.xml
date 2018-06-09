@@ -1,0 +1,1018 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.DueDateField" index="9" method="assignLesson">
+        <user_id>IT18_R189_Instructor_9_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR189_9_1</context_id>
+        <context_title>studtitleR189_9_1</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.DueDateField" index="9_1" method="assignLesson">
+        <user_id>IT18_R189_Student_9_1_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR189_9_1</context_id>
+        <context_title>studtitleR189_9_1</context_title>
+        <familyname>LastName_R189_9_1</familyname>
+        <givenname>FirstName_R189_9_1</givenname>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+        <shareWithInitialString>FirstName_R189_9_1</shareWithInitialString>
+        <shareName>FirstName_R189_9_1 LastName_R189_9_1</shareName>
+        <shareWithClass>false</shareWithClass>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.DueDateField" index="9_2" method="assignLesson">
+        <user_id>IT18_R189_Student_9_2_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR189_9_1</context_id>
+        <context_title>studtitleR189_9_1</context_title>
+        <familyname>LastName_R189_9_2</familyname>
+        <givenname>FirstName_R189_9_2</givenname>
+        <duedate>27</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+        <shareWithInitialString>FirstName_R189_9_2</shareWithInitialString>
+        <shareName>FirstName_R189_9_2 LastName_R189_9_2</shareName>
+        <shareWithClass>false</shareWithClass>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.DueDateField" index="15" method="assignPicture">
+        <user_id>IT18_R189_Instructor_15_5</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR189_15_5</context_id>
+        <context_title>studtitleR189_15_5</context_title>
+        <custom_domain_name>POC</custom_domain_name>
+        <custom_domainid>POC</custom_domainid>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.DueDateField" index="151" method="assignPicture">
+        <user_id>IT18_R189_Student_15_5</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR189_15_5</context_id>
+        <context_title>studtitleR189_15_5</context_title>
+        <familyname>LastName_R189_15_5</familyname>
+        <givenname>FirstName_R189_15_5</givenname>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+        <shareWithInitialString>FirstName_R189_15_5</shareWithInitialString>
+        <shareName>FirstName_R189_15_5 LastName_R189_15_5</shareName>
+        <shareWithClass>false</shareWithClass>
+        <custom_domain_name>POC</custom_domain_name>
+        <custom_domainid>POC</custom_domainid>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.DueDateField" index="152" method="assignPicture">
+        <user_id>IT18_R189_Student_15_6</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR189_15_5</context_id>
+        <context_title>studtitleR189_15_5</context_title>
+        <familyname>LastName_R189_15_6</familyname>
+        <givenname>FirstName_R189_15_6</givenname>
+        <duedate>27</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+        <shareWithInitialString>FirstName_R189_15_6</shareWithInitialString>
+        <shareName>FirstName_R189_15_6 LastName_R189_15_6</shareName>
+        <shareWithClass>false</shareWithClass>
+        <custom_domain_name>POC</custom_domain_name>
+        <custom_domainid>POC</custom_domainid>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.DueDateField" index="27" method="assignResource">
+        <user_id>IT18_R189_Instructor_27_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR189_27_1</context_id>
+        <context_title>studtitleR189_27_1</context_title>
+        <resourcesname>resource name IT 18 R189_27</resourcesname>
+        <description>desc of resource</description>
+        <filename>img.png</filename>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+        <shareWithInitialString>FirstName_R189_27_1</shareWithInitialString>
+        <shareName>FirstName_R189_27_1 LastName_R189_27_1</shareName>
+        <shareWithClass>false</shareWithClass>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.DueDateField" index="27_1" method="assignResource">
+        <user_id>IT18_R189_Student_27_1_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR189_27_1</context_id>
+        <context_title>studtitleR189_27_1</context_title>
+        <familyname>LastName_R189_27_1</familyname>
+        <givenname>FirstName_R189_27_1</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.DueDateField" index="27_2" method="assignResource">
+        <user_id>IT18_R189_Student_27_2_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR189_27_1</context_id>
+        <context_title>studtitleR189_27_1</context_title>
+        <familyname>LastName_R189_27_2</familyname>
+        <givenname>FirstName_R189_27_2</givenname>
+        <duedate>27</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+        <shareWithInitialString>FirstName_R189_27_2</shareWithInitialString>
+        <shareName>FirstName_R189_27_2 LastName_R189_27_2</shareName>
+        <shareWithClass>false</shareWithClass>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.DueDateField" index="39" method="assignNonGradableDW">
+        <user_id>IT18_R189_Instructor_39_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR189_39_1</context_id>
+        <context_title>studtitleR189_39_1</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.DueDateField" index="39_1" method="assignNonGradableDW">
+        <user_id>IT18_R189_Student_39_1_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR189_39_1</context_id>
+        <context_title>studtitleR189_39_1</context_title>
+        <familyname>LastName_R189_39_1</familyname>
+        <givenname>FirstName_R189_39_1</givenname>
+        <gradable>false</gradable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+        <shareWithInitialString>FirstName_R189_39_1</shareWithInitialString>
+        <shareName>FirstName_R189_39_1 LastName_R189_39_1</shareName>
+        <shareWithClass>false</shareWithClass>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.DueDateField" index="39_2" method="assignNonGradableDW">
+        <user_id>IT18_R189_Student_39_2_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR189_39_1</context_id>
+        <context_title>studtitleR189_39_1</context_title>
+        <familyname>LastName_R189_39_2</familyname>
+        <givenname>FirstName_R189_39_2</givenname>
+        <duedate>27</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+        <shareWithInitialString>FirstName_R189_39_2</shareWithInitialString>
+        <shareName>FirstName_R189_39_2 LastName_R189_39_2</shareName>
+        <shareWithClass>false</shareWithClass>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.DueDateField" index="45" method="assignGradableDW">
+        <user_id>IT18_R189_Instructor_45_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR189_45_1</context_id>
+        <context_title>studtitleR189_45_1</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.DueDateField" index="45_1" method="assignGradableDW">
+        <user_id>IT18_R189_Student_45_1_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR189_45_1</context_id>
+        <context_title>studtitleR189_45_1</context_title>
+        <familyname>LastName_R189_45_1</familyname>
+        <givenname>FirstName_R189_45_1</givenname>
+        <gradable>true</gradable>
+        <gradingpolicy>grading policy text</gradingpolicy>
+        <totalpoints>2</totalpoints>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+        <shareWithInitialString>FirstName_R189_45_1</shareWithInitialString>
+        <shareName>FirstName_R189_45_1 LastName_R189_45_1</shareName>
+        <shareWithClass>false</shareWithClass>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.DueDateField" index="45_2" method="assignGradableDW">
+        <user_id>IT18_R189_Student_45_2_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR189_45_1</context_id>
+        <context_title>studtitleR189_45_1</context_title>
+        <familyname>LastName_R189_45_2</familyname>
+        <givenname>FirstName_R189_45_2</givenname>
+        <duedate>27</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+        <shareWithInitialString>FirstName_R189_45_2</shareWithInitialString>
+        <shareName>FirstName_R189_45_2 LastName_R189_45_2</shareName>
+        <shareWithClass>false</shareWithClass>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.DueDateField" index="51" method="nonGradableQuestionAssignment">
+        <user_id>IT18_R189_Instructor_51_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR189_51_1</context_id>
+        <context_title>studtitleR189_51_1</context_title>
+        <assessmentname>Assessment_IT18_R189_51</assessmentname>
+        <questionset>Question Set_IT18_R189_51</questionset>
+        <questiontext>Test Question_IT18_R189_51</questiontext>
+        <questiontype>Static Practice</questiontype>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.DueDateField" index="511" method="nonGradableQuestionAssignment">
+        <user_id>IT18_R189_Student_51_1_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR189_51_1</context_id>
+        <context_title>studtitleR189_51_1</context_title>
+        <familyname>LastName_R189_51_1</familyname>
+        <givenname>FirstName_R189_51_1</givenname>
+        <assessmentname>Assessment_IT18_R189_51</assessmentname>
+        <gradeable>false</gradeable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+        <shareWithInitialString>FirstName_R189_51_1</shareWithInitialString>
+        <shareName>FirstName_R189_51_1 LastName_R189_51_1</shareName>
+        <shareWithClass>false</shareWithClass>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.DueDateField" index="512" method="nonGradableQuestionAssignment">
+        <user_id>IT18_R189_Student_51_2_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR189_51_1</context_id>
+        <context_title>studtitleR189_51_1</context_title>
+        <familyname>LastName_R189_51_2</familyname>
+        <givenname>FirstName_R189_51_2</givenname>
+        <assessmentname>Assessment_IT18_R189_51</assessmentname>
+        <duedate>27</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+        <shareWithInitialString>FirstName_R189_51_2</shareWithInitialString>
+        <shareName>FirstName_R189_51_2 LastName_R189_51_2</shareName>
+        <shareWithClass>false</shareWithClass>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.DueDateField" index="57" method="gradableQuestionAssignmentWithNoPolicy">
+        <user_id>IT18_R189_Instructor_57_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR189_57_1</context_id>
+        <context_title>studtitleR189_57_1</context_title>
+        <assessmentname>Assessment_IT18_R189_57</assessmentname>
+        <questionset>Question Set_IT18_R189_57</questionset>
+        <questiontext>Test Question_IT18_R189_57</questiontext>
+        <questiontype>Static Practice</questiontype>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.DueDateField" index="571" method="gradableQuestionAssignmentWithNoPolicy">
+        <user_id>IT18_R189_Student_57_1_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR189_57_1</context_id>
+        <context_title>studtitleR189_57_1</context_title>
+        <familyname>LastName_R189_57_1</familyname>
+        <givenname>FirstName_R189_57_1</givenname>
+        <assessmentname>Assessment_IT18_R189_57</assessmentname>
+        <gradeable>true</gradeable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+        <shareWithInitialString>FirstName_R189_57_1</shareWithInitialString>
+        <shareName>FirstName_R189_57_1 LastName_R189_57_1</shareName>
+        <shareWithClass>false</shareWithClass>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.DueDateField" index="572" method="gradableQuestionAssignmentWithNoPolicy">
+        <user_id>IT18_R189_Student_57_2_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR189_57_1</context_id>
+        <context_title>studtitleR189_57_1</context_title>
+        <familyname>LastName_R189_57_2</familyname>
+        <givenname>FirstName_R189_57_2</givenname>
+        <assessmentname>Assessment_IT18_R189_57</assessmentname>
+        <gradeable>true</gradeable>
+        <duedate>27</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+        <shareWithInitialString>FirstName_R189_57_2</shareWithInitialString>
+        <shareName>FirstName_R189_57_2 LastName_R189_57_2</shareName>
+        <shareWithClass>false</shareWithClass>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.DueDateField" index="63" method="gradableQuestionAssignmentWithPolicy">
+        <user_id>IT18_R189_Instructor_63_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR189_63_1</context_id>
+        <context_title>studtitleR189_63_1</context_title>
+        <assessmentname>Assessment_IT18_R189_63</assessmentname>
+        <questionset>Question Set_IT18_R189_63</questionset>
+        <questiontext>Test Question_IT18_R189_63</questiontext>
+        <questiontype>Static Practice</questiontype>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.DueDateField" index="631" method="gradableQuestionAssignmentWithPolicy">
+        <user_id>IT18_R189_Student_63_1_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR189_63_1</context_id>
+        <context_title>studtitleR189_63_1</context_title>
+        <familyname>LastName_R189_63_1</familyname>
+        <givenname>FirstName_R189_63_1</givenname>
+        <assessmentname>Assessment_IT18_R189_63</assessmentname>
+        <gradeable>true</gradeable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+        <shareWithInitialString>FirstName_R189_63_1</shareWithInitialString>
+        <shareName>FirstName_R189_63_1 LastName_R189_63_1</shareName>
+        <shareWithClass>false</shareWithClass>
+        <assignmentpolicy>Policy name</assignmentpolicy>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.DueDateField" index="632" method="gradableQuestionAssignmentWithPolicy">
+        <user_id>IT18_R189_Student_63_2_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR189_63_1</context_id>
+        <context_title>studtitleR189_63_1</context_title>
+        <familyname>LastName_R189_63_2</familyname>
+        <givenname>FirstName_R189_63_2</givenname>
+        <assessmentname>Assessment_IT18_R189_63</assessmentname>
+        <gradeable>true</gradeable>
+        <duedate>27</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+        <shareWithInitialString>FirstName_R189_63_2</shareWithInitialString>
+        <shareName>FirstName_R189_63_2 LastName_R189_63_2</shareName>
+        <shareWithClass>false</shareWithClass>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.UpdateAssignmentWhenAssignmentInProgress" index="74" method="updateLessonAssignmentWhenAssignmentInProgress">
+        <user_id>IT18_R189_Instructor_74_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR189_74_1</context_id>
+        <context_title>studtitleR189_74_1</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.UpdateAssignmentWhenAssignmentInProgress" index="74_1" method="updateLessonAssignmentWhenAssignmentInProgress">
+        <user_id>IT18_R189_Student_74_1_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR189_74_1</context_id>
+        <context_title>studtitleR189_74_1</context_title>
+        <familyname>LastName_R189_74_1</familyname>
+        <givenname>FirstName_R189_74_1</givenname>
+        <duedate>01</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+        <shareWithInitialString>studtitleR189_74_1</shareWithInitialString>
+        <shareName>studtitleR189_74_1</shareName>
+        <shareWithClass>true</shareWithClass>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.UpdateAssignmentWhenAssignmentInProgress" index="74_2" method="updateLessonAssignmentWhenAssignmentInProgress">
+        <user_id>IT18_R189_Student_74_2_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR189_74_1</context_id>
+        <context_title>studtitleR189_74_1</context_title>
+        <familyname>LastName_R189_74_2</familyname>
+        <givenname>FirstName_R189_74_2</givenname>
+        <duedate>27</duedate>
+        <duetime>12:00 AM</duetime>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.UpdateAssignmentWhenAssignmentInProgress" index="84" method="updatePictureAssignmentWhenAssignmentInProgress">
+        <user_id>IT18_R189_Instructor_84_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR189_84_1</context_id>
+        <context_title>studtitleR189_84_1</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.UpdateAssignmentWhenAssignmentInProgress" index="84_1" method="updatePictureAssignmentWhenAssignmentInProgress">
+        <user_id>IT18_R189_Student_84_1_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR189_84_1</context_id>
+        <context_title>studtitleR189_84_1</context_title>
+        <familyname>LastName_R189_84_1</familyname>
+        <givenname>FirstName_R189_84_1</givenname>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+        <shareWithInitialString>studtitleR189_84_1</shareWithInitialString>
+        <shareName>studtitleR189_84_1</shareName>
+        <shareWithClass>true</shareWithClass>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.UpdateAssignmentWhenAssignmentInProgress" index="84_2" method="updatePictureAssignmentWhenAssignmentInProgress">
+        <user_id>IT18_R189_Student_84_2_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR189_84_1</context_id>
+        <context_title>studtitleR189_84_1</context_title>
+        <familyname>LastName_R189_84_2</familyname>
+        <givenname>FirstName_R189_84_2</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.UpdateAssignmentWhenAssignmentInProgress" index="114" method="updateCartAssignmentWhenAssignmentInProgress">
+        <user_id>IT18_R189_Instructor_114_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR189_114_1</context_id>
+        <context_title>studtitleR189_114_1</context_title>
+        <duedate>01</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+        <shareWithInitialString>studtitleR189_114_1</shareWithInitialString>
+        <shareName>studtitleR189_114_1</shareName>
+        <shareWithClass>true</shareWithClass>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.UpdateAssignmentWhenAssignmentInProgress" index="114_1" method="updateCartAssignmentWhenAssignmentInProgress">
+        <user_id>IT18_R189_Student_114_1_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR189_114_1</context_id>
+        <context_title>studtitleR189_114_1</context_title>
+        <familyname>LastName_R189_114_1</familyname>
+        <givenname>FirstName_R189_114_1</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.UpdateAssignmentWhenAssignmentInProgress" index="114_2" method="updateCartAssignmentWhenAssignmentInProgress">
+        <user_id>IT18_R189_Student_114_2_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR189_114_1</context_id>
+        <context_title>studtitleR189_114_1</context_title>
+        <familyname>LastName_R189_114_2</familyname>
+        <givenname>FirstName_R189_114_2</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.UpdateAssignmentWhenAssignmentInProgress" index="124" method="updateNonGradableDWAssignmentWhenAssignmentInProgress">
+        <user_id>IT18_R189_Instructor_124_1_2</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR189_124_1_2</context_id>
+        <context_title>studtitleR189_124_1_2</context_title>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <totalpoints>2</totalpoints>
+        <additionalnote>Description of the assignment</additionalnote>
+        <shareWithInitialString>studtitleR189_124_1_2</shareWithInitialString>
+        <shareName>studtitleR189_124_1_2</shareName>
+        <shareWithClass>true</shareWithClass>
+        <custom_domain_name>COJ</custom_domain_name>
+        <custom_domainid>COJ</custom_domainid>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.UpdateAssignmentWhenAssignmentInProgress" index="124_1" method="updateNonGradableDWAssignmentWhenAssignmentInProgress">
+        <user_id>IT18_R189_Student_124_1_1_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR189_124_1_2</context_id>
+        <context_title>studtitleR189_124_1_2</context_title>
+        <familyname>LastName_R189_124_1_2</familyname>
+        <givenname>FirstName_R189_124_1_2</givenname>
+        <custom_domain_name>COJ</custom_domain_name>
+        <custom_domainid>COJ</custom_domainid>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.UpdateAssignmentWhenAssignmentInProgress" index="124_2" method="updateNonGradableDWAssignmentWhenAssignmentInProgress">
+        <user_id>IT18_R189_Student_124_2_1_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR189_124_1_2</context_id>
+        <context_title>studtitleR189_124_1_2</context_title>
+        <familyname>LastName_R189_124_2_1</familyname>
+        <givenname>FirstName_R189_124_2_1</givenname>
+        <custom_domain_name>COJ</custom_domain_name>
+        <custom_domainid>COJ</custom_domainid>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.UpdateAssignmentWhenAssignmentInProgress" index="134" method="updateGradableDWAssignmentWhenAssignmentInProgress">
+        <user_id>IT18_R189_Instructor_134_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR189_134_1</context_id>
+        <context_title>studtitleR189_134_1</context_title>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradingpolicy>gradingpolicy text</gradingpolicy>
+        <totalpoints>2</totalpoints>
+        <additionalnote>Description of the assignment</additionalnote>
+        <shareWithInitialString>studtitleR189_134_1</shareWithInitialString>
+        <shareName>studtitleR189_134_1</shareName>
+        <shareWithClass>true</shareWithClass>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.UpdateAssignmentWhenAssignmentInProgress" index="134_1" method="updateGradableDWAssignmentWhenAssignmentInProgress">
+        <user_id>IT18_R189_Student_134_1_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR189_134_1</context_id>
+        <context_title>studtitleR189_134_1</context_title>
+        <familyname>LastName_R189_134_1</familyname>
+        <givenname>FirstName_R189_134_1</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.UpdateAssignmentWhenAssignmentInProgress" index="134_2" method="updateGradableDWAssignmentWhenAssignmentInProgress">
+        <user_id>IT18_R189_Student_134_2_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR189_134_1</context_id>
+        <context_title>studtitleR189_134_1</context_title>
+        <familyname>LastName_R189_134_2</familyname>
+        <givenname>FirstName_R189_134_2</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.UpdateAssignmentWhenAssignmentInProgress" index="144" method="updateNonGradableQuestionAssignmentWhenAssignmentInProgress">
+        <user_id>IT18_R189_Instructor_144_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR189_144_1</context_id>
+        <context_title>studtitleR189_144_1</context_title>
+        <assessmentname>Assessment_IT18_R189_144</assessmentname>
+        <questionset>Question Set_IT18_R189_144</questionset>
+        <questiontext>Test Question_IT18_R189_144</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradeable>false</gradeable>
+        <gradingpolicy>gradingpolicy text</gradingpolicy>
+        <totalpoints>2</totalpoints>
+        <additionalnote>Description of the assignment</additionalnote>
+        <shareWithInitialString>studtitleR189_144_1</shareWithInitialString>
+        <shareName>studtitleR189_144_1</shareName>
+        <shareWithClass>true</shareWithClass>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.UpdateAssignmentWhenAssignmentInProgress" index="144_1" method="updateNonGradableQuestionAssignmentWhenAssignmentInProgress">
+        <user_id>IT18_R189_Student_144_1_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR189_144_1</context_id>
+        <context_title>studtitleR189_144_1</context_title>
+        <familyname>LastName_R189_144_1</familyname>
+        <givenname>FirstName_R189_144_1</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.UpdateAssignmentWhenAssignmentInProgress" index="144_2" method="updateNonGradableQuestionAssignmentWhenAssignmentInProgress">
+        <user_id>IT18_R189_Student_144_2_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR189_144_1</context_id>
+        <context_title>studtitleR189_144_1</context_title>
+        <familyname>LastName_R189_144_2</familyname>
+        <givenname>FirstName_R189_144_2</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.UpdateAssignmentWhenAssignmentInProgress" index="154" method="updateGradableQuestionAssignmentWithNoPolicyWhenAssignmentInProgress">
+        <user_id>IT18_R189_Instructor_154_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR189_154_1</context_id>
+        <context_title>studtitleR189_154_1</context_title>
+        <assessmentname>Assessment_IT18_R189_154</assessmentname>
+        <questionset>Question Set_IT18_R189_154</questionset>
+        <questiontext>Test Question_IT18_R189_154</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradeable>true</gradeable>
+        <gradingpolicy>gradingpolicy text</gradingpolicy>
+        <totalpoints>2</totalpoints>
+        <additionalnote>Description of the assignment</additionalnote>
+        <shareWithInitialString>studtitleR189_154_1</shareWithInitialString>
+        <shareName>studtitleR189_154_1</shareName>
+        <shareWithClass>true</shareWithClass>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.UpdateAssignmentWhenAssignmentInProgress" index="154_1" method="updateGradableQuestionAssignmentWithNoPolicyWhenAssignmentInProgress">
+        <user_id>IT18_R189_Student_154_1_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR189_154_1</context_id>
+        <context_title>studtitleR189_154_1</context_title>
+        <familyname>LastName_R189_154_1</familyname>
+        <givenname>FirstName_R189_154_1</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.UpdateAssignmentWhenAssignmentInProgress" index="154_2" method="updateGradableQuestionAssignmentWithNoPolicyWhenAssignmentInProgress">
+        <user_id>IT18_R189_Student_154_2_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR189_154_1</context_id>
+        <context_title>studtitleR189_154_1</context_title>
+        <familyname>LastName_R189_154_2</familyname>
+        <givenname>FirstName_R189_154_2</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.UpdateAssignmentWhenAssignmentInProgress" index="164" method="updateGradableQuestionAssignmentWithPolicyWhenAssignmentInProgress">
+        <user_id>IT18_R189_Instructor_164_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR189_164_1</context_id>
+        <context_title>studtitleR189_164_1</context_title>
+        <assessmentname>Assessment_IT18_R189_164</assessmentname>
+        <questionset>Question Set_IT18_R189_164</questionset>
+        <questiontext>Test Question_IT18_R189_164</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <assignmentpolicy>Policy name</assignmentpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradeable>true</gradeable>
+        <gradingpolicy>gradingpolicy text</gradingpolicy>
+        <totalpoints>2</totalpoints>
+        <additionalnote>Description of the assignment</additionalnote>
+        <shareWithInitialString>studtitleR189_164_1</shareWithInitialString>
+        <shareName>studtitleR189_164_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <assignmentpolicyname>Policy name</assignmentpolicyname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.UpdateAssignmentWhenAssignmentInProgress" index="164_1" method="updateGradableQuestionAssignmentWithPolicyWhenAssignmentInProgress">
+        <user_id>IT18_R189_Student_164_1_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR189_164_1</context_id>
+        <context_title>studtitleR189_164_1</context_title>
+        <familyname>LastName_R189_164_1</familyname>
+        <givenname>FirstName_R189_164_1</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.UpdateAssignmentWhenAssignmentInProgress" index="164_2" method="updateGradableQuestionAssignmentWithPolicyWhenAssignmentInProgress">
+        <user_id>IT18_R189_Student_164_2_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR189_164_1</context_id>
+        <context_title>studtitleR189_164_1</context_title>
+        <familyname>LastName_R189_164_2</familyname>
+        <givenname>FirstName_R189_164_2</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.UpdateAssignmentWhenAssignmentSubmitted" index="185" method="updateNonGradableQuestionAssignmentWhenAssignmentSubmitted">
+        <user_id>IT18_R189_Instructor_185_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR189_185_1</context_id>
+        <context_title>studtitleR189_185_1</context_title>
+        <assessmentname>Assessment_IT18_R189_185</assessmentname>
+        <questionset>Question Set_IT18_R189_185</questionset>
+        <questiontext>Test Question_IT18_R189_185</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradeable>false</gradeable>
+        <gradingpolicy>gradingpolicy text</gradingpolicy>
+        <totalpoints>2</totalpoints>
+        <additionalnote>Description of the assignment</additionalnote>
+        <shareWithInitialString>studtitleR189_185_1</shareWithInitialString>
+        <shareName>studtitleR189_185_1</shareName>
+        <shareWithClass>true</shareWithClass>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.UpdateAssignmentWhenAssignmentSubmitted" index="185_1" method="updateNonGradableQuestionAssignmentWhenAssignmentSubmitted">
+        <user_id>IT18_R189_Student_185_1_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR189_185_1</context_id>
+        <context_title>studtitleR189_185_1</context_title>
+        <familyname>LastName_R189_185_1</familyname>
+        <givenname>FirstName_R189_185_1</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.UpdateAssignmentWhenAssignmentSubmitted" index="185_2" method="updateNonGradableQuestionAssignmentWhenAssignmentSubmitted">
+        <user_id>IT18_R189_Student_185_2_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR189_185_1</context_id>
+        <context_title>studtitleR189_185_1</context_title>
+        <familyname>LastName_R189_185_2</familyname>
+        <givenname>FirstName_R189_185_2</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.UpdateAssignmentWhenAssignmentSubmitted" index="195" method="updateGradableQuestionAssignmentWithNoPolicyWhenAssignmentSubmitted">
+        <user_id>IT18_R189_Instructor_195_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR189_195_1</context_id>
+        <context_title>studtitleR189_195_1</context_title>
+        <assessmentname>Assessment_IT18_R189_195</assessmentname>
+        <questionset>Question Set_IT18_R189_195</questionset>
+        <questiontext>Test Question_IT18_R189_195</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradeable>true</gradeable>
+        <gradingpolicy>gradingpolicy text</gradingpolicy>
+        <totalpoints>2</totalpoints>
+        <additionalnote>Description of the assignment</additionalnote>
+        <shareWithInitialString>studtitleR189_195_1</shareWithInitialString>
+        <shareName>studtitleR189_195_1</shareName>
+        <shareWithClass>true</shareWithClass>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.UpdateAssignmentWhenAssignmentSubmitted" index="195_1" method="updateGradableQuestionAssignmentWithNoPolicyWhenAssignmentSubmitted">
+        <user_id>IT18_R189_Student_195_1_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR189_195_1</context_id>
+        <context_title>studtitleR189_195_1</context_title>
+        <familyname>LastName_R189_195_1</familyname>
+        <givenname>FirstName_R189_195_1</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.UpdateAssignmentWhenAssignmentSubmitted" index="195_2" method="updateGradableQuestionAssignmentWithNoPolicyWhenAssignmentSubmitted">
+        <user_id>IT18_R189_Student_195_2_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR189_195_1</context_id>
+        <context_title>studtitleR189_195_1</context_title>
+        <familyname>LastName_R189_195_2</familyname>
+        <givenname>FirstName_R189_195_2</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.UpdateAssignmentWhenAssignmentSubmitted" index="205" method="updateGradableQuestionAssignmentWithPolicyWhenAssignmentSubmitted">
+        <user_id>IT18_R189_Instructor_205_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR189_205_1</context_id>
+        <context_title>studtitleR189_205_1</context_title>
+        <assessmentname>Assessment_IT18_R189_205</assessmentname>
+        <questionset>Question Set_IT18_R189_205</questionset>
+        <questiontext>Test Question_IT18_R189_205</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <assignmentpolicy>Policy name</assignmentpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradeable>true</gradeable>
+        <gradingpolicy>gradingpolicy text</gradingpolicy>
+        <totalpoints>2</totalpoints>
+        <additionalnote>Description of the assignment</additionalnote>
+        <shareWithInitialString>studtitleR189_205_1</shareWithInitialString>
+        <shareName>studtitleR189_205_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <assignmentpolicyname>Policy name</assignmentpolicyname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.UpdateAssignmentWhenAssignmentSubmitted" index="205_1" method="updateGradableQuestionAssignmentWithPolicyWhenAssignmentSubmitted">
+        <user_id>IT18_R189_Student_205_1_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR189_205_1</context_id>
+        <context_title>studtitleR189_205_1</context_title>
+        <familyname>LastName_R189_205_1</familyname>
+        <givenname>FirstName_R189_205_1</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.UpdateAssignmentWhenAssignmentSubmitted" index="205_2" method="updateGradableQuestionAssignmentWithPolicyWhenAssignmentSubmitted">
+        <user_id>IT18_R189_Student_205_2_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR189_205_1</context_id>
+        <context_title>studtitleR189_205_1</context_title>
+        <familyname>LastName_R189_205_2</familyname>
+        <givenname>FirstName_R189_205_2</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.UpdateAssignmentWhenAssignmentSubmitted" index="145" method="updateResourceAssignmentWhenAssignmentSubmitted">
+        <user_id>IT18_R189_Instructor_145_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR189_145_1</context_id>
+        <context_title>studtitleR189_145_1</context_title>
+        <resourcesname>resource name IT 18 R189_145</resourcesname>
+        <description>desc of resource</description>
+        <filename>img.png</filename>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+        <shareWithInitialString>studtitleR189_145_1</shareWithInitialString>
+        <shareName>studtitleR189_145_1</shareName>
+        <shareWithClass>true</shareWithClass>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.UpdateAssignmentWhenAssignmentSubmitted" index="145_1" method="updateResourceAssignmentWhenAssignmentSubmitted">
+        <user_id>IT18_R189_Student_145_1_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR189_145_1</context_id>
+        <context_title>studtitleR189_145_1</context_title>
+        <familyname>LastName_R189_145_1</familyname>
+        <givenname>FirstName_R189_145_1</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.UpdateAssignmentWhenAssignmentSubmitted" index="145_2" method="updateResourceAssignmentWhenAssignmentSubmitted">
+        <user_id>IT18_R189_Student_145_2_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR189_145_1</context_id>
+        <context_title>studtitleR189_145_1</context_title>
+        <familyname>LastName_R189_145_2</familyname>
+        <givenname>FirstName_R189_145_2</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.UpdateAssignmentWhenAssignmentGraded" index="216" method="updateGradableQuestionAssignmentWithPolicyWhenAssignmentGraded">
+        <user_id>IT18_R189_Instructor_216_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR189_216_1</context_id>
+        <context_title>studtitleR189_216_1</context_title>
+        <assessmentname>Assessment_IT18_R189_216</assessmentname>
+        <questionset>Question Set_IT18_R189_216</questionset>
+        <questiontext>Test Question_IT18_R189_216</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <assignmentpolicy>Policy name</assignmentpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradeable>true</gradeable>
+        <gradingpolicy>gradingpolicy text</gradingpolicy>
+        <totalpoints>2</totalpoints>
+        <additionalnote>Description of the assignment</additionalnote>
+        <shareWithInitialString>studtitleR189_216_1</shareWithInitialString>
+        <shareName>studtitleR189_216_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <assignmentpolicyname>Policy name</assignmentpolicyname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.UpdateAssignmentWhenAssignmentGraded" index="216_1" method="updateGradableQuestionAssignmentWithPolicyWhenAssignmentGraded">
+        <user_id>IT18_R189_Student_216_1_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR189_216_1</context_id>
+        <context_title>studtitleR189_216_1</context_title>
+        <familyname>LastName_R189_216_1</familyname>
+        <givenname>FirstName_R189_216_1</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.UpdateAssignmentWhenAssignmentGraded" index="216_2" method="updateGradableQuestionAssignmentWithPolicyWhenAssignmentGraded">
+        <user_id>IT18_R189_Student_216_2_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR189_216_1</context_id>
+        <context_title>studtitleR189_216_1</context_title>
+        <familyname>LastName_R189_216_2</familyname>
+        <givenname>FirstName_R189_216_2</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.UpdateAssignmentWhenAssignmentGraded" index="227" method="noUpdateLinkAfterAssignmentSubmissionByAllStudent">
+        <user_id>IT18_R189_Instructor_227_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextIT18_R189_227_1</context_id>
+        <context_title>studtitleIT18_R189_227_1</context_title>
+        <assessmentname>Assessment_IT18_R189_227</assessmentname>
+        <questionset>Question Set_IT18_R189_227</questionset>
+        <questiontext>Test Question_IT18_R189_227</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradeable>true</gradeable>
+        <gradingpolicy>gradingpolicy text</gradingpolicy>
+        <totalpoints>2</totalpoints>
+        <additionalnote>Description of the assignment</additionalnote>
+        <shareWithInitialString>studtitleIT18_R189_227_1</shareWithInitialString>
+        <shareName>studtitleIT18_R189_227_1</shareName>
+        <shareWithClass>true</shareWithClass>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.UpdateAssignmentWhenAssignmentGraded" index="227_1" method="noUpdateLinkAfterAssignmentSubmissionByAllStudent">
+        <user_id>IT18_R189_Student_227_1_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextIT18_R189_227_1</context_id>
+        <context_title>studtitleIT18_R189_227_1</context_title>
+        <familyname>LastName_R189_227_1</familyname>
+        <givenname>FirstName_R189_227_1</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.UpdateAssignmentWhenAssignmentGraded" index="227_2" method="noUpdateLinkAfterAssignmentSubmissionByAllStudent">
+        <user_id>IT18_R189_Student_227_2_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextIT18_R189_227_1</context_id>
+        <context_title>studtitleIT18_R189_227_1</context_title>
+        <familyname>LastName_R189_227_2</familyname>
+        <givenname>FirstName_R189_227_2</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.VisibilityOfExtendDueDate" index="233" method="visibilityOfExtendDueDateForInstructor">
+        <user_id>IT18_R189_Instructor_233_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR189_233_1</context_id>
+        <context_title>studtitleR189_233_1</context_title>
+        <assessmentname>Assessment_IT18_R189_233</assessmentname>
+        <questionset>Question Set_IT18_R189_233</questionset>
+        <questiontext>Test Question_IT18_R189_233</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradeable>false</gradeable>
+        <gradingpolicy>gradingpolicy text</gradingpolicy>
+        <totalpoints>2</totalpoints>
+        <additionalnote>Description of the assignment</additionalnote>
+        <shareWithInitialString>studtitleR189_233_1</shareWithInitialString>
+        <shareName>studtitleR189_233_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <newduedate>27</newduedate>
+        <custom_domain_name>COD</custom_domain_name>
+        <custom_domainid>COD</custom_domainid>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.VisibilityOfExtendDueDate" index="233_1" method="visibilityOfExtendDueDateForInstructor">
+        <user_id>IT18_R189_Student_233_8</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR189_233_1</context_id>
+        <context_title>studtitleR189_233_1</context_title>
+        <familyname>LastName_R189_233_5</familyname>
+        <givenname>FirstName_R189_233_5</givenname>
+        <custom_domain_name>COD</custom_domain_name>
+        <custom_domainid>COD</custom_domainid>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.VisibilityOfExtendDueDate" index="233_2" method="visibilityOfExtendDueDateForInstructor">
+        <user_id>IT18_R189_Student_233_9</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR189_233_1</context_id>
+        <context_title>studtitleR189_233_1</context_title>
+        <familyname>LastName_R189_233_6</familyname>
+        <givenname>FirstName_R189_233_6</givenname>
+        <custom_domain_name>COD</custom_domain_name>
+        <custom_domainid>COD</custom_domainid>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.VisibilityOfExtendDueDate" index="237" method="extendDueDateForStudent">
+        <user_id>IT18_R189_Instructor_237_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR189_237_1</context_id>
+        <context_title>studtitleR189_237_1</context_title>
+        <assessmentname>Assessment_IT18_R189_237</assessmentname>
+        <questionset>Question Set_IT18_R189_237</questionset>
+        <questiontext>Test Question_IT18_R189_237</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradeable>false</gradeable>
+        <gradingpolicy>gradingpolicy text</gradingpolicy>
+        <totalpoints>2</totalpoints>
+        <additionalnote>Description of the assignment</additionalnote>
+        <shareWithInitialString>studtitleR189_237_1</shareWithInitialString>
+        <shareName>studtitleR189_237_1</shareName>
+        <shareWithClass>true</shareWithClass>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.VisibilityOfExtendDueDate" index="237_1" method="extendDueDateForStudent">
+        <user_id>IT18_R189_Student_237_1_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR189_237_1</context_id>
+        <context_title>studtitleR189_237_1</context_title>
+        <familyname>LastName_R189_237_1</familyname>
+        <givenname>FirstName_R189_237_1</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.VisibilityOfExtendDueDate" index="237_2" method="extendDueDateForStudent">
+        <user_id>IT18_R189_Student_237_2_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR189_237_1</context_id>
+        <context_title>studtitleR189_237_1</context_title>
+        <familyname>LastName_R189_237_2</familyname>
+        <givenname>FirstName_R189_237_2</givenname>
+        <gradeable>false</gradeable>
+        <assessmentname>Assessment_IT18_R189_237</assessmentname>
+        <shareWithInitialString>FirstName_R189_237_2</shareWithInitialString>
+        <shareName>FirstName_R189_237_2 LastName_R189_237_2</shareName>
+        <shareWithClass>false</shareWithClass>
+        <newduedate>27</newduedate>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.VisibilityOfExtendDueDate" index="245" method="visibilityOfExtendDueDateInAssignmentTab">
+        <user_id>IT18_R189_Instructor_245_2</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextIT18_R189_245_1</context_id>
+        <context_title>studtitleIT18_R189_245_1</context_title>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+        <shareWithInitialString>studtitleIT18_R189_245_1</shareWithInitialString>
+        <shareName>studtitleIT18_R189_245_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <newduedate>27</newduedate>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.VisibilityOfExtendDueDate" index="245_1" method="visibilityOfExtendDueDateInAssignmentTab">
+        <user_id>IT18_R189_Student_245_1_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontextIT18_R189_245_1</context_id>
+        <context_title>studtitleIT18_R189_245_1</context_title>
+        <familyname>LastName_R189_245_1</familyname>
+        <givenname>FirstName_R189_245_1</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.VisibilityOfExtendDueDate" index="245_2" method="visibilityOfExtendDueDateInAssignmentTab">
+        <user_id>IT18_R189_Student_245_2_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontextIT18_R189_245_1</context_id>
+        <context_title>studtitleIT18_R189_245_1</context_title>
+        <familyname>LastName_R189_245_2</familyname>
+        <givenname>FirstName_R189_245_2</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.VisibilityOfExtendDueDate" index="248" method="visibilityOfExtendDueDateInAssignmentTabWhenExtendedForStudent">
+        <user_id>IT18_R189_Instructor_248_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR189_248_1</context_id>
+        <context_title>studtitleR189_248_1</context_title>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+        <shareWithInitialString>studtitleR189_248_1</shareWithInitialString>
+        <shareName>studtitleR189_248_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <newduedate>27</newduedate>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.VisibilityOfExtendDueDate" index="248_1" method="visibilityOfExtendDueDateInAssignmentTabWhenExtendedForStudent">
+        <user_id>IT18_R189_Student_248_1_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR189_248_1</context_id>
+        <context_title>studtitleR189_248_1</context_title>
+        <familyname>LastName_R189_248_1</familyname>
+        <givenname>FirstName_R189_248_1</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.VisibilityOfExtendDueDate" index="248_2" method="visibilityOfExtendDueDateInAssignmentTabWhenExtendedForStudent">
+        <user_id>IT18_R189_Student_248_2_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR189_248_1</context_id>
+        <context_title>studtitleR189_248_1</context_title>
+        <familyname>LastName_R189_248_2</familyname>
+        <givenname>FirstName_R189_248_2</givenname>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+        <shareWithInitialString>FirstName_R189_248_2</shareWithInitialString>
+        <shareName>FirstName_R189_248_2 LastName_R189_248_2</shareName>
+        <shareWithClass>false</shareWithClass>
+        <newduedate>27</newduedate>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.VisibilityOfExtendDueDate" index="250" method="visibilityOfExtendDueDateInCourseStream">
+        <user_id>IT18_R189_Instructor_250_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR189_250_1</context_id>
+        <context_title>studtitleR189_250_1</context_title>
+        <assessmentname>Assessment_IT18_R189_250</assessmentname>
+        <questionset>Question Set_IT18_R189_250</questionset>
+        <questiontext>Test Question_IT18_R189_250</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradeable>false</gradeable>
+        <gradingpolicy>gradingpolicy text</gradingpolicy>
+        <totalpoints>2</totalpoints>
+        <additionalnote>Description of the assignment</additionalnote>
+        <shareWithInitialString>studtitleR189_250_1</shareWithInitialString>
+        <shareName>studtitleR189_250_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <newduedate>27</newduedate>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.VisibilityOfExtendDueDate" index="250_1" method="visibilityOfExtendDueDateInCourseStream">
+        <user_id>IT18_R189_Student_250_1_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR189_250_1</context_id>
+        <context_title>studtitleR189_250_1</context_title>
+        <familyname>LastName_R189_250_1</familyname>
+        <givenname>FirstName_R189_250_1</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.VisibilityOfExtendDueDate" index="250_2" method="visibilityOfExtendDueDateInCourseStream">
+        <user_id>IT18_R189_Student_250_2_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR189_250_1</context_id>
+        <context_title>studtitleR189_250_1</context_title>
+        <familyname>LastName_R189_250_2</familyname>
+        <givenname>FirstName_R189_250_2</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.VisibilityOfExtendDueDate" index="253" method="visibilityOfExtendDueDateInCourseStreamWhenExtendedForStudent">
+        <user_id>IT18_R189_Instructor_253_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR189_253_1</context_id>
+        <context_title>studtitleR189_253_1</context_title>
+        <assessmentname>Assessment_IT18_R189_253</assessmentname>
+        <questionset>Question Set_IT18_R189_253</questionset>
+        <questiontext>Test Question_IT18_R189_253</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradeable>false</gradeable>
+        <gradingpolicy>gradingpolicy text</gradingpolicy>
+        <totalpoints>2</totalpoints>
+        <additionalnote>Description of the assignment</additionalnote>
+        <shareWithInitialString>studtitleR189_253_1</shareWithInitialString>
+        <shareName>studtitleR189_253_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <newduedate>27</newduedate>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.VisibilityOfExtendDueDate" index="253_1" method="visibilityOfExtendDueDateInCourseStreamWhenExtendedForStudent">
+        <user_id>IT18_R189_Student_253_1_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR189_253_1</context_id>
+        <context_title>studtitleR189_253_1</context_title>
+        <familyname>LastName_R189_253_1</familyname>
+        <givenname>FirstName_R189_253_1</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R189.VisibilityOfExtendDueDate" index="253_2" method="visibilityOfExtendDueDateInCourseStreamWhenExtendedForStudent">
+        <user_id>IT18_R189_Student_253_2_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR189_253_1</context_id>
+        <context_title>studtitleR189_253_1</context_title>
+        <familyname>LastName_R189_253_2</familyname>
+        <givenname>FirstName_R189_253_2</givenname>
+        <assessmentname>Assessment_IT18_R189_253</assessmentname>
+        <shareWithInitialString>FirstName_R189_253_2</shareWithInitialString>
+        <shareName>FirstName_R189_253_2 LastName_R189_253_2</shareName>
+        <shareWithClass>false</shareWithClass>
+        <newduedate>27</newduedate>
+    </testcase>
+</learningspaces>

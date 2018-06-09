@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false" preserve-order="true" configfailurepolicy="continue">
+    <listeners>
+        <listener class-name="com.snapwiz.selenium.tests.staf.learningspaces.CustomListener" />
+    </listeners>
+    <test name="IT 17 Jenkins Suite">
+        <groups>
+            <run>
+                <exclude name = "bugsLogged"/>
+            </run>
+        </groups>
+        <classes>
+
+            <!-- Total number of surrent testcases are 165-->
+
+            <!-- IT17 R17.1 -->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R171.BulkOperationsDropDown"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R171.CopyAssessmentFromBrowser"/>
+
+
+
+            <!-- IT17 R17.3 As an author, I should be able to filter based on media questions in the search and browse screen-->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R173.NewFilterSearchAndBrowserScreen"/>
+
+            <!-- IT17 R17.4 Disable delete option for resource for "SME" user-->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R174.DisableDeleteOptionForResource_SME"/>
+
+
+            <!-- IT17 R17.6 As an author, I should be able to add “score” for each question-->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R176.AddScoreForEachQuestion"/>
+
+            <!-- IT17 R17.7 Enhancements to assignability flow-->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Instructor"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Mentor"/>
+
+            <!-- IT17 R17.14 Multi-part question for static Assessments with Question parts as Independent -->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AuthorShouldBeAbleToPreviewMPQ"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AuthorShouldBeAbleToSearchMPQ"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AuthorShouldBeAbleToViewMPQInSummaryPage"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQuestionForStaticAssessmentsWithQuestionPartsAsIndependent"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MultiPartQuestionForStaticAssessment"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.MPQVersionTracker"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignment"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AssigningMPQAssignmentAsMentor"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1714.AttemptingMPQAssessmentAsStudent"/>
+
+
+            <!-- IT17 R17.21 -->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721.CapturingAuthorAndCreationDateForQues"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721.CapturingAuthorAndCreationDateForQuestionCreated_ProductDesigner"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721.CapturingAuthorAndCreationDateForQuestionCreated_SubjectMatterExpert"/>
+
+
+
+            <!-- IT17 R17.21 Upload KMZ file type resource by instructor  -->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Instructor"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Mentor"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Mentor_DIfferentUserId"/>
+
+
+            <!-- IT17 R17.22-->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1722.DefaultViewOnSummaryPage"/>
+
+
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->

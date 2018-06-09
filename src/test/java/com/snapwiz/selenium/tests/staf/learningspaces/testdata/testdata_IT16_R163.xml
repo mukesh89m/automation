@@ -1,0 +1,282 @@
+<?xml version="1.0"?>
+<learningspaces>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R163.RestructuringOfMainNavigator" index="2" method="restructuringOfMainNavigator">
+        <user_id>instructor_IT16_R163_2_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R163_2_1</context_id>
+        <context_title>studtitle_IT16_R163_2_1</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R163.RestructuringOfMainNavigator" index="7" method="enhancementToResourcePage">
+        <user_id>instructor_IT16_R163_7_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R163_7_1</context_id>
+        <context_title>studtitle_IT16_R163_7_1</context_title>
+        <filename>img.png</filename>
+        <resourcesname>resources7</resourcesname>
+        <description>7 this is descrption</description>
+        <gradingpolicystatus>false</gradingpolicystatus>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R163.AllResourceTabFunctionality" index="23" method="allResourceTabFunctionality">
+        <user_id>instructor_IT16_R163_23_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R163_23_1</context_id>
+        <context_title>studtitle_IT16_R163_23_1</context_title>
+        <filename>img.png</filename>
+        <resourcesname>resources23</resourcesname>
+        <description>23 this is descrption</description>
+        <gradingpolicystatus>true</gradingpolicystatus>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R163.AllResourceTabFunctionality" index="23_1" method="allResourceTabFunctionality">
+        <filename>img.png</filename>
+        <resourcesname>resources23_1</resourcesname>
+        <description>23_1 this is descrption</description>
+        <gradingpolicystatus>true</gradingpolicystatus>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R163.AllResourceTabFunctionality" index="32" method="uploadAndDeleteResource">
+        <user_id>instructor_IT16_R163_32_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R163_32_1</context_id>
+        <context_title>studtitle_IT16_R163_32_1</context_title>
+        <filename>img.png</filename>
+        <resourcesname>resources32</resourcesname>
+        <description>32 this is descrption</description>
+        <gradingpolicystatus>false</gradingpolicystatus>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R163.AllResourceTabFunctionality" index="32_1" method="uploadAndDeleteResource">
+        <user_id>student_IT16_R163_32_1_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R163_32_1</context_id>
+        <context_title>studtitle_IT16_R163_32_1</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R163.SupportForQuestionBanksPage" index="42" method="supportForQuestionBanksPage">
+        <user_id>instructor_IT16_R163_42_1_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R163_42_1</context_id>
+        <context_title>studtitle_IT16_R163_42_1</context_title>
+        <assessmentname>42_1 Assessment</assessmentname>
+        <questionset>42 Question Set</questionset>
+        <questiontext>42 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R163.SupportForQuestionBanksPage" index="43" method="supportForQuestionBanksPage">
+        <user_id>instructor_IT16_R163_42_1_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R163_42_1</context_id>
+        <context_title>studtitle_IT16_R163_42_1</context_title>
+        <assessmentname>43_1 Assessment</assessmentname>
+        <questionset>43 Question Set</questionset>
+        <questiontext>43 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>stud</shareWithInitialString>
+        <shareName>studtitle_IT16_R163_42_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R163.EnhancementToCustomizeThisFlow" index="69" method="enhancementToCustomizeThisFlow">
+        <user_id>instructor_IT16_R163_69</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R163_69</context_id>
+        <context_title>studtitle_IT16_R163_69</context_title>
+        <assessmentname>69 Assessment</assessmentname>
+        <questionset>69 Question Set</questionset>
+        <questiontext>69</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <name>IT16_R163_69CustomAssignment</name>
+        <shareWithInitialString>studtitle_IT16_R163_69</shareWithInitialString>
+        <shareName>studtitle_IT16_R163_69</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <customassignmentname>IT16_R163_69CustomAssignment</customassignmentname>
+        <name2>IT16_R163_69CustomAssignment2</name2>
+        <noOfQuestions>1</noOfQuestions>
+        <searchquestion>True False 69</searchquestion>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R163.InstructorAbleToViewAllResourcesQuestionBanksAcrossAllClassSections" index="104" method="instructorAbleToViewAllResourcesQuestionBanksAcrossAllClassSections">
+        <user_id>instructor_IT16_R163_104_2</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R163_104_2</context_id>
+        <context_title>studtitle_IT16_R163_104_2</context_title>
+        <assessmentname>104 Assessment</assessmentname>
+        <questionset>104 Question Set</questionset>
+        <questiontext>104</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <filename>img.png</filename>
+        <resourcesname>Resource</resourcesname>
+        <description>description text </description>
+        <customassignmentname>104 Custom Assignment</customassignmentname>
+        <noOfQuestions>2</noOfQuestions>
+        <shareWithInitialString>stud</shareWithInitialString>
+        <context_title>studtitle_IT16_R163_104_2</context_title>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R163.InstructorAbleToViewAllResourcesQuestionBanksAcrossAllClassSections" index="104_1" method="instructorAbleToViewAllResourcesQuestionBanksAcrossAllClassSections">
+        <user_id>instructor_IT16_R163_104_2</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R163_104_1_2</context_id>
+        <context_title>studtitle_IT16_R163_104_1_2</context_title>
+        <filename>img.png</filename>
+        <resourcesname>Policy</resourcesname>
+        <description>description text </description>
+        <gradingpolicystatus>true</gradingpolicystatus>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R163.RestructuringOfMainNavigatorForMentor" index="2" method="restructuringOfMainNavigator">
+        <user_id>mentor_IT16_R163_2_1</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontext_IT16_R163_2_1</context_id>
+        <context_title>studtitle_IT16_R163_2_1</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R163.RestructuringOfMainNavigatorForMentor" index="7" method="enhancementToResourcePage">
+        <user_id>mentor_IT16_R163_7_1</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontext_IT16_R163_7_1</context_id>
+        <context_title>studtitle_IT16_R163_7_1</context_title>
+        <filename>img.png</filename>
+        <resourcesname>resources7</resourcesname>
+        <description>7 this is descrption</description>
+        <gradingpolicystatus>false</gradingpolicystatus>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R163.AllResourceTabFunctionalityForMentor" index="23" method="allResourceTabFunctionality">
+        <user_id>mentor_IT16_R163_23_1</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontext_IT16_R163_23_1</context_id>
+        <context_title>studtitle_IT16_R163_23_1</context_title>
+        <filename>img.png</filename>
+        <resourcesname>resources23</resourcesname>
+        <description>23 this is descrption</description>
+        <gradingpolicystatus>true</gradingpolicystatus>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R163.AllResourceTabFunctionalityForMentor" index="23_1" method="allResourceTabFunctionality">
+        <filename>img.png</filename>
+        <resourcesname>resources23_1</resourcesname>
+        <description>23_1 this is descrption</description>
+        <gradingpolicystatus>true</gradingpolicystatus>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R163.AllResourceTabFunctionalityForMentor" index="33" method="uploadAndDeleteResource">
+        <user_id>mentor_IT16_R163_33_1</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontext_IT16_R163_33_1</context_id>
+        <context_title>studtitle_IT16_R163_33_1</context_title>
+        <filename>img.png</filename>
+        <resourcesname>resources33</resourcesname>
+        <description>33 this is descrption</description>
+        <gradingpolicystatus>false</gradingpolicystatus>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R163.AllResourceTabFunctionalityForMentor" index="33_1" method="uploadAndDeleteResource">
+        <user_id>student_IT16_R163_33_1_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R163_33_1</context_id>
+        <context_title>studtitle_IT16_R163_33_1</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R163.SupportForQuestionBanksPageForMentor" index="44" method="supportForQuestionBanksPage">
+        <user_id>mentor_IT16_R163_44_1_1</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontext_IT16_R163_44_1</context_id>
+        <context_title>studtitle_IT16_R163_44_1</context_title>
+        <assessmentname>44_1 Assessment</assessmentname>
+        <questionset>44 Question Set</questionset>
+        <questiontext>44 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R163.SupportForQuestionBanksPageForMentor" index="45" method="supportForQuestionBanksPage">
+        <user_id>mentor_IT16_R163_44_1_1</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontext_IT16_R163_44_1</context_id>
+        <context_title>studtitle_IT16_R163_44_1</context_title>
+        <assessmentname>45_1 Assessment</assessmentname>
+        <questionset>45 Question Set</questionset>
+        <questiontext>45 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_IT16_R163_44_1</shareWithInitialString>
+        <shareName>studtitle_IT16_R163_44_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R163.EnhancementToCustomizeThisFlowForMentor" index="71" method="enhancementToCustomizeThisFlowForMentor">
+        <user_id>mentor_IT16_R163_71_1_5</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontext_IT16_R163_71_5</context_id>
+        <context_title>studtitle_IT16_R163_71_5</context_title>
+        <assessmentname>71 Assessment</assessmentname>
+        <questionset>71 Question Set</questionset>
+        <questiontext>71</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <name>New Name</name>
+        <shareWithInitialString>studtitle_IT16_R163_71_5</shareWithInitialString>
+        <shareName>studtitle_IT16_R163_71_5</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <customassignmentname>New Name 1</customassignmentname>
+        <name2>New Name 2</name2>
+        <noOfQuestions>1</noOfQuestions>
+        <searchquestion>71 Test Question</searchquestion>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R163.MentorAbleToViewAllResourcesQuestionBanksAcrossAllClassSections" index="105" method="mentorAbleToViewAllResourcesQuestionBanksAcrossAllClassSections">
+        <user_id>mentor_IT16_R163_105_22_2</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontext_IT16_R163_105_22_1_2</context_id>
+        <context_title>studtitle_IT16_R163_105_22_1_2</context_title>
+        <assignmentname>105_2</assignmentname>
+        <assessmentname>107 Assessment</assessmentname>
+        <questionset>107 Question Set</questionset>
+        <questiontext>107</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <filename>img.png</filename>
+        <resourcesname>Resource</resourcesname>
+        <description>description text </description>
+        <customassignmentname>105 Custom Assignment</customassignmentname>
+        <noOfQuestions>2</noOfQuestions>
+        <shareWithInitialString>studtitle_IT16_R163_105_22_1</shareWithInitialString>
+        <context_title>studtitle_IT16_R163_105_22_1</context_title>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R163.MentorAbleToViewAllResourcesQuestionBanksAcrossAllClassSections" index="105_1" method="mentorAbleToViewAllResourcesQuestionBanksAcrossAllClassSections">
+        <user_id>mentor_IT16_R163_105_22_2</user_id>
+        <Role>mentor</Role>
+        <assignmentname>105</assignmentname>
+        <context_id>studcontext_IT16_R163_105_1_22_1</context_id>
+        <context_title>studtitle_IT16_R163_105_1_22_1</context_title>
+        <filename>img.png</filename>
+        <resourcesname>Policy</resourcesname>
+        <description>description text </description>
+        <gradingpolicystatus>true</gradingpolicystatus>
+    </testcase>
+</learningspaces>

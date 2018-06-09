@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="methods" thread-count="4">
+    <listeners>
+        <listener class-name="com.snapwiz.selenium.tests.staf.framework.listener.CustomListener"/>
+    </listeners>
+
+    <test name="Custom-TestNG">
+        <parameter name="config.file" value="Env_Common.properties"/>
+        <classes>
+            <class name="com.snapwiz.selenium.tests.staf.orion.testcases.Sanity.orion.ValidateAllQuestionType"/>
+            <methods>
+                <!--<include name="validateTrueFalse"/>-->
+                <!--<include name="validateMultipleChoice"/>-->
+                <exclude name="performanceSummaryReport"/>
+            </methods>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->

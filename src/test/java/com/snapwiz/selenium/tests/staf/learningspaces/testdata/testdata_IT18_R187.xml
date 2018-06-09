@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R187.AssignmentSubMenuFunctionality" index="10" method="userShouldAbleToSeeTheSubMenuOptionsUnderAssignment" >
+        <user_id>IT18_R187_10_instructor_10_1</user_id>
+        <Role>instructor</Role>ReleaseGradeForAll
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R187.AssignmentSubMenuFunctionality" index="11" method="userShouldAbleToSeeTheSubMenuOptionsAsMentor" >
+        <user_id>IT18_R187_11_mentor_11</user_id>
+        <Role>mentor</Role>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R187.AssignmentSubMenuFunctionality" index="14" method="assignmentSubmenuFunctionalityForCurrentAssignments" >
+        <user_id>IT18_R187_14_instructor_14</user_id>
+        <Role>instructor</Role>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R187.AssignmentSubMenuFunctionality" index="15" method="assignmentSubmenuFunctionalityForCurrentAssignmentsAsMentor" >
+        <user_id>IT18_R187_15_mentor_15</user_id>
+        <Role>mentor</Role>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R187.AssignmentSubMenuFunctionality" index="19" method="navigateToQuestionBanksPageFromSubmenuOptionsUnderAssignment" >
+        <user_id>IT18_R187_19_instructor_19</user_id>
+        <Role>instructor</Role>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R187.AssignmentSubMenuFunctionality" index="20" method="navigateToQuestionBanksPageFromSubmenuOptionsAsMentor" >
+        <user_id>IT18_R187_20_mentor_20</user_id>
+        <Role>mentor</Role>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R187.AssignmentSubMenuFunctionality" index="23" method="navigateToMyQuestionBanksPageFromSubmenuOptionsUnderAssignment" >
+        <user_id>IT18_R187_23_instructor_23</user_id>
+        <Role>instructor</Role>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R187.AssignmentSubMenuFunctionality" index="24" method="navigateToMyQuestionBanksPageFromSubmenuOptionsAsMentor" >
+        <user_id>IT18_R187_24_mentor_24</user_id>
+        <Role>mentor</Role>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R187.AssignmentSubMenuFunctionality" index="27" method="navigateToAssignmentPoliciesFromSubmenuOptionsAsInstructor" >
+        <user_id>IT18_R187_27_instructor_27</user_id>
+        <Role>instructor</Role>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R187.AssignmentSubMenuFunctionality" index="28" method="navigateToAssignmentPoliciesFromSubmenuOptionsAsMentor" >
+        <user_id>IT18_R187_28_mentor_28</user_id>
+        <Role>mentor</Role>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R187.AssignmentSubMenuFunctionality" index="31" method="userShouldBeBableToSeeTheSubmenuOptionsUnderResources" >
+        <user_id>IT18_R187_31_instructor_31</user_id>
+        <Role>instructor</Role>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R187.AssignmentSubMenuFunctionality" index="32" method="userShouldBeBableToSeeTheSubmenuOptionsAsMentor" >
+        <user_id>IT18_R187_32_mentor_32</user_id>
+        <Role>mentor</Role>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R187.AssignmentSubMenuFunctionality" index="35" method="userShouldBeAbleToNavigateToAllResourcespageAsInstructor" >
+        <user_id>IT18_R187_35_instructor_35</user_id>
+        <Role>instructor</Role>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R187.AssignmentSubMenuFunctionality" index="36" method="userShouldBeAbleToNavigateToAllResourcespageAsMentor" >
+        <user_id>IT18_R187_36_mentor_36</user_id>
+        <Role>mentor</Role>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R187.AssignmentSubMenuFunctionality" index="40" method="userShouldBeAbleToNavigateToMyResourcespageAsInstructor" >
+        <user_id>IT18_R187_40_instructor_40</user_id>
+        <Role>instructor</Role>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R187.AssignmentSubMenuFunctionality" index="44" method="viewAllFunctionalityForAssignmentsPanelAsInstructor" >
+        <user_id>IT18_R187_44_instructor_44</user_id>
+        <Role>instructor</Role>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R187.AssignmentSubMenuFunctionality" index="45" method="viewAllFunctionalityForAssignmentsPanelAsMentor" >
+        <user_id>IT18_R187_45_mentor_45</user_id>
+        <Role>mentor</Role>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R187.AssignmentSubMenuFunctionality" index="46" method="navigateToQuestionBankspageThroughNewAssignmentButton" >
+        <user_id>IT18_R187_46_instructor_46</user_id>
+        <Role>instructor</Role>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R187.AssignmentSubMenuFunctionality" index="47" method="navigateToQuestionBankspageThroughNewAssignmentButtonAsMentor" >
+        <user_id>IT18_R187_47_mentor_47</user_id>
+        <Role>mentor</Role>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R187.AssignmentSubMenuFunctionality" index="67" method="actionsLayoutFunctionalityAsInstructor" >
+        <resoursename>ResourceName_67</resoursename>
+        <assessmentname>Assessment_67</assessmentname>
+        <questionset>Question Set 67</questionset>
+        <questiontext>Test Question 67</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <user_id>IT18_R187_67_instructor_67_1</user_id>
+        <Role>instructor</Role>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R187.AssignmentSubMenuFunctionality" index="76" method="addToMyQuestionBankLinkFunctionality" >
+        <resoursename>ResourceName_76</resoursename>
+        <assessmentname>Assessment_76</assessmentname>
+        <questionset>Question Set 76</questionset>
+        <questiontext>Test Question 76</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <user_id>IT18_R187_76_instructor_76</user_id>
+        <Role>instructor</Role>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R187.AssignmentSubMenuFunctionality" index="87" method="myReportsSubmenuFunctionality" >
+        <user_id>IT18_R187_87_instructor_87_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext3</context_id>
+        <context_title>studtitle3</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R187.AssignmentSubMenuFunctionality" index="91" method="myReportsSubmenuFunctionalityNavigateToProficiencyReport" >
+        <user_id>IT18_R187_91_instructor_91_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext3</context_id>
+        <context_title>studtitle3</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R187.AssignmentSubMenuFunctionality" index="96" method="myReportsSubmenuFunctionalityNavigateToMetacognitiveReport" >
+        <user_id>IT18_R187_96_instructor_96_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext3</context_id>
+        <context_title>studtitle3</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R187.AssignmentSubMenuFunctionality" index="103" method="myReportsSubmenuFunctionalityNavigateToProductivityReport" >
+        <user_id>IT18_R187_103_instructor_103_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext3</context_id>
+        <context_title>studtitle3</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R187.AssignmentSubMenuFunctionality" index="107" method="myReportsSubmenuFunctionalityNavigateToMostChallengingActivitiesReport" >
+    <user_id>IT18_R187_107_instructor_107_1</user_id>
+    <Role>instructor</Role>
+        <context_id>IT18_R187_11_studcontext3</context_id>
+        <context_title>IT18_R187_11_studtitle3</context_title>
+</testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R187.AssignmentSubMenuFunctionality" index="111" method="myReportsSubmenuFunctionalityNavigateToEngagementReport" >
+        <user_id>IT18_R187_111_instructor_111_1</user_id>
+        <Role>instructor</Role>
+        <context_id>IT18_R187_11_studcontext3</context_id>
+        <context_title>IT18_R187_11_studtitle3</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R187.AssignmentSubMenuFunctionality" index="115" method="myReportsSubmenuFunctionalityLoginAsStudent" >
+        <user_id>IT18_R187_115_student_115</user_id>
+        <Role>student</Role>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R187.AssignmentSubMenuFunctionality" index="119" method="navigateToProficiencyReportLogInAsStudent" >
+        <user_id>IT18_R187_119_student_119</user_id>
+        <Role>student</Role>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R187.AssignmentSubMenuFunctionality" index="124" method="navigateToMetacognitiveReportLogInAsStudent" >
+        <user_id>IT18_R187_124_student_124</user_id>
+        <Role>student</Role>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R187.AssignmentSubMenuFunctionality" index="131" method="navigateToProductivityReportLogInAsStudent" >
+        <user_id>IT18_R187_131_student_131</user_id>
+        <Role>student</Role>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R187.AssignmentSubMenuFunctionality" index="135" method="navigateToMostChallengingActivitiesReportLogInAsStudent" >
+        <user_id>IT18_R187_135_student_135</user_id>
+        <Role>student</Role>
+    </testcase>
+</learningspaces>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edulastic>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.googlesync.GoogleSync" index ="1" method="">
+        <assessmentname>Regression_GoogleSync_1</assessmentname>
+        <questiontext>question text_GoogleSync_question</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <selectgrade>Grade 1</selectgrade>
+        <duedate>30</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>district</privacy>
+    </testcase>
+
+
+
+</edulastic>

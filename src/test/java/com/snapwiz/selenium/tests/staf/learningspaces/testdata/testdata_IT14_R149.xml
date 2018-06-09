@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R149.SupportCourseLevelAssessment" index="1" method="SupportCourseLevelAssessment">
+	<user_id>student_IT14_R149_1</user_id>
+	<Role>student</Role>
+	<context_id>studcontextIT149_1</context_id>
+	<context_title>studtitleIT14_R149_1</context_title>	
+ 	<assessmentname>Assessment_IT14_R149_1</assessmentname>
+	<questionset>Test Question __IT14_R149_1</questionset>
+	<questiontext>Test Question for _IT14_R149_1</questiontext>
+	<questiontype>Static Practice</questiontype>
+	<chapterName>true</chapterName>
+	<courselevel>true</courselevel>
+	<learningobjective>true</learningobjective>
+	<tlo>1</tlo>
+	<reservforassignment>false</reservforassignment>
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R149.SupportCourseLevelAssessment" index="11" method="SupportCourseLevelAssessment">
+	<assessmentname>Assessment_IT14_R149_1</assessmentname>
+	<questionset>Test Question __IT14_R149_11</questionset>
+	<questiontext>Test Question for _IT14_R149_11</questiontext>
+	<questiontype>Static Practice</questiontype>
+	<chapterName>true</chapterName>
+	<courselevel>true</courselevel>
+	<learningobjective>true</learningobjective>
+	<tlo>2</tlo>
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R149.QuitAndContinueOfcourselevelAssessment" index="17" method="QuitAndContinueOfcourselevelAssessment">
+	<user_id>student_IT14_R149_17</user_id>
+	<Role>student</Role>
+	<context_id>studcontextIT149_17</context_id>
+	<context_title>studtitleIT14_R149_17</context_title>	
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R149.CourseLevelDiagonesticTestProficency" index="22" method="courseLevelpracticeTestProficency">
+	<user_id>student_IT14_R149_22</user_id>
+	<Role>student</Role>
+	<context_id>studcontextIT149_22</context_id>
+	<context_title>studtitleIT14_R149_22</context_title>	
+ 	<assessmentname>Assessment_IT14_R149_22</assessmentname>
+	<questionset>Test Question __IT14_R149_22</questionset>
+	<questiontext>Test Question for _IT14_R149_22</questiontext>
+	<questiontype>Adaptive Component Practice</questiontype>
+	<learningobjective>true</learningobjective>
+	<tlo>1</tlo>
+	<reservforassignment>false</reservforassignment>
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R149.CourseLevelDiagonesticTestProficency" index="221" method="courseLevelpracticeTestProficency">
+	<assessmentname>Assessment_IT14_R149_22</assessmentname>
+	<questionset>Test Question __IT14_R149_221</questionset>
+	<questiontext>Test Question for _IT14_R149_221</questiontext>
+	<questiontype>Adaptive Component Practice</questiontype>
+	<learningobjective>true</learningobjective>
+	<tlo>2</tlo>
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R149.GradableAssignmentCourseProficency" index="41" method="gradableAssignmentCourseProficency">
+	<user_id>instructor_IT14_R149_41</user_id>
+	<Role>instructor</Role>
+	<context_id>studcontextITR149_41</context_id>
+	<context_title>studtitleIT14_R149_41</context_title>	
+ 	<assessmentname>Assessment_IT14_R149_41</assessmentname>
+	<questionset>Test Question_IT14_R1149_41</questionset>
+	<questiontext>Test Question for _IT14_R149_41</questiontext>
+	<questiontype>Static Practice</questiontype>
+	<learningobjective>true</learningobjective>
+	<tlo>1</tlo>
+	<gradeable>true</gradeable>
+	<duedate>23</duedate>
+	<duetime>12:00 AM</duetime>
+	<shareWithClass>false</shareWithClass>
+	<shareWithInitialString>R149second</shareWithInitialString>
+	<shareName>R149first R149second</shareName>
+	<studentname>R149first R149second</studentname>
+	<additionalnote>this is additional note</additionalnote>	
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R149.GradableAssignmentCourseProficency" index="41_1" method="gradableAssignmentCourseProficency">
+	<user_id>student_IT14_R149_41</user_id>
+	<Role>student</Role>
+	<context_id>studcontextITR149_41</context_id>
+	<context_title>studtitleIT14_R149_41</context_title>	
+	<familyname>R149second</familyname>
+	<givenname>R149first</givenname>		
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R149.CustomeAssignmentCourseProficency" index="44" method="gradableAssignmentCourseProficency">
+	<user_id>instructor_IT14_R149_441</user_id>
+	<Role>instructor</Role>
+	<context_id>studcontextITR149_441</context_id>
+	<context_title>studcontextITR149_441</context_title>	
+	<assessmentname>55555555555</assessmentname>
+	<questionset>555555555555555</questionset>
+	<questiontext>555555555555555555555</questiontext>
+	<learningobjective>true</learningobjective>
+	<tlo>1</tlo>
+	<questiontype>Static Practice</questiontype>
+	<gradeable>false</gradeable>
+	<duedate>23</duedate>
+	<duetime>12:00 AM</duetime>
+	<shareWithClass>false</shareWithClass>
+	<shareWithInitialString>R14_441second</shareWithInitialString>
+	<shareName>R14_441first R14_441second</shareName>
+	<studentname>R14_441first R14_441second</studentname>
+	<additionalnote>this is additional note</additionalnote>	
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R149.CustomeAssignmentCourseProficency" index="441" method="gradableAssignmentCourseProficency">
+	<user_id>student_IT14_R149_441</user_id>
+	<Role>student</Role>
+	<context_id>studcontextITR149_441</context_id>
+	<context_title>studtitleIT14_R149_441</context_title>	
+	<familyname>R14_441second</familyname>
+	<givenname>R14_441first</givenname>
+	<assessmentname>55555555555</assessmentname>
+	<questionset>555555555555555</questionset>
+	<questiontext>555555555555555555555</questiontext>
+	<learningobjective>true</learningobjective>
+	<tlo>2</tlo>
+	<questiontype>Static Practice</questiontype>			
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R149.CustomeAssignmentCourseProficency" index="45" method="gradableAssignmentCourseProficency">
+	<user_id>instructor_IT14_R149_45</user_id>
+	<Role>instructor</Role>
+	<context_id>studcontextITR149_45</context_id>
+	<context_title>studcontextITR149_45</context_title>	
+	<gradeable>true</gradeable>
+	<assessmentname>55555555555</assessmentname>
+	<questiontext>555555555555555555555</questiontext>	
+	<duedate>23</duedate>
+	<duetime>12:00 AM</duetime>
+	<shareWithClass>false</shareWithClass>
+	<shareWithInitialString>R14_45second</shareWithInitialString>
+	<shareName>R14_45first R14_45second</shareName>
+	<studentname>R14_45first R14_45second</studentname>
+	<additionalnote>this is additional note</additionalnote>	
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R149.CustomeAssignmentCourseProficency" index="451" method="gradableAssignmentCourseProficency">
+	<user_id>student_IT14_R149_45</user_id>
+	<Role>student</Role>
+	<context_id>studcontextITR149_45</context_id>
+	<context_title>studtitleIT14_R149_45</context_title>	
+	<familyname>R14_45second</familyname>
+	<givenname>R14_45first</givenname>
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R149.NavigationFromCourseLevelAssessmentToOtherAssessemnt" index="48" method="navigationFromCourseLevelAssessmentToOtherAssessemnt">
+	<user_id>student_IT14_R149_48</user_id>
+	<Role>student</Role>
+	<context_id>studcontextITR149_48</context_id>
+	<context_title>studtitleIT14_R149_48</context_title>	
+	<familyname>R14_48second</familyname>
+	<givenname>R14_48first</givenname>
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R149.NavigationFromCourseLevelAssessmentToOtherAssessemnt" index="56" method="navigationFromCourseLevelAssessmentToOtherAssessemnt">
+	<user_id>instructor_IT14_R149_56</user_id>
+	<Role>instructor</Role>
+	<context_id>studcontextITR149_56</context_id>
+	<context_title>studtitleIT14_R149_56</context_title>	
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R149.CourseLevelAssessmentOtherthanStaticnotshownTostudent" index="62" method="courseLevelAssessmentOtherthanStaticnotshownTostudent">
+	<user_id>student_IT14_R149_62</user_id>
+	<Role>student</Role>
+	<context_id>studcontextIT149_62</context_id>
+	<context_title>studtitleIT14_R149_62</context_title>	
+ 	<assessmentname>Assessment_IT14_R149_62</assessmentname>
+	<questionset>Test Question __IT14_R149_62</questionset>
+	<questiontext>Test Question for _IT14_R149_62</questiontext>
+	<questiontype>Adaptive Component Diagnostic</questiontype>
+	<chapterName>true</chapterName>
+	<courselevel>true</courselevel>
+	<learningobjective>true</learningobjective>
+	<tlo>1</tlo>
+	<reservforassignment>false</reservforassignment>
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R149.CourseLevelAssessmentOtherthanStaticnotshownTostudent" index="621" method="courseLevelAssessmentOtherthanStaticnotshownTostudent">	
+ 	<assessmentname>Assessment_IT14_R149_621</assessmentname>
+	<questionset>Test Question __IT14_R149_621</questionset>
+	<questiontext>Test Question for _IT14_R149_621</questiontext>
+	<questiontype>Static Practice</questiontype>
+	<chapterName>true</chapterName>
+	<courselevel>true</courselevel>
+	<learningobjective>true</learningobjective>
+	<tlo>1</tlo>
+	<reservforassignment>false</reservforassignment>
+</testcase>
+
+</learningspaces>

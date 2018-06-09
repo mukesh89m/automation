@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edulastic>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.addstudent.AddStudentToAssignment" index ="1" method="">
+        <assessmentname>Regression_AddStudent_1</assessmentname>
+        <questiontext>question text_AddStudent_question</questiontext>
+        <removeexistingclass>true</removeexistingclass>
+        <shareWithClass>false</shareWithClass>
+        <selectgrade>Grade 1</selectgrade>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>private</privacy>
+    </testcase>
+
+</edulastic>

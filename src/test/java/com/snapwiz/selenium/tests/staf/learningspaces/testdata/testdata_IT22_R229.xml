@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R229.AssignDifferentDates" index="10" method="">
+        <user_id>instructor_IT22_R229_10</user_id>
+        <Role>instructor</Role>
+        <assessmentname>IT22_R229_Assessment_10</assessmentname>
+        <questionset>Question Set_IT22_R229_10</questionset>
+        <questiontext>Test Question_IT22_R229_10</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <reservforassignment>false</reservforassignment>
+        <chapterName>Biological Macromolecules</chapterName>
+        <useWriteBoard>true</useWriteBoard>
+        <searchquestion>true</searchquestion>
+        <noOfQuestions>1</noOfQuestions>
+        <customassignmentname>customAssigment</customassignmentname>
+        <filename>img.png</filename>
+        <resourcesname>Resourse_IT22_R229_10</resourcesname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R229.AssignDifferentDates" index="68" method="">
+        <user_id>instructor_IT22_R229_10</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_68</context_id>
+        <context_title>studtitle_68</context_title>
+        <assessmentname>IT22_R229_Assessment_68</assessmentname>
+        <questionset>Question Set_IT22_R229_68</questionset>
+        <questiontext>Test Question_IT22_R229_68</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <reservforassignment>false</reservforassignment>
+        <chapterName>Biological Macromolecules</chapterName>
+        <useWriteBoard>true</useWriteBoard>
+        <searchquestion>true</searchquestion>
+        <noOfQuestions>1</noOfQuestions>
+        <customassignmentname>customAssigment</customassignmentname>
+        <filename>img.png</filename>
+        <resourcesname>Resourse_IT22_R229_68</resourcesname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R229.AssignDifferentDates" index="69" method="" >
+        <user_id>studentid_69</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_68</context_id>
+        <context_title>studtitle_68</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R229.AssignDifferentDates" index="70" method="" >
+        <user_id>instructor_IT22_R229_10</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_70</context_id>
+        <context_title>studtitle_70</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R229.AssignDifferentDates" index="71" method="" >
+        <user_id>student_11</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_70</context_id>
+        <context_title>studtitle_70</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R229.AssignDifferentDates" index="91" method="">
+        <user_id>instructor_IT22_R229_91</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_91</context_id>
+        <context_title>studtitle_91</context_title>
+        <assessmentname>IT22_R229_Assessment_91</assessmentname>
+        <questionset>Question Set_IT22_R229_91</questionset>
+        <questiontext>Test Question_IT22_R229_91</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <reservforassignment>false</reservforassignment>
+        <chapterName>Biological Macromolecules</chapterName>
+        <useWriteBoard>true</useWriteBoard>
+        <searchquestion>true</searchquestion>
+        <noOfQuestions>1</noOfQuestions>
+        <customassignmentname>customAssigment</customassignmentname>
+        <filename>img.png</filename>
+        <resourcesname>Resourse_IT22_R229_91</resourcesname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R229.AssignDifferentDates" index="92" method="" >
+        <user_id>studentid_92</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_91</context_id>
+        <context_title>studtitle_91</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R229.AssignDifferentDates" index="93" method="" >
+        <user_id>instructor_IT22_R229_91</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_93</context_id>
+        <context_title>studcontext_93</context_title>
+    </testcase>
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R229.EndToEndAssignments" index="132" method="userToBeAbleToPerformActionsForNonGradableAssignments">
+    <user_id>instructor_IT22_R229_132_1</user_id>
+    <Role>instructor</Role>
+    <context_id>studcontext_IT22_R229_132</context_id>
+    <context_title>studtitle_IT22_R229_132</context_title>
+    <duedate>28</duedate>
+    <additionalnote>This is an additional note</additionalnote>
+    <gradable>false</gradable>
+</testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R229.EndToEndAssignments" index="132_2" method="userToBeAbleToPerformActionsForNonGradableAssignments">
+        <user_id>student_IT21_R217_132_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R229_132</context_id>
+        <context_title>studtitle_IT22_R229_132</context_title>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R229.EndToEndAssignments" index="157" method="userToBeAbleToPerformActionsForNonGradableCustomAssignments">
+        <user_id>instructor_IT22_R229_157_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R229_157</context_id>
+        <context_title>studtitle_IT22_R229_157</context_title>
+        <duedate>28</duedate>
+        <additionalnote>This is an additional note</additionalnote>
+        <gradable>false</gradable>
+        <totalpoints>0.6</totalpoints>
+        <customassignmentname>customAssignment_IT22_R229_157</customassignmentname>
+        <assessmentname>Assessment_IT22_R229_157</assessmentname>
+        <questionset>Question Set_IT22_R229_157</questionset>
+        <questiontext>Test Question_IT22_R229_157</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <noOfQuestions>2</noOfQuestions>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R229.EndToEndAssignments" index="1571" method="userToBeAbleToPerformActionsForNonGradableCustomAssignments">
+        <assessmentname>customAssignment_IT22_R229_157</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R229.EndToEndAssignments" index="157_2" method="userToBeAbleToPerformActionsForNonGradableCustomAssignments">
+        <user_id>student_IT21_R217_157_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R229_157</context_id>
+        <context_title>studtitle_IT22_R229_157</context_title>
+        <assessmentname>customAssignment_IT22_R229_157</assessmentname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R229.EndToEndAssignments" index="182" method="userToBeAbleToPerformActionsForGradableAssignments">
+        <user_id>instructor_IT22_R229_182_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R229_182</context_id>
+        <context_title>studtitle_IT22_R229_182</context_title>
+        <duedate>28</duedate>
+        <additionalnote>This is an additional note</additionalnote>
+        <gradable>true</gradable>
+        <totalpoints>0.6</totalpoints>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R229.EndToEndAssignments" index="182_2" method="userToBeAbleToPerformActionsForGradableAssignments">
+        <user_id>student_IT21_R217_182_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R229_182</context_id>
+        <context_title>studtitle_IT22_R229_182</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R229.EndToEndAssignments" index="208" method="userToBeAbleToPerformActionsForNonGradableCustomAssignments">
+        <user_id>instructor_IT22_R229_208_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R229_208</context_id>
+        <context_title>studtitle_IT22_R229_208</context_title>
+        <duedate>28</duedate>
+        <additionalnote>This is an additional note</additionalnote>
+        <gradable>true</gradable>
+        <customassignmentname>customAssignment_IT22_R229_208</customassignmentname>
+        <assessmentname>Assessment_IT22_R229_208</assessmentname>
+        <questionset>Question Set_IT22_R229_208</questionset>
+        <questiontext>Test Question_IT22_R229_208</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <noOfQuestions>2</noOfQuestions>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R229.EndToEndAssignments" index="2081" method="userToBeAbleToPerformActionsForNonGradableCustomAssignments">
+        <assessmentname>customAssignment_IT22_R229_208</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R229.EndToEndAssignments" index="208_2" method="userToBeAbleToPerformActionsForNonGradableCustomAssignments">
+        <user_id>student_IT21_R217_208_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R229_208</context_id>
+        <context_title>studtitle_IT22_R229_208</context_title>
+        <assessmentname>customAssignment_IT22_R229_208</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R229.EndToEndAssignments" index="235" method="userToBeAbleToPerformActionsForGradableCustomAssignmentsWithPolicies">
+        <user_id>instructor_IT22_R229_235_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R229_235</context_id>
+        <context_title>studtitle_IT22_R229_235</context_title>
+        <duedate>28</duedate>
+        <additionalnote>This is an additional note</additionalnote>
+        <gradeable>true</gradeable>
+        <customassignmentname>customAssignment_IT22_R229_235</customassignmentname>
+        <assessmentname>Assessment_IT22_R229_235</assessmentname>
+        <questionset>Question Set_IT22_R229_235</questionset>
+        <questiontext>Test Question_IT22_R229_235</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <noOfQuestions>2</noOfQuestions>
+        <assignmentpolicy>Policy Name</assignmentpolicy>
+        <navigateTo>My Question Bank</navigateTo>
+        <duetime>12:15 AM</duetime>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R229.EndToEndAssignments" index="2351" method="userToBeAbleToPerformActionsForGradableCustomAssignmentsWithPolicies">
+        <assessmentname>customAssignment_IT22_R229_235</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R229.EndToEndAssignments" index="235_2" method="userToBeAbleToPerformActionsForGradableCustomAssignmentsWithPolicies">
+        <user_id>student_IT21_R217_235_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R229_235</context_id>
+        <context_title>studtitle_IT22_R229_235</context_title>
+        <assessmentname>customAssignment_IT22_R229_235</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R229.EndToEndAssignments" index="262" method="userToBeAbleToPerformActionsForFileBasedNonGradableAssignments">
+        <user_id>instructor_IT22_R229_262_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R229_262</context_id>
+        <context_title>studtitle_IT22_R229_262</context_title>
+        <duedate>28</duedate>
+        <additionalnote>This is an additional note</additionalnote>
+        <gradable>false</gradable>
+        <assessmentname>FileBasedAssessment_R229_262_25</assessmentname>
+        <promptdetails>promptdetails</promptdetails>
+        <filename>img.png</filename>
+        <duedate>28</duedate>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R229.EndToEndAssignments" index="262_2" method="userToBeAbleToPerformActionsForFileBasedNonGradableAssignments">
+        <user_id>student_IT21_R217_262_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R229_262</context_id>
+        <context_title>studtitle_IT22_R229_262</context_title>
+        <filename>img.jpg</filename>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R229.EndToEndAssignments" index="311" method="userToBeAbleToPerformActionsForFileBasedNonGradableAssignments">
+        <user_id>instructor_IT22_R229_311_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R229_311</context_id>
+        <context_title>studtitle_IT22_R229_311</context_title>
+        <duedate>28</duedate>
+        <additionalnote>This is an additional note</additionalnote>
+        <gradable>true</gradable>
+        <assessmentname>FileBasedAssessment_R229_311_27</assessmentname>
+        <promptdetails>promptdetails</promptdetails>
+        <filename>img.png</filename>
+        <duedate>28</duedate>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R229.EndToEndAssignments" index="311_2" method="userToBeAbleToPerformActionsForFileBasedNonGradableAssignments">
+        <user_id>student_IT21_R217_311_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R229_311</context_id>
+        <context_title>studtitle_IT22_R229_311</context_title>
+        <filename>img.jpg</filename>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R229.AssignDifferentDates" index="100" method="">
+        <user_id>instructor_IT22_R229_100</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_100</context_id>
+        <context_title>studtitle_100</context_title>
+        <assessmentname>IT22_R229_Assessment_100</assessmentname>
+        <questionset>Question Set_IT22_R229_100</questionset>
+        <questiontext>Test Question_IT22_R229_100</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <reservforassignment>false</reservforassignment>
+        <chapterName>Biological Macromolecules</chapterName>
+        <useWriteBoard>true</useWriteBoard>
+        <searchquestion>true</searchquestion>
+        <noOfQuestions>1</noOfQuestions>
+        <customassignmentname>customAssigment</customassignmentname>
+        <filename>img.png</filename>
+        <resourcesname>Resourse_IT22_R229_100</resourcesname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R229.AssignDifferentDates" index="101" method="" >
+        <user_id>studentid_101</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_100</context_id>
+        <context_title>studtitle_100</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R229.AssignDifferentDates" index="102" method="" >
+        <user_id>instructor_IT22_R229_100</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_93</context_id>
+        <context_title>studtitle_93</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R229.AssignDifferentDates" index="103" method="" >
+        <user_id>instructor_IT22_R229_103</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_93</context_id>
+        <context_title>studtitle_93</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R229.AssignDifferentDates" index="108" method="">
+        <user_id>instructor_IT22_R229_108</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_108</context_id>
+        <context_title>studtitle_108</context_title>
+        <assessmentname>IT22_R229_Assessment_108</assessmentname>
+        <questionset>Question Set_IT22_R229_108</questionset>
+        <questiontext>Test Question_IT22_R229_108</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <reservforassignment>false</reservforassignment>
+        <chapterName>Biological Macromolecules</chapterName>
+        <useWriteBoard>true</useWriteBoard>
+        <searchquestion>true</searchquestion>
+        <noOfQuestions>1</noOfQuestions>
+        <customassignmentname>customAssigment</customassignmentname>
+        <filename>img.png</filename>
+        <resourcesname>Resourse_IT22_R229_108</resourcesname>
+        <gradeable>false</gradeable>
+    </testcase>
+</learningspaces>

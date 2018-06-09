@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<learningspaces>
+
+<testcase id="tocdata" index ="1">
+  <daigonestictest>Diagnostic - Ch 11:  Meiosis and Sexual Reproduction</daigonestictest>
+  <staticpracticetest>Pre-lecture - Cell Reproduction</staticpracticetest>
+  <adaptivepracticetest>Personalized Practice - Ch 11:  Meiosis and Sexual Reproduction</adaptivepracticetest>
+  <TLOLeveladaptivepracticetest>10.1: Describe the physical and functional nature of DNA and how it is packaged for cell division - Practice</TLOLeveladaptivepracticetest>
+  <staticpracticetestfornonadaptive>8A.2 Concept Check</staticpracticetestfornonadaptive>
+
+ </testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R28.ReportsAccess" index="2" method="reportsAccessLSandAdaptive">
+		<user_id >IT11_R28_student_8</user_id >
+		<Role>student</Role>
+</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R28.ReportsAccess" index="5" method="reportsAccessAdaptive">
+		<user_id >IT11_R28_student_5</user_id >
+		<Role>student</Role>
+	    <course_type>ls</course_type>
+	</testcase>
+ 
+ <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R28.ReportsAfterDiagnosticTest" index="6" method="attemptDiagnosticTest">
+  <user_id>IT11_R28_student_6</user_id>
+  <Role>student</Role>
+ </testcase>
+ 
+ <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R28.ReportsAfterDiagnosticTest" index="10" method="startStaticPracticeTest">
+  <user_id>IT11_R28_student_10</user_id>
+  <Role>student</Role>
+ </testcase>
+ 
+  <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R28.ReportsAfterDiagnosticTest" index="14" method="startChapterLevelPracticeTest">
+  <user_id>IT11_R28_student_14</user_id>
+  <Role>student</Role>
+ </testcase>
+ 
+  <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R28.ReportsAfterDiagnosticTest" index="18" method="startTLOLevelPracticeTest">
+  <user_id>IT11_R28_student_18</user_id>
+  <Role>student</Role>
+ </testcase>
+ 
+ <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R28.ReportsAfterDiagnosticTest" index="30" method="staticpracticetestfornonadaptive">
+  <user_id>IT11_R28_student_30</user_id>
+  <Role>student</Role>
+  <course_type>LS</course_type> 
+ </testcase>
+ 
+ <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R28.ReportsAfterDiagnosticTest" index="36" method="accessStudyLinksLSandAdaptive">
+  <user_id>IT11_R28_student_36</user_id>
+  <Role>student</Role>
+   </testcase>
+ 
+  <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R28.ReportsAfterDiagnosticTest" index="48" method="accessStudyLinksNonAdaptive">
+  <user_id>IT11_R28_student_48</user_id>
+  <Role>student</Role>
+  <course_type>LS</course_type> 
+ </testcase>
+ 
+  <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R28.ReportsAfterDiagnosticTest" index="52" method="accessPracticeLinksLSandAdaptive">
+  <user_id>IT11_R28_student_52</user_id>
+  <Role>student</Role>
+  </testcase>
+ 
+  <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R28.ReportsAfterDiagnosticTest" index="78" method="accessChapterLevelAssessmentNonAdaptive">
+  <user_id>IT11_R28_student_78</user_id>
+  <Role>student</Role>
+  <familyname>78family</familyname>
+  <givenname>78givenname</givenname>
+  <course_type>ls</course_type> 
+   <assessmentname>78New Assessment</assessmentname>
+  <questionset>78 New Question set</questionset>
+  <questiontext>78 Sample Text Data</questiontext>
+  <questiontype>Static Practice</questiontype>
+  <shareWithInitialString>stud</shareWithInitialString>
+  <shareName>studtitle</shareName>
+  <shareWithClass>true</shareWithClass>
+  <gradeable>false</gradeable>
+  <gradingpolicy>Grading policy text</gradingpolicy>
+  <duedate>28</duedate>
+  <duetime>12:00 AM</duetime>
+  <additionalnote>This is an additional note</additionalnote>
+   </testcase>
+   
+   <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R28.ReportsAfterDiagnosticTest" index="78_Instructor" method="accessChapterLevelAssessmentNonAdaptive">
+   <user_id>IT11_R28_student1_13</user_id>
+   <Role>student</Role>
+   </testcase>
+   
+  <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R28.CourseStream" index="2" method="reportsAccessLSandAdaptive">
+		<user_id >IT11_R28_student_8</user_id >
+		<Role>student</Role>
+</testcase>
+  
+</learningspaces>
+
+

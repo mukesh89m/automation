@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<config>
+    <browser>firefox</browser>
+    <course>Biology</course>
+    <lscourse>Geography: Realms, Regions, and Concepts - Sixteenth Edition</lscourse>
+	<baseURL>http://10.0.0.240:8080</baseURL>
+    <LTIURL>http://idc-lti1.snapwiz.lan/</LTIURL>
+    <LaunchURL>http://10.0.0.241:8080/oAuth</LaunchURL>
+    <customerkey>wileyplusproduction</customerkey>
+    <secretkey>qp5bd658az8</secretkey>
+    <resourselinkid>home</resourselinkid>
+    <context_id>studcontext</context_id>
+    <context_title>studtitle</context_title>
+    <familyname>family</familyname>
+    <givenname>givenname</givenname>
+    <email>automation@snapwiz.com</email>
+    <instance_guid>WileyPLUS</instance_guid>
+    <instance_name>wileyplus.com</instance_name>
+    <courseID>ISBNEPROF12517</courseID>
+    <adaptiveCourseID>251</adaptiveCourseID>
+    <lsCourseId>ISBNEPROF12479</lsCourseId>
+    <custom_instructor_classlist>[{"classid":"cls123","title":"Biology's 101","classcode":"BIO-101","state":"Active"},{"classid":"cls234","title":"Biology's 101","classcode":"BIO-101","state":"Active"}]</custom_instructor_classlist>
+    <custom_destination>snapwiz-homepage</custom_destination>
+    <custom_domainid>autodomain</custom_domainid >
+    <custom_course_number>autocustno</custom_course_number>
+    <custom_domain_name>studtitle</custom_domain_name>
+    <courseid>ISBNEPROF12517</courseid>
+    <dbconnecturl>jdbc:mysql://10.0.0.240:3306/</dbconnecturl>
+    <dbName>mongrel</dbName>
+    <dbdriver>com.mysql.jdbc.Driver</dbdriver>
+    <dbuserName>dbuser</dbuserName>
+    <dbPassword>dbpassword</dbPassword>
+    <FileUploadPath>/Users/snapwizmacmini2/iOSAutomaion/projects/staf/src/test/java/com/snapwiz/selenium/tests/staf/fileupload/</FileUploadPath>
+    <cmsAuthorName>lspaces2</cmsAuthorName>
+    <cmsUserName_Instructor>ipad_instructor30@edugen.com</cmsUserName_Instructor>
+    <cmsUserName_Mentor>ipad_course_admin@edugen.com</cmsUserName_Mentor>
+    <cmsUserName_Student1>ipad_student30@edugen.com</cmsUserName_Student1>
+    <cmsUserName_Student2>ipad_student31@edugen.com</cmsUserName_Student2>
+    <cmsPassword>snapwiz</cmsPassword>
+    <downloadPath>C:\Users\durgapathi\AppData\Local\Temp\</downloadPath>
+    <platformName>iOS</platformName>
+    <deviceName>iPad</deviceName>
+    <platformVersion>8.3</platformVersion>
+    <udId>cf99c8794de4caf1475ed1f44beab57a879902dd</udId>
+    <bundleId>com.snapwiz.learningspaces</bundleId>
+    <nativeAppPath>/Users/snapwizmacmini2/Library/Developer/Xcode/DerivedData/learningspaces-gvpolbslgllaluekpitjlyqifrbw/Build/Products/Debug-iphoneos/Learning Space.app</nativeAppPath>
+    <serverAddress>http://0.0.0.0</serverAddress>
+    <portAddress>4723</portAddress>
+</config>

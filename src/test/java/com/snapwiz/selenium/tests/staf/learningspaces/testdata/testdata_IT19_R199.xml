@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R199.CreateAssessment" index="60" method="InstructorFeedbackInStaticAssessment">
+        <user_id>IT19_R1922Instructor_9_4</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R1922_9_4</context_id>
+        <context_title>studtitle_R1922_9_4</context_title>
+        <assessmentname>Assignment_IT19_R1922_9_4</assessmentname>
+        <questionset>9questionset</questionset>
+        <questiontext>9 question text</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <reservforassignment>false</reservforassignment>
+        <useWriteBoard>true</useWriteBoard>
+        <filename>img.png</filename>
+        <secondFilename>img.jpg</secondFilename>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R199.FileAssessmentAtLTILevel" index="60" method="InstructorFeedbackInStaticAssessment">
+        <user_id>IT19_R1922Instructor_9_4</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R1922_9_4</context_id>
+        <context_title>studtitle_R1922_9_4</context_title>
+        <assessmentname>Assignment_IT19_R1922_9_4</assessmentname>
+        <questionset>9questionset</questionset>
+        <questiontext>9 question text</questiontext>
+        <randomAssessment>randomAssessmentVerifyAtLTI</randomAssessment>
+        <questiontype>Static Practice</questiontype>
+        <reservforassignment>false</reservforassignment>
+        <useWriteBoard>true</useWriteBoard>
+        <filename>img.png</filename>
+        <secondFilename>img256</secondFilename>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R199.FileBasedAssessmentNonGradable" index="275" method="InstructorFeedbackInStaticAssessment">
+        <user_id>IT19_R1922Student_19_9</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R199</context_id>
+        <context_title>studtitle_R199</context_title>
+        <assessmentname>Assignment_IT19_R1922_9_4</assessmentname>
+        <useWriteBoard>true</useWriteBoard>
+        <filename>img.png</filename>
+        <secondFilename>img</secondFilename>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R199.CreationAndAssignmentOfTheFileBasedAssignment" index="9" method="">
+        <user_id>instructor_IT19_R199_9</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R199_9</context_id>
+        <context_title>studtitle_R199_9</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R199.CreationAndAssignmentOfTheFileBasedAssignment" index="21" method="">
+        <user_id>instructor_IT19_R199_21</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R199_21</context_id>
+        <context_title>studtitle_R199_21</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R199.CreationAndAssignmentOfTheFileBasedAssignment" index="26" method="">
+        <user_id>instructor_IT19_R199_26</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R199_26</context_id>
+        <context_title>studtitle_R199_26</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R199.CreationAndAssignmentOfTheFileBasedAssignment" index="31" method="">
+        <user_id>instructor_IT19_R199_31</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R199_31</context_id>
+        <context_title>studtitle_R199_31</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R199.CreationAndAssignmentOfTheFileBasedAssignment" index="36" method="">
+        <user_id>instructor_IT19_R199_36</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R199_36</context_id>
+        <context_title>studtitle_R199_36</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R199.CreationAndAssignmentOfTheFileBasedAssignment" index="51" method="">
+        <user_id>instructor_IT19_R199_51</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R199_51</context_id>
+        <context_title>studtitle_R199_51</context_title>
+        <fileUpload>true</fileUpload>
+        <filename>img.png</filename>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R199.CreationAndAssignmentOfTheFileBasedAssignment" index="66" method="">
+        <user_id>instructor_IT19_R199_66</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R199_66</context_id>
+        <context_title>studtitle_R199_66</context_title>
+        <fileUpload>true</fileUpload>
+        <filename>img.png</filename>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R199.CreationAndAssignmentOfTheFileBasedAssignment" index="83" method="">
+        <user_id>instructor_IT19_R199_83</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R199_83</context_id>
+        <context_title>studtitle_R199_83</context_title>
+        <fileUpload>true</fileUpload>
+        <filename>img.png</filename>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R199.CreationAndAssignmentOfTheFileBasedAssignment" index="93" method="">
+        <user_id>instructor_IT19_R199_93</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R199_93</context_id>
+        <context_title>studtitle_R199_93</context_title>
+        <fileUpload>true</fileUpload>
+        <filename>img.png</filename>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R199.CreationAndAssignmentOfTheFileBasedAssignment" index="118" method="">
+        <user_id>instructor_IT19_R199_118_2</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R199_118_2</context_id>
+        <context_title>studtitle_R199_118_2</context_title>
+        <assessmentname>Assessment</assessmentname>
+        <shareWithInitialString>studtitle_R199_118a</shareWithInitialString>
+        <shareName>studtitle_R199_118a</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <fileUpload>true</fileUpload>
+        <filename>img.png</filename>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R199.CreationAndAssignmentOfTheFileBasedAssignment" index="145" method="">
+        <user_id>instructor_IT19_R199_145</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R199_145</context_id>
+        <context_title>studtitle_R199_145</context_title>
+        <assessmentname>FileBasedAssessment_R199_145</assessmentname>
+        <promptdetails>promptdetails</promptdetails>
+        <shareWithInitialString>studtitle_R199_145</shareWithInitialString>
+        <shareName>studtitle_R199_145</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <fileUpload>true</fileUpload>
+        <filename>img.png</filename>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R199.AttemptingFileBasedAssignmentAssignedByInstructor" index="205" method="">
+        <user_id>instructor_IT19_R199_205</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R199_205</context_id>
+        <context_title>studtitle_R199_205</context_title>
+        <assessmentname>FileBasedAssessment_R199_205_3</assessmentname>
+        <promptdetails>promptdetails</promptdetails>
+        <shareWithInitialString>studtitle_R199_205</shareWithInitialString>
+        <shareName>studtitle_R199_205</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <fileUpload>true</fileUpload>
+        <filename>img.png</filename>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R199.AttemptingFileBasedAssignmentAssignedByInstructor" index="205_1" method="">
+        <user_id>student_IT19_R199_205</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R199_205</context_id>
+        <context_title>studtitle_R199_205</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R199.AttemptingFileBasedAssignmentAssignedByInstructor" index="236" method="">
+        <user_id>instructor_IT19_R199_236</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R199_236</context_id>
+        <context_title>studtitle_R199_236</context_title>
+        <assessmentname>FileBasedAssessment_R199_236</assessmentname>
+        <promptdetails>promptdetails</promptdetails>
+        <shareWithInitialString>studtitle_R199_236</shareWithInitialString>
+        <shareName>studtitle_R199_236</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>true</gradable>
+        <gradingpolicy>Assignment reference text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <fileUpload>true</fileUpload>
+        <filename>img.png</filename>
+        <questionBank>true</questionBank>
+        <promptdetails>promptdetails</promptdetails>
+        <totalpoints>2</totalpoints>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R199.AttemptingFileBasedAssignmentAssignedByInstructor" index="236_1" method="">
+        <user_id>student_IT19_R199_236</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R199_236</context_id>
+        <context_title>studtitle_R199_236</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R199.AttemptingFileBasedAssignmentAssignedByInstructor" index="242" method="">
+        <user_id>instructor_IT19_R199_242</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R199_242</context_id>
+        <context_title>studtitle_R199_242</context_title>
+        <assessmentname>FileBasedAssessment_R199_242</assessmentname>
+        <promptdetails>promptdetails</promptdetails>
+        <shareWithInitialString>studtitle_R199_242</shareWithInitialString>
+        <shareName>studtitle_R199_242</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>true</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <fileUpload>true</fileUpload>
+        <filename>img.png</filename>
+        <questionBank>true</questionBank>
+        <totalpoints>2</totalpoints>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R199.AttemptingFileBasedAssignmentAssignedByInstructor" index="242_1" method="">
+        <user_id>student_IT19_R199_242</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R199_242</context_id>
+        <context_title>studtitle_R199_242</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R199.AttemptingFileBasedAssignmentAssignedByInstructor" index="253" method="">
+        <user_id>instructor_IT19_R199_253</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R199_253</context_id>
+        <context_title>studtitle_R199_253</context_title>
+        <assessmentname>FileBasedAssessment_R199_253</assessmentname>
+        <promptdetails>promptdetails</promptdetails>
+        <shareWithInitialString>studtitle_R199_253</shareWithInitialString>
+        <shareName>studtitle_R199_253</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>true</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <fileUpload>true</fileUpload>
+        <filename>img.png</filename>
+        <questionBank>true</questionBank>
+        <totalpoints>2</totalpoints>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R199.AttemptingFileBasedAssignmentAssignedByInstructor" index="253_1" method="">
+        <user_id>student_IT19_R199_253</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R199_253</context_id>
+        <context_title>studtitle_R199_253</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R199.AttemptingFileBasedAssignmentAssignedByInstructor" index="268" method="">
+        <user_id>instructor_IT19_R199_268_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R199_268_1</context_id>
+        <context_title>studtitle_R199_268_1</context_title>
+        <assessmentname>FileBasedAssessment_R199_268</assessmentname>
+        <promptdetails>promptdetails</promptdetails>
+        <shareWithInitialString>studtitle_R199_268_1</shareWithInitialString>
+        <shareName>studtitle_R199_268_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>true</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <fileUpload>true</fileUpload>
+        <filename>img.png</filename>
+        <questionBank>true</questionBank>
+        <totalpoints>2</totalpoints>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R199.AttemptingFileBasedAssignmentAssignedByInstructor" index="268_1" method="">
+        <user_id>student_IT19_R199_268_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R199_268_1</context_id>
+        <context_title>studtitle_R199_268_1</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R199.AttemptingFileBasedAssignmentAssignedByInstructor" index="279" method="">
+        <user_id>instructor_IT19_R199_279</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R199_279</context_id>
+        <context_title>studtitle_R199_279</context_title>
+        <assessmentname>FileBasedAssessment_R199_279</assessmentname>
+        <promptdetails>promptdetails</promptdetails>
+        <shareWithInitialString>studtitle_R199_279</shareWithInitialString>
+        <shareName>studtitle_R199_279</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>true</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <fileUpload>true</fileUpload>
+        <filename>img.png</filename>
+        <questionBank>true</questionBank>
+        <totalpoints>2</totalpoints>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R199.AttemptingFileBasedAssignmentAssignedByInstructor" index="279_1" method="">
+        <user_id>student_IT19_R199_279</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R199_279</context_id>
+        <context_title>studtitle_R199_279</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R199.AttemptingFileBasedAssignmentAssignedByInstructor" index="286" method="">
+        <user_id>instructor_IT19_R199_286</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R199_286</context_id>
+        <context_title>studtitle_R199_286</context_title>
+        <assessmentname>FileBasedAssessment_R199_286</assessmentname>
+        <promptdetails>promptdetails</promptdetails>
+        <shareWithInitialString>studtitle_R199_286</shareWithInitialString>
+        <shareName>studtitle_R199_286</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>false</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <fileUpload>true</fileUpload>
+        <filename>img.png</filename>
+        <questionBank>true</questionBank>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R199.AttemptingFileBasedAssignmentAssignedByInstructor" index="286_1" method="">
+        <user_id>student_IT19_R199_286</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R199_286</context_id>
+        <context_title>studtitle_R199_286</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R199.AttemptingFileBasedAssignmentAssignedByInstructor" index="299" method="">
+        <user_id>instructor_IT19_R199_299</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R199_299</context_id>
+        <context_title>studtitle_R199_299</context_title>
+        <assessmentname>FileBasedAssessment_R199_299</assessmentname>
+        <promptdetails>promptdetails</promptdetails>
+        <shareWithInitialString>studtitle_R199_299</shareWithInitialString>
+        <shareName>studtitle_R199_299</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>true</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <fileUpload>true</fileUpload>
+        <filename>img.png</filename>
+        <questionBank>true</questionBank>
+        <totalpoints>2</totalpoints>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R199.AttemptingFileBasedAssignmentAssignedByInstructor" index="299_1" method="">
+        <user_id>student_IT19_R199_299</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R199_299</context_id>
+        <context_title>studtitle_R199_299</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R199.AttemptingFileBasedAssignmentAssignedByInstructor" index="318" method="">
+        <user_id>instructor_IT19_R199_318</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R199_318</context_id>
+        <context_title>studtitle_R199_318</context_title>
+        <assessmentname>FileBasedAssessment_R199_318</assessmentname>
+        <promptdetails>promptdetails</promptdetails>
+        <shareWithInitialString>studtitle_R199_318</shareWithInitialString>
+        <shareName>studtitle_R199_318</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>false</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <fileUpload>true</fileUpload>
+        <filename>img.png</filename>
+        <questionBank>true</questionBank>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R199.AttemptingFileBasedAssignmentAssignedByInstructor" index="318_1" method="">
+        <user_id>student_IT19_R199_318</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R199_318</context_id>
+        <context_title>studtitle_R199_318</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R199.AttemptingFileBasedAssignmentAssignedByInstructor" index="324" method="">
+        <user_id>instructor_IT19_R199_324</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R199_324</context_id>
+        <context_title>studtitle_R199_324</context_title>
+        <assessmentname>FileBasedAssessment_R199_324</assessmentname>
+        <promptdetails>promptdetails</promptdetails>
+        <shareWithInitialString>studtitle_R199_324</shareWithInitialString>
+        <shareName>studtitle_R199_324</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>true</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <fileUpload>true</fileUpload>
+        <filename>img.png</filename>
+        <questionBank>true</questionBank>
+        <totalpoints>2</totalpoints>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R199.AttemptingFileBasedAssignmentAssignedByInstructor" index="324_1" method="">
+        <user_id>student_IT19_R199_324</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R199_324</context_id>
+        <context_title>studtitle_R199_324</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R199.AttemptingFileBasedAssignmentAssignedByInstructor" index="331" method="">
+        <user_id>instructor_IT19_R199_331</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R199_331</context_id>
+        <context_title>studtitle_R199_331</context_title>
+        <assessmentname>FileBasedAssessment_R199_331</assessmentname>
+        <promptdetails>promptdetails</promptdetails>
+        <shareWithInitialString>studtitle_R199_331</shareWithInitialString>
+        <shareName>studtitle_R199_331</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>true</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <fileUpload>true</fileUpload>
+        <filename>img.png</filename>
+        <questionBank>true</questionBank>
+        <totalpoints>2</totalpoints>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R199.AttemptingFileBasedAssignmentAssignedByInstructor" index="331_1" method="">
+        <user_id>student_IT19_R199_331</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R199_331</context_id>
+        <context_title>studtitle_R199_331</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R199.ImpactsOnAssignmentDiscussionOnTheStudentSide" index="352" method="">
+        <user_id>instructor_IT19_R199_352</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R199_352</context_id>
+        <context_title>studtitle_R199_352</context_title>
+        <assessmentname>FileBasedAssessment_R199_352</assessmentname>
+        <promptdetails>promptdetails</promptdetails>
+        <shareWithInitialString>studtitle_R199_352</shareWithInitialString>
+        <shareName>studtitle_R199_352</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>true</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <fileUpload>true</fileUpload>
+        <filename>img.png</filename>
+        <questionBank>true</questionBank>
+        <totalpoints>2</totalpoints>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R199.ImpactsOnAssignmentDiscussionOnTheStudentSide" index="352_1" method="">
+        <user_id>student_IT19_R199_352</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R199_352</context_id>
+        <context_title>studtitle_R199_352</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R199.ImpactsOnAssignmentDiscussionOnTheStudentSide" index="357" method="">
+        <user_id>instructor_IT19_R199_357</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R199_357</context_id>
+        <context_title>studtitle_R199_357</context_title>
+        <assessmentname>FileBasedAssessment_R199_357</assessmentname>
+        <promptdetails>promptdetails</promptdetails>
+        <shareWithInitialString>studtitle_R199_357</shareWithInitialString>
+        <shareName>studtitle_R199_357</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>true</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <fileUpload>true</fileUpload>
+        <filename>img.png</filename>
+        <questionBank>true</questionBank>
+        <totalpoints>2</totalpoints>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R199.ImpactsOnAssignmentDiscussionOnTheStudentSide" index="357_1" method="">
+        <user_id>student_IT19_R199_357</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R199_357</context_id>
+        <context_title>studtitle_R199_357</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R199.ImpactsOnAssignmentDiscussionOnTheStudentSide" index="370" method="">
+        <user_id>instructor_IT19_R199_370</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R199_370</context_id>
+        <context_title>studtitle_R199_370</context_title>
+        <assessmentname>FileBasedAssessment_R199_370</assessmentname>
+        <promptdetails>promptdetails</promptdetails>
+        <shareWithInitialString>studtitle_R199_370</shareWithInitialString>
+        <shareName>studtitle_R199_370</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>true</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <fileUpload>true</fileUpload>
+        <filename>img.png</filename>
+        <questionBank>true</questionBank>
+        <totalpoints>2</totalpoints>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R199.ImpactsOnAssignmentDiscussionOnTheStudentSide" index="370_1" method="">
+        <user_id>student_IT19_R199_370</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R199_370</context_id>
+        <context_title>studtitle_R199_370</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R199.ImpactsOnAssignmentDiscussionOnTheStudentSide" index="391" method="">
+        <user_id>instructor_IT19_R199_391</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R199_391</context_id>
+        <context_title>studtitle_R199_391</context_title>
+        <assessmentname>FileBasedAssessment_R199_391</assessmentname>
+        <promptdetails>promptdetails</promptdetails>
+        <shareWithInitialString>studtitle_R199_391</shareWithInitialString>
+        <shareName>studtitle_R199_391</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>true</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <fileUpload>true</fileUpload>
+        <filename>img.png</filename>
+        <questionBank>true</questionBank>
+        <totalpoints>2</totalpoints>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R199.ImpactsOnAssignmentDiscussionOnTheStudentSide" index="391_1" method="">
+        <user_id>student_IT19_R199_391</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R199_391</context_id>
+        <context_title>studtitle_R199_391</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R199.ImpactsOnAssignmentDiscussionOnTheStudentSide" index="412" method="">
+        <user_id>instructor_IT19_R199_412</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R199_412</context_id>
+        <context_title>studtitle_R199_412</context_title>
+        <fileUpload>true</fileUpload>
+        <filename>img.png</filename>
+        <shareWithInitialString>studtitle_R199_118a</shareWithInitialString>
+        <shareName>studtitle_R199_118a</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R199.ImpactsOnAssignmentDiscussionOnTheStudentSide" index="412_1" method="">
+        <user_id>student_IT19_R199_412</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R199_412</context_id>
+        <context_title>studtitle_R199_412</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R199.ImpactsOnAssignmentDiscussionOnTheStudentSide" index="464" method="">
+        <user_id>instructor_IT19_R199_464_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R199_464_1</context_id>
+        <context_title>studtitle_R199_464_1</context_title>
+        <fileUpload>true</fileUpload>
+        <filename>img.png</filename>
+        <shareWithInitialString>studtitle_R199_464_1</shareWithInitialString>
+        <shareName>studtitle_R199_464_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R199.ImpactsOnAssignmentDiscussionOnTheStudentSide" index="464_1" method="">
+        <user_id>student_IT19_R199_464_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R199_464_1</context_id>
+        <context_title>studtitle_R199_464_1</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R199.FileBasedAssessmentNonGradable" index="61" method="InstructorFeedbackInStaticAssessment">
+        <user_id>IT19_R1922Instructor_9_4</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R1922_9_4</context_id>
+        <context_title>studtitle_R1922_9_4</context_title>
+        <assessmentname>Assignment_IT19_R1922_9_4</assessmentname>
+        <questionset>9questionset</questionset>
+        <questiontext>9 question text</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <reservforassignment>false</reservforassignment>
+        <useWriteBoard>true</useWriteBoard>
+        <filename>image</filename>
+        <secondFilename>img256</secondFilename>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+    </testcase>
+</learningspaces>

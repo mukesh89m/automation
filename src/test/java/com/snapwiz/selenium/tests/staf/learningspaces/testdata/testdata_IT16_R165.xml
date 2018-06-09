@@ -1,0 +1,403 @@
+<?xml version="1.0"?>
+<learningspaces>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R165.InstructorAbleToNavigateToGradeBook" index="2" method="instructorAbleToNavigateToGradeBook">
+        <user_id>instructor_IT16_R165_2_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R165_2_1</context_id>
+        <context_title>studtitle_IT16_R165_2_1</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R165.InstructorAbleToNavigateToGradeBook" index="6" method="instructorAbleToViewGradesForAllStudents">
+        <user_id>instructor_IT16_R165_6_5</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R165_6_5</context_id>
+        <context_title>studtitle_IT16_R165_6_5</context_title>
+        <assessmentname>6 Assessment</assessmentname>
+        <questionset>6 Question Set</questionset>
+        <questiontext>6 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R165.InstructorAbleToNavigateToGradeBook" index="7" method="instructorAbleToViewGradesForAllStudents">
+        <user_id>student_IT16_R165_7_5</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R165_6_5</context_id>
+        <context_title>studtitle_IT16_R165_6_5</context_title>
+        <assessmentname>6 Assessment</assessmentname>
+        <familyname>studLastName7</familyname>
+        <givenname>studFirstName7</givenname>
+        <shareWithInitialString>stud</shareWithInitialString>
+        <shareName>studFirstName7 studLastName7</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R165.InstructorAbleToNavigateToGradeBook" index="8" method="instructorAbleToViewGradesForAllStudents">
+        <user_id>student_IT16_R165_8_5</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R165_6_5</context_id>
+        <context_title>studtitle_IT16_R165_6_5</context_title>
+        <assessmentname>6 Assessment</assessmentname>
+        <familyname>studLastName8</familyname>
+        <givenname>studFirstName8</givenname>
+        <shareWithInitialString>stud</shareWithInitialString>
+        <shareName>studFirstName8 studLastName8</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R165.InstructorAbleToNavigateToGradeBook" index="9" method="instructorAbleToViewGradesForAllStudents">
+        <user_id>student_IT16_R165_9_5</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R165_6_5</context_id>
+        <context_title>studtitle_IT16_R165_6_5</context_title>
+        <assessmentname>6 Assessment</assessmentname>
+        <familyname>studLastName9</familyname>
+        <givenname>studFirstName9</givenname>
+        <shareWithInitialString>stud</shareWithInitialString>
+        <shareName>studFirstName9 studLastName9</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R165.InstructorAbleToNavigateToGradeBook" index="10" method="instructorAbleToViewGradesForAllStudents">
+        <context_title>studtitle_IT16_R165_6_5</context_title>
+        <assessmentname>10 Assessment</assessmentname>
+        <questionset>10 Question Set</questionset>
+        <questiontext>10 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>stud</shareWithInitialString>
+        <shareName>studFirstName7 studLastName7</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>false</gradeable>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R165.InstructorAbleToNavigateToGradeBook" index="11" method="instructorAbleToViewGradesForAllStudents">
+        <context_title>studtitle_IT16_R165_6_5</context_title>
+        <assessmentname>10 Assessment</assessmentname>
+        <shareWithInitialString>stud</shareWithInitialString>
+        <shareName>studFirstName8 studLastName8</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>false</gradeable>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R165.StudentAddedInExistingClass" index="32" method="studentAddedInExistingClass">
+        <user_id>instructor_IT16_R165_32_2</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R165_32_2</context_id>
+        <context_title>studtitle_IT16_R165_32_2</context_title>
+        <assessmentname>32 Assessment</assessmentname>
+        <questionset>32 Question Set</questionset>
+        <questiontext>32 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R165.StudentAddedInExistingClass" index="33" method="studentAddedInExistingClass">
+        <user_id>student_IT16_R165_33_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R165_32_2</context_id>
+        <context_title>studtitle_IT16_R165_32_2</context_title>
+        <assessmentname>32 Assessment</assessmentname>
+        <familyname>studLastName33</familyname>
+        <givenname>studFirstName33</givenname>
+        <shareWithInitialString>stud</shareWithInitialString>
+        <shareName>studtitle_IT16_R165_32_2</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R165.StudentAddedInExistingClass" index="34" method="studentAddedInExistingClass">
+        <user_id>student_IT16_R165_34_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R165_32_2</context_id>
+        <context_title>studtitle_IT16_R165_32_2</context_title>
+        <assessmentname>32 Assessment</assessmentname>
+        <familyname>studLastName34</familyname>
+        <givenname>studFirstName34</givenname>
+        <shareWithInitialString>stud</shareWithInitialString>
+        <shareName>studtitle_IT16_R165_32_2</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R165.StudentAddedInExistingClass" index="35" method="studentAddedInExistingClass">
+        <context_title>studtitle_IT16_R165_32_2</context_title>
+        <assessmentname>35 Assessment</assessmentname>
+        <questionset>35 Question Set</questionset>
+        <questiontext>35 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>stud</shareWithInitialString>
+        <shareName>studtitle_IT16_R165_32_2</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R165.VerifyGradebookForAssignmentWithImmediateFeedback" index="34" method="verifyGradebookForAssignmentWithImmediateFeedback">
+        <user_id>instructor_IT16_R165_34_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R165_34_1</context_id>
+        <context_title>studtitle_IT16_R165_34_1</context_title>
+        <assessmentname>34 Assessment</assessmentname>
+        <questionset>34 Question Set</questionset>
+        <questiontext>34 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>stud</shareWithInitialString>
+        <shareName>studtitle_IT16_R165_34_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <assignmentpolicy>Policy name</assignmentpolicy>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R165.VerifyGradebookForAssignmentWithImmediateFeedback" index="34_1" method="verifyGradebookForAssignmentWithImmediateFeedback">
+        <user_id>student_IT16_R165_34_1_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R165_34_1</context_id>
+        <context_title>studtitle_IT16_R165_34_1</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R165.DiscussionWidgetAsGradableAssignment" index="36" method="discussionWidgetAsGradableAssignment">
+        <user_id>instructor_IT16_R165_36_3</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R165_36_3</context_id>
+        <context_title>studtitle_IT16_R165_36_3</context_title>
+        <gradable>true</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <totalpoints>2</totalpoints>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R165.DiscussionWidgetAsGradableAssignment" index="36_1" method="discussionWidgetAsGradableAssignment">
+        <user_id>student_IT16_R165_36_1_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R165_36_3</context_id>
+        <context_title>studtitle_IT16_R165_36_3</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R165.MentorAbleToNavigateToGradeBook" index="40" method="mentorAbleToNavigateToGradeBook">
+        <user_id>mentor_IT16_R165_40_1</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontext_IT16_R165_40_1</context_id>
+        <context_title>studtitle_IT16_R165_40_1</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R165.MentorAbleToNavigateToGradeBook" index="43" method="mentorAbleToViewGradesForAllStudents">
+        <user_id>mentor_IT16_R165_43_5</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontext_IT16_R165_43_5</context_id>
+        <context_title>studtitle_IT16_R165_43_5</context_title>
+        <assessmentname>43 Assessment</assessmentname>
+        <questionset>43 Question Set</questionset>
+        <questiontext>43 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studFirstName44</shareWithInitialString>
+        <shareName>studFirstName44 studLastName44</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>false</gradeable>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R165.MentorAbleToNavigateToGradeBook" index="44" method="mentorAbleToViewGradesForAllStudents">
+        <user_id>student_IT16_R165_44_5</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R165_43_5</context_id>
+        <context_title>studtitle_IT16_R165_43_5</context_title>
+        <assessmentname>43 Assessment</assessmentname>
+        <familyname>studLastName44</familyname>
+        <givenname>studFirstName44</givenname>
+        <shareWithInitialString>studFirstName44</shareWithInitialString>
+        <shareName>studFirstName44 studLastName44</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R165.MentorAbleToNavigateToGradeBook" index="45" method="mentorAbleToViewGradesForAllStudents">
+        <user_id>student_IT16_R165_45_5</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R165_43_5</context_id>
+        <context_title>studtitle_IT16_R165_43_5</context_title>
+        <assessmentname>43 Assessment</assessmentname>
+        <familyname>studLastName45</familyname>
+        <givenname>studFirstName45</givenname>
+        <shareWithInitialString>studFirstName45</shareWithInitialString>
+        <shareName>studFirstName45 studLastName45</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R165.MentorAbleToNavigateToGradeBook" index="46" method="mentorAbleToViewGradesForAllStudents">
+        <user_id>student_IT16_R165_46_5</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R165_43_5</context_id>
+        <context_title>studtitle_IT16_R165_43_5</context_title>
+        <assessmentname>43 Assessment</assessmentname>
+        <familyname>studLastName46</familyname>
+        <givenname>studFirstName46</givenname>
+        <shareWithInitialString>studFirstName46 studLastName46</shareWithInitialString>
+        <shareName>studFirstName46 studLastName46</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R165.MentorAbleToNavigateToGradeBook" index="47" method="mentorAbleToViewGradesForAllStudents">
+        <context_id>studcontext_IT16_R165_43_5</context_id>
+        <context_title>studtitle_IT16_R165_43_5</context_title>
+        <assessmentname>47 Assessment</assessmentname>
+        <questionset>47 Question Set</questionset>
+        <questiontext>47 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studFirstName44</shareWithInitialString>
+        <shareName>studFirstName44 studLastName44</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>false</gradeable>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R165.MentorAbleToNavigateToGradeBook" index="48" method="mentorAbleToViewGradesForAllStudents">
+        <context_title>studtitle_IT16_R165_43_5</context_title>
+        <assessmentname>47 Assessment</assessmentname>
+        <shareWithInitialString>studFirstName45</shareWithInitialString>
+        <shareName>studFirstName45 studLastName45</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>false</gradeable>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R165.MentorAddsStudentInExistingClass" index="32" method="mentorAddsStudentInExistingClass">
+        <user_id>mentor_IT16_R165_32_3</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontext_IT16_R165_32_3</context_id>
+        <context_title>studtitle_IT16_R165_32_3</context_title>
+        <assessmentname>32_3 Assessment</assessmentname>
+        <questionset>32_3 Question Set</questionset>
+        <questiontext>32_3 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R165.MentorAddsStudentInExistingClass" index="33" method="mentorAddsStudentInExistingClass">
+        <user_id>student_IT16_R165_33_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R165_32_3</context_id>
+        <context_title>studtitle_IT16_R165_32_3</context_title>
+        <assessmentname>32_3 Assessment</assessmentname>
+        <familyname>studLastName33</familyname>
+        <givenname>studFirstName33</givenname>
+        <shareWithInitialString>studtitle_IT16_R165_32_3</shareWithInitialString>
+        <shareName>studtitle_IT16_R165_32_3</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R165.MentorAddsStudentInExistingClass" index="34" method="mentorAddsStudentInExistingClass">
+        <user_id>student_IT16_R165_34_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R165_32_3</context_id>
+        <context_title>studtitle_IT16_R165_32_3</context_title>
+        <assessmentname>32_3 Assessment</assessmentname>
+        <familyname>studLastName34</familyname>
+        <givenname>studFirstName34</givenname>
+        <shareWithInitialString>studtitle_IT16_R165_32_3</shareWithInitialString>
+        <shareName>studtitle_IT16_R165_32_3</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R165.MentorAddsStudentInExistingClass" index="35" method="mentorAddsStudentInExistingClass">
+        <context_title>studtitle_IT16_R165_32_3</context_title>
+        <assessmentname>35_3 Assessment</assessmentname>
+        <questionset>35_3 Question Set</questionset>
+        <questiontext>35_3 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_IT16_R165_32_3</shareWithInitialString>
+        <shareName>studtitle_IT16_R165_32_3</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R165.MentorVerifyGradebookForAssignmentWithImmediateFeedback" index="34" method="mentorVerifyGradebookForAssignmentWithImmediateFeedback">
+        <user_id>mentor_IT16_R165_34_2</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontext_IT16_R165_34_2</context_id>
+        <context_title>studtitle_IT16_R165_34_2</context_title>
+        <assessmentname>34_1 Assessment</assessmentname>
+        <questionset>34_1 Question Set</questionset>
+        <questiontext>34_1 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_IT16_R165_34_2</shareWithInitialString>
+        <shareName>studtitle_IT16_R165_34_2</shareName>
+        <shareWithClass>true</shareWithClass>
+        <assignmentpolicy>Policy name</assignmentpolicy>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R165.MentorVerifyGradebookForAssignmentWithImmediateFeedback" index="34_1" method="mentorVerifyGradebookForAssignmentWithImmediateFeedback">
+        <user_id>student_IT16_R165_34_1_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R165_34_2</context_id>
+        <context_title>studtitle_IT16_R165_34_2</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R165.MentorAssignsDiscussionWidgetAsGradableAssignment" index="71" method="mentorAssignsDiscussionWidgetAsGradableAssignment">
+        <user_id>mentor_IT16_R165_71_4</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontext_IT16_R165_71_4</context_id>
+        <context_title>studtitle_IT16_R165_71_4</context_title>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studtitle_IT16_R165_71_4</shareWithInitialString>
+        <shareName>studtitle_IT16_R165_71_4</shareName>
+        <gradable>true</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <totalpoints>2</totalpoints>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R165.MentorAssignsDiscussionWidgetAsGradableAssignment" index="71_1" method="mentorAssignsDiscussionWidgetAsGradableAssignment">
+        <user_id>student_IT16_R165_71_1_4</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R165_71_4</context_id>
+        <context_title>studtitle_IT16_R165_71_4</context_title>
+    </testcase>
+</learningspaces>

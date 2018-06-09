@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<learningspaces>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R167.StudentAbleToViewOverallScoreForAllAssignment" index="2" method="studentAbleToViewOverallScoreForAllAssignment">
+        <user_id>student_IT16_R167_2_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R167_2_1</context_id>
+        <context_title>studtitle_IT16_R167_2_1</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R167.StudentAbleToViewOverallScoreForAllAssignment" index="4" method="overallScoreForGradableAssignment">
+        <user_id>instructor_IT16_R167_4_2</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R167_4_2</context_id>
+        <context_title>studtitle_IT16_R167_4_2</context_title>
+        <assessmentname>4 Assessment</assessmentname>
+        <questionset>4 Question Set</questionset>
+        <questiontext>4 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>stud</shareWithInitialString>
+        <shareName>studtitle_IT16_R167_4_2</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R167.StudentAbleToViewOverallScoreForAllAssignment" index="4_1" method="overallScoreForGradableAssignment">
+        <user_id>student_IT16_R167_4_1_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R167_4_2</context_id>
+        <context_title>studtitle_IT16_R167_4_2</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R167.StudentAbleToViewOverallScoreForAllAssignment" index="4_2" method="overallScoreForGradableAssignment">
+        <user_id>mentor_IT16_R167_4_1_2</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontext_IT16_R167_4_2</context_id>
+        <context_title>studtitle_IT16_R167_4_2</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R167.StudentAbleToViewOverallScoreForAllAssignment" index="5" method="overallScoreForGradableAssignment">
+        <assessmentname>5 Assessment</assessmentname>
+        <questionset>5 Question Set</questionset>
+        <questiontext>5 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>stud</shareWithInitialString>
+        <shareName>studtitle_IT16_R167_4_2</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R167.StudentAbleToViewOverallScoreForAllAssignment" index="14" method="overallScoreOfAssignmentWithPolicy">
+        <user_id>instructor_IT16_R167_14_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R167_14_1</context_id>
+        <context_title>studtitle_IT16_R167_14_1</context_title>
+        <assessmentname>14 Assessment</assessmentname>
+        <questionset>14 Question Set</questionset>
+        <questiontext>14 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_IT16_R167_14_1</shareWithInitialString>
+        <shareName>studtitle_IT16_R167_14_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicy>14 Policy Name</assignmentpolicy>
+        <policyname>14 Policy Name</policyname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R167.StudentAbleToViewOverallScoreForAllAssignment" index="14_1" method="overallScoreOfAssignmentWithPolicy">
+        <user_id>student_IT16_R167_14_1_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R167_14_1</context_id>
+        <context_title>studtitle_IT16_R167_14_1</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R167.StudentAbleToViewOverallScoreForDwAssignment" index="9" method="studentAbleToViewOverallScoreForDwAssignment">
+        <user_id>instructor_IT16_R167_9_5</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R167_9_5</context_id>
+        <context_title>studtitle_IT16_R167_9_5</context_title>
+        <shareWithInitialString>stud</shareWithInitialString>
+        <shareName>studtitle_IT16_R167_9_5</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>true</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <totalpoints>1</totalpoints>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R167.StudentAbleToViewOverallScoreForDwAssignment" index="9_1" method="studentAbleToViewOverallScoreForDwAssignment">
+        <user_id>student_IT16_R167_9_1_5</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R167_9_5</context_id>
+        <context_title>studtitle_IT16_R167_9_5</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R167.StudentAbleToViewOverallScoreForDwAssignment" index="20" method="studentAbleToViewOverallScoreForNonGradableDwAssignment">
+        <user_id>instructor_IT16_R167_20_2</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R167_20_2</context_id>
+        <context_title>studtitle_IT16_R167_20_2</context_title>
+        <shareWithInitialString>stud</shareWithInitialString>
+        <shareName>studtitle_IT16_R167_20_2</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>false</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R167.StudentAbleToViewOverallScoreForDwAssignment" index="20_1" method="studentAbleToViewOverallScoreForNonGradableDwAssignment">
+        <user_id>student_IT16_R167_20_1_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT16_R167_20_2</context_id>
+        <context_title>studtitle_IT16_R167_20_2</context_title>
+    </testcase>
+</learningspaces>

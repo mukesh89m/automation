@@ -1,0 +1,38 @@
+<config>
+        <platform>linux</platform>
+		<browser>firefox</browser>
+		<course>Biology</course>
+		<lscourse>Geography: Realms, Regions, and Concepts - Sixteenth Edition</lscourse>
+		<baseURL>https://10.0.0.68/</baseURL>
+		<LTIURL>http://idc-lti1.snapwiz.lan/</LTIURL>
+		<LaunchURL>http://10.0.0.68/</LaunchURL>
+		<remoteBrowser>FIREFOX</remoteBrowser>
+        <studentEmail>build@snapwiz.com</studentEmail>
+        <emailPassword>snapwiz123</emailPassword>
+		<customerkey>wileyplusproduction</customerkey>
+		<secretkey>qp5bd658az8</secretkey>
+		<resourselinkid>home</resourselinkid>
+		<context_id>studcontext</context_id>
+		<context_title>studtitle</context_title>
+		<familyname>family</familyname>
+		<givenname>givenname</givenname>
+		<email>automation@snapwiz.com</email>
+		<instance_guid>WileyPLUS</instance_guid>
+		<instance_name>wileyplus.com</instance_name>
+		<courseID>253</courseID>
+		<adaptiveCourseID>251</adaptiveCourseID>
+		<lsCourseId>250</lsCourseId>
+		<custom_instructor_classlist>[{"classid":"cls123","title":"Biology's 101","classcode":"BIO-101","state":"Active"},{"classid":"cls234","title":"Biology's 101","classcode":"BIO-101","state":"Active"}]</custom_instructor_classlist>
+		<custom_destination>snapwiz-homepage</custom_destination>
+		<custom_domainid>autodomain</custom_domainid>
+		<custom_course_number>autocustno</custom_course_number>
+		<custom_domain_name>studtitle</custom_domain_name>
+		<dbconnecturl>jdbc:mysql://10.0.0.70:3306/</dbconnecturl>
+		<dbName>mongrel</dbName>
+		<dbdriver>com.mysql.jdbc.Driver</dbdriver>
+		<dbuserName>dbuser</dbuserName>
+		<FileUploadPath>C:\Projects\staf\src\test\resources\edulasticupload\</FileUploadPath>
+		<cmsUserName>gaurav.author@snapwiz.com</cmsUserName>
+		<dbPassword>dbpassword</dbPassword>
+		<cmsPassword>snapwiz</cmsPassword>
+</config>

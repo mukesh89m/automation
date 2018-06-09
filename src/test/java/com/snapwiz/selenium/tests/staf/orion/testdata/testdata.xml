@@ -1,0 +1,1404 @@
+<?xml version="1.0"?>
+<orion>
+	<testcase id="tlos" index = "0">
+		<tlo1>Define what is business.</tlo1>
+		<tlo2>Identify and describe the factors of production.</tlo2>
+		<tlo3>Describe the private enterprise system.</tlo3>
+		<tlo4>Identify the six eras in the history of business.</tlo4>
+		<tlo5>Explain how today's business workforce and the nature of work itself is changing.</tlo5>
+		<tlo6>Identify the skills and attributes needed for the 21st century manager.</tlo6>
+		<tlo7>Outline the characteristics that make a company admired.</tlo7>
+</testcase>
+	<testcase id="tloids" index="0">
+		<tlo1>4806</tlo1>
+		<tlo2>4807</tlo2>
+		<tlo3>4808</tlo3>
+		<tlo4>4809</tlo4>
+		<tlo5>4810</tlo5>
+		<tlo6>4811</tlo6>
+		<tlo7>4812</tlo7>
+	</testcase>
+	<testcase id="chapternames" index = "0">
+	    <chapter1>Ch 1: The Changing Face of Business</chapter1>
+        <chapter2>Ch 2: Business Ethics and Social Responsibility</chapter2>
+	</testcase>
+
+	<testcase id="CreateChapterTest" index="1">
+		<newChapterName>Chapter Test</newChapterName>
+		<chapterName>Chapter Test</chapterName>
+		<diagassessmentname>Diagnostic Test</diagassessmentname>
+		<questionset>Question Set</questionset>
+		<questiontext>Question Text Chapter</questiontext>
+		<answertext>Answer Choice</answertext>
+		<practiceassessmentname>Practice Test</practiceassessmentname>
+		<difficultylevel>Easy</difficultylevel>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.Unless50QuestionPerformancebarNotApper" index="1"	method="Unless50QuestionPerformancebarNotApper">
+		<user_id>studentorion1</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.Unless50QuestionPerformancebarNotApper" index="2"	method="Unless50QuestionPerformancebarNotApper">
+		<user_id>studentorion2</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.Unless50QuestionPerformancebarNotApper" index="3"	method="Unless50QuestionPerformancebarNotApper">
+		<user_id>studentorion3</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficiencyVariationWithConfidence" index="24"
+		method="proficiencyVariationWithConfidence1AnswerInCorrectly">
+		<user_id>student24_4</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficiencyVariationWithConfidence" index="25"
+		method="proficiencyVariationWithConfidence1AnswerInCorrectly">
+		<user_id>student25_4</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficiencyVariationWithConfidence" index="26"
+		method="proficiencyVariationWithConfidence1AnswerInCorrectly">
+		<user_id>student26_1</user_id>
+		<Role>student</Role>
+	</testcase>
+
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficiencyVariationWithConfidence" index="27"
+		method="proficiencyVariationWithConfidence1AnswerInCorrectly">
+		<user_id>student27</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficencyVariationWithConfidenceLevelAndHint"
+		index="28" method="proficencyVariationWithConfidenceLevelAndHintwithCorrectAnswer">
+		<user_id>student28_11</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficencyVariationWithConfidenceLevelAndHint"
+		index="29" method="proficencyVariationWithConfidenceLevelAndHintwithCorrectAnswer">
+		<user_id>student29</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficencyVariationWithConfidenceLevelAndHint"
+		index="30" method="proficencyVariationWithConfidenceLevelAndHintwithCorrectAnswer">
+		<user_id>student30</user_id>
+		<Role>student</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficencyVariationWithConfidenceLevelAndHint"
+		index="31" method="proficencyVariationWithConfidenceLevelAndHintwithCorrectAnswer">
+		<user_id>student31</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficencyVariationWithConfidenceLevelAndHint"
+		index="32" method="proficencyVariationWithConfidenceLevelAndHintwithCorrectAnswer">
+		<user_id>student32_1</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficencyVariationWithConfidenceLevelAndHint"
+		index="33" method="proficencyVariationWithConfidenceLevelAndHintwithCorrectAnswer">
+		<user_id>student33</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficencyVariationWithConfidenceLevelAndHint"
+		index="34" method="proficencyVariationWithConfidenceLevelAndHintwithCorrectAnswer">
+		<user_id>student34</user_id>
+		<Role>student</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficencyVariationWithConfidenceLevelAndHint"
+		index="35" method="proficencyVariationWithConfidenceLevelAndHintwithCorrectAnswer">
+		<user_id>student35</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficienciesModerateVariation" index="40"
+		method="ProficiencyModrateWithIncorrectPracticeAndUsingHints">
+		<user_id>student40</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficienciesModerateVariation" index="41"
+		method="ProficiencyModrateWithskipAnswerPracticeAndUsingHints">
+		<user_id>student41</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficienciesModrateVariationWithConfidence"
+		index="42" method="ProficienciesModrateVariationWithConfidenceCorrectAnswer">
+		<user_id>student42_5</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficienciesModrateVariationWithConfidence"
+		index="43" method="ProficienciesModrateVariationWithConfidenceCorrectAnswer">
+		<user_id>student43_1</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficienciesModrateVariationWithConfidence"
+		index="44" method="ProficienciesModrateVariationWithConfidenceCorrectAnswer">
+		<user_id>student44_2</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficienciesModrateVariationWithConfidence"
+		index="45" method="ProficienciesModrateVariationWithConfidenceCorrectAnswer">
+		<user_id>student45</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficienciesModrateVariationWithConfidence"
+		index="46" method="ProficienciesModrateVariationWithConfidenceInCorrectAnswer">
+		<user_id>student46</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficienciesModrateVariationWithConfidence"
+		index="47" method="ProficienciesModrateVariationWithConfidenceInCorrectAnswer">
+		<user_id>student47</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficienciesModrateVariationWithConfidence"
+		index="48" method="ProficienciesModrateVariationWithConfidenceInCorrectAnswer">
+		<user_id>student48</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficienciesModrateVariationWithConfidence"
+		index="49" method="ProficienciesModrateVariationWithConfidenceInCorrectAnswer">
+		<user_id>student49</user_id>
+		<Role>student</Role>
+	</testcase>
+
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficienciesModeratevariationWithConfidenceAndHint"
+		index="50" method="ProficienciesModrateVariationWithConfidenceInCorrectAnswer">
+		<user_id>student50_1</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficienciesModeratevariationWithConfidenceAndHint"
+		index="51" method="ProficienciesModrateVariationWithConfidenceInCorrectAnswer">
+		<user_id>student51_2</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficienciesModeratevariationWithConfidenceAndHint"
+		index="52" method="ProficienciesModrateVariationWithConfidenceInCorrectAnswer">
+		<user_id>student52</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficienciesModeratevariationWithConfidenceAndHint"
+		index="53" method="ProficienciesModrateVariationWithConfidenceInCorrectAnswer">
+		<user_id>student53</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficienciesModeratevariationWithConfidenceAndHint"
+		index="54" method="ProficienciesModrateVariationWithConfidenceInCorrectAnswer">
+		<user_id>student54</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficienciesModeratevariationWithConfidenceAndHint"
+		index="55" method="ProficienciesModrateVariationWithConfidenceInCorrectAnswer">
+		<user_id>student55</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficienciesModeratevariationWithConfidenceAndHint"
+		index="56" method="ProficienciesModrateVariationWithConfidenceInCorrectAnswer">
+		<user_id>student56</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficienciesModeratevariationWithConfidenceAndHint"
+		index="57" method="ProficienciesModrateVariationWithConfidenceInCorrectAnswer">
+		<user_id>student57</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficienciesVariationWithHighExistingProf"
+		index="58" method="proficiencyImprovedWithCorrectAnswerInPracticeTest">
+		<user_id>student58</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficienciesVariationWithHighExistingProf"
+		index="59" method="proficiencyDeclinedWithInCorrectAnswerInPracticeTest">
+		<user_id>student59</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficienciesVariationWithHighExistingProf"
+		index="60" method="proficiencySameWithSkipAnswerInPracticeTest">
+		<user_id>student60</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficienciesVariationWithHighExistingProfUsingHints"
+		index="61" method="proficiencySameWithSkipAnswerInPracticeTest">
+		<user_id>student61_1</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficienciesVariationWithHighExistingProfUsingHints"
+		index="62" method="proficiencySameWithSkipAnswerInPracticeTest">
+		<user_id>student62_1</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficienciesVariationWithHighExistingProfUsingHints"
+		index="63" method="proficiencySameWithSkipAnswerInPracticeTest">
+		<user_id>student63_1</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficienciesVariationWithHighExistingProfWithConfidenceLevel"	index="64"	method="ProficienciesVariationWithHighExistingProfWithConfidenceLevelanswercorrectly">
+		<user_id>student64_8</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficienciesVariationWithHighExistingProfWithConfidenceLevel" index="65" 	method="ProficienciesVariationWithHighExistingProfWithConfidenceLevelanswercorrectly">
+		<user_id>student65_8</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficienciesVariationWithHighExistingProfWithConfidenceLevel" index="66"	method="ProficienciesVariationWithHighExistingProfWithConfidenceLevelanswercorrectly">
+		<user_id>student66_8</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficienciesVariationWithHighExistingProfWithConfidenceLevel" index="67"
+		method="ProficienciesVariationWithHighExistingProfWithConfidenceLevelanswercorrectly">
+		<user_id>student67_8</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase
+		id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficienciesVariationWithHighExistingProfWithConfidenceLevel"
+		index="68"
+		method="ProficienciesVariationWithHighExistingProfWithConfidenceLevelanswercorrectly">
+		<user_id>student68_1</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase
+		id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficienciesVariationWithHighExistingProfWithConfidenceLevel"
+		index="69"
+		method="ProficienciesVariationWithHighExistingProfWithConfidenceLevelanswercorrectly">
+		<user_id>student69_1</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase
+		id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficienciesVariationWithHighExistingProfWithConfidenceLevel"
+		index="70"
+		method="ProficienciesVariationWithHighExistingProfWithConfidenceLevelanswercorrectly">
+		<user_id>student70_1</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase
+		id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficienciesVariationWithHighExistingProfWithConfidenceLevel"
+		index="71"
+		method="ProficienciesVariationWithHighExistingProfWithConfidenceLevelanswercorrectly">
+		<user_id>student71_1</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase
+		id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficienciesVariationWithHighExistingProfWithConfidenceLevelAndHints"
+		index="72"
+		method="ProficienciesVariationWithHighExistingProfWithConfidenceLevelAndHintsanswercorrectly">
+		<user_id>student72</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase
+		id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficienciesVariationWithHighExistingProfWithConfidenceLevelAndHints"
+		index="73"
+		method="ProficienciesVariationWithHighExistingProfWithConfidenceLevelAndHintsanswercorrectly">
+		<user_id>student73</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase
+		id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficienciesVariationWithHighExistingProfWithConfidenceLevelAndHints"
+		index="74"
+		method="ProficienciesVariationWithHighExistingProfWithConfidenceLevelAndHintsanswercorrectly">
+		<user_id>student74</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase
+		id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficienciesVariationWithHighExistingProfWithConfidenceLevelAndHints"
+		index="75"
+		method="ProficienciesVariationWithHighExistingProfWithConfidenceLevelAndHintsanswercorrectly">
+		<user_id>student75</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase
+		id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficienciesVariationWithHighExistingProfWithConfidenceLevelAndHints"
+		index="76"
+		method="ProficienciesVariationWithHighExistingProfWithConfidenceLevelAndHintsanswercorrectly">
+		<user_id>student76_6</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase
+		id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficienciesVariationWithHighExistingProfWithConfidenceLevelAndHints"
+		index="77"
+		method="ProficienciesVariationWithHighExistingProfWithConfidenceLevelAndHintsanswercorrectly">
+		<user_id>student77_6</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase
+		id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficienciesVariationWithHighExistingProfWithConfidenceLevelAndHints"
+		index="78"
+		method="ProficienciesVariationWithHighExistingProfWithConfidenceLevelAndHintsanswercorrectly">
+		<user_id>student78_6</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase
+		id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficienciesVariationWithHighExistingProfWithConfidenceLevelAndHints"
+		index="79"
+		method="ProficienciesVariationWithHighExistingProfWithConfidenceLevelAndHintsanswercorrectly">
+		<user_id>student79_6</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.VerifyContentErrorReporting" index="287"
+		method="ContentIssueReportedByInstrictor">
+		<user_id>instructor287_12</user_id>
+		<Role>instructor</Role>
+		<Texttoverify>Thank you for helping to maintain the quality of
+			WileyPLUS ORION content. All reported issues will be investigated by
+			Wiley, and necessary corrections will be made. Are you sure you would
+			like to report this issue?
+
+			Click Yes to report this issue, or
+
+			Cancel to go back to the question
+		</Texttoverify>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.VerifyContentErrorReporting" index="288"
+		method="ContentIssueReportedByInstrictor">
+		<user_id>instructor288</user_id>
+		<Role>instructor</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.InstructorProfile" index="360" method="instructorprofileupdate">
+		<user_id>instructor360</user_id>
+		<Role>instructor</Role>
+		<filename>img.png</filename>
+		<filename1>index.jpg</filename1>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.AvailabiltyOfHintsButtonOnQuestionPreviewScreen"
+		index="396" method="availabilityofhintbutton">
+        <assessmentname>396 practice test</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>396 question</questionset>
+        <questiontext>396 questiontext</questiontext>
+		<chapterName>Ch 1: The Changing Face of Business</chapterName>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.InstructorSeeAllDiscussionAndReplytoDiscussion" index="980" method="instructorSeeAllDiscussionAndReplytoDiscussion">
+		<user_id >student980</user_id >
+		<Role>student</Role>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.InstructorSeeAllDiscussionAndReplytoDiscussion" index="9801" method="instructorSeeAllDiscussionAndReplytoDiscussion">
+		<user_id >instructor9801</user_id >
+		<Role>instructor</Role>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.InstructorSeeDiscussionItemHighlighted" index="927" method="instructorSeeDiscussionItemHighlighted">
+		<user_id >instructor927</user_id >
+		<Role>instructor</Role>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.InstructorSeeDiscussionItemHighlighted" index="9271" method="instructorSeeDiscussionItemHighlighted">
+		<user_id >instructor9271</user_id >
+		<Role>instructor</Role>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.InstructorSeeDiscussionItemHighlighted" index="9272" method="instructorSeeDiscussionItemHighlighted">
+		<user_id >student9272</user_id >
+		<Role>student</Role>	
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.InstructorShowMostChallengingChapter" index="929" method="instructorShowMostChallengingChapter">
+		<user_id >student929</user_id >
+		<Role>student</Role>	
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.InstructorShowMostChallengingChapter" index="9291" method="instructorShowMostChallengingChapter">
+		<user_id >instructor9291</user_id >
+		<Role>instructor</Role>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.InstructorShowMostChallengingChapter" index="929_1" method="instructorShowMostChallengingChapter">
+		<user_id >student929_1</user_id >
+		<Role>student</Role>	
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.InstructorShowMostChallengingChapter" index="9291_1" method="instructorShowMostChallengingChapter">
+		<user_id >instructor9291_1</user_id >
+		<Role>instructor</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.InstructorShowMostChallengingLearningObjective" index="938" method="instructorShowMostChallengingLearningObjective">
+		<user_id >instructor938</user_id >
+		<Role>instructor</Role>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.InstructorShowMostChallengingLearningObjective" index="9382" method="instructorShowMostChallengingLearningObjective">
+		<user_id >student9382</user_id >
+		<Role>student</Role>	
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.InstructorShowMostChallengingLearningObjective" index="9381" method="instructorShowMostChallengingLearningObjective">
+		<user_id >instructor9381</user_id >
+		<Role>instructor</Role>
+		<custom_domainid>studtitle9381</custom_domainid>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.InstructorShowMostChallengingLearningObjective" index="947" method="pinofchapter">
+		<user_id >student947</user_id >
+		<Role>student</Role>	
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.InstructorShowMostChallengingLearningObjective" index="9471" method="pinofchapter">
+		<user_id >student9471</user_id >
+		<Role>student</Role>	
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.InstructorShowMostChallengingLearningObjective" index="9472" method="pinofchapter">
+		<user_id >instructor9381</user_id >
+		<Role>instructor</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.InstructorShowPerformanceReport" index="960" method="instructorShowPerformanceReport">
+		<user_id >student960_2</user_id >
+		<Role>student</Role>
+		<totalnoofquestion>20</totalnoofquestion>	
+		<context_id>studcontext960</context_id>
+		<context_title>studtitle960</context_title>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.InstructorShowPerformanceReport" index="9601" method="instructorShowPerformanceReport">
+		<user_id >instructor9601_2</user_id >
+		<Role>instructor</Role>
+		<context_id>studcontext960</context_id>
+		<context_title>studtitle960</context_title>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.InstructorShowSpecificStudentPerformance" index="999" method="instructorShowSpecificStudentPerformance">
+		<user_id >student999</user_id >
+		<Role>student</Role>
+		<context_id>studcontext999</context_id>
+		<context_title>studtitle999</context_title>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.InstructorShowSpecificStudentPerformance" index="9991" method="instructorShowSpecificStudentPerformance">
+		<user_id >instructor9991</user_id >
+		<Role>instructor</Role>
+		<context_id>studcontext999</context_id>
+		<context_title>studtitle999</context_title>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.InstructorShowSpecificStudentPerformance" index="1000" method="instructorShowStudentPerformanceinspecificchapter">
+		<user_id >instructor1000</user_id >
+		<Role>instructor</Role>
+		<context_id>studcontext999</context_id>
+		<context_title>studtitle999</context_title>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.MentorSeeAllDiscussionAndReplytoDiscussion" index="1099" method="mentorSeeAllDiscussionAndReplytoDiscussion">
+		<user_id >student1099</user_id >
+		<Role>student</Role>
+		<context_id>studcontext1099</context_id>
+		<context_title>studtitle1099</context_title>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.MentorSeeDiscussionItemHighlighted" index="1046" method="mentorSeeDiscussionItemHighlighted">
+		<user_id >mentor1046</user_id >
+		<Role>mentor</Role>
+		<context_id>studcontext1046</context_id>
+		<context_title>studtitle1046</context_title>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.MentorSeeDiscussionItemHighlighted" index="10461" method="mentorSeeDiscussionItemHighlighted">
+		<user_id >mentor10461</user_id >
+		<Role>mentor</Role>
+		<context_id>studcontext1046</context_id>
+		<context_title>studtitle1046</context_title>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.MentorSeeDiscussionItemHighlighted" index="10462" method="mentorSeeDiscussionItemHighlighted">
+		<user_id >student10462</user_id >
+		<Role>student</Role>
+		<context_id>studcontext1046</context_id>
+		<context_title>studtitle1046</context_title>	
+	</testcase>
+	
+		<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.MentorShowMostChallengingLearningObjective" index="1057" method="mentorShowMostChallengingLearningObjective">
+		<user_id >mentor1057</user_id >
+		<Role>mentor</Role>
+		<context_id>studcontext1057</context_id>
+		<context_title>studtitle1057</context_title>	
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.MentorShowMostChallengingLearningObjective" index="10572" method="mentorShowMostChallengingLearningObjective">
+		<user_id >student10572</user_id >
+		<Role>student</Role>
+		<context_id>studcontext1057</context_id>
+		<context_title>studtitle1057</context_title>		
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.MentorShowMostChallengingLearningObjective" index="10571" method="mentorShowMostChallengingLearningObjective">
+		<user_id >mentor10571</user_id >
+		<Role>mentor</Role>
+		<context_id>studcontext10571</context_id>
+		<context_title>studtitle10571</context_title>	
+		<custom_domainid>studtitle10571</custom_domainid>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.MentorShowMostChallengingLearningObjective" index="1066" method="pinofchapter">
+		<user_id >student1066</user_id >
+		<Role>student</Role>	
+		<context_id>studcontext1066</context_id>
+		<context_title>studtitle1066</context_title>	
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.MentorShowMostChallengingLearningObjective" index="10661" method="pinofchapter">
+		<user_id >student10661</user_id >
+		<Role>student</Role>	
+		<context_id>studcontext1066</context_id>
+		<context_title>studtitle1066</context_title>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.MentorShowMostChallengingLearningObjective" index="10662" method="pinofchapter">
+		<user_id >mentor10662</user_id >
+		<Role>mentor</Role>
+		<context_id>studcontext1066</context_id>
+		<context_title>studtitle1066</context_title>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.MentorSeeAllDiscussionAndReplytoDiscussion" index="10991" method="mentorSeeAllDiscussionAndReplytoDiscussion">
+		<user_id >mentor10991</user_id >
+		<Role>mentor</Role>
+		<context_id>studcontext1099</context_id>
+		<context_title>studtitle1099</context_title>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.MentorShowPerformanceReport" index="1079" method="mentorShowPerformanceReport">
+		<user_id >student1079</user_id >
+		<Role>student</Role>
+		<context_id>studcontext1079</context_id>
+		<context_title>studtitle1079</context_title>
+		<totalnoofquestion>20</totalnoofquestion>	
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.MentorShowPerformanceReport" index="10791" method="mentorShowPerformanceReport">
+		<user_id >mentor10791</user_id >
+		<Role>mentor</Role>
+		<context_id>studcontext1079</context_id>
+		<context_title>studtitle1079</context_title>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.MentorShowSpecificStudentPerformance" index="1118" method="mentorShowSpecificStudentPerformance">
+		<user_id >student1118</user_id >
+		<Role>student</Role>
+		<context_id>studcontext1118</context_id>
+		<context_title>studtitle1118</context_title>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.MentorShowSpecificStudentPerformance" index="11181" method="mentorShowSpecificStudentPerformance">
+		<user_id >mentor1118</user_id >
+		<Role>mentor</Role>
+		<context_id>studcontext1118</context_id>
+		<context_title>studtitle1118</context_title>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.MentorShowSpecificStudentPerformance" index="1119" method="mentorShowStudentPerformanceinspecificchapter">
+		<user_id >mentor1119</user_id >
+		<Role>mentor</Role>
+		<context_id>studcontext1118</context_id>
+		<context_title>studtitle1118</context_title>
+	</testcase>
+	
+		<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.NotificationWhenStudentNotSelectConfidenceLevel" index="754" method="notification1002">
+		<user_id >student754_5</user_id >
+		<Role>student</Role>		
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.NotificationWhenStudentNotSelectConfidenceLevel" index="756" method="notification1002">
+		<user_id >student756_6</user_id >
+		<Role>student</Role>		
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.NotificationWhenStudentNotSelectConfidenceLevel" index="7561" method="notification1005">
+		<user_id >student7561_4</user_id >
+		<Role>student</Role>		
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.NotificationWhenStudentNotSelectConfidenceLevel" index="760" method="notification1003">
+		<user_id >student760_2</user_id >
+		<Role>student</Role>		
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.NotificationWhenStudentNotSelectConfidenceLevel" index="7601" method="notification1003">
+		<user_id >student7601_1</user_id >
+		<Role>student</Role>		
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.NotificationWhenStudentNotSelectConfidenceLevel" index="762" method="notification1004">
+		<user_id >student762_7</user_id >
+		<Role>student</Role>		
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.NotificationWhenStudentNotSelectConfidenceLevel" index="766" method="notification1005">
+		<user_id >student766_4</user_id >
+		<Role>student</Role>		
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.NotificationWhenStudentNotSelectConfidenceLevel" index="7661" method="notification1005">
+		<user_id >student7661_2</user_id >
+		<Role>student</Role>		
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.NotificationWhenStudentNotSelectConfidenceLevel" index="769" method="notification1006">
+		<user_id >student769_3</user_id >
+		<Role>student</Role>		
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.NotificationWhenStudentNotSelectConfidenceLevel" index="774" method="notification1006">
+		<user_id >student774</user_id >
+		<Role>student</Role>		
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.NotificationWhenStudentNotSelectConfidenceLevel" index="777" method="notification1006">
+		<user_id >student777_2</user_id >
+		<Role>student</Role>		
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.AvailabiltyOfHintsButtonOnQuestionPreviewScreen"
+		index="397" method="availabilityofhintbutton">
+		<questionset>397 question</questionset>
+		<questiontext>397 questiontext</questiontext>
+		<chapterName>Ch 1: The Changing Face of Business</chapterName>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.AvailabiltyOfHintsButtonOnQuestionPreviewScreen"
+		index="398" method="availabilityofhintbutton">
+		<questionset>398 question</questionset>
+		<questiontext>398 questiontext</questiontext>
+		<chapterName>Ch 1: The Changing Face of Business</chapterName>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.AuthorAbleToPublishAllQuestions" index="405"
+		method="publishquestion">
+		<assessmentname>405 practice test</assessmentname>
+        <questiontype>Static Practice</questiontype>
+		<questionset>405 question</questionset>
+		<questiontext>405 questiontext</questiontext>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.AuthorAbleToPublishAllQuestions" index="406"
+		method="publishquestion">
+		<questionset>406 question</questionset>
+		<questiontext>406 questiontext</questiontext>
+		<chapterName>Ch 1: The Changing Face of Business</chapterName>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.AuthorAbleToPublishAllQuestions" index="407"
+		method="publishquestion">
+		<questionset>407 question</questionset>
+		<questiontext>407 questiontext</questiontext>
+		<chapterName>Ch 1: The Changing Face of Business</chapterName>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.DaigonsticTestisContinueWithDiffrentSection"
+		index="418" method="daigonsticTestisContinueWithDiffrentSection">
+		<user_id>student418_3</user_id>
+		<Role>student</Role>
+		<custom_domainid>autodomain</custom_domainid>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.DaigonsticTestisContinueWithDiffrentSection"
+		index="4181" method="daigonsticTestisContinueWithDiffrentSection">
+		<user_id>student418_3</user_id>
+		<Role>student</Role>
+		<custom_domainid>autodomain1</custom_domainid>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.DashBoardOfStudent" index="419" method="DashBoard">
+		<user_id>student419_2</user_id>
+		<Role>student</Role>
+		<custom_domainid>autodomain</custom_domainid>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.DashBoardOfStudent" index="4191" method="DashBoard">
+		<user_id>student419_2</user_id>
+		<Role>student</Role>
+		<custom_domainid>autodomain1</custom_domainid>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.CoursePerformanceAlongWithQuestionCardInPerformancepage"
+		index="421" method="coursePerformanceAlongWithQuestionCardInPerformancepage">
+		<user_id>student421_2</user_id>
+		<Role>student</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.CoursePerformanceAlongWithQuestionCardInPerformancepage"
+		index="4211" method="coursePerformanceAlongWithQuestionCardInPerformancepage">
+		<user_id>student421_2</user_id>
+		<Role>student</Role>
+		<custom_domainid>autodomain1</custom_domainid>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.AddedNotesIsContinueEvenAfterSectionChange"
+		index="429" method="addedNotesIsContinueEvenAfterSectionChange">
+		<user_id>student429</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.AddedNotesIsContinueEvenAfterSectionChange"
+		index="4291" method="addedNotesIsContinueEvenAfterSectionChange">
+		<user_id>student429</user_id>
+		<Role>student</Role>
+		<custom_domainid>autodomain1</custom_domainid>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.DiscussionStartedAndRepliedShowUpInMyActivityPage"
+		index="436" method="discussionStartedAndRepliedShowUpInMyActivityPage">
+		<user_id>student436_1</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.DiscussionStartedAndRepliedShowUpInMyActivityPage"
+		index="4361" method="discussionStartedAndRepliedShowUpInMyActivityPage">
+		<user_id>student436_1</user_id>
+		<Role>student</Role>
+		<context_id>studcontext436</context_id>
+		<context_title>studtitle436</context_title>
+		<custom_domainid>autodomain436</custom_domainid>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.InstructorDashboardNotAffectedAfterSectionChangedByStudent"
+		index="462" method="instructorDashboardNotAffectedAfterSectionChangedByStudent">
+		<user_id>student462</user_id>
+		<Role>student</Role>
+		<context_id>studcontext462_1</context_id>
+		<context_title>studtitle462_1</context_title>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.InstructorDashboardNotAffectedAfterSectionChangedByStudent"
+		index="4621" method="instructorDashboardNotAffectedAfterSectionChangedByStudent">
+		<user_id>student462</user_id>
+		<Role>student</Role>
+		<context_id>studcontext462_2</context_id>
+		<context_title>studtitle462_2</context_title>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.InstructorDashboardNotAffectedAfterSectionChangedByStudent"
+		index="4622" method="instructorDashboardNotAffectedAfterSectionChangedByStudent">
+		<user_id>instructor462</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontext462_1</context_id>
+		<context_title>studtitle462_1</context_title>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.InstructorDashboardNotAffectedAfterSectionChangedByStudent"
+		index="4623" method="instructorDashboardNotAffectedAfterSectionChangedByStudent">
+		<user_id>instructor462</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontext462_2</context_id>
+		<context_title>studtitle462_2</context_title>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.StudentGetNotificationWhenQuitDiagonesticTest"
+		index="750" method="studentGetNotificationWhenQuitDiagonesticTest">
+		<user_id>student750_5</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.StudentAbleToAccessVariousReport" index="843"
+		method="studentAbleToAccessVariousReport">
+		<user_id>student843_4</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.InstructorDashBorad" index="9081" method="InstructorDashBorad">
+		<user_id>student908</user_id>
+		<Role>student</Role>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.InstructorDashBorad" index="908" method="InstructorDashBorad">
+		<user_id>instructor908</user_id>
+		<Role>instructor</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.InstructorDashBorad" index="911" method="InsVisitedStudent">
+		<user_id>instructor911_1</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontext_911</context_id>
+		<context_title>studtitle_911</context_title>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.InstructorDashBorad" index="912" method="InsVisitedStudent">
+		<user_id>instructor911_1</user_id>
+		<Role>instructor</Role>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.InstructorDashBorad" index="911_student" method="InsVisitedStudent">
+		<user_id>student911</user_id>
+		<Role>student</Role>
+		<context_id>studcontext_911</context_id>
+		<context_title>studtitle_911</context_title>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.DeactiveButtonIsPresentForPublishedQuestion" index="601" method="deactiveButtonIsPresentForPublishedQuestion">
+        <assessmentname>601 practice test</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>601 question</questionset>
+        <questiontext>601 questiontext</questiontext>
+		<chapterName>Ch 1: The Changing Face of Business</chapterName>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.DeactiveButtonIsPresentForPublishedQuestion" index="6011" method="deactiveButtonIsPresentForPublishedQuestion">
+		<questionset>6011 question</questionset>
+		<questiontext>6011 questiontext</questiontext>
+		<chapterName>Ch 1: The Changing Face of Business</chapterName>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.InstructorAbleTODeasableEnableForAnyDiscussion"
+		index="685" method="instructorAbleTODeasableEnableForAnyDiscussion">
+		<user_id>instructor685</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontext686_old</context_id>
+		<context_title>studtitle686_old</context_title>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.InstructorAbleTODeasableEnableForAnyDiscussion"
+		index="686" method="instructorAbleTODeasableEnableForAnyDiscussion">
+		<user_id>instructor685</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontext686_new</context_id>
+		<context_title>studtitle686_new</context_title>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.InstructorAbleTODeasableEnableForAnyDiscussion" index="688" method="instructorAbleTODeasableEnableForAnyDiscussion">
+		<user_id>instructor688_1</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontext688_1</context_id>
+		<context_title>studtitle688_1</context_title>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.InstructorAbleTODeasableEnableForAnyDiscussion" index="689" method="instructorAbleTODeasableEnableForAnyDiscussion">
+		<user_id>student689_1</user_id>
+		<Role>student</Role>
+		<context_id>studcontext688_1</context_id>
+		<context_title>studtitle688_1</context_title>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.StudentAbleToAddNotesWhileGoingThroughQuestion" index="706" method="studentAbleToAddNotesWhileGoingThroughQuestion">
+		<user_id>student706</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.HandleMultipleRoleForUsers" index="692" method="MultipleRoleOfUsers">
+		<user_id>student692</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.HandleMultipleRoleForUsers" index="6921"	method="MultipleRoleOfUsers">
+		<user_id>student692</user_id>
+		<Role>instructor</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.HandleMultipleRoleForUsers" index="6922"	method="MultipleRoleOfUsers">
+		<user_id>student692</user_id>
+		<Role>mentor</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.HandleMultipleRoleForUsers" index="6923"	method="MultipleRoleOfUsers">
+		<user_id>student693</user_id>
+		<Role>instructor</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.HandleMultipleRoleForUsers" index="6924"	method="MultipleRoleOfUsers">
+		<user_id>student693</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.HandleMultipleRoleForUsers" index="6925"	method="MultipleRoleOfUsers">
+		<user_id>student693</user_id>
+		<Role>mentor</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.HandleMultipleRoleForUsers" index="6926"	method="MultipleRoleOfUsers">
+		<user_id>student697</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.HandleMultipleRoleForUsers" index="6927"	method="MultipleRoleOfUsers">
+		<user_id>student697</user_id>
+		<Role>instructor</Role>
+		<context_title>studtitle697</context_title>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.HandleMultipleRoleForUsers" index="6928"	method="MultipleRoleOfUsers">
+		<user_id>student697</user_id>
+		<Role>mentor</Role>
+		<context_title>studtitle1697</context_title>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.HandleMultipleRoleForUsers" index="701"	method="MultipleRoleOfUsers">
+		<user_id>student701</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.HandleMultipleRoleForUsers" index="702"	method="MultipleRoleOfUsers">
+		<user_id>student6702</user_id>
+		<Role>instructor</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.HandleMultipleRoleForUsers" index="703"	method="MultipleRoleOfUsers">
+		<user_id>student703</user_id>
+		<Role>mentor</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.AddedNotesNotViewToAnotherStudent" index="714"	method="addedNotesNotViewToAnotherStudent">
+		<user_id>student714_7</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.AddedNotesNotViewToAnotherStudent" index="7141"	method="addedNotesNotViewToAnotherStudent">
+		<user_id>student7141</user_id>
+		<Role>student</Role>
+	</testcase>
+
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.AddedNotesNotViewToAnotherStudent" index="721"	method="Deletenotes">
+		<user_id>student721_6</user_id>
+		<Role>student</Role>
+	</testcase>
+
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.StudentAbleToDiscussOnQuestion" index="728"	method="studentabletodiscussonquestion">
+		<user_id>student728</user_id>
+		<Role>student</Role>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.StudentAbleToDiscussOnQuestion" index="741"	method="studentabletodiscussonquestion">
+		<user_id>student741</user_id>
+		<Role>student</Role>
+		<familyname></familyname>
+		<givenname></givenname>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.StudentAbleToDiscussOnQuestion" index="748"	method="studentabletodiscussonquestion">
+		<user_id>student748</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.NotificationWhenStudentNotSelectConfidenceLevel"	index="754" method="notifiactionwhenstudentnotselectconfidencelevel">
+		<user_id>student754_5</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.NotificationWhenStudentNotSelectConfidenceLevel"	index="756" method="notificationafterdiagnostictestnotquit">
+		<user_id>student756_6</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.NotificationWhenStudentNotSelectConfidenceLevel"	index="7561" method="notificationafterdiagnostictestnotquit">
+		<user_id>student7561_4</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.NotificationWhenStudentNotSelectConfidenceLevel"	index="760" method="notificationduringattemptdiagnostictestwithselectingconfidence">
+		<user_id>student760_2</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.NotificationWhenStudentNotSelectConfidenceLevel"	index="7601" method="notificationduringattemptdiagnostictestwithselectingconfidence">
+		<user_id>student7601_1</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.NotificationWhenStudentNotSelectConfidenceLevel"	index="762" method="notificationduringattemptdiagnostictestwithselectingconfidence">
+		<user_id>student762_5</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.DiagTestAllWrong" index="11">
+		<user_id>studakansh</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.Percent31PracticeAnswerCorrect" index="14">
+		<user_id>student14</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.Percent31PracticeAnswerCorrect" index="15">
+		<user_id>student15</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.Percent31PracticeAnswerCorrect" index="16">
+		<user_id>student16</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficiencyVariationWithConfidence" index="20">
+		<user_id>student20_1</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficiencyVariationWithConfidence" index="21">
+		<user_id>student21_1</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficiencyVariationWithConfidence" index="22">
+		<user_id>student22_1</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficiencyVariationWithConfidence" index="23">
+		<user_id>student23_1</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficiencyVariationWithConfidence" index="24">
+		<user_id>student24_16</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficiencyVariationWithConfidence" index="25">
+		<user_id>student25_16</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficienciesModerateVariation" index="36">
+		<user_id>student36_1</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficienciesModerateVariation" index="37">
+		<user_id>student37</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficienciesModerateVariation" index="38">
+		<user_id>student38</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficiencyVariationWithHints" index="39_1">
+		<user_id>student39_1</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficiencyVariationWithHints" index="39_2">
+		<user_id>student39_2</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ProficienciesVariationWithHighExistingProf"
+		index="58">
+		<user_id>student58_1</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.PracticeTestBasedOnTLOWithLoerProficiency"
+		index="220">
+		<user_id>student220</user_id>
+		<Role>student</Role>
+		<newChapterName>220Chapter</newChapterName>
+		<chapterName>220Chapter</chapterName>
+		<diagassessmentname>220AssessmentDiag</diagassessmentname>
+		<practiceassessmentname>220AssessmentPractice</practiceassessmentname>
+		<questionset>220questionset</questionset>
+		<questiontext>220questiontext</questiontext>
+		<answertext>220answer</answertext>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ReportsFlowInstructor" index="527_setup">
+		<user_id>student_572_setup</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ReportsFlowInstructor" index="527">
+		<user_id>instructor527</user_id>
+		<Role>instructor</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ReportsFlowInstructor" index="528">
+		<user_id>instructor528</user_id>
+		<Role>instructor</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ReportsFlowInstructor" index="529">
+		<user_id>instructor529</user_id>
+		<Role>instructor</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ReportsFlowInstructor" index="530">
+		<user_id>instructor530</user_id>
+		<Role>instructor</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ReportsFlowInstructor" index="533">
+		<user_id>instructor533</user_id>
+		<Role>instructor</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ReportsFlowInstructor" index="536">
+		<user_id>instructor536</user_id>
+		<Role>instructor</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ReportsFlowStudent" index="541">
+		<user_id>student541</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.QuestionMarkSymbol" index="588">
+		<user_id>student588_4</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.RepeatFlow" index="179">
+		<user_id>student179</user_id>
+		<Role>student</Role>
+		<context_id>studrepeatcontext179</context_id>
+		<context_title>studrepeattitle179</context_title>
+		<newChapterName>Chapter 179</newChapterName>
+		<chapterName>Chapter 179</chapterName>
+		<diagassessmentname>Diagnostic-Chapter 179</diagassessmentname>
+		<practiceassessmentname>Practice-Chapter 179</practiceassessmentname>
+		<questionset>179 Question Set</questionset>
+		<questiontext>Question Text Chapter 179</questiontext>
+		<answertext>Answer Choice</answertext>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.DiagnosticTestMultipleChoice" index="84">
+		<user_id>student84</user_id>
+		<Role>student</Role>
+		<newChapterName>Chapter 84</newChapterName>
+		<chapterName>Chapter 84</chapterName>
+		<diagassessmentname>Diagnostic-Chapter 84</diagassessmentname>
+		<questionset>84 Question Set</questionset>
+		<questiontext>Question Text Chapter 84</questiontext>
+		<answertext>Answer Choice</answertext>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.DiagnosticTestMultipleChoice" index="86">
+		<user_id>student86</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.DiagnosticTestMultipleChoice" index="92">
+		<user_id>student92</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.DiagnosticTestMultipleChoice" index="93">
+		<user_id>student93</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.DiagnosticTestMultipleChoice" index="94">
+		<user_id>student94</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.DiagnosticTestMultipleChoice" index="99">
+		<user_id>student99</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.DiagnosticTestMultipleChoice" index="253">
+		<user_id>student253</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.QuestionMetricsForAuthor" index="256">
+		<user_id>student253</user_id>
+		<Role>student</Role>
+		<chapterName>Chapter 84</chapterName>
+		<questionset>Question Set</questionset>
+		<questiontext>Question Text</questiontext>
+		<answertext>Answer Choice</answertext>
+		<practiceassessmentname>Practice Test</practiceassessmentname>
+		<difficultylevel>Easy</difficultylevel>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.InstructorHelpPages" index="477">
+		<user_id>student477</user_id>
+		<Role>instructor</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.QuestionMetricsForAuthor" index="617">
+		<chapterName>Ch 1: The Changing Face of Business</chapterName>
+		<assignmentName>Practice - The Changing Face of Business</assignmentName>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ChapterECF" index="621">
+		<user_id>student621</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ChapterECF" index="626">
+		<user_id>student626</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ChapterECF" index="633">
+		<user_id>student633</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ChapterECF" index="638">
+		<user_id>student638</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ReportContentError" index="652_1">
+		<user_id>student652</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ReportContentError" index="652_2">
+		<user_id>instructor652</user_id>
+		<Role>instructor</Role>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ReportContentError" index="657">
+		<user_id>student657_3</user_id>
+		<Role>student</Role>
+		<context_id>657studcontext</context_id>
+		<context_title>657studtitle</context_title>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ReportContentError" index="657_1">
+		<user_id>instructor657_4</user_id>
+		<Role>instructor</Role>
+		<context_id>657studcontext</context_id>
+		<context_title>657studtitle</context_title>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ReportContentError" index="671">
+		<user_id>student671</user_id>
+		<Role>student</Role>
+	</testcase>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ReportContentError" index="680">
+		<user_id>instructor680</user_id>
+		<Role>instructor</Role>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ReportsFlowStudent" index="868">
+		<user_id>student868</user_id>
+		<Role>student</Role>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ReportsFlowStudent" index="869">
+		<user_id>student869</user_id>
+		<Role>student</Role>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ReportsFlowStudent" index="873">
+		<user_id>student873</user_id>
+		<Role>student</Role>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ReportsFlowStudent" index="874">
+		<user_id>student874</user_id>
+		<Role>student</Role>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ReportsFlowStudent" index="875">
+		<user_id>student875</user_id>
+		<Role>student</Role>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ReportsFlowStudent" index="876">
+		<user_id>student876</user_id>
+		<Role>student</Role>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ReportsFlowStudent" index="877">
+		<user_id>student877</user_id>
+		<Role>student</Role>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ReportsFlowStudent" index="878">
+		<user_id>student878</user_id>
+		<Role>student</Role>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ReportsFlowStudent" index="879">
+		<user_id>student879</user_id>
+		<Role>student</Role>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.ReportsFlowStudent" index="880">
+		<user_id>student880</user_id>
+		<Role>student</Role>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.DashboardInstructor" index="972_student">
+		<user_id>student972_student</user_id>
+		<Role>student</Role>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.DashboardInstructor" index="972_instructor">
+		<user_id>student972_instructor</user_id>
+		<Role>instructor</Role>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.DashboardInstructor" index="973">
+		<user_id>student973</user_id>
+		<Role>instructor</Role>
+		<context_title>studtitle973</context_title>
+		<custom_domainid>autodomain973</custom_domainid >
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.DashboardInstructor" index="974_student">
+		<user_id>student974_student</user_id>
+		<Role>student</Role>
+		<context_title>studtitle974</context_title>
+		<custom_domainid>autodomain974</custom_domainid >
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.DashboardInstructor" index="974_instructor">
+		<user_id>student974_instructor</user_id>
+		<Role>instructor</Role>
+		<context_title>studtitle974</context_title>
+		<custom_domainid>autodomain974</custom_domainid >
+	</testcase>
+
+	
+</orion>

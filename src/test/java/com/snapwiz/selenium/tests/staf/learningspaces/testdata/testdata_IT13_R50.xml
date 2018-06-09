@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.AssignmentPolicyUI" index="4" method="assignmentPolicyUI">
+		<user_id>IT13_R50In_4</user_id>
+		<Role>instructor</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.DifferentFieldsOfAssigmentPolicy" index="10" method="policyNameField">
+		<user_id>IT13_R50In_10</user_id>
+		<Role>instructor</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.DifferentFieldsOfAssigmentPolicy" index="16" method="descriptionField">
+		<user_id>IT13_R50In_16</user_id>
+		<Role>instructor</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.DifferentFieldsOfAssigmentPolicy" index="21" method="scorePerQuestionField">
+		<user_id>IT13_R50Ins_21</user_id>
+		<Role>instructor</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.DifferentFieldsOfAssigmentPolicy" index="28" method="orderingField">
+		<user_id>IT13_R50In_28</user_id>
+		<Role>instructor</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.DifferentFieldsOfAssigmentPolicy" index="34" method="immediateFeedbackField">
+		<user_id>IT13_R50In_34</user_id>
+		<Role>instructor</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.DifferentFieldsOfAssigmentPolicy" index="40" method="gradeReleaseOptionField">
+		<user_id>IT13_R50In_40</user_id>
+		<Role>instructor</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.DifferentFieldsOfAssigmentPolicy" index="49" method="noOfAttemptsField">
+		<user_id>IT13_R50In_49</user_id>
+		<Role>instructor</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.DifferentFieldsOfAssigmentPolicy" index="67" method="showHintField">
+		<user_id>IT13_R50In_67</user_id>
+		<Role>instructor</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.DifferentFieldsOfAssigmentPolicy" index="82" method="showSolutionField">
+		<user_id>IT13_R50In_82</user_id>
+		<Role>instructor</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.DifferentFieldsOfAssigmentPolicy" index="96" method="showReadingContentField">
+		<user_id>IT13_R50In_96</user_id>
+		<Role>instructor</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.DifferentFieldsOfAssigmentPolicy" index="110" method="showAnswerField">
+		<user_id>IT13_R50In_110</user_id>
+		<Role>instructor</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.DifferentFieldsOfAssigmentPolicy" index="125" method="extendDueDateField">
+		<user_id>IT13_R50In_125</user_id>
+		<Role>instructor</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.DifferentFieldsOfAssigmentPolicy" index="129" method="extendDueTimeField">
+		<user_id>IT13_R50In_129</user_id>
+		<Role>instructor</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.SaveAssignmentPolicy" index="133" method="saveAssignmentPolicy">
+		<user_id>IT13_R50In_133</user_id>
+		<Role>instructor</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.AssignmentPolicies" index="135" method="assignmentPolicies">
+		<user_id>IT13_R50Instructor_135_7</user_id>
+		<Role>instructor</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.AssignmentPolicies" index="145" method="viewPolicyAction">
+		<user_id>IT13_R50Ins_145</user_id>
+		<Role>instructor</Role>
+		<context_id>145_1studcontext</context_id>
+  		<context_title>145_1studtitle</context_title> 
+  		<assignmentpolicyname>Policy Name</assignmentpolicyname>
+		<assessmentname>145Assignment</assessmentname>
+		<questionset>145questionset</questionset>
+		<questiontext>145 question text</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>145</shareWithInitialString>
+   		<shareName>145_1studtitle</shareName>
+  		<shareWithClass>true</shareWithClass>
+   		<gradeable>true</gradeable>
+   		<assignmentpolicy>Policy Name</assignmentpolicy>
+   		<gradingpolicy>Grading policy text</gradingpolicy>
+   		<duedate>26</duedate>
+   		<duetime>12:00 AM</duetime>
+   		<additionalnote>This is an additional note</additionalnote>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.AssignmentPolicies" index="169" method="updateFourPolicies">
+		<user_id>IT13_R50Instructor_169_7</user_id>
+		<Role>instructor</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.AssignmentPolicies" index="174" method="copyPolicyAction">
+		<user_id>IT13_R50Instructor_174_2</user_id>
+		<Role>instructor</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.InstructorAbleToAssignAssignmentPolicy" index="191" method="instructorAbleToAssignAssignmentPolicy">
+		<user_id>IT13_R50Instruc_191</user_id>
+		<Role>instructor</Role>
+		<context_id>191_7studcontext</context_id>
+  		<context_title>191_7studtitle</context_title> 
+  		<assignmentpolicyname>191 Policy Name</assignmentpolicyname>
+		<assessmentname>191Assignment</assessmentname>
+		<questionset>191questionset</questionset>
+		<questiontext>191 question text</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>191</shareWithInitialString>
+   		<shareName>191_7studtitle</shareName>
+  		<shareWithClass>true</shareWithClass>
+   		<gradeable>true</gradeable>
+   		<assignmentpolicy>191 Policy Name</assignmentpolicy>
+   		<gradingpolicy>Grading policy text</gradingpolicy>
+   		<duedate>26</duedate>
+   		<duetime>12:00 AM</duetime>
+   		<additionalnote>This is an additional note</additionalnote>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.InstructorAbleToAssignAssignmentPolicy" index="191_1" method="instructorAbleToAssignAssignmentPolicy">
+		<user_id>IT13_R50Ins_191_1</user_id>
+		<Role>instructor</Role>
+		<context_id>191_7studcontext</context_id>
+  		<context_title>191_7studtitle</context_title> 
+  		<assignmentpolicyname>191_1 Policy Name</assignmentpolicyname>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.InstructorAbleToAssignAssignmentPolicy" index="191_2" method="instructorAbleToAssignAssignmentPolicy">
+		<user_id>IT13_R50st_191_2</user_id>
+		<Role>student</Role>
+		<context_id>191_7studcontext</context_id>
+  		<context_title>191_7studtitle</context_title> 
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.StudentAbleToAttemptAssignmentWithPolicyAssigned" index="210" method="studentAbleToAttemptAssignmentWithPolicyAssigned">
+		<user_id>IT13_R50Inst_210</user_id>
+		<Role>instructor</Role>
+		<context_id>210_4studcontext</context_id>
+  		<context_title>210_4studtitle</context_title> 
+  		<assignmentpolicyname>210 Policy</assignmentpolicyname>
+		<assessmentname>210_1Assignment</assessmentname>
+		<questionset>210questionset</questionset>
+		<questiontext>210 question text</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>210</shareWithInitialString>
+   		<shareName>210_4studtitle</shareName>
+  		<shareWithClass>true</shareWithClass>
+   		<gradeable>true</gradeable>
+   		<assignmentpolicy>210 Policy</assignmentpolicy>
+   		<gradingpolicy>Grading policy text</gradingpolicy>
+   		<duedate>26</duedate>
+   		<duetime>12:00 AM</duetime>
+   		<additionalnote>This is an additional note</additionalnote>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.StudentAbleToAttemptAssignmentWithPolicyAssigned" index="210_1" method="studentAbleToAttemptAssignmentWithPolicyAssigned">
+		<user_id>IT13_R50Stude_210_1</user_id>
+		<Role>student</Role>
+		<context_id>210_4studcontext</context_id>
+  		<context_title>210_4studtitle</context_title> 
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.StudentAbleToAttemptAssignmentWithPolicyAssigned" index="216" method="verfiyPolicyWithImmediateFeedbackEnabled">
+		<user_id>IT13_R50Instructorrssssssss_216</user_id>
+		<Role>instructor</Role>
+		<context_id>216_19studcontext</context_id>
+  		<context_title>216_19studtitle</context_title> 
+  		<assignmentpolicyname>216 Policy</assignmentpolicyname>
+		<assessmentname>216_5Assignment</assessmentname>
+		<questionset>216questionset</questionset>
+		<questiontext>question text</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>216</shareWithInitialString>
+   		<shareName>216_19studtitle</shareName>
+  		<shareWithClass>true</shareWithClass>
+   		<gradeable>true</gradeable>
+   		<assignmentpolicy>216 Policy</assignmentpolicy>
+   		<gradingpolicy>Grading policy text</gradingpolicy>
+   		<duedate>26</duedate>
+   		<duetime>12:00 AM</duetime>
+   		<additionalnote>This is an additional note</additionalnote>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.StudentAbleToAttemptAssignmentWithPolicyAssigned" index="216_1" method="verfiyPolicyWithImmediateFeedbackEnabled">
+		<user_id>IT13_R50Studentsssssssssssss_216_1</user_id>
+		<Role>student</Role>
+		<context_id>216_19studcontext</context_id>
+  		<context_title>216_19studtitle</context_title> 
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.StudentAbleToAttemptAssignmentWithPolicyAssigned" index="218" method="verfiyPolicyWithImmediateFeedbackEnabledShowAnswerEnabled">
+		<user_id>IT13_R50Inst_218</user_id>
+		<Role>instructor</Role>
+		<context_id>218_3studcontext</context_id>
+  		<context_title>218_3studtitle</context_title> 
+  		<assignmentpolicyname>218 Policy</assignmentpolicyname>
+		<assessmentname>218Assignment</assessmentname>
+		<questionset>218questionset</questionset>
+		<questiontext>question text</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>218</shareWithInitialString>
+   		<shareName>218_3studtitle</shareName>
+  		<shareWithClass>true</shareWithClass>
+   		<gradeable>true</gradeable>
+   		<assignmentpolicy>218 Policy</assignmentpolicy>
+   		<gradingpolicy>Grading policy text</gradingpolicy>
+   		<duedate>26</duedate>
+   		<duetime>12:00 AM</duetime>
+   		<additionalnote>This is an additional note</additionalnote>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.StudentAbleToAttemptAssignmentWithPolicyAssigned" index="218_1" method="verfiyPolicyWithImmediateFeedbackEnabledShowAnswerEnabled">
+		<user_id>IT13_R50Stud_218_1</user_id>
+		<Role>student</Role>
+		<context_id>218_3studcontext</context_id>
+  		<context_title>218_3studtitle</context_title> 
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.VerifyEffectOfVariousGradeReleaseOptions" index="232" method="verifyEffectOfVariousGradeReleaseOptions">
+		<user_id>IT13_R50Inst_232</user_id>
+		<Role>instructor</Role>
+		<context_id>232_3studcontext</context_id>
+  		<context_title>232_3studtitle</context_title> 
+  		<assignmentpolicyname>232 Policy</assignmentpolicyname>
+		<assessmentname>232Assignment</assessmentname>
+		<questionset>232questionset</questionset>
+		<questiontext>question text</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>232</shareWithInitialString>
+   		<shareName>232_3studtitle</shareName>
+  		<shareWithClass>true</shareWithClass>
+   		<gradeable>true</gradeable>
+   		<assignmentpolicy>232 Policy</assignmentpolicy>
+   		<gradingpolicy>Grading policy text</gradingpolicy>
+   		<duedate>26</duedate>
+   		<duetime>12:00 AM</duetime>
+   		<additionalnote>This is an additional note</additionalnote>
+   		<gradereleaseoption>Auto-release on assignment submission</gradereleaseoption>
+	</testcase>
+		<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.VerifyEffectOfVariousGradeReleaseOptions" index="232_1" method="verifyEffectOfVariousGradeReleaseOptions">
+		<user_id>IT13_R50Stud_232</user_id>
+		<Role>student</Role>
+		<context_id>232_3studcontext</context_id>
+  		<context_title>232_3studtitle</context_title> 
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.VerifyEffectOfVariousGradeReleaseOptions" index="238" method="verifyWhenGradeReleaseOptionsIsAutoReleaseOnSubmission">
+		<user_id>IT13_R50Ins_238</user_id>
+		<Role>instructor</Role>
+		<context_id>238studcontext_IT13_R50</context_id>
+  		<context_title>238studtitle_IT13_R50</context_title>
+  		<assignmentpolicyname>238 Policy</assignmentpolicyname>
+		<assessmentname>238_1Assignment</assessmentname>
+		<questionset>238questionset</questionset>
+		<questiontext>question text</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>238</shareWithInitialString>
+   		<shareName>238studtitle_IT13_R50</shareName>
+  		<shareWithClass>true</shareWithClass>
+   		<gradeable>true</gradeable>
+   		<assignmentpolicy>238 Policy</assignmentpolicy>
+   		<gradingpolicy>Grading policy text</gradingpolicy>
+   		<duedate>26</duedate>
+   		<duetime>12:00 AM</duetime>
+   		<additionalnote>This is an additional note</additionalnote>
+   		<gradereleaseoption>Auto-release on assignment submission</gradereleaseoption>
+	</testcase>
+		<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.VerifyEffectOfVariousGradeReleaseOptions" index="238_1" method="verifyWhenGradeReleaseOptionsIsAutoReleaseOnSubmission">
+		<user_id>IT13_R50St_238</user_id>
+		<Role>student</Role>
+		<context_id>238studcontext_IT13_R50</context_id>
+  		<context_title>238studtitle_IT13_R50</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.VerifyEffectOfVariousGradeReleaseOptions" index="254" method="verifyWhenGradeReleaseOptionsIsReleaseAsTheyAreBeingGraded">
+		<user_id>IT13_R50In_254</user_id>
+		<Role>instructor</Role>
+		<context_id>254_2studcontext_IT13_R50</context_id>
+  		<context_title>254_2studtitle_IT13_R50</context_title>
+  		<assignmentpolicyname>254 Policy</assignmentpolicyname>
+		<assessmentname>254Assignment</assessmentname>
+		<questionset>254questionset</questionset>
+		<questiontext>question text</questiontext>
+		<numerictext>3</numerictext>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>254</shareWithInitialString>
+   		<shareName>254_2studtitle_IT13_R50</shareName>
+  		<shareWithClass>true</shareWithClass>
+   		<gradeable>true</gradeable>
+   		<assignmentpolicy>254 Policy</assignmentpolicy>
+   		<gradingpolicy>Grading policy text</gradingpolicy>
+   		<duedate>26</duedate>
+   		<duetime>12:00 AM</duetime>
+   		<additionalnote>This is an additional note</additionalnote>
+   		<gradereleaseoption>Auto-release on assignment submission</gradereleaseoption>
+	</testcase>
+		<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.VerifyEffectOfVariousGradeReleaseOptions" index="254_1" method="verifyWhenGradeReleaseOptionsIsReleaseAsTheyAreBeingGraded">
+		<user_id>IT13_R50S_254</user_id>
+		<Role>student</Role>
+		<context_id>254_2studcontext_IT13_R50</context_id>
+  		<context_title>254_2studtitle_IT13_R50</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.NumberAttemptOptions" index="265" method="numberAttemptOptions">
+		<user_id>IT13_R50Inst_265</user_id>
+		<Role>instructor</Role>
+		<context_id>265_4studcontext</context_id>
+  		<context_title>265_4studtitle</context_title>  
+  		<assignmentpolicyname>265 Policy</assignmentpolicyname>
+		<assessmentname>265_2Assignment</assessmentname>
+		<questionset>265questionset</questionset>
+		<questiontext>question text</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>265</shareWithInitialString>
+   		<shareName>265_4studtitle</shareName>
+  		<shareWithClass>true</shareWithClass>
+   		<gradeable>true</gradeable>
+   		<assignmentpolicy>265 Policy</assignmentpolicy>
+   		<gradingpolicy>Grading policy text</gradingpolicy>
+   		<duedate>26</duedate>
+   		<duetime>12:00 AM</duetime>
+   		<additionalnote>This is an additional note</additionalnote>
+   		<gradereleaseoption>Auto-release on assignment submission</gradereleaseoption>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.NumberAttemptOptions" index="265_1" method="numberAttemptOptions">
+		<user_id>IT13_R50Stud_265</user_id>
+		<Role>student</Role>
+		<context_id>265_4studcontext</context_id>
+  		<context_title>265_4studtitle</context_title>   
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.NumberAttemptOptions" index="266" method="numberAttemptOptionsWithImmediateFeedbackDisabled">
+		<user_id>IT13_R50In_266</user_id>
+		<Role>instructor</Role>
+		<context_id>266_1studcontext</context_id>
+  		<context_title>266_1studtitle</context_title>   
+  		<assignmentpolicyname>266 Policy</assignmentpolicyname>
+		<assessmentname>266Assignment</assessmentname>
+		<questionset>266questionset</questionset>
+		<questiontext>question text</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>266</shareWithInitialString>
+   		<shareName>266_1studtitle</shareName>
+  		<shareWithClass>true</shareWithClass>
+   		<gradeable>true</gradeable>
+   		<assignmentpolicy>266 Policy</assignmentpolicy>
+   		<gradingpolicy>Grading policy text</gradingpolicy>
+   		<duedate>26</duedate>
+   		<duetime>12:00 AM</duetime>
+   		<additionalnote>This is an additional note</additionalnote>
+   		<gradereleaseoption>Auto-release on assignment submission</gradereleaseoption>
+	</testcase>
+		<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.NumberAttemptOptions" index="266_1" method="numberAttemptOptionsWithImmediateFeedbackDisabled">
+		<user_id>IT13_R50St_266</user_id>
+		<Role>student</Role>
+		<context_id>266_1studcontext</context_id>
+  		<context_title>266_1studtitle</context_title>   
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.ShowHintOption" index="277" method="showHintOptionEnabled">
+		<user_id>IT13_R50Inst_277</user_id>
+		<Role>instructor</Role>
+		<context_id>277_3studcontext</context_id>
+  		<context_title>277_3studtitle</context_title>  
+  		<assignmentpolicyname>277 Policy</assignmentpolicyname>
+		<assessmentname>277Assignment</assessmentname>
+		<questionset>277questionset</questionset>
+		<questiontext>question text</questiontext>
+		<hint>Hint Text</hint>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>277</shareWithInitialString>
+   		<shareName>277_3studtitle</shareName>
+  		<shareWithClass>true</shareWithClass>
+   		<gradeable>true</gradeable>
+   		<assignmentpolicy>277 Policy</assignmentpolicy>
+   		<gradingpolicy>Grading policy text</gradingpolicy>
+   		<duedate>26</duedate>
+   		<duetime>12:00 AM</duetime>
+   		<additionalnote>This is an additional note</additionalnote>
+   		<gradereleaseoption>Auto-release on assignment submission</gradereleaseoption>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.ShowHintOption" index="277_1" method="showHintOptionEnabled">
+		<user_id>IT13_R50Stud_277</user_id>
+		<Role>student</Role>
+		<context_id>277_3studcontext</context_id>
+  		<context_title>277_3studtitle</context_title>  
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.ShowHintOption" index="281" method="showHintOptionDisabled">
+		<user_id>IT13_R50I_281</user_id>
+		<Role>instructor</Role>
+		<context_id>281studcontext</context_id>
+  		<context_title>281studtitle</context_title>  
+  		<assignmentpolicyname>281 Policy</assignmentpolicyname>
+		<assessmentname>281Assignment</assessmentname>
+		<questionset>281questionset</questionset>
+		<questiontext>question text</questiontext>
+		<hint>Hint Text</hint>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>281</shareWithInitialString>
+   		<shareName>281studtitle</shareName>
+  		<shareWithClass>true</shareWithClass>
+   		<gradeable>true</gradeable>
+   		<assignmentpolicy>281 Policy</assignmentpolicy>
+   		<gradingpolicy>Grading policy text</gradingpolicy>
+   		<duedate>26</duedate>
+   		<duetime>12:00 AM</duetime>
+   		<additionalnote>This is an additional note</additionalnote>
+   		<gradereleaseoption>Auto-release on assignment submission</gradereleaseoption>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.ShowHintOption" index="281_1" method="showHintOptionDisabled">
+		<user_id>IT13_R50S_281</user_id>
+		<Role>student</Role>
+		<context_id>281studcontext</context_id>
+  		<context_title>281studtitle</context_title>  
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.ShowHintOption" index="282" method="showHintOptionWithImmediateFeedbackDisabled">
+		<user_id>IT13_R50Ins_282</user_id>
+		<Role>instructor</Role>
+		<context_id>282_1studcontext</context_id>
+  		<context_title>282_1studtitle</context_title>   
+  		<assignmentpolicyname>282 Policy</assignmentpolicyname>
+		<assessmentname>282Assignment</assessmentname>
+		<questionset>282questionset</questionset>
+		<questiontext>question text</questiontext>
+		<hint>Hint Text</hint>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>282</shareWithInitialString>
+   		<shareName>282_1studtitle</shareName>
+  		<shareWithClass>true</shareWithClass>
+   		<gradeable>true</gradeable>
+   		<assignmentpolicy>282 Policy</assignmentpolicy>
+   		<gradingpolicy>Grading policy text</gradingpolicy>
+   		<duedate>26</duedate>
+   		<duetime>12:00 AM</duetime>
+   		<additionalnote>This is an additional note</additionalnote>
+   		<gradereleaseoption>Auto-release on assignment submission</gradereleaseoption>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.ShowHintOption" index="282_1" method="showHintOptionWithImmediateFeedbackDisabled">
+		<user_id>IT13_R50St_282</user_id>
+		<Role>student</Role>
+		<context_id>282_1studcontext</context_id>
+  		<context_title>282_1studtitle</context_title>  
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.ShowReadingContentLinkOption" index="283" method="showReadingContentLinkOption">
+		<user_id>IT13_R50In_283</user_id>
+		<Role>instructor</Role>
+		<context_id>283_1studcontext</context_id>
+  		<context_title>283_1studtitle</context_title> 
+  		<assignmentpolicyname>283 Policy</assignmentpolicyname>
+		<assessmentname>283Assignment</assessmentname>
+		<questionset>283questionset</questionset>
+		<questiontext>question text</questiontext>
+		<hint>Hint Text</hint>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>283</shareWithInitialString>
+   		<shareName>283_1studtitle</shareName>
+  		<shareWithClass>true</shareWithClass>
+   		<gradeable>true</gradeable>
+   		<assignmentpolicy>283 Policy</assignmentpolicy>
+   		<gradingpolicy>Grading policy text</gradingpolicy>
+   		<duedate>26</duedate>
+   		<duetime>12:00 AM</duetime>
+   		<additionalnote>This is an additional note</additionalnote>
+   		<gradereleaseoption>Auto-release on assignment submission</gradereleaseoption>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.ShowReadingContentLinkOption" index="283_1" method="showReadingContentLinkOption">
+		<user_id>IT13_R50St_283</user_id>
+		<Role>student</Role>
+		<context_id>283_1studcontext</context_id>
+  		<context_title>283_1studtitle</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.ShowSolutionOption" index="288" method="showSolutionOption">
+		<user_id>IT13_R50Ins_288</user_id>
+		<Role>instructor</Role>
+		<context_id>288_2studcontext</context_id>
+  		<context_title>288_2studtitle</context_title> 
+  		<assignmentpolicyname>288 Policy</assignmentpolicyname>
+		<assessmentname>288_1Assignment</assessmentname>
+		<questionset>288questionset</questionset>
+		<questiontext>question text</questiontext>
+		<solution>Solution Text</solution>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>288</shareWithInitialString>
+   		<shareName>288_2studtitle</shareName>
+  		<shareWithClass>true</shareWithClass>
+   		<gradeable>true</gradeable>
+   		<assignmentpolicy>288 Policy</assignmentpolicy>
+   		<gradingpolicy>Grading policy text</gradingpolicy>
+   		<duedate>26</duedate>
+   		<duetime>12:00 AM</duetime>
+   		<additionalnote>This is an additional note</additionalnote>
+   		<gradereleaseoption>Auto-release on assignment submission</gradereleaseoption>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.ShowSolutionOption" index="288_1" method="showSolutionOption">
+		<user_id>IT13_R50Stu_288</user_id>
+		<Role>student</Role>
+		<context_id>288_2studcontext</context_id>
+  		<context_title>288_2studtitle</context_title> 
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.ShowSolutionOption" index="291" method="showSolutionOptionWithShowSolutionEnabledShowAnswerDisabled">
+		<user_id>IT13_R50Ins_291</user_id>
+		<Role>instructor</Role>
+		<context_id>291_2studcontext</context_id>
+  		<context_title>291_2studtitle</context_title> 
+  		<assignmentpolicyname>291 Policy</assignmentpolicyname>
+		<assessmentname>291_1Assignment</assessmentname>
+		<questionset>291questionset</questionset>
+		<questiontext>question text</questiontext>
+		<solution>Solution Text</solution>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>291</shareWithInitialString>
+   		<shareName>291_2studtitle</shareName>
+  		<shareWithClass>true</shareWithClass>
+   		<gradeable>true</gradeable>
+   		<assignmentpolicy>291 Policy</assignmentpolicy>
+   		<gradingpolicy>Grading policy text</gradingpolicy>
+   		<duedate>26</duedate>
+   		<duetime>12:00 AM</duetime>
+   		<additionalnote>This is an additional note</additionalnote>
+   		<gradereleaseoption>Auto-release on assignment submission</gradereleaseoption>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.ShowSolutionOption" index="291_1" method="showSolutionOptionWithShowSolutionEnabledShowAnswerDisabled">
+		<user_id>IT13_R50Stu_291</user_id>
+		<Role>student</Role>
+		<context_id>291_2studcontext</context_id>
+  		<context_title>291_2studtitle</context_title> 
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.ShowSolutionOption" index="292" method="showSolutionOptionWithShowSolutionEnabledShowAnswerEnabled">
+		<user_id>IT13_R50Ins_292</user_id>
+		<Role>instructor</Role>
+		<context_id>292_3studcontext</context_id>
+  		<context_title>292_3studtitle</context_title>  
+  		<assignmentpolicyname>292 Policy</assignmentpolicyname>
+		<assessmentname>292_1Assignment</assessmentname>
+		<questionset>292questionset</questionset>
+		<questiontext>question text</questiontext>
+		<solution>Solution Text</solution>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>292</shareWithInitialString>
+   		<shareName>292_3studtitle</shareName>
+  		<shareWithClass>true</shareWithClass>
+   		<gradeable>true</gradeable>
+   		<assignmentpolicy>292 Policy</assignmentpolicy>
+   		<gradingpolicy>Grading policy text</gradingpolicy>
+   		<duedate>26</duedate>
+   		<duetime>12:00 AM</duetime>
+   		<additionalnote>This is an additional note</additionalnote>
+   		<gradereleaseoption>Auto-release on assignment submission</gradereleaseoption>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.ShowSolutionOption" index="292_1" method="showSolutionOptionWithShowSolutionEnabledShowAnswerEnabled">
+		<user_id>IT13_R50Stud_292</user_id>
+		<Role>student</Role>
+		<context_id>292_3studcontext</context_id>
+  		<context_title>292_3studtitle</context_title> 
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.ShowSolutionOption" index="293" method="showSolutionOptionWithShowSolutionSetToNO">
+		<user_id>IT13_R50Ins_293</user_id>
+		<Role>instructor</Role>
+		<context_id>293_3studcontext</context_id>
+  		<context_title>293_3studtitle</context_title>  
+  		<assignmentpolicyname>293 Policy</assignmentpolicyname>
+		<assessmentname>293_1Assignment</assessmentname>
+		<questionset>293questionset</questionset>
+		<questiontext>question text</questiontext>
+		<solution>Solution Text</solution>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>293</shareWithInitialString>
+   		<shareName>293_3studtitle</shareName>
+  		<shareWithClass>true</shareWithClass>
+   		<gradeable>true</gradeable>
+   		<assignmentpolicy>293 Policy</assignmentpolicy>
+   		<gradingpolicy>Grading policy text</gradingpolicy>
+   		<duedate>26</duedate>
+   		<duetime>12:00 AM</duetime>
+   		<additionalnote>This is an additional note</additionalnote>
+   		<gradereleaseoption>Auto-release on assignment submission</gradereleaseoption>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.ShowSolutionOption" index="293_1" method="showSolutionOptionWithShowSolutionSetToNO">
+		<user_id>IT13_R50Stud_293</user_id>
+		<Role>student</Role>
+		<context_id>293_3studcontext</context_id>
+  		<context_title>293_3studtitle</context_title> 
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.ShowSolutionOption" index="294" method="showSolutionOptionWithImeediateFeedbackDisabled">
+		<user_id>IT13_R50Ins_294</user_id>
+		<Role>instructor</Role>
+		<context_id>294_3studcontext</context_id>
+  		<context_title>294_3studtitle</context_title>  
+  		<assignmentpolicyname>294 Policy</assignmentpolicyname>
+		<assessmentname>294_1Assignment</assessmentname>
+		<questionset>294questionset</questionset>
+		<questiontext>question text</questiontext>
+		<solution>Solution Text</solution>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>294</shareWithInitialString>
+   		<shareName>294_3studtitle</shareName>
+  		<shareWithClass>true</shareWithClass>
+   		<gradeable>true</gradeable>
+   		<assignmentpolicy>294 Policy</assignmentpolicy>
+   		<gradingpolicy>Grading policy text</gradingpolicy>
+   		<duedate>26</duedate>
+   		<duetime>12:00 AM</duetime>
+   		<additionalnote>This is an additional note</additionalnote>
+   		<gradereleaseoption>Auto-release on assignment submission</gradereleaseoption>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.ShowSolutionOption" index="294_1" method="showSolutionOptionWithImeediateFeedbackDisabled">
+		<user_id>IT13_R50Stud_294</user_id>
+		<Role>student</Role>
+		<context_id>294_3studcontext</context_id>
+  		<context_title>294_3studtitle</context_title> 
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.ShowAnswerOption" index="295" method="showAnswerOption">
+		<user_id>IT13_R50Ins_295</user_id>
+		<Role>instructor</Role>
+		<context_id>295_6studcontext</context_id>
+  		<context_title>295_6studtitle</context_title>
+  		<assignmentpolicyname>295 Policy</assignmentpolicyname>
+		<assessmentname>295_1Assignment</assessmentname>
+		<questionset>295questionset</questionset>
+		<questiontext>question text</questiontext>
+		<solution>Solution Text</solution>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>295</shareWithInitialString>
+   		<shareName>295_6studtitle</shareName>
+  		<shareWithClass>true</shareWithClass>
+   		<gradeable>true</gradeable>
+   		<assignmentpolicy>295 Policy</assignmentpolicy>
+   		<gradingpolicy>Grading policy text</gradingpolicy>
+   		<duedate>26</duedate>
+   		<duetime>12:00 AM</duetime>
+        <answerchoice>incorrect</answerchoice>
+   		<additionalnote>This is an additional note</additionalnote>
+   		<gradereleaseoption>Auto-release on assignment submission</gradereleaseoption>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.ShowAnswerOption" index="295_1" method="showAnswerOption">
+		<user_id>IT13_R50Stude_295</user_id>
+		<Role>student</Role>
+		<context_id>295_6studcontext</context_id>
+  		<context_title>295_6studtitle</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.ShowAnswerOption" index="297" method="showAnswer">
+		<user_id>IT13_R50Ins_297</user_id>
+		<Role>instructor</Role>
+		<context_id>297studcontext</context_id>
+  		<context_title>297studtitle</context_title> 
+  		<assignmentpolicyname>297 Policy</assignmentpolicyname>
+		<assessmentname>297Assignment_1</assessmentname>
+		<questionset>297questionset</questionset>
+		<questiontext>question text</questiontext>
+		<solution>Solution Text</solution>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>297</shareWithInitialString>
+   		<shareName>297studtitle</shareName>
+  		<shareWithClass>true</shareWithClass>
+   		<gradeable>true</gradeable>
+   		<assignmentpolicy>297 Policy</assignmentpolicy>
+   		<gradingpolicy>Grading policy text</gradingpolicy>
+   		<duedate>26</duedate>
+   		<duetime>12:00 AM</duetime>
+   		<additionalnote>This is an additional note</additionalnote>
+   		<gradereleaseoption>Auto-release on assignment submission</gradereleaseoption>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.ShowAnswerOption" index="297_1" method="showAnswer">
+		<user_id>IT13_R50Stude_297</user_id>
+		<Role>student</Role>
+		<context_id>297studcontext</context_id>
+  		<context_title>297studtitle</context_title> 
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.ShowAnswerOption" index="304" method="showAnswerSetToNO">
+		<user_id>IT13_R50Ins_304</user_id>
+		<Role>instructor</Role>
+		<context_id>304studcontext</context_id>
+  		<context_title>304studtitle</context_title> 
+  		<assignmentpolicyname>304 Policy</assignmentpolicyname>
+		<assessmentname>304_1Assignment</assessmentname>
+		<questionset>304questionset</questionset>
+		<questiontext>question text</questiontext>
+		<solution>Solution Text</solution>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>304</shareWithInitialString>
+   		<shareName>304studtitle</shareName>
+  		<shareWithClass>true</shareWithClass>
+   		<gradeable>true</gradeable>
+   		<assignmentpolicy>304 Policy</assignmentpolicy>
+   		<gradingpolicy>Grading policy text</gradingpolicy>
+   		<duedate>26</duedate>
+   		<duetime>12:00 AM</duetime>
+   		<additionalnote>This is an additional note</additionalnote>
+   		<gradereleaseoption>Auto-release on assignment submission</gradereleaseoption>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.ShowAnswerOption" index="304_1" method="showAnswerSetToNO">
+		<user_id>IT13_R50Stude_304</user_id>
+		<Role>student</Role>
+		<context_id>304studcontext</context_id>
+  		<context_title>304studtitle</context_title> 
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.ShowAnswerOption" index="305" method="showAnswerWithImmediateFeedbackDisabled">
+		<user_id>IT13_R50Ins_305</user_id>
+		<Role>instructor</Role>
+		<context_id>305studcontext</context_id>
+  		<context_title>305studtitle</context_title> 
+  		<assignmentpolicyname>305 Policy</assignmentpolicyname>
+		<assessmentname>305_1Assignment</assessmentname>
+		<questionset>305questionset</questionset>
+		<questiontext>question text</questiontext>
+		<solution>Solution Text</solution>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>305</shareWithInitialString>
+   		<shareName>305studtitle</shareName>
+  		<shareWithClass>true</shareWithClass>
+   		<gradeable>true</gradeable>
+   		<assignmentpolicy>305 Policy</assignmentpolicy>
+   		<gradingpolicy>Grading policy text</gradingpolicy>
+   		<duedate>26</duedate>
+   		<duetime>12:00 AM</duetime>
+   		<additionalnote>This is an additional note</additionalnote>
+   		<gradereleaseoption>Auto-release on assignment submission</gradereleaseoption>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R50.ShowAnswerOption" index="305_1" method="showAnswerWithImmediateFeedbackDisabled">
+		<user_id>IT13_R50Stude_305</user_id>
+		<Role>student</Role>
+		<context_id>305studcontext</context_id>
+  		<context_title>305studtitle</context_title> 
+	</testcase>
+</learningspaces>

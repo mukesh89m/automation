@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1413.SocialCollabrationSettingsForInstructor" index="2" method="socialCollabrationSettingsForInstructor">
+		<user_id>IT14_R14_13_I_2</user_id>
+		<Role>instructor</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1413.SelectOptionTwoFromSettingsPage" index="14" method="selectOptionTwoFromSettingsPage">
+		<user_id>IT14_R14_13_Ins_14</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR1413_14_1</context_id>
+		<context_title>studtitleR1413_14_1</context_title>
+		<resoursename>Resources_14</resoursename>
+		<type>image</type>
+		<description>its an image</description>
+		<instructoronlyflag>false</instructoronlyflag>
+		<filename>img.png</filename>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1413.SelectOptionTwoFromSettingsPage" index="14_1" method="selectOptionTwoFromSettingsPage">
+		<user_id>IT14_R14_13_Stu_14</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1413_14_1</context_id>
+		<context_title>studtitleR1413_14_1</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1413.SelectOptionTwoFromSettingsPage" index="20" method="selectOptionTwoFromSettingsPageAndCheckAssignmentsTab">
+		<user_id>IT14_R20_13_Ins_20</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR1413_20_1</context_id>
+		<context_title>studtitleR1413_20_1</context_title>
+		<assessmentname>20 Assessment</assessmentname>
+		<questionset>20 Question Set</questionset>
+		<questiontext>20Test Question</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<shareWithInitialString>stud</shareWithInitialString>
+		<shareName>studtitleR1413_20_1</shareName>
+		<shareWithClass>true</shareWithClass>
+		<gradeable>false</gradeable>
+		<gradingpolicy>Grading policy text</gradingpolicy>
+		<duedate>28</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>This is an additional note</additionalnote>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1413.SelectOptionTwoFromSettingsPage" index="20_1" method="selectOptionTwoFromSettingsPageAndCheckAssignmentsTab">
+		<user_id>IT14_R20_13_S_20</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1413_20_1</context_id>
+		<context_title>studtitleR1413_20_1</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1413.SelectOptionTwoFromSettingsPage" index="20_2" method="selectOptionTwoFromSettingsPageAndCheckAssignmentsTab">
+		<user_id>IT14_R14_13_Stu_20_2</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1413_20_2</context_id>
+		<context_title>studtitleR1413_20_2</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1413.SelectOptionTwoFromSettingsPage" index="11" method="selectOptionOneFromSettingsPage">
+		<user_id>IT14_R14_13_Ins_11</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR1413_11</context_id>
+		<context_title>studtitleR1413_11</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1413.SelectOptionTwoFromSettingsPage" index="11_1" method="selectOptionOneFromSettingsPage">
+		<user_id>IT14_R14_13_Stu_11_1</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1413_11</context_id>
+		<context_title>studtitleR1413_11</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1413.PostDiscussionsInLessonPage" index="25" method="postDiscussionsInLessonPageByHighlightingText">
+		<user_id>IT14_R14_13_Ins_25</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR1413_25</context_id>
+		<context_title>studtitleR1413_25</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1413.PostDiscussionsInLessonPage" index="25_1" method="postDiscussionsInLessonPageByHighlightingText">
+		<user_id>IT14_R14_13_Stu_25_1</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1413_25</context_id>
+		<context_title>studtitleR1413_25</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1413.PostDiscussionsInLessonPage" index="31" method="postDiscussionsInLessonPage">
+		<user_id>IT14_R14_13_Ins_31</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR1413_31</context_id>
+		<context_title>studtitleR1413_31</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1413.PostDiscussionsInLessonPage" index="31_1" method="postDiscussionsInLessonPage">
+		<user_id>IT14_R14_13_Stu_31_1</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1413_31</context_id>
+		<context_title>studtitleR1413_31</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1413.PostCommentForWidget" index="36" method="postCommentForWidget">
+		<user_id>IT14_R14_13_Inst_36</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR1413_36_1</context_id>
+		<context_title>studtitleR1413_36_1</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1413.PostCommentForWidget" index="36_1" method="postCommentForWidget">
+		<user_id>IT14_R14_13_Stud_36_1</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1413_36_1</context_id>
+		<context_title>studtitleR1413_36_1</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1413.PostCommentForWidget" index="39" method="postDiscussionInPerformanceSummaryPage">
+		<user_id>IT14_R14_13_Ins_39</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR1413_39</context_id>
+		<context_title>studtitleR1413_39</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1413.PostCommentForWidget" index="39_1" method="postDiscussionInPerformanceSummaryPage">
+		<user_id>IT14_R14_13_Stu_39_1</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1413_39</context_id>
+		<context_title>studtitleR1413_39</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1413.FinishPracticeTestAndAddDiscussion" index="45" method="finishPracticeTestAndAddDiscussion">
+		<user_id>IT14_R14_13_Inst_45</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR1413_45_1</context_id>
+		<context_title>studtitleR1413_45_1</context_title>
+		<assessmentname>45 Practice Assessment</assessmentname>
+		<questionset>45 Question Set</questionset>
+		<questiontext>45 Test Question</questiontext>
+		<questiontype>Adaptive Component Practice</questiontype>
+		<assignmentname>45 Practice Assessment</assignmentname>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1413.FinishPracticeTestAndAddDiscussion" index="45_1" method="finishPracticeTestAndAddDiscussion">
+		<user_id>IT14_R14_13_Stud_45_1</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1413_45_1</context_id>
+		<context_title>studtitleR1413_45_1</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1413.FinishPracticeTestAndAddDiscussion" index="51" method="finishTLOLevelPracticeTestAndAddDiscussion">
+		<user_id>IT14_R14_13_Inst_51</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR1413_51</context_id>
+		<context_title>studtitleR1413_51</context_title>
+		<assessmentname>51 Practice Assessment</assessmentname>
+		<questionset>51 Question Set</questionset>
+		<questiontext>51 Test Question</questiontext>
+		<questiontype>Adaptive Component Practice</questiontype>
+		<assignmentname>51 Practice Assessment</assignmentname>
+		<learningobjective>true</learningobjective>
+ 		<tlo>1</tlo>
+ 		<reservforassignment>false</reservforassignment>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1413.FinishPracticeTestAndAddDiscussion" index="51_1" method="finishTLOLevelPracticeTestAndAddDiscussion">
+		<user_id>IT14_R14_13_Stud_51_1</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1413_51</context_id>
+		<context_title>studtitleR1413_51</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1413.FinishStaticTestAndAddDiscussion" index="56" method="finishStaticTestAndAddDiscussion">
+		<user_id>IT14_R14_13_Instruct_56</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR1413_56_4</context_id>
+		<context_title>studtitleR1413_56_4</context_title>
+		<assessmentname>56 Practice Assessment</assessmentname>
+		<questionset>56 Question Set</questionset>
+		<questiontext>56 Test Question</questiontext>
+		<questiontype>Adaptive Component Practice</questiontype>
+		<assignmentname>56 Practice Assessment</assignmentname>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1413.FinishStaticTestAndAddDiscussion" index="56_1" method="finishStaticTestAndAddDiscussion">
+		<user_id>IT14_R14_13_Studentsss_56_1</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1413_56_4</context_id>
+		<context_title>studtitleR1413_56_4</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1413.PostDiscussionInQuestionReviewPageOfAssignments" index="74" method="PostDiscussionInQuestionReviewPageOfAssignments">
+		<user_id>IT14_R14_13_Instru_74</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR1413_74_2</context_id>
+		<context_title>studtitleR1413_74_2</context_title>
+		<assignmentpolicyname>Policy Name</assignmentpolicyname>
+		<assessmentname>74 Assignment</assessmentname>
+		<questionset>74questionset</questionset>
+		<questiontext>74 question text</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<assignmentname>74 Assignment</assignmentname>
+		<shareWithInitialString>stud</shareWithInitialString>
+   		<shareName>studtitleR1413_74_2</shareName>
+  		<shareWithClass>true</shareWithClass>
+   		<gradeable>true</gradeable>
+   		<assignmentpolicy>Policy Name</assignmentpolicy>
+   		<gradingpolicy>Grading policy text</gradingpolicy>
+   		<duedate>26</duedate>
+   		<duetime>12:00 AM</duetime>
+   		<additionalnote>This is an additional note</additionalnote>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1413.PostDiscussionInQuestionReviewPageOfAssignments" index="74_1" method="PostDiscussionInQuestionReviewPageOfAssignments">
+		<user_id>IT14_R14_13_Studen_74_1</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1413_74_2</context_id>
+		<context_title>studtitleR1413_74_2</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1413.PostDiscussionInCourseStreamPage" index="83" method="PostDiscussionInCourseStreamPage">
+		<user_id>IT14_R14_13_Instr_83</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR1413_83_3</context_id>
+		<context_title>studtitleR1413_83_3</context_title>
+		<familyname>Ins_SecondName_83</familyname>
+		<givenname>Ins_FirstName_83</givenname>
+		<shareWithInitialString>Ins</shareWithInitialString>
+		<shareName>Ins_FirstName_83 Ins_SecondName_83</shareName>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1413.PostDiscussionInCourseStreamPage" index="83_1" method="PostDiscussionInCourseStreamPage">
+		<user_id>IT14_R14_13_Instr_83_1</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR1413_83_3</context_id>
+		<context_title>studtitleR1413_83_3</context_title>
+		<familyname>Ins_SecondName_83_1</familyname>
+		<givenname>Ins_FirstName_83_1</givenname>
+		<shareName>Ins_FirstName_83_1 Ins_SecondName_83_1</shareName>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1413.PostDiscussionInCourseStreamPage" index="83_2" method="PostDiscussionInCourseStreamPage">
+		<user_id>IT14_R14_13_Stude_83_2</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1413_83_3</context_id>
+		<context_title>studtitleR1413_83_3</context_title>
+		<familyname>Stu_SecondName_83_2</familyname>
+		<givenname>Stu_FirstName_83_2</givenname>
+		<shareName>Stu_FirstName_83_2 Stu_SecondName_83_2</shareName>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1413.PostDiscussionInCourseStreamPage" index="83_3" method="PostDiscussionInCourseStreamPage">
+		<user_id>IT14_R14_13_Men_83_3</user_id>
+		<Role>mentor</Role>
+		<context_id>studcontextR1413_83_3</context_id>
+		<context_title>studtitleR1413_83_3</context_title>
+		<familyname>Men_SecondName_83_3</familyname>
+		<givenname>Men_FirstName_83_3</givenname>
+		<shareName>Men_FirstName_83_3 Men_SecondName_83_3</shareName>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1413.PostLinkInCourseStreamPage" index="92" method="postLinkInCourseStreamPage">
+		<user_id>IT14_R14_13_Instr_92</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR1413_92</context_id>
+		<context_title>studtitleR1413_92</context_title>
+		<familyname>Ins_SecondName_92</familyname>
+		<givenname>Ins_FirstName_92</givenname>
+		<shareWithInitialString>Ins</shareWithInitialString>
+		<shareName>Ins_FirstName_92 Ins_SecondName_92</shareName>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1413.PostLinkInCourseStreamPage" index="92_1" method="postLinkInCourseStreamPage">
+	<user_id>IT14_R14_13_Men_92_1</user_id>
+		<Role>mentor</Role>
+		<context_id>studcontextR1413_92</context_id>
+		<context_title>studtitleR1413_92</context_title>
+		<familyname>Men_SecondName_92_1</familyname>
+		<givenname>Men_FirstName_92_1</givenname>
+		<shareWithInitialString>Men</shareWithInitialString>
+		<shareName>Men_FirstName_92_1 Men_SecondName_92_1</shareName>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1413.PostLinkInCourseStreamPage" index="92_2" method="postLinkInCourseStreamPage">
+		<user_id>IT14_R14_13_Stude_92_2</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1413_92</context_id>
+		<context_title>studtitleR1413_92</context_title>
+		<familyname>Stu_SecondName_92_2</familyname>
+		<givenname>Stu_FirstName_92_2</givenname>
+		<shareName>Stu_FirstName_92_2 Stu_SecondName_92_2</shareName>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1413.PostLinkInCourseStreamPage" index="92_3" method="postLinkInCourseStreamPage">
+		<user_id>IT14_R14_13_S_92_1</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1413_92</context_id>
+		<context_title>studtitleR1413_92</context_title>
+		<familyname>Stu_SecondName_92_3</familyname>
+		<givenname>Stu_FirstName_92_3</givenname>
+		<shareName>Stu_FirstName_92_3 Stu_SecondName_92_3</shareName>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1413.UploadFileFromCourseStream" index="100" method="uploadFileFromCourseStream">
+		<user_id>IT14_R14_13_I_100</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR1413_100</context_id>
+		<context_title>studtitleR1413_100</context_title>
+		<familyname>Ins_SecondName_100</familyname>
+		<givenname>Ins_FirstName_100</givenname>
+		<shareWithInitialString>Ins</shareWithInitialString>
+		<shareName>Ins_FirstName_100 Ins_SecondName_100</shareName>
+		<filename>img.png</filename>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1413.UploadFileFromCourseStream" index="100_1" method="uploadFileFromCourseStream">
+	<user_id>IT14_R14_13_Men_100_1</user_id>
+		<Role>mentor</Role>
+		<context_id>studcontextR1413_100</context_id>
+		<context_title>studtitleR1413_100</context_title>
+		<familyname>Men_SecondName_100_1</familyname>
+		<givenname>Men_FirstName_100_1</givenname>
+		<shareWithInitialString>Men</shareWithInitialString>
+		<shareName>Men_FirstName_100_1 Men_SecondName_100_1</shareName>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1413.UploadFileFromCourseStream" index="100_2" method="uploadFileFromCourseStream">
+		<user_id>IT14_R14_13_Stude_100_2</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1413_100</context_id>
+		<context_title>studtitleR1413_100</context_title>
+		<familyname>Stu_SecondName_100_2</familyname>
+		<givenname>Stu_FirstName_100_2</givenname>
+		<shareName>Stu_FirstName_100_2 Stu_SecondName_100_2</shareName>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1413.UploadFileFromCourseStream" index="100_3" method="uploadFileFromCourseStream">
+		<user_id>IT14_R14_13_S_100_1</user_id>
+		<Role>student</Role>
+		<context_id>studcontextR1413_100</context_id>
+		<context_title>studtitleR1413_100</context_title>
+		<familyname>Stu_SecondName_100_3</familyname>
+		<givenname>Stu_FirstName_100_3</givenname>
+		<shareName>Stu_FirstName_100_3 Stu_SecondName_100_3</shareName>
+	</testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1413.SelectOptionThreeFromSettingsPage" index="111" method="selectOptionThreeFromSettingsPage">
+        <user_id>IT14_R14_13_Instructor_111_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR1413_111</context_id>
+        <context_title>studtitleR1413_111</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1413.SelectOptionThreeFromSettingsPage" index="111_1" method="selectOptionThreeFromSettingsPage">
+        <user_id>IT14_R14_13_Student_111_1_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR1413_111</context_id>
+        <context_title>studtitleR1413_111</context_title>
+    </testcase>
+</learningspaces>

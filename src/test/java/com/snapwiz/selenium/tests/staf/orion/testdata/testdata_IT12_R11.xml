@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orion>
+	<testcase id="tloids" index ="0">	          
+		<tlo>12785</tlo>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT12.R11.AccessPassageQuestionInTheSearchPage" index="1" method="accessPassageQuestionInTheSearchPage">
+			<assessmentname>5assessment</assessmentname>
+			<questiontype>Adaptive Component Diagnostic</questiontype>
+			<questionset>5questionset</questionset>
+			<questiontext>5questiontext</questiontext>
+			<chapterName>Ch 1: The Study of Life</chapterName>
+			<passagetext>5passagetext</passagetext>
+			<passagedetails>5passage details 5passage details 5passage details 5passage details 5passage details</passagedetails>
+			<difficultylevel>Hard</difficultylevel>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT12.R11.AccessPassageQuestionInTheSearchPage" index="6" method="accessPassageQuestionInTheSearchPage">
+			<newChapterName>6Chapter</newChapterName>
+			<assessmentname>6assessment</assessmentname>
+			<questiontype>Adaptive Component Diagnostic</questiontype>
+			<questionset>6questionset</questionset>
+			<questiontext>6questiontext</questiontext>
+			<chapterName>6Chapter</chapterName>
+			<passagetext>6passagetext</passagetext>
+			<passagedetails>6passage details 6passage details 6passage details 6passage details 6passage details</passagedetails>
+			<difficultylevel>Hard</difficultylevel>
+	</testcase>
+</orion>

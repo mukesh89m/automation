@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="IT_15_R15.94-LSRegressionSuite">
+    <classes>         	
+    	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1594.PopUpToCreatePolicyOnFly"/>
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->

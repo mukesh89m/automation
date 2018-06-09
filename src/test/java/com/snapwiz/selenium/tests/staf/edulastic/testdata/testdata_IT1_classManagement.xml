@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edulastic>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.classManagement.ClassManagement" index ="14" method="">
+        <assessmentname>IT1_addingPointsTrueFalse_14</assessmentname>
+        <questiontext>question text IT1_addingPointsTrueFalse_14</questiontext>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.classManagement.ClassManagement" index ="172" method="">
+        <assessmentname>IT1_classManagementParticularQuestionTrueFalse_172</assessmentname>
+        <questiontext>question text_classManagementParticularQuestionTrueFalse_172</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.classManagement.DeleteStudentNonGradable" index ="173" method="">
+        <assessmentname>IT1_DeleteStudentNonGradableParticularQuestionTrueFalse_173</assessmentname>
+        <questiontext>question text_DeleteStudentNonGradableParticularQuestionTrueFalse_173</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <accessibleAfterTime>true</accessibleAfterTime>
+        <privacy>Public</privacy>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.classManagement.DeleteStudentNonGradable" index ="174" method="">
+        <assessmentname>IT1_DeleteStudentNonGradableParticularQuestionTrueFalse_174</assessmentname>
+        <questiontext>question text_DeleteStudentNonGradableParticularQuestionTrueFalse_174</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <accessibleAfterTime>true</accessibleAfterTime>
+        <privacy>Public</privacy>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.classManagement.DeleteStudentNonGradable" index ="175" method="">
+        <assessmentname>IT1_DeleteStudentNonGradableParticularQuestionTrueFalse_175</assessmentname>
+        <questiontext>question text_DeleteStudentNonGradableParticularQuestionTrueFalse_175</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.classManagement.DeleteStudentNonGradable" index ="176" method="">
+        <assessmentname>IT1_DeleteStudentNonGradableParticularQuestionTrueFalse_176</assessmentname>
+        <questiontext>question text_DeleteStudentNonGradableParticularQuestionTrueFalse_176</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.classManagement.DeleteStudentGradableExplicitlyByInstructor" index ="177" method="">
+        <assessmentname>IT1_DeleteStudentGradableExplicitlyByInstructorParticularQuestionTrueFalse_177</assessmentname>
+        <questiontext>question text_DeleteStudentGradableExplicitlyByInstructorParticularQuestionTrueFalse_177</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <accessibleAfterTime>true</accessibleAfterTime>
+        <privacy>Public</privacy>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.classManagement.DeleteStudentGradableExplicitlyByInstructor" index ="178" method="">
+        <assessmentname>IT1_DeleteStudentNonGradableParticularQuestionTrueFalse_178</assessmentname>
+        <questiontext>question text_DeleteStudentNonGradableParticularQuestionTrueFalse_178</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <accessibleAfterTime>true</accessibleAfterTime>
+        <privacy>Public</privacy>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.classManagement.DeleteStudentGradableExplicitlyByInstructor" index ="179" method="">
+        <assessmentname>IT1_DeleteStudentNonGradableParticularQuestionTrueFalse_179</assessmentname>
+        <questiontext>question text_DeleteStudentNonGradableParticularQuestionTrueFalse_179</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.classManagement.DeleteStudentGradableExplicitlyByInstructor" index ="180" method="">
+        <assessmentname>IT1_DeleteStudentGradableOnAssignmentSubmissionQuestionTrueFalse_180</assessmentname>
+        <questiontext>question text_DeleteStudentGradableOnAssignmentSubmissionQuestionTrueFalse_180</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.classManagement.DeleteStudentGradableOnAssignmentSubmission" index ="181" method="">
+        <assessmentname>IT1_DeleteStudentGradableOnAssignmentSubmissionQuestionTrueFalse_181</assessmentname>
+        <questiontext>question text_DeleteStudentGradableOnAssignmentSubmissionQuestionTrueFalse_181</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <accessibleAfterTime>true</accessibleAfterTime>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.classManagement.DeleteStudentGradableOnAssignmentSubmission" index ="182" method="">
+        <assessmentname>IT1_DeleteStudentGradableOnAssignmentSubmissionQuestionTrueFalse_182</assessmentname>
+        <questiontext>question text_DeleteStudentGradableOnAssignmentSubmissionQuestionTrueFalse_182</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <accessibleAfterTime>true</accessibleAfterTime>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.classManagement.DeleteStudentGradableOnAssignmentSubmission" index ="183" method="">
+        <assessmentname>IT1_DeleteStudentGradableOnAssignmentSubmissionQuestionTrueFalse_183</assessmentname>
+        <questiontext>question text_DeleteStudentGradableOnAssignmentSubmissionQuestionTrueFalse_183</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.classManagement.DeleteStudentGradableOnAssignmentSubmission" index ="184" method="">
+        <assessmentname>IT1_DeleteStudentGradableOnAssignmentSubmissionQuestionTrueFalse_184</assessmentname>
+        <questiontext>question text_DeleteStudentGradableOnAssignmentSubmissionQuestionTrueFalse_184</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.classManagement.SearchStudentAfterDelete" index ="185" method="">
+        <assessmentname>IT1_SearchStudentAfterDeleteParticularQuestionTrueFalse_185</assessmentname>
+        <questiontext>question text_SearchStudentAfterDeleteParticularQuestionTrueFalse_185</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+
+</edulastic>

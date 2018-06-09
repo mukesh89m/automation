@@ -1,0 +1,983 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTest" index="1"	method="">
+        <user_id>student_sanity_ls_134</user_id>
+        <Role>student</Role>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTest" index="1_1"	method="">
+        <user_id>student_sanity_ls_1_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontextlsSanity1_2</context_id>
+        <context_title>studtitlelsSanity1_2</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTest" index="1_2"	method="">
+        <user_id>instrutor_sanity_ls_1_2</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextls1_1</context_id>
+        <context_title>studtitlels1_1</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTest" index="2"	method="">
+        <user_id>student_sanity_ls_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontextls2</context_id>
+        <context_title>studtitlels2</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTest" index="2_1"	method="">
+        <user_id>student_sanity_ls_2_11</user_id>
+        <Role>student</Role>
+        <context_id>studcontextlsSanity2_1</context_id>
+        <context_title>studtitlelsSanity2_1</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTest" index="2_2"	method="">
+        <user_id>student_sanity_ls_2_22</user_id>
+        <Role>student</Role>
+        <context_id>studcontextls2_22</context_id>
+        <context_title>studtitlels2_22</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTest" index="3"	method="">
+        <studentnametag>studtitlels2</studentnametag>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTest" index="4"	method="">
+        <filename>img.png</filename>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTest" index="5"	method="">
+        <user_id>student_sanity_ls_5_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontextls_Sanity_5_1</context_id>
+        <context_title>studtitlels_Sanity_5_22</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTest" index="5_2"	method="">
+        <user_id>student_sanity_ls_5_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontextls_Sanity_5_1</context_id>
+        <context_title>studtitlels_Sanity_5_1</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTest" index="6"	method="">
+        <user_id>instructor_sanity_ls_6_14</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextls_Sanity_5_1</context_id>
+        <context_title>studtitlels_Sanity_5_1</context_title>
+        <assessmentname>sanity_ls_Custom Assignment_6</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanity_ls_6</questionset>
+        <questiontext>Test Question for sanity_ls_6</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitlels_Sanity_5_1</shareWithInitialString>
+        <shareName>studtitlels_Sanity_5_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTest" index="6_1"	method="">
+        <user_id>instructor_sanity_ls_6_11</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextls_Sanity_5_1</context_id>
+        <context_title>studtitlels_Sanity_5_1</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTest" index="5_1"	method="">
+        <user_id>student_sanity_ls_5_14</user_id>
+        <Role>student</Role>
+        <context_id>studcontextls5</context_id>
+        <context_title>studtitlels5</context_title>
+        <shareWithInitialString>Mukesh</shareWithInitialString>
+        <studentnametag>Mukesh Mandal</studentnametag>
+        <shareWithClass>false</shareWithClass>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTest" index="7"	method="">
+        <user_id>student_sanity_ls_7_14</user_id>
+        <Role>student</Role>
+        <context_id>studcontextls5_14</context_id>
+        <context_title>studtitlels5_14</context_title>
+        <familyname>Kumar</familyname>
+        <givenname>Raj</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTest" index="7_1"	method="">
+        <user_id>instructor_sanity_ls_7_2</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextls5_14</context_id>
+        <context_title>studtitlels5_14</context_title>
+        <familyname>Mandal</familyname>
+        <givenname>Mukesh</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTest" index="11"	method="">
+        <user_id>student_sanity_ls_11</user_id>
+        <Role>student</Role>
+        <context_id>studcontextls11</context_id>
+        <context_title>studtitlels11</context_title>
+        <resoursename>A_sanity_ls_Resource Name_111</resoursename>
+        <type>image</type>
+        <description>Description for sanity_ls_11</description>
+        <filename>img.png</filename>
+        <instructoronlyflag>false</instructoronlyflag>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTest" index="12"	method="">
+        <user_id>student_sanity_ls_12</user_id>
+        <Role>student</Role>
+        <context_id>studcontextls12</context_id>
+        <context_title>studtitlels12</context_title>
+        <familyname>Mandal</familyname>
+        <givenname>Mukesh</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTest" index="13"	method="">
+        <user_id>student_sanity_ls_13_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextls13_1</context_id>
+        <context_title>studtitlels13_1</context_title>
+        <familyname>Kumar</familyname>
+        <givenname>Mukesh</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTest" index="14"	method="">
+        <user_id>student_sanity_ls_14_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextls13_1</context_id>
+        <context_title>studtitlels13_1</context_title>
+        <familyname>LastName14</familyname>
+        <givenname>FirstName14</givenname>
+        <shareWithInitialString>FirstName14</shareWithInitialString>
+        <studentnametag>FirstName14 LastName14</studentnametag>
+        <shareWithClass>false</shareWithClass>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTest" index="8"	method="">
+        <user_id>instructor_sanity_ls_8_2</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextls9_2</context_id>
+        <context_title>studtitlels9_2</context_title>
+        <assessmentname>sanity_ls_Custom Assignment_10</assessmentname>
+        <studentname>givenname family</studentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanity_ls_8</questionset>
+        <questiontext>Test Question for sanity_ls_8</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitlels9_2</shareWithInitialString>
+        <shareName>studtitlels9_2</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTest" index="9"	method="">
+        <user_id>student_sanity_ls_9_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontextls9_2</context_id>
+        <context_title>studtitlels9_2</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTest" index="15">
+        <user_id>student_sanity_ls_17_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext17_1</context_id>
+        <context_title>studtitle17_1</context_title>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTest" index="16">
+        <user_id>instructor_sanity_ls_18</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext17_1</context_id>
+        <context_title>studtitle17_1</context_title>
+        <shareWithInitialString>studtitle17_1</shareWithInitialString>
+        <shareName>studtitle17_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>false</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTest" index="17">
+        <user_id>student_sanity_ls_17_8</user_id>
+        <Role>student</Role>
+        <context_id>studcontext18_1</context_id>
+        <context_title>studtitle18_1</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTest" index="18">
+        <user_id>instructor_sanity_ls_18_2</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext18_1</context_id>
+        <context_title>studtitle18_1</context_title>
+        <shareWithInitialString>studtitle18_1</shareWithInitialString>
+        <shareName>studtitle18_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>true</gradable>
+        <totalpoints>2</totalpoints>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTest" index="19">
+    <user_id>instructor_sanity_ls_19</user_id>
+    <Role>instructor</Role>
+    <context_id>studcontext19</context_id>
+    <context_title>studtitle19</context_title>
+    <assignmentpolicyname>Policy19</assignmentpolicyname>
+    <assessmentname>Assignment19</assessmentname>
+    <questionset>questionset19</questionset>
+    <questiontext>questiontext19</questiontext>
+    <questiontype>Static Practice</questiontype>
+    <shareWithInitialString>studtitle19</shareWithInitialString>
+    <shareName>studtitle19</shareName>
+    <shareWithClass>true</shareWithClass>
+    <gradeable>true</gradeable>
+    <assignmentpolicy>Policy19</assignmentpolicy>
+    <gradingpolicy>Grading policy text</gradingpolicy>
+    <duedate>26</duedate>
+    <duetime>12:00 AM</duetime>
+    <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTest" index="19_1">
+    <user_id>student_sanity_ls_19_1</user_id>
+    <Role>student</Role>
+    <context_id>studcontext19</context_id>
+    <context_title>studtitle19</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTest" index="20">
+    <user_id>instructor_sanity_ls_20_1</user_id>
+    <Role>instructor</Role>
+    <context_id>studcontext20_1</context_id>
+    <context_title>studtitle20_1</context_title>
+    <assignmentpolicyname>Policy2011</assignmentpolicyname>
+    <assessmentname>Assignment2011</assessmentname>
+    <questionset>questionset202</questionset>
+    <questiontext>questiontext202</questiontext>
+    <questiontype>Static Practice</questiontype>
+    <shareWithInitialString>studtitle20_1</shareWithInitialString>
+    <shareName>studtitle20_1</shareName>
+    <shareWithClass>true</shareWithClass>
+    <gradeable>true</gradeable>
+    <assignmentpolicy>Policy2011</assignmentpolicy>
+    <gradingpolicy>Grading policy text</gradingpolicy>
+    <duedate>26</duedate>
+    <duetime>12:00 AM</duetime>
+    <additionalnote>This is an additional note20</additionalnote>
+        <studentname>givenname family</studentname>
+</testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTest" index="20_1">
+        <user_id>student_sanity_ls_20_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext20_1</context_id>
+        <context_title>studtitle20_1</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTest" index="21">
+        <user_id>instructor_sanity_ls_211</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext211</context_id>
+        <context_title>studtitle211</context_title>
+        <assignmentpolicyname>Policy211</assignmentpolicyname>
+        <assessmentname>Assignment211</assessmentname>
+        <questionset>questionset211</questionset>
+        <questiontext>questiontext211</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle211</shareWithInitialString>
+        <shareName>studtitle211</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy211</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note211</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTest" index="21_1">
+        <user_id>student_sanity_ls_21_11</user_id>
+        <Role>student</Role>
+        <context_id>studcontext211</context_id>
+        <context_title>studtitle211</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTest" index="22">
+        <user_id>instructor_sanity_ls_22</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext22</context_id>
+        <context_title>studtitle22</context_title>
+        <assignmentpolicyname>Policy22</assignmentpolicyname>
+        <assessmentname>Assignment22</assessmentname>
+        <questionset>questionset22</questionset>
+        <questiontext>questiontext22</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle22</shareWithInitialString>
+        <shareName>studtitle22</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy22</assignmentpolicy>
+        <gradingpolicy>Grading policy text22</gradingpolicy>
+        <duedate>26</duedate>
+        <policyname>Policy22</policyname>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note22</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTest" index="22_1">
+        <user_id>student_sanity_ls_22_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext22</context_id>
+        <context_title>studtitle22</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTest" index="22_2">
+        <user_id>student_sanity_ls_22_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext22_2</context_id>
+        <context_title>studtitle22_2</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTest" index="28">
+        <user_id>instructor_sanity_ls_28_111</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext28_1111</context_id>
+        <context_title>studtitle28_1111</context_title>
+        <assignmentpolicyname>Policy28</assignmentpolicyname>
+        <assessmentname>Assignment28</assessmentname>
+        <questionset>questionset28</questionset>
+        <questiontext>questiontext28</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle28_1111</shareWithInitialString>
+        <shareName>studtitle28_1111</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy28</assignmentpolicy>
+        <gradingpolicy>Grading policy text28</gradingpolicy>
+        <duedate>26</duedate>
+        <policyname>Policy28</policyname>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note28</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTest" index="28_1">
+        <user_id>student_sanity_ls_28_1111</user_id>
+        <Role>student</Role>
+        <context_id>studcontext28_1111</context_id>
+        <context_title>studtitle28_1111</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTest" index="28_2">
+        <user_id>student_sanity_ls_28_2222</user_id>
+        <Role>student</Role>
+        <context_id>studcontext28_1111</context_id>
+        <context_title>studtitle28_1111</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTest" index="1040">
+        <user_id>instructor_sanity_ls_1042</user_id>
+        <Role>instructor</Role>
+        <course_type>ls</course_type>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTest" index="24"	method="">
+        <user_id>student_sanity_ls_24_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextls24</context_id>
+        <context_title>studtitlels24</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTest" index="1039"	method="">
+        <user_id>student_sanity_ls_1048</user_id>
+        <Role>student</Role>
+        <context_id>studcontextls1048</context_id>
+        <context_title>studtitlels1048</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTest" index="25"	method="">
+        <user_id>instructor_sanity_ls_25</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextls24</context_id>
+        <context_title>studtitlels24</context_title>
+        <assessmentname>sanity_ls_Custom Assignment_25</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanity_ls_25</questionset>
+        <questiontext>Test Question for sanity_ls_25</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitlels24</shareWithInitialString>
+        <shareName>studtitlels24</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTest" index="26">
+        <user_id>instructor_sanity_ls_26_1</user_id>
+        <Role>instructor</Role>
+        <course_type>adaptive</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityCourseInformationTile" index="10" method="courseInformationTile">
+        <user_id>inst10</user_id>
+        <Role>instructor</Role>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityCourseInformationTile" index="24" method="recentActivityInCourseInformationTile">
+        <user_id>inst24</user_id>
+        <Role>instructor</Role>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityCourseInformationTile" index="27" method="recentActivityForTopicLevelLessonInCourseInformationTile">
+        <user_id>instruct27</user_id>
+        <Role>instructor</Role>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityClickOnAssignmentActivity" index="33" method="clickOnAssignmentActivity">
+        <user_id>stu33</user_id>
+        <Role>student</Role>
+        <familyname>33second</familyname>
+        <givenname>33first</givenname>
+        <context_id>33studcontext</context_id>
+        <context_title>33studtitle</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityClickOnAssignmentActivity" index="34" method="clickOnAssignmentActivity">
+        <user_id>i34</user_id>
+        <Role>instructor</Role>
+        <context_id>33studcontext</context_id>
+        <context_title>33studtitle</context_title>
+        <fullName>33first 33second</fullName>
+        <assessmentname>33_1Assessment</assessmentname>
+        <questionset>33_1Question Set</questionset>
+        <questiontext>33_1Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>33s</shareWithInitialString>
+        <shareName>33studtitle</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityClickOnAssignmentActivity" index="39" method="clickOnStudyLink">
+        <user_id>i39</user_id>
+        <Role>instructor</Role>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityOrderingOfActivities" index="57" method="orderingOfActivities">
+        <user_id>inst57</user_id>
+        <Role>instructor</Role>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityOrderingOfActivities" index="60" method="orderingOfActivitiesOnClosingLesson">
+        <user_id>inst60</user_id>
+        <Role>instructor</Role>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityInstructorAbleToViewAssignmentActivity" index="63" method="instructorAbleToViewAssignmentActivity" >
+        <user_id>IT12_R27_63instructor</user_id>
+        <Role>instructor</Role>
+        <course>Biology</course>
+        <assessmentname>63_1 Assessment</assessmentname>
+        <questionset>63_1 Question Set</questionset>
+        <questiontext>63_1 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <assessmentname>63_1 Assessment</assessmentname>
+        <shareWithInitialString>IT12_R27_63first</shareWithInitialString>
+        <shareName>IT12_R27_63first</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>IT12_R27_63first</studentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityInstructorAbleToViewAssignmentActivity" index="631" method="instructorAbleToViewAssignmentActivity" >
+        <user_id>IT12_R27_631student</user_id>
+        <Role>student</Role>
+        <familyname></familyname>
+        <givenname>IT12_R27_63first</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityInstructorAbleToViewAssignmentActivity" index="80" method="instructorAbleToViewAssignmentActivity" >
+        <user_id>80instructor</user_id>
+        <Role>instructor</Role>
+        <course>Biology</course>
+        <assessmentname>80 Assessment</assessmentname>
+        <questionset>80 Question Set</questionset>
+        <questiontext>80 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <assessmentname>80 Assessment</assessmentname>
+        <shareWithInitialString>805second</shareWithInitialString>
+        <shareName>805first 805second</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>805first 805second</studentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityInstructorAbleToViewAssignmentActivity" index="801" method="instructorAbleToViewAssignmentActivity" >
+        <course>Biology</course>
+        <assessmentname>801 Assessment</assessmentname>
+        <questionset>801 Question Set</questionset>
+        <questiontext>801 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <assessmentname>801 Assessment</assessmentname>
+        <shareWithInitialString>805second</shareWithInitialString>
+        <shareName>805first 805second</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>805first 805second</studentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityInstructorAbleToViewAssignmentActivity" index="802" method="instructorAbleToViewAssignmentActivity" >
+        <course>Biology</course>
+        <assessmentname>802 Assessment</assessmentname>
+        <questionset>802 Question Set</questionset>
+        <questiontext>802 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <assessmentname>802 Assessment</assessmentname>
+        <shareWithInitialString>805second</shareWithInitialString>
+        <shareName>805first 805second</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>805first 805second</studentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityInstructorAbleToViewAssignmentActivity" index="803" method="instructorAbleToViewAssignmentActivity" >
+        <course>Biology</course>
+        <assessmentname>803 Assessment</assessmentname>
+        <questionset>803 Question Set</questionset>
+        <questiontext>803 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <assessmentname>803 Assessment</assessmentname>
+        <shareWithInitialString>805second</shareWithInitialString>
+        <shareName>805first 805second</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>805first 805second</studentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityInstructorAbleToViewAssignmentActivity" index="804" method="instructorAbleToViewAssignmentActivity" >
+        <course>Biology</course>
+        <assessmentname>804 Assessment</assessmentname>
+        <questionset>804 Question Set</questionset>
+        <questiontext>804 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <assessmentname>804 Assessment</assessmentname>
+        <shareWithInitialString>805second</shareWithInitialString>
+        <shareName>805first 805second</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>805first 805second</studentname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityInstructorAbleToViewAssignmentActivity" index="805" method="instructorAbleToViewAssignmentActivity" >
+        <user_id>805student</user_id>
+        <Role>student</Role>
+        <familyname>805second</familyname>
+        <givenname>805first</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityInstructorAbleToViewLatestCourseStreamEntry" index="805" method="instructorAbleToViewAssignmentActivity" >
+        <user_id>805student</user_id>
+        <Role>student</Role>
+        <familyname>805second</familyname>
+        <givenname>805first</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityInstructorAbleToViewLatestCourseStreamEntry" index="179" method="InstructorAbleToViewLatestCourseStreamEntry" >
+        <user_id>179 instructor</user_id>>
+        <Role>instructor</Role>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityInstructorAbleToViewLatestCourseStreamEntry" index="1791" method="InstructorAbleToViewLatestCourseStreamEntry" >
+        <user_id>1791 instructor</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext1791</context_id>
+        <context_title>studtitle1791</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityCoursePerformanceIndicator" index="118" method="coursePerformanceIndicator">
+        <user_id>instructor_IT12_R27_119</user_id>
+        <Role>instructor</Role>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityCoursePerformanceIndicator" index="134" method="clickOnAvgTimeSpentTileForLSPlusAdaptiveCourse">
+        <user_id>i134</user_id>
+        <Role>instructor</Role>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityCoursePerformanceIndicator" index="135" method="clickOnAvgTimeSpentTileForLSCourse">
+        <user_id>in135</user_id>
+        <Role>instructor</Role>
+        <course_type>ls</course_type>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityAverageTimeSpent" index="131" method="averageTimeSpent">
+        <user_id >IT12_R27Student_131_4</user_id >
+        <Role>student</Role>
+        <context_id>131_1studcontext</context_id>
+        <context_title>131_1studtitle</context_title>
+        <familyname>131Family</familyname>
+        <givenname>131Givenname</givenname>
+        <submitassignment>true</submitassignment>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityAverageTimeSpent" index="132" method="averageTimeSpent">
+        <user_id >IT12_R27Student_132_4</user_id >
+        <Role>student</Role>
+        <context_id>131_1studcontext</context_id>
+        <context_title>131_1studtitle</context_title>
+        <familyname>131Family</familyname>
+        <givenname>131Givenname</givenname>
+        <submitassignment>true</submitassignment>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityAverageTimeSpent" index="133" method="averageTimeSpent">
+        <user_id >133instructo</user_id >
+        <Role>instructor</Role>
+        <context_id>131_1studcontext</context_id>
+        <context_title>131_1studtitle</context_title>
+        <familyname>133Family</familyname>
+        <givenname>133Givenname</givenname>
+        <studentname>133Givenname 133Family</studentname>
+        <assessmentname>133_2Assessment</assessmentname>
+        <questionset>133QuestionSet</questionset>
+        <questiontext>133questiontext</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>stud</shareWithInitialString>
+        <shareName>131_1studtitle</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <duedate>27</duedate>
+        <duetime>10:00 PM</duetime>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityAverageTimeSpent" index="137" method="averagePracticePerformance">
+        <user_id >IT12_R27Student_137_7</user_id >
+        <Role>student</Role>
+        <context_id>137_1studcontext</context_id>
+        <context_title>137_1studtitle</context_title>
+        <submitassignment>true</submitassignment>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityAverageTimeSpent" index="138" method="averagePracticePerformance">
+        <user_id >IT12_R27Student_138_7</user_id >
+        <Role>student</Role>
+        <context_id>137_1studcontext</context_id>
+        <context_title>137_1studtitle</context_title>
+        <submitassignment>true</submitassignment>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityAverageTimeSpent" index="139" method="averagePracticePerformance">
+        <user_id >IT12_R27Instructor_139_1</user_id >
+        <Role>instructor</Role>
+        <context_id>137_1studcontext</context_id>
+        <context_title>137_1studtitle</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityAverageTimeSpent" index="146" method="averagePracticePerformance">
+        <user_id >IT12_R27Instructor_146_1</user_id >
+        <Role>instructor</Role>
+        <course_type>ls</course_type>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityAverageTimeSpent" index="155" method="averagePracticePerformance">
+        <user_id >IT12_R27Instructor_155</user_id >
+        <Role>instructor</Role>
+        <course_type>ls</course_type>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTopTenPercent" index="158" method="topTenPercentforClassParticipation">
+        <user_id >IT12_R27Student_158</user_id >
+        <Role>student</Role>
+        <context_id>158studcontext</context_id>
+        <context_title>158studtitle</context_title>
+        <assessmentname>158Assessment</assessmentname>
+        <questionset>158QuestionSet</questionset>
+        <questiontext>158questiontext</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>stud</shareWithInitialString>
+        <shareName>158studtitle</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <duedate>27</duedate>
+        <duetime>10:00 PM</duetime>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTopTenPercent" index="158_1" method="topTenPercentforClassParticipation">
+        <user_id >IT12_R27Student_158_1</user_id >
+        <Role>student</Role>
+        <context_id>158studcontext</context_id>
+        <context_title>158studtitle</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTopTenPercent" index="158_2" method="topTenPercentforClassParticipation">
+        <user_id >IT12_R27Student_158_2</user_id >
+        <Role>student</Role>
+        <context_id>158studcontext</context_id>
+        <context_title>158studtitle</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTopTenPercent" index="158_3" method="topTenPercentforClassParticipation">
+        <user_id >IT12_R27Student_158_3</user_id >
+        <Role>student</Role>
+        <context_id>158studcontext</context_id>
+        <context_title>158studtitle</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTopTenPercent" index="158_4" method="topTenPercentforClassParticipation">
+        <user_id >IT12_R27Student_158_4</user_id >
+        <Role>student</Role>
+        <context_id>158studcontext</context_id>
+        <context_title>158studtitle</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTopTenPercent" index="158_5" method="topTenPercentforClassParticipation">
+        <user_id >IT12_R27Student_158_5</user_id >
+        <Role>student</Role>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTopTenPercent" index="158_6" method="topTenPercentforClassParticipation">
+        <user_id >IT12_R27Student_158_6</user_id >
+        <Role>student</Role>
+        <context_id>158studcontext</context_id>
+        <context_title>158studtitle</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTopTenPercent" index="158_7" method="topTenPercentforClassParticipation">
+        <user_id >IT12_R27Student_158_7</user_id >
+        <Role>student</Role>
+        <context_id>158studcontext</context_id>
+        <context_title>158studtitle</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTopTenPercent" index="158_8" method="topTenPercentforClassParticipation">
+        <user_id >IT12_R27Student_158_8</user_id >
+        <Role>student</Role>
+        <context_id>158studcontext</context_id>
+        <context_title>158studtitle</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTopTenPercent" index="158_9" method="topTenPercentforClassParticipation">
+        <user_id >IT12_R27Student_158_9</user_id >
+        <Role>student</Role>
+        <context_id>158studcontext</context_id>
+        <context_title>158studtitle</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTopTenPercent" index="158_10" method="topTenPercentforClassParticipation">
+        <user_id >IT12_R27Student_158_10</user_id >
+        <Role>student</Role>
+        <context_id>158studcontext</context_id>
+        <context_title>158studtitle</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTopTenPercent" index="158_11" method="topTenPercentforClassParticipation">
+        <user_id >IT12_R27Student_158_11</user_id >
+        <Role>student</Role>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTopTenPercent" index="158_12" method="topTenPercentforClassParticipation">
+        <user_id >IT12_R27Student_158_12</user_id >
+        <Role>student</Role>
+        <context_id>158studcontext</context_id>
+        <context_title>158studtitle</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTopTenPercent" index="158_13" method="topTenPercentforClassParticipation">
+        <user_id >IT12_R27Student_158_13</user_id >
+        <Role>student</Role>
+        <context_id>158studcontext</context_id>
+        <context_title>158studtitle</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTopTenPercent" index="158_14" method="topTenPercentforClassParticipation">
+        <user_id >IT12_R27Student_158_14</user_id >
+        <Role>student</Role>
+        <context_id>158studcontext</context_id>
+        <context_title>158studtitle</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTopTenPercent" index="159" method="topTenPercentforClassParticipation">
+        <user_id >IT12_R27Instructor_159</user_id >
+        <Role>instructor</Role>
+        <context_id>158studcontext</context_id>
+        <context_title>158studtitle</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTopTenPercent" index="168" method="defaultValueInTile">
+        <user_id >IT12_R27Instructor_168</user_id >
+        <Role>instructor</Role>
+        <context_id>168studcontext</context_id>
+        <context_title>168studtitle</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityLatestCourseStreamEntriesShownOnDashBoard" index="193" method="LatestCourseStreamEntriesShownOnDashBoard" >
+        <user_id>193instructor</user_id>>
+        <Role>instructor</Role>
+        <filename>img.png</filename>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityLatestCourseStreamEntriesShownOnDashBoard" index="205" method="DifferentKindOfStreamEntries" >
+        <user_id>205instructor</user_id>>
+        <Role>instructor</Role>
+        <filename>img.jpg</filename>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityLatestCourseStreamEntriesShownOnDashBoard" index="2051" method="DifferentKindOfStreamEntries" >
+        <filename>img.mp3</filename>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityLatestCourseStreamEntriesShownOnDashBoard" index="2052" method="DifferentKindOfStreamEntries" >
+        <filename>img.swf</filename>
+        <duedate>23</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>this is additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityNavigatorIcon" index="219" method="navigatorIcon">
+        <user_id>i219</user_id>
+        <Role>instructor</Role>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityNavigatorIcon" index="229" method="eTextbook">
+        <user_id>i229</user_id>
+        <Role>instructor</Role>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.DefaultStudentDashboardTiles" index="700">
+        <user_id>DefaultStudentDashboardTile7002</user_id>
+        <Role>student</Role>
+        <context_id>context7002</context_id>
+        <context_title>contexttitle7002</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.StudentDashboardTilesUpdate" index="701">
+        <user_id>student_sanity_ls_701</user_id>
+        <Role>student</Role>
+        <context_id>studcontextls701</context_id>
+        <context_title>studtitlels701</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.StudentDashboardTilesUpdate" index="702">
+        <user_id>instructor_sanity_ls_702</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextls701</context_id>
+        <context_title>studtitlels701</context_title>
+        <assessmentname>sanity_ls_Custom Assignment_702</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanity_ls_701</questionset>
+        <questiontext>Test Question for sanity_ls_701</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitlels701</shareWithInitialString>
+        <shareName>studtitlels701</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.StudentDashboardTilesUpdate" index="703">
+        <user_id>student_sanity_ls_703_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextls703_1</context_id>
+        <context_title>studtitlels703_1</context_title>
+        <filename>img.png</filename>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.StudentDashboardTilesUpdate" index="704"	method="">
+        <user_id>instructor_sanity_ls_704</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextls704</context_id>
+        <context_title>studtitlels704</context_title>
+        <assessmentname>sanity_ls_Custom Assignment_704</assessmentname>
+        <studentname>givenname family</studentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanity_ls_704</questionset>
+        <questiontext>Test Question for sanity_ls_704</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitlels704</shareWithInitialString>
+        <shareName>studtitlels704</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.StudentDashboardTilesUpdate" index="705"	method="">
+        <user_id>student_sanity_ls_705</user_id>
+        <Role>student</Role>
+        <context_id>studcontextls704</context_id>
+        <context_title>studtitlels704</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.StudentDashboardTilesUpdate" index="706"	method="">
+        <user_id>instructor_sanity_ls_7067</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextls707</context_id>
+        <context_title>studtitlels707</context_title>
+        <assessmentname>sanity_ls_Custom Assignment_7067</assessmentname>
+        <studentname>givenname family</studentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanity_ls_706</questionset>
+        <questiontext>Test Question for sanity_ls_706</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitlels707</shareWithInitialString>
+        <shareName>studtitlels707</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.StudentDashboardTilesUpdate" index="707"	method="">
+        <user_id>student_sanity_ls_7077</user_id>
+        <Role>student</Role>
+        <context_id>studcontextls707</context_id>
+        <context_title>studtitlels707</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTest" index="708" method="">
+        <user_id>student_sanity_ls_708_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextSanity55_1</context_id>
+        <context_title>studtitleSanity55_1</context_title>
+        <shareWithInstructor>708FirstName</shareWithInstructor>
+        <instructorName>708SecondName</instructorName>
+-       <shareWithClass>false</shareWithClass>
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTest" index="709"	method="">
+        <user_id>student_sanity_ls_709_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontextSanity55_1</context_id>
+        <context_title>studtitleSanity55_1</context_title>
+        <familyname>Kumar</familyname>
+        <givenname>Raj</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTest" index="710"	method="">
+        <user_id>instructor_sanity_ls_710_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextSanity55_1</context_id>
+        <context_title>studtitleSanity55_1</context_title>
+        <familyname>708SecondName</familyname>
+        <givenname>708FirstName</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTest" index="711"	method="">
+        <user_id>student_sanity_ls_711</user_id>
+        <Role>student</Role>
+        <context_id>studcontextSanity711</context_id>
+        <context_title>studtitleSanity711</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTest" index="712"	method="">
+        <user_id>student_sanity_ls_712</user_id>
+        <Role>student</Role>
+        <context_id>studcontextSanity712</context_id>
+        <context_title>studtitleSanity712</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTest" index="713"	method="">
+        <user_id>student_sanity_ls_7132</user_id>
+        <Role>student</Role>
+        <context_id>studcontextSanity7132</context_id>
+        <context_title>studtitleSanity7132</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTest" index="714">
+        <user_id>instructor_sanity_ls_714_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextls715</context_id>
+        <context_title>studtitlels715</context_title>
+        <assessmentname>sanity_ls_Custom Assignment_716</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of sanity_ls_714</questionset>
+        <questiontext>Test Question for sanity_ls_714</questiontext>
+        <learningobjective>true</learningobjective>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitlels715</shareWithInitialString>
+        <shareName>studtitlels715</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.sanity.ls.SanityTest" index="714_1">
+        <user_id>student_sanity_ls_714_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontextls715</context_id>
+        <context_title>studtitlels715</context_title>
+    </testcase>
+</learningspaces>

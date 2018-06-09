@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.copyquestions.CopyQuestions" index="3">
+        <assessmentname>Assessment_CopyQuestions_3</assessmentname>
+        <questionset>QuestionSet_CopyQuestions_3</questionset>
+        <questiontext>QuestionText_CopyQuestions_3</questiontext>
+        <questiontype>Static Practice</questiontype>
+<!--
+        <appendCharToQuestionText>True</appendCharToQuestionText>
+-->
+
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.copyquestions.CopyQuestions" index="11">
+        <assessmentname>Assessment_CopyQuestions_11</assessmentname>
+        <questionset>QuestionSet_CopyQuestions_11</questionset>
+        <questiontext>QuestionText_CopyQuestions_11</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <appendCharToQuestionText>True</appendCharToQuestionText>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.copyquestions.CopyQuestions" index="32">
+        <assessmentname>Assessment_CopyQuestions_32</assessmentname>
+        <questionset>QuestionSet_CopyQuestions_32</questionset>
+        <questiontext>QuestionText_CopyQuestions_32</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <appendCharToQuestionText>True</appendCharToQuestionText>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.copyquestions.CopyQuestions" index="33">
+        <assessmentname>Assessment_CopyQuestions_35</assessmentname>
+        <questionset>QuestionSet_CopyQuestions_35</questionset>
+        <questiontext>QuestionText_CopyQuestions_35</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <needNotToBePubished>true</needNotToBePubished>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.copyquestions.CopyQuestions" index="34">
+        <assessmentname>Assessment_CopyQuestions_34</assessmentname>
+        <questionset>QuestionSet_CopyQuestions_34</questionset>
+        <questiontext>QuestionText_CopyQuestions_34</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <needNotToBePubished>true</needNotToBePubished>
+    </testcase>
+</learningspaces>

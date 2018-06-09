@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="methods" preserve-order="true" configfailurepolicy="continue">
+     <parameter name="browser" value="firefox"/>
+    <listeners>
+        <listener class-name="com.snapwiz.selenium.tests.staf.framework.listener.CustomListener" />
+    </listeners>
+    <test name="Orion Sanity Jenkins Suite">
+            <groups>
+                <define name=""></define>
+               <dependencies>
+                   <group name="ss" depends-on=""></group>
+               </dependencies>
+            </groups>
+        <groups>
+            <run>
+                <include name="group name"></include>
+            </run>
+        </groups>
+        <classes>
+            <!--Sanity test for Orion-->
+           <class name="com.snapwiz.selenium.tests.staf.orion.testcases.Sanity.orion.ValidateAllQuestionType">
+            <methods>
+
+                <include name="method name"></include>
+            </methods>
+            </class>
+            <class name="com.snapwiz.selenium.tests.staf.orion.testcases.Sanity.orion.ValidateAllQuestionTypeWithAlgo"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->

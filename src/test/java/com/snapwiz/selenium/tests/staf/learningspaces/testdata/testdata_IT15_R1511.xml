@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<learningspaces>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1511.StudentAbleToViewMyFavoutiteEleMentOneTextbook" index="1" method="studentAbleToViewMyFavoutiteEleMentOneTextbook">
+		<user_id>student_IT15_R1511_1</user_id>
+		<Role>student</Role>
+		<context_id>contextid-it15-R1511_1</context_id>
+		<context_title>contexttitle-it15-R1511_1</context_title>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1511.EntryForBookmarkingWidgetUnderFavTab" index="39" method="entryForBookmarkingWidgetUnderFavTab">
+		<user_id>student_IT15_R1511_39</user_id>
+		<Role>student</Role>
+		<context_id>contextid-it15-R1511_39</context_id>
+		<context_title>contexttitle-it15-R1511_39</context_title>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1511.DiscssionStartedByAnotherStudent" index="75" method="DiscssionStartedByAnotherStudent">
+		<user_id>student_IT15_R1511_75</user_id>
+		<Role>student</Role>
+		<familyname>75family</familyname>
+		<givenname>75givenname</givenname>
+		<context_id>contextid-it15-R1511_751</context_id>
+		<context_title>contexttitle-it15-R1511_751</context_title>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1511.DiscssionStartedByAnotherStudent" index="751" method="DiscssionStartedByAnotherStudent">
+		<user_id>student_IT15_R1511_751</user_id>
+		<Role>student</Role>
+		<familyname>751family</familyname>
+		<givenname>751givenname</givenname>
+		<context_id>contextid-it15-R1511_751</context_id>
+		<context_title>contexttitle-it15-R1511_751</context_title>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1511.BookmarkedResourcesShownUnderStarTab" index="84" method="bookmarkedResourcesShownUnderStarTab">
+		<user_id>instructor_IT15_R1511_84</user_id>
+		<Role>instructor</Role>
+		<familyname>84family</familyname>
+		<givenname>84givenname</givenname>
+		<context_id>contextid-it15-R1511_84</context_id>
+		<context_title>contexttitle-it15-R1511_84</context_title>
+		<filename>img.png</filename>
+		<resourcesname>AAresources_IT15_R1511_84_1</resourcesname>
+        <resoursename>AAresources_IT15_R1511_84_1</resoursename>
+		<description>description_IT15_R1511_84</description>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1511.BookmarkedResourcesShownUnderStarTab" index="90" method="HighlightTheTextBookmarked">
+		<user_id>student_IT15_R1511_90</user_id>
+		<Role>student</Role>
+		<familyname>90family</familyname>
+		<givenname>90givenname</givenname>
+		<context_id>contextid-it15-R1511_90</context_id>
+		<context_title>contexttitle-it15-R1511_90</context_title>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1511.DiscussionAddFromPerformancePageAppearUnderStarTab" index="95" method="discussionAddFromPerformancePageAppearUnderStarTab">
+		<user_id>student_IT15_R1511_95</user_id>
+		<Role>student</Role>
+		<familyname>95family</familyname>
+		<givenname>95givenname</givenname>
+		<context_id>contextid-it15-R1511_95</context_id>
+		<context_title>contexttitle-it15-R1511_95</context_title>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1511.DiscussionAndNotesAddForStaticAssessment" index="167" method="discussionAndNotesAddForStaticAssessment">
+		<user_id>student_IT15_R1511_1671</user_id>
+		<Role>student</Role>
+		<familyname>1671family</familyname>
+		<givenname>1671givenname</givenname>
+		<context_id>contextid-it15-R1511_1671</context_id>
+		<context_title>contexttitle-it15-R1511_1671</context_title>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1511.DiscussionAndNotesAddForStaticAssessment" index="185" method="addDiscussionAndNotesOnStaticQuestionReviewPage">
+		<user_id>student_IT15_R1511_185</user_id>
+		<Role>student</Role>
+		<familyname>185family</familyname>
+		<givenname>185givenname</givenname>
+		<context_id>contextid-it15-R1511_185</context_id>
+		<context_title>contexttitle-it15-R1511_185</context_title>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1511.BookmarkedLessonDiscussionNotesNotShownToSecondStudent" index="203" method="bookmarkedLessonDiscussionNotesDWNotShownToSecondStudent">
+		<user_id>student_IT15_R1511_203</user_id>
+		<Role>student</Role>
+		<context_id>contextid-it15-R1511_203</context_id>
+		<context_title>contexttitle-it15-R1511_203</context_title>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1511.BookmarkedLessonDiscussionNotesNotShownToSecondStudent" index="2031" method="bookmarkedLessonDiscussionNotesDWNotShownToSecondStudent">
+		<user_id>student_IT15_R1511_2031</user_id>
+		<Role>student</Role>
+		<context_id>contextid-it15-R1511_203</context_id>
+		<context_title>contexttitle-it15-R1511_203</context_title>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1511.BookmarkedResourcesAndValidateShownByOtherStudentUnderStarTab" index="206" method="bookmarkedLessonDiscussionNotesDWNotShownToSecondStudent">
+		<user_id>student_IT15_R1511_206</user_id>
+		<Role>student</Role>
+		<context_id>contextid-it15-R1511_206</context_id>
+		<context_title>contexttitle-it15-R1511_206</context_title>
+		<resoursename>AAresources_IT15_R1511_206</resoursename>
+		<type>image</type>
+		<description>descrption_IT15_R1511_206</description>
+		<instructoronlyflag>false</instructoronlyflag>
+		<filename>img.png</filename>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1511.BookmarkedResourcesAndValidateShownByOtherStudentUnderStarTab" index="2061" method="bookmarkedLessonDiscussionNotesDWNotShownToSecondStudent">
+		<user_id>student_IT15_R1511_2061</user_id>
+		<Role>student</Role>
+		<context_id>contextid-it15-R1511_206</context_id>
+		<context_title>contexttitle-it15-R1511_206</context_title>
+	</testcase>
+	
+</learningspaces>

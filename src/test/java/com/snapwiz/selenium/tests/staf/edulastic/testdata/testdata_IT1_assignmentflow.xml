@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edulastic>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignmentflow.CreateNewUserAsTeacher" index ="11" method="assignmentStatusAsAwaitingSubmission">
+        <assessmentname>IT1_assignmentFlow_Assessment</assessmentname>
+        <questiontext>question text IT_assignmentFlow</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignmentflow.CreateNewUserAsTeacher" index ="12" method="">
+        <assessmentname>IT1_assignmentFlow_Assessment_11_1</assessmentname>
+        <questiontext>question text IT_assignmentFlow_11_1</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignmentflow.CreateNewUserAsTeacher" index ="13" method="">
+        <assessmentname>IT1_assignmentFlow_Assessment_11_2</assessmentname>
+        <questiontext>question text IT_assignmentFlow_11_2</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <owner>me</owner>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Private</privacy>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignmentflow.CreateNewUserAsTeacher" index ="14" method="">
+        <assessmentname>IT1_assignmentFlow_Assessment_11_4</assessmentname>
+        <questiontext>question text IT_assignmentFlow_11_4</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithClass>true</shareWithClass>
+        <submitFirstAssignment>true</submitFirstAssignment>>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignmentflow.CreateNewUserAsTeacher" index ="24" method="">
+        <assessmentname>IT1_assignmentFlow_Assessment_24</assessmentname>
+        <questiontext>question text IT_assignmentFlow_24</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignmentflow.CreateNewUserAsTeacher" index ="15" method="">
+        <assessmentname>IT1_assignmentFlow_Assessment_11_5</assessmentname>
+        <questiontext>question text IT_assignmentFlow_11_5</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <submitFirstAssignment>true</submitFirstAssignment>>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignmentflow.CreateNewUserAsTeacher" index ="27" method="">
+        <assessmentname>IT1_assignmentFlow_Assessment_27</assessmentname>
+        <questiontext>question text IT_assignmentFlow_27</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignmentflow.CreateNewUserAsTeacher" index ="16" method="">
+        <assessmentname>IT1_assignmentFlow_Assessment_11_6</assessmentname>
+        <questiontext>question text IT_assignmentFlow_11_6</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithClass>true</shareWithClass>
+        <accessibleafter>3</accessibleafter>
+        <duedate>28</duedate>
+        <submitFirstAssignment>true</submitFirstAssignment>>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignmentflow.AssignmentFlowActivity" index ="81" method="">
+        <assessmentname>IT1_assignmentFlow_Assessment81</assessmentname>
+        <questiontext>question text IT_assignmentFlow_81</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignmentflow.AssignmentFlowActivity" index ="88" method="">
+        <assessmentname>IT1_assignmentFlow_Assessment88</assessmentname>
+        <questiontext>question text IT_assignmentFlow_88</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignmentflow.AssignmentFlowActivity" index ="97" method="">
+        <assessmentname>IT1_assignmentFlow_Assessment97</assessmentname>
+        <questiontext>question text IT_assignmentFlow_97</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignmentflow.AssignmentFlowActivity" index ="102" method="">
+        <assessmentname>IT1_assignmentFlow_Assessment102</assessmentname>
+        <questiontext>question text IT_assignmentFlow_102</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignmentflow.AssignmentFlowActivity" index ="103" method="">
+        <assessmentname>IT1_assignmentFlow_Assessment103</assessmentname>
+        <questiontext>question text IT_assignmentFlow_103</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignmentflow.AssignmentFlowActivity" index ="104" method="">
+        <assessmentname>IT1_assignmentFlow_Assessment104</assessmentname>
+        <questiontext>question text IT_assignmentFlow_104</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <submitFirstAssignment>true</submitFirstAssignment>>
+        <privacy>Public</privacy>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignmentflow.AssignmentFlowActivity" index ="107" method="">
+        <assessmentname>IT1_assignmentFlow_Assessment107</assessmentname>
+        <questiontext>question text IT_assignmentFlow_107</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <selectgrade>Grade 4</selectgrade>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignmentflow.AssignmentFlowActivity" index ="108" method="">
+        <assessmentname>IT1_assignmentFlow_Assessment108</assessmentname>
+        <questiontext>question text IT_assignmentFlow_108</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignmentflow.AssignmentFlowActivity" index ="110" method="">
+        <assessmentname>IT1_assignmentFlow_Assessment110</assessmentname>
+        <questiontext>question text IT_assignmentFlow_110</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignmentflow.AssignmentFlowActivity" index ="112" method="">
+        <assessmentname>IT1_assignmentFlow_Assessment112</assessmentname>
+        <questiontext>question text IT_assignmentFlow_112</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignmentflow.AssignmentFlowActivity" index ="113" method="">
+        <assessmentname>IT1_assignmentFlow_Assessment113</assessmentname>
+        <questiontext>question text IT_assignmentFlow_113</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignmentflow.AssignmentFlowActivity" index ="114" method="">
+        <assessmentname>IT1_assignmentFlow_Assessment114</assessmentname>
+        <questiontext>question text IT_assignmentFlow_114</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignmentflow.AssignmentDueDate" index ="48" method="">
+        <assessmentname>IT1_assignmentFlow_Assessment48</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignmentflow.AssignmentDueDate" index ="49" method="">
+        <assessmentname>IT1_assignmentFlow_Assessment49</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignmentflow.AssignmentDueDate" index ="61" method="">
+        <assessmentname>IT1_assignmentFlow_Assessment61</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignmentflow.TLOactivity" index ="62" method="">
+        <assessmentname>IT1_assignmentFlow_Assessment62</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignmentflow.AssignmentFlowActivityForAllQuestionType" index ="81" method="">
+        <assessmentname>IT1_assignmentFlow_Assessment81</assessmentname>
+        <gradable>false</gradable>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <privacy>Public</privacy>
+        <submitFirstAssignment>true</submitFirstAssignment>
+        <description>description text</description>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignmentflow.TLOactivity" index ="66" method="">
+        <assessmentname>IT1_assignmentFlow_Assessment66</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignmentflow.TLOactivity" index ="74" method="">
+        <assessmentname>IT1_assignmentFlow_Assessment74</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignmentflow.AssignPage" index ="16" method="">
+    <assessmentname>IT1_createAssessmentFromDashboard_16</assessmentname>
+    <questiontext>question text createAssessmentFromDashboard_16</questiontext>
+    <createthrough>dashboard</createthrough>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignmentflow.AssignPage" index ="68" method="">
+        <assessmentname>IT1_createAssessmentFromMyAssessment_68</assessmentname>
+        <questiontext>question text createAssessmentFromMyAssessment_68</questiontext>
+        <createthrough>myAssessments</createthrough>
+    </testcase>
+
+</edulastic>

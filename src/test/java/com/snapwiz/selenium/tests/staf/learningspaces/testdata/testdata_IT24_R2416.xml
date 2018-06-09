@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2416.ComparisonWithStudentAnswer" index="10" method="">
+        <assessmentname>Assignment_IT24_R2416_16_Index10</assessmentname>
+        <questionset>Test Question set_IT24_R2416_16</questionset>
+        <questiontext>Test Question IT24_R2416_16</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <reservforassignment></reservforassignment>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2416.ComparisonWithStudentAnswer" index="15" method="">
+        <assessmentname>Assignment_IT24_R2416_16</assessmentname>
+        <questionset>Test Question set_IT24_R2416_16</questionset>
+        <questiontext>Test Question IT24_R2416_16</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <reservforassignment></reservforassignment>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2416.ComparisonWithStudentAnswer" index="23" method="">
+        <assessmentname>Assignment_IT24_R2416_16_26</assessmentname>
+        <questionset>Test Question set_IT24_R2416_16_26</questionset>
+        <questiontext>Test Question IT24_R2416_16_26</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <reservforassignment></reservforassignment> 
+    </testcase>
+</learningspaces>

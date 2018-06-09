@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1920.BlackBoardIntegrationForLSAdaptive" index="11" method="blackBoardIntegrationForLSAdaptive">
+        <user_id>IT19_R1920_Student_11_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR1920_11_2</context_id>
+        <context_title>studtitleR1920_11_2</context_title>
+        <instance_guid>blackboard</instance_guid>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1920.BlackBoardIntegrationForLSAdaptive" index="23" method="instructorBlackBoardIntegrationForLSAdaptive">
+        <user_id>IT19_R1920_Instructor_23_2</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR1920_23_2</context_id>
+        <context_title>studtitleR1920_23_2</context_title>
+        <instance_guid>blackboard</instance_guid>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1920.BlackBoardIntegrationForLSAdaptive" index="34" method="mentorBlackBoardIntegrationForLSAdaptive">
+        <user_id>IT19_R1920_mentor_34_2</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontextR1920_34_2</context_id>
+        <context_title>studtitleR1920_34_2</context_title>
+        <instance_guid>blackboard</instance_guid>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1920.BlackBoardIntegrationForLSAdaptive" index="46" method="studentBlackBoardIntegrationForLS">
+        <user_id>IT46_R1920_Student_46_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontextR1920_46_2</context_id>
+        <context_title>studtitleR1920_46_2</context_title>
+        <instance_guid>blackboard</instance_guid>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1920.BlackBoardIntegrationForLSAdaptive" index="57" method="instructorBlackBoardIntegrationForLS">
+        <user_id>IT19_R1920_Instructor_57_2</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontextR1920_57_2</context_id>
+        <context_title>studtitleR1920_57_2</context_title>
+        <instance_guid>blackboard</instance_guid>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1920.BlackBoardIntegrationForLSAdaptive" index="68" method="mentorBlackBoardIntegrationForLS">
+        <user_id>IT19_R1920_mentor_68_2</user_id>
+        <Role>mentor</Role>
+        <context_id>studcontextR1920_68_2</context_id>
+        <context_title>studtitleR1920_68_2</context_title>
+        <instance_guid>blackboard</instance_guid>
+    </testcase>
+</learningspaces>

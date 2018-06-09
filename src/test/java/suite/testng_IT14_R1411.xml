@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="R14.11-LSRegressionSuite">
+    <classes>   
+    	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1411.MentorAbleToLoginToApplication"/>
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->

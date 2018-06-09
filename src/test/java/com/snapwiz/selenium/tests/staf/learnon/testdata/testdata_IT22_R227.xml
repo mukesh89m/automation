@@ -1,0 +1,383 @@
+<?xml version="1.0"?>
+<learnon>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R227.TextShouldBeChangedToMarksNotReleased" index="183" method="">
+        <course>Jacaranda learnON History 8</course>
+        <user_id>instructor_IT22_R227_1831</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R227_183</context_id>
+        <context_title>studtitle_IT22_R227_183</context_title>
+        <assessmentname>Assignment_IT22_R227_183</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of _IT22_R227_183</questionset>
+        <questiontext>Test Question for _IT22_R227_183</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studtitle_IT22_R227_183</shareWithInitialString>
+        <shareName>studtitle_IT22_R227_183</shareName>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <studentname>givenname family</studentname>
+        <additionalnote>This is an additional note</additionalnote>
+        <searchquestion>_IT22_R227_183</searchquestion>
+        <customassignmentname>custom_assignment_IT22_R227_183</customassignmentname>
+        <noOfQuestions>1</noOfQuestions>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R227.TextShouldBeChangedToMarksNotReleased" index="183_1" method="">
+        <user_id>student_IT22_R227_183_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R227_183</context_id>
+        <context_title>studtitle_IT22_R227_183</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R227.TextShouldBeChangedToMarksNotReleased" index="183_2" method="">
+        <user_id>student_IT22_R227_183_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R227_183</context_id>
+        <context_title>studtitle_IT22_R227_183</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R227.TextShouldBeChangedToMarksNotReleased" index="183_3" method="">
+        <user_id>student_IT22_R227_183_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R227_183</context_id>
+        <context_title>studtitle_IT22_R227_183</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R227.TextShouldBeChangedToMarksNotReleased" index="189" method="">
+        <course>Jacaranda learnON History 8</course>
+        <user_id>instructor_IT22_R227_189</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R227_189</context_id>
+        <context_title>studtitle_IT22_R227_189</context_title>
+        <assessmentname>Assignment_IT22_R227_189</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of _IT22_R227_189</questionset>
+        <questiontext>Test Question_IT22_R227_189</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareName>studtitle_IT22_R227_189</shareName>
+        <shareWithClass>false</shareWithClass>
+        <shareWithInitialString>family1</shareWithInitialString>
+        <shareName>givenname1 family1</shareName>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <studentname>givenname1 family1</studentname>
+        <additionalnote>This is an additional note</additionalnote>
+        <searchquestion>_IT22_R227_183</searchquestion>
+        <customassignmentname>custom_assignment_IT22_R227_189</customassignmentname>
+        <noOfQuestions>1</noOfQuestions>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R227.TextShouldBeChangedToMarksNotReleased" index="189_1" method="">
+        <user_id>student_IT22_R227_189_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R227_189</context_id>
+        <context_title>studtitle_IT22_R227_189</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R227.TextShouldBeChangedToMarksNotReleased" index="189_2" method="">
+        <user_id>student_IT22_R227_189_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R227_189</context_id>
+        <context_title>studtitle_IT22_R227_189</context_title>
+        <familyname>family2</familyname>
+        <givenname>givenname2</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R227.TextShouldBeChangedToMarksNotReleased" index="189_3" method="">
+        <user_id>student_IT22_R227_189_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R227_189</context_id>
+        <context_title>studtitle_IT22_R227_189</context_title>
+        <familyname>family3</familyname>
+        <givenname>givenname3</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R227.TextShouldBeChangedToMarksNotReleased" index="198" method="">
+        <course>Jacaranda learnON History 8</course>
+        <user_id>instructor_IT22_R227_198</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R227_198</context_id>
+        <context_title>studtitle_IT22_R227_198</context_title>
+        <assessmentname>IT22_R227_Assessment_198</assessmentname>
+        <questionset>Question Set_IT22_R227_198</questionset>
+        <questiontext>Test Question_IT22_R227_198</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <useWriteBoard>true</useWriteBoard>
+        <searchquestion>true</searchquestion>
+        <noOfQuestions>1</noOfQuestions>
+        <customassignmentname>customAssigment</customassignmentname>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <studentname>givenname family</studentname>
+        <additionalnote>This is an additional note</additionalnote>
+        <customassignmentname>IT22_R227_Assessment_198</customassignmentname>
+        <shareWithInitialString>studtitle_IT22_R227_198</shareWithInitialString>
+        <shareName>studtitle_IT22_R227_198</shareName>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R227.TextShouldBeChangedToMarksNotReleased" index="198_1" method="">
+        <user_id>student_IT22_R227_198_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R227_198</context_id>
+        <context_title>studtitle_IT22_R227_198</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R227.TextShouldBeChangedToMarksNotReleased" index="198_2" method="">
+        <user_id>student_IT22_R227_198_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R227_198</context_id>
+        <context_title>studtitle_IT22_R227_198</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R227.TextShouldBeChangedToMarksNotReleased" index="198_3" method="">
+        <user_id>student_IT22_R227_198_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R227_198</context_id>
+        <context_title>studtitle_IT22_R227_198</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R227.TextShouldBeChangedToMarksNotReleased" index="204" method="">
+        <course>Jacaranda learnON History 8</course>
+        <user_id>instructor_IT22_R227_204</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R227_204</context_id>
+        <context_title>studtitle_IT22_R227_204</context_title>
+        <assessmentname>IT22_R227_Assessment_204</assessmentname>
+        <questionset>Question Set_IT22_R227_204</questionset>
+        <questiontext>Test Question_IT22_R227_204</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <useWriteBoard>true</useWriteBoard>
+        <searchquestion>true</searchquestion>
+        <noOfQuestions>1</noOfQuestions>
+        <customassignmentname>customAssigment</customassignmentname>
+        <shareWithClass>false</shareWithClass>
+        <shareWithInitialString>family1</shareWithInitialString>
+        <shareName>givenname1 family1</shareName>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <studentname>givenname1 family1</studentname>
+        <additionalnote>This is an additional note</additionalnote>
+        <customassignmentname>IT22_R227_Assessment_204</customassignmentname>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R227.TextShouldBeChangedToMarksNotReleased" index="204_1" method="">
+        <user_id>student_IT22_R227_204_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R227_204</context_id>
+        <context_title>studtitle_IT22_R227_204</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R227.TextShouldBeChangedToMarksNotReleased" index="204_2" method="">
+        <user_id>student_IT22_R227_204_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R227_204</context_id>
+        <context_title>studtitle_IT22_R227_204</context_title>
+        <familyname>family2</familyname>
+        <givenname>givenname2</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R227.TextShouldBeChangedToMarksNotReleased" index="204_3" method="">
+        <user_id>student_IT22_R227_204_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R227_204</context_id>
+        <context_title>studtitle_IT22_R227_204</context_title>
+        <familyname>family3</familyname>
+        <givenname>givenname3</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R227.TextShouldBeChangedToMarksNotReleased" index="212" method="">
+        <user_id>instructor_IT22_R227_212</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R227_212</context_id>
+        <context_title>studtitle_R227_212</context_title>
+        <assessmentname>FileBasedAssessment_R227_212</assessmentname>
+        <promptdetails>promptdetails</promptdetails>
+        <shareWithInitialString>studtitle_R227_212</shareWithInitialString>
+        <shareName>studtitle_R227_212</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>true</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <fileUpload>true</fileUpload>
+        <filename>img.png</filename>
+        <questionBank>true</questionBank>
+        <totalpoints>2</totalpoints>
+        <course>Jacaranda learnON History 8</course>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R227.TextShouldBeChangedToMarksNotReleased" index="212_1" method="">
+        <user_id>student_IT22_R227_212_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_212</context_id>
+        <context_title>studtitle_R227_212</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R227.TextShouldBeChangedToMarksNotReleased" index="212_2" method="">
+        <user_id>student_IT22_R227_212_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_212</context_id>
+        <context_title>studtitle_R227_212</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R227.TextShouldBeChangedToMarksNotReleased" index="212_3" method="">
+        <user_id>student_IT22_R227_212_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_212</context_id>
+        <context_title>studtitle_R227_212</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R227.TextShouldBeChangedToMarksNotReleased" index="218" method="">
+        <user_id>instructor_IT22_R227_218</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R227_218</context_id>
+        <context_title>studtitle_R227_218</context_title>
+        <assessmentname>FileBasedAssessment_R227_218</assessmentname>
+        <promptdetails>promptdetails</promptdetails>
+        <shareWithInitialString>family1</shareWithInitialString>
+        <shareName>givenname1 family1</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradable>true</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <fileUpload>true</fileUpload>
+        <filename>img.png</filename>
+        <questionBank>true</questionBank>
+        <totalpoints>2</totalpoints>
+        <course>Jacaranda learnON History 8</course>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R227.TextShouldBeChangedToMarksNotReleased" index="218_1" method="">
+        <user_id>student_IT22_R227_218_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_218</context_id>
+        <context_title>studtitle_R227_218</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R227.TextShouldBeChangedToMarksNotReleased" index="218_2" method="">
+        <user_id>student_IT22_R227_218_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_218</context_id>
+        <context_title>studtitle_R227_218</context_title>
+        <familyname>family2</familyname>
+        <givenname>givenname2</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R227.TextShouldBeChangedToMarksNotReleased" index="218_3" method="">
+        <user_id>student_IT22_R227_218_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_218</context_id>
+        <context_title>studtitle_R227_218</context_title>
+        <familyname>family3</familyname>
+        <givenname>givenname3</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R227.TextShouldBeChangedToMarksNotReleased" index="239" method="" >
+        <user_id>instructor_IT22_R227_239</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R227_239</context_id>
+        <context_title>studtitle_R227_239</context_title>
+        <searchquestion>true</searchquestion>
+        <noOfQuestions>1</noOfQuestions>
+        <customassignmentname>New Name</customassignmentname>
+        <shareWithInitialString>studtitle_R227_239</shareWithInitialString>
+        <shareName>studtitle_R227_239</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <studentname>givenname family</studentname>
+        <additionalnote>This is an additional note</additionalnote>
+        <course>Jacaranda learnON History 8</course>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R227.TextShouldBeChangedToMarksNotReleased" index="239_1" method="">
+        <user_id>student_IT22_R227_239_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_239</context_id>
+        <context_title>studtitle_R227_239</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R227.TextShouldBeChangedToMarksNotReleased" index="239_2" method="">
+        <user_id>student_IT22_R227_239_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_239</context_id>
+        <context_title>studtitle_R227_239</context_title>
+        <familyname>family2</familyname>
+        <givenname>givenname2</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R227.TextShouldBeChangedToMarksNotReleased" index="239_3" method="">
+        <user_id>student_IT22_R227_239_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_239</context_id>
+        <context_title>studtitle_R227_239</context_title>
+        <familyname>family3</familyname>
+        <givenname>givenname3</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R227.TextShouldBeChangedToMarksNotReleased" index="245" method="" >
+        <user_id>instructor_IT22_R227_245</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R227_245</context_id>
+        <context_title>studtitle_R227_245</context_title>
+        <searchquestion>true</searchquestion>
+        <noOfQuestions>1</noOfQuestions>
+        <customassignmentname>New Name</customassignmentname>
+        <shareWithInitialString>family1</shareWithInitialString>
+        <shareName>givenname1 family1</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <course>Jacaranda learnON History 8</course>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R227.TextShouldBeChangedToMarksNotReleased" index="245_1" method="">
+        <user_id>student_IT22_R227_245_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_245</context_id>
+        <context_title>studtitle_R227_245</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R227.TextShouldBeChangedToMarksNotReleased" index="245_2" method="">
+        <user_id>student_IT22_R227_245_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_245</context_id>
+        <context_title>studtitle_R227_245</context_title>
+        <familyname>family2</familyname>
+        <givenname>givenname2</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learnon.testcases.IT22.R227.TextShouldBeChangedToMarksNotReleased" index="245_3" method="">
+        <user_id>student_IT22_R227_245_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R227_245</context_id>
+        <context_title>studtitle_R227_245</context_title>
+        <familyname>family3</familyname>
+        <givenname>givenname3</givenname>
+    </testcase>
+
+</learnon>

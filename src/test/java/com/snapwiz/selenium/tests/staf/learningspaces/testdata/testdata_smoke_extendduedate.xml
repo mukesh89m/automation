@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.extendduedate.ExtendDueDate" index="1" method="">
+        <user_id>Instructor_smoke_extendDueDate_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_extendDueDate_1</context_id>
+        <context_title>studtitle_smoke_extendDueDate_1</context_title>
+        <assessmentname>Assignment_smoke_extendDueDate_1</assessmentname>
+        <shareWithInitialString>studtitle_smoke_extendDueDate_1</shareWithInitialString>
+        <shareName>studtitle_smoke_extendDueDate_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>10</duedate>
+        <duetime>12</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>Policy1</assignmentpolicyname>
+        <assignmentpolicy>Policy1</assignmentpolicy>
+        <newduedate>27</newduedate>
+        <questiontype>Static Practice</questiontype>
+        <questionset>TestQuestion_smoke_extendDueDate_1</questionset>
+        <questiontext>TestQuestion_smoke_extendDueDate_1</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <extensionAfterDueDate>disable</extensionAfterDueDate>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.extendduedate.ExtendDueDate" index="1_1" method="">
+        <user_id>student_smoke_extendDueDate_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_extendDueDate_1</context_id>
+        <context_title>studtitle_smoke_extendDueDate_1</context_title>
+        <familyname>LastName_smoke_extendDueDate_1</familyname>
+        <givenname>FirstName_smoke_extendDueDate_1</givenname>
+        <gradeable>true</gradeable>
+        <assessmentname>Assignment_smoke_extendDueDate_1</assessmentname>
+        <shareWithInitialString>LastName_smoke_extendDueDate_1</shareWithInitialString>
+        <shareName>FirstName_smoke_extendDueDate_1 LastName_smoke_extendDueDate_1</shareName>
+        <shareWithClass>false</shareWithClass>
+        <duetime>12</duetime>
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.extendduedate.ExtendDueDate" index="1_2" method="">
+        <user_id>student_smoke_extendDueDate_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_extendDueDate_1</context_id>
+        <context_title>studtitle_smoke_extendDueDate_1</context_title>
+        <familyname>LastName_smoke_extendDueDate_2</familyname>
+        <givenname>FirstName_smoke_extendDueDate_2</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.extendduedate.ExtendDueDate" index="2" method="">
+        <user_id>Instructor_smoke_extendDueDate_2</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_extendDueDate_2</context_id>
+        <context_title>studtitle_smoke_extendDueDate_2</context_title>
+        <assessmentname>Assignment_smoke_extendDueDate_2</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>TestQuestion_smoke_extendDueDate_2</questionset>
+        <questiontext>TestQuestion_smoke_extendDueDate_2</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_smoke_extendDueDate_2</shareWithInitialString>
+        <shareName>studtitle_smoke_extendDueDate_2</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>10</duedate>
+        <duetime>10</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>Policy2</assignmentpolicyname>
+        <assignmentpolicy>Policy2</assignmentpolicy>
+        <reservforassignment>false</reservforassignment>
+        <chapterName>Ch 4: Cell Structure</chapterName>
+        <extensionAfterDueDate>disable</extensionAfterDueDate>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.extendduedate.ExtendDueDate" index="2_1" method="">
+        <user_id>student_smoke_extendDueDate_2_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_extendDueDate_2</context_id>
+        <context_title>studtitle_smoke_extendDueDate_2</context_title>
+        <familyname>LastName_smoke_extendDueDate_2_1</familyname>
+        <givenname>FirstName_smoke_extendDueDate_2_1</givenname>
+        <gradeable>true</gradeable>
+        <assessmentname>Assignment_smoke_extendDueDate_2</assessmentname>
+        <shareWithInitialString>FirstName_smoke_extendDueDate_2_1</shareWithInitialString>
+        <shareName>FirstName_smoke_extendDueDate_2_1 LastName_smoke_extendDueDate_2_1</shareName>
+        <shareWithClass>false</shareWithClass>
+        <duetime>10</duetime>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.extendduedate.ExtendDueDate" index="2_2" method="">
+        <user_id>student_smoke_extendDueDate_2_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_extendDueDate_2</context_id>
+        <context_title>studtitle_smoke_extendDueDate_2</context_title>
+        <familyname>LastName_smoke_extendDueDate_2_2</familyname>
+        <givenname>FirstName_smoke_extendDueDate_2_2</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.extendduedate.ExtendDueDate" index="3" method="">
+        <user_id>Instructor_smoke_extendDueDate_3</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_extendDueDate_3</context_id>
+        <context_title>studtitle_smoke_extendDueDate_3</context_title>
+        <assessmentname>Assignment_smoke_extendDueDate_3</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>TestQuestion_smoke_extendDueDate_3</questionset>
+        <questiontext>TestQuestion_smoke_extendDueDate_3</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_smoke_extendDueDate_3</shareWithInitialString>
+        <shareName>studtitle_smoke_extendDueDate_3</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>10</duedate>
+        <duetime>7</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>Policy3</assignmentpolicyname>
+        <assignmentpolicy>Policy3</assignmentpolicy>
+        <extensionAfterDueDate>disable</extensionAfterDueDate>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.extendduedate.ExtendDueDate" index="3_1" method="">
+        <user_id>student_smoke_extendDueDate_3_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_extendDueDate_3</context_id>
+        <context_title>studtitle_smoke_extendDueDate_3</context_title>
+        <familyname>LastName_smoke_extendDueDate_3_1</familyname>
+        <givenname>FirstName_smoke_extendDueDate_3_1</givenname>
+        <gradeable>true</gradeable>
+        <assessmentname>Assignment_smoke_extendDueDate_3</assessmentname>
+        <shareWithInitialString>FirstName_smoke_extendDueDate_3_1</shareWithInitialString>
+        <shareName>FirstName_smoke_extendDueDate_3_1 LastName_smoke_extendDueDate_3_1</shareName>
+        <shareWithClass>false</shareWithClass>
+        <duetime>8</duetime>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.extendduedate.ExtendDueDate" index="3_2" method="">
+        <user_id>student_smoke_extendDueDate_3_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_extendDueDate_3</context_id>
+        <context_title>studtitle_smoke_extendDueDate_3</context_title>
+        <familyname>LastName_smoke_extendDueDate_3_2</familyname>
+        <givenname>FirstName_smoke_extendDueDate_3_2</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.extendduedate.ExtendDueDate" index="3_3" method="">
+        <user_id>student_smoke_extendDueDate_3_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_extendDueDate_3</context_id>
+        <context_title>studtitle_smoke_extendDueDate_3</context_title>
+        <familyname>LastName_smoke_extendDueDate_3_3</familyname>
+        <givenname>FirstName_smoke_extendDueDate_3_3</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.extendduedate.ExtendDueDate" index="4" method="">
+        <user_id>Instructor_smoke_extendDueDate_4</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_extendDueDate_4</context_id>
+        <context_title>studtitle_smoke_extendDueDate_4</context_title>
+        <assessmentname>Assignment_smoke_extendDueDate_4</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>TestQuestion_smoke_extendDueDate_4</questionset>
+        <questiontext>TestQuestion_smoke_extendDueDate_4</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_smoke_extendDueDate_4</shareWithInitialString>
+        <shareName>studtitle_smoke_extendDueDate_4</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>10</duedate>
+        <duetime>7</duetime>
+        <extendDueTime>7</extendDueTime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>Policy4</assignmentpolicyname>
+        <assignmentpolicy>Policy4</assignmentpolicy>
+        <extensionAfterDueDate>disable</extensionAfterDueDate>
+        <customassignmentname>Assignment_smoke_extendDueDate_4</customassignmentname>
+        <noOfQuestions>1</noOfQuestions>
+        <searchquestion>TestQuestion_smoke_extendDueDate_4</searchquestion>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.extendduedate.ExtendDueDate" index="4_1" method="">
+        <user_id>student_smoke_extendDueDate_4_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_extendDueDate_4</context_id>
+        <context_title>studtitle_smoke_extendDueDate_4</context_title>
+        <familyname>LastName_smoke_extendDueDate_4_1</familyname>
+        <givenname>FirstName_smoke_extendDueDate_4_1</givenname>
+        <gradeable>true</gradeable>
+        <assessmentname>Assignment_smoke_extendDueDate_4</assessmentname>
+        <shareWithInitialString>FirstName_smoke_extendDueDate_4_1</shareWithInitialString>
+        <shareName>FirstName_smoke_extendDueDate_4_1 LastName_smoke_extendDueDate_4_1</shareName>
+        <shareWithClass>false</shareWithClass>
+        <duetime>12</duetime>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.extendduedate.ExtendDueDate" index="4_2" method="">
+        <user_id>student_smoke_extendDueDate_4_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_extendDueDate_4</context_id>
+        <context_title>studtitle_smoke_extendDueDate_4</context_title>
+        <familyname>LastName_smoke_extendDueDate_4_2</familyname>
+        <givenname>FirstName_smoke_extendDueDate_4_2</givenname>
+    </testcase>
+</learningspaces>

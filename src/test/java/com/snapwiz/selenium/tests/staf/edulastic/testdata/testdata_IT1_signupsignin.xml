@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edulastic>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.signupsignin.StudentSignUp" index ="2" method="">
+    <studentemail>student@snapwiz.com</studentemail>>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.signupsignin.DeepLinkAssessmentSignInFlowWithGoogle" index ="24" method="">
+        <assessmentname>IT1_DeepLinkAssessmentQuestionTrueFalse_24</assessmentname>
+        <questiontext>question text_DeepLinkAssessment_24</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.signupsignin.DeepLinkAssessmentSignUpFlowWithGoogle" index ="26" method="">
+        <assessmentname>IT1_DeepLinkAssessmentQuestionTrueFalse_26</assessmentname>
+        <questiontext>question text_DeepLinkAssessment_26</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.signupsignin.DeepLinkAssessmentSignInFlow" index ="16" method="">
+        <assessmentname>IT1_DeepLinkAssessmentSignInFlow_16</assessmentname>
+        <questiontext>question text_DeepLinkAssessment_16</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.signupsignin.DeepLinkAssessmentSignUpFlow" index ="17" method="">
+        <assessmentname>IT1_DeepLinkAssessmentSignUpFlow_17</assessmentname>
+        <questiontext>question text_DeepLinkAssessment_17</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.signupsignin.DeepLinkAssessmentSignUpFlow" index ="18" method="">
+        <assessmentname>IT1_DeepLinkAssessmentSignUpFlow_18</assessmentname>
+        <questiontext>question text_DeepLinkAssessment_18</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.signupsignin.AssignmentSharingWithCleverSync" index ="25" method="">
+        <assessmentname>IT1_AsseementSharingWithCleverSync_25</assessmentname>
+        <questiontext>question text_AsseementSharingWithCleverSync_25</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <removeexistingclass>false</removeexistingclass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+        <whitelistuser>true</whitelistuser>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.signupsignin.AssignmentSharingWithCleverSync" index ="23" method="">
+        <assessmentname>IT1_AssessmentSharingWithCleverSync_23</assessmentname>
+        <questiontext>question text_AssessmentSharingWithCleverSync_23</questiontext>
+        <removeexistingclass>false</removeexistingclass>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+        <whitelistuser>true</whitelistuser>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.signupsignin.AssignmentSharingWithCleverSync" index ="24" method="">
+        <assessmentname>IT1_AssessmentSharingWithCleverSync_23</assessmentname>
+        <questiontext>question text_AssessmentSharingWithCleverSync_23</questiontext>
+        <removeexistingclass>false</removeexistingclass>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.signupsignin.StudentSignUp" index ="11" method="">
+    <districtName>existingStudentSignUpWithCode</districtName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.signupsignin.AssessmentSharingWithCleverSync" index ="17" method="">
+        <assessmentname>IT1_AssessmentSharingWithCleverSync_17</assessmentname>
+        <questiontext>question text_AssessmentSharingWithCleverSync_17</questiontext>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.signupsignin.AssignmentSharingWithCleverSync" index ="198" method="">
+        <assessmentname>IT1_assignmentSharingWithCleverSyncGoogleUserBeforeSignIn_198</assessmentname>
+        <questiontext>question text_assignmentSharingWithCleverSyncGoogleUserBeforeSignIn_198</questiontext>
+        <removeexistingclass>false</removeexistingclass>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+        <whitelistuser>true</whitelistuser>
+    </testcase>
+
+
+</edulastic>

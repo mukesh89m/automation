@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edulastic>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.livegradebook.LiveGradebookViewPerformance" index ="1" method="">
+        <grade>Grade 1</grade>
+        <subjectArea>Mathematics</subjectArea>
+        <subject>Math - Common Core</subject>
+        <assessmentname>IT1_LiveGradeBook_1</assessmentname>
+        <questiontext>1_question text</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.livegradebook.LiveGradebookViewPerformance" index ="34" method="">
+        <grade>Grade 1</grade>
+        <subjectArea>Mathematics</subjectArea>
+        <subject>Math - Common Core</subject>
+        <assessmentname>IT1_LiveGradeBook_34</assessmentname>
+        <questiontext>34_question text</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.livegradebook.LiveGradebookViewPerformance" index ="44" method="">
+        <grade>Grade 1</grade>
+        <subjectArea>Mathematics</subjectArea>
+        <subject>Math - Common Core</subject>
+        <assessmentname>IT1_LiveGradeBook_44</assessmentname>
+        <questiontext>44_question text</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.livegradebook.StudentCentricView" index ="88" method="">
+        <grade>Grade 1</grade>
+        <subjectArea>Mathematics</subjectArea>
+        <subject>Math - Common Core</subject>
+        <assessmentname>IT1_LiveGradeBook_88</assessmentname>
+        <questiontext>88_question text</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.livegradebook.StudentCentricView" index ="115" method="">
+        <grade>Grade 1</grade>
+        <subjectArea>Mathematics</subjectArea>
+        <subject>Math - Common Core</subject>
+        <assessmentname>IT1_LiveGradeBook_115</assessmentname>
+        <questiontext>115_question text</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.livegradebook.StudentCentricView" index ="147" method="">
+        <grade>Grade 1</grade>
+        <subjectArea>Mathematics</subjectArea>
+        <subject>Math - Common Core</subject>
+        <assessmentname>IT1_LiveGradeBook_147</assessmentname>
+        <questiontext>147_question text</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.livegradebook.LiveGradebookViewMastery" index ="16" method="">
+        <assessmentname>IT1_viewLiveResult_16</assessmentname>
+        <questiontext>16_question text</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <noofelos>4</noofelos>
+        <learningobjective>true</learningobjective>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.livegradebook.LiveGradebookViewMastery" index ="77" method="">
+        <assessmentname>IT1_viewLiveResult_77</assessmentname>
+        <questiontext>77_question text</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <noofelos>3</noofelos>
+        <learningobjective>true</learningobjective>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.livegradebook.LiveGradebookViewMastery" index ="65" method="">
+        <assessmentname>IT1_viewLiveResult_65</assessmentname>
+        <questiontext>65_question text</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <noofelos>3</noofelos>
+        <learningobjective>true</learningobjective>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.livegradebook.GradebookWithAllQuestionType" index ="99" method="">
+        <questiontype>truefalse</questiontype>
+        <questiontype>multiplechoice</questiontype>
+        <questiontype>multipleselection</questiontype>
+        <questiontype>textentry</questiontype>
+        <questiontype>textdropdown</questiontype>
+        <assessmentname>IT1_viewLiveResult_99</assessmentname>
+        <questiontext>65_question text</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <noofelos>3</noofelos>
+        <learningobjective>true</learningobjective>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.livegradebook.GradebookWithAllQuestionType" index ="100" method="">
+        <answerchoice>incorrect</answerchoice>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.livegradebook.GradebookWithAllQuestionType" index ="101" method="">
+        <questiontype>numericentrywithunits</questiontype>
+        <questiontype>advancednumeric</questiontype>
+        <questiontype>expressionevaluator</questiontype>
+        <questiontype>matchthefollowing</questiontype>
+        <questiontype>draganddrop</questiontype>
+        <assessmentname>IT1_viewLiveResult_101</assessmentname>
+        <questiontext>101_question text</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <noofelos>3</noofelos>
+        <learningobjective>true</learningobjective>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.livegradebook.GradebookWithAllQuestionType" index ="102" method="">
+        <answerchoice>incorrect</answerchoice>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.livegradebook.GradebookWithAllQuestionType" index ="103" method="">
+        <questiontype>clozeformula</questiontype>
+        <questiontype>graphplotter</questiontype>
+        <questiontype>clozematrix</questiontype>
+        <questiontype>resequence</questiontype>
+        <questiontype>labelanimagetext</questiontype>
+        <assessmentname>IT1_viewLiveResult_103</assessmentname>
+        <questiontext>101_question text</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <noofelos>3</noofelos>
+        <learningobjective>true</learningobjective>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.livegradebook.GradebookWithAllQuestionType" index ="104" method="">
+        <answerchoice>incorrect</answerchoice>
+    </testcase>
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.livegradebook.GradebookWithAllQuestionType" index ="105" method="">
+    <questiontype>labelanimagedropdown</questiontype>
+    <questiontype>numberline</questiontype>
+    <questiontype>classification</questiontype>
+    <questiontype>sentenceresponse</questiontype>
+    <questiontype>matchingtables</questiontype>
+    <questiontype>passage</questiontype>
+    <assessmentname>IT1_viewLiveResult_10</assessmentname>
+    <questiontext>101_question text</questiontext>
+    <shareWithClass>true</shareWithClass>
+    <duedate>28</duedate>
+    <noofelos>3</noofelos>
+    <learningobjective>true</learningobjective>
+    <duetime>12:00 AM</duetime>
+    <gradable>false</gradable>
+    <description>description text</description>
+    <tags>tags tags</tags>
+    <privacy>Public</privacy>
+</testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.livegradebook.GradebookWithAllQuestionType" index ="106" method="">
+        <answerchoice>incorrect</answerchoice>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.livegradebook.GradebookWithAllQuestionType" index ="107" method="">
+      <questiontype>resequence</questiontype>
+       <questiontype>classification</questiontype>
+        <questiontype>draganddrop</questiontype>
+        <questiontype>matchingtables</questiontype>
+        <questiontype>passage</questiontype>
+        <questiontype>matchthefollowing</questiontype>
+        <elatechenhanced>true</elatechenhanced>
+        <assessmentname>IT1_viewLiveResult_10</assessmentname>
+        <questiontext>101_question text</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <noofelos>3</noofelos>
+        <learningobjective>true</learningobjective>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.livegradebook.GradebookWithAllQuestionType" index ="108" method="">
+        <answerchoice>incorrect</answerchoice>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.livegradebook.GradebookWithAllQuestionType" index ="109" method="">
+        <questiontype>lineplot</questiontype>
+        <questiontype>rangeplotter</questiontype>
+        <questiontype>fractioneditor</questiontype>
+            <questiontype>graphing</questiontype>
+        <elatechenhanced>true</elatechenhanced>
+        <assessmentname>IT1_viewLiveResult_109</assessmentname>
+        <questiontext>101_question text</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <noofelos>3</noofelos>
+        <learningobjective>true</learningobjective>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.livegradebook.GradebookWithAllQuestionType" index ="110" method="">
+        <answerchoice>incorrect</answerchoice>
+    </testcase>
+
+</edulastic>

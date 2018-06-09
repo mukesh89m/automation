@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2412.AttemptTheAssignmentUsingTheNewQuestionNavigator" index="10" method="">
+        <user_id>IT124_R2412Student_10_12</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R2412_10</context_id>
+        <context_title>studtitle_R2412_10</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <shareWithInitialString>studtitle_R2412_10</shareWithInitialString>
+        <shareName>studtitle_R2412_10</shareName>
+        <gradeable>true</gradeable>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assessmentname>IT2412_static Assessment_10</assessmentname>
+        <questionset>Test Question IT24_R2412_10</questionset>
+        <questiontext>Test Question IT24_R2412_10</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithClass>true</shareWithClass>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2412.AttemptTheAssignmentUsingTheNewQuestionNavigator" index="11" method="">
+        <user_id>IT124_R2412Instructor_11</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R2412_10</context_id>
+        <context_title>studtitle_R2412_10</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <shareWithInitialString>studtitle_R2412_10</shareWithInitialString>
+        <shareName>studtitle_R2412_10</shareName>
+        <gradeable>true</gradeable>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assessmentname>IT2412_static Assessment_10</assessmentname>
+        <questionset>Test Question IT24_R2412_10</questionset>
+        <questiontext>Test Question IT24_R2412_10_1</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithClass>true</shareWithClass>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2412.AttemptTheAssignmentUsingTheNewQuestionNavigator" index="26" method="">
+        <user_id>IT124_R2412Instructor_26</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R2412_26</context_id>
+        <context_title>studtitle_R2412_26</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <shareWithInitialString>studtitle_R2412_26</shareWithInitialString>
+        <shareName>studtitle_R2412_26</shareName>
+        <gradeable>true</gradeable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assessmentname>IT2412_static Assessment_26</assessmentname>
+        <questionset>Test Question IT24_R2412_26</questionset>
+        <questiontext>Test Question IT24_R2412_26</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithClass>true</shareWithClass>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2412.AttemptTheAssignmentUsingTheNewQuestionNavigator" index="27" method="">
+        <user_id>IT124_R2412Student_27</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R2412_26</context_id>
+        <context_title>studtitle_R2412_26</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+    </testcase>
+</learningspaces>

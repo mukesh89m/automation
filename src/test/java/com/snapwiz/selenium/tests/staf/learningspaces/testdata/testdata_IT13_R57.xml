@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R57.VerifyTOC" index="2" method="verifyTOC">
+		<user_id>IT13_R57St_1</user_id>
+		<Role>student</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R57.VerifyTOC" index="14" method="searchTextInTOC">
+		<user_id>IT13_R57St_14</user_id>
+		<Role>student</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R57.VerifyTOC" index="101" method="classSectionName">
+		<user_id>IT13_R57St_101</user_id>
+		<Role>student</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R57.VerifyTOCForInstructor" index="53" method="verifyTOC">
+		<user_id>IT13_R57In_53</user_id>
+		<Role>instructor</Role>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R57.VerifyTOCForInstructor" index="65" method="searchTextInTOC">
+		<user_id>IT13_R57In_65</user_id>
+		<Role>instructor</Role>
+	</testcase>
+</learningspaces>

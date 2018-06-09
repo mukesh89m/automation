@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.StudentShouldBeAbleToSearchAndFilter" index="9" method="" >
+        <user_id>student_IT19_10_9</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_10_9</context_id>
+        <context_title>studtitle_IT19_10_9</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.StudentShouldBeAbleToSearchAndFilter" index="19" method="" >
+        <user_id>student_IT19_10_19</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_10_19</context_id>
+        <context_title>studtitle_IT19_10_19</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.StudentShouldBeAbleToSearchAndFilter" index="25" method="" >
+        <user_id>student_IT19_10_25</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_10_25</context_id>
+        <context_title>studtitle_IT19_10_25</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.StudentShouldBeAbleToSearchAndFilter" index="31" method="" >
+        <user_id>student_IT19_10_31</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_10_31</context_id>
+        <context_title>studtitle_IT19_10_31</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.StudentShouldBeAbleToSearchAndFilter" index="38" method="" >
+        <user_id>student_IT19_10_38</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_10_38</context_id>
+        <context_title>studtitle_IT19_10_38</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.StudentShouldBeAbleToSearchAndFilter" index="43" method="" >
+        <user_id>student_IT19_10_43</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_10_43</context_id>
+        <context_title>studtitle_IT19_10_43</context_title>
+        <resoursename>ResourceName_43</resoursename>
+        <type>image</type>
+        <description>IT19_R1910_ResourceName_43</description>
+        <filename>img.png</filename>
+        <instructoronlyflag>false</instructoronlyflag>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.StudentShouldBeAbleToSearchAndFilter" index="44" method="" >
+        <user_id>student_IT19_10_43</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_10_43</context_id>
+        <context_title>studtitle_IT19_10_43</context_title>
+        <resoursename>ResourceName_43</resoursename>
+        <type>image</type>
+        <description>Description_ResourceName_43</description>
+        <filename>img.png</filename>
+        <instructoronlyflag>false</instructoronlyflag>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.StudentShouldBeAbleToSearchAndFilter" index="47" method="" >
+        <user_id>student_IT19_10_47</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_10_47</context_id>
+        <context_title>studtitle_IT19_10_47</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.StudentShouldBeAbleToSearchAndFilter" index="57" method="" >
+        <user_id>student_IT19_10_57</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_10_57</context_id>
+        <context_title>studtitle_IT19_10_57</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.StudentShouldBeAbleToSearchAndFilter" index="66" method="" >
+        <user_id>student_IT19_10_66</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_10_66</context_id>
+        <context_title>studtitle_IT19_10_66</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.StudentShouldBeAbleToSearchAndFilter" index="69" method="" >
+        <user_id>student_IT19_10_69</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_10_69</context_id>
+        <context_title>studtitle_IT19_10_69</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.StudentShouldBeAbleToSearchAndFilter" index="72" method="" >
+        <user_id>student_IT19_10_72</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_10_72</context_id>
+        <context_title>studtitle_IT19_10_72</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.StudentShouldBeAbleToSearchAndFilter" index="75" method="" >
+        <user_id>student_IT19_10_75</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_10_75</context_id>
+        <context_title>studtitle_IT19_10_75</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.StudentShouldBeAbleToBrowseForVariousElements" index="78" method="" >
+        <user_id>student_IT19_10_78</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_10_78</context_id>
+        <context_title>studtitle_IT19_10_78</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.StudentShouldBeAbleToBrowseForVariousElements" index="84" method="" >
+        <user_id>student_IT19_10_84</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_10_84</context_id>
+        <context_title>studtitle_IT19_10_84</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.StudentShouldBeAbleToBrowseForVariousElements" index="92" method="" >
+        <user_id>student_IT19_10_92</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_10_92</context_id>
+        <context_title>studtitle_IT19_10_92</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.StudentShouldBeAbleToBrowseForVariousElements" index="104" method="" >
+        <user_id>student_IT19_10_104</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_10_104</context_id>
+        <context_title>studtitle_IT19_10_104</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.StudentShouldBeAbleToBrowseForVariousElements" index="108" method="" >
+        <user_id>student_IT19_10_108</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_10_108</context_id>
+        <context_title>studtitle_IT19_10_108</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.StudentShouldBeAbleToBrowseForVariousElements" index="113" method="" >
+       <user_id>student_IT19_10_113</user_id>>
+       <Role>student</Role>
+       <context_id>studcontext_IT19_10_113</context_id>
+       <context_title>studtitle_IT19_10_113</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.StudentShouldBeAbleToBrowseForVariousElements" index="117" method="" >
+        <user_id>student_IT19_10_117</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_10_117</context_id>
+        <context_title>studtitle_IT19_10_117</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.StudentShouldBeAbleToSearchForResources" index="120" method="" >
+        <user_id>student_IT19_10_120</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_10_120</context_id>
+        <context_title>studtitle_IT19_10_120</context_title>
+        <resoursename>ResourceName_120</resoursename>
+        <type>image</type>
+        <description>IT19_R1910_ResourceName_120</description>
+        <filename>img.png</filename>
+        <instructoronlyflag>false</instructoronlyflag>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.StudentShouldBeAbleToSearchForResources" index="122" method="" >
+        <user_id>student_IT19_10_122</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_10_122</context_id>
+        <context_title>studtitle_IT19_10_122</context_title>
+        <resoursename>ResourceName_122</resoursename>
+        <type>image</type>
+        <description>Description_ResourceName_122</description>
+        <filename>img.png</filename>
+        <instructoronlyflag>false</instructoronlyflag>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.StudentShouldBeAbleToSearchForResources" index="124" method="" >
+        <user_id>student_IT19_10_124</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_10_124</context_id>
+        <context_title>studtitle_IT19_10_124</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.StudentShouldBeAbleToSearchForResources" index="126" method="" >
+        <user_id>student_IT19_10_126</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_10_126</context_id>
+        <context_title>studtitle_IT19_10_126</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.StudentShouldBeAbleToSearchForResources" index="130" method="" >
+        <user_id>student_IT19_10_130</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_10_130</context_id>
+        <context_title>studtitle_IT19_10_130</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.StudentShouldBeAbleToSearchForResources" index="134" method="" >
+        <user_id>student_IT19_10_134</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_10_134</context_id>
+        <context_title>studtitle_IT19_10_134</context_title>
+        <resoursename>ResourceName_122</resoursename>
+        <type>image</type>
+        <description>Description_ResourceName_122</description>
+        <filename>img.png</filename>
+        <instructoronlyflag>false</instructoronlyflag>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.StudentShouldBeAbleToSearchForResources" index="138" method="">
+        <user_id>student_IT19_10_138</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_10_138</context_id>
+        <context_title>studtitle_IT19_10_138</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.StudentShouldBeAbleToSearchForResources" index="142" method="" >
+       <user_id>student_IT19_10_142</user_id>>
+       <Role>student</Role>
+       <context_id>studcontext_IT19_10_142</context_id>
+       <context_title>studtitle_IT19_10_142</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.InstructorShouldBeAbleToSearchAndFilter" index="164" method="" >
+        <user_id>instructor_IT19_10_164</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT19_10_164</context_id>
+        <context_title>studtitle_IT19_10_164</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.InstructorShouldBeAbleToSearchAndFilter" index="174" method="" >
+        <user_id>instructor_IT19_10_174</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT19_10_174</context_id>
+        <context_title>studtitle_IT19_10_174</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.InstructorShouldBeAbleToSearchAndFilter" index="180" method="" >
+        <user_id>instructor_IT19_10_180</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT19_10_180</context_id>
+        <context_title>studtitle_IT19_10_180</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.InstructorShouldBeAbleToSearchAndFilter" index="186" method="" >
+        <user_id>instructor_IT19_10_186</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT19_10_186</context_id>
+        <context_title>studtitle_IT19_10_186</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.InstructorShouldBeAbleToSearchAndFilter" index="193" method="" >
+        <user_id>instructor_IT19_10_193</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT19_10_193</context_id>
+        <context_title>studtitle_IT19_10_193</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.InstructorShouldBeAbleToSearchAndFilter" index="202" method="" >
+        <user_id>instructor_IT19_10_202</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT19_10_202</context_id>
+        <context_title>studtitle_IT19_10_202</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.InstructorShouldBeAbleToSearchAndFilter" index="212" method="" >
+        <user_id>instructor_IT19_10_212</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT19_10_212</context_id>
+        <context_title>studtitle_IT19_10_212</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.InstructorShouldBeAbleToSearchAndFilter" index="224" method="" >
+        <user_id>instructor_IT19_10_224</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT19_10_224</context_id>
+        <context_title>studtitle_IT19_10_224</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.InstructorShouldBeAbleToSearchAndFilter" index="228" method="" >
+        <user_id>instructor_IT19_10_228</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT19_10_228</context_id>
+        <context_title>studtitle_IT19_10_228</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.InstructorShouldBeAbleToSearchAndFilter" index="232" method="" >
+        <user_id>instructor_IT19_10_232</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT19_10_232</context_id>
+        <context_title>studtitle_IT19_10_232</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.InstructorShouldBeAbleToSearchAndFilter" index="236" method="" >
+        <user_id>instructor_IT19_10_236</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT19_10_236</context_id>
+        <context_title>studtitle_IT19_10_236</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.InstructorShouldBeAbleToBrowseForVariousElements" index="239" method="" >
+        <user_id>instructor_IT19_10_239</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT19_10_239</context_id>
+        <context_title>studtitle_IT19_10_239</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.InstructorShouldBeAbleToBrowseForVariousElements" index="242" method="" >
+        <user_id>instructor_IT19_10_242</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT19_10_242</context_id>
+        <context_title>studtitle_IT19_10_241</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.InstructorShouldBeAbleToBrowseForVariousElements" index="250" method="" >
+        <user_id>instructor_IT19_10_250</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT19_10_250</context_id>
+        <context_title>studtitle_IT19_10_250</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.InstructorShouldBeAbleToBrowseForVariousElements" index="259" method="" >
+        <user_id>instructor_IT19_10_259</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT19_10_259</context_id>
+        <context_title>studtitle_IT19_10_259</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.InstructorShouldBeAbleToBrowseForVariousElements" index="262" method="" >
+        <user_id>instructor_IT19_10_262</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT19_10_262</context_id>
+        <context_title>studtitle_IT19_10_262</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.InstructorShouldBeAbleToBrowseForVariousElements" index="265" method="" >
+        <user_id>instructor_IT19_10_265</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT19_10_265</context_id>
+        <context_title>studtitle_IT19_10_265</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.InstructorShouldBeAbleToBrowseForVariousElements" index="268" method="" >
+        <user_id>instructor_IT19_10_268</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT19_10_268</context_id>
+        <context_title>studtitle_IT19_10_268</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.InstructorShouldBeAbleToSearchForResources" index="271" method="" >
+        <user_id>student_IT19_10_271</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_10_271</context_id>
+        <context_title>studtitle_IT19_10_271</context_title>
+        <resoursename>ResourceName_120</resoursename>
+        <type>image</type>
+        <description>IT19_R1910_ResourceName_120</description>
+        <filename>img.png</filename>
+        <instructoronlyflag>false</instructoronlyflag>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.InstructorShouldBeAbleToSearchForResources" index="2711" method="" >
+        <user_id>student_IT19_10_271</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_10_271</context_id>
+        <context_title>studtitle_IT19_10_271</context_title>
+        <resoursename>ResourceName_120</resoursename>
+        <type>image</type>
+        <description>IT19_R1910_ResourceName_120</description>
+        <filename>img.png</filename>
+        <instructoronlyflag>false</instructoronlyflag>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.InstructorShouldBeAbleToSearchForResources" index="272" method="" >
+        <user_id>instructor_IT19_10_272</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT19_10_272</context_id>
+        <context_title>studtitle_IT19_10_272</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.InstructorShouldBeAbleToSearchForResources" index="275" method="" >
+        <user_id>instructor_IT19_10_275</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT19_10_275</context_id>
+        <context_title>studtitle_IT19_10_275</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.InstructorShouldBeAbleToSearchForResources" index="277" method="" >
+        <user_id>instructor_IT19_10_277</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT19_10_277</context_id>
+        <context_title>studtitle_IT19_10_277</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.InstructorShouldBeAbleToSearchForResources" index="281" method="" >
+        <user_id>instructor_IT19_10_281</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT19_10_281</context_id>
+        <context_title>studtitle_IT19_10_281</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.InstructorShouldBeAbleToSearchForResources" index="285" method="" >
+        <user_id>instructor_IT19_10_285</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT19_10_285</context_id>
+        <context_title>studtitle_IT19_10_285</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.InstructorShouldBeAbleToSearchForResources" index="289" method="" >
+        <user_id>instructor_IT19_10_289</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT19_10_289</context_id>
+        <context_title>studtitle_IT19_10_289</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.InstructorShouldBeAbleToSearchForResources" index="293" method="" >
+        <user_id>instructor_IT19_10_293</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT19_10_293</context_id>
+        <context_title>studtitle_IT19_10_293</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.InstructorShouldBeAbleToSearchForResources" index="305" method="" >
+        <user_id>instructor_IT19_10_305</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT19_10_305</context_id>
+        <context_title>studtitle_IT19_10_305</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.InstructorShouldBeAbleToSearchForResources" index="317" method="" >
+        <user_id>student_IT19_10_317</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_10_317</context_id>
+        <context_title>studtitle_IT19_10_317</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.InstructorShouldBeAbleToSearchForResources" index="317_1" method="" >
+        <user_id>instructor_IT19_10_317</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT19_10_317</context_id>
+        <context_title>studtitle_IT19_10_317</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.InstructorShouldBeAbleToSearchForResources" index="321" method="" >
+        <user_id>student_IT19_10_321</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_10_321</context_id>
+        <context_title>studtitle_IT19_10_321</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.InstructorShouldBeAbleToSearchForResources" index="321_1" method="" >
+        <user_id>instructor_IT19_10_321</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT19_10_321</context_id>
+        <context_title>studtitle_IT19_10_321</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.InstructorShouldBeAbleToSearchForResources" index="323" method="" >
+        <user_id>student_IT19_10_323</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_10_323</context_id>
+        <context_title>studtitle_IT19_10_323</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.InstructorShouldBeAbleToSearchForResources" index="323_1" method="" >
+        <user_id>instructor_IT19_10_323</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT19_10_323</context_id>
+        <context_title>studtitle_IT19_10_323</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.InstructorShouldBeAbleToSearchForResources" index="329" method="" >
+        <user_id>student_IT19_10_329</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_10_329</context_id>
+        <context_title>studtitle_IT19_10_329</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.InstructorShouldBeAbleToSearchForResources" index="329_1" method="" >
+        <user_id>instructor_IT19_10_329</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT19_10_329</context_id>
+        <context_title>studtitle_IT19_10_329</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.InstructorShouldBeAbleToSearchForResources" index="331" method="" >
+        <user_id>student_IT19_10_331</user_id>>
+        <Role>student</Role>
+        <context_id>studcontext_IT19_10_331</context_id>
+        <context_title>studtitle_IT19_10_331</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1910.InstructorShouldBeAbleToSearchForResources" index="331_1" method="" >
+        <user_id>instructor_IT19_10_331</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT19_10_331</context_id>
+        <context_title>studtitle_IT19_10_331</context_title>
+    </testcase>
+
+
+</learningspaces>

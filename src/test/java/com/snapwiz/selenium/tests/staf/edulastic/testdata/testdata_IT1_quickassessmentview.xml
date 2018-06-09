@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edulastic>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.quickassessmentview.QuickAssessmentView" index ="1" method="quickAssessmentView">
+        <assessmentname>IT1_quickAssessmentViewDueDate1</assessmentname>
+        <questiontext>quickAssessmentViewDueDate1</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>26</duedate>
+        <duetime>12:05 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.quickassessmentview.QuickAssessmentView" index ="2" method="quickAssessmentView">
+        <assessmentname>IT1_quickAssessmentViewDueDate2</assessmentname>
+        <questiontext>quickAssessmentViewDueDate2</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>26</duedate>
+        <duetime>12:10 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.quickassessmentview.QuickAssessmentView" index ="3" method="quickAssessmentViewDue">
+        <assessmentname>IT1_quickAssessmentViewDueDate3</assessmentname>
+        <questiontext>quickAssessmentViewDueDate3</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:15 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.quickassessmentview.QuickAssessmentView" index ="4" method="quickAssessmentViewDueDate">
+        <assessmentname>IT1_quickAssessmentViewDueDate4</assessmentname>
+        <questiontext>quickAssessmentViewDueDate4</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>26</duedate>
+        <duetime>12:05 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.quickassessmentview.QuickAssessmentView" index ="5" method="quickAssessmentViewDueDate">
+        <assessmentname>IT1_quickAssessmentViewDueDate5</assessmentname>
+        <questiontext>quickAssessmentViewDueDate5</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>26</duedate>
+        <duetime>12:10 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.quickassessmentview.QuickAssessmentView" index ="6" method="quickAssessmentViewDueDate">
+        <assessmentname>IT1_quickAssessmentViewDueDate6</assessmentname>
+        <questiontext>quickAssessmentViewDueDate6</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:15 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.quickassessmentview.QuickAssessmentView" index ="7" method="quickAssessmentViewDueDate">
+        <assessmentname>IT1_quickAssessmentViewDueDate7</assessmentname>
+        <questiontext>quickAssessmentViewDueDate7</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>26</duedate>
+        <duetime>12:05 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.quickassessmentview.QuickAssessmentView" index ="8" method="quickAssessmentViewDueDate">
+        <assessmentname>IT1_quickAssessmentViewDueDate8</assessmentname>
+        <questiontext>quickAssessmentViewDueDate8</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>26</duedate>
+        <duetime>12:10 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.quickassessmentview.QuickAssessmentView" index ="9" method="quickAssessmentViewDueDate">
+        <assessmentname>IT1_quickAssessmentViewDueDate9</assessmentname>
+        <questiontext>quickAssessmentViewDueDate9</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:15 AM</duetime>
+        <gradable>false</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.quickassessmentview.QuickAssessmentView" index ="10" method="quickAssessmentViewDueDate">
+        <assessmentname>IT1_quickAssessmentViewDueDate10</assessmentname>
+        <questiontext>quickAssessmentViewDueDate10</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>26</duedate>
+        <duetime>12:05 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.quickassessmentview.QuickAssessmentView" index ="11" method="quickAssessmentViewDueDate">
+        <assessmentname>IT1_quickAssessmentViewDueDate11</assessmentname>
+        <questiontext>quickAssessmentViewDueDate11</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>26</duedate>
+        <duetime>12:10 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.quickassessmentview.QuickAssessmentView" index ="12" method="quickAssessmentViewDueDate">
+        <assessmentname>IT1_quickAssessmentViewDueDate12</assessmentname>
+        <questiontext>quickAssessmentViewDueDate12</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:15 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.quickassessmentview.QuickAssessmentView" index ="13" method="quickAssessmentViewDueDate">
+        <assessmentname>IT1_quickAssessmentViewDueDate13</assessmentname>
+        <questiontext>quickAssessmentViewDueDate13</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>26</duedate>
+        <duetime>12:05 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.quickassessmentview.QuickAssessmentView" index ="14" method="quickAssessmentViewDueDate">
+        <assessmentname>IT1_quickAssessmentViewDueDate14</assessmentname>
+        <questiontext>quickAssessmentViewDueDate14</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>26</duedate>
+        <duetime>12:10 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.quickassessmentview.QuickAssessmentView" index ="15" method="quickAssessmentViewDueDate">
+        <assessmentname>IT1_quickAssessmentViewDueDate15</assessmentname>
+        <questiontext>quickAssessmentViewDueDate15</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:15 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.quickassessmentview.QuickAssessmentView" index ="16" method="quickAssessmentViewDueDate">
+        <assessmentname>IT1_quickAssessmentViewDueDate16</assessmentname>
+        <questiontext>quickAssessmentViewDueDate16</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>26</duedate>
+        <duetime>12:05 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <accessibleafter>25</accessibleafter>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.quickassessmentview.QuickAssessmentView" index ="17" method="quickAssessmentViewDueDate">
+        <assessmentname>IT1_quickAssessmentViewDueDate17</assessmentname>
+        <questiontext>quickAssessmentViewDueDate17</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>26</duedate>
+        <duetime>12:10 AM</duetime>
+        <gradable>true</gradable>
+        <accessibleafter>25</accessibleafter>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.quickassessmentview.QuickAssessmentView" index ="18" method="quickAssessmentViewDueDate">
+        <assessmentname>IT1_quickAssessmentViewDueDate18</assessmentname>
+        <questiontext>quickAssessmentViewDueDate18</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:15 AM</duetime>
+        <gradable>true</gradable>
+        <accessibleafter>25</accessibleafter>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.quickassessmentview.QuickAssessmentView" index ="30" method="">
+    <assessmentname>IT1_quickAssessmentViewDueDate4</assessmentname>
+   </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.quickassessmentview.QuickAssessmentView" index ="31" method="">
+        <assessmentname>IT1_quickAssessmentViewDueDate5</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.quickassessmentview.QuickAssessmentView" index ="32" method="">
+        <assessmentname>IT1_quickAssessmentViewDueDate6</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.quickassessmentview.QuickAssessmentView" index ="33" method="">
+        <assessmentname>IT1_quickAssessmentViewDueDate7</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.quickassessmentview.QuickAssessmentView" index ="34" method="">
+        <assessmentname>IT1_quickAssessmentViewDueDate8</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.quickassessmentview.QuickAssessmentView" index ="35" method="">
+        <assessmentname>IT1_quickAssessmentViewDueDate9</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.quickassessmentview.QuickAssessmentView" index ="36" method="">
+        <assessmentname>IT1_quickAssessmentViewDueDate10</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.quickassessmentview.QuickAssessmentView" index ="37" method="">
+        <assessmentname>IT1_quickAssessmentViewDueDate11</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.quickassessmentview.QuickAssessmentView" index ="38" method="">
+        <assessmentname>IT1_quickAssessmentViewDueDate12</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.quickassessmentview.QuickAssessmentView" index ="39" method="">
+        <assessmentname>IT1_quickAssessmentViewDueDate13</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.quickassessmentview.QuickAssessmentView" index ="40" method="">
+        <assessmentname>IT1_quickAssessmentViewDueDate14</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.quickassessmentview.QuickAssessmentView" index ="41" method="">
+        <assessmentname>IT1_quickAssessmentViewDueDate15</assessmentname>
+    </testcase>
+
+</edulastic>

@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<learningspaces>
+	<testcase id="tocdata" index="1">
+		<searchtext>R22</searchtext>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R22.ChangesAreNotReflectedinOriginalQuestion" index="292" method="changesAreNotReflectedinOriginalQuestion">
+		<user_id>IT11_R22_instructor_292</user_id>
+		<Role>instructor</Role>
+		<assessmentname>IT11 R22 Custom Assignment</assessmentname>
+		<questionset>Test Question Set of IT11 R22</questionset>
+		<questiontext>Test Question for IT11 R22 custom assignment</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<assessmentname>IT11 R22 custom assignment</assessmentname>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R22.InstructorAbleToCustomizeAssessment" index="1" method="InstructorAbleToCustomizeAssessment">
+		<user_id>IT11_R22_instructor_1_1</user_id>
+		<Role>instructor</Role>
+		<resoursename>IT11.R22.resources1</resoursename>
+		<type>image</type>
+		<description>this is image</description>
+		<instructoronlyflag>true</instructoronlyflag>
+		<filename>img.jpg</filename>
+		<duedate>23</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>this is additional note</additionalnote>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R22.AvailabilityOfSearchAndVBrowseOptionInNewAssignmentTab" index="47" method="availabilityOfSearchAndVBrowseOptionInNewAssignmentTab">
+		<user_id>IT11_R22_instructor_47</user_id>
+		<Role>instructor</Role>			
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R22.SearchFilterFunctionality" index="84" method="searchFilterFunctionality">
+		<user_id>IT11_R22_instructor_84</user_id>
+		<Role>instructor</Role>				
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R22.BrowseOptionFunctionality" index="134" method="BrowseOptionFunctionality">
+		<user_id>IT11_R22_instructor_134</user_id>
+		<Role>instructor</Role>				
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R22.ExpandFunctionalityOfSearchedResult" index="195" method="ExpandFunctionalityOfSearchedResult">
+		<user_id>IT11_R22_instructor_195</user_id>
+		<Role>instructor</Role>				
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R22.InstructorAbleToAddQuestionsInMyAssignemnt" index="214" method="InstructorAbleToAddQuestionsInMyAssignemnt">
+		<user_id>IT11_R22_instructor_214</user_id>
+		<Role>instructor</Role>	
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R22.IndicationOfQuestionWhichalreadyPartOfCustomAssignment" index="235" method="IndicationOfQuestionWhichalreadyPartOfCustomAssignment">
+		<user_id>IT11_R22_instructor_235</user_id>
+		<Role>instructor</Role>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R22.ExpandFunctionalityOfSearchedResult" index="264" method="expandFunctionalityofyourquestiontab">
+		<user_id>IT11_R22_instructor_264</user_id>
+		<Role>instructor</Role>
+        <noOfQuestions>2</noOfQuestions>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R22.DeleteAndEditFunctionalaityOfYourQuestion" index="282" method="DeleteAndEditFunctionalaityOfYourQuestion">
+		<user_id>IT11_R22_instructor_282</user_id>
+		<Role>instructor</Role>	
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R22.AvalabilityOfSaveAssignement" index="315" method="avalabilityOfSaveAssignement">
+		<user_id>IT11_R22_instructor_315</user_id>
+		<Role>instructor</Role>
+        <noOfQuestions>2</noOfQuestions>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R22.AvalabilityOfSaveAssignement" index="3151" method="avalabilityOfSaveAssignement">
+		<user_id>IT11_R22_student_3151</user_id>
+		<Role>student</Role>
+		<gradeable>false</gradeable>
+		<duedate>23</duedate>
+		<duetime>12:00 AM</duetime>
+		<familyname>315second</familyname>
+		<givenname>315first</givenname>
+		<shareWithClass>false</shareWithClass>
+		<shareWithInitialString>315second</shareWithInitialString>
+		<shareName>315first 315second</shareName>
+		<additionalnote>this is additional note</additionalnote>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R22.DeleteLinkFunctionality" index="339" method="DeleteLinkFunctionality">
+		<user_id>IT11_R22_instructor_339</user_id>
+		<Role>instructor</Role>	
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R22.CustomizeTheAssignment" index="355" method="CustomizeTheAssignment">
+		<user_id>IT11_R22_instructor_355</user_id>
+		<Role>instructor</Role>	
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R22.FunctionalityOfGoButton" index="165" method="CustomizeTheAssignment">
+		<user_id>IT11_R22_instructor_165</user_id>
+		<Role>instructor</Role>	
+	</testcase>	
+	
+</learningspaces>

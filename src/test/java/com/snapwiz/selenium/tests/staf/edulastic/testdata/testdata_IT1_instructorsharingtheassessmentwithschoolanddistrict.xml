@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edulastic>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.instructorsharingtheassessmentwithschoolanddistrict.InstructorSharingTheAssessment" index ="18" method="instructorSharingTheAssessmentWithSchool">
+        <assessmentname>IT1_instructorSharingTheAssessmentWithSchool_Assessment_18</assessmentname>
+        <questiontext>question text instructorSharingTheAssessmentWithSchool</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>School</privacy>
+        <owner>school</owner>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.instructorsharingtheassessmentwithschoolanddistrict.InstructorSharingTheAssessment" index ="111" method="instructorSharingTheAssessmentWithDistrict">
+        <assessmentname>IT1_instructorSharingTheAssessmentWithDistrict_Assessment_111</assessmentname>
+        <questiontext>question textSharingTheAssessmentWithDistrict</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>District</privacy>
+        <owner>District</owner>
+        <districtName>Sharing District</districtName>>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.instructorsharingtheassessmentwithschoolanddistrict.InstructorSharingTheAssessment" index ="174" method="instructorSharingTheAssessmentWithPublic">
+        <assessmentname>IT1_instructorSharingTheAssessmentWithPublic_Assessment_174</assessmentname>
+        <questiontext>question text instructorSharingTheAssessmentWithPublic</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.instructorsharingtheassessmentwithschoolanddistrict.InstructorSharingTheAssessment" index ="235" method="instructorSharingTheAssessmentWithMe">
+        <assessmentname>IT1_instructorSharingTheAssessmentWithMe_Assessment_235</assessmentname>
+        <questiontext>question text instructorSharingTheAssessmentWithMe</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Me</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.instructorsharingtheassessmentwithschoolanddistrict.InstructorSharingTheAssessment" index ="281" method="assignmentChangedToAssessments">
+        <assessmentname>IT1_assignmentChangedToAssessments_281</assessmentname>
+        <questiontext>question text assignmentChangedToAssessments</questiontext>
+    </testcase>
+
+</edulastic>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="R38-LSRegressionSuite">
+    <classes>   
+		<!-- for running this suite the course must have an image widget on card2topic1-->
+    	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.BookMarkVerify"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.BookMarkVerifyForInstructor"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.BookmarkingOfPostedDiscussion"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.BookmarkingOfPostedDiscussionForInstructor"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.BookmarkingOfPostedNotes"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.BookmarkingOfPostedNotesForInstructor"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.DiscussionWidget"/> 
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.BookmarkVerifyFromTOCSearch"/>
+        <!--we are not supporting different types of widget so commenting the class
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R38.BookmarkingOfDifferentWidgets"/>-->
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->

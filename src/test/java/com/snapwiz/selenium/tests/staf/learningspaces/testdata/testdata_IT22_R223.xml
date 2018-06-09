@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R223.WPLSGradeBookDataExporter" index="106" method="exportGradeBookGrade">
+        <user_id>student_IT22_R223_106_10</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R223_106_6</context_id>
+        <context_title>studtitle_IT22_R223_106_6</context_title>
+        <assessmentname>Assignment_IT22_R223_106_6</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of _IT22_R223_106</questionset>
+        <questiontext>Test Question for _IT22_R223_106</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_IT22_R223_106_6</shareWithInitialString>
+        <shareName>studtitle_IT22_R223_106_6</shareName>
+        <shareWithClass>true</shareWithClass>
+        <duedate>29</duedate>
+        <gradeBookWeighting>true</gradeBookWeighting>
+        <gradeable>true</gradeable>
+        <givenname>ins_firstName_106_1</givenname>
+        <familyname>ins_lastName_106_1</familyname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R223.WPLSGradeBookDataExporter" index="107" method="exportGradeBookGrade">
+        <assessmentname>Assignment_IT22_R223_106_6</assessmentname>
+        <user_id>student_IT22_R223_107_10</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R223_106_6</context_id>
+        <context_title>studtitle_IT22_R223_106_6</context_title>
+        <givenname>stu_firstName_107_1</givenname>
+        <familyname>stu_lastName_107_1</familyname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R223.LSGradeBookDataExporter" index="58" method="exportGradeBookGrade">
+        <user_id>student_IT22_R223_58</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R223_58</context_id>
+        <context_title>studtitle_IT22_R223_58</context_title>
+        <assessmentname>Assignment_IT22_R223_58_1</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of _IT22_R223_106</questionset>
+        <questiontext>Test Question for _IT22_R223_106</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_IT22_R223_58</shareWithInitialString>
+        <shareName>studtitle_IT22_R223_58</shareName>
+        <shareWithClass>true</shareWithClass>
+        <duedate>29</duedate>
+        <gradeBookWeighting>true</gradeBookWeighting>
+        <gradeable>true</gradeable>
+        <givenname>ins_firstName_58</givenname>
+        <familyname>ins_lastName_58</familyname>
+        <course_type>ls</course_type>
+        <assignmentpolicy>Create a new Assignment Policy</assignmentpolicy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R223.LSGradeBookDataExporter" index="59" method="exportGradeBookGrade">
+        <assessmentname>Assignment_IT22_R223_58_1</assessmentname>
+        <user_id>student_IT22_R223_59</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT22_R223_58</context_id>
+        <context_title>studtitle_IT22_R223_58</context_title>
+        <givenname>stu_firstName_59</givenname>
+        <familyname>stu_lastName_59</familyname>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R223.LSGradeBookDataExporter" index="60" method="exportGradeBookGrade">
+        <context_title>geography</context_title>
+        <assessmentname>Assignment_IT22_R223_60_2</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of _IT22_R223_60</questionset>
+        <questiontext>Test Question for _IT22_R223_60</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>geography</shareWithInitialString>
+        <shareName>geography</shareName>
+        <shareWithClass>true</shareWithClass>
+        <duedate>29</duedate>
+        <gradeBookWeighting>true</gradeBookWeighting>
+        <gradeable>true</gradeable>
+        <course_type>ls</course_type>
+        <assignmentpolicy>Create a new Assignment Policy</assignmentpolicy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R223.LSGradeBookDataExporter" index="61" method="exportGradeBookGrade">
+        <assessmentname>Assignment_IT22_R223_60_2</assessmentname>
+        <context_id>geography</context_id>
+        <context_title>geography</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+</learningspaces>

@@ -1,0 +1,1734 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edulastic>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsTrueFalse" index ="14" method="">
+        <assessmentname>IT1_addingPointsTrueFalse_14</assessmentname>
+        <questiontext>question text IT1_addingPointsTrueFalse_14</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsTrueFalse" index ="172" method="">
+        <assessmentname>IT1_pointAssignedToParticularQuestionTrueFalse_172</assessmentname>
+        <questiontext>question text IT1_pointAssignedToParticularQuestionTrueFalse_172</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsTrueFalse" index ="265" method="">
+        <assessmentname>IT1_gradedOnAssignmentSubNotToChangePointse_265</assessmentname>
+        <questiontext>question text IT1_gradedOnAssignmentSubNotToChangePoints_265</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsTrueFalse" index ="361" method="">
+    <assessmentname>IT1_gradedExplicitByTeacherNotToChangePoints_361</assessmentname>
+    <questiontext>question text IT1_gradedExplicitByTeacherNotToChangePoints_361</questiontext>
+    <shareWithClass>true</shareWithClass>
+    <duedate>28</duedate>
+    <duetime>12:00 AM</duetime>
+    <gradable>true</gradable>
+    <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+    <description>description text</description>
+    <tags>tags tags</tags>
+    <answerchoice>correct</answerchoice>
+    <privacy>Public</privacy>
+</testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsTrueFalse" index ="414" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestion_414</assessmentname>
+        <questiontext>question text IT1_DefaultPoint_414</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsTrueFalse" index ="451" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestion_414</assessmentname>
+        <questiontext>question text IT1_Point4_451</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsTrueFalse" index ="452" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestion_414</assessmentname>
+        <questiontext>question text IT1_Point5_452</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsMultipleChoice" index ="533" method="">
+    <assessmentname>IT1_addingPointsMultipleChoice_533</assessmentname>
+    <questiontext>question text IT1_addingPointsMultipleChoice_533</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsMultipleChoice" index ="669" method="">
+        <assessmentname>IT1_pointAssignedToParticularQuestionMultipleChoice_669</assessmentname>
+        <questiontext>question text IT1_pointAssignedToParticularQuestionMultipleChoice_669</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <selectgrade>Grade 5</selectgrade>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsMultipleChoice" index ="764" method="">
+        <assessmentname>IT1_gradedOnAssignmentSubNotToChangePointsMultipleChoice_764</assessmentname>
+        <questiontext>question text IT1_gradedOnAssignmentSubNotToChangePointsMultipleChoice_764</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsMultipleChoice" index ="863" method="">
+        <assessmentname>IT1_gradedExplicitByTeacherNotToChangePointsMultipleChoice_863</assessmentname>
+        <questiontext>question text IT1_gradedExplicitByTeacherNotToChangePointsMultipleChoice_863</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsMultipleChoice" index ="922" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForMultipleChoice_922</assessmentname>
+        <questiontext>question text IT1_DefaultPoint_922</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsMultipleChoice" index ="923" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForMultipleChoice_922</assessmentname>
+        <questiontext>question text IT1_Point4_923</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsMultipleChoice" index ="924" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForMultipleChoice_922</assessmentname>
+        <questiontext>question text IT1_Point5_924</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsTextEntry" index ="1032" method="">
+        <assessmentname>IT1_addingPointsTextEntry_1032</assessmentname>
+        <questiontext>question text IT1_addingPointsTextEntry_1032</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsTextEntry" index ="1165" method="">
+        <assessmentname>IT1_gradedOnAssignmentSubNotToChangePointsTextEntry_1165</assessmentname>
+        <questiontext>question text IT1_gradedOnAssignmentSubNotToChangePointsTextEntry_1165</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsTextEntry" index ="1170" method="">
+        <assessmentname>IT1_pointAssignedToParticularQuestionTextEntry_1170</assessmentname>
+        <questiontext>question text IT1_pointAssignedToParticularQuestionTextEntry_1170</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsTextEntry" index ="1365" method="">
+        <assessmentname>IT1_gradedExplicitByTeacherNotToChangePointsTextEntry_1365</assessmentname>
+        <questiontext>question text IT1_gradedExplicitByTeacherNotToChangePointsTextEntry_1365</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsTextEntry" index ="1424" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForTextEntry_1424</assessmentname>
+        <questiontext>question text IT1_DefaultPoint_1424</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsTextEntry" index ="1425" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForTextEntry_1424</assessmentname>
+        <questiontext>question text IT1_Point4_1425</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsTextEntry" index ="1426" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForTextEntry_1424</assessmentname>
+        <questiontext>question text IT1_Point5_1426</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsTextDropDown" index ="1533" method="">
+        <assessmentname>IT1_addingTextDropDown_1533</assessmentname>
+        <questiontext>question text IT1_addingTextDropDown_1533</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsTextDropDown" index ="1673" method="">
+        <assessmentname>IT1_pointAssignedToParticularQuestionTextDropDown_1673</assessmentname>
+        <questiontext>question text IT1_pointAssignedToParticularQuestionTextDropDown_1673</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsTextDropDown" index ="1769" method="">
+        <assessmentname>IT1_gradedOnAssignmentSubNotToChangePointsTextDropDown_1769</assessmentname>
+        <questiontext>question text IT1_gradedOnAssignmentSubNotToChangePointsTextDropDown_1769</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsTextDropDown" index ="1866" method="">
+        <assessmentname>IT1_gradedExplicitByTeacherNotToChangePointsTextDropDown_1866</assessmentname>
+        <questiontext>question text IT1_gradedExplicitByTeacherNotToChangePointsTextDropDown_1866</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsTextDropDown" index ="1923" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForTextDropDown_1923</assessmentname>
+        <questiontext>question text IT1_DefaultPoint_1923</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsTextDropDown" index ="1924" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForTextDropDown_1923</assessmentname>
+        <questiontext>question text IT1_Point4_1924</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsTextDropDown" index ="1925" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForTextDropDown_1923</assessmentname>
+        <questiontext>question text IT1_Point5_1925</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsNumericEntryWithUnits" index ="2032" method="">
+        <assessmentname>IT1_addingPointsNumericEntryWithUnits_2032</assessmentname>
+        <questiontext>question text IT1_addingPointsNumericEntryWithUnits_2032</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsNumericEntryWithUnits" index ="2168" method="">
+        <assessmentname>IT1_pointAssignedToParticularQuestionNumericEntryWithUnits_2168</assessmentname>
+        <questiontext>question text IT1_pointAssignedToParticularQuestionNumericEntryWithUnits_2168</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsNumericEntryWithUnits" index ="2265" method="">
+        <assessmentname>IT1_gradedOnAssignmentSubNotToChangePointsNumericEntryWithUnits_2265</assessmentname>
+        <questiontext>question text IT1_gradedOnAssignmentSubNotToChangePointsNumericEntryWithUnits_2265</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsNumericEntryWithUnits" index ="2362" method="">
+        <assessmentname>IT1_gradedExplicitByTeacherNotToChangePointsNumericEntryWithUnits_2362</assessmentname>
+        <questiontext>question text IT1_gradedExplicitByTeacherNotToChangePointsNumericEntryWithUnits_2362</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsNumericEntryWithUnits" index ="2419" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForNumericEntryWithUnits_2419</assessmentname>
+        <questiontext>question text IT1_DefaultPoint_2419</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsNumericEntryWithUnits" index ="2420" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForNumericEntryWithUnits_2419</assessmentname>
+        <questiontext>question text IT1_Point4_2420</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsNumericEntryWithUnits" index ="2421" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForNumericEntryWithUnits_2419</assessmentname>
+        <questiontext>question text IT1_Point5_2421</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsAdvancedNumeric" index ="2527" method="">
+        <assessmentname>IT1_addingPointsAdvancedNumeric_2527</assessmentname>
+        <questiontext>question text IT1_addingPointsAdvancedNumeric_2527</questiontext>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsAdvancedNumeric" index ="2664" method="">
+        <assessmentname>IT1_pointAssignedToParticularQuestionAdvancedNumeric_2664</assessmentname>
+        <questiontext>question text IT1_pointAssignedToParticularQuestionAdvancedNumeric_2664</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsAdvancedNumeric" index ="2761" method="">
+        <assessmentname>IT1_gradedOnAssignmentSubNotToChangePointsAdvancedNumeric_2761</assessmentname>
+        <questiontext>question text IT1_gradedOnAssignmentSubNotToChangePointsAdvancedNumeric_2761</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsAdvancedNumeric" index ="2857" method="">
+        <assessmentname>IT1_gradedExplicitByTeacherNotToChangePointsAdvancedNumeric_2857</assessmentname>
+        <questiontext>question text IT1_gradedExplicitByTeacherNotToChangePointsAdvancedNumeric_2857</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsAdvancedNumeric" index ="2915" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForAdvancedNumeric_2915</assessmentname>
+        <questiontext>question text IT1_DefaultPoint_2915</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsAdvancedNumeric" index ="2916" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForAdvancedNumeric_2915</assessmentname>
+        <questiontext>question text IT1_Point4_2916</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsAdvancedNumeric" index ="2917" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForAdvancedNumeric_2915</assessmentname>
+        <questiontext>question text IT1_Point5_2917</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsExpressionEvaluator" index ="3025" method="">
+        <assessmentname>IT1_addingPointsExpressionEvaluator_3025</assessmentname>
+        <questiontext>question text IT1_addingPointsExpressionEvaluator_3025</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsExpressionEvaluator" index ="3162" method="">
+        <assessmentname>IT1_pointAssignedToParticularQuestionExpressionEvaluator_3162</assessmentname>
+        <questiontext>question text IT1_pointAssignedToParticularQuestionExpressionEvaluator_3162</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <selectgrade>Grade 5</selectgrade>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsExpressionEvaluator" index ="3259" method="">
+        <assessmentname>IT1_gradedOnAssignmentSubNotToChangePointsExpressionEvaluator_3259</assessmentname>
+        <questiontext>question text IT1_gradedOnAssignmentSubNotToChangePointsExpressionEvaluator_3259</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsExpressionEvaluator" index ="3357" method="">
+        <assessmentname>IT1_gradedExplicitByTeacherNotToChangePointsExpressionEvaluator_3357</assessmentname>
+        <questiontext>question text IT1_gradedExplicitByTeacherNotToChangePointsExpressionEvaluator_3357</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsExpressionEvaluator" index ="3415" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForExpressionEvaluator_3415</assessmentname>
+        <questiontext>question text IT1_DefaultPoint_3415</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsExpressionEvaluator" index ="3416" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForExpressionEvaluator_3415</assessmentname>
+        <questiontext>question text IT1_Point4_3416</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsExpressionEvaluator" index ="3417" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForExpressionEvaluator_3415</assessmentname>
+        <questiontext>question text IT1_Point5_3417</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsMatchTheFollowing" index ="3524" method="">
+        <assessmentname>IT1_addingPointsMatchTheFollowing_3524</assessmentname>
+        <questiontext>question text IT1_addingPointsMatchTheFollowing_3524</questiontext>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsMatchTheFollowing" index ="3661" method="">
+        <assessmentname>IT1_pointAssignedToParticularQuestionMatchTheFollowing_3661</assessmentname>
+        <questiontext>question text IT1_pointAssignedToParticularQuestionMatchTheFollowing_3661</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <selectgrade>Grade 9</selectgrade>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsMatchTheFollowing" index ="3757" method="">
+        <assessmentname>IT1_gradedOnAssignmentSubNotToChangePointsMatchTheFollowing_3757</assessmentname>
+        <questiontext>question text IT1_gradedOnAssignmentSubNotToChangePointsMatchTheFollowing_3757</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsMatchTheFollowing" index ="3855" method="">
+        <assessmentname>IT1_ggradedExplicitByTeacherNotToChangePointsMatchTheFollowing_3855</assessmentname>
+        <questiontext>question text IT1_gradedExplicitByTeacherNotToChangePointsMatchTheFollowing_3855</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsMatchTheFollowing" index ="3912" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForTextEntry_3912</assessmentname>
+        <questiontext>question text IT1_DefaultPoint_3912</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsMatchTheFollowing" index ="3913" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForTextEntry_3912</assessmentname>
+        <questiontext>question text IT1_Point4_3913</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsMatchTheFollowing" index ="3914" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForTextEntry_3912</assessmentname>
+        <questiontext>question text IT1_Point5_3914</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsDragAndDrop" index ="4020" method="">
+        <assessmentname>IT1_addingPointsDragAndDrop_4020</assessmentname>
+        <questiontext>question text IT1_addingPointsDragAndDrop_4020</questiontext>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsDragAndDrop" index ="4157" method="">
+        <assessmentname>IT1_pointAssignedToParticularQuestionDragAndDrop_4157</assessmentname>
+        <questiontext>question text IT1_pointAssignedToParticularQuestionDragAndDrop_4157</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsDragAndDrop" index ="4253" method="">
+        <assessmentname>IT1_gradedOnAssignmentSubNotToChangePointsDragAndDrop_4253</assessmentname>
+        <questiontext>question text IT1_gradedOnAssignmentSubNotToChangePointsDragAndDrop_4253</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsDragAndDrop" index ="4351" method="">
+        <assessmentname>IT1_gradedExplicitByTeacherNotToChangePointsDragAndDrop_4351</assessmentname>
+        <questiontext>question text IT1_gradedExplicitByTeacherNotToChangePointsDragAndDrop_4351</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsDragAndDrop" index ="4408" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForDragAndDrop_4408</assessmentname>
+        <questiontext>question text IT1_DefaultPoint_4408</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsDragAndDrop" index ="4409" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForDragAndDrop_4408</assessmentname>
+        <questiontext>question text IT1_Point4_4409</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsDragAndDrop" index ="4410" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForDragAndDrop_4408</assessmentname>
+        <questiontext>question text IT1_Point5_4410</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsMultipleSelection" index ="4517" method="">
+        <assessmentname>IT1_addingPointsMultipleSelection_4517</assessmentname>
+        <questiontext>question text IT1_addingPointsMultipleSelection_4517</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsMultipleSelection" index ="4653" method="">
+        <assessmentname>IT1_pointAssignedToParticularQuestionMultipleSelection_4653</assessmentname>
+        <questiontext>question text IT1_pointAssignedToParticularQuestionMultipleSelection_4653</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <selectgrade>Grade 8</selectgrade>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsMultipleSelection" index ="4749" method="">
+        <assessmentname>IT1_gradedOnAssignmentSubNotToChangePointsMultipleSelection_4749</assessmentname>
+        <questiontext>question text IT1_gradedOnAssignmentSubNotToChangePointsMultipleSelection_4749</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsMultipleSelection" index ="4846" method="">
+        <assessmentname>IT1_gradedExplicitByTeacherNotToChangePointsMultipleSelection_4846</assessmentname>
+        <questiontext>question text IT1_gradedExplicitByTeacherNotToChangePointsMultipleSelection_4846</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsMultipleSelection" index ="4903" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForMultipleSelection_4903</assessmentname>
+        <questiontext>question text IT1_DefaultPoint_4903</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsMultipleSelection" index ="4904" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForMultipleSelection_4903</assessmentname>
+        <questiontext>question text IT1_Point4_4904</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsMultipleSelection" index ="4905" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForMultipleSelection_4903</assessmentname>
+        <questiontext>question text IT1_Point5_4905</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsGraphPlotter" index ="5011" method="">
+        <assessmentname>IT1_addingPointsGraphPlotter_5011</assessmentname>
+        <questiontext>question text IT1_addingPointsGraphPlotter_5011</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsGraphPlotter" index ="5151" method="">
+        <assessmentname>IT1_pointAssignedToParticularQuestionGraphPlotter_5151</assessmentname>
+        <questiontext>question text IT1_pointAssignedToParticularQuestionGraphPlotter_5151</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <selectgrade>Grade 8</selectgrade>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsGraphPlotter" index ="5248" method="">
+        <assessmentname>IT1_gradedOnAssignmentSubNotToChangePointsGraphPlotter_5248</assessmentname>
+        <questiontext>question text IT1_gradedOnAssignmentSubNotToChangePointsGraphPlotter_5248</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsGraphPlotter" index ="5346" method="">
+        <assessmentname>IT1_gradedExplicitByTeacherNotToChangePointsGraphPlotter_5346</assessmentname>
+        <questiontext>question text IT1_gradedExplicitByTeacherNotToChangePointsGraphPlotter_5346</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsGraphPlotter" index ="5404" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForGraphPlotter_5404</assessmentname>
+        <questiontext>question text IT1_DefaultPoint_5404</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsGraphPlotter" index ="5405" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForGraphPlotter_5404</assessmentname>
+        <questiontext>question text IT1_Point4_5405</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsGraphPlotter" index ="5406" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForGraphPlotter_5404</assessmentname>
+        <questiontext>question text IT1_Point5_5406</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsClozeMatrix" index ="5514" method="">
+        <assessmentname>IT1_addingPointsClozeMatrix_5514</assessmentname>
+        <questiontext>question text IT1_addingPointsClozeMatrix_5514</questiontext>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsClozeMatrix" index ="5649" method="">
+        <assessmentname>IT1_pointAssignedToParticularQuestionClozeMatrix_5649</assessmentname>
+        <questiontext>question text IT1_pointAssignedToParticularQuestionClozeMatrix_5649</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <selectgrade>Grade 7</selectgrade>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsClozeMatrix" index ="5745" method="">
+        <assessmentname>IT1_gradedOnAssignmentSubNotToChangePointsClozeMatrix_5745</assessmentname>
+        <questiontext>question text IT1_gradedOnAssignmentSubNotToChangePointsClozeMatrix_5745</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsClozeMatrix" index ="5842" method="">
+        <assessmentname>IT1_gradedExplicitByTeacherNotToChangePointsClozeMatrix_5842</assessmentname>
+        <questiontext>question text IT1_gradedExplicitByTeacherNotToChangePointsClozeMatrix_5842</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsClozeMatrix" index ="5900" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForClozeMatrix_5900</assessmentname>
+        <questiontext>question text IT1_DefaultPoint_5900</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsClozeMatrix" index ="5901" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForClozeMatrix_5900</assessmentname>
+        <questiontext>question text IT1_Point4_5901</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsClozeMatrix" index ="5902" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForClozeMatrix_5900</assessmentname>
+        <questiontext>question text IT1_Point5_5902</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsResequence" index ="6008" method="">
+        <assessmentname>IT1_addingPointsResequence_6008</assessmentname>
+        <questiontext>question text IT1_addingPointsResequence_6008</questiontext>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsResequence" index ="6145" method="">
+        <assessmentname>IT1_pointAssignedToParticularQuestionResequence_6145</assessmentname>
+        <questiontext>question text IT1_pointAssignedToParticularQuestionResequence_6145</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <selectgrade>Grade 7</selectgrade>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsResequence" index ="6242" method="">
+        <assessmentname>IT1_gradedOnAssignmentSubNotToChangePointsResequence_6242</assessmentname>
+        <questiontext>question text IT1_gradedOnAssignmentSubNotToChangePointsResequence_6242</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsResequence" index ="6341" method="">
+        <assessmentname>IT1_gradedExplicitByTeacherNotToChangePointsResequence_6341</assessmentname>
+        <questiontext>question text IT1_gradedExplicitByTeacherNotToChangePointsResequence_6341</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsResequence" index ="6400" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForResequence_6400</assessmentname>
+        <questiontext>question text IT1_DefaultPoint_6400</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsResequence" index ="6401" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForResequence_6400</assessmentname>
+        <questiontext>question text IT1_Point4_6401</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsResequence" index ="6402" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForResequence_6400</assessmentname>
+        <questiontext>question text IT1_Point5_6402</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsLabelAnImageText" index ="6509" method="">
+        <assessmentname>IT1_addingPointsLabelAnImageText_6509</assessmentname>
+        <questiontext>question text IT1_addingPointsLabelAnImageText_6509</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsLabelAnImageText" index ="6646" method="">
+        <assessmentname>IT1_pointAssignedToParticularQuestionLabelAnImageText_6646</assessmentname>
+        <questiontext>question text IT1_pointAssignedToParticularQuestionLabelAnImageText_6646</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsLabelAnImageText" index ="6743" method="">
+        <assessmentname>IT1_gradedOnAssignmentSubNotToChangePointsLabelAnImageText_6743</assessmentname>
+        <questiontext>question text IT1_gradedOnAssignmentSubNotToChangePointsLabelAnImageText_6743</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsLabelAnImageText" index ="6840" method="">
+        <assessmentname>IT1_gradedExplicitByTeacherNotToChangePointsLabelAnImageText_6840</assessmentname>
+        <questiontext>question text IT1_gradedExplicitByTeacherNotToChangePointsLabelAnImageText_6840</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsLabelAnImageText" index ="6900" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForLabelAnImageText_6900</assessmentname>
+        <questiontext>question text IT1_DefaultPoint_6900</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsLabelAnImageText" index ="6901" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForLabelAnImageText_6900</assessmentname>
+        <questiontext>question text IT1_Point4_6901</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsLabelAnImageText" index ="6902" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForLabelAnImageText_6900</assessmentname>
+        <questiontext>question text IT1_Point5_6902</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsLabelAnImageDropdown" index ="7006" method="">
+        <assessmentname>IT1_addingPointsLabelAnImageDropdown_7006</assessmentname>
+        <questiontext>question text IT1_addingPointsLabelAnImageDropdown_7006</questiontext>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsLabelAnImageDropdown" index ="7143" method="">
+        <assessmentname>IT1_pointAssignedToParticularQuestionLabelAnImageDropdown_7143</assessmentname>
+        <questiontext>question text IT1_pointAssignedToParticularQuestionLabelAnImageDropdown_7143</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsLabelAnImageDropdown" index ="7240" method="">
+        <assessmentname>IT1_gradedOnAssignmentSubNotToChangePointsLabelAnImageDropdown_7240</assessmentname>
+        <questiontext>question text IT1_gradedOnAssignmentSubNotToChangePointsLabelAnImageDropdown_7240</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsLabelAnImageDropdown" index ="7338" method="">
+        <assessmentname>IT1_gradedExplicitByTeacherNotToChangePointsLabelAnImageDropdown_7338</assessmentname>
+        <questiontext>question text IT1_gradedExplicitByTeacherNotToChangePointsLabelAnImageDropdown_7338</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsLabelAnImageDropdown" index ="7395" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForLabelAnImageDropdown_7395</assessmentname>
+        <questiontext>question text IT1_DefaultPoint_7395</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsLabelAnImageDropdown" index ="7396" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForLabelAnImageDropdown_7395</assessmentname>
+        <questiontext>question text IT1_Point4_7396</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsLabelAnImageDropdown" index ="7397" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForLabelAnImageDropdown_7395</assessmentname>
+        <questiontext>question text IT1_Point5_7397</questiontext>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsClozeFormula" index ="7503" method="">
+        <assessmentname>IT1_addingPointsClozeFormula_7503</assessmentname>
+        <questiontext>question text IT1_addingPointsClozeFormula_7503</questiontext>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsClozeFormula" index ="7639" method="">
+        <assessmentname>IT1_pointAssignedToParticularQuestionClozeFormula_7639</assessmentname>
+        <questiontext>question text IT1_pointAssignedToParticularQuestionClozeFormula_7639</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsClozeFormula" index ="7736" method="">
+        <assessmentname>IT1_gradedOnAssignmentSubNotToChangePointsClozeFormula_7736</assessmentname>
+        <questiontext>question text IT1_gradedOnAssignmentSubNotToChangePointsClozeFormula_7736</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsClozeFormula" index ="7834" method="">
+        <assessmentname>IT1_gradedExplicitByTeacherNotToChangePointsClozeFormula_7834</assessmentname>
+        <questiontext>question text IT1_gradedExplicitByTeacherNotToChangePointsClozeFormula_7834</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsClozeFormula" index ="7891" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForClozeFormula_7891</assessmentname>
+        <questiontext>question text IT1_DefaultPoint_7891</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsClozeFormula" index ="7892" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForClozeFormula_7891</assessmentname>
+        <questiontext>question text IT1_Point4_7892</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsClozeFormula" index ="7893" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForClozeFormula_7891</assessmentname>
+        <questiontext>question text IT1_Point5_7893</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsEssay" index ="7999" method="">
+        <assessmentname>IT1_addingPointEssay_7999</assessmentname>
+        <questiontext>question text IT1_addingPointEssay_7999</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsEssay" index ="8136" method="">
+        <assessmentname>IT1_pointAssignedToParticularQuestionEssay_8136</assessmentname>
+        <questiontext>question text IT1_pointAssignedToParticularQuestionEssay_8136</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsEssay" index ="8233" method="">
+        <assessmentname>IT1_gradedOnAssignmentSubNotToChangePointsEssay_8233</assessmentname>
+        <questiontext>question text IT1_gradedOnAssignmentSubNotToChangePointsEssay_8233</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsEssay" index ="8331" method="">
+        <assessmentname>IT1_gradedExplicitByTeacherNotToChangePointsEssay_8331</assessmentname>
+        <questiontext>question text IT1_gradedExplicitByTeacherNotToChangePointsEssay_8331</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsEssay" index ="8389" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForEssay_8389</assessmentname>
+        <questiontext>question text IT1_DefaultPoint_8389</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsEssay" index ="8390" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForEssay_8389</assessmentname>
+        <questiontext>question text IT1_Point4_8390</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsEssay" index ="8391" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForEssay_8389</assessmentname>
+        <questiontext>question text IT1_Point5_8391</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsNumberLine" index ="8498" method="">
+        <assessmentname>IT1_addingPointsNumberline_8498</assessmentname>
+        <questiontext>question text IT1_addingPointsNumberline_8498</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsNumberLine" index ="8635" method="">
+        <assessmentname>IT1_pointAssignedToParticularQuestionNumberline_8635</assessmentname>
+        <questiontext>question text IT1_pointAssignedToParticularQuestionNumberline_8635</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <selectgrade>Grade 6</selectgrade>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsNumberLine" index ="8732" method="">
+        <assessmentname>IT1_gradedOnAssignmentSubNotToChangePointsNumberline_8732</assessmentname>
+        <questiontext>question text IT1_gradedOnAssignmentSubNotToChangePointsNumberline_8732</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsNumberLine" index ="8829" method="">
+        <assessmentname>IT1_gradedExplicitByTeacherNotToChangePointsNumberline_8829</assessmentname>
+        <questiontext>question text IT1_gradedExplicitByTeacherNotToChangePointsNumberline_8829</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsNumberLine" index ="8887" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForNumberline_8887</assessmentname>
+        <questiontext>question text IT1_DefaultPoint_8887</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsNumberLine" index ="8888" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForNumberline_8887</assessmentname>
+        <questiontext>question text IT1_Point4_8888</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsNumberLine" index ="8889" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForNumberline_8887</assessmentname>
+        <questiontext>question text IT1_Point5_8889</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsClassification" index ="8995" method="">
+        <assessmentname>IT1_addingPointsClassification_8995</assessmentname>
+        <questiontext>question text IT1_addingPointsClassification_8995</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsClassification" index ="9132" method="">
+        <assessmentname>IT1_pointAssignedToParticularQuestionClassification_9132</assessmentname>
+        <questiontext>question text IT1_pointAssignedToParticularQuestionClassification_9132</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsClassification" index ="9228" method="">
+        <assessmentname>IT1_gradedOnAssignmentSubNotToChangePointsClassification_9228</assessmentname>
+        <questiontext>question text IT1_gradedOnAssignmentSubNotToChangePointsClassification_9228</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsClassification" index ="9326" method="">
+        <assessmentname>IT1_gradedExplicitByTeacherNotToChangePointsClassification_9326</assessmentname>
+        <questiontext>question text IT1_gradedExplicitByTeacherNotToChangePointsClassification_9326</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsClassification" index ="9384" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForClassification_9384</assessmentname>
+        <questiontext>question text IT1_DefaultPoint_9384</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsClassification" index ="9385" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForClassification_9384</assessmentname>
+        <questiontext>question text IT1_Point4_9385</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsClassification" index ="9386" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForClassification_9384</assessmentname>
+        <questiontext>question text IT1_Point5_9386</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsPassageBased" index ="21" method="">
+        <assessmentname>IT1_addingPointsPassageBased_21</assessmentname>
+        <questiontext>question text IT1_addingPointsPassageBased_21</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsPassageBased" index ="161" method="">
+        <assessmentname>IT1_pointAssignedToParticularQuestionPassageBased_161</assessmentname>
+        <questiontext>question text IT1_pointAssignedToParticularQuestionPassageBased_161</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsPassageBased" index ="259" method="">
+        <assessmentname>IT1_gradedOnAssignmentSubNotToChangePointsPassageBased_259</assessmentname>
+        <questiontext>question text IT1_gradedOnAssignmentSubNotToChangePointsPassageBased_259</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsPassageBased" index ="356" method="">
+        <assessmentname>IT1_gradedExplicitByTeacherNotToChangePointsPassageBased_356</assessmentname>
+        <questiontext>question text IT1_gradedExplicitByTeacherNotToChangePointsPassageBased_356</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsPassageBased" index ="414" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForPassageBased_414</assessmentname>
+        <questiontext>question text IT1_DefaultPoint_414</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsPassageBased" index ="415" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForPassageBased_414</assessmentname>
+        <questiontext>question text IT1_Point4_415</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsPassageBased" index ="416" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForPassageBased_414</assessmentname>
+        <questiontext>question text IT1_Point5_416</questiontext>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsSentenceResponse" index ="23" method="">
+        <assessmentname>IT1_addingPointsSentenceResponse_23</assessmentname>
+        <questiontext>question text IT1_addingPointsSentenceResponse_23</questiontext>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsSentenceResponse" index ="163" method="">
+        <assessmentname>IT1_pointAssignedToParticularQuestionSentenceResponse_163</assessmentname>
+        <questiontext>question text IT1_pointAssignedToParticularQuestionSentenceResponse_163</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsSentenceResponse" index ="264" method="">
+        <assessmentname>IT1_gradedOnAssignmentSubNotToChangePointsSentenceResponse_264</assessmentname>
+        <questiontext>question text IT1_gradedOnAssignmentSubNotToChangePointsSentenceResponse_264</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsSentenceResponse" index ="363" method="">
+        <assessmentname>IT1_gradedExplicitByTeacherNotToChangePointsSentenceResponse_363</assessmentname>
+        <questiontext>question text IT1_gradedExplicitByTeacherNotToChangePointsSentenceResponse_363</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsSentenceResponse" index ="421" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForSentenceResponse_421</assessmentname>
+        <questiontext>question text IT1_DefaultPoint_421</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsSentenceResponse" index ="422" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForSentenceResponse_421</assessmentname>
+        <questiontext>question text IT1_Point4_422</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsSentenceResponse" index ="423" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForSentenceResponse_421</assessmentname>
+        <questiontext>question text IT1_Point5_423</questiontext>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsMatchingTables" index ="29" method="">
+        <assessmentname>IT1_addingPointsMatchingTables_29</assessmentname>
+        <questiontext>question text IT1_addingPointsMatchingTables_29</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsMatchingTables" index ="167" method="">
+        <assessmentname>IT1_pointAssignedToParticularQuestionMatchingTables_167</assessmentname>
+        <questiontext>question text IT1_pointAssignedToParticularQuestionMatchingTables_167</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsMatchingTables" index ="266" method="">
+        <assessmentname>IT1_gradedOnAssignmentSubNotToChangePointsMatchingTables_266</assessmentname>
+        <questiontext>question text IT1_gradedOnAssignmentSubNotToChangePointsMatchingTables_266</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsMatchingTables" index ="365" method="">
+        <assessmentname>IT1_gradedExplicitByTeacherNotToChangePointsMatchingTables_365</assessmentname>
+        <questiontext>question text IT1_gradedExplicitByTeacherNotToChangePointsMatchingTables_365</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsMatchingTables" index ="424" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForMatchingTables_424</assessmentname>
+        <questiontext>question text IT1_DefaultPoint_424</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsMatchingTables" index ="425" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForMatchingTables_424</assessmentname>
+        <questiontext>question text IT1_Point4_425</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsMatchingTables" index ="426" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForMatchingTables_424</assessmentname>
+        <questiontext>question text IT1_Point5_426</questiontext>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsLinePlot" index ="22" method="">
+        <assessmentname>IT1_addingPointsLinePlot_22</assessmentname>
+        <questiontext>question text IT1_addingPointsLinePlot_22</questiontext>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsLinePlot" index ="1171" method="">
+        <assessmentname>IT1_pointAssignedToParticularQuestionLinePlot_1171</assessmentname>
+        <questiontext>question text IT1_pointAssignedToParticularQuestionLinePlot_1171</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsLinePlot" index ="1166" method="">
+        <assessmentname>IT1_gradedOnAssignmentSubNotToChangePointsLinePlot_1166</assessmentname>
+        <questiontext>question text IT1_gradedOnAssignmentSubNotToChangePointsLinePlot_1166</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsLinePlot" index ="1366" method="">
+        <assessmentname>IT1_gradedExplicitByTeacherNotToChangePointsLinePlot_1366</assessmentname>
+        <questiontext>question text IT1_gradedExplicitByTeacherNotToChangePointsLinePlot_1366</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsLinePlot" index ="1430" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForLinePlot_1430</assessmentname>
+        <questiontext>question text IT1_DefaultPoint_1430</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsLinePlot" index ="1431" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForLinePlot_1430</assessmentname>
+        <questiontext>question text IT1_Point4_1431</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsLinePlot" index ="1432" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForLinePlot_1430</assessmentname>
+        <questiontext>question text IT1_Point5_1432</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsRangePlotter" index ="2033" method="">
+        <assessmentname>IT1_addingPointsRangePlotter_2033</assessmentname>
+        <questiontext>question text IT1_addingPointsRangePlotter_2033</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsRangePlotter" index ="2169" method="">
+        <assessmentname>IT1_pointAssignedToParticularQuestionRangePlotter_2169</assessmentname>
+        <questiontext>question text IT1_pointAssignedToParticularQuestionRangePlotter_2169</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsRangePlotter" index ="2266" method="">
+        <assessmentname>IT1_gradedOnAssignmentSubNotToChangePointsRangePlotter_2266</assessmentname>
+        <questiontext>question text IT1_gradedOnAssignmentSubNotToChangePointsRangePlotter_2266</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsRangePlotter" index ="2363" method="">
+        <assessmentname>IT1_gradedExplicitByTeacherNotToChangePointsRangePlotter_2363</assessmentname>
+        <questiontext>question text IT1_gradedExplicitByTeacherNotToChangePointsRangePlotter_2363</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsRangePlotter" index ="2422" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForRangePlotter_2422</assessmentname>
+        <questiontext>question text IT1_DefaultPoint_2422</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <answerchoice>correct</answerchoice>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsRangePlotter" index ="2423" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForRangePlotter_2422</assessmentname>
+        <questiontext>question text IT1_Point4_2423</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.assignpoints.AssignPointsRangePlotter" index ="2424" method="">
+        <assessmentname>IT1_pointsVerifyMultipleQuestionForRangePlotter_2422</assessmentname>
+        <questiontext>question text IT1_Point5_2424</questiontext>
+    </testcase>
+
+
+</edulastic>

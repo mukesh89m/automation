@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<learningspaces>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721.CapturingAuthorAndCreationDateForQues" index="4" method="captureAuthorAndCreationDateForQues">
+        <assessmentname>IT17_R1721_Custom Assignment_4</assessmentname>
+        <questionset>Test Question Set of IT17_R1721_4</questionset>
+        <questiontext>Test Question for IT17_R1721_4</questiontext>
+        <questiontype>Static Practice</questiontype>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721.CapturingAuthorAndCreationDateForQues" index="42" method="checkAuthorAndCreationDateForDuplicateQuestion">
+        <chapterName>Ch 1: The Study of Life</chapterName>
+        <assignmentName>Diagnostic Test - The Study of Life</assignmentName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721.CapturingAuthorAndCreationDateForQues" index="44" method="checkAuthorAndCreationDateForCopyorMoveQuestion1">
+        <assessmentname>05082015_IT17_R1721_Custom Assignment_44</assessmentname>
+        <questionset>05082015_Test Question Set of IT17_R1721_44</questionset>
+        <questiontext>05082015_Test Question for IT17_R1721_44</questiontext>
+        <questiontype>Static Practice</questiontype>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721.CapturingAuthorAndCreationDateForQues" index="53" method="checkAuthorAndCreationDateForCopyorMoveQuestion1">
+        <assessmentname>05082015_IT17_R1721_Custom Assignment_53</assessmentname>
+        <questionset>05082015_Test Question Set of IT17_R1721_53</questionset>
+        <questiontext>05082015_Test Question for IT17_R1721_53</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <status>needNotToBePublished</status>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721.CapturingAuthorAndCreationDateForQues" index="55" method="checkAuthorAndCreationDateForCopyorMoveQuestion1">
+        <assessmentname>05082015_IT17_R1721_Custom Assignment_55</assessmentname>
+        <questionset>05082015_Test Question Set of IT17_R1721_55</questionset>
+        <questiontext>05082015_Test Question for IT17_R1721_55</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <status>needNotToBePublished</status>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721.CapturingAuthorAndCreationDateForQues" index="59" method="checkVisibilityOfAuthorAndCreationDate">
+        <assessmentname>IT17_R1721_Custom Assignment_59</assessmentname>
+        <questionset>Test Question Set of IT17_R1721_59</questionset>
+        <questiontext>Test Question for IT17_R1721_59</questiontext>
+        <questiontype>Static Practice</questiontype>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721.CapturingAuthorAndCreationDateForQues" index="60" method="updatingExistingQuestion">
+        <assessmentname>IT17_R1721_Custom Assignment_60</assessmentname>
+        <questionset>Test Question Set of IT17_R1721_60</questionset>
+        <questiontext>Test Question for IT17_R1721_60</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <status>needNotToBePublished</status>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721.CapturingAuthorAndCreationDateForQuestionCreated_ProductDesigner" index="62" method="capturingAuthor_CreationDateForQuesionCreatedForProductDesigner">
+        <assessmentname>IT17_R1721_Custom Assignment_62</assessmentname>
+        <questionset>Test Question Set of IT17_R1721_62</questionset>
+        <questiontext>Test Question for IT17_R1721_62</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <overrideDefaultLogin>true</overrideDefaultLogin>
+        <role>ROLE_PRODUCT_DESIGNER</role>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721.CapturingAuthorAndCreationDateForQuestionCreated_ProductDesigner" index="100" method="checkAuthorAndCreationDateForDuplicateQuestion">
+        <chapterName>Ch 1: The Study of Life</chapterName>
+        <assignmentName>Diagnostic Test - The Study of Life</assignmentName>
+        <overrideDefaultLogin>true</overrideDefaultLogin>
+        <role>ROLE_PRODUCT_DESIGNER</role>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721.CapturingAuthorAndCreationDateForQuestionCreated_ProductDesigner" index="102" method="checkAuthorAndCreationDateForCopyorMoveQuestion1">
+        <assessmentname>05082015_IT17_R1721_Custom Assignment_102</assessmentname>
+        <questionset>05082015_Test Question Set of IT17_R1721_102</questionset>
+        <questiontext>05082015_Test Question for IT17_R1721_102</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <overrideDefaultLogin>true</overrideDefaultLogin>
+        <role>ROLE_PRODUCT_DESIGNER</role>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721.CapturingAuthorAndCreationDateForQuestionCreated_ProductDesigner" index="111" method="checkAuthorAndCreationDateForCopyorMoveQuestion1">
+        <assessmentname>05082015_IT17_R1721_Custom Assignment_111</assessmentname>
+        <questionset>05082015_Test Question Set of IT17_R1721_111</questionset>
+        <questiontext>05082015_Test Question for IT17_R1721_111</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <status>needNotToBePublished</status>
+        <overrideDefaultLogin>true</overrideDefaultLogin>
+        <role>ROLE_PRODUCT_DESIGNER</role>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721.CapturingAuthorAndCreationDateForQuestionCreated_ProductDesigner" index="113" method="checkAuthorAndCreationDateForCopyorMoveQuestion1">
+        <assessmentname>05082015_IT17_R1721_Custom Assignment_113</assessmentname>
+        <questionset>Test Question Set of IT17_R1721_113</questionset>
+        <questiontext>05082015_Test Question for IT17_R1721_113</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <status>needNotToBePublished</status>
+        <overrideDefaultLogin>true</overrideDefaultLogin>
+        <role>ROLE_PRODUCT_DESIGNER</role>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721.CapturingAuthorAndCreationDateForQuestionCreated_ProductDesigner" index="117" method="checkVisibilityOfAuthorAndCreationDate">
+        <assessmentname>IT17_R1721_Custom Assignment_117</assessmentname>
+        <questionset>Test Question Set of IT17_R1721_117</questionset>
+        <questiontext>Test Question for IT17_R1721_117</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <overrideDefaultLogin>true</overrideDefaultLogin>
+        <role>ROLE_PRODUCT_DESIGNER</role>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721.CapturingAuthorAndCreationDateForQuestionCreated_ProductDesigner" index="118" method="updatingExistingQuestion">
+        <assessmentname>IT17_R1721_Custom Assignment_118</assessmentname>
+        <questionset>Test Question Set of IT17_R1721_118</questionset>
+        <questiontext>Test Question for IT17_R1721_118</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <status>needNotToBePublished</status>
+        <overrideDefaultLogin>true</overrideDefaultLogin>
+        <role>ROLE_PRODUCT_DESIGNER</role>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721.CapturingAuthorAndCreationDateForQuestionCreated_SubjectMatterExpert" index="120" method="capturingAuthor_CreationDateForQuesionCreatedForProductDesigner">
+        <assessmentname>IT17_R1721_Custom Assignment_120</assessmentname>
+        <questionset>Test Question Set of IT17_R1721_1a20</questionset>
+        <questiontext>Test Question for IT17_R1721_120</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <overrideDefaultLogin>true</overrideDefaultLogin>
+        <role>ROLE_SUBJECT_MATTER_EXPERT</role>
+        <status>needNotToBePublished</status>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721.CapturingAuthorAndCreationDateForQuestionCreated_SubjectMatterExpert" index="158" method="checkAuthorAndCreationDateForDuplicateQuestion">
+        <chapterName>Ch 1: The Study of Life</chapterName>
+        <assignmentName>Diagnostic Test - The Study of Life</assignmentName>
+        <overrideDefaultLogin>true</overrideDefaultLogin>
+        <role>ROLE_SUBJECT_MATTER_EXPERT</role>
+        <status>needNotToBePublished</status>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721.CapturingAuthorAndCreationDateForQuestionCreated_SubjectMatterExpert" index="160" method="checkAuthorAndCreationDateForCopyorMoveQuestion1">
+        <assessmentname>05082015_IT17_R1721_Custom Assignment_160</assessmentname>
+        <questionset>05082015_Test Question Set of IT17_R1721_160</questionset>
+        <questiontext>05082015_Test Question for IT17_R1721_160</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <overrideDefaultLogin>true</overrideDefaultLogin>
+        <role>ROLE_SUBJECT_MATTER_EXPERT</role>
+        <status>needNotToBePublished</status>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721.CapturingAuthorAndCreationDateForQuestionCreated_SubjectMatterExpert" index="169" method="checkAuthorAndCreationDateForCopyorMoveQuestion1">
+        <assessmentname>05082015_IT17_R1721_Custom Assignment_169</assessmentname>
+        <questionset>05082015_Test Question Set of IT17_R1721_169</questionset>
+        <questiontext>05082015_Test Question for IT17_R1721_169</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <status>needNotToBePublished</status>
+        <overrideDefaultLogin>true</overrideDefaultLogin>
+        <role>ROLE_SUBJECT_MATTER_EXPERT</role>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721.CapturingAuthorAndCreationDateForQuestionCreated_SubjectMatterExpert" index="171" method="checkAuthorAndCreationDateForCopyorMoveQuestion1">
+        <assessmentname>IT17_R1721_Custom Assignment_171</assessmentname>
+        <questionset>Test Question Set of IT17_R1721_171</questionset>
+        <questiontext>Test Question for IT17_R1721_171</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <status>needNotToBePublished</status>
+        <overrideDefaultLogin>true</overrideDefaultLogin>
+        <role>ROLE_SUBJECT_MATTER_EXPERT</role>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721.CapturingAuthorAndCreationDateForQuestionCreated_SubjectMatterExpert" index="175" method="checkVisibilityOfAuthorAndCreationDate">
+        <assessmentname>IT17_R1721_Custom Assignment_175</assessmentname>
+        <questionset>Test Question Set of IT17_R1721_175</questionset>
+        <questiontext>Test Question for IT17_R1721_175</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <overrideDefaultLogin>true</overrideDefaultLogin>
+        <status>needNotToBePublished</status>
+        <role>ROLE_SUBJECT_MATTER_EXPERT</role>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721.CapturingAuthorAndCreationDateForQuestionCreated_SubjectMatterExpert" index="176" method="updatingExistingQuestion">
+        <assessmentname>AAAAIT17_R1721_Custom Assignment_176</assessmentname>
+        <questionset>Test Question Set of IT17_R1721_176</questionset>
+        <questiontext>AAAATest Question for IT17_R1721_176</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <status>needNotToBePublished</status>
+        <overrideDefaultLogin>true</overrideDefaultLogin>
+        <role>ROLE_SUBJECT_MATTER_EXPERT</role>
+    </testcase>
+
+</learningspaces>

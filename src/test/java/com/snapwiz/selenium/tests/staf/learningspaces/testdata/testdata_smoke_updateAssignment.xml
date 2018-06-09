@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.updateAssignment.UpdateAssignment" index="2">
+        <user_id>instructor_smoke_updateAssignment_2</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_updateAssignment_2</context_id>
+        <context_title>studtitle_smoke_updateAssignment_2</context_title>
+        <assignmentpolicyname>ByDefault Policy Name</assignmentpolicyname>
+        <assessmentname>Assignment updateAssignment_2</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question_smoke_policy3</questionset>
+        <questiontext>Test Question_smoke_policy3</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_smoke_updateAssignment_2</shareWithInitialString>
+        <shareName>studtitle_smoke_updateAssignment_2</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>Month Jan</studentname>
+        <grade>0.1</grade>
+        <extensionAfterDueDate>disable</extensionAfterDueDate>
+        <customassignmentname>customassignmentname_updateAssignment</customassignmentname>
+        <noOfQuestions>2</noOfQuestions>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.updateAssignment.UpdateAssignment" index="2_1">
+        <user_id>instructor_smoke_updateAssignment_2_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_updateAssignment_2</context_id>
+        <context_title>studtitle_smoke_updateAssignment_2</context_title>
+        <familyname>Month</familyname>
+        <givenname>Jan</givenname>
+        <studentname>Jan Month</studentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.updateAssignment.UpdateAssignment" index="2_2">
+        <user_id>instructor_smoke_updateAssignment_2_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_updateAssignment_2</context_id>
+        <context_title>studtitle_smoke_updateAssignment_2</context_title>
+        <familyname>Month</familyname>
+        <givenname>Feb</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.updateAssignment.UpdateAssignment" index="2_3">
+        <user_id>instructor_smoke_updateAssignment_2_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_updateAssignment_2</context_id>
+        <context_title>studtitle_smoke_updateAssignment_2</context_title>
+        <familyname>Month</familyname>
+        <givenname>March</givenname>
+    </testcase>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.updateAssignment.UpdateAssignment" index="5">
+        <user_id>instructor_smoke_updateAssignment_5</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_updateAssignment_5</context_id>
+        <context_title>studtitle_smoke_updateAssignment_5</context_title>
+        <assignmentpolicyname>ByDefault Policy Name</assignmentpolicyname>
+        <assessmentname>Assignment updateAssignment_5</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question_smoke_policy3</questionset>
+        <questiontext>Test Question_smoke_policy3</questiontext>
+        <learningobjective>true</learningobjective>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <additionalnote>This is an additional note</additionalnote>
+        <grade>0.1</grade>
+        <extensionAfterDueDate>disable</extensionAfterDueDate>
+        <customassignmentname>customassignmentname_updateAssignment</customassignmentname>
+        <noOfQuestions>2</noOfQuestions>
+        <shareWithClass>false</shareWithClass>
+        <shareWithInitialString>Month</shareWithInitialString>
+        <shareName>Jan Month</shareName>
+        <additionalnote>this is additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.updateAssignment.UpdateAssignment" index="5_1">
+        <user_id>instructor_smoke_updateAssignment_5_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_updateAssignment_5</context_id>
+        <context_title>studtitle_smoke_updateAssignment_5</context_title>
+        <familyname>Month</familyname>
+        <givenname>Jan</givenname>
+        <studentname>Jan Month</studentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.updateAssignment.UpdateAssignment" index="5_2">
+        <user_id>instructor_smoke_updateAssignment_5_5</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_updateAssignment_5</context_id>
+        <context_title>studtitle_smoke_updateAssignment_5</context_title>
+        <familyname>Month</familyname>
+        <givenname>Feb</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.updateAssignment.UpdateAssignment" index="5_3">
+        <user_id>instructor_smoke_updateAssignment_5_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_updateAssignment_5</context_id>
+        <context_title>studtitle_smoke_updateAssignment_5</context_title>
+        <familyname>Month</familyname>
+        <givenname>March</givenname>
+    </testcase>
+
+
+</learningspaces>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="IT11-R22-LSRegressionSuite">
+    <classes> 
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R22.ChangesAreNotReflectedinOriginalQuestion"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R22.InstructorAbleToCustomizeAssessment"/>    	
+    	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R22.AvailabilityOfSearchAndVBrowseOptionInNewAssignmentTab"/>
+    	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R22.SearchFilterFunctionality"/>
+    	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R22.BrowseOptionFunctionality"/>
+    	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R22.ExpandFunctionalityOfSearchedResult"/>
+    	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R22.InstructorAbleToAddQuestionsInMyAssignemnt"/>
+    	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R22.IndicationOfQuestionWhichalreadyPartOfCustomAssignment"/>
+    	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R22.DeleteAndEditFunctionalaityOfYourQuestion"/>
+    	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R22.AvalabilityOfSaveAssignement"/>
+    	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R22.DeleteLinkFunctionality"/>
+    	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R22.CustomizeTheAssignment"/>
+    	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT11.R22.FunctionalityOfGoButton"/>
+    	
+    	
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->

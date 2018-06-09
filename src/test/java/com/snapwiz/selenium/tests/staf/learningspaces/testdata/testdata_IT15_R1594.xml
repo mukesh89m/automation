@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<learningspaces>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1594.PopUpToCreatePolicyOnFly" index="1" method="popUpToCreatePolicyOnFly">
+		<user_id>instructor_IT15_R1594_1</user_id>
+		<Role>instructor</Role>
+		<assessmentname>Assessment_IT15_R1594_1</assessmentname>
+		<questionset>Question Set_IT15_R1594_1</questionset>
+		<questiontext>Test Question _IT15_R1594_1</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<duedate>23</duedate>
+		<duetime>12:00 AM</duetime>
+		<shareWithClass>true</shareWithClass>
+		<gradeable>true</gradeable>
+		<shareWithInitialString>it15-r1549_first</shareWithInitialString>
+		<shareName>it15-r1549_first it15-r1549_second</shareName>
+		<additionalnote>this is additional note</additionalnote>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1594.PopUpToCreatePolicyOnFly" index="131" method="CancleFunctionalityOfgradingPolicy">
+		<user_id>instructor_IT15_R1594_131</user_id>
+		<Role>instructor</Role>
+		<assessmentname>Assessment_IT15_R1594_131</assessmentname>
+		<questionset>Question Set_IT15_R1594_131</questionset>
+		<questiontext>Test Question _IT15_R1594_131</questiontext>
+		<questiontype>Static Practice</questiontype>
+	
+	</testcase>
+	
+</learningspaces>

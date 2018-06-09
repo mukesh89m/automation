@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R143.StudentAbleToAddNewNoteAndAttachedaFile" index="1" method="studentAbleToAddNewNoteAndAttachedaFile">
+	<user_id>student_IT14_R143_1</user_id>
+	<Role>student</Role>
+	<note>this is note</note>
+	<filename>img.png</filename>
+	<filename1>img.mp4</filename1>
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R143.StudentAbleToAddNewNoteAndAttachedaFile" index="1_1" method="AddNoteForInstructor">
+	<user_id>instructor_IT14_R143_1</user_id>
+	<Role>instructor</Role>
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R143.NoteAddedByStudent" index="59" method="noteAddedByStudent">
+	<user_id>student_IT14_R143_59</user_id>
+	<Role>student</Role>
+	<context_id>studcontextIT143_59</context_id>
+	<context_title>studtitleIT14_R143_59</context_title>	
+	<note>this is note of IT_14_R143_49</note>
+	<filename>img.png</filename>
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R143.StudentAbleToAddTagWithNote" index="77" method="studentAbleToAddTagWithNote">
+	<user_id>student_IT14_R143_77</user_id>
+	<Role>student</Role>
+	<context_id>studcontextIT143_77</context_id>
+	<context_title>studtitleIT14_R143_77</context_title>	
+	<note>this is note of IT_14_R143_77</note>
+	<tag>77tag</tag>
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R143.StudentAbleToSearchTag" index="101" method="StudentAbleToSearchTag">
+	<user_id>student_IT14_R143_101</user_id>
+	<Role>student</Role>
+	<context_id>studcontextIT143_101</context_id>
+	<context_title>studtitleIT14_R143_101</context_title>	
+	<note>this is note of IT_14_R143_101</note>
+	<tag>101tag</tag>
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R143.StudentAbleToSearchTag" index="101_1" method="StudentAbleToSearchTag">
+	<note>this is note of IT_14_R143_101_1</note>
+	<tag>101_1tag</tag>
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R143.StudentAbleToSearchTag" index="120" method="studentAbletoAddMultpleSearchtagfilter">
+	<user_id>student_IT14_R143_120</user_id>
+	<Role>student</Role>
+	<context_id>studcontextIT143_120</context_id>
+	<context_title>studtitleIT14_R143_120</context_title>	
+	<note>this is note of IT_14_R143_120</note>
+	<tag>120tag</tag>
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R143.StudentAbleToSearchTag" index="120_1" method="studentAbletoAddMultpleSearchtagfilter">
+	<note>this is note of IT_14_R143_120_1</note>
+	<tag>12_0tag</tag>
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R143.StudentAbleToViewDiscussionWidgetAsMyNotes" index="156" method="studentAbleToViewDiscussionWidgetAsMyNotes">
+	<user_id>student_IT14_R143_156</user_id>
+	<Role>student</Role>
+	<context_id>studcontextIT143_156</context_id>
+	<context_title>studtitleIT14_R143_156</context_title>	
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R143.StudentAbleToViewAddedPerspectiveOnMyNotes" index="174" method="studentAbleToViewAddedPerspectiveOnMyNotes">
+	<user_id>student_IT14_R143_174</user_id>
+	<Role>student</Role>
+	<context_id>studcontextIT143_174</context_id>
+	<context_title>studtitleIT14_R143_174</context_title>	
+</testcase>
+
+</learningspaces>

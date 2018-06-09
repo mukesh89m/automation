@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edulastic>
+<testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.questionDuplicate.QuestionDuplicate" index ="10" method="">
+    <assessmentname>IT1_QuestionDuplicateQuestionTrueFalse_10</assessmentname>
+    <questiontext>question text_QuestionDuplicate_10</questiontext>
+    <shareWithClass>true</shareWithClass>
+    <duedate>28</duedate>
+    <duetime>12:00 AM</duetime>
+    <gradable>true</gradable>
+    <gradereleaseoption>On assignment submission</gradereleaseoption>
+    <description>description text</description>
+    <tags>tags tags</tags>
+    <privacy>Public</privacy>
+</testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.questionDuplicate.QuestionDuplicate" index ="11" method="">
+        <assessmentname>IT1_QuestionDuplicateQuestionTrueFalse_11</assessmentname>
+        <questiontext>question text_QuestionDuplicate_11</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>district</privacy>
+        <districtName>districtedulastic1234</districtName>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.questionDuplicate.QuestionDuplicate" index ="12" method="">
+        <assessmentname>IT1_QuestionDuplicateQuestionTrueFalse_10</assessmentname>
+        <questiontext>question text_QuestionDuplicate_10</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <districtName>districtedulastic1234</districtName>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.questionDuplicate.QuestionDuplicate" index ="13" method="">
+        <assessmentname>IT1_QuestionDuplicateQuestionTrueFalse_13</assessmentname>
+        <questiontext>question text_QuestionDuplicate_13</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+        <districtName>districtanotheredulastic1234</districtName>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.questionDuplicate.QuestionDuplicate" index ="14" method="">
+        <assessmentname>IT1_QuestionDuplicateQuestionTrueFalse_10</assessmentname>
+        <questiontext>question text_QuestionDuplicate_10</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.questionDuplicate.QuestionDuplicate" index ="15" method="">
+        <assessmentname>IT1_QuestionDuplicateQuestionAllTypes_15</assessmentname>
+        <questiontext>question text_QuestionDuplicateAllTypes_15</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+        <accessibleBeforeTime>true</accessibleBeforeTime>
+    </testcase>
+</edulastic>

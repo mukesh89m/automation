@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1722.DefaultViewOnSummaryPage" index="1" method="instructorAssignWidgetAsLearningActivity">
+        <assessmentname>IT17_R1722_Custom Assignment_1</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT17_R1722_1</questionset>
+        <questiontext>Test Question for IT17_R1722_1</questiontext>
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1722.DefaultViewOnSummaryPage" index="14" method="instructorAssignWidgetAsLearningActivity">
+        <assessmentname>IT17_R1722_Custom Assignment_14</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT17_R1722_14</questionset>
+        <questiontext>Test Question for IT17_R1722_14</questiontext>
+        <overrideDefaultLogin>true</overrideDefaultLogin>
+        <role>ROLE_PRODUCT_DESIGNER</role>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1722.DefaultViewOnSummaryPage" index="18" method="instructorAssignWidgetAsLearningActivity">
+        <assessmentname>IT17_R1722_Custom Assignment_18</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT17_R1722_18</questionset>
+        <questiontext>Test Question for IT17_R1722_18</questiontext>
+        <role>ROLE_SUBJECT_MATTER_EXPERT</role>
+        <needNotToBePubished>true</needNotToBePubished>
+        <overrideDefaultLogin>true</overrideDefaultLogin>
+        <status>needNotToBePubished</status>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1722.DefaultViewOnSummaryPage" index="33" method="showNewQuestionForCreatedUser">
+        <assessmentname>IT17_R1722_Custom Assignment_33</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT17_R1722_33</questionset>
+        <questiontext>Test Question for IT17_R1722_33</questiontext>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1722.DefaultViewOnSummaryPage" index="38" method="showNewQuestionForCreatedUser">
+        <assessmentname>IT17_R1722_Custom Assignment_38</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT17_R1722_38</questionset>
+        <questiontext>Test Question for IT17_R1722_38</questiontext>
+        <role>ROLE_PRODUCT_DESIGNER</role>
+        <overrideDefaultLogin>true</overrideDefaultLogin>
+    </testcase>
+</learningspaces>

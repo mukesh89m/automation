@@ -1,0 +1,17 @@
+{
+  "tests" : [ {
+    "name" : "demo.spec",
+    "startedAt" : 1475647417722,
+    "endedAt" : 1475647437361,
+    "failed" : true,
+    "statistic" : {
+      "passed" : 19,
+      "errors" : 1,
+      "warnings" : 0,
+      "total" : 20
+    },
+    "testId" : "1-demo.spec",
+    "duration" : 19639,
+    "failed" : true
+  } ]
+}

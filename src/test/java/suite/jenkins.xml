@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests"  configfailurepolicy="continue">
+    <test name="test">
+        <classes>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.jenkins.prac.ClassA"/>
+        </classes>
+
+    </test> <!-- Test -->
+</suite> <!-- Suite -->

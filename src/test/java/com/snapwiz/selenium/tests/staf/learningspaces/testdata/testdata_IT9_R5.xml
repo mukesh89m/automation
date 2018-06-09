@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R5.VerifyEtextAndHelpPage" index="531" method="verifyEtextAndHelpPage">
+	<user_id >student_IT9_R5_531</user_id >
+	<Role>student</Role>		
+</testcase>	
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R5.VerifyEtextAndHelpPage" index="534" method="verifyHelpPageAfterLogoutLogin">
+		<user_id>students_IT9_R5_534</user_id >
+		<Role>student</Role>
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R5.EachChapterOfTOCHaveThumbnail" index="555">
+	<user_id >students_IT9_R5_555</user_id>
+	<Role>student</Role>
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R5.BackgroundColorChangeWhenHoverChapter" index="560">
+		<user_id >students_IT9_R5_560</user_id>
+		<Role>student</Role>		
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R5.ClickOnchapterItsExpand" index="562">
+		<user_id >students_IT9_R5_562</user_id>
+		<Role>student</Role>		
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R5.NevigatePreviousAndNextElementFomLessonPage" index="911">
+	<user_id >students_IT9_R5_911</user_id >
+	<Role>student</Role>
+</testcase>
+	
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R5.NevigatePreviousAndNextElementFomLessonPage" index="916">
+	<user_id >students_IT9_R5_916</user_id >
+	<Role>student</Role>
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R5.RightSideFrameAssignmentResourcesStream" index="924">
+	<user_id >students_IT9_R5_924</user_id >
+	<Role>student</Role>
+	<familyname>924second</familyname>
+	<givenname>924first</givenname>
+	<defaultstreamtabtext>No Posts Available</defaultstreamtabtext>
+	<assessmentname>Assessment1</assessmentname>
+	<questionset>Question Set 1</questionset>
+	<questiontext>Test Question 1</questiontext>
+	<questiontype>Static Practice</questiontype>
+	<resoursename>Resourse2</resoursename>
+	<type>image</type>
+	<description>Description Text</description>
+	<instructoronlyflag>false</instructoronlyflag>
+	<filename>img.png</filename>
+</testcase>
+	
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R5.RightSideFrameAssignmentResourcesStream" index="925">
+	<user_id >instructor_IT9_R5_925</user_id >
+	<Role>instructor</Role>
+	<assessmentname>Assessment1</assessmentname>
+	<shareWithInitialString>924first</shareWithInitialString>
+	<shareName>924first 924second</shareName>
+	<shareWithClass>false</shareWithClass>
+	<gradeable>true</gradeable>
+	<gradingpolicy>Grading policy text</gradingpolicy>
+	<duedate>28</duedate>
+	<duetime>12:00 AM</duetime>
+	<additionalnote>This is an additional note</additionalnote>
+</testcase>
+	
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R5.SocialAnnotationsOnLessonContent" index="935">		
+		<user_id >stud9356</user_id>
+		<Role>student</Role>		
+		<context_id>stud9356context</context_id>
+		<context_title>stud9356title</context_title>
+		<paragraphid>widget-content-widget-13585-2</paragraphid>		
+		<yellow>#fcf2b1</yellow><blue>#87CEFA</blue><green>#b6d68c</green><orange>#ffbf97</orange>	
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R5.SocialAnnotationsOnLessonContent" index="938">		
+		<user_id >stud938</user_id>
+		<Role>student</Role>		
+		<context_id>stud938context</context_id>
+		<context_title>stud938title</context_title>
+		<paragraphid>widget-content-widget-13585-2</paragraphid>
+		<yellow>#fcf2b1</yellow>	
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R5.SocialAnnotationsOnLessonContent" index="939">		
+		<user_id >stud9391</user_id>
+		<Role>student</Role>		
+		<context_id>stud9391context</context_id>
+		<context_title>stud9391title</context_title>
+		<paragraphid>widget-content-widget-13585-2</paragraphid>
+		<blue>#87CEFA</blue>	
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R5.SocialAnnotationsOnLessonContent" index="940">		
+		<user_id >stud940</user_id>
+		<Role>student</Role>		
+		<context_id>stud940context</context_id>
+		<context_title>stud940title</context_title>
+		<paragraphid>widget-content-widget-13585-2</paragraphid>
+		<green>#b6d68c</green>
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R5.SocialAnnotationsOnLessonContent" index="941">		
+		<user_id >stud941</user_id>
+		<Role>student</Role>		
+		<context_id>stud941context</context_id>
+		<context_title>stud941title</context_title>
+		<paragraphid>widget-content-widget-13585-2</paragraphid>
+		<orange>#ffbf97</orange>
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R5.SocialAnnotationsOnLessonContent" index="942">		
+		<user_id >stud942</user_id>
+		<Role>student</Role>		
+		<context_id>stud942context</context_id>
+		<context_title>stud942title</context_title>
+		<paragraphid>widget-content-widget-13585-2</paragraphid>
+		<orange>#ffbf97</orange>
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R5.SocialAnnotationsOnLessonContent" index="944">		
+		<user_id >stud944</user_id>
+		<Role>student</Role>		
+		<context_id>stud944context</context_id>
+		<context_title>stud944title</context_title>
+		<paragraphid>widget-content-widget-13585-2</paragraphid>
+		<orange>#ffbf97</orange>
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R5.AddNoteSelectingText" index="962">
+		<user_id >stud962</user_id>
+		<Role>student</Role>		
+		<context_id>stud962context</context_id>
+		<context_title>stud962title</context_title>
+		<paragraphid>widget-content-widget-13585-2</paragraphid>
+		<blue>#87CEFA</blue>			
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R5.AddNoteSelectingText" index="963">
+		<user_id >stud963</user_id>
+		<Role>student</Role>		
+		<context_id>stud963context</context_id>
+		<context_title>stud963title</context_title>
+		<paragraphid>widget-content-widget-13613-2</paragraphid>
+		<green>#b6d68c</green>	
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R5.AddNoteSelectingText" index="949">		
+		<user_id >stud949</user_id>
+		<Role>student</Role>		
+		<context_id>stud949context</context_id>
+		<context_title>stud949title</context_title>
+		<paragraphid>widget-content-widget-13585-2</paragraphid>
+		<orange>#ffbf97</orange>	
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R5.AddNoteSelectingText" index="965">		
+		<user_id >stud965911</user_id>
+		<Role>student</Role>		
+		<context_id>stud965911context</context_id>
+		<context_title>stud965911title</context_title>
+		<paragraphid>widget-content-widget-13585-2</paragraphid>
+		<green>#b6d68c</green>
+		<postedtext>posted a note</postedtext>
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R5.AddNoteSelectingText" index="969">		
+		<user_id >stud96591</user_id>
+		<Role>student</Role>		
+		<context_id>stud96591context</context_id>
+		<context_title>stud96591title</context_title>
+		<paragraphid>widget-content-widget-13613-3</paragraphid>
+		<green>#b6d68c</green>
+		<postedtext>givenname family</postedtext>
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R5.AddNoteSelectingText" index="1021">
+		<user_id >stud10210</user_id>
+		<Role>student</Role>		
+		<context_id>stud10210context</context_id>
+		<context_title>stud10210title</context_title>
+		<paragraphid>widget-content-widget-13613-5</paragraphid>
+		<green>#b6d68c</green>		
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R5.AddDiscussionSelectingText" index="972">		
+		<user_id >stud97210</user_id>
+		<Role>student</Role>		
+		<context_id>stud97210context</context_id>
+		<context_title>stud97210title</context_title>
+		<topicname>1.1: Overview</topicname>
+		<paragraphid>widget-content-widget-13585-2</paragraphid>
+		<blue>#87CEFA</blue>
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R5.AddDiscussionSelectingText" index="985">		
+		<user_id >stud98504</user_id>
+		<Role>student</Role>		
+		<context_id>stud98504context</context_id>
+		<context_title>stud98504title</context_title>
+		<topicname>1.1: Overview</topicname>
+		<paragraphid>widget-content-widget-13585-2</paragraphid>
+		<blue>#87CEFA</blue>
+		<postedtext>givenname family</postedtext>
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R5.AddDiscussionSelectingText" index="9851">		
+		<user_id >stud985105</user_id>
+		<Role>student</Role>		
+		<context_id>stud98504context</context_id>
+		<context_title>stud98504title</context_title>
+		<topicname>1.1: Overview</topicname>
+		<paragraphid>widget-content-widget-13585-2</paragraphid>
+		<blue>#87CEFA</blue>
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R5.AddDiscussionSelectingText" index="990">		
+		<user_id >stud990</user_id>
+		<Role>student</Role>		
+		<context_id>stud990context</context_id>
+		<context_title>stud990title</context_title>
+		<topicname>1.1: Overview</topicname>
+		<paragraphid>widget-content-widget-13585-2</paragraphid>
+		<blue>#87CEFA</blue>
+		<postedtext>posted a discussion</postedtext>
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R5.AddDiscussionUsingNewButton" index="996">		
+		<user_id >stud996</user_id>
+		<Role>student</Role>		
+		<context_id>stud996context</context_id>
+		<context_title>stud996title</context_title>
+		<topicname>1.1: Overview</topicname>		
+		<postedtext>posted a discussion</postedtext>
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R5.AddDiscussionUsingNewButton" index="998">		
+		<user_id >stud998</user_id>
+		<Role>student</Role>		
+		<context_id>stud998context</context_id>
+		<context_title>stud998title</context_title>
+		<topicname>1.1: Overview</topicname>		
+		<postedtext>posted a discussion</postedtext>	
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R5.AddDiscussionUsingNewButton" index="1001">		
+		<user_id >stud1001</user_id>
+		<Role>student</Role>		
+		<context_id>stud1001context</context_id>
+		<context_title>stud1001title</context_title>
+		<topicname>1.1: Overview</topicname>		
+		<postedtext>posted a discussion</postedtext>
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R5.AddDiscussionUsingNewButton" index="1005">		
+		<user_id>stud1005</user_id>
+		<Role>student</Role>		
+		<context_id>stud1005context</context_id>
+		<context_title>stud1005title</context_title>
+		<topicname>1.1: Overview</topicname>		
+		<postedtext>posted a discussion</postedtext>
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R5.AddDiscussionUsingNewButton" index="1008">		
+		<user_id>stud10081</user_id>
+		<Role>student</Role>		
+		<context_id>stud10081context</context_id>
+		<context_title>stud10081title</context_title>
+		<topicname>1.1: Overview</topicname>		
+		<postedtext>posted a discussion</postedtext>	
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R5.AddDiscussionUsingNewButton" index="1031">		
+		<user_id>stud1031</user_id>
+		<Role>student</Role>		
+		<context_id>stud1031context</context_id>
+		<context_title>stud1031title</context_title>
+		<topicname>1.1: Overview</topicname>		
+		<postedtext>posted a discussion</postedtext>
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R5.AddDiscussionUsingNewButton" index="1034">		
+		<user_id>stud10343</user_id>
+		<Role>student</Role>		
+		<context_id>stud10343context</context_id>
+		<context_title>stud10343title</context_title>
+		<topicname>1.1: Overview</topicname>		
+		<postedtext>posted a note</postedtext>	
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT9.R5.AddDiscussionSelectingText" index="1013">		
+		<user_id >stud1013</user_id>
+		<Role>student</Role>		
+		<context_id>stud1013context</context_id>
+		<context_title>stud1013title</context_title>
+		<topicname>1.1: Overview</topicname>
+		<paragraphid>widget-content-widget-13585-2</paragraphid>
+		<blue>#87CEFA</blue>
+		<postedtext>posted a discussion</postedtext>
+</testcase>
+
+
+
+
+</learningspaces>

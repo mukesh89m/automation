@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orion>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT22.R2215.IntegrationChangesForOrionProduct" index="23" method="">
+        <user_id>IT22_R2215_Instructor_23</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_It22_R2215_23</context_id>
+        <context_title>studtitle_It22_R2215_23</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT22.R2215.IntegrationChangesForOrionProduct" index="23_1" method="">
+        <user_id>IT22_R2215_Instructor_23</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_It22_R2215_23</context_id>
+        <context_title>studtitle_It22_R2215_23</context_title>
+        <custom_instructor_classlist>[{"classid":"cls123","title":"Biology's 101","classcode":"BIO-101","state":"Active"}]</custom_instructor_classlist>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT22.R2215.IntegrationChangesForOrionProduct" index="35" method="">
+        <user_id>IT22_R2215_Instructor_353</user_id>
+        <Role>instructor</Role>
+        <context_id>cls123</context_id>
+        <context_title>Biology's 101</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT22.R2215.IntegrationChangesForOrionProduct" index="35_1" method="">
+        <user_id>IT22_R2215_Instructor_353</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_It22_R2215_353</context_id>
+        <context_title>studtitle_It22_R2215_353</context_title>
+        <custom_instructor_classlist>[{"classid":"cls123","title":"Biology's 101","classcode":"BIO-101","state":"Inactive"}]</custom_instructor_classlist>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT22.R2215.IntegrationChangesForOrionProduct" index="35_2" method="">
+        <user_id>IT22_R2215_student_353</user_id>
+        <Role>student</Role>
+        <context_id>cls123</context_id>
+        <context_title>Biology's 101</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT22.R2215.IntegrationChangesForOrionProduct" index="44" method="">
+        <user_id>IT22_R2215_Instructor_44</user_id>
+        <Role>instructor</Role>
+        <context_id>cls123</context_id>
+        <context_title>Biology's 101</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT22.R2215.IntegrationChangesForOrionProduct" index="44_1" method="">
+        <user_id>IT22_R2215_Instructor_44</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_It22_R2215_44</context_id>
+        <context_title>studtitle_It22_R2215_44</context_title>
+        <custom_instructor_classlist>[{"classid":"cls123","title":"Biology's 101","classcode":"BIO-101","state":"Finished"}]</custom_instructor_classlist>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT22.R2215.IntegrationChangesForOrionProduct" index="44_2" method="">
+        <user_id>IT22_R2215_student_44</user_id>
+        <Role>student</Role>
+        <context_id>cls123</context_id>
+        <context_title>Biology's 101</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT22.R2215.IntegrationChangesForOrionProduct" index="52" method="">
+        <user_id>IT22_R2215_Instructor_52</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_It22_R2215_52</context_id>
+        <context_title>studtitle_It22_R2215_52</context_title>
+        <custom_instructor_classlist>[{"classid":"cls123","title":"Biology's 101","classcode":"BIO-101","state":"Active"}]</custom_instructor_classlist>
+        <custom_class_state> </custom_class_state>
+    </testcase>
+
+
+</orion>

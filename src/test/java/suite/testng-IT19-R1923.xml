@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+    <test name="IT19-R1923_test">
+        <classes>
+            <!-- IT19 R19.23  "As a publisher , I should be able to support a more usable writeboard solution for questions" -->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.StudentShouldBeAbleToViewAndUseTheEnhancementWorkboardSolution"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.StudentShouldBeAbleToViewTheFeedbackGivenByInstructor"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.InstructorShouldBeAbleToViewEnhancementWorkBoard"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1923.AuthorShouldBeAbleToViewAndUseTheEnhancementWorkBoardOverlay"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->

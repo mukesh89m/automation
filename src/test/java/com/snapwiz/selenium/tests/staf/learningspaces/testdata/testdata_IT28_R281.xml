@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT28.R281.AssignToStudent" index="1" method="">
+        <user_id>instructor_R281_AssignToStudent_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_enhancedAssignmentResponsePage_1</context_id>
+        <context_title>studtitle_enhancedAssignmentResponsePage_1</context_title>
+        <assessmentname>enhancedAssignmentResponsePage_1</assessmentname>
+        <shareWithInitialString>studtitle_enhancedAssignmentResponsePage_1</shareWithInitialString>
+        <shareName>studtitle_enhancedAssignmentResponsePage_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>3</duetime>
+        <defaultDuetime>true</defaultDuetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+</learningspaces>

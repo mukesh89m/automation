@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="IT_15_R15.11-LSRegressionSuite">
+    <classes>         	
+    	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1511.StudentAbleToViewMyFavoutiteEleMentOneTextbook"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1511.EntryForBookmarkingWidgetUnderFavTab"/>
+    	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1511.DiscssionStartedByAnotherStudent"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1511.BookmarkedResourcesShownUnderStarTab"/>
+    	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1511.DiscussionAddFromPerformancePageAppearUnderStarTab"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1511.DiscussionAndNotesAddForStaticAssessment"/>
+    	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1511.BookmarkedLessonDiscussionNotesNotShownToSecondStudent"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT15.R1511.BookmarkedResourcesAndValidateShownByOtherStudentUnderStarTab"/>
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->

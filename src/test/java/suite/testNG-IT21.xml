@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false" preserve-order="true" configfailurepolicy="continue">
+    <test name="IT 21 Jenkins Suite">
+        <classes>
+
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R214.StudentDashboardParticipationTile"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R215.InstructorAbleToLunchEditCustomAssessment"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R215.InstructorAbleToSearchAndAddMoreQuestions"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R215.InstructorDeleteQuestionsFromAlreadySavedCustomAssessment"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.WriteBoardEnhancement"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.ViewYourWorkButtonDisable"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT21.R217.InstructorGivenWorkboardFeedbackForStaticAssessment"/>
+
+
+        </classes>
+
+    </test> <!-- Test -->
+</suite> <!-- Suite -->

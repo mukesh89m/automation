@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edulastic>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.sanity.profilepage.InstructorAndStudentProfilePage" index ="17" method="">
+        <assessmentname>Sanity_profilePageVerification_Assignment_17</assessmentname>
+        <questiontext>question text_profilePageVerification_question_17</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Private</privacy>
+    </testcase>
+
+
+
+</edulastic>

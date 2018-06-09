@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1916.ImmediateFeedEnabledWithGradeReleaseOptionOne" index="20" method="immediateFeedEnabledWithGradeReleaseOptionOne">
+        <user_id>IT19_R1916Instructor_20</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R1916_20</context_id>
+        <context_title>studtitle_R1916_20</context_title>
+        <assignmentpolicyname>20 Policy Name</assignmentpolicyname>
+        <assessmentname>Assignment_IT19_R1916_20</assessmentname>
+        <questionset>20questionset</questionset>
+        <questiontext>20 question text</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_R1916_20</shareWithInitialString>
+        <shareName>studtitle_R1916_20</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>20 Policy Name</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1916.ImmediateFeedEnabledWithGradeReleaseOptionOne" index="20_1" method="immediateFeedEnabledWithGradeReleaseOptionOne">
+        <user_id>IT19_R1916student_20_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R1916_20</context_id>
+        <context_title>studtitle_R1916_20</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1916.ImmediateFeedEnabledWithGradeReleaseOptionOne" index="32" method="immediateFeedEnabledWithGradeReleaseOptionOneUnlimitedShowAnswer">
+        <user_id>IT19_R1916Instructor_32</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R1916_32</context_id>
+        <context_title>studtitle_R1916_32</context_title>
+        <assignmentpolicyname>32 Policy Name</assignmentpolicyname>
+        <assessmentname>Assignment_IT19_R1916_32</assessmentname>
+        <questionset>32questionset</questionset>
+        <questiontext>32 question text</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_R1916_32</shareWithInitialString>
+        <shareName>studtitle_R1916_32</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>32 Policy Name</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1916.ImmediateFeedEnabledWithGradeReleaseOptionOne" index="32_1" method="immediateFeedEnabledWithGradeReleaseOptionOneUnlimitedShowAnswer">
+        <user_id>IT19_R1916student_32_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R1916_32</context_id>
+        <context_title>studtitle_R1916_32</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1916.ImmediateFeedEnabledWithGradeReleaseOptionTwo" index="36" method="immediateFeedEnabledWithGradeReleaseOptionTwo">
+        <user_id>IT19_R1916Instructor_36_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R1916_36_1</context_id>
+        <context_title>studtitle_R1916_36_1</context_title>
+        <assignmentpolicyname>36 Policy Name</assignmentpolicyname>
+        <assessmentname>Assignment_IT19_R1916_36</assessmentname>
+        <questionset>36questionset</questionset>
+        <questiontext>36 question text</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_R1916_36_1</shareWithInitialString>
+        <shareName>studtitle_R1916_36_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>36 Policy Name</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1916.ImmediateFeedEnabledWithGradeReleaseOptionTwo" index="36_1" method="immediateFeedEnabledWithGradeReleaseOptionTwo">
+        <user_id>IT19_R1916student_36_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R1916_36_1</context_id>
+        <context_title>studtitle_R1916_36_1</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1916.ImmediateFeedEnabledWithGradeReleaseOptionTwo" index="48" method="immediateFeedEnabledWithGradeReleaseOptionTwoUnlimitedShowAnswer">
+        <user_id>IT19_R1916Instructor_48</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R1916_48</context_id>
+        <context_title>studtitle_R1916_48</context_title>
+        <assignmentpolicyname>48 Policy Name</assignmentpolicyname>
+        <assessmentname>Assignment_IT19_R1916_48</assessmentname>
+        <questionset>48questionset</questionset>
+        <questiontext>48 question text</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_R1916_48</shareWithInitialString>
+        <shareName>studtitle_R1916_48</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>48 Policy Name</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1916.ImmediateFeedEnabledWithGradeReleaseOptionTwo" index="48_1" method="immediateFeedEnabledWithGradeReleaseOptionTwoUnlimitedShowAnswer">
+        <user_id>IT19_R1916student_48_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R1916_48</context_id>
+        <context_title>studtitle_R1916_48</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1916.ImmediateFeedEnabledWithGradeReleaseOptionThree" index="52" method="immediateFeedEnabledWithGradeReleaseOptionThree">
+        <user_id>IT19_R1916Instructor_52</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R1916_52</context_id>
+        <context_title>studtitle_R1916_52</context_title>
+        <assignmentpolicyname>52 Policy Name</assignmentpolicyname>
+        <assessmentname>Assignment_IT19_R1916_52</assessmentname>
+        <questionset>52questionset</questionset>
+        <questiontext>52 question text</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_R1916_52</shareWithInitialString>
+        <shareName>studtitle_R1916_52</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>52 Policy Name</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1916.ImmediateFeedEnabledWithGradeReleaseOptionThree" index="52_1" method="immediateFeedEnabledWithGradeReleaseOptionThree">
+        <user_id>IT19_R1916student_52_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R1916_52</context_id>
+        <context_title>studtitle_R1916_52</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1916.ImmediateFeedEnabledWithGradeReleaseOptionThree" index="64" method="immediateFeedEnabledWithGradeReleaseOptionThreeUnlimitedShowAnswer">
+        <user_id>IT19_R1916Instructor_64</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R1916_64</context_id>
+        <context_title>studtitle_R1916_64</context_title>
+        <assignmentpolicyname>64 Policy Name</assignmentpolicyname>
+        <assessmentname>Assignment_IT19_R1916_64</assessmentname>
+        <questionset>64questionset</questionset>
+        <questiontext>64 question text</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_R1916_64</shareWithInitialString>
+        <shareName>studtitle_R1916_64</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>64 Policy Name</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>64 Policy Name</assignmentpolicyname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1916.ImmediateFeedEnabledWithGradeReleaseOptionThree" index="64_1" method="immediateFeedEnabledWithGradeReleaseOptionThreeUnlimitedShowAnswer">
+        <user_id>IT19_R1916student_64_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R1916_64</context_id>
+        <context_title>studtitle_R1916_64</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1916.ImmediateFeedEnabledWithGradeReleaseOptionFour" index="68" method="immediateFeedEnabledWithGradeReleaseOptionFour">
+        <user_id>IT19_R1916Instructor_68</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R1916_68</context_id>
+        <context_title>studtitle_R1916_68</context_title>
+        <assignmentpolicyname>68 Policy Name</assignmentpolicyname>
+        <assessmentname>Assignment_IT19_R1916_68</assessmentname>
+        <questionset>68questionset</questionset>
+        <questiontext>68 question text</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_R1916_68</shareWithInitialString>
+        <shareName>studtitle_R1916_68</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>68 Policy Name</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1916.ImmediateFeedEnabledWithGradeReleaseOptionFour" index="68_1" method="immediateFeedEnabledWithGradeReleaseOptionFour">
+        <user_id>IT19_R1916student_68_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R1916_68</context_id>
+        <context_title>studtitle_R1916_68</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1916.ImmediateFeedEnabledWithGradeReleaseOptionFour" index="80" method="immediateFeedEnabledWithGradeReleaseOptionFourUnlimitedShowAnswer">
+        <user_id>IT19_R1916Instructor_80</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R1916_80</context_id>
+        <context_title>studtitle_R1916_80</context_title>
+        <assignmentpolicyname>80 Policy Name</assignmentpolicyname>
+        <assessmentname>Assignment_IT19_R1916_80</assessmentname>
+        <questionset>80questionset</questionset>
+        <questiontext>80 question text</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_R1916_80</shareWithInitialString>
+        <shareName>studtitle_R1916_80</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>80 Policy Name</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1916.ImmediateFeedEnabledWithGradeReleaseOptionFour" index="80_1" method="immediateFeedEnabledWithGradeReleaseOptionFourUnlimitedShowAnswer">
+        <user_id>IT19_R1916student_80_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R1916_80</context_id>
+        <context_title>studtitle_R1916_80</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1916.ImmediateFeedShowAnswerEnabledWithGradeReleaseOptionOne" index="84" method="immediateFeedShowAnswerEnabledWithGradeReleaseOptionOne">
+        <user_id>IT19_R1916Instructor_84</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R1916_84</context_id>
+        <context_title>studtitle_R1916_84</context_title>
+        <assessmentname>Assignment_IT19_R1916_84_1</assessmentname>
+        <questionset>84questionset</questionset>
+        <questiontext>84 question text</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_R1916_84</shareWithInitialString>
+        <shareName>studtitle_R1916_84</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>84_2 Policy Name</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>84_2 Policy Name</assignmentpolicyname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1916.ImmediateFeedShowAnswerEnabledWithGradeReleaseOptionOne" index="84_1" method="immediateFeedShowAnswerEnabledWithGradeReleaseOptionOne">
+        <user_id>IT19_R1916student_84_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R1916_84</context_id>
+        <context_title>studtitle_R1916_84</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1916.ImmediateFeedShowAnswerEnabledWithGradeReleaseOptionOne" index="106" method="immediateFeedShowAnswerEnabledWithGradeReleaseOptionOneUnlimitedShowAnswer">
+        <user_id>IT19_R1916Instructor_106</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R1916_106</context_id>
+        <context_title>studtitle_R1916_106</context_title>
+        <assessmentname>Assignment_IT19_R1916_106</assessmentname>
+        <questionset>106questionset</questionset>
+        <questiontext>106 question text</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_R1916_106</shareWithInitialString>
+        <shareName>studtitle_R1916_106</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>106 Policy Name</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>106 Policy Name</assignmentpolicyname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1916.ImmediateFeedShowAnswerEnabledWithGradeReleaseOptionOne" index="106_1" method="immediateFeedShowAnswerEnabledWithGradeReleaseOptionOneUnlimitedShowAnswer">
+        <user_id>IT19_R1916student_106_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R1916_106</context_id>
+        <context_title>studtitle_R1916_106</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1916.ImmediateFeedShowAnswerEnabledWithGradeReleaseOptionTwo" index="110" method="immediateFeedShowAnswerEnabledWithGradeReleaseOptionTwo">
+        <user_id>IT19_R1916Instructor_110</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R1916_110</context_id>
+        <context_title>studtitle_R1916_110</context_title>
+        <assessmentname>Assignment_IT19_R1916_110_1</assessmentname>
+        <questionset>110questionset</questionset>
+        <questiontext>110 question text</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_R1916_110</shareWithInitialString>
+        <shareName>studtitle_R1916_110</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>110_2 Policy Name</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>110_2 Policy Name</assignmentpolicyname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1916.ImmediateFeedShowAnswerEnabledWithGradeReleaseOptionTwo" index="110_1" method="immediateFeedShowAnswerEnabledWithGradeReleaseOptionTwo">
+        <user_id>IT19_R1916student_110_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R1916_110</context_id>
+        <context_title>studtitle_R1916_110</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1916.ImmediateFeedShowAnswerEnabledWithGradeReleaseOptionTwo" index="132" method="immediateFeedShowAnswerEnabledWithGradeReleaseOptionTwoUnlimitedShowAnswer">
+        <user_id>IT19_R1916Instructor_132</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R1916_132</context_id>
+        <context_title>studtitle_R1916_132</context_title>
+        <assessmentname>Assignment_IT19_R1916_132</assessmentname>
+        <questionset>132questionset</questionset>
+        <questiontext>132 question text</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_R1916_132</shareWithInitialString>
+        <shareName>studtitle_R1916_132</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>132 Policy Name</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>132 Policy Name</assignmentpolicyname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1916.ImmediateFeedShowAnswerEnabledWithGradeReleaseOptionTwo" index="132_1" method="immediateFeedShowAnswerEnabledWithGradeReleaseOptionTwoUnlimitedShowAnswer">
+        <user_id>IT19_R1916student_132_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R1916_132</context_id>
+        <context_title>studtitle_R1916_132</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1916.ImmediateFeedShowAnswerEnabledWithGradeReleaseOptionThree" index="136" method="ImmediateFeedShowAnswerEnabledWithGradeReleaseOptionThree">
+        <user_id>IT19_R1916Instructor_136</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R1916_136</context_id>
+        <context_title>studtitle_R1916_136</context_title>
+        <assessmentname>Assignment_IT19_R1916_136_1</assessmentname>
+        <questionset>136questionset</questionset>
+        <questiontext>136 question text</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_R1916_136</shareWithInitialString>
+        <shareName>studtitle_R1916_136</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>136_2 Policy Name</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>136_2 Policy Name</assignmentpolicyname>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1916.ImmediateFeedShowAnswerEnabledWithGradeReleaseOptionThree" index="136_1" method="ImmediateFeedShowAnswerEnabledWithGradeReleaseOptionThree">
+        <user_id>IT19_R1916student_136_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R1916_136</context_id>
+        <context_title>studtitle_R1916_136</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1916.ImmediateFeedShowAnswerEnabledWithGradeReleaseOptionThree" index="158" method="ImmediateFeedShowAnswerEnabledWithGradeReleaseOptionThreeUnlimitedShowAnswer">
+        <user_id>IT19_R1916Instructor_158</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R1916_158</context_id>
+        <context_title>studtitle_R1916_158</context_title>
+        <assessmentname>Assignment_IT19_R1916_158</assessmentname>
+        <questionset>158questionset</questionset>
+        <questiontext>158 question text</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_R1916_158</shareWithInitialString>
+        <shareName>studtitle_R1916_158</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>158 Policy Name</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>158 Policy Name</assignmentpolicyname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1916.ImmediateFeedShowAnswerEnabledWithGradeReleaseOptionThree" index="158_1" method="ImmediateFeedShowAnswerEnabledWithGradeReleaseOptionThreeUnlimitedShowAnswer">
+        <user_id>IT19_R1916student_158_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R1916_158</context_id>
+        <context_title>studtitle_R1916_158</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1916.ImmediateFeedShowAnswerEnabledWithGradeReleaseOptionFour" index="162" method="immediateFeedShowAnswerEnabledWithGradeReleaseOptionFour">
+        <user_id>IT19_R1916Instructor_162</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R1916_162</context_id>
+        <context_title>studtitle_R1916_162</context_title>
+        <assessmentname>Assignment_IT19_R1916_162_1</assessmentname>
+        <questionset>162questionset</questionset>
+        <questiontext>162 question text</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_R1916_162</shareWithInitialString>
+        <shareName>studtitle_R1916_162</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>162_2 Policy Name</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>162_2 Policy Name</assignmentpolicyname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1916.ImmediateFeedShowAnswerEnabledWithGradeReleaseOptionFour" index="162_1" method="immediateFeedShowAnswerEnabledWithGradeReleaseOptionFour">
+        <user_id>IT19_R1916student_162_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R1916_162</context_id>
+        <context_title>studtitle_R1916_162</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1916.ImmediateFeedShowAnswerEnabledWithGradeReleaseOptionFour" index="184" method="immediateFeedShowAnswerEnabledWithGradeReleaseOptionFourUnlimitedShowAnswer">
+        <user_id>IT19_R1916Instructor_184</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R1916_184</context_id>
+        <context_title>studtitle_R1916_184</context_title>
+        <assessmentname>Assignment_IT19_R1916_184</assessmentname>
+        <questionset>184questionset</questionset>
+        <questiontext>184 question text</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_R1916_184</shareWithInitialString>
+        <shareName>studtitle_R1916_184</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>184 Policy Name</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>184 Policy Name</assignmentpolicyname>
+
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1916.ImmediateFeedShowAnswerEnabledWithGradeReleaseOptionFour" index="184_1" method="immediateFeedShowAnswerEnabledWithGradeReleaseOptionFourUnlimitedShowAnswer">
+        <user_id>IT19_R1916student_184_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R1916_184</context_id>
+        <context_title>studtitle_R1916_184</context_title>
+    </testcase>
+</learningspaces>

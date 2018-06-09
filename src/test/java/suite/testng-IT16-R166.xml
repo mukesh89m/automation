@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="IT_16_R16.6-LSRegressionSuite">
+    <classes>         	
+    	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.CreatingAndEditingAssignmentPolicy"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.CreatePolicyAndAttemptAsStudent"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.CreatingAssignmentPolicyFromAssignThisPopup"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.SubmitAssignmentWithCollaborationEnabled"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.SubmitAssignmentWithCollaborationAndImmediateFeedbackEnabled"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.SubmitAssignmentWithCollaborationDisabled"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.SubmitAssignmentWithCollaborationEnabledWithStudentToStudentSocialPolicy"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.SubmitAssignmentWithCollaborationEnabledWithStudentToInstructorSocialPolicy"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.CreatingAndEditingAssignmentPolicyAsMentor"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.MentorCreatePolicyAndAttemptAsStudent"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.MentorCreatingAssignmentPolicyFromAssignThisPopup"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.MentorEnableTheCollaborationField"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.MentorEnablesCollaborationAndImmediateFeedback"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.MentorDisablesAllowCollaborationAndImmediateFeedback"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.MentorAllowsCollaborationEnabledWithStudentToStudentSocialPolicy"/>
+        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT16.R166.MentorAllowsCollaborationEnabledWithStudentToInstructorSocialPolicy"/>
+
+
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="IT_14_R1413-LSRegressionSuite">
+    <classes>         	
+    	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1413.FinishPracticeTestAndAddDiscussion"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1413.FinishStaticTestAndAddDiscussion"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1413.PostCommentForWidget"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1413.PostDiscussionInCourseStreamPage"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1413.PostDiscussionInQuestionReviewPageOfAssignments"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1413.PostDiscussionsInLessonPage"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1413.PostLinkInCourseStreamPage"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1413.SelectOptionTwoFromSettingsPage"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1413.SocialCollabrationSettingsForInstructor"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R1413.UploadFileFromCourseStream"/>
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->

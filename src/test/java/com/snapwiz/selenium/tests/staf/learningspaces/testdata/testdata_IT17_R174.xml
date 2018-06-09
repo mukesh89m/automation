@@ -1,0 +1,181 @@
+<?xml version="1.0"?>
+<learningspaces>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R174.DisableDeleteOptionForResource_SME" index="1" method="checkSMEAbleToDeleteResource_CourseLevel">
+        <resoursename>IT17_R174_Resource Name_1</resoursename>
+        <type>image</type>
+        <description>Description for IT17_R174_1</description>
+        <instructoronlyflag>true</instructoronlyflag>
+        <filename>img.png</filename>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R174.DisableDeleteOptionForResource_SME" index="2" method="checkSMEAbleToDeleteResource_CourseLevel">
+        <resoursename>IT17_R174_Resource Name_2</resoursename>
+        <type>image</type>
+        <description>Description for IT17_R174_2</description>
+        <instructoronlyflag>true</instructoronlyflag>
+        <filename>img.png</filename>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R174.DisableDeleteOptionForResource_SME" index="3" method="checkSMEAbleToDeleteResource_ChapterLevel">
+        <resoursename>IT17_R174_Resource Name_3</resoursename>
+        <type>image</type>
+        <description>Description for IT17_R174_3</description>
+        <instructoronlyflag>false</instructoronlyflag>
+        <filename>img.png</filename>
+        <overrideDefaultLogin>true</overrideDefaultLogin>
+        <role>ROLE_SUBJECT_MATTER_EXPERT</role>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R174.DisableDeleteOptionForResource_SME" index="4" method="checkSMEAbleToDeleteResource_SectionLevel">
+        <resoursename>IT17_R174_Resource Name_4</resoursename>
+        <type>image</type>
+        <description>Description for IT17_R174_4</description>
+        <instructoronlyflag>false</instructoronlyflag>
+        <filename>img.png</filename>
+        <overrideDefaultLogin>true</overrideDefaultLogin>
+        <role>ROLE_SUBJECT_MATTER_EXPERT</role>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R174.DisableDeleteOptionForResource_SME" index="5" method="checkSMEAbleToDeleteResource_SubSectionLevel">
+        <resoursename>IT17_R174_Resource Name_5</resoursename>
+        <type>image</type>
+        <description>Description for IT17_R174_5</description>
+        <instructoronlyflag>false</instructoronlyflag>
+        <filename>img.png</filename>
+        <overrideDefaultLogin>true</overrideDefaultLogin>
+        <role>ROLE_SUBJECT_MATTER_EXPERT</role>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R174.DisableDeleteOptionForResource_SME" index="7" method="uploadResourceAsSuperAdminAndTryToDeleteAsSMEUser">
+        <resoursename>IT17_R174_Resource Name_7</resoursename>
+        <type>image</type>
+        <description>Description for IT17_R174_7</description>
+        <instructoronlyflag>false</instructoronlyflag>
+        <filename>img.png</filename>ROLE_PRODUCT_DESIGNER
+        <!--<overrideDefaultLogin>true</overrideDefaultLogin>-->
+        <!--<role>ROLE_SUBJECT_MATTER_EXPERT</role>-->
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R174.DisableDeleteOptionForResource_SME" index="8" method="uploadResourceAsPDAndTryToDeleteAsSMEUser">
+        <resoursename>IT17_R174_Resource Name_8</resoursename>
+        <type>image</type>
+        <description>Description for IT17_R174_8</description>
+        <instructoronlyflag>false</instructoronlyflag>
+        <filename>img.png</filename>
+        <overrideDefaultLogin>true</overrideDefaultLogin>
+        <role>ROLE_PRODUCT_DESIGNER</role>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R174.DisableDeleteOptionForResource_SME" index="9" method="tryToDeleteDifferentTypesOfResources_InstructorOnlyFalse">
+        <resoursename>IT17_R174_Resource Name_9</resoursename>
+        <type>image</type>
+        <description>Description for IT17_R174_9</description>
+        <instructoronlyflag>false</instructoronlyflag>
+        <filename>img.png</filename>
+        <overrideDefaultLogin>true</overrideDefaultLogin>
+        <role>ROLE_SUBJECT_MATTER_EXPERT</role>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R174.DisableDeleteOptionForResource_SME" index="12" method="tryToDeleteDifferentTypesOfResources_InstructorOnlyFalse">
+        <resoursename>IT17_R174_Resource Name_12</resoursename>
+        <type>docx</type>
+        <description>Description for IT17_R174_12</description>
+        <instructoronlyflag>false</instructoronlyflag>
+        <filename>img.docx</filename>
+        <overrideDefaultLogin>true</overrideDefaultLogin>
+        <role>ROLE_SUBJECT_MATTER_EXPERT</role>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R174.DisableDeleteOptionForResource_SME" index="13" method="tryToDeleteDifferentTypesOfResources_InstructorOnlyFalse">
+        <resoursename>IT17_R174_Resource Name_13</resoursename>
+        <type>pdf</type>
+        <description>Description for IT17_R174_13</description>
+        <instructoronlyflag>false</instructoronlyflag>
+        <filename>img.pdf</filename>
+        <overrideDefaultLogin>true</overrideDefaultLogin>
+        <role>ROLE_SUBJECT_MATTER_EXPERT</role>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R174.DisableDeleteOptionForResource_SME" index="14" method="tryToDeleteDifferentTypesOfResources_InstructorOnlyFalse">
+        <resoursename>IT17_R174_Resource Name_14</resoursename>
+        <type>xlsx</type>
+        <description>Description for IT17_R174_14</description>
+        <instructoronlyflag>false</instructoronlyflag>
+        <filename>img.xlsx</filename>
+        <overrideDefaultLogin>true</overrideDefaultLogin>
+        <role>ROLE_SUBJECT_MATTER_EXPERT</role>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R174.DisableDeleteOptionForResource_SME" index="15" method="tryToDeleteDifferentTypesOfResources_InstructorOnlyFalse">
+        <resoursename>IT17_R174_Resource Name_15</resoursename>
+        <type>pptx</type>
+        <description>Description for IT17_R174_15</description>
+        <instructoronlyflag>false</instructoronlyflag>
+        <filename>img.pptx</filename>
+        <overrideDefaultLogin>true</overrideDefaultLogin>
+        <role>ROLE_SUBJECT_MATTER_EXPERT</role>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R174.DisableDeleteOptionForResource_SME" index="16" method="tryToDeleteDifferentTypesOfResources_InstructorOnlyTrue">
+        <resoursename>IT17_R174_Resource Name_16</resoursename>
+        <type>image</type>
+        <description>Description for IT17_R174_16</description>
+        <instructoronlyflag>true</instructoronlyflag>
+        <filename>img.png</filename>
+        <overrideDefaultLogin>true</overrideDefaultLogin>
+        <role>ROLE_SUBJECT_MATTER_EXPERT</role>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R174.DisableDeleteOptionForResource_SME" index="17" method="tryToDeleteDifferentTypesOfResources_InstructorOnlyTrue">
+        <resoursename>IT17_R174_Resource Name_17</resoursename>
+        <type>docx</type>
+        <description>Description for IT17_R174_17</description>
+        <instructoronlyflag>true</instructoronlyflag>
+        <filename>img.docx</filename>
+        <overrideDefaultLogin>true</overrideDefaultLogin>
+        <role>ROLE_SUBJECT_MATTER_EXPERT</role>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R174.DisableDeleteOptionForResource_SME" index="18" method="tryToDeleteDifferentTypesOfResources_InstructorOnlyTrue">
+        <resoursename>IT17_R174_Resource Name_18</resoursename>
+        <type>pdf</type>
+        <description>Description for IT17_R174_18</description>
+        <instructoronlyflag>true</instructoronlyflag>
+        <filename>img.pdf</filename>
+        <overrideDefaultLogin>true</overrideDefaultLogin>
+        <role>ROLE_SUBJECT_MATTER_EXPERT</role>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R174.DisableDeleteOptionForResource_SME" index="19" method="tryToDeleteDifferentTypesOfResources_InstructorOnlyTrue">
+        <resoursename>IT17_R174_Resource Name_19</resoursename>
+        <type>xlsx</type>
+        <description>Description for IT17_R174_19</description>
+        <instructoronlyflag>true</instructoronlyflag>
+        <filename>img.xlsx</filename>
+        <overrideDefaultLogin>true</overrideDefaultLogin>
+        <role>ROLE_SUBJECT_MATTER_EXPERT</role>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R174.DisableDeleteOptionForResource_SME" index="20" method="tryToDeleteDifferentTypesOfResources_InstructorOnlyTrue">
+        <resoursename>IT17_R174_Resource Name_20</resoursename>
+        <type>pptx</type>
+        <description>Description for IT17_R174_20</description>
+        <instructoronlyflag>true</instructoronlyflag>
+        <filename>img.pptx</filename>
+        <overrideDefaultLogin>true</overrideDefaultLogin>
+        <role>ROLE_SUBJECT_MATTER_EXPERT</role>
+    </testcase>
+
+</learningspaces>

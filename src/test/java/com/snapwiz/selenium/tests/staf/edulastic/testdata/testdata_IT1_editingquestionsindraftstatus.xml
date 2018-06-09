@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edulastic>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.editingquestionsindraftstatus.EditingQuestionsInDraftStatus" index ="29" method="editingQuestionsInDraftStatusInstructorBeingTheOwner">
+        <assessmentname>IT1_editingquestionsindraftstatus_Assessment_29</assessmentname>
+        <questiontext>question text IT_assignmentFlow</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Private</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.editingquestionsindraftstatus.InstructorAbleToClickOnPreviewAfterSavingEditedQuestion" index ="152" method="">
+        <assessmentname>IT1_editingquestionsindraftstatus_Assessment_152_1</assessmentname>
+        <questiontext>question text IT_editingquestionsindraftstatus_152_1</questiontext>
+        <!--<shuffleAnswer>true</shuffleAnswer>-->
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.editingquestionsindraftstatus.InstructorAbleToClickOnPreviewAfterSavingEditedQuestion" index ="176" method="">
+    <assessmentname>IT1_editingquestionsindraftstatus_Assessment_176</assessmentname>
+    <questiontext>question text IT_editingquestionsindraftstatus_176</questiontext>
+    <!--<shuffleAnswer>true</shuffleAnswer>--></testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.editingquestionsindraftstatus.InstructorShouldAbleTOPreview" index ="248" method="EditingQuestionsInDraftStatusInstructorBeingTheOwner">
+        <assessmentname>IT1_editingquestionsindraftstatus_Assessment_248</assessmentname>
+        <questiontext>matchthefollowing_248</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.editingquestionsindraftstatus.InstructorShouldAbleTOPreview" index ="331" method="EditingQuestionsInDraftStatusInstructorBeingTheOwner">
+        <assessmentname>IT1_editingquestionsindraftstatus_Assessment_331</assessmentname>
+        <questiontext>clozematrixtypequestion_331</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.editingquestionsindraftstatus.InstructorShouldAbleTOPreview" index ="343" method="EditingQuestionsInDraftStatusInstructorBeingTheOwner">
+        <assessmentname>IT1_editingquestionsindraftstatus_Assessment_343</assessmentname>
+        <questiontext>clozematrixtypequestion_343</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.editingquestionsindraftstatus.InstructorShouldAbleTOPreview" index ="259" method="EditingQuestionsInDraftStatusInstructorBeingTheOwner">
+        <assessmentname>IT1_editingquestionsindraftstatus_Assessment_259</assessmentname>
+        <questiontext>draganddrop_259</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.editingquestionsindraftstatus.InstructorShouldAbleTOPreview" index ="271" method="EditingQuestionsInDraftStatusInstructorBeingTheOwner">
+        <assessmentname>IT1_editingquestionsindraftstatus_Assessment_271</assessmentname>
+        <questiontext>essaytypequestion_271</questiontext>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.editingquestionsindraftstatus.InstructorShouldAbleTOPreview" index ="283" method="EditingQuestionsInDraftStatusInstructorBeingTheOwner">
+        <assessmentname>IT1_editingquestionsindraftstatus_Assessment_283</assessmentname>
+        <questiontext>labelanimagetext_283</questiontext>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.editingquestionsindraftstatus.InstructorShouldAbleTOPreview" index ="295" method="EditingQuestionsInDraftStatusInstructorBeingTheOwner">
+        <assessmentname>IT1_editingquestionsindraftstatus_Assessment_295</assessmentname>
+        <questiontext>labelanimagedropdown_295</questiontext>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.editingquestionsindraftstatus.InstructorShouldAbleTOPreview" index ="307" method="EditingQuestionsInDraftStatusInstructorBeingTheOwner">
+        <assessmentname>IT1_editingquestionsindraftstatus_Assessment_307</assessmentname>
+        <questiontext>resequencetypequestion_307</questiontext>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.editingquestionsindraftstatus.InstructorShouldAbleTOPreview" index ="319" method="EditingQuestionsInDraftStatusInstructorBeingTheOwner">
+        <assessmentname>IT1_editingquestionsindraftstatus_Assessment_319</assessmentname>
+        <questiontext>clozematrixtypequestion_319</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.editingquestionsindraftstatus.InstructorAbleToClickOnPreviewAfterSavingEditedQuestion" index ="164" method="">
+        <assessmentname>IT1_editingquestionsindraftstatus_Assessment_164</assessmentname>
+        <questiontext>question text IT_editingquestionsindraftstatus_164</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.editingquestionsindraftstatus.InstructorAbleToClickOnPreviewAfterSavingEditedQuestion" index ="188" method="">
+        <assessmentname>IT1_editingquestionsindraftstatus_Assessment_188</assessmentname>
+        <questiontext>question text IT_editingquestionsindraftstatus_188</questiontext>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.editingquestionsindraftstatus.EditingQuestionsInDraftStatus" index ="1710" method="anAssignmentInDraftStatusThatCoversAllTypesOfQuestionsInstructorBeingTheOwnerForNumberLine">
+        <assessmentname>numberline</assessmentname>
+        <questiontext>question text IT_editingquestionsindraftstatus_1710</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.editingquestionsindraftstatus.EditingQuestionsInDraftStatus" index ="1781" method="anAssignmentInDraftStatusThatCoversAllTypesOfQuestionsInstructorBeingTheOwnerForClassification">
+        <assessmentname>Classification</assessmentname>
+        <questiontext>question text IT_editingquestionsindraftstatus_1781</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.editingquestionsindraftstatus.EditingQuestionsInDraftStatus" index ="1852" method="anAssignmentInDraftStatusThatCoversAllTypesOfQuestionsInstructorBeingTheOwnerForPassageBased">
+        <assessmentname>Passage</assessmentname>
+        <questiontext>question text IT_editingquestionsindraftstatus_1852</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.editingquestionsindraftstatus.EditingQuestionsInDraftStatus" index ="1925" method="anAssignmentInDraftStatusThatCoversAllTypesOfQuestionsInstructorBeingTheOwnerForMatchingTables">
+        <assessmentname>MatchingTables</assessmentname>
+        <questiontext>question text IT_editingquestionsindraftstatus_1925</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.editingquestionsindraftstatus.EditingQuestionsInDraftStatus" index ="85" method="editingQuestionsInDraftStatusInstructorBeingTheOwnerForUseExisting">
+        <assessmentname>MatchingTables</assessmentname>
+        <questiontext>question text IT_editingquestionsindraftstatus_85</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Private</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.editingquestionsindraftstatus.EditingQuestionsInDraftStatus" index ="159" method="anAssignmentInDraftStatusWithAClozeTypeQuestionInstructorBeingTheOwner">
+        <assessmentname>MatchingTables</assessmentname>
+        <questiontext>question text IT_editingquestionsindraftstatus_159</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.editingquestionsindraftstatus.EditingQuestionsInDraftStatus" index ="227" method="anAssignmentInDraftStatusWithAClozeTypeQuestionInstructorBeingTheOwnerForUSeExisting">
+        <assessmentname>MatchingTables</assessmentname>
+        <questiontext>question text IT_editingquestionsindraftstatus_227</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Private</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.editingquestionsindraftstatus.EditingQuestionsInDraftStatus" index ="300" method="instructorToBeAllowedToPreviewQuestionDuringEditing">
+        <assessmentname>MatchingTables</assessmentname>
+        <questiontext>question text IT_editingquestionsindraftstatus_300</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.editingquestionsindraftstatus.EditingQuestionsInDraftStatus" index ="379" method="instructorToBeAllowedToPreviewQuestionDuringEditingForUseExisting">
+        <assessmentname>MatchingTables</assessmentname>
+        <questiontext>question text IT_editingquestionsindraftstatus_379</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Private</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.editingquestionsindraftstatus.EditingQuestionsInDraftStatus" index ="454" method="anAssignmentInDraftStatusThatCoversAllTypesOfQuestionsInstructorBeingTheOwnerForTrueAndFalse">
+        <assessmentname>TrueAndFalse</assessmentname>
+        <questiontext>question text IT_editingquestionsindraftstatus_454</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.editingquestionsindraftstatus.EditingQuestionsInDraftStatus" index ="528" method="anAssignmentInDraftStatusThatCoversAllTypesOfQuestionsInstructorBeingTheOwnerForMultipleChoice">
+        <assessmentname>MultipleChoice</assessmentname>
+        <questiontext>question text IT_editingquestionsindraftstatus_528</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.editingquestionsindraftstatus.EditingQuestionsInDraftStatus" index ="604" method="anAssignmentInDraftStatusThatCoversAllTypesOfQuestionsInstructorBeingTheOwnerForMultipleSelection">
+        <assessmentname>MultipleSelection</assessmentname>
+        <questiontext>question text IT_editingquestionsindraftstatus_604</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.editingquestionsindraftstatus.EditingQuestionsInDraftStatus" index ="679" method="anAssignmentInDraftStatusThatCoversAllTypesOfQuestionsInstructorBeingTheOwnerForTextEntry">
+        <assessmentname>TextEntry</assessmentname>
+        <questiontext>question text IT_editingquestionsindraftstatus_679</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.editingquestionsindraftstatus.EditingQuestionsInDraftStatus" index ="751" method="anAssignmentInDraftStatusThatCoversAllTypesOfQuestionsInstructorBeingTheOwnerForTextDropDown">
+        <assessmentname>TextDropDown</assessmentname>
+        <questiontext>question text IT_editingquestionsindraftstatus_751</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.editingquestionsindraftstatus.EditingQuestionsInDraftStatus" index ="824" method="anAssignmentInDraftStatusThatCoversAllTypesOfQuestionsInstructorBeingTheOwnerForNumericEntryWithUnits">
+        <assessmentname>NumericEntryWithUnits</assessmentname>
+        <questiontext>question text IT_editingquestionsindraftstatus_824</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.editingquestionsindraftstatus.EditingQuestionsInDraftStatus" index ="899" method="anAssignmentInDraftStatusThatCoversAllTypesOfQuestionsInstructorBeingTheOwnerForAdvancedNumeric">
+        <assessmentname>AdvancedNumeric</assessmentname>
+        <questiontext>question text IT_editingquestionsindraftstatus_899</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.editingquestionsindraftstatus.EditingQuestionsInDraftStatus" index ="972" method="anAssignmentInDraftStatusThatCoversAllTypesOfQuestionsInstructorBeingTheOwnerForExpressionEvaluator">
+        <assessmentname>ExpressionEvaluator</assessmentname>
+        <questiontext>question text IT_editingquestionsindraftstatus_972</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.editingquestionsindraftstatus.EditingQuestionsInDraftStatus" index ="1048" method="anAssignmentInDraftStatusThatCoversAllTypesOfQuestionsInstructorBeingTheOwnerForMatchTheFollowing">
+        <assessmentname>MatchTheFollowing</assessmentname>
+        <questiontext>question text IT_editingquestionsindraftstatus_1048</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.editingquestionsindraftstatus.EditingQuestionsInDraftStatus" index ="1122" method="anAssignmentInDraftStatusThatCoversAllTypesOfQuestionsInstructorBeingTheOwnerForDragAndDrop">
+    <assessmentname>MatchingTables</assessmentname>
+    <questiontext>question text IT_editingquestionsindraftstatus_1122</questiontext>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.editingquestionsindraftstatus.EditingQuestionsInDraftStatus" index ="1196" method="anAssignmentInDraftStatusThatCoversAllTypesOfQuestionsInstructorBeingTheOwnerForEssay">
+        <assessmentname>DragAndDrop</assessmentname>
+        <questiontext>question text IT_editingquestionsindraftstatus_1196</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.editingquestionsindraftstatus.EditingQuestionsInDraftStatus" index ="1269" method="anAssignmentInDraftStatusThatCoversAllTypesOfQuestionsInstructorBeingTheOwnerForLabelAnImageText">
+        <assessmentname>LabelAnImageText</assessmentname>
+        <questiontext>question text IT_editingquestionsindraftstatus_1269</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.editingquestionsindraftstatus.EditingQuestionsInDraftStatus" index ="1342" method="">
+        <assessmentname>Assessment</assessmentname>
+        <questiontext>question text IT_editingquestionsindraftstatus_1342</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.editingquestionsindraftstatus.EditingQuestionsInDraftStatus" index ="1415" method="">
+        <assessmentname>Assessment</assessmentname>
+        <questiontext>question text IT_editingquestionsindraftstatus_1415</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.editingquestionsindraftstatus.EditingQuestionsInDraftStatus" index ="1490" method="">
+        <assessmentname>Assessment</assessmentname>
+        <questiontext>question text IT_editingquestionsindraftstatus_1490</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.editingquestionsindraftstatus.EditingQuestionsInDraftStatus" index ="1565" method="">
+        <assessmentname>Assessment</assessmentname>
+        <questiontext>question text IT_editingquestionsindraftstatus_1565</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.editingquestionsindraftstatus.EditingQuestionsInDraftStatus" index ="1638" method="">
+        <assessmentname>Assessment</assessmentname>
+        <questiontext>question text IT_editingquestionsindraftstatus_1638</questiontext>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.editingquestionsindraftstatus.EditingQuestionsInDraftStatus" index ="1997" method="anAssignmentInDraftStatusThatCoversAllTypesOfQuestionsInstructorBeingTheOwnerForSentenceResponse">
+        <assessmentname>SentenceResponse</assessmentname>
+        <questiontext>question text IT_editingquestionsindraftstatus_1997</questiontext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.editingquestionsindraftstatus.InstructorAbleToClickOnPreviewAfterSavingEditedQuestion" index ="10" method="">
+        <assessmentname>IT1_Assessment_10</assessmentname>
+        <questiontext>question text IT_10</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+        <selectgrade>Grade 2</selectgrade>
+        <owner>community</owner>
+    </testcase>
+
+
+
+</edulastic>

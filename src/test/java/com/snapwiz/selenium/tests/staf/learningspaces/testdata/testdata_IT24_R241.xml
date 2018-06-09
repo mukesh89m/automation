@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R241.copyAssignmentsFromOneClassSectionToAnotherClassSection" index="10" method="">
+        <user_id>IT124_R241Instructor_10</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R241_10_Active</context_id>
+        <context_title>studtitle_R241_10_Active</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <shareWithInitialString>studtitle_R241_10_Active</shareWithInitialString>
+        <shareName>studtitle_R241_10_Active</shareName>
+        <gradeable>true</gradeable>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assessmentname>IT241_static Assessment_10</assessmentname>
+        <questionset>Test Question IT24_R241_10</questionset>
+        <questiontext>Test Question IT24_R241_10</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithClass>true</shareWithClass>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R241.copyAssignmentsFromOneClassSectionToAnotherClassSection" index="11" method="">
+        <user_id>IT124_R241Instructor_10</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R241_11_Active</context_id>
+        <context_title>studtitle_R241_11_Active_studtitle_R241_11_Active</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <shareWithInitialString>studtitle_R241_10_Active</shareWithInitialString>
+        <shareName>studtitle_R241_10_Active</shareName>
+        <gradeable>true</gradeable>
+        <duedate>28</duedate>
+        <accessibleAfter>5</accessibleAfter>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assessmentname>IT241_static Assessment_11</assessmentname>
+        <questionset>Test Question IT24_R241_11</questionset>
+        <questiontext>Test Question IT24_R241_11</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithClass>true</shareWithClass>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R241.copyAssignmentsFromOneClassSectionToAnotherClassSection" index="12" method="">
+        <user_id>IT124_R241Instructor_10</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R241_12_InActive</context_id>
+        <context_title>studtitle_R241_12_InActive</context_title>
+        <custom_instructor_classlist>[{"classid":"studcontext_R241_12_InActive","title":"studtitle_R241_12_InActive","classcode":"R241_12_InActive","state":"Inactive"}]</custom_instructor_classlist>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R241.copyAssignmentsFromOneClassSectionToAnotherClassSection" index="13" method="">
+        <user_id>IT124_R241Instructor_10</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R241_13_InActive</context_id>
+        <context_title>studtitle_R241_13_InActive</context_title>
+        <custom_instructor_classlist>[{"classid":"studcontext_R241_13_InActive","title":"studtitle_R241_13_InActive","classcode":"R241_13_InActive","state":"Inactive"}]</custom_instructor_classlist>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R241.copyAssignmentsFromOneClassSectionToAnotherClassSection" index="14" method="">
+        <user_id>IT124_R241Instructor_10</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R241_14_Finished</context_id>
+        <context_title>studtitle_R241_14_Finished</context_title>
+        <custom_instructor_classlist>[{"classid":"studcontext_R241_14_Finished","title":"studtitle_R241_14_Finished","classcode":"R241_14_Finished","state":"Finished"}]</custom_instructor_classlist>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R241.copyAssignmentsFromOneClassSectionToAnotherClassSection" index="133" method="">
+        <user_id>IT124_R241Student_10</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R241_11_Active</context_id>
+        <context_title>studtitle_R241_11_Active_studtitle_R241_11_Active</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R241.copyAssignmentsFromOneClassSectionToAnotherClassSection" index="198" method="">
+        <user_id>IT124_R241Instructor_10</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R241_11_Active</context_id>
+        <context_title>studtitle_R241_11_Active_1</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <shareWithInitialString>studtitle_R241_11_Active_1</shareWithInitialString>
+        <shareName>studtitle_R241_11_Active_1</shareName>
+        <gradeable>true</gradeable>
+        <duedate>28</duedate>
+        <accessibleAfter>5</accessibleAfter>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <accessibleafter>5</accessibleafter>
+        <assessmentname>IT241_static Assessment_198</assessmentname>
+        <questionset>Test Question IT24_R241_198</questionset>
+        <questiontext>Test Question IT24_R241_198</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithClass>true</shareWithClass>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R241.copyAssignmentsFromOneClassSectionToAnotherClassSection" index="199" method="">
+        <user_id>IT124_R241Student_10</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R241_11_Active</context_id>
+        <context_title>studtitle_R241_11_Active_1</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R241.copyAssignmentsFromOneClassSectionToAnotherClassSection" index="200" method="">
+        <user_id>IT124_R241Instructor_10</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R241_11_Active</context_id>
+        <context_title>studtitle_R241_11_Active_1</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <shareWithInitialString>studtitle_R241_11_Active_1</shareWithInitialString>
+        <shareName>studtitle_R241_11_Active_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assessmentname>IT241_static Assessment_200</assessmentname>
+        <questionset>Test Question IT24_R241_200</questionset>
+        <questiontext>Test Question IT24_R241_200</questiontext>
+        <questiontype>Static Practice</questiontype>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R241.copyAssignmentsFromOneClassSectionToAnotherClassSection" index="246" method="">
+        <user_id>IT124_R241Instructor_10</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R241_11_Active_246</context_id>
+        <context_title>studtitle_R241_11_Active_246</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <assessmentname>IT241_static Assessment_246</assessmentname>
+        <questionset>Test Question IT24_R241_246</questionset>
+        <questiontext>Test Question IT24_R241_246</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_R241_11_Active_246</shareWithInitialString>
+        <shareName>studtitle_R241_11_Active_246</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R241.copyAssignmentsFromOneClassSectionToAnotherClassSection" index="247" method="">
+        <user_id>IT124_R241Instructor_10</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R241_11_Active_247</context_id>
+        <context_title>studtitle_R241_11_Active_247</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <assessmentname>IT241_static Assessment_247</assessmentname>
+        <questionset>Test Question IT24_R241_247</questionset>
+        <questiontext>Test Question IT24_R241_247</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_R241_11_Active_247</shareWithInitialString>
+        <shareName>studtitle_R241_11_Active_246</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R241.copyAssignmentsFromOneClassSectionToAnotherClassSection" index="248" method="">
+        <user_id>IT124_R241Instructor_10</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R241_11_Active_246</context_id>
+        <context_title>studtitle_R241_11_Active_246</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <assessmentname>IT241_static Assessment_247</assessmentname>
+        <questionset>Test Question IT24_R241_247</questionset>
+        <questiontext>Test Question IT24_R241_247</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_R241_11_Active_246</shareWithInitialString>
+        <shareName>studtitle_R241_11_Active_246</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+</learningspaces>

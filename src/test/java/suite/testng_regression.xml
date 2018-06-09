@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Parallel test suite" parallel="methods" thread-count="2" configfailurepolicy="continue" >
+    <test name="Regression 1">
+        <parameter name="myBrowser" value="firefox"/>
+        <classes>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.jenkins.prac.ClassA"/>
+        </classes>
+
+    </test>
+    <test name="Regression 2">
+        <parameter name="myBrowser" value="firefox"/>
+        <classes>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.jenkins.prac.ClassB"/>
+        </classes>
+    </test>
+</suite>

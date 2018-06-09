@@ -1,0 +1,1810 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestions" index="10" method="">
+    <assessmentname>TrueFalseQuestionType</assessmentname>
+    <questionset>TrueFalseQuestionSet</questionset>
+    <questiontype>Static Practice</questiontype>
+    <questiontext>TrueFalseQuestionText</questiontext>
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestions" index="28" method="">
+    <assessmentname>TrueFalseQuestionType</assessmentname>
+    <questionset>TrueFalseQuestionSet</questionset>
+    <questiontype>Static Practice</questiontype>
+    <questiontext>TrueFalseQuestionText</questiontext>
+    <reservforassignment>false</reservforassignment>
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestions" index="37" method="">
+    <assessmentname>MultipleChoiceQuestionType</assessmentname>
+    <questionset>MultipleChoiceQuestionSet</questionset>
+    <questiontype>Static Practice</questiontype>
+    <questiontext>MultipleChoiceQuestionText</questiontext>
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestions" index="61" method="">
+    <assessmentname>MultipleChoiceQuestionType</assessmentname>
+    <questionset>MultipleChoiceQuestionSet</questionset>
+    <questiontype>Static Practice</questiontype>
+    <questiontext>MultipleChoiceQuestionText</questiontext>
+    <reservforassignment>false</reservforassignment>
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestions" index="73" method="">
+    <assessmentname>MultipleSelectionQuestionType</assessmentname>
+    <questionset>MultipleSelectionQuestionSet</questionset>
+    <questiontype>Static Practice</questiontype>
+    <questiontext>MultipleSelectionQuestionText</questiontext>
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestions" index="96" method="">
+    <assessmentname>MultipleSelectionQuestionType</assessmentname>
+    <questionset>MultipleSelectionQuestionSet</questionset>
+    <questiontype>Static Practice</questiontype>
+    <questiontext>MultipleSelectionQuestionText</questiontext>
+    <reservforassignment>false</reservforassignment>
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestions" index="108" method="">
+    <assessmentname>TextEntryQuestionType</assessmentname>
+    <questionset>TextEntryQuestionSet</questionset>
+    <questiontype>Static Practice</questiontype>
+    <questiontext>TextEntryQuestionText</questiontext>
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestions" index="122" method="">
+    <assessmentname>TextEntryQuestionType</assessmentname>
+    <questionset>TextEntryQuestionSet</questionset>
+    <questiontype>Static Practice</questiontype>
+    <questiontext>TextEntryQuestionText</questiontext>
+    <reservforassignment>false</reservforassignment>
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestions" index="129" method="">
+    <assessmentname>TextDropDownQuestionType</assessmentname>
+    <questionset>TextDropDownQuestionSet</questionset>
+    <questiontype>Static Practice</questiontype>
+    <questiontext>TextDropDownQuestionText</questiontext>
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestions" index="142" method="">
+    <assessmentname>TextDropDownQuestionType</assessmentname>
+    <questionset>TextDropDownQuestionSet</questionset>
+    <questiontype>Static Practice</questiontype>
+    <questiontext>TextDropDownQuestionText</questiontext>
+    <reservforassignment>false</reservforassignment>
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestions" index="150" method="">
+    <assessmentname>NumericEntryQuestionType</assessmentname>
+    <questionset>NumericEntryQuestionSet</questionset>
+    <questiontype>Static Practice</questiontype>
+    <questiontext>NumericEntryQuestionText</questiontext>
+</testcase>
+
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestions" index="164" method="">
+    <assessmentname>NumericEntryQuestionType</assessmentname>
+    <questionset>NumericEntryQuestionSet</questionset>
+    <questiontype>Static Practice</questiontype>
+    <questiontext>NumericEntryQuestionText</questiontext>
+    <reservforassignment>false</reservforassignment>
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestions" index="172" method="">
+    <assessmentname>AdvancedNumericQuestionType</assessmentname>
+    <questionset>AdvancedNumericQuestionSet</questionset>
+    <questiontype>Static Practice</questiontype>
+    <questiontext>AdvancedNumericQuestionText</questiontext>
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestions" index="186" method="">
+    <assessmentname>AdvancedNumericQuestionType</assessmentname>
+    <questionset>AdvancedNumericQuestionSet</questionset>
+    <questiontype>Static Practice</questiontype>
+    <questiontext>AdvancedNumericQuestionText</questiontext>
+    <reservforassignment>false</reservforassignment>
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestions" index="194" method="">
+    <assessmentname>ExpressionEvaluatorQuestionType</assessmentname>
+    <questionset>ExpressionEvaluatorQuestionSet</questionset>
+    <questiontype>Static Practice</questiontype>
+    <questiontext>ExpressionEvaluatorQuestionText</questiontext>
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestions" index="208" method="">
+    <assessmentname>ExpressionEvaluatorQuestionType</assessmentname>
+    <questionset>ExpressionEvaluatorQuestionSet</questionset>
+    <questiontype>Static Practice</questiontype>
+    <questiontext>ExpressionEvaluatorQuestionText</questiontext>
+    <reservforassignment>false</reservforassignment>
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestions" index="216" method="">
+    <assessmentname>EssayTypeQuestionType</assessmentname>
+    <questionset>EssayTypeQuestionSet</questionset>
+    <questiontype>Static Practice</questiontype>
+    <questiontext>EssayTypeQuestionText</questiontext>
+</testcase>
+
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestions" index="230" method="">
+    <assessmentname>EssayTypeQuestionType</assessmentname>
+    <questionset>EssayTypeQuestionSet</questionset>
+    <questiontype>Static Practice</questiontype>
+    <questiontext>EssayTypeQuestionText</questiontext>
+    <reservforassignment>false</reservforassignment>
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestions" index="238" method="">
+    <assessmentname>WorkBoardQuestionType</assessmentname>
+    <questionset>WorkBoardQuestionSet</questionset>
+    <questiontype>Static Practice</questiontype>
+    <questiontext>WorkBoardQuestionText</questiontext>
+</testcase>
+
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestions" index="252" method="">
+    <assessmentname>WorkBoardQuestionType</assessmentname>
+    <questionset>WorkBoardQuestionSet</questionset>
+    <questiontype>Static Practice</questiontype>
+    <questiontext>WorkBoardQuestionText</questiontext>
+    <reservforassignment>false</reservforassignment>
+</testcase>
+
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestions" index="260" method="">
+    <assessmentname>AudioQuestionType</assessmentname>
+    <questionset>AudioQuestionSet</questionset>
+    <questiontype>Static Practice</questiontype>
+    <questiontext>AudioQuestionText</questiontext>
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestions" index="274" method="">
+    <assessmentname>AudioQuestionType</assessmentname>
+    <questionset>AudioQuestionSet</questionset>
+    <questiontype>Static Practice</questiontype>
+    <questiontext>AudioQuestionText</questiontext>
+    <reservforassignment>false</reservforassignment>
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestions" index="282" method="">
+    <assessmentname>MatchFollowingQuestionType</assessmentname>
+    <questionset>MatchFollowingQuestionSet</questionset>
+    <questiontype>Static Practice</questiontype>
+    <questiontext>MatchFollowingText</questiontext>
+    <filename>img.png</filename>
+</testcase>
+
+<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestions" index="296" method="">
+    <assessmentname>MatchFollowingQuestionType</assessmentname>
+    <questionset>MatchFollowingQuestionSet</questionset>
+    <questiontype>Static Practice</questiontype>
+    <questiontext>MatchFollowingText</questiontext>
+    <filename>img.png</filename>
+    <reservforassignment>false</reservforassignment>
+</testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestions" index="304" method="">
+        <assessmentname>DragDropQuestionType</assessmentname>
+        <questionset>DragDropQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>DragDropText</questiontext>
+        <filename>img.png</filename>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestions" index="318" method="">
+        <assessmentname>DragDropQuestionType</assessmentname>
+        <questionset>DragDropQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>DragDropText</questiontext>
+        <filename>img.png</filename>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestions" index="326" method="">
+        <assessmentname>LabelAnImageTextQuestionType</assessmentname>
+        <questionset>LabelAnImageTextQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>LabelAnImageTextText</questiontext>
+        <filename>img.png</filename>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestions" index="340" method="">
+        <assessmentname>LabelAnImageTextQuestionType</assessmentname>
+        <questionset>LabelAnImageTextQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>LabelAnImageTextText</questiontext>
+        <filename>img.png</filename>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestions" index="326" method="">
+        <assessmentname>LabelAnImageTextQuestionType</assessmentname>
+        <questionset>LabelAnImageTextQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>LabelAnImageTextText</questiontext>
+        <filename>img.png</filename>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestions" index="348" method="">
+        <assessmentname>LabelAnImageDropDownQuestionType</assessmentname>
+        <questionset>LabelAnImageDropDownQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>LabelAnImageDropDownText</questiontext>
+        <filename>img.png</filename>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestions" index="362" method="">
+        <assessmentname>LabelAnImageDropDownQuestionType</assessmentname>
+        <questionset>LabelAnImageDropDownQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>LabelAnImageDropDownText</questiontext>
+        <filename>img.png</filename>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestions" index="370" method="">
+        <assessmentname>multiPartQuestionType</assessmentname>
+        <questionset>multiPartQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>multiPartText</questiontext>
+        <filename>img.png</filename>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorViewMonospaceForAllQuestionQuestionBank" index="623" method="">
+        <assessmentname>TrueFalseQuestionType_IT23_R238</assessmentname>
+        <questionset>TrueFalseQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>TrueFalseText_IT23_R238</questiontext>
+        <user_id>instructor_IT238_623</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_623</context_id>
+        <context_title>studtitle_IT23_R238_623</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorViewMonospaceForAllQuestionQuestionBank" index="6231" method="">
+        <assessmentname>MultipleChoiceQuestionType_IT23_R238</assessmentname>
+        <questionset>MultipleChoiceQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>MultipleChoiceText_IT23_R238</questiontext>
+        <user_id>instructor_IT23_R238_6231</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_6231</context_id>
+        <context_title>studtitle_IT23_R238_6231</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorViewMonospaceForAllQuestionQuestionBank" index="6232" method="">
+        <assessmentname>MultipleSelectionQuestionType_IT23_R238</assessmentname>
+        <questionset>MultipleSelectionQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>MultipleSelectionText_IT23_R238</questiontext>
+        <user_id>instructor_IT23_R238_6232</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_6232</context_id>
+        <context_title>studtitle_IT23_R238_6232</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorViewMonospaceForAllQuestionQuestionBank" index="6233" method="">
+        <assessmentname>TextEntryQuestionType_IT23_R238</assessmentname>
+        <questionset>TextEntryQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>TextEntryText_IT23_R238</questiontext>
+        <user_id>instructor_IT23_R238_6233</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_6233</context_id>
+        <context_title>studtitle_IT23_R238_6233</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorViewMonospaceForAllQuestionQuestionBank" index="6234" method="">
+        <assessmentname>TextDropDownQuestionType_IT23_R238</assessmentname>
+        <questionset>TextDropDownQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>TextDropDownText_IT23_R238</questiontext>
+        <user_id>instructor_IT23_R238_6234</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_6234</context_id>
+        <context_title>studtitle_IT23_R238_6234</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorViewMonospaceForAllQuestionQuestionBank" index="6235" method="">
+        <assessmentname>NumericEntryQuestionType_IT23_R238</assessmentname>
+        <questionset>NumericEntryQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>NumericEntryText_IT23_R238</questiontext>
+        <user_id>instructor_IT23_R238_6235</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_6235</context_id>
+        <context_title>studtitle_IT23_R238_6235</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorViewMonospaceForAllQuestionQuestionBank" index="6236" method="">
+        <assessmentname>AdvancedNumericQuestionType_IT23_R238</assessmentname>
+        <questionset>AdvancedNumericQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>AdvancedNumericText_IT23_R238</questiontext>
+        <user_id>instructor_IT23_R238_6236</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_6236</context_id>
+        <context_title>studtitle_IT23_R238_6236</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorViewMonospaceForAllQuestionQuestionBank" index="6237" method="">
+        <assessmentname>ExpressionEvaluatorQuestionType_IT23_R238</assessmentname>
+        <questionset>ExpressionEvaluatorQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>ExpressionEvaluatorText_IT23_R238</questiontext>
+        <user_id>instructor_IT23_R238_6237</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_6237</context_id>
+        <context_title>studtitle_IT23_R238_6237</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorViewMonospaceForAllQuestionQuestionBank" index="6238" method="">
+        <assessmentname>EssayTypeQuestionType_IT23_R238</assessmentname>
+        <questionset>EssayTypeQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>EssayTypeText_IT23_R238</questiontext>
+        <user_id>instructor_IT23_R238_6238</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_6238</context_id>
+        <context_title>studtitle_IT23_R238_6238</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorViewMonospaceForAllQuestionQuestionBank" index="6239" method="">
+        <assessmentname>WorkBoardQuestionType_IT23_R238</assessmentname>
+        <questionset>WorkBoardQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>WorkBoardText_IT23_R238</questiontext>
+        <user_id>instructor_IT23_R238_6239</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_6239</context_id>
+        <context_title>studtitle_IT23_R238_6239</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorViewMonospaceForAllQuestionQuestionBank" index="62310" method="">
+        <assessmentname>AudioQuestionType_IT23_R238</assessmentname>
+        <questionset>AudioQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>AudioText_IT23_R238</questiontext>
+        <user_id>instructor_IT23_R238_62310</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_62310</context_id>
+        <context_title>studtitle_IT23_R238_62310</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorViewMonospaceForAllQuestionQuestionBank" index="62311" method="">
+        <assessmentname>MatchTheFollowingQuestionType_IT23_R238</assessmentname>
+        <questionset>MatchTheFollowingQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>MatchTheFollowingText_IT23_R238</questiontext>
+        <user_id>instructor_IT23_R238_62311</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_62311</context_id>
+        <context_title>studtitle_IT23_R238_62311</context_title>
+        <filename>img.png</filename>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorViewMonospaceForAllQuestionQuestionBank" index="62312" method="">
+        <assessmentname>DragAndDrpQuestionType_IT23_R238</assessmentname>
+        <questionset>DragAndDrpQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>DragAndDrpText_IT23_R238</questiontext>
+        <user_id>instructor_IT23_R238_62312</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_62312</context_id>
+        <context_title>studtitle_IT23_R238_62312</context_title>
+        <filename>img.png</filename>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorViewMonospaceForAllQuestionQuestionBank" index="62313" method="">
+        <assessmentname>LabelAnImageTextQuestionType_IT23_R238</assessmentname>
+        <questionset>LabelAnImageTextQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>LabelAnImageTextText_IT23_R238</questiontext>
+        <user_id>instructor_IT23_R238_62313</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_62313</context_id>
+        <context_title>studtitle_IT23_R238_62313</context_title>
+        <filename>img.png</filename>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorViewMonospaceForAllQuestionQuestionBank" index="62314" method="">
+        <assessmentname>LabelAnImageDropDownQuestionType_IT23_R238</assessmentname>
+        <questionset>LabelAnImageDropDownQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>LabelAnImageDropDownText_IT23_R238</questiontext>
+        <user_id>instructor_IT23_R238_62314</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_62314</context_id>
+        <context_title>studtitle_IT23_R238_62314</context_title>
+        <filename>img.png</filename>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorViewMonospaceForAllQuestionQuestionBank" index="617" method="" >
+        <context_id>studcontext_IT23_R238_617</context_id>
+        <context_title>studtitle_IT23_R238_617</context_title>
+        <customassignmentname>New Name</customassignmentname>
+        <noOfQuestions>1</noOfQuestions>
+        <user_id>instructor_IT23_R238_617</user_id>
+        <Role>instructor</Role>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFont" index="488" method="">
+        <user_id>instructor_IT23_R238_488</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_488</context_id>
+        <context_title>studtitle_IT23_R238_488</context_title>
+        <assessmentname>TrueFalseQuestionType_IT23_R238</assessmentname>
+        <shareWithInitialString>studtitle_IT23_R238_488</shareWithInitialString>
+        <shareName>studtitle_IT23_R238_488</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFont" index="488_1" method="">
+        <user_id>student_IT23_R238_488</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT23_R238_488</context_id>
+        <context_title>studtitle_IT23_R238_488</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFont" index="4881" method="">
+        <user_id>instructor_IT23_R238_4881</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_4881</context_id>
+        <context_title>studtitle_IT23_R238_4881</context_title>
+        <assessmentname>MultipleChoiceQuestionType_IT23_R238</assessmentname>
+        <shareWithInitialString>studtitle_IT23_R238_4881</shareWithInitialString>
+        <shareName>studtitle_IT23_R238_4881</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFont" index="4881_1" method="">
+        <user_id>student_IT23_R238_4881</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT23_R238_4881</context_id>
+        <context_title>studtitle_IT23_R238_4881</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFont" index="4882" method="">
+        <user_id>instructor_IT23_R238_4882</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_4882</context_id>
+        <context_title>studtitle_IT23_R238_4882</context_title>
+        <assessmentname>MultipleSelectionQuestionType_IT23_R238</assessmentname>
+        <shareWithInitialString>studtitle_IT23_R238_4882</shareWithInitialString>
+        <shareName>studtitle_IT23_R238_4882</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFont" index="4882_1" method="">
+        <user_id>student_IT23_R238_4882</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT23_R238_4882</context_id>
+        <context_title>studtitle_IT23_R238_4882</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFont" index="4883" method="">
+        <user_id>instructor_IT23_R238_4883</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_4883</context_id>
+        <context_title>studtitle_IT23_R238_4883</context_title>
+        <assessmentname>TextEntryQuestionType_IT23_R238</assessmentname>
+        <shareWithInitialString>studtitle_IT23_R238_4883</shareWithInitialString>
+        <shareName>studtitle_IT23_R238_4883</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFont" index="4883_1" method="">
+        <user_id>student_IT23_R238_4883</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT23_R238_4883</context_id>
+        <context_title>studtitle_IT23_R238_4883</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFont" index="4884" method="">
+        <user_id>instructor_IT23_R238_4884</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_4884</context_id>
+        <context_title>studtitle_IT23_R238_4884</context_title>
+        <assessmentname>TextDropDownQuestionType_IT23_R238</assessmentname>
+        <shareWithInitialString>studtitle_IT23_R238_4884</shareWithInitialString>
+        <shareName>studtitle_IT23_R238_4884</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFont" index="4884_1" method="">
+        <user_id>student_IT23_R238_4884</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT23_R238_4884</context_id>
+        <context_title>studtitle_IT23_R238_4884</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFont" index="4885" method="">
+        <user_id>instructor_IT23_R238_4885</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_4885</context_id>
+        <context_title>studtitle_IT23_R238_4885</context_title>
+        <assessmentname>NumericEntryQuestionType_IT23_R238</assessmentname>
+        <shareWithInitialString>studtitle_IT23_R238_4885</shareWithInitialString>
+        <shareName>studtitle_IT23_R238_4885</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFont" index="4885_1" method="">
+        <user_id>student_IT23_R238_4885</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT23_R238_4885</context_id>
+        <context_title>studtitle_IT23_R238_4885</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFont" index="4886" method="">
+        <user_id>instructor_IT23_R238_4886</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_4886</context_id>
+        <context_title>studtitle_IT23_R238_4886</context_title>
+        <assessmentname>AdvancedNumericQuestionType_IT23_R238</assessmentname>
+        <shareWithInitialString>studtitle_IT23_R238_4886</shareWithInitialString>
+        <shareName>studtitle_IT23_R238_4886</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFont" index="4886_1" method="">
+        <user_id>student_IT23_R238_4886</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT23_R238_4886</context_id>
+        <context_title>studtitle_IT23_R238_4886</context_title>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFont" index="4887" method="">
+        <user_id>instructor_IT23_R238_4887</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_4887</context_id>
+        <context_title>studtitle_IT23_R238_4887</context_title>
+        <assessmentname>ExpressionEvaluatorQuestionType_IT23_R238</assessmentname>
+        <shareWithInitialString>studtitle_IT23_R238_4887</shareWithInitialString>
+        <shareName>studtitle_IT23_R238_4887</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFont" index="4887_1" method="">
+        <user_id>student_IT23_R238_4887</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT23_R238_4887</context_id>
+        <context_title>studtitle_IT23_R238_4887</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFont" index="4888" method="">
+        <user_id>instructor_IT23_R238_4888</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_4888</context_id>
+        <context_title>studtitle_IT23_R238_4888</context_title>
+        <assessmentname>EssayTypeQuestionType_IT23_R238</assessmentname>
+        <shareWithInitialString>studtitle_IT23_R238_4888</shareWithInitialString>
+        <shareName>studtitle_IT23_R238_4888</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFont" index="4888_1" method="">
+        <user_id>student_IT23_R238_4888</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT23_R238_4888</context_id>
+        <context_title>studtitle_IT23_R238_4888</context_title>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFont" index="4889" method="">
+        <user_id>instructor_IT23_R238_4889</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_4889</context_id>
+        <context_title>studtitle_IT23_R238_4889</context_title>
+        <assessmentname>WorkBoardQuestionType_IT23_R238</assessmentname>
+        <shareWithInitialString>studtitle_IT23_R238_4889</shareWithInitialString>
+        <shareName>studtitle_IT23_R238_4889</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFont" index="4889_1" method="">
+        <user_id>student_IT23_R238_4883</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT23_R238_4883</context_id>
+        <context_title>studtitle_IT23_R238_4883</context_title>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFont" index="48810" method="">
+        <user_id>instructor_IT23_R238_48810</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_48810</context_id>
+        <context_title>studtitle_IT23_R238_48810</context_title>
+        <assessmentname>AudioQuestionType_IT23_R238</assessmentname>
+        <shareWithInitialString>studtitle_IT23_R238_48810</shareWithInitialString>
+        <shareName>studtitle_IT23_R238_48810</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFont" index="48810_1" method="">
+        <user_id>student_IT23_R238_48810</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT23_R238_48810</context_id>
+        <context_title>studtitle_IT23_R238_48810</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFont" index="48811" method="">
+        <user_id>instructor_IT23_R238_48811</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_48811</context_id>
+        <context_title>studtitle_IT23_R238_48811</context_title>
+        <assessmentname>MatchTheFollowingQuestionType_IT23_R238</assessmentname>
+        <shareWithInitialString>studtitle_IT23_R238_48811</shareWithInitialString>
+        <shareName>studtitle_IT23_R238_48811</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFont" index="48811_1" method="">
+        <user_id>student_IT23_R238_48811</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT23_R238_48811</context_id>
+        <context_title>studtitle_IT23_R238_48811</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFont" index="48812" method="">
+        <user_id>instructor_IT23_R238_48812</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_48812</context_id>
+        <context_title>studtitle_IT23_R238_48812</context_title>
+        <assessmentname>DragAndDrpQuestionType_IT23_R238</assessmentname>
+        <shareWithInitialString>studtitle_IT23_R238_48812</shareWithInitialString>
+        <shareName>studtitle_IT23_R238_48812</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFont" index="48812_1" method="">
+        <user_id>student_IT23_R238_48812</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT23_R238_48812</context_id>
+        <context_title>studtitle_IT23_R238_48812</context_title>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFont" index="48813" method="">
+        <user_id>instructor_IT23_R238_48813</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_48813</context_id>
+        <context_title>studtitle_IT23_R238_48813</context_title>
+        <assessmentname>LabelAnImageTextQuestionType_IT23_R238</assessmentname>
+        <shareWithInitialString>studtitle_IT23_R238_48813</shareWithInitialString>
+        <shareName>studtitle_IT23_R238_48813</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFont" index="48813_1" method="">
+        <user_id>student_IT23_R238_48813</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT23_R238_48813</context_id>
+        <context_title>studtitle_IT23_R238_48813</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFont" index="48814" method="">
+        <user_id>instructor_IT23_R238_48814</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_48814</context_id>
+        <context_title>studtitle_IT23_R238_48814</context_title>
+        <assessmentname>LabelAnImageDropDownQuestionType_IT23_R238</assessmentname>
+        <shareWithInitialString>studtitle_IT23_R238_48814</shareWithInitialString>
+        <shareName>studtitle_IT23_R238_48814</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFont" index="48814_1" method="">
+        <user_id>student_IT23_R238_48814</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT23_R238_48814</context_id>
+        <context_title>studtitle_IT23_R238_48814</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.StudentAbleToSeeTheMonoSpaceFont" index="390" method="">
+        <user_id>student_IT23_R238_390</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT23_R238_390</context_id>
+        <context_title>studtitle_IT23_R238_390</context_title>
+        <assessmentname>TrueFalseQuestionType</assessmentname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.StudentAbleToSeeTheMonoSpaceFont" index="523" method="">
+       <user_id>instructor_IT23_R238_523</user_id>
+       <Role>instructor</Role>
+       <context_id>studcontext_IT23_R238_523</context_id>
+       <context_title>studtitle_IT23_R238_523</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.StudentAbleToSeeTheMonoSpaceFont" index="540" method="">
+        <user_id>instructor_IT23_R238_540</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_540</context_id>
+        <context_title>studtitle_IT23_R238_540</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.StudentAbleToSeeTheMonoSpaceFont" index="651" method="">
+        <user_id>instructor_IT23_R238_651</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_651</context_id>
+        <context_title>studtitle_IT23_R238_651</context_title>
+        <shareWithInitialString>studtitle_IT23_R238_651</shareWithInitialString>
+        <shareName>studtitle_IT23_R238_651</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.StudentAbleToSeeTheMonoSpaceFont" index="651_1" method="">
+        <user_id>student_IT23_R238_651</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT23_R238_651</context_id>
+        <context_title>studtitle_IT23_R238_651</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestionsForLs" index="10" method="">
+        <assessmentname>TrueFalseQuestionType</assessmentname>
+        <questionset>TrueFalseQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>TrueFalseQuestionText</questiontext>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestionsForLs" index="28" method="">
+        <assessmentname>TrueFalseQuestionType</assessmentname>
+        <questionset>TrueFalseQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>TrueFalseQuestionText</questiontext>
+        <reservforassignment>false</reservforassignment>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestionsForLs" index="37" method="">
+        <assessmentname>MultipleChoiceQuestionType</assessmentname>
+        <questionset>MultipleChoiceQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>MultipleChoiceQuestionText</questiontext>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestionsForLs" index="61" method="">
+        <assessmentname>MultipleChoiceQuestionType</assessmentname>
+        <questionset>MultipleChoiceQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>MultipleChoiceQuestionText</questiontext>
+        <reservforassignment>false</reservforassignment>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestionsForLs" index="73" method="">
+        <assessmentname>MultipleSelectionQuestionType</assessmentname>
+        <questionset>MultipleSelectionQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>MultipleSelectionQuestionText</questiontext>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestionsForLs" index="96" method="">
+        <assessmentname>MultipleSelectionQuestionType</assessmentname>
+        <questionset>MultipleSelectionQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>MultipleSelectionQuestionText</questiontext>
+        <reservforassignment>false</reservforassignment>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestionsForLs" index="108" method="">
+        <assessmentname>TextEntryQuestionType</assessmentname>
+        <questionset>TextEntryQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>TextEntryQuestionText</questiontext>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestionsForLs" index="122" method="">
+        <assessmentname>TextEntryQuestionType</assessmentname>
+        <questionset>TextEntryQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>TextEntryQuestionText</questiontext>
+        <reservforassignment>false</reservforassignment>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestionsForLs" index="129" method="">
+        <assessmentname>TextDropDownQuestionType</assessmentname>
+        <questionset>TextDropDownQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>TextDropDownQuestionText</questiontext>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestionsForLs" index="142" method="">
+        <assessmentname>TextDropDownQuestionType</assessmentname>
+        <questionset>TextDropDownQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>TextDropDownQuestionText</questiontext>
+        <reservforassignment>false</reservforassignment>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestionsForLs" index="150" method="">
+        <assessmentname>NumericEntryQuestionType</assessmentname>
+        <questionset>NumericEntryQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>NumericEntryQuestionText</questiontext>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestionsForLs" index="164" method="">
+        <assessmentname>NumericEntryQuestionType</assessmentname>
+        <questionset>NumericEntryQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>NumericEntryQuestionText</questiontext>
+        <reservforassignment>false</reservforassignment>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestionsForLs" index="172" method="">
+        <assessmentname>AdvancedNumericQuestionType</assessmentname>
+        <questionset>AdvancedNumericQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>AdvancedNumericQuestionText</questiontext>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestionsForLs" index="186" method="">
+        <assessmentname>AdvancedNumericQuestionType</assessmentname>
+        <questionset>AdvancedNumericQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>AdvancedNumericQuestionText</questiontext>
+        <reservforassignment>false</reservforassignment>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestionsForLs" index="194" method="">
+        <assessmentname>ExpressionEvaluatorQuestionType</assessmentname>
+        <questionset>ExpressionEvaluatorQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>ExpressionEvaluatorQuestionText</questiontext>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestionsForLs" index="208" method="">
+        <assessmentname>ExpressionEvaluatorQuestionType</assessmentname>
+        <questionset>ExpressionEvaluatorQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>ExpressionEvaluatorQuestionText</questiontext>
+        <reservforassignment>false</reservforassignment>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestionsForLs" index="216" method="">
+        <assessmentname>EssayTypeQuestionType</assessmentname>
+        <questionset>EssayTypeQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>EssayTypeQuestionText</questiontext>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestionsForLs" index="230" method="">
+        <assessmentname>EssayTypeQuestionType</assessmentname>
+        <questionset>EssayTypeQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>EssayTypeQuestionText</questiontext>
+        <reservforassignment>false</reservforassignment>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestionsForLs" index="238" method="">
+        <assessmentname>WorkBoardQuestionType</assessmentname>
+        <questionset>WorkBoardQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>WorkBoardQuestionText</questiontext>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestionsForLs" index="252" method="">
+        <assessmentname>WorkBoardQuestionType</assessmentname>
+        <questionset>WorkBoardQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>WorkBoardQuestionText</questiontext>
+        <reservforassignment>false</reservforassignment>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestionsForLs" index="260" method="">
+        <assessmentname>AudioQuestionType</assessmentname>
+        <questionset>AudioQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>AudioQuestionText</questiontext>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestionsForLs" index="274" method="">
+        <assessmentname>AudioQuestionType</assessmentname>
+        <questionset>AudioQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>AudioQuestionText</questiontext>
+        <reservforassignment>false</reservforassignment>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestionsForLs" index="282" method="">
+        <assessmentname>MatchFollowingQuestionType</assessmentname>
+        <questionset>MatchFollowingQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>MatchFollowingText</questiontext>
+        <filename>img.png</filename>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestionsForLs" index="296" method="">
+        <assessmentname>MatchFollowingQuestionType</assessmentname>
+        <questionset>MatchFollowingQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>MatchFollowingText</questiontext>
+        <filename>img.png</filename>
+        <reservforassignment>false</reservforassignment>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestionsForLs" index="304" method="">
+        <assessmentname>DragDropQuestionType</assessmentname>
+        <questionset>DragDropQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>DragDropText</questiontext>
+        <filename>img.png</filename>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestionsForLs" index="318" method="">
+        <assessmentname>DragDropQuestionType</assessmentname>
+        <questionset>DragDropQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>DragDropText</questiontext>
+        <filename>img.png</filename>
+        <reservforassignment>false</reservforassignment>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestionsForLs" index="326" method="">
+        <assessmentname>LabelAnImageTextQuestionType</assessmentname>
+        <questionset>LabelAnImageTextQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>LabelAnImageTextText</questiontext>
+        <filename>img.png</filename>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestionsForLs" index="340" method="">
+        <assessmentname>LabelAnImageTextQuestionType</assessmentname>
+        <questionset>LabelAnImageTextQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>LabelAnImageTextText</questiontext>
+        <filename>img.png</filename>
+        <reservforassignment>false</reservforassignment>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestionsForLs" index="326" method="">
+        <assessmentname>LabelAnImageTextQuestionType</assessmentname>
+        <questionset>LabelAnImageTextQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>LabelAnImageTextText</questiontext>
+        <filename>img.png</filename>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestionsForLs" index="348" method="">
+        <assessmentname>LabelAnImageDropDownQuestionType</assessmentname>
+        <questionset>LabelAnImageDropDownQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>LabelAnImageDropDownText</questiontext>
+        <filename>img.png</filename>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestionsForLs" index="362" method="">
+        <assessmentname>LabelAnImageDropDownQuestionType</assessmentname>
+        <questionset>LabelAnImageDropDownQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>LabelAnImageDropDownText</questiontext>
+        <filename>img.png</filename>
+        <reservforassignment>false</reservforassignment>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.PublisherAbleToSupportNewFontsForQuestionsForLs" index="370" method="">
+        <assessmentname>multiPartQuestionType</assessmentname>
+        <questionset>multiPartQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>multiPartText</questiontext>
+        <filename>img.png</filename>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.StudentAbleToSeeTheMonoSpaceFontForLs" index="390" method="">
+        <user_id>student_IT23_R238_3901</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT23_R238_390</context_id>
+        <context_title>studtitle_IT23_R238_390</context_title>
+        <assessmentname>TrueFalseQuestionType</assessmentname>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFontForLs" index="488" method="">
+        <user_id>instructor_IT23_R238_4881</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_488</context_id>
+        <context_title>studtitle_IT23_R238_488</context_title>
+        <assessmentname>TrueFalseQuestionType_IT23_R238</assessmentname>
+        <shareWithInitialString>studtitle_IT23_R238_488</shareWithInitialString>
+        <shareName>studtitle_IT23_R238_488</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFontForLs" index="488_1" method="">
+        <user_id>student_IT23_R238_4881</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT23_R238_488</context_id>
+        <context_title>studtitle_IT23_R238_488</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFontForLs" index="4881" method="">
+        <user_id>instructor_IT23_R238_48811</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_4881</context_id>
+        <context_title>studtitle_IT23_R238_4881</context_title>
+        <assessmentname>MultipleChoiceQuestionType_IT23_R238</assessmentname>
+        <shareWithInitialString>studtitle_IT23_R238_4881</shareWithInitialString>
+        <shareName>studtitle_IT23_R238_4881</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFontForLs" index="4881_1" method="">
+        <user_id>student_IT23_R238_48811</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT23_R238_4881</context_id>
+        <context_title>studtitle_IT23_R238_4881</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFontForLs" index="4882" method="">
+        <user_id>instructor_IT23_R238_48821</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_4882</context_id>
+        <context_title>studtitle_IT23_R238_4882</context_title>
+        <assessmentname>MultipleSelectionQuestionType_IT23_R238</assessmentname>
+        <shareWithInitialString>studtitle_IT23_R238_4882</shareWithInitialString>
+        <shareName>studtitle_IT23_R238_4882</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFontForLs" index="4882_1" method="">
+        <user_id>student_IT23_R238_48821</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT23_R238_4882</context_id>
+        <context_title>studtitle_IT23_R238_4882</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFontForLs" index="4883" method="">
+        <user_id>instructor_IT23_R238_48831</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_4883</context_id>
+        <context_title>studtitle_IT23_R238_4883</context_title>
+        <assessmentname>TextEntryQuestionType_IT23_R238</assessmentname>
+        <shareWithInitialString>studtitle_IT23_R238_4883</shareWithInitialString>
+        <shareName>studtitle_IT23_R238_4883</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFontForLs" index="4883_1" method="">
+        <user_id>student_IT23_R238_48831</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT23_R238_4883</context_id>
+        <context_title>studtitle_IT23_R238_4883</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFontForLs" index="4884" method="">
+        <user_id>instructor_IT23_R238_48841</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_4884</context_id>
+        <context_title>studtitle_IT23_R238_4884</context_title>
+        <assessmentname>TextDropDownQuestionType_IT23_R238</assessmentname>
+        <shareWithInitialString>studtitle_IT23_R238_4884</shareWithInitialString>
+        <shareName>studtitle_IT23_R238_4884</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFontForLs" index="4884_1" method="">
+        <user_id>student_IT23_R238_48841</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT23_R238_4884</context_id>
+        <context_title>studtitle_IT23_R238_4884</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFontForLs" index="4885" method="">
+        <user_id>instructor_IT23_R238_48851</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_4885</context_id>
+        <context_title>studtitle_IT23_R238_4885</context_title>
+        <assessmentname>NumericEntryQuestionType_IT23_R238</assessmentname>
+        <shareWithInitialString>studtitle_IT23_R238_4885</shareWithInitialString>
+        <shareName>studtitle_IT23_R238_4885</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFontForLs" index="4885_1" method="">
+        <user_id>student_IT23_R238_48851</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT23_R238_4885</context_id>
+        <context_title>studtitle_IT23_R238_4885</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFontForLs" index="4886" method="">
+        <user_id>instructor_IT23_R238_48861</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_4886</context_id>
+        <context_title>studtitle_IT23_R238_4886</context_title>
+        <assessmentname>AdvancedNumericQuestionType_IT23_R238</assessmentname>
+        <shareWithInitialString>studtitle_IT23_R238_4886</shareWithInitialString>
+        <shareName>studtitle_IT23_R238_4886</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFontForLs" index="4886_1" method="">
+        <user_id>student_IT23_R238_48861</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT23_R238_4886</context_id>
+        <context_title>studtitle_IT23_R238_4886</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFontForLs" index="4887" method="">
+        <user_id>instructor_IT23_R238_48871</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_4887</context_id>
+        <context_title>studtitle_IT23_R238_4887</context_title>
+        <assessmentname>ExpressionEvaluatorQuestionType_IT23_R238</assessmentname>
+        <shareWithInitialString>studtitle_IT23_R238_4887</shareWithInitialString>
+        <shareName>studtitle_IT23_R238_4887</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFontForLs" index="4887_1" method="">
+        <user_id>student_IT23_R238_48871</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT23_R238_4887</context_id>
+        <context_title>studtitle_IT23_R238_4887</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFontForLs" index="4888" method="">
+        <user_id>instructor_IT23_R238_48881</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_4888</context_id>
+        <context_title>studtitle_IT23_R238_4888</context_title>
+        <assessmentname>EssayTypeQuestionType_IT23_R238</assessmentname>
+        <shareWithInitialString>studtitle_IT23_R238_4888</shareWithInitialString>
+        <shareName>studtitle_IT23_R238_4888</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFontForLs" index="4888_1" method="">
+        <user_id>student_IT23_R238_48881</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT23_R238_4888</context_id>
+        <context_title>studtitle_IT23_R238_4888</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFontForLs" index="4889" method="">
+        <user_id>instructor_IT23_R238_48891</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_4889</context_id>
+        <context_title>studtitle_IT23_R238_4889</context_title>
+        <assessmentname>WorkBoardQuestionType_IT23_R238</assessmentname>
+        <shareWithInitialString>studtitle_IT23_R238_4889</shareWithInitialString>
+        <shareName>studtitle_IT23_R238_4889</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFontForLs" index="4889_1" method="">
+        <user_id>student_IT23_R238_48891</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT23_R238_4889</context_id>
+        <context_title>studtitle_IT23_R238_4889</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFontForLs" index="48810" method="">
+        <user_id>instructor_IT23_R238_488101</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_48810</context_id>
+        <context_title>studtitle_IT23_R238_48810</context_title>
+        <assessmentname>AudioQuestionType_IT23_R238</assessmentname>
+        <shareWithInitialString>studtitle_IT23_R238_48810</shareWithInitialString>
+        <shareName>studtitle_IT23_R238_48810</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFontForLs" index="48810_1" method="">
+        <user_id>student_IT23_R238_488101</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT23_R238_48810</context_id>
+        <context_title>studtitle_IT23_R238_48810</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFontForLs" index="48811" method="">
+        <user_id>instructor_IT23_R238_488111</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_48811</context_id>
+        <context_title>studtitle_IT23_R238_48811</context_title>
+        <assessmentname>MatchTheFollowingQuestionType_IT23_R238</assessmentname>
+        <shareWithInitialString>studtitle_IT23_R238_48811</shareWithInitialString>
+        <shareName>studtitle_IT23_R238_48811</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFontForLs" index="48811_1" method="">
+        <user_id>student_IT23_R238_488111</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT23_R238_48811</context_id>
+        <context_title>studtitle_IT23_R238_48811</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFontForLs" index="48812" method="">
+        <user_id>instructor_IT23_R238_488121</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_48812</context_id>
+        <context_title>studtitle_IT23_R238_48812</context_title>
+        <assessmentname>DragAndDrpQuestionType_IT23_R238</assessmentname>
+        <shareWithInitialString>studtitle_IT23_R238_48812</shareWithInitialString>
+        <shareName>studtitle_IT23_R238_48812</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFontForLs" index="48812_1" method="">
+        <user_id>student_IT23_R238_488121</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT23_R238_48812</context_id>
+        <context_title>studtitle_IT23_R238_48812</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFontForLs" index="48813" method="">
+        <user_id>instructor_IT23_R238_488131</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_48813</context_id>
+        <context_title>studtitle_IT23_R238_48813</context_title>
+        <assessmentname>LabelAnImageTextQuestionType_IT23_R238</assessmentname>
+        <shareWithInitialString>studtitle_IT23_R238_48813</shareWithInitialString>
+        <shareName>studtitle_IT23_R238_48813</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFontForLs" index="48813_1" method="">
+        <user_id>student_IT23_R238_488131</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT23_R238_48813</context_id>
+        <context_title>studtitle_IT23_R238_48813</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFontForLs" index="48814" method="">
+        <user_id>instructor_IT23_R238_488141</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_48814</context_id>
+        <context_title>studtitle_IT23_R238_48814</context_title>
+        <assessmentname>LabelAnImageDropDownQuestionType_IT23_R238</assessmentname>
+        <shareWithInitialString>studtitle_IT23_R238_48814</shareWithInitialString>
+        <shareName>studtitle_IT23_R238_48814</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorAssignAssignmentHavingMonospaceFontForLs" index="48814_1" method="">
+        <user_id>student_IT23_R238_488141</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT23_R238_48814</context_id>
+        <context_title>studtitle_IT23_R238_48814</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.StudentAbleToSeeTheMonoSpaceFontForLs" index="523" method="">
+        <user_id>instructor_IT23_R238_5231</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_523</context_id>
+        <context_title>studtitle_IT23_R238_523</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.StudentAbleToSeeTheMonoSpaceFontForLs" index="540" method="">
+        <user_id>instructor_IT23_R238_5401</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_540</context_id>
+        <context_title>studtitle_IT23_R238_540</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.StudentAbleToSeeTheMonoSpaceFontForLs" index="651" method="">
+        <user_id>instructor_IT23_R238_6511</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_651</context_id>
+        <context_title>studtitle_IT23_R238_651</context_title>
+        <shareWithInitialString>studtitle_IT23_R238_651</shareWithInitialString>
+        <shareName>studtitle_IT23_R238_651</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.StudentAbleToSeeTheMonoSpaceFontForLs" index="651_1" method="">
+        <user_id>student_IT23_R238_6511</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT23_R238_651</context_id>
+        <context_title>studtitle_IT23_R238_651</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorViewMonospaceForAllQuestionQuestionBankForLs" index="623" method="">
+        <assessmentname>TrueFalseQuestionType_IT23_R238</assessmentname>
+        <questionset>TrueFalseQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>TrueFalseText_IT23_R238</questiontext>
+        <user_id>instructor_IT238_6231</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_623</context_id>
+        <context_title>studtitle_IT23_R238_623</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorViewMonospaceForAllQuestionQuestionBankForLs" index="6231" method="">
+        <assessmentname>MultipleChoiceQuestionType_IT23_R238</assessmentname>
+        <questionset>MultipleChoiceQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>MultipleChoiceText_IT23_R238</questiontext>
+        <user_id>instructor_IT23_R238_62311</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_6231</context_id>
+        <context_title>studtitle_IT23_R238_6231</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorViewMonospaceForAllQuestionQuestionBankForLs" index="6232" method="">
+        <assessmentname>MultipleSelectionQuestionType_IT23_R238</assessmentname>
+        <questionset>MultipleSelectionQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>MultipleSelectionText_IT23_R238</questiontext>
+        <user_id>instructor_IT23_R238_62321</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_6232</context_id>
+        <context_title>studtitle_IT23_R238_6232</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorViewMonospaceForAllQuestionQuestionBankForLs" index="6233" method="">
+        <assessmentname>TextEntryQuestionType_IT23_R238</assessmentname>
+        <questionset>TextEntryQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>TextEntryText_IT23_R238</questiontext>
+        <user_id>instructor_IT23_R238_62331</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_6233</context_id>
+        <context_title>studtitle_IT23_R238_6233</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorViewMonospaceForAllQuestionQuestionBankForLs" index="6234" method="">
+        <assessmentname>TextDropDownQuestionType_IT23_R238</assessmentname>
+        <questionset>TextDropDownQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>TextDropDownText_IT23_R238</questiontext>
+        <user_id>instructor_IT23_R238_62341</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_6234</context_id>
+        <context_title>studtitle_IT23_R238_6234</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorViewMonospaceForAllQuestionQuestionBankForLs" index="6235" method="">
+        <assessmentname>NumericEntryQuestionType_IT23_R238</assessmentname>
+        <questionset>NumericEntryQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>NumericEntryText_IT23_R238</questiontext>
+        <user_id>instructor_IT23_R238_62351</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_6235</context_id>
+        <context_title>studtitle_IT23_R238_6235</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorViewMonospaceForAllQuestionQuestionBankForLs" index="6236" method="">
+        <assessmentname>AdvancedNumericQuestionType_IT23_R238</assessmentname>
+        <questionset>AdvancedNumericQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>AdvancedNumericText_IT23_R238</questiontext>
+        <user_id>instructor_IT23_R238_62361</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_6236</context_id>
+        <context_title>studtitle_IT23_R238_6236</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorViewMonospaceForAllQuestionQuestionBankForLs" index="6237" method="">
+        <assessmentname>ExpressionEvaluatorQuestionType_IT23_R238</assessmentname>
+        <questionset>ExpressionEvaluatorQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>ExpressionEvaluatorText_IT23_R238</questiontext>
+        <user_id>instructor_IT23_R238_62371</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_6237</context_id>
+        <context_title>studtitle_IT23_R238_6237</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorViewMonospaceForAllQuestionQuestionBankForLs" index="6238" method="">
+        <assessmentname>EssayTypeQuestionType_IT23_R238</assessmentname>
+        <questionset>EssayTypeQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>EssayTypeText_IT23_R238</questiontext>
+        <user_id>instructor_IT23_R238_62381</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_6238</context_id>
+        <context_title>studtitle_IT23_R238_6238</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorViewMonospaceForAllQuestionQuestionBankForLs" index="6239" method="">
+        <assessmentname>WorkBoardQuestionType_IT23_R238</assessmentname>
+        <questionset>WorkBoardQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>WorkBoardText_IT23_R238</questiontext>
+        <user_id>instructor_IT23_R238_62391</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_6239</context_id>
+        <context_title>studtitle_IT23_R238_6239</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorViewMonospaceForAllQuestionQuestionBankForLs" index="62310" method="">
+        <assessmentname>AudioQuestionType_IT23_R238</assessmentname>
+        <questionset>AudioQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>AudioText_IT23_R238</questiontext>
+        <user_id>instructor_IT23_R238_623101</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_62310</context_id>
+        <context_title>studtitle_IT23_R238_62310</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorViewMonospaceForAllQuestionQuestionBankForLs" index="62311" method="">
+        <assessmentname>MatchTheFollowingQuestionType_IT23_R238</assessmentname>
+        <questionset>MatchTheFollowingQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>MatchTheFollowingText_IT23_R238</questiontext>
+        <user_id>instructor_IT23_R238_623111</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_62311</context_id>
+        <context_title>studtitle_IT23_R238_62311</context_title>
+        <filename>img.png</filename>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorViewMonospaceForAllQuestionQuestionBankForLs" index="62312" method="">
+        <assessmentname>DragAndDrpQuestionType_IT23_R238</assessmentname>
+        <questionset>DragAndDrpQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>DragAndDrpText_IT23_R238</questiontext>
+        <user_id>instructor_IT23_R238_623121</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_62312</context_id>
+        <context_title>studtitle_IT23_R238_62312</context_title>
+        <filename>img.png</filename>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorViewMonospaceForAllQuestionQuestionBankForLs" index="62313" method="">
+        <assessmentname>LabelAnImageTextQuestionType_IT23_R238</assessmentname>
+        <questionset>LabelAnImageTextQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>LabelAnImageTextText_IT23_R238</questiontext>
+        <user_id>instructor_IT23_R238_623131</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_62313</context_id>
+        <context_title>studtitle_IT23_R238_62313</context_title>
+        <filename>img.png</filename>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorViewMonospaceForAllQuestionQuestionBankForLs" index="62314" method="">
+        <assessmentname>LabelAnImageDropDownQuestionType_IT23_R238</assessmentname>
+        <questionset>LabelAnImageDropDownQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>LabelAnImageDropDownText_IT23_R238</questiontext>
+        <user_id>instructor_IT23_R238_623141</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT23_R238_62314</context_id>
+        <context_title>studtitle_IT23_R238_62314</context_title>
+        <filename>img.png</filename>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R238.InstructorViewMonospaceForAllQuestionQuestionBankForLs" index="617" method="" >
+        <context_id>studcontext_IT23_R238_6171</context_id>
+        <context_title>studtitle_IT23_R238_6171</context_title>
+        <customassignmentname>New Name</customassignmentname>
+        <noOfQuestions>1</noOfQuestions>
+        <user_id>instructor_IT23_R238_6171</user_id>
+        <Role>instructor</Role>
+        <course_type>ls</course_type>
+    </testcase>
+</learningspaces>
+

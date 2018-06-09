@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edulastic>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.sanity.assignmentflowwithreport.AssignmentFlowWithReport" index ="1" method="">
+        <assessmentname>sanity_assignmentflow</assessmentname>
+        <questiontext>question text_sanity_assignmentflow</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>district</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.sanity.assignmentflowwithreport.AssignmentFlowWithReport" index ="2" method="">
+        <assessmentname>sanity_assignmentflow</assessmentname>
+        <removeexistingclass>true</removeexistingclass>
+        <questiontext>question text_sanity_assignmentflow</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>district</privacy>
+        <owner>district</owner>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.sanity.assignmentflowwithreport.AssignmentFlowWithReport" index ="3" method="">
+        <assessmentname>sanity_assignmentflow</assessmentname>
+        <questiontext>question text_sanity_assignmentflow</questiontext>
+        <removeexistingclass>true</removeexistingclass>
+        <shareWithClass>true</shareWithClass>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>district</privacy>
+    </testcase>
+
+
+</edulastic>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edulastic>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.redirect.Redirect" index ="1" method ="">
+        <assessmentname>Regression redirect Assignment 1</assessmentname>
+        <questiontext>question text_Regression_redirect_Assignment_1</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <adquestionafterassign>true</adquestionafterassign>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.redirect.Redirect" index ="403" method ="">
+        <assessmentname>Regression_redirect_Assignment_403</assessmentname>
+        <questiontext>question text_Regression_redirect_Assignment_403</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>Public</privacy>
+    </testcase>
+
+
+
+</edulastic>

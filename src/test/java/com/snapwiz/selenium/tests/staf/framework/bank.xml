@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<!DOCTYPE bank SYSTEM "bank.dtd" >
+
+<bank>
+  <client>
+    <clientName>Bill Clinton</clientName>
+    <homeAddress>Nashua, NH</homeAddress>
+    <homePhone>555/555-8975</homePhone>
+    <account>
+      <type>Checking</type>
+      <accountNumber>111222333</accountNumber>
+    </account>
+    <account>
+      <type>Savings</type>
+      <accountNumber>777888999</accountNumber>
+    </account>
+  </client>
+
+  <client>
+    <clientName>Al Gore</clientName>
+    <homeAddress>Washington, DC</homeAddress>
+    <homePhone>555/555-4256</homePhone>
+    <account>
+      <type>Savings</type>
+      <accountNumber>444777888</accountNumber>
+    </account>
+  </client>
+
+  <employee>
+    <empID>2105</empID>
+    <empName>Ronald Reagan</empName>
+    <workAddress>Nashua, NH</workAddress>
+    <workPhone>555/555-1245</workPhone>
+    <salary>60000</salary>
+  </employee>
+
+  <employee>
+    <empID>77</empID>
+    <empName>Jimmy Carter</empName>
+    <workAddress>Denver, CO</workAddress>
+    <workPhone>555/555-1235</workPhone>
+    <salary>250000</salary>
+  </employee>
+
+  <branchID>78963</branchID>
+</bank>

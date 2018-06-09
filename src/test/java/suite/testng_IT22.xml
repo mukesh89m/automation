@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false" preserve-order="true" configfailurepolicy="continue">
+    <listeners>
+        <listener class-name="com.snapwiz.selenium.tests.staf.learningspaces.CustomListener" />
+    </listeners>
+    <test name="IT22 Jenkins Suite">
+        <classes>
+            <!--R 22.4-->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R224.AssignThisPopOfCustomAssignment"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R224.AssignThisPopOfCustomAssignmentForLS"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R224.AssignThisPopForLSInMentorSide"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R224.AssignThisPopInMentorSide"/>
+
+            <!--R22.7-->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.AssignmentGradesNotReleased"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.LSAssignmentGradesNotReleased"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R227.FileBasedAssignmentForLsAdaptive"/>
+
+            <!--R22.8-->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R228.DestinationInstructorAccessAndUseAssessments"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R228.InstructorAbleToShareCustomAssessments"/>
+
+            <!--R22.9-->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R229.EndToEndAssignments"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R229.AssignDifferentDates"/>
+
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->

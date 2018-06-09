@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="IT_14_R142-LSRegressionSuite">
+    <classes>         	
+    	<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R142.SupportForGardingPolicyForGradableAssignment"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R142.ValidateReserveForGradingPolicyCheckBox"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R142.UploadResourcesVerifyInDatabase"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R142.InstructorUploadGradingPolicyValidation"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R142.InstructorAbleToViewUploadedGradingPolicy"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R142.ViewFilterFunctionality"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R142.InstructorAbleToAssociateGradingPolicyWithAssessment"/>
+		<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT14.R142.InstructorAbleToAssociateGradingPolicyHavingNoDescrption"/>
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->

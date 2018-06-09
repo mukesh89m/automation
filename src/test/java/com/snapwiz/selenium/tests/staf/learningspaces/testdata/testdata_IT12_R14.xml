@@ -1,0 +1,186 @@
+<?xml version="1.0"?>
+<learningspaces>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R14_3.InstructorAbleToAssignMultipleResourcesAsSingleAssignment" index="1" method="instructorAbleToAssignMultipleResourcesAsSingleAssignment">
+		<user_id>instructor_IT12_R14_1_1</user_id>
+		<Role>instructor</Role>
+		<resoursename>resources 1</resoursename>
+		<type>image</type>
+		<description>this is image</description>
+		<instructoronlyflag>true</instructoronlyflag>
+		<filename>index.jpg</filename>
+		<duedate>23</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>this is additional note</additionalnote>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R14_3.InstructorAbleToAssignMultipleResourcesAsSingleAssignment" index="2" method="instructorAbleToAssignMultipleResourcesAsSingleAssignment">
+		<user_id>instructor_IT12_R14_1_2</user_id>
+		<Role>instructor</Role>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R14_3.AssignThisButtonOnTheLessonPage" index="17" method="assignthisbuttononthelessonpage">
+		<user_id>instructor_IT12_R14_1_17</user_id>
+		<Role>instructor</Role>
+		<duedate>23</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>this is additional note</additionalnote>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R14_3.EditingAssignmentCart" index="67" method="editingAssignmentCart">
+		<user_id>instructor_IT12_R14_3_67_1</user_id>
+		<Role>instructor</Role>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R14_3.PopUpToAssignCart" index="80" method="PopUpToAssignCart">
+		<user_id>instructor_IT12_R14_1_80</user_id>
+		<Role>instructor</Role>
+        <context_id>studcontextIT12_R14_1_80</context_id>
+        <context_title>studtitleIT12_R14_1_80</context_title>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R14_3.PopUpToAssignCart" index="801" method="PopUpToAssignCart">
+		<user_id>student_IT12_R14_1_80</user_id>
+		<Role>student</Role>
+		<duedate>23</duedate>
+		<duetime>12:00 AM</duetime>
+        <context_id>studcontextIT12_R14_1_80</context_id>
+        <context_title>studtitleIT12_R14_1_80</context_title>
+		<familyname>80second</familyname>
+		<givenname>80first</givenname>
+		<shareWithClass>false</shareWithClass>
+		<shareWithInitialString>80second</shareWithInitialString>
+		<shareName>80first 80second</shareName>
+		<additionalnote>this is additional note</additionalnote>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R14_3.CartIconOnAllPagesOfInstructorSites" index="109" method="CartIconOnAllPagesOfInstructorSites">
+		<user_id>instructor_IT12_R14_1_109_1</user_id>
+		<Role>instructor</Role>
+		<duedate>23</duedate>
+		<duetime>12:00 AM</duetime>
+		<familyname>80</familyname>
+		<additionalnote>this is additional note</additionalnote>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R14_3.AssignmentCartAssigned" index="127" method="AssignmentCartAssigned">
+		<user_id>instructor_IT12_R14_1_127</user_id>
+		<Role>instructor</Role>
+		<duedate>23</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>this is additional note</additionalnote>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R14_3.AssignmentCartAssigned" index="138" method="updateassignment">
+		<user_id>instructor_IT12_R14_1_138</user_id>
+		<Role>instructor</Role>
+		<duedate>23</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>this is additional note</additionalnote>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R14_3.AssignmentCartAssigned" index="1381" method="updateassignment">
+		<user_id>student_IT12_R14_1_138</user_id>
+		<Role>student</Role>
+		<duedate>26</duedate>
+		<duetime>12:05 AM</duetime>
+		<familyname>1381second</familyname>
+		<givenname>1381first</givenname>
+		<shareWithClass>false</shareWithClass>
+		<shareWithInitialString>1381</shareWithInitialString>
+		<shareName>1381first 1381second</shareName>
+		<additionalnote>this is new  additional note</additionalnote>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R14_3.AssignmentCartAssigned" index="150" method="AssignAssignmentAtCourseStreaam">
+		<user_id>instructor_IT12_R14_1_150</user_id>
+		<Role>instructor</Role>
+		<context_id>IT12_R14_1_150studcontext</context_id>
+		<context_title>IT12_R14_1_150studtitle</context_title>
+		<duedate>23</duedate>
+		<duetime>12:00 AM</duetime>
+		<familyname>1381second</familyname>
+		<givenname>1381first</givenname>
+		<shareWithClass>false</shareWithClass>
+		<shareWithInitialString>1381</shareWithInitialString>
+		<shareName>1381first 1381second</shareName>
+		<additionalnote>this is additional note</additionalnote>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R14_3.StatusOfAssignemntCart" index="161" method="statusOfAssignemntCart">
+		<user_id>instructor_IT12_R14_161</user_id>
+		<Role>instructor</Role>
+        <context_id>studcontextIT12_R14_1_161</context_id>
+        <context_title>studtitleIT12_R14_1_161</context_title>
+		<duedate>26</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>this is additional note</additionalnote>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R14_3.StatusOfAssignemntCart" index="1611" method="statusOfAssignemntCart">
+		<user_id>student_IT12_R14_161</user_id>
+		<Role>student</Role>
+        <context_id>studcontextIT12_R14_1_161</context_id>
+        <context_title>studtitleIT12_R14_1_161</context_title>
+		<duedate>26</duedate>
+		<duetime>12:05 AM</duetime>
+		<familyname>161second</familyname>
+		<givenname>161first</givenname>
+		<shareWithClass>false</shareWithClass>
+		<shareWithInitialString>161</shareWithInitialString>
+		<shareName>161first 161second</shareName>
+		<additionalnote>this is new  additional note</additionalnote>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R14_3.StatusOfAssignemntCart" index="166" method="CartIsAssignButStudentNotAccessed">
+		<user_id>instructor_IT12_R14_166</user_id>
+		<Role>instructor</Role>
+        <context_id>studcontextIT12_R14_166</context_id>
+        <context_title>studtitleIT12_R14_166</context_title>
+		<duedate>26</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>this is additional note</additionalnote>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R14_3.StatusOfAssignemntCart" index="1661" method="CartIsAssignButStudentNotAccessed">
+		<user_id>student_IT12_R14_166</user_id>
+		<Role>student</Role>
+        <context_id>studcontextIT12_R14_166</context_id>
+        <context_title>studtitleIT12_R14_166</context_title>
+		<duedate>26</duedate>
+		<duetime>12:05 AM</duetime>
+		<familyname>1661second</familyname>
+		<givenname>1661first</givenname>
+		<shareWithClass>false</shareWithClass>
+		<shareWithInitialString>1661</shareWithInitialString>
+		<shareName>1661first 1661second</shareName>
+		<additionalnote>this is new  additional note</additionalnote>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R14_3.ResponcePageForLeaningActivity" index="170" method="ResponcePageForLeaningActivity">
+		<user_id>instructor_IT12_R14_1_170_2</user_id>
+		<Role>instructor</Role>
+		<context_id>IT12_R14_1_170studcontext</context_id>
+		<context_title>IT12_R14_1_170studtitle</context_title>
+		<duedate>26</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>this is additional note</additionalnote>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT12.R14_3.ResponcePageForLeaningActivity" index="1701" method="ResponcePageForLeaningActivity">
+		<user_id>student_IT12_R14_1_170_2</user_id>
+		<Role>student</Role>
+		<context_id>IT12_R14_1_170studcontext</context_id>
+		<context_title>IT12_R14_1_170studtitle</context_title>
+		<duedate>26</duedate>
+		<duetime>12:05 AM</duetime>
+		<familyname>1701second</familyname>
+		<givenname>1701first</givenname>
+		<shareWithClass>false</shareWithClass>
+		<shareWithInitialString>1701</shareWithInitialString>
+		<shareName>1701first 1701second</shareName>
+		<additionalnote>this is new  additional note</additionalnote>
+	</testcase>
+	
+	
+</learningspaces>

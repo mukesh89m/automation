@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edulastic>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.sanity.signup.SignUpWithGoogle" index ="1" method="">
+        <googleuser>true</googleuser>
+    </testcase>
+
+
+
+</edulastic>

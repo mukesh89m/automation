@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edulastic>
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.unassignstudent.StudentInProgress" index ="1" method="">
+        <assessmentname>Regression_studentInprogress_1</assessmentname>
+        <questiontext>question text_studentInProgress_question</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <selectgrade>Grade 1</selectgrade>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tag>tags</tag>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.unassignstudent.StudentInProgress" index ="2" method="">
+        <assessmentname>Regression_studentInprogress_2</assessmentname>
+        <questiontext>question text_studentInProgress2_question</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <selectgrade>Grade 1</selectgrade>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tag>tags</tag>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.unassignstudent.StudentInProgress" index ="3" method="">
+        <assessmentname>Regression_studentInprogress_3</assessmentname>
+        <questiontext>question text_DAAdminFlow_question</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <daadmin>true</daadmin>
+        <selectgrade>Grade 1</selectgrade>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>district</privacy>
+        <classCode>true</classCode>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.unassignstudent.StudentInProgress" index ="4" method="">
+        <assessmentname>Regression_DACommonAssignment_4</assessmentname>
+        <questiontext>question text_DAAdminFlow_question</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <daadmin>true</daadmin>
+        <selectgrade>Grade 1</selectgrade>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>district</privacy>
+        <classCode>true</classCode>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.unassignstudent.StudentInProgress" index ="5" method="">
+        <assessmentname>Onassignmentsubmission_DACommonAssignment_5</assessmentname>
+        <questiontext>question text_DAAdminFlow_question</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <daadmin>true</daadmin>
+        <selectgrade>Grade 1</selectgrade>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>district</privacy>
+        <classCode>true</classCode>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.unassignstudent.StudentInProgress" index ="6" method="">
+        <assessmentname>Onassignmentsubmission_DACommonAssignment_6</assessmentname>
+        <questiontext>question text_DAAdminFlow_question</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <daadmin>true</daadmin>
+        <selectgrade>Grade 1</selectgrade>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>On assignment submission</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>district</privacy>
+        <classCode>true</classCode>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.unassignstudent.UnAssignStudent" index ="3" method="">
+        <assessmentname>Regression_unAssignGradedStudent_3</assessmentname>
+        <questiontext>question text_unAssignGradedStudent</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <selectgrade>Grade 1</selectgrade>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.unassignstudent.UnAssignStudent" index ="4" method="">
+        <assessmentname>Regression_removeStudentFrom_5</assessmentname>
+        <questiontext>question text_removeStudentFrom</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <selectgrade>Grade 1</selectgrade>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.unassignstudent.UnAssignStudent" index ="5" method="">
+        <assessmentname>Regression_removeStudentFrom_5</assessmentname>
+        <questiontext>question text_removeStudentFrom</questiontext>
+        <username>true</username>
+        <shareWithClass>true</shareWithClass>
+        <selectgrade>Grade 3</selectgrade>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.unassignstudent.UnAssignStudent" index ="6" method="">
+        <assessmentname>Regression_DAUnAssignStudent_6</assessmentname>
+        <questiontext>question text_DAAdminFlow_question</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <daadmin>true</daadmin>
+        <selectgrade>Grade 1</selectgrade>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>district</privacy>
+        <classCode>true</classCode>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.unassignstudent.UnAssignStudent" index ="7" method="">
+        <assessmentname>Regression_SAUnAssignStudent_6</assessmentname>
+        <questiontext>question text_SAAdminFlow_question</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <saadmin>true</saadmin>
+        <selectgrade>Grade 1</selectgrade>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>school</privacy>
+        <classCode>true</classCode>
+    </testcase>
+</edulastic>

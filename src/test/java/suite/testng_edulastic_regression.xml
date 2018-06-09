@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false" preserve-order="true" configfailurepolicy="continue">
+    <listeners>
+        <listener  class-name="com.snapwiz.selenium.tests.staf.framework.listener.CustomListener" />
+    </listeners>
+    <test name="Edulastic Regression Test (Firefox)">
+        <classes>
+            <!-- Regression-->
+            <!--<class name="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.previewandevaluationcheck.PreviewAndEvaluationCheck"/>-->
+            <!--<class name="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.redirect.Redirect"/>-->
+            <!--<class name="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.daadminflow.DAAdminFlow"/>-->
+            <!--<class name="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.googlesync.GoogleSync"/>-->
+            <class name="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.rubric.DeleteRubric"/>
+            <class name="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.rubric.UseExistingRubric"/>
+            <class name="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.rubric.DisplayRubricQuestionInCreationPage"/>
+            <class name="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.rubric.Rubric"/>
+            <class name="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.rubric.DARubric"/>
+        </classes>
+    </test>
+
+
+    <!-- Test -->
+</suite> <!-- Suite -->

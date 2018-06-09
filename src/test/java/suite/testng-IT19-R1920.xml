@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+    <test name="IT19-R19.20_test">
+        <classes>
+            <!-- IT19 R19.20  "Blackboard Integration" -->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R1920.BlackBoardIntegrationForLSAdaptive"/>
+
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->

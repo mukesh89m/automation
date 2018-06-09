@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<orion>
+<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT12.R4.Tolerance" index="63" method="toleranceEdit">
+  <user_id>studentR4_1</user_id>
+  <Role>student</Role>
+  </testcase>
+  
+  
+  <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT12.R4.Tolerance" index="66" method="toleranceEmpty">
+  <user_id>studentR4_2</user_id>
+  <Role>student</Role>
+  </testcase>
+  
+  <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT12.R4.Tolerance" index="68" method="importQTIfile">
+  <user_id>studentR4_14</user_id>
+  <Role>student</Role>
+  <assessmentname>68New Assessment</assessmentname>
+  <questionset>68 New Question set</questionset>
+  <questiontext>68 Sample Text Data</questiontext>
+  <questiontype>Static Practice</questiontype>
+  <filename>c05go1.xml</filename>
+  <course_type>adaptive</course_type> // Only Adaptive
+  </testcase>
+  
+  <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT12.R4.Tolerance" index="70" method="importQTIAbsoluteValue">
+  <user_id>studentR4_70</user_id>
+  <Role>student</Role>
+  <assessmentname>70New Assessment</assessmentname>
+  <questionset>70 New Question set</questionset>
+  <questiontext>70 Sample Text Data</questiontext>
+  <questiontype>Static Practice</questiontype>
+  <filename>c05go2.xml</filename>
+  
+  </testcase>
+  
+   <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT12.R4.Tolerance" index="72" method="importQTINoToleranceAtribute">
+  <user_id>studentR4_13</user_id>
+  <Role>student</Role>
+  <assessmentname>72New Assessment</assessmentname>
+  <questionset>72 New Question set</questionset>
+  <questiontext>72 Sample Text Data</questiontext>
+  <questiontype>Static Practice</questiontype>
+  <filename>c05go1.xml</filename>
+  </testcase>
+  
+  
+  
+</orion>

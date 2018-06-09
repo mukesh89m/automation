@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R191.FooterNavigation" index="11" method="">
+        <user_id>student_IT19_R191_120</user_id>
+        <Role>student</Role>
+        <context_id>studcontextIT191_120</context_id>
+        <context_title>studtitleIT191_120</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R191.FooterNavigation" index="54" method="">
+        <user_id>student_IT19_R191_251</user_id>
+        <Role>student</Role>
+        <context_id>studcontextIT191_251</context_id>
+        <context_title>studtitleIT191_251</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R191.FooterNavigation" index="58" method="">
+        <user_id>student_IT19_R191_26</user_id>
+        <Role>student</Role>
+        <context_id>studcontextIT191_26</context_id>
+        <context_title>studtitleIT191_26</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R191.FooterNavigation" index="70" method="">
+        <user_id>student_IT19_R191_30</user_id>
+        <Role>student</Role>
+        <context_id>studcontextIT191_30</context_id>
+        <context_title>studtitleIT191_30</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R191.FooterNavigation" index="78" method="">
+        <user_id>student_IT19_R191_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontextIT191_3</context_id>
+        <context_title>studtitleIT191_3</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R191.FooterNavigation" index="127" method="">
+        <user_id>student_IT19_R191_127</user_id>
+        <Role>student</Role>
+        <context_id>studcontextIT191_127</context_id>
+        <context_title>studtitleIT191_127</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R191.FooterNavigationInstructorSide" index="88" method="">
+        <user_id>instructor_IT19_R191_3</user_id>
+        <Role>instructor</Role>
+        <context_id>instcontextIT191_3</context_id>
+        <context_title>insttitleIT191_3</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R191.FooterNavigationInstructorSide" index="126" method="">
+        <user_id>student_IT19_R191_126</user_id>
+        <Role>student</Role>
+        <context_id>studcontextIT191_126</context_id>
+        <context_title>studtitleIT191_126</context_title>
+        <lsCourseId>ISBNEPROF12479</lsCourseId>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R191.FooterNavigationInstructorSide" index="145" method="">
+        <user_id>student_IT19_R191_145</user_id>
+        <Role>student</Role>
+        <context_id>studcontextIT191_145</context_id>
+        <context_title>studtitleIT191_145</context_title>
+        <lsCourseId>ISBNEPROF12479</lsCourseId>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT19.R191.FooterNavigationInstructorSide" index="163" method="">
+        <user_id>student_IT19_R191_163</user_id>
+        <Role>instructor</Role>
+        <context_id>instcontextIT191_163</context_id>
+        <context_title>insttitleIT191_163</context_title>
+        <lsCourseId>ISBNEPROF12479</lsCourseId>
+    </testcase>
+
+
+</learningspaces>

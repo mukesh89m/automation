@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R2010.QuestionContentStatusViewForQAVendor" index="9" method="" >
+        <assessmentname>IT20_R2010_Assessment_10</assessmentname>
+        <questionset>Question Set_IT20_R2010</questionset>
+        <questiontext>Test Question_IT20_R2010</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <status>qa</status>
+        <needNotToBePubished>true</needNotToBePubished>
+        <reservforassignment>false</reservforassignment>
+        <chapterName>The Chemical Foundation of Life</chapterName>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R2010.QuestionContentStatusViewForQAVendor" index="12" method="" >
+        <assessmentname>IT20_R2010_Assessment_10</assessmentname>
+        <questionset>Question Set_IT20_R2010</questionset>
+        <questiontext>Test Question_IT20_R2010</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <status>qa</status>
+        <needNotToBePubished>true</needNotToBePubished>
+        <chapterName>The Chemical Foundation of Life</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R2010.QuestionContentStatusViewForQAVendor" index="10" method="" >
+       <user_id>instructor_IT20_R2010_10</user_id>
+       <Role>instructor</Role>
+       <context_id>studcontext_IT20_R2010_10</context_id>
+       <context_title>studtitle_IT20_R2010_10</context_title>
+       <givenname>Das</givenname>
+       <assessmentname>IT20_R2010_Assessment_10</assessmentname>
+       <duedate>23</duedate>
+       <duetime>12:00 AM</duetime>
+       <shareWithClass>true</shareWithClass>
+       <shareWithInitialString>studtitle_IT20_R2010_10</shareWithInitialString>
+       <shareName>studtitle_IT20_R2010_10</shareName>
+       <additionalnote>this is additional note</additionalnote>
+       <gradeable>false</gradeable>
+   </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R2010.QuestionContentStatusViewForQAVendor" index="14" method="" >
+        <assessmentname>IT20_R2010_Assessment_14</assessmentname>
+        <questionset>Question Set_IT20_R2010</questionset>
+        <questiontext>Test Question_IT20_R2010</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <status>publish</status>
+        <needNotToBePubished>true</needNotToBePubished>
+        <reservforassignment>false</reservforassignment>
+        <chapterName>The Chemical Foundation of Life</chapterName>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R2010.QuestionContentStatusViewForQAVendor" index="15" method="" >
+        <user_id>instructor_IT20_R2010_15</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT20_R2010_15</context_id>
+        <context_title>studtitle_IT20_R2010_15</context_title>
+        <givenname>Das</givenname>
+        <assessmentname>IT20_R2010_Assessment_14</assessmentname>
+        <duedate>23</duedate>
+        <duetime>12:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studtitle_IT20_R2010_15</shareWithInitialString>
+        <shareName>studtitle_IT20_R2010_15</shareName>
+        <additionalnote>this is additional note</additionalnote>
+        <gradeable>false</gradeable>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R2010.QuestionContentStatusViewForQAVendor" index="19" method="" >
+        <assessmentname>IT20_R2010_Assessment_19</assessmentname>
+        <questionset>Question Set_IT20_R2010</questionset>
+        <questiontext>Test Question_IT20_R2010</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <status>publish</status>
+        <needNotToBePubished>true</needNotToBePubished>
+        <reservforassignment>false</reservforassignment>
+        <chapterName>The Chemical Foundation of Life</chapterName>
+        <QuestionNo>2</QuestionNo>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R2010.QuestionContentStatusViewForQAVendor" index="20" method="" >
+        <user_id>instructor_IT20_R2010_20</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT20_R2010_20</context_id>
+        <context_title>studtitle_IT20_R2010_20</context_title>
+        <givenname>Das</givenname>
+        <assessmentname>IT20_R2010_Assessment_20</assessmentname>
+        <duedate>23</duedate>
+        <duetime>12:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studtitle_IT20_R2010_20</shareWithInitialString>
+        <shareName>studtitle_IT20_R2010_20</shareName>
+        <additionalnote>this is additional note</additionalnote>
+        <gradeable>false</gradeable>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R2010.QuestionContentStatusViewForQAVendor" index="25" method="" >
+        <user_id>instructor_IT20_R2010_25</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT20_R2010_25</context_id>
+        <context_title>studtitle_IT20_R2010_25</context_title>
+        <givenname>Das</givenname>
+        <assessmentname>IT20_R2010_Assessment_10</assessmentname>
+        <duedate>23</duedate>
+        <duetime>12:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studtitle_IT20_R2010_25</shareWithInitialString>
+        <shareName>studtitle_IT20_R2010_25</shareName>
+        <additionalnote>this is additional note</additionalnote>
+        <gradeable>false</gradeable>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R2010.QuestionContentStatusViewForQAVendor" index="30" method="">
+        <user_id>student_IT20_R2010_30</user_id>
+        <Role>student</Role>
+        <context_id>studcontextId_IT20_R2010_30</context_id>
+        <context_title>studcontextTitle_IT20_R2010_30</context_title>
+        <givenname>Priyanka</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R2010.QuestionContentStatusViewForQAVendor" index="35" method="">
+        <user_id>student_IT20_R2010_35</user_id>
+        <Role>student</Role>
+        <context_id>studcontextId_IT20_R2010_35</context_id>
+        <context_title>studcontextTitle_IT20_R2010_35</context_title>
+        <givenname>PriyankaDas</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R2010.QuestionContentStatusViewForQAVendor" index="40" method="">
+        <user_id>student_IT20_R2010_40</user_id>
+        <Role>student</Role>
+        <context_id>studcontextId_IT20_R2010_40</context_id>
+        <context_title>studcontextTitle_IT20_R2010_40</context_title>
+        <givenname>Patel</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R2010.QuestionContentStatusViewForQAVendor" index="44" method="" >
+        <assessmentname>IT20_R2010_Assessment_44</assessmentname>
+        <questionset>Question Set_IT20_R2010</questionset>
+        <questiontext>Test Question_IT20_R2010</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <status>publish</status>
+        <needNotToBePubished>true</needNotToBePubished>
+        <chapterName>The Chemical Foundation of Life</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R2010.QuestionContentStatusViewForQAVendor" index="45" method="" >
+        <user_id>instructor_IT20_R2010_45</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT20_R2010_45</context_id>
+        <context_title>studtitle_IT20_R2010_45</context_title>
+        <givenname>Das</givenname>
+        <assessmentname>IT20_R2010_Assessment_44</assessmentname>
+        <duedate>23</duedate>
+        <duetime>12:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studtitle_IT20_R2010_45</shareWithInitialString>
+        <shareName>studtitle_IT20_R2010_45</shareName>
+        <additionalnote>this is additional note</additionalnote>
+        <gradeable>false</gradeable>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R2010.QuestionContentStatusViewForQAVendor" index="45_1" method="" >
+        <user_id>student_IT20_R2010_45</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT20_R2010_45</context_id>
+        <context_title>studtitle_IT20_R2010_45</context_title>
+        <givenname>Das</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R2010.QuestionContentStatusViewForQAVendor" index="62" method="" >
+        <user_id>instructor_IT20_R2010_62</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT20_R2010_62</context_id>
+        <context_title>studtitle_IT20_R2010_62</context_title>
+        <givenname>Das</givenname>
+        <assessmentname>IT20_R2010_Assessment_10</assessmentname>
+        <duedate>23</duedate>
+        <duetime>12:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studtitle_IT20_R2010_62</shareWithInitialString>
+        <shareName>studtitle_IT20_R2010_62</shareName>
+        <additionalnote>this is additional note</additionalnote>
+        <gradeable>false</gradeable>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R2010.QuestionContentStatusViewForQAVendor" index="62_1" method="">
+        <user_id>student_IT20_R2010_62</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT20_R2010_62</context_id>
+        <context_title>studtitle_IT20_R2010_62</context_title>
+        <givenname>Patel</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R2010.QuestionContentStatusViewForQAVendor" index="80" method="" >
+        <assessmentname>IT20_R2010_Assessment_81</assessmentname>
+        <questionset>Question Set_IT20_R2010</questionset>
+        <questiontext>Test Question_IT20_R2010</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <status>readyToPublish</status>
+        <needNotToBePubished>true</needNotToBePubished>
+        <reservforassignment>false</reservforassignment>
+        <chapterName>The Chemical Foundation of Life</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R2010.QuestionContentStatusViewForQAVendor" index="81" method="" >
+        <user_id>instructor_IT20_R2010_81</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT20_R2010_81</context_id>
+        <context_title>studtitle_IT20_R2010_81</context_title>
+        <givenname>Das</givenname>
+        <assessmentname>IT20_R2010_Assessment_82</assessmentname>
+        <duedate>23</duedate>
+        <duetime>12:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studtitle_IT20_R2010_81</shareWithInitialString>
+        <shareName>studtitle_IT20_R2010_81</shareName>
+        <additionalnote>this is additional note</additionalnote>
+        <gradeable>false</gradeable>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R2010.QuestionContentStatusViewForQAVendor" index="81_1" method="">
+        <user_id>student_IT20_R2010_81</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT20_R2010_81</context_id>
+        <context_title>studtitle_IT20_R2010_81</context_title>
+        <givenname>Patel</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R2010.QuestionContentStatusViewForQAVendor" index="82" method="" >
+        <assessmentname>IT20_R2010_Assessment_82</assessmentname>
+        <questionset>Question Set_IT20_R2010</questionset>
+        <questiontext>Test Question_IT20_R2010</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <status>readyToPublish</status>
+        <needNotToBePubished>true</needNotToBePubished>
+        <chapterName>The Chemical Foundation of Life</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R2010.QuestionContentStatusViewForQAVendor" index="98" method="" >
+        <assessmentname>IT20_R2010_Assessment_98</assessmentname>
+        <questionset>Question Set_IT20_R2010</questionset>
+        <questiontext>Test Question_IT20_R2010</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <status>publish</status>
+        <needNotToBePubished>true</needNotToBePubished>
+        <chapterName>The Chemical Foundation of Life</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R2010.QuestionContentStatusViewForQAVendor" index="99" method="" >
+        <user_id>instructor_IT20_R2010_99</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT20_R2010_99</context_id>
+        <context_title>studtitle_IT20_R2010_99</context_title>
+        <givenname>Das</givenname>
+        <assessmentname>IT20_R2010_Assessment_98</assessmentname>
+        <duedate>23</duedate>
+        <duetime>12:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studtitle_IT20_R2010_99</shareWithInitialString>
+        <shareName>studtitle_IT20_R2010_99</shareName>
+        <additionalnote>this is additional note</additionalnote>
+        <gradeable>false</gradeable>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R2010.QuestionContentStatusViewForQAVendor" index="99_1" method="">
+        <user_id>student_IT20_R2010_99</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT20_R2010_99</context_id>
+        <context_title>studtitle_IT20_R2010_99</context_title>
+        <givenname>Patel</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R2010.QuestionContentStatusViewForQAVendor" index="124" method="" >
+        <user_id>student_IT20_R2010_124</user_id>>
+        <Role>student</Role>
+        <givenname>Das</givenname>
+        <context_id>studcontext_IT20_R2010_124</context_id>
+        <context_title>studtitle_IT20_R2010_124</context_title>
+        <assessmentname>IT20_R201_Assessment_125</assessmentname>
+        <questiontype>Adaptive Component Diagnostic</questiontype>
+        <questionset>Test Question IT20_R201_124</questionset>
+        <questiontext>Test QuestionIT20_R201_124</questiontext>
+        <learningobjective>true</learningobjective>
+        <reservforassignment>false</reservforassignment>
+        <newChapterName>Diagnostic_Assessment_IT20_R201_125</newChapterName>
+        <chapterName>Diagnostic_Assessment_IT20_R201_125</chapterName>
+        <status>qa</status>
+        <needNotToBePubished>true</needNotToBePubished>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R2010.QuestionContentStatusViewForQAVendor" index="131" method="" >
+        <user_id>IT20_R2010_student_131</user_id>>
+        <Role>student</Role>
+        <context_id>IT20_R2010_studcontext_131</context_id>
+        <context_title>IT20_R2010_studtitle_131</context_title>
+        <assessmentname>Practice Assessment_131</assessmentname>
+        <questiontype>Adaptive Component Practice</questiontype>
+        <questionset>Test Question IT20_R2010_131</questionset>
+        <questiontext>Test Question IT20_R2010_131</questiontext>
+        <learningobjective>true</learningobjective>
+        <reservforassignment>false</reservforassignment>
+        <newChapterName>Diagnostic_Assessment_IT20_R201_125</newChapterName>
+        <chapterName>Diagnostic_Assessment_IT20_R201_125</chapterName>
+        <status>qa</status>
+        <needNotToBePubished>true</needNotToBePubished>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R2010.QuestionContentStatusViewForQAVendor" index="138" method="" >
+        <user_id>IT20_R2010_student_138</user_id>>
+        <Role>student</Role>
+        <context_id>IT20_R2010_studcontext_138</context_id>
+        <context_title>IT20_R2010_studtitle_138</context_title>
+        <assessmentname>IT20_R2010_Assessment_138</assessmentname>
+        <questionset>Question Set_IT20_R2010</questionset>
+        <questiontext>Test Question_IT20_R2010</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <status>qa</status>
+        <needNotToBePubished>true</needNotToBePubished>
+        <reservforassignment>false</reservforassignment>
+        <chapterName>The Chemical Foundation of Life</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R2010.QuestionContentStatusViewForQAVendor" index="145" method="" >
+        <user_id>IT20_R2010_student_145</user_id>>
+        <Role>student</Role>
+        <context_id>IT20_R2010_studcontext_145</context_id>
+        <context_title>IT20_R2010_studtitle_145</context_title>
+        <assessmentname>IT20_R2010_Assessment_138</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R2010.QuestionContentStatusViewForQAVendor" index="171" method="" >
+        <user_id>IT20_R2010_student_171</user_id>>
+        <Role>student</Role>
+        <context_id>IT20_R2010_studcontext_171</context_id>
+        <context_title>IT20_R2010_studtitle_171</context_title>
+        <assessmentname>IT20_R2010_Assessment_171</assessmentname>
+        <questionset>Question Set_IT20_R2010</questionset>
+        <questiontext>Test Question_IT20_R2010</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <status>readyToPublish</status>
+        <needNotToBePubished>true</needNotToBePubished>
+        <reservforassignment>false</reservforassignment>
+        <chapterName>The Chemical Foundation of Life</chapterName>
+    </testcase>
+</learningspaces>

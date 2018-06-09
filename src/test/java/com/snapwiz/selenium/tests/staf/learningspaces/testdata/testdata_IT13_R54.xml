@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<learningspaces>
+
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R54.SupportForAssignmentsUploadedFile" index="1" method="supportForAssignmentsUploadedFile">
+		<user_id>instructorR54_2</user_id>
+		<Role>instructor</Role>
+		<filename>img.png</filename>
+		<resourcesname></resourcesname>
+		<description>this is descrption</description>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R54.SupportForAssignmentsUploadedFile" index="1_1" method="supportForAssignmentsUploadedFile">
+		<filename>img.png</filename>
+		<resourcesname>resources 123name</resourcesname>
+		<description></description>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R54.SupportForAssignmentsUploadedFile" index="21" method="reserveForAssigment">
+		<user_id>instructorR54_21</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontext21</context_id>
+		<context_title>studtitle21</context_title>
+		<filename>img.png</filename>
+		<resourcesname>AAresources21</resourcesname>
+		<description>this is descrption</description>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R54.SupportForAssignmentsUploadedFile" index="21_1" method="reserveForAssigment">
+		<user_id>studentR54_21</user_id>
+		<Role>student</Role>
+		<context_id>studcontext21</context_id>
+		<context_title>studtitle21</context_title>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R54.SupportForAssignmentsUploadedFile" index="26" method="reserveForAssigment">
+		<user_id>instructorR54_26</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontext26</context_id>
+		<context_title>studtitle26</context_title>
+		<filename>img.png</filename>
+		<resourcesname>AAresources26</resourcesname>
+		<description>this is descrption</description>
+	</testcase>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R54.SupportForAssignmentsUploadedFile" index="26_1" method="reserveForAssigment">
+		<user_id>studentR54_26</user_id>
+		<Role>student</Role>
+		<context_id>studcontext26</context_id>
+		<context_title>studtitle26</context_title>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R54.InstructorAbleToassociateResourcesWithToc" index="33" method="instructorAbleToassociateResourcesWithToc">
+		<user_id>instructorR54_33</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontext33</context_id>
+		<context_title>studtitle33</context_title>
+		<filename>img.png</filename>
+		<resourcesname>AAresources33</resourcesname>
+		<description>this is descrption</description>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R54.InstructorAbleToassociateResourcesWithToc" index="58" method="validateTheUploadedResources">
+		<user_id>instructorR54_58</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontext58</context_id>
+		<context_title>studtitle58</context_title>
+		<filename>img.png</filename>
+		<resourcesname>resources58</resourcesname>
+		<description>this is descrption</description>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R54.InstructorAbleToassociateResourcesWithToc" index="58_1" method="validateTheUploadedResources">
+		<user_id>instructorR54_58</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontext58</context_id>
+		<context_title>studtitle58</context_title>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R54.InstructorAbleToAssignUploadedResources" index="92" method="instructorAbleToAssignUploadedResources">
+		<user_id>instructorR54_92</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontext92</context_id>
+		<context_title>studtitle92</context_title>
+		<filename>img.png</filename>
+		<resourcesname>AAresources92</resourcesname>
+		<description>this is descrption</description>
+		<duedate>23</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>this is additional note</additionalnote>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R54.InstructorAbleToAssignUploadedResources" index="107" method="instructorAbleToAssignUploadedResourcesFromResourcesPage">
+		<user_id>instructorR54_107</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontext107</context_id>
+		<context_title>studtitle107</context_title>
+		<filename>img.png</filename>
+		<resourcesname>AAresources107</resourcesname>
+		<description>this is descrption</description>
+		<duedate>23</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>this is additional note</additionalnote>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R54.InstructorAbleToAssignUploadedResources" index="128" method="instructorAbleToAssignUploadedResourcesFromResourcesPage">
+		<user_id>instructorR54_128</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontext128</context_id>
+		<context_title>studtitle128</context_title>
+		<filename>img.png</filename>
+		<resourcesname>AAresources128</resourcesname>
+		<description>this is descrption</description>
+		<duedate>23</duedate>
+		<duetime>12:00 AM</duetime>
+		<additionalnote>this is additional note</additionalnote>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R54.InstructorAbleToAssignUploadedResources" index="1281" method="instructorAbleToAssignUploadedResourcesFromResourcesPage">
+		<user_id>studentR54_128</user_id>
+		<Role>student</Role>
+		<context_id>studcontext128</context_id>
+		<context_title>studtitle128</context_title>
+	</testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R54.ResourceOrderInMyLibrary" index="10976" method="validateTheUploadedResources">
+        <user_id>instructorR54_10976</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext10976</context_id>
+        <context_title>studtitle10976</context_title>
+        <filename>img.png</filename>
+        <resourcesname>resources10976</resourcesname>
+        <description>10976 this is descrption</description>
+        <gradingpolicystatus>true</gradingpolicystatus>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R54.ResourceOrderInMyLibrary" index="10976_1" method="validateTheUploadedResources">
+        <filename>img.png</filename>
+        <resourcesname>resources10976_1</resourcesname>
+        <description>10976_1 this is descrption</description>
+        <gradingpolicystatus>true</gradingpolicystatus>
+    </testcase>
+	
+</learningspaces>

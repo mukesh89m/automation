@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R2314.CopyQuestions" index="78" method="">
+        <assessmentname>TrueFalseQuestionType_78</assessmentname>
+        <questionset>TrueFalseQuestionSet</questionset>
+        <questiontype>Static Practice</questiontype>
+        <questiontext>TrueFalseQuestionText_78</questiontext>
+    </testcase>
+</learningspaces>
+

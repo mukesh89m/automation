@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orion>
+    
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT16.R1612.EnhancementInstructorDashboard" index="1" method="enhancementInstructorDashboard">
+		<user_id>IT16_R1612_instructor_1</user_id>
+		<Role>instructor</Role>
+		<context_id>IT16_R1612_classsectionid1</context_id>
+		<context_title>IT16_R1612_classsectionname1</context_title>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT16.R1612.EnhancementInstructorDashboard" index="2" method="enhancementInstructorDashboard">
+		<user_id>IT16_R1612_instructor_1</user_id>
+		<Role>instructor</Role>
+		<context_id>IT16_R1612_classsectionid2</context_id>
+		<context_title>IT16_R1612_classsectionname2</context_title>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT16.R1612.EnhancementMentorDashboard" index="24" method="enhancementMentorDashboard">
+		<user_id>IT16_R1612_mentor_25</user_id>
+		<Role>mentor</Role>
+		<context_id>IT16_R1612_classsectionid24</context_id>
+		<context_title>IT16_R1612_classsectionname24</context_title>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT16.R1612.EnhancementMentorDashboard" index="25" method="enhancementMentorDashboard">
+		<user_id>IT16_R1612_mentor_25</user_id>
+		<Role>mentor</Role>
+		<context_id>IT16_R1612_classsectionid25</context_id>
+		<context_title>IT16_R1612_classsectionname25</context_title>
+	</testcase>
+ 
+</orion>

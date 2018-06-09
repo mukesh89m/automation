@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<learningspaces>
+	<testcase id="tocdata" index="1">
+		<searchtext>test</searchtext>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R55.QuestionCountIncreaseInSummaryPageAfterAddingQuestion" index="13" method="questionCountIncreaseInSummaryPageAfterAddingQuestion">
+		<course>Biology</course>
+		<assessmentname>AssessmentR55_13_1</assessmentname>
+		<questionset>Question SetR55_13_1</questionset>
+		<questiontext>Test Question R55_13_1</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<optiontext>option</optiontext>
+		<maplenumeric>32</maplenumeric>
+		<numerictext>64</numerictext>
+		<answertext>choice1</answertext>
+		<passage>this is passage</passage>
+		<setname>set AssessmentR55_13_1</setname>
+	</testcase>
+		
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R55.UseEnterToEvaluationInPreviewPage" index="81" method="useEnterToEvaluationInPreviewPage">
+		<course>Biology</course>
+		<assessmentname>AssessmentR55_82</assessmentname>
+		<questionset>Question SetR55_82</questionset>
+		<questiontext>Test Question R55_82</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<answertext>choice1</answertext>
+		<optiontext>option</optiontext>
+		<maplenumeric>32</maplenumeric>
+		<numerictext>64</numerictext>
+		<passage>this is passage</passage>
+		<setname>set AssessmentR55_82</setname>		
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R55.ReserveForAssignmentCheckBoxBehaviour" index="127" method="ReserveForAssignmentCheckBoxBehaviour">
+		<course>Biology</course>
+		<assessmentname>AssessmentR55_127</assessmentname>
+		<questionset>Question SetR55_127</questionset>
+		<questiontext>Test Question R55_127</questiontext>
+		<questiontype>Static Practice</questiontype>
+	</testcase>
+	
+</learningspaces>

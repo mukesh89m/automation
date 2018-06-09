@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R2313.EnhancementToTheExpressionEvaluatorQuestionType" index="11" method="embeddedAssessmentInLessonPage">
+        <context_id>studcontext_IT23_R2313</context_id>
+        <context_title>studtitleIt_IT23_R2313</context_title>
+        <assessmentname>Assessment_IT23_R2313</assessmentname>
+        <questionset>IT23_R2313_QuestionSet</questionset>
+        <questiontext>QuestionText_IT23_R2313</questiontext>
+        <questiontype> Static Practice </questiontype>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R2313.EnhancementToTheExpressionEvaluatorQuestionType" index="34" method="toggleBetweenGeneralAndQuantity">
+        <user_id>IT123_R2313Instructor_34_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R2313_34</context_id>
+        <context_title>studtitle_R2313_34</context_title>
+        <assessmentname>Assessment_IT23_R2313_34</assessmentname>
+        <questionset>IT23_R2313_34_QuestionSet</questionset>
+        <questiontext>QuestionText_IT23_R2313_34</questiontext>
+        <questiontype> Static Practice </questiontype>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R2313.EnhancementToTheExpressionEvaluatorQuestionType" index="36" method="expressionEvaluatorGeneralQuantityDefaultSettings">
+        <user_id>IT123_R2313Student_36_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R2313_36</context_id>
+        <context_title>studtitle_R2313_36</context_title>
+        <assessmentname>Assessment_IT23_R2313_36</assessmentname>
+        <questionset>IT23_R2313_36_QuestionSet</questionset>
+        <questiontext>QuestionText_IT23_R2313_36</questiontext>
+        <questiontype> Static Practice </questiontype>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R2313.EnhancementToTheExpressionEvaluatorQuestionType" index="40" method="expressionEvaluatorQuantityDefaultSettings">
+        <user_id>IT123_R2313Student_40_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R2313_40</context_id>
+        <context_title>studtitle_R2313_40</context_title>
+        <assessmentname>Assessment_IT23_R2313_40</assessmentname>
+        <questionset>IT23_R2313_40_QuestionSet</questionset>
+        <questiontext>QuestionText_IT23_R2313_40</questiontext>
+        <questiontype> Static Practice </questiontype>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R2313.EnhancementToTheExpressionEvaluatorQuestionType" index="44" method="separatorSettingsInTheExpressionEvaluatorQuestionType">
+        <user_id>IT123_R2313Student_44_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R2313_44</context_id>
+        <context_title>studtitle_R2313_44</context_title>
+        <assessmentname>Assessment_IT23_R2313_44</assessmentname>
+        <questionset>IT23_R2313_44_QuestionSet</questionset>
+        <questiontext>QuestionText_IT23_R2313_44</questiontext>
+        <questiontype> Static Practice </questiontype>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R2313.EnhancementToTheExpressionEvaluatorQuestionType" index="50" method="separatorSettingsInTheExpressionEvaluatorQuestionWithSpace">
+        <user_id>IT123_R2313Student_50_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R2313_50</context_id>
+        <context_title>studtitle_R2313_50</context_title>
+        <assessmentname>Assessment_IT23_R2313_50</assessmentname>
+        <questionset>IT23_R2313_50_QuestionSet</questionset>
+        <questiontext>QuestionText_IT23_R2313_50</questiontext>
+        <questiontype> Static Practice </questiontype>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R2313.EnhancementToTheExpressionEvaluatorQuestionType" index="55" method="mixedFractionSettingsInTheExpressionEvaluatorQuestion">
+        <user_id>IT123_R2313Student_55_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R2313_55</context_id>
+        <context_title>studtitle_R2313_55</context_title>
+        <assessmentname>Assessment_IT23_R2313_55</assessmentname>
+        <questionset>IT23_R2313_55_QuestionSet</questionset>
+        <questiontext>QuestionText_IT23_R2313_55</questiontext>
+        <questiontype> Static Practice </questiontype>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R2313.EnhancementToTheExpressionEvaluatorQuestionType" index="61" method="separatorSettingsInTheExpressionEvaluatorQuantity">
+        <user_id>IT123_R2313Student_61_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R2313_61</context_id>
+        <context_title>studtitle_R2313_61</context_title>
+        <assessmentname>Assessment_IT23_R2313_61</assessmentname>
+        <questionset>IT23_R2313_61_QuestionSet</questionset>
+        <questiontext>QuestionText_IT23_R2313_61</questiontext>
+        <questiontype> Static Practice </questiontype>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R2313.EnhancementToTheExpressionEvaluatorQuestionType" index="67" method="quantitySettingsInTheExpressionEvaluatorQuestionWithSpace">
+        <user_id>IT123_R2313Student_67_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R2313_67</context_id>
+        <context_title>studtitle_R2313_67</context_title>
+        <assessmentname>Assessment_IT23_R2313_67</assessmentname>
+        <questionset>IT23_R2313_67_QuestionSet</questionset>
+        <questiontext>QuestionText_IT23_R2313_67</questiontext>
+        <questiontype> Static Practice </questiontype>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R2313.EnhancementToTheExpressionEvaluatorQuestionType" index="74" method="matrixValidation">
+        <context_id>studcontext_R2313_74</context_id>
+        <context_title>studtitle_R2313_74</context_title>
+        <assessmentname>Assessment_IT23_R2313_74</assessmentname>
+        <questionset>IT23_R2313_74_QuestionSet</questionset>
+        <questiontext>QuestionText_IT23_R2313_74</questiontext>
+        <questiontype> Static Practice </questiontype>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R2313.EnhancementToTheExpressionEvaluatorQuestionType" index="76" method="integralValidation">
+        <context_id>studcontext_R2313_76</context_id>
+        <context_title>studtitle_R2313_76</context_title>
+        <assessmentname>Assessment_IT23_R2313_76</assessmentname>
+        <questionset>IT23_R2313_76_QuestionSet</questionset>
+        <questiontext>QuestionText_IT23_R2313_76</questiontext>
+        <questiontype> Static Practice </questiontype>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R2313.EnhancementToTheExpressionEvaluatorQuestionType" index="78" method="unitsValidation">
+        <context_id>studcontext_R2313_78</context_id>
+        <context_title>studtitle_R2313_78</context_title>
+        <assessmentname>Assessment_IT23_R2313_78</assessmentname>
+        <questionset>IT23_R2313_78_QuestionSet</questionset>
+        <questiontext>QuestionText_IT23_R2313_78</questiontext>
+        <questiontype> Static Practice </questiontype>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R2313.EnhancementToTheExpressionEvaluatorQuestionType" index="80" method="expressionEvalutorUnderMPQ">
+        <context_id>studcontext_R2313_80</context_id>
+        <context_title>studtitle_R2313_80</context_title>
+        <assessmentname>Assessment_IT23_R2313_80</assessmentname>
+        <questionset>IT23_R2313_80_QuestionSet</questionset>
+        <questiontext>QuestionText_IT23_R2313_80</questiontext>
+        <questiontype> Static Practice </questiontype>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R2313.EnhancementToTheExpressionEvaluatorQuestionType" index="81" method="searchOrBrowseExpressionEvaluator">
+        <user_id>IT123_R2313Instructor_81</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R2313_81</context_id>
+        <context_title>studtitle_R2313_81</context_title>
+        <assessmentname>Assessment_IT23_R2313_81</assessmentname>
+        <questionset>IT23_R2313_81_QuestionSet</questionset>
+        <questiontext>QuestionText_IT23_R2313_81</questiontext>
+        <questiontype> Static Practice </questiontype>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT23.R2313.EnhancementToTheExpressionEvaluatorQuestionType" index="83" method="studentSide">
+        <user_id>IT123_R2313Student_83</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_R2313_83</context_id>
+        <context_title>studtitle_R2313_83</context_title>
+        <assessmentname>Assessment_IT23_R2313_81</assessmentname>
+        <questionset>IT23_R2313_81_QuestionSet</questionset>
+        <questiontext>QuestionText_IT23_R2313_81</questiontext>
+        <questiontype> Static Practice </questiontype>
+        <reservforassignment>false</reservforassignment>
+    </testcase>
+</learningspaces>
+

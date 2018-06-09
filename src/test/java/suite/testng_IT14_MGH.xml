@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="R14.26-MGHRegressionSuite" preserve-order="true">
+    <classes> 
+    
+    <!-- Test R26-->     
+    	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R1426.BookmarkForTheStreamEntries"/>
+    	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R1426.CoursePerformanceIndicatorsForInstructorHavingNoData"/>
+    	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R1426.DashBoardForInstructor"/>
+    	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R1426.InstructorAbleToViewAssignmentActivity"/>
+    	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R1426.InstructorAbleToViewCourseStreamEntries"/>
+    	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R1426.InstructorAbleToViewNavigatorIconInHeader"/>
+    	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R1426.TopTenPercentOfClass"/>
+    	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R1426.VerifyBarGraphInAssignmentTile"/>
+    	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R1426.VerifyCoursePerformanceIndicators"/>        	
+    
+    <!-- Test R14.19-14.21--> 
+    	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R1419.InstitutionalAdminAbleToCreateNewClassSection"/>
+    	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R1419.InstitutionalAdminAbleToManageAllUser"/>
+    	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R1419.InstitutionalAdminLoginAndAbleToSeeDashboard"/>
+    	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R1419.InstitutionalAdminManageAllClassSectionInMyInstitution"/>
+    	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R1419.InstitutionalAdminManageAllCourseInMyInstitution"/>
+    	
+     <!-- Test R14.29--> 
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R1429.ProficencyOfTestDependsOnAnsweroptions"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R1429.ProficencyPageFeatures"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R1429.StudentAbleToSeeProficencyReport"/>
+        <class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R1429.StudentInstructorAbleToNavigateProficencyReport"/>
+     
+     <!-- Test R14.32--> 
+    	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R32.DiffrentQuizTypeSupported"/>
+    	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R32.PerformanceInLastTenQuestion"/>
+    	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R32.PerformanceReportOfQuiz"/>
+    	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R32.QuestionViewOfQuizOnStudentSide"/>
+    	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R32.StudentAbleToAttemptPracticetestFromDashboard"/>
+    	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R32.StudentAbleToCreateOwnCustomQuiz"/>
+    	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R32.StudentAbleToStartPracticeTestFromDashboard"/>
+    	<class name="com.snapwiz.selenium.tests.staf.mgh.testcases.IT14.R32.TotalNumberOfAvailableQuestions"/>    	
+   
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->

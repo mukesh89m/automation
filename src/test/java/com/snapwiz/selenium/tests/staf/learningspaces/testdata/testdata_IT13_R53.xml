@@ -1,0 +1,178 @@
+<?xml version="1.0"?>
+<learningspaces>
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R53.StudentAbleToViewUpcomingAssignmentOnDashBoard" index="1" method="studentAbleToViewUpcomingAssignmentOnDashBoard">
+		<user_id>studentR53</user_id>
+		<Role>student</Role>
+		<familyname>1second</familyname>
+		<givenname>1first</givenname>
+		<context_id>studcontextR531</context_id>
+		<context_title>studtitleR531</context_title>
+		<course>Biology</course>
+		<assessmentname>AssessmentR531</assessmentname>
+		<questionset>Question SetR531</questionset>
+		<questiontext>Test Question R531</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<duedate>23</duedate>
+		<duetime>12:00 AM</duetime>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>false</gradeable>
+		<shareWithInitialString>1second</shareWithInitialString>
+		<shareName>1first 1second</shareName>
+		<additionalnote>this is additional note</additionalnote>
+	</testcase>
+	
+	
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R53.StudentAbleToViewUpcomingAssignmentOnDashBoard" index="11" method="studentAbleToViewUpcomingAssignmentOnDashBoard">
+		<course>Biology</course>
+		<assessmentname>AssessmentR532</assessmentname>
+		<questionset>Question SetR532</questionset>
+		<questiontext>Test Question R532</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<duedate>24</duedate>
+        <context_title>studtitleR531</context_title>
+		<duetime>12:00 AM</duetime>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>false</gradeable>
+		<shareWithInitialString>1second</shareWithInitialString>
+		<shareName>1first 1second</shareName>
+		<additionalnote>this is additional note</additionalnote>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R53.StudentAbleToViewUpcomingAssignmentOnDashBoard" index="12" method="studentAbleToViewUpcomingAssignmentOnDashBoard">
+		<course>Biology</course>
+		<assessmentname>AssessmentR533</assessmentname>
+		<questionset>Question SetR533</questionset>
+		<questiontext>Test Question R533</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<duedate>25</duedate>
+        <context_title>studtitleR531</context_title>
+		<duetime>12:00 AM</duetime>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>false</gradeable>
+		<shareWithInitialString>1second</shareWithInitialString>
+		<shareName>1first 1second</shareName>
+		<additionalnote>this is additional note</additionalnote>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R53.StudentAbleToViewUpcomingAssignmentOnDashBoard" index="13" method="studentAbleToViewUpcomingAssignmentOnDashBoard">
+		<course>Biology</course>
+		<assessmentname>AssessmentR534</assessmentname>
+		<questionset>Question SetR534</questionset>
+		<questiontext>Test Question R534</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<duedate>26</duedate>
+        <context_title>studtitleR531</context_title>
+		<duetime>12:00 AM</duetime>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>false</gradeable>
+		<shareWithInitialString>1second</shareWithInitialString>
+		<shareName>1first 1second</shareName>
+		<additionalnote>this is additional note</additionalnote>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R53.StudentAbleToViewUpcomingAssignmentOnDashBoard" index="14" method="studentAbleToViewUpcomingAssignmentOnDashBoard">
+		<user_id>instructorR53_1</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR531</context_id>
+		<context_title>studtitleR531</context_title>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R53.StudentAbleToViewUpcomingAssignmentOnDashBoard" index="15" method="studentAbleToViewUpcomingAssignmentOnDashBoard">
+		<course>Biology</course>
+		<assessmentname>AssessmentR535</assessmentname>
+		<questionset>Question SetR535</questionset>
+		<questiontext>Test Question R535</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<duedate>27</duedate>
+        <context_title>studtitleR531</context_title>
+		<duetime>12:00 AM</duetime>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>false</gradeable>
+		<shareWithInitialString>1second</shareWithInitialString>
+		<shareName>1first 1second</shareName>
+		<additionalnote>this is additional note</additionalnote>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R53.StudentAbleToViewUpcomingAssignmentOnDashBoard" index="8" method="DashBoardUpdateWithCompletingTheAssignment">
+		<user_id>studentR53_8</user_id>
+		<Role>student</Role>
+		<familyname>8second</familyname>
+		<givenname>8first</givenname>
+		<context_id>studcontextR538</context_id>
+		<context_title>studtitleR538</context_title>
+		<course>Biology</course>
+		<assessmentname>AssessmentR538</assessmentname>
+		<questionset>Question SetR538</questionset>
+		<questiontext>Test Question R538</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<duedate>23</duedate>
+		<duetime>12:00 AM</duetime>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>false</gradeable>
+		<shareWithInitialString>8second</shareWithInitialString>
+		<shareName>8first 8second</shareName>
+		<additionalnote>this is additional note</additionalnote>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R53.StudentAbleToViewUpcomingAssignmentOnDashBoard" index="81" method="DashBoardUpdateWithCompletingTheAssignment">
+		<user_id>instructorR53_8</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR538</context_id>
+		<context_title>studtitleR538</context_title>
+		<course>Biology</course>
+		<assessmentname>AssessmentR5382</assessmentname>
+		<questionset>Question SetR5382</questionset>
+		<questiontext>Test Question R5382</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<duedate>23</duedate>
+		<duetime>12:00 AM</duetime>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>false</gradeable>
+		<shareWithInitialString>8second</shareWithInitialString>
+		<shareName>8first 8second</shareName>
+		<additionalnote>this is additional note</additionalnote>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R53.StudentAbleToViewUpcomingAssignmentOnDashBoard" index="33" method="ImpactOfAssignmentOverSnapshot">
+		<user_id>studentR53_33</user_id>
+		<Role>student</Role>
+		<familyname>33second</familyname>
+		<givenname>33first</givenname>
+		<context_id>studcontextR53_33</context_id>
+		<context_title>studtitleR53_33</context_title>
+		<course>Biology</course>
+		<assessmentname>AssessmentR5333</assessmentname>
+		<questionset>Question SetR5333</questionset>
+		<questiontext>Test Question R5333</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<duedate>23</duedate>
+		<duetime>12:00 AM</duetime>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>true</gradeable>
+		<shareWithInitialString>33second</shareWithInitialString>
+		<shareName>33first 33second</shareName>
+		<additionalnote>this is additional note</additionalnote>
+		<studentname>33first 33second</studentname>
+	</testcase>
+	
+	<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT13.R53.StudentAbleToViewUpcomingAssignmentOnDashBoard" index="331" method="ImpactOfAssignmentOverSnapshot">
+		<user_id>instructorR53_33</user_id>
+		<Role>instructor</Role>
+		<context_id>studcontextR53_33</context_id>
+		<context_title>studtitleR53_33</context_title>
+		<course>Biology</course>
+		<assessmentname>AssessmentR5333_1</assessmentname>
+		<questionset>Question SetR5333_1</questionset>
+		<questiontext>Test Question R5333_1</questiontext>
+		<questiontype>Static Practice</questiontype>
+		<duedate>24</duedate>
+		<duetime>12:00 AM</duetime>
+		<shareWithClass>false</shareWithClass>
+		<gradeable>false</gradeable>
+		<shareWithInitialString>33second</shareWithInitialString>
+		<shareName>33first 33second</shareName>
+		<additionalnote>this is additional note</additionalnote>
+	</testcase>
+	
+</learningspaces>

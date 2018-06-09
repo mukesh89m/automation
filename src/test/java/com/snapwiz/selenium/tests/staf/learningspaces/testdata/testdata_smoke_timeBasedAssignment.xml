@@ -1,0 +1,1796 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="1">
+        <user_id>instructor_smoke_timeBasedAssignment1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment1</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment1</context_title>
+        <assignmentpolicyname>PolicyOne</assignmentpolicyname>
+        <assessmentname>Assignment_smoke_timeBasedAssignmentPolicyOne</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question_smoke_timeBasedAssignmentPolicyOne</questionset>
+        <questiontext>Test Question_smoke_timeBasedAssignmentPolicyOne</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_smoke_timeBasedAssignment1</shareWithInitialString>
+        <shareName>studtitle_smoke_timeBasedAssignment1</shareName>
+        <timeBasedAssignment>enable</timeBasedAssignment>
+        <extensionAfterDueDate>disable</extensionAfterDueDate>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>PolicyOne</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>17</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <grade>0.5</grade>
+        <timeDuration>1</timeDuration>
+        <updateTime>2</updateTime>
+       <studentname>Jan Month</studentname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="1_1">
+        <user_id>student_smoke_timeBasedAssignment1_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment1</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment1</context_title>
+        <familyname>Month</familyname>
+        <givenname>Jan</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="1_2">
+        <user_id>student_smoke_timeBasedAssignment1_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment1</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment1</context_title>
+        <familyname>Month</familyname>
+        <givenname>Feb</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="2">
+        <user_id>instructor_smoke_timeBasedAssignment2</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment2</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment2</context_title>
+        <assignmentpolicyname>timeBasedAssignmentPolicyTwo</assignmentpolicyname>
+        <assessmentname>Assignment_smoke_timeBasedAssignmentPolicyTWo</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question_smoke_timeBasedAssignmentPolicyTw</questionset>
+        <questiontext>Test Question_smoke_timeBasedAssignmentPolicyTwo</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_smoke_timeBasedAssignment2</shareWithInitialString>
+        <shareName>studtitle_smoke_timeBasedAssignment2</shareName>
+        <timeBasedAssignment>enable</timeBasedAssignment>
+        <extensionAfterDueDate>disable</extensionAfterDueDate>
+
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>timeBasedAssignmentPolicyTwo</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>27</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <timeDuration>1</timeDuration>
+        <updateTime>2</updateTime>
+        <studentname>first student</studentname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="2_1">
+        <user_id>student_smoke_timeBasedAssignment2_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment2</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment2</context_title>
+        <familyname>student</familyname>
+        <givenname>first</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="2_2">
+        <user_id>student_smoke_timeBasedAssignment2_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment2</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment2</context_title>
+        <familyname>student</familyname>
+        <givenname>second</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="3">
+        <user_id>instructor_smoke_timeBasedAssignment3</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment3</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment3</context_title>
+        <assignmentpolicyname>timeBasedAssignmentPolicyThree</assignmentpolicyname>
+        <assessmentname>Assignment_smoke_timeBasedAssignmentPolicyThree</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question_smoke_timeBasedAssignmentPolicyThree</questionset>
+        <questiontext>Test Question_smoke_timeBasedAssignmentPolicyTwo</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_smoke_timeBasedAssignment3</shareWithInitialString>
+        <shareName>studtitle_smoke_timeBasedAssignment3</shareName>
+        <timeBasedAssignment>enable</timeBasedAssignment>
+        <extensionAfterDueDate>disable</extensionAfterDueDate>
+
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>timeBasedAssignmentPolicyThree</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>27</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <timeDuration>1</timeDuration>
+        <updateTime>2</updateTime>
+        <studentname>first student</studentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="3_1">
+        <user_id>student_smoke_timeBasedAssignment3_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment3</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment3</context_title>
+        <familyname>student</familyname>
+        <givenname>first</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="3_2">
+        <user_id>student_smoke_timeBasedAssignment3_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment3</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment3</context_title>
+        <familyname>student</familyname>
+        <givenname>second</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="4">
+        <user_id>instructor_smoke_timeBasedAssignment4</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment4</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment4</context_title>
+        <assignmentpolicyname>timeBasedAssignmentPolicyThree</assignmentpolicyname>
+        <assessmentname>Assignment_smoke_timeBasedAssignmentPolicyFour</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question_smoke_timeBasedAssignmentPolicyFour</questionset>
+        <questiontext>Test Question_smoke_timeBasedAssignmentPolicyFour</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_smoke_timeBasedAssignment4</shareWithInitialString>
+        <shareName>studtitle_smoke_timeBasedAssignment4</shareName>
+        <timeBasedAssignment>enable</timeBasedAssignment>
+        <extensionAfterDueDate>disable</extensionAfterDueDate>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>timeBasedAssignmentPolicyThree</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>27</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <timeDuration>1</timeDuration>
+        <updateTime>2</updateTime>
+        <studentname>first student</studentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="4_1">
+        <user_id>student_smoke_timeBasedAssignment4_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment4</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment4</context_title>
+        <familyname>student</familyname>
+        <givenname>first</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="4_2">
+        <user_id>student_smoke_timeBasedAssignment4_4</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment4</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment4</context_title>
+        <familyname>student</familyname>
+        <givenname>second</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="5">
+        <user_id>instructor_smoke_timeBasedAssignment5</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment5</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment5</context_title>
+        <assignmentpolicyname>timeLimitOptionEnableAndTimeLimitExhausted</assignmentpolicyname>
+        <assessmentname>Assignment_smoke_timeLimitOptionEnableAndTimeLimitExhausted</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question_smoke_timeLimitOptionEnableAndTimeLimitExhausted</questionset>
+        <questiontext>Test Question_smoke_timeLimitOptionEnableAndTimeLimitExhausted</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_smoke_timeBasedAssignment5</shareWithInitialString>
+        <shareName>studtitle_smoke_timeBasedAssignment5</shareName>
+        <timeBasedAssignment>enable</timeBasedAssignment>
+        <extensionAfterDueDate>disable</extensionAfterDueDate>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>timeLimitOptionEnableAndTimeLimitExhausted</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>27</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <timeDuration>1</timeDuration>
+        <updateTime>3</updateTime>
+        <studentname>first student</studentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="5_1">
+        <user_id>student_smoke_timeBasedAssignment5_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment5</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment5</context_title>
+        <familyname>student</familyname>
+        <givenname>first</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="5_2">
+        <user_id>student_smoke_timeBasedAssignment5_5</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment5</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment5</context_title>
+        <familyname>student</familyname>
+        <givenname>second</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="6">
+        <user_id>instructor_smoke_timeBasedAssignment6</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment6</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment6</context_title>
+        <assignmentpolicyname>timeLimitOptionEnableAndTimeLimitExhausted</assignmentpolicyname>
+        <assessmentname>Assignment_smoke_timeLimitOptionEnableAndTimeLimitExhausted</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question_smoke_timeLimitOptionEnableAndTimeLimitExhausted</questionset>
+        <questiontext>Test Question_smoke_timeLimitOptionEnableAndTimeLimitExhausted</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_smoke_timeBasedAssignment6</shareWithInitialString>
+        <shareName>studtitle_smoke_timeBasedAssignment6</shareName>
+        <timeBasedAssignment>enable</timeBasedAssignment>
+        <extensionAfterDueDate>disable</extensionAfterDueDate>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>timeLimitOptionEnableAndTimeLimitExhausted</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>27</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <timeDuration>1</timeDuration>
+        <updateTime>3</updateTime>
+        <studentname>first student</studentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="6_1">
+        <user_id>student_smoke_timeBasedAssignment6_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment6</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment6</context_title>
+        <familyname>student</familyname>
+        <givenname>first</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="6_2">
+        <user_id>student_smoke_timeBasedAssignment6_6</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment6</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment6</context_title>
+        <familyname>student</familyname>
+        <givenname>second</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="7">
+        <user_id>instructor_smoke_timeBasedAssignment7</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment7</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment7</context_title>
+        <assignmentpolicyname>timeLimitOptionEnableAndTimeLimitExhausted7</assignmentpolicyname>
+        <assessmentname>Assignment_smoke_timeLimitOptionEnableAndTimeLimitExhausted7</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question_smoke_timeLimitOptionEnableAndTimeLimitExhausted</questionset>
+        <questiontext>Test Question_smoke_timeLimitOptionEnableAndTimeLimitExhausted</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_smoke_timeBasedAssignment7</shareWithInitialString>
+        <shareName>studtitle_smoke_timeBasedAssignment7</shareName>
+        <timeBasedAssignment>enable</timeBasedAssignment>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>timeLimitOptionEnableAndTimeLimitExhausted7</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>27</duedate>
+        <duetime>3</duetime>
+        <newduedate>18</newduedate>
+        <additionalnote>This is an additional note</additionalnote>
+        <timeDuration>4</timeDuration>
+        <updateTime>5</updateTime>
+        <studentname>first student</studentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="7_1">
+        <user_id>student_smoke_timeBasedAssignment7_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment7</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment7</context_title>
+        <familyname>student</familyname>
+        <givenname>first</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="7_2">
+        <user_id>student_smoke_timeBasedAssignment7_7</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment7</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment7</context_title>
+        <familyname>student</familyname>
+        <givenname>second</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="8">
+        <user_id>instructor_smoke_timeBasedAssignment8</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment8</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment8</context_title>
+        <assignmentpolicyname>timeLimitOptionEnableAndTimeLimitExhausted8</assignmentpolicyname>
+        <assessmentname>Assignment_smoke_timeLimitOptionEnableAndTimeLimitExhausted8</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question_smoke_timeLimitOptionEnableAndTimeLimitExhausted</questionset>
+        <questiontext>Test Question_smoke_timeLimitOptionEnableAndTimeLimitExhausted</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_smoke_timeBasedAssignment8</shareWithInitialString>
+        <shareName>studtitle_smoke_timeBasedAssignment8</shareName>
+        <timeBasedAssignment>enable</timeBasedAssignment>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>timeLimitOptionEnableAndTimeLimitExhausted8</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>3</duetime>
+        <newduedate>18</newduedate>
+        <additionalnote>This is an additional note</additionalnote>
+        <timeDuration>4</timeDuration>
+        <updateTime>5</updateTime>
+        <studentname>first student</studentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="8_1">
+        <user_id>student_smoke_timeBasedAssignment8_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment8</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment8</context_title>
+        <familyname>student</familyname>
+        <givenname>first</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="8_2">
+        <user_id>student_smoke_timeBasedAssignment8_8</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment8</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment8</context_title>
+        <familyname>student</familyname>
+        <givenname>second</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="9">
+        <user_id>instructor_smoke_timeBasedAssignment9</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment9</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment9</context_title>
+        <assignmentpolicyname>timeLimitOptionEnableAndTimeLimitExhausted9</assignmentpolicyname>
+        <assessmentname>Assignment_smoke_timeLimitOptionEnableAndTimeLimitExhausted9</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question_smoke_timeLimitOptionEnableAndTimeLimitExhausted</questionset>
+        <questiontext>Test Question_smoke_timeLimitOptionEnableAndTimeLimitExhausted</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_smoke_timeBasedAssignment9</shareWithInitialString>
+        <shareName>studtitle_smoke_timeBasedAssignment9</shareName>
+        <timeBasedAssignment>enable</timeBasedAssignment>
+        <extensionAfterDueDate>disable</extensionAfterDueDate>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>timeLimitOptionEnableAndTimeLimitExhausted9</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>29</duedate>
+        <duetime>3</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <timeDuration>4</timeDuration>
+        <updateTime>5</updateTime>
+        <studentname>first student</studentname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="10">
+        <user_id>instructor_smoke_timeBasedAssignment9</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment9</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment9</context_title>
+        <updateTime>6</updateTime>
+        <studentname>second student</studentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="11">
+        <user_id>instructor_smoke_timeBasedAssignment9</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment9</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment9</context_title>
+        <updateTime>7</updateTime>
+        <studentname>third student</studentname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="9_1">
+        <user_id>student_smoke_timeBasedAssignment9_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment9</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment9</context_title>
+        <familyname>student</familyname>
+        <givenname>first</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="9_2">
+        <user_id>student_smoke_timeBasedAssignment9_9</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment9</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment9</context_title>
+        <familyname>student</familyname>
+        <givenname>second</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="9_3">
+        <user_id>student_smoke_timeBasedAssignment9_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment9</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment9</context_title>
+        <familyname>student</familyname>
+        <givenname>third</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="13">
+        <user_id>instructor_smoke_timeBasedAssignment13</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment13</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment13</context_title>
+        <assignmentpolicyname>timeLimitOptionEnableAndTimeLimitExhausted13</assignmentpolicyname>
+        <assessmentname>Assignment_smoke_timeLimitOptionEnableAndTimeLimitExhausted13</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question_smoke_timeLimitOptionEnableAndTimeLimitExhausted</questionset>
+        <questiontext>Test Question_smoke_timeLimitOptionEnableAndTimeLimitExhausted</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_smoke_timeBasedAssignment13</shareWithInitialString>
+        <shareName>studtitle_smoke_timeBasedAssignment13</shareName>
+        <timeBasedAssignment>enable</timeBasedAssignment>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>timeLimitOptionEnableAndTimeLimitExhausted13</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>3</duetime>
+        <newduedate>13</newduedate>
+        <additionalnote>This is an additional note</additionalnote>
+        <timeDuration>4</timeDuration>
+        <studentname>first student</studentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="13_1">
+        <user_id>student_smoke_timeBasedAssignment13_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment13</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment13</context_title>
+        <familyname>student</familyname>
+        <givenname>first</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="14">
+        <user_id>instructor_smoke_timeBasedAssignment14</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment14</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment14</context_title>
+        <assignmentpolicyname>timeLimitOptionEnableAndTimeLimitExhausted14</assignmentpolicyname>
+        <assessmentname>Assignment_smoke_timeLimitOptionEnableAndTimeLimitExhausted14</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question_smoke_timeLimitOptionEnableAndTimeLimitExhausted</questionset>
+        <questiontext>Test Question_smoke_timeLimitOptionEnableAndTimeLimitExhausted</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_smoke_timeBasedAssignment14</shareWithInitialString>
+        <shareName>studtitle_smoke_timeBasedAssignment14</shareName>
+        <timeBasedAssignment>enable</timeBasedAssignment>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>timeLimitOptionEnableAndTimeLimitExhausted14</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>8</duetime>
+        <newduedate>14</newduedate>
+        <additionalnote>This is an additional note</additionalnote>
+        <timeDuration>2</timeDuration>
+        <studentname>first student</studentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="14_1">
+        <user_id>student_smoke_timeBasedAssignment14_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment14</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment14</context_title>
+        <familyname>student</familyname>
+        <givenname>first</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="15">
+        <user_id>instructor_smoke_timeBasedAssignment15</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment15</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment15</context_title>
+        <assignmentpolicyname>timeLimitOptionEnableAndTimeLimitExhausted15</assignmentpolicyname>
+        <assessmentname>Assignment_smoke_timeLimitOptionEnableAndTimeLimitExhausted15</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question_smoke_timeLimitOptionEnableAndTimeLimitExhausted</questionset>
+        <questiontext>Test Question_smoke_timeLimitOptionEnableAndTimeLimitExhausted</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_smoke_timeBasedAssignment15</shareWithInitialString>
+        <shareName>studtitle_smoke_timeBasedAssignment15</shareName>
+        <timeBasedAssignment>enable</timeBasedAssignment>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>timeLimitOptionEnableAndTimeLimitExhausted15</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>8</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <timeDuration>4</timeDuration>
+        <studentname>first student</studentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="15_1">
+        <user_id>student_smoke_timeBasedAssignment15_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment15</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment15</context_title>
+        <familyname>student</familyname>
+        <givenname>first</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="16">
+        <user_id>instructor_smoke_timeBasedAssignment16</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment16</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment16</context_title>
+        <assignmentpolicyname>timeLimitOptionEnableAndTimeLimitExhausted16</assignmentpolicyname>
+        <assessmentname>Assignment_smoke_timeLimitOptionEnableAndTimeLimitExhausted16</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question_smoke_timeLimitOptionEnableAndTimeLimitExhausted</questionset>
+        <questiontext>Test Question_smoke_timeLimitOptionEnableAndTimeLimitExhausted</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_smoke_timeBasedAssignment16</shareWithInitialString>
+        <shareName>studtitle_smoke_timeBasedAssignment16</shareName>
+        <timeBasedAssignment>enable</timeBasedAssignment>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>timeLimitOptionEnableAndTimeLimitExhausted16</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>3</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <timeDuration>4</timeDuration>
+        <studentname>first student</studentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="16_1">
+        <user_id>student_smoke_timeBasedAssignment16_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment16</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment16</context_title>
+        <familyname>student</familyname>
+        <givenname>first</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="17">
+        <user_id>instructor_smoke_timeBasedAssignment17</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment17</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment17</context_title>
+        <assignmentpolicyname>timeLimitOptionEnableAndTimeLimitExhausted17</assignmentpolicyname>
+        <assessmentname>Assignment_smoke_timeLimitOptionEnableAndTimeLimitExhausted17</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question_smoke_timeLimitOptionEnableAndTimeLimitExhausted</questionset>
+        <questiontext>Test Question_smoke_timeLimitOptionEnableAndTimeLimitExhausted</questiontext>
+        <learningobjective>true</learningobjective>
+        <overrideDefaultQuestionCreate>essay</overrideDefaultQuestionCreate>
+        <shareWithInitialString>studtitle_smoke_timeBasedAssignment17</shareWithInitialString>
+        <shareName>studtitle_smoke_timeBasedAssignment17</shareName>
+        <timeBasedAssignment>enable</timeBasedAssignment>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>timeLimitOptionEnableAndTimeLimitExhausted17</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>3</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <timeDuration>4</timeDuration>
+        <studentname>first student</studentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="17_1">
+        <user_id>student_smoke_timeBasedAssignment17_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment17</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment17</context_title>
+        <familyname>student</familyname>
+        <givenname>first</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="18">
+        <user_id>instructor_smoke_timeBasedAssignment18</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment18</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment18</context_title>
+        <assignmentpolicyname>timeLimitOptionEnableAndTimeLimitExhausted18</assignmentpolicyname>
+        <assessmentname>Assignment_smoke_timeLimitOptionEnableAndTimeLimitExhausted18</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question_smoke_timeLimitOptionEnableAndTimeLimitExhausted</questionset>
+        <questiontext>Test Question_smoke_timeLimitOptionEnableAndTimeLimitExhausted</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_smoke_timeBasedAssignment18</shareWithInitialString>
+        <shareName>studtitle_smoke_timeBasedAssignment18</shareName>
+        <timeBasedAssignment>enable</timeBasedAssignment>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>timeLimitOptionEnableAndTimeLimitExhausted18</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>4</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <timeDuration>4</timeDuration>
+        <studentname>first student</studentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="18_1">
+        <user_id>student_smoke_timeBasedAssignment18_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment18</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment18</context_title>
+        <familyname>student</familyname>
+        <givenname>first</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="19">
+        <user_id>instructor_smoke_timeBasedAssignment19</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment19</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment19</context_title>
+        <assignmentpolicyname>timeLimitOptionEnableAndTimeLimitExhausted19</assignmentpolicyname>
+        <assessmentname>Assignment_smoke_timeLimitOptionEnableAndTimeLimitExhausted19</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question_smoke_timeLimitOptionEnableAndTimeLimitExhausted</questionset>
+        <questiontext>Test Question_smoke_timeLimitOptionEnableAndTimeLimitExhausted</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_smoke_timeBasedAssignment19</shareWithInitialString>
+        <shareName>studtitle_smoke_timeBasedAssignment19</shareName>
+        <timeBasedAssignment>enable</timeBasedAssignment>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>timeLimitOptionEnableAndTimeLimitExhausted19</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>4</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <timeDuration>2</timeDuration>
+        <studentname>first student</studentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="19_1">
+        <user_id>student_smoke_timeBasedAssignment19_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment19</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment19</context_title>
+        <familyname>student</familyname>
+        <givenname>first</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="20">
+        <user_id>instructor_smoke_timeBasedAssignment20</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment20</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment20</context_title>
+        <assignmentpolicyname>timeLimitOptionEnableAndTimeLimitExhausted20</assignmentpolicyname>
+        <assessmentname>Assignment_smoke_timeLimitOptionEnableAndTimeLimitExhausted20</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question_smoke_timeLimitOptionEnableAndTimeLimitExhausted</questionset>
+        <questiontext>Test Question_smoke_timeLimitOptionEnableAndTimeLimitExhausted</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_smoke_timeBasedAssignment20</shareWithInitialString>
+        <shareName>studtitle_smoke_timeBasedAssignment20</shareName>
+        <timeBasedAssignment>enable</timeBasedAssignment>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>timeLimitOptionEnableAndTimeLimitExhausted20</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>2</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <timeDuration>2</timeDuration>
+        <studentname>first student</studentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="20_1">
+        <user_id>student_smoke_timeBasedAssignment20_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment20</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment20</context_title>
+        <familyname>student</familyname>
+        <givenname>first</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="20_2">
+        <user_id>student_smoke_timeBasedAssignment20_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment20</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment20</context_title>
+        <familyname>student</familyname>
+        <givenname>second</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="21">
+        <user_id>instructor_smoke_timeBasedAssignment21</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment21</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment21</context_title>
+        <assignmentpolicyname>timeLimitOptionEnableAndTimeLimitExhausted21</assignmentpolicyname>
+        <assessmentname>Assignment_smoke_timeLimitOptionEnableAndTimeLimitExhausted21</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question_smoke_timeLimitOptionEnableAndTimeLimitExhausted</questionset>
+        <questiontext>Test Question_smoke_timeLimitOptionEnableAndTimeLimitExhausted</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_smoke_timeBasedAssignment21</shareWithInitialString>
+        <shareName>studtitle_smoke_timeBasedAssignment21</shareName>
+        <timeBasedAssignment>disable</timeBasedAssignment>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>timeLimitOptionEnableAndTimeLimitExhausted21</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>2</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <timeDuration>2</timeDuration>
+        <updateTime>6</updateTime>
+        <studentname>first student</studentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="21_1">
+        <user_id>student_smoke_timeBasedAssignment21_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment21</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment21</context_title>
+        <familyname>student</familyname>
+        <givenname>first</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="21_2">
+        <user_id>student_smoke_timeBasedAssignment21_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment21</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment21</context_title>
+        <familyname>student</familyname>
+        <givenname>second</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="22">
+        <user_id>instructor_smoke_timeBasedAssignment22</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment22</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment22</context_title>
+        <assignmentpolicyname>timeLimitOptionEnableAndTimeLimitExhausted22</assignmentpolicyname>
+        <assessmentname>Assignment_smoke_timeLimitOptionEnableAndTimeLimitExhausted22</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question_smoke_timeLimitOptionEnableAndTimeLimitExhausted</questionset>
+        <questiontext>Test Question_smoke_timeLimitOptionEnableAndTimeLimitExhausted</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_smoke_timeBasedAssignment22</shareWithInitialString>
+        <shareName>studtitle_smoke_timeBasedAssignment22</shareName>
+        <timeBasedAssignment>enable</timeBasedAssignment>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>timeLimitOptionEnableAndTimeLimitExhausted22</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>30</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <timeDuration>2</timeDuration>
+        <updateTime>6</updateTime>
+        <studentname>first student</studentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="22_1">
+        <user_id>student_smoke_timeBasedAssignment22_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment22</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment22</context_title>
+        <familyname>student</familyname>
+        <givenname>first</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="23">
+        <user_id>instructor_smoke_timeBasedAssignment23</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment23</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment23</context_title>
+        <assignmentpolicyname>timeLimitOptionEnableAndTimeLimitExhausted23</assignmentpolicyname>
+        <assessmentname>Assignment_smoke_timeLimitOptionEnableAndTimeLimitExhausted23</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question_smoke_timeLimitOptionEnableAndTimeLimitExhausted</questionset>
+        <questiontext>Test Question_smoke_timeLimitOptionEnableAndTimeLimitExhausted</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_smoke_timeBasedAssignment23</shareWithInitialString>
+        <shareName>studtitle_smoke_timeBasedAssignment23</shareName>
+        <timeBasedAssignment>enable</timeBasedAssignment>
+        <overrideDefaultQuestionCreate>multipart</overrideDefaultQuestionCreate>
+        <questiontextstem2>stemQuestion</questiontextstem2>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>timeLimitOptionEnableAndTimeLimitExhausted23</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>60</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <timeDuration>60</timeDuration>
+        <updateTime>6</updateTime>
+        <studentname>first student</studentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="23_1">
+        <user_id>student_smoke_timeBasedAssignment23_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment23</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment23</context_title>
+        <familyname>student</familyname>
+        <givenname>first</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="24">
+        <user_id>instructor_smoke_timeBasedAssignment24</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment24</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment24</context_title>
+        <assignmentpolicyname>timeLimitOptionEnableAndTimeLimitExhausted24</assignmentpolicyname>
+        <assessmentname>Assignment_smoke_timeLimitOptionEnableAndTimeLimitExhausted24</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question_smoke_timeLimitOptionEnableAndTimeLimitExhausted</questionset>
+        <questiontext>Test Question_smoke_timeLimitOptionEnableAndTimeLimitExhausted</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_smoke_timeBasedAssignment24</shareWithInitialString>
+        <shareName>studtitle_smoke_timeBasedAssignment24</shareName>
+        <timeBasedAssignment>enable</timeBasedAssignment>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>timeLimitOptionEnableAndTimeLimitExhausted24</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>60</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <timeDuration>2</timeDuration>
+        <studentname>first student</studentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="24_1">
+        <user_id>student_smoke_timeBasedAssignment24_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment24</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment24</context_title>
+        <familyname>student</familyname>
+        <givenname>first</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="25">
+        <user_id>instructor_smoke_timeBasedAssignment24</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment24</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment24</context_title>
+        <updateTime>4</updateTime>
+        <studentname>first student</studentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="26">
+        <user_id>instructor_smoke_timeBasedAssignment24</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment24</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment24</context_title>
+        <updateTime>6</updateTime>
+        <studentname>first student</studentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="27">
+        <user_id>instructor_smoke_timeBasedAssignment27</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment27</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment27</context_title>
+        <assignmentpolicyname>timeLimitOptionEnableAndTimeLimitExhausted27</assignmentpolicyname>
+        <assessmentname>Assignment_smoke_timeLimitOptionEnableAndTimeLimitExhausted27</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question_smoke_timeLimitOptionEnableAndTimeLimitExhausted</questionset>
+        <questiontext>Test Question_smoke_timeLimitOptionEnableAndTimeLimitExhausted</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_smoke_timeBasedAssignment27</shareWithInitialString>
+        <shareName>studtitle_smoke_timeBasedAssignment27</shareName>
+        <timeBasedAssignment>enable</timeBasedAssignment>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>timeLimitOptionEnableAndTimeLimitExhausted27</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>60</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <timeDuration>2</timeDuration>
+        <studentname>first student</studentname>
+        <customAssignmentName>assignAssignmentFromDifferentChapter</customAssignmentName>
+        <noOfQuestions>2</noOfQuestions>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.TimeLimitOptionEnableAndDueDateNotElapsed" index="27_1">
+        <user_id>student_smoke_timeBasedAssignment27_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeBasedAssignment27</context_id>
+        <context_title>studtitle_smoke_timeBasedAssignment27</context_title>
+        <familyname>student</familyname>
+        <givenname>first</givenname>
+    </testcase>
+
+
+    <!--InstructorSetATimeLimitOnAssignments-->
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="1">
+        <user_id>Instrucor_smoke_timeAssignment_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_timeAssignment_1</context_id>
+        <context_title>studtitle_smoke_timeAssignment_1</context_title>
+        <assignmentpolicyname>Policy1</assignmentpolicyname>
+        <timeBasedAssignment>enable</timeBasedAssignment>
+        <timeDuration>20</timeDuration>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="2">
+        <user_id>Instrucor_smoke_timeAssignment_2</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_timeAssignment_2</context_id>
+        <context_title>studtitle_smoke_timeAssignment_2</context_title>
+        <assignmentpolicyname>Policy1</assignmentpolicyname>
+        <timeBasedAssignment>enable</timeBasedAssignment>
+        <timeDuration>6</timeDuration>
+        <duetime>50</duetime>
+        <extensionAfterDueDate>disable</extensionAfterDueDate>
+        <assessmentname>Assignment_smoke_timeAssignment_2</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question_smoke_timeAssignment_2</questionset>
+        <questiontext>Test Question_smoke_timeAssignment_2</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_smoke_timeAssignment_2</shareWithInitialString>
+        <shareName>studtitle_smoke_timeAssignment_2</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy1</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="2_1">
+        <user_id>student_smoke_timeAssignment_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeAssignment_2</context_id>
+        <context_title>studtitle_smoke_timeAssignment_2</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="3">
+        <user_id>Instrucor_smoke_timeAssignment_3</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_timeAssignment_3</context_id>
+        <context_title>studtitle_smoke_timeAssignment_3</context_title>
+        <assignmentpolicyname>Policy1</assignmentpolicyname>
+        <timeBasedAssignment>enable</timeBasedAssignment>
+        <timeDuration>6</timeDuration>
+        <duetime>50</duetime>
+        <extensionAfterDueDate>disable</extensionAfterDueDate>
+        <assessmentname>Assignment_smoke_timeAssignment_3</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question_smoke_timeAssignment_3</questionset>
+        <questiontext>Test Question_smoke_timeAssignment_3</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_smoke_timeAssignment_3</shareWithInitialString>
+        <shareName>studtitle_smoke_timeAssignment_3</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy1</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="3_1">
+        <user_id>student_smoke_timeAssignment_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeAssignment_3</context_id>
+        <context_title>studtitle_smoke_timeAssignment_3</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="4">
+        <user_id>Instrucor_smoke_timeAssignment_4</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_timeAssignment_4</context_id>
+        <context_title>studtitle_smoke_timeAssignment_4</context_title>
+        <assignmentpolicyname>Policy1</assignmentpolicyname>
+        <timeBasedAssignment>enable</timeBasedAssignment>
+        <timeDuration>6</timeDuration>
+        <duetime>50</duetime>
+        <extensionAfterDueDate>disable</extensionAfterDueDate>
+        <assessmentname>Assignment_smoke_timeAssignment_4</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question_smoke_timeAssignment_4</questionset>
+        <questiontext>Test Question_smoke_timeAssignment_4</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_smoke_timeAssignment_4</shareWithInitialString>
+        <shareName>studtitle_smoke_timeAssignment_4</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy1</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="4_1">
+        <user_id>student_smoke_timeAssignment_4</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeAssignment_4</context_id>
+        <context_title>studtitle_smoke_timeAssignment_4</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="5">
+        <user_id>Instrucor_smoke_timeAssignment_5</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_timeAssignment_5</context_id>
+        <context_title>studtitle_smoke_timeAssignment_5</context_title>
+        <assignmentpolicyname>Policy1</assignmentpolicyname>
+        <timeBasedAssignment>enable</timeBasedAssignment>
+        <timeDuration>6</timeDuration>
+        <duetime>50</duetime>
+        <extensionAfterDueDate>disable</extensionAfterDueDate>
+        <assessmentname>Assignment_smoke_timeAssignment_5</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question_smoke_timeAssignment_5</questionset>
+        <questiontext>Test Question_smoke_timeAssignment_5</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_smoke_timeAssignment_5</shareWithInitialString>
+        <shareName>studtitle_smoke_timeAssignment_5</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy1</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="5_1">
+        <user_id>student_smoke_timeAssignment_5</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeAssignment_5</context_id>
+        <context_title>studtitle_smoke_timeAssignment_5</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="6">
+        <user_id>Instrucor_smoke_timeAssignment_6</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_timeAssignment_6</context_id>
+        <context_title>studtitle_smoke_timeAssignment_6</context_title>
+        <assignmentpolicyname>Policy1</assignmentpolicyname>
+        <timeBasedAssignment>enable</timeBasedAssignment>
+        <timeDuration>6</timeDuration>
+        <duetime>50</duetime>
+        <extensionAfterDueDate>disable</extensionAfterDueDate>
+        <assessmentname>Assignment_smoke_timeAssignment_6</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question_smoke_timeAssignment_6</questionset>
+        <questiontext>Test Question_smoke_timeAssignment_6</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_smoke_timeAssignment_6</shareWithInitialString>
+        <shareName>studtitle_smoke_timeAssignment_6</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy1</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="6_1">
+        <user_id>student_smoke_timeAssignment_6</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeAssignment_6</context_id>
+        <context_title>studtitle_smoke_timeAssignment_6</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="7">
+        <user_id>Instrucor_smoke_timeAssignment_7</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_timeAssignment_7</context_id>
+        <context_title>studtitle_smoke_timeAssignment_7</context_title>
+        <assignmentpolicyname>Policy1</assignmentpolicyname>
+        <timeBasedAssignment>enable</timeBasedAssignment>
+        <timeDuration>6</timeDuration>
+        <duetime>50</duetime>
+        <extensionAfterDueDate>disable</extensionAfterDueDate>
+        <assessmentname>Assignment_smoke_timeAssignment_7</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question_smoke_timeAssignment_7</questionset>
+        <questiontext>Test Question_smoke_timeAssignment_7</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_smoke_timeAssignment_7</shareWithInitialString>
+        <shareName>studtitle_smoke_timeAssignment_7</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy1</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="7_1">
+        <user_id>student_smoke_timeAssignment_7</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeAssignment_7</context_id>
+        <context_title>studtitle_smoke_timeAssignment_7</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="8">
+        <user_id>Instrucor_smoke_timeAssignment_8</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_timeAssignment_8</context_id>
+        <context_title>studtitle_smoke_timeAssignment_8</context_title>
+        <assignmentpolicyname>Policy1</assignmentpolicyname>
+        <timeBasedAssignment>enable</timeBasedAssignment>
+        <timeDuration>50</timeDuration>
+        <duetime>50</duetime>
+        <extensionAfterDueDate>disable</extensionAfterDueDate>
+        <assessmentname>Assignment_smoke_timeAssignment_8</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question_smoke_timeAssignment_8</questionset>
+        <questiontext>Test Question_smoke_timeAssignment_8</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_smoke_timeAssignment_8</shareWithInitialString>
+        <shareName>studtitle_smoke_timeAssignment_8</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy1</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="8_1">
+        <user_id>student_smoke_timeAssignment_8</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeAssignment_8</context_id>
+        <context_title>studtitle_smoke_timeAssignment_8</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="9">
+        <user_id>Instrucor_smoke_timeAssignment_9</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_timeAssignment_9</context_id>
+        <context_title>studtitle_smoke_timeAssignment_9</context_title>
+        <assignmentpolicyname>Policy1</assignmentpolicyname>
+        <timeBasedAssignment>enable</timeBasedAssignment>
+        <timeDuration>50</timeDuration>
+        <duetime>50</duetime>
+        <extensionAfterDueDate>disable</extensionAfterDueDate>
+        <assessmentname>Assignment_smoke_timeAssignment_9</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question_smoke_timeAssignment_9</questionset>
+        <questiontext>Test Question_smoke_timeAssignment_9</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_smoke_timeAssignment_9</shareWithInitialString>
+        <shareName>studtitle_smoke_timeAssignment_9</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy1</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="9_1">
+        <user_id>student_smoke_timeAssignment_9</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeAssignment_9</context_id>
+        <context_title>studtitle_smoke_timeAssignment_9</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="10">
+        <user_id>Instrucor_smoke_timeAssignment_10</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_timeAssignment_10</context_id>
+        <context_title>studtitle_smoke_timeAssignment_10</context_title>
+        <assignmentpolicyname>Policy1</assignmentpolicyname>
+        <timeBasedAssignment>enable</timeBasedAssignment>
+        <timeDuration>1</timeDuration>
+        <duetime>50</duetime>
+        <extensionAfterDueDate>disable</extensionAfterDueDate>
+        <assessmentname>Assignment_smoke_timeAssignment_10</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question_smoke_timeAssignment_10</questionset>
+        <questiontext>Test Question_smoke_timeAssignment_10</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_smoke_timeAssignment_10</shareWithInitialString>
+        <shareName>studtitle_smoke_timeAssignment_10</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy1</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="10_1">
+        <user_id>student_smoke_timeAssignment_10</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeAssignment_10</context_id>
+        <context_title>studtitle_smoke_timeAssignment_10</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="11">
+        <user_id>Instrucor_smoke_timeAssignment_11</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_timeAssignment_11</context_id>
+        <context_title>studtitle_smoke_timeAssignment_11</context_title>
+        <assignmentpolicyname>Policy1</assignmentpolicyname>
+        <timeBasedAssignment>enable</timeBasedAssignment>
+        <timeDuration>5</timeDuration>
+        <duetime>2</duetime>
+        <extensionAfterDueDate>disable</extensionAfterDueDate>
+        <assessmentname>Assignment_smoke_timeAssignment_11</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question_smoke_timeAssignment_11</questionset>
+        <questiontext>Test Question_smoke_timeAssignment_11</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_smoke_timeAssignment_11</shareWithInitialString>
+        <shareName>studtitle_smoke_timeAssignment_11</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy1</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="11_1">
+        <user_id>student_smoke_timeAssignment_11</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeAssignment_11</context_id>
+        <context_title>studtitle_smoke_timeAssignment_11</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="12">
+        <user_id>Instrucor_smoke_timeAssignment_12</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_timeAssignment_12</context_id>
+        <context_title>studtitle_smoke_timeAssignment_12</context_title>
+        <assignmentpolicyname>Policy1</assignmentpolicyname>
+        <timeBasedAssignment>enable</timeBasedAssignment>
+        <timeDuration>5</timeDuration>
+        <duetime>5</duetime>
+        <extensionAfterDueDate>disable</extensionAfterDueDate>
+        <assessmentname>Assignment_smoke_timeAssignment_12</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question_smoke_timeAssignment_12</questionset>
+        <questiontext>Test Question_smoke_timeAssignment_12</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_smoke_timeAssignment_12</shareWithInitialString>
+        <shareName>studtitle_smoke_timeAssignment_12</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy1</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="12_1">
+        <user_id>student_smoke_timeAssignment_12</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeAssignment_12</context_id>
+        <context_title>studtitle_smoke_timeAssignment_12</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="13">
+        <user_id>Instrucor_smoke_timeAssignment_13</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_timeAssignment_13</context_id>
+        <context_title>studtitle_smoke_timeAssignment_13</context_title>
+        <assignmentpolicyname>Policy2</assignmentpolicyname>
+        <timeBasedAssignment>enable</timeBasedAssignment>
+        <timeDuration>5</timeDuration>
+        <duetime>2</duetime>
+        <extensionAfterDueDate>disable</extensionAfterDueDate>
+        <assessmentname>Assignment_smoke_timeAssignment_13</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question_smoke_timeAssignment_13</questionset>
+        <questiontext>Test Question_smoke_timeAssignment_13</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_smoke_timeAssignment_13</shareWithInitialString>
+        <shareName>studtitle_smoke_timeAssignment_13</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy2</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="13_1">
+        <user_id>student_smoke_timeAssignment_13</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeAssignment_13</context_id>
+        <context_title>studtitle_smoke_timeAssignment_13</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="14">
+        <user_id>Instrucor_smoke_timeAssignment_14</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_timeAssignment_14</context_id>
+        <context_title>studtitle_smoke_timeAssignment_14</context_title>
+        <assignmentpolicyname>Policy2</assignmentpolicyname>
+        <timeBasedAssignment>enable</timeBasedAssignment>
+        <timeDuration>5</timeDuration>
+        <duetime>5</duetime>
+        <extensionAfterDueDate>disable</extensionAfterDueDate>
+        <assessmentname>Assignment_smoke_timeAssignment_14</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question_smoke_timeAssignment_14</questionset>
+        <questiontext>Test Question_smoke_timeAssignment_14</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_smoke_timeAssignment_14</shareWithInitialString>
+        <shareName>studtitle_smoke_timeAssignment_14</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy2</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="14_1">
+        <user_id>student_smoke_timeAssignment_14</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeAssignment_14</context_id>
+        <context_title>studtitle_smoke_timeAssignment_14</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="15">
+        <user_id>Instrucor_smoke_timeAssignment_15</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_timeAssignment_15</context_id>
+        <context_title>studtitle_smoke_timeAssignment_15</context_title>
+        <assignmentpolicyname>Policy2</assignmentpolicyname>
+        <timeBasedAssignment>enable</timeBasedAssignment>
+        <timeDuration>5</timeDuration>
+        <duetime>1</duetime>
+        <assessmentname>Assignment_smoke_timeAssignment_15</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question_smoke_timeAssignment_15</questionset>
+        <questiontext>Test Question_smoke_timeAssignment_15</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_smoke_timeAssignment_15</shareWithInitialString>
+        <shareName>studtitle_smoke_timeAssignment_15</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy2</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="15_1">
+        <user_id>student_smoke_timeAssignment_15_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeAssignment_15</context_id>
+        <context_title>studtitle_smoke_timeAssignment_15</context_title>
+        <familyname>LastName_timeAssignment_15_1</familyname>
+        <givenname>FirstName_timeAssignment_15_1</givenname>
+        <assessmentname>Assignment_smoke_timeAssignment_15</assessmentname>
+        <shareWithInitialString>FirstName_timeAssignment_15_1</shareWithInitialString>
+        <shareName>FirstName_timeAssignment_15_1 LastName_timeAssignment_15_1</shareName>
+        <shareWithClass>false</shareWithClass>
+        <newduedate>27</newduedate>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="15_2">
+        <user_id>student_smoke_timeAssignment_15_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeAssignment_15</context_id>
+        <context_title>studtitle_smoke_timeAssignment_15</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="16">
+        <user_id>Instrucor_smoke_timeAssignment_16</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_timeAssignment_16</context_id>
+        <context_title>studtitle_smoke_timeAssignment_16</context_title>
+        <assignmentpolicyname>Policy2</assignmentpolicyname>
+        <timeBasedAssignment>enable</timeBasedAssignment>
+        <timeDuration>1</timeDuration>
+        <duetime>15</duetime>
+        <extensionAfterDueDate>disable</extensionAfterDueDate>
+        <assessmentname>Assignment_smoke_timeAssignment_16</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question_smoke_timeAssignment_16</questionset>
+        <questiontext>Test Question_smoke_timeAssignment_16</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_smoke_timeAssignment_16</shareWithInitialString>
+        <shareName>studtitle_smoke_timeAssignment_16</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy2</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="16_1">
+        <user_id>student_smoke_timeAssignment_16</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeAssignment_16</context_id>
+        <context_title>studtitle_smoke_timeAssignment_16</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="17">
+        <user_id>Instrucor_smoke_timeAssignment_17</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_timeAssignment_17</context_id>
+        <context_title>studtitle_smoke_timeAssignment_17</context_title>
+        <assignmentpolicyname>Policy2</assignmentpolicyname>
+        <timeBasedAssignment>enable</timeBasedAssignment>
+        <timeDuration>1</timeDuration>
+        <duetime>15</duetime>
+        <assessmentname>Assignment_smoke_timeAssignment_17</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question_smoke_timeAssignment_17</questionset>
+        <questiontext>Test Question_smoke_timeAssignment_17</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_smoke_timeAssignment_17</shareWithInitialString>
+        <shareName>studtitle_smoke_timeAssignment_17</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy2</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="17_1">
+        <user_id>student_smoke_timeAssignment_17</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeAssignment_17</context_id>
+        <context_title>studtitle_smoke_timeAssignment_17</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="18">
+        <user_id>Instrucor_smoke_timeAssignment_18</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_timeAssignment_18</context_id>
+        <context_title>studtitle_smoke_timeAssignment_18</context_title>
+        <assignmentpolicyname>Policy3</assignmentpolicyname>
+        <timeBasedAssignment>enable</timeBasedAssignment>
+        <timeDuration>5</timeDuration>
+        <duetime>2</duetime>
+        <extensionAfterDueDate>disable</extensionAfterDueDate>
+        <assessmentname>Assignment_smoke_timeAssignment_18</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question_smoke_timeAssignment_18</questionset>
+        <questiontext>Test Question_smoke_timeAssignment_18</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_smoke_timeAssignment_18</shareWithInitialString>
+        <shareName>studtitle_smoke_timeAssignment_18</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy3</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="18_1">
+        <user_id>student_smoke_timeAssignment_18</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeAssignment_18</context_id>
+        <context_title>studtitle_smoke_timeAssignment_18</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="19">
+        <user_id>Instrucor_smoke_timeAssignment_19</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_timeAssignment_19</context_id>
+        <context_title>studtitle_smoke_timeAssignment_19</context_title>
+        <assignmentpolicyname>Policy4</assignmentpolicyname>
+        <timeBasedAssignment>enable</timeBasedAssignment>
+        <timeDuration>5</timeDuration>
+        <duetime>2</duetime>
+        <extensionAfterDueDate>disable</extensionAfterDueDate>
+        <assessmentname>Assignment_smoke_timeAssignment_19</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question_smoke_timeAssignment_19</questionset>
+        <questiontext>Test Question_smoke_timeAssignment_19</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_smoke_timeAssignment_19</shareWithInitialString>
+        <shareName>studtitle_smoke_timeAssignment_19</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy4</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="19_1">
+        <user_id>student_smoke_timeAssignment_19</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeAssignment_19</context_id>
+        <context_title>studtitle_smoke_timeAssignment_19</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="20">
+        <user_id>Instrucor_smoke_timeAssignment_20</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_timeAssignment_20</context_id>
+        <context_title>studtitle_smoke_timeAssignment_20</context_title>
+        <assignmentpolicyname>Policy3</assignmentpolicyname>
+        <timeBasedAssignment>enable</timeBasedAssignment>
+        <timeDuration>5</timeDuration>
+        <duetime>5</duetime>
+        <extensionAfterDueDate>disable</extensionAfterDueDate>
+        <assessmentname>Assignment_smoke_timeAssignment_20</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question_smoke_timeAssignment_20</questionset>
+        <questiontext>Test Question_smoke_timeAssignment_20</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_smoke_timeAssignment_20</shareWithInitialString>
+        <shareName>studtitle_smoke_timeAssignment_20</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy3</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="20_1">
+        <user_id>student_smoke_timeAssignment_20</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeAssignment_20</context_id>
+        <context_title>studtitle_smoke_timeAssignment_20</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="21">
+        <user_id>Instrucor_smoke_timeAssignment_21</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_timeAssignment_21</context_id>
+        <context_title>studtitle_smoke_timeAssignment_21</context_title>
+        <assignmentpolicyname>Policy4</assignmentpolicyname>
+        <timeBasedAssignment>enable</timeBasedAssignment>
+        <timeDuration>5</timeDuration>
+        <duetime>5</duetime>
+        <extensionAfterDueDate>disable</extensionAfterDueDate>
+        <assessmentname>Assignment_smoke_timeAssignment_21</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question_smoke_timeAssignment_21</questionset>
+        <questiontext>Test Question_smoke_timeAssignment_21</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_smoke_timeAssignment_21</shareWithInitialString>
+        <shareName>studtitle_smoke_timeAssignment_21</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy4</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="21_1">
+        <user_id>student_smoke_timeAssignment_21</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeAssignment_21</context_id>
+        <context_title>studtitle_smoke_timeAssignment_21</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="22">
+        <user_id>Instrucor_smoke_timeAssignment_22</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_timeAssignment_22</context_id>
+        <context_title>studtitle_smoke_timeAssignment_22</context_title>
+        <assignmentpolicyname>Policy4</assignmentpolicyname>
+        <timeBasedAssignment>enable</timeBasedAssignment>
+        <timeDuration>1</timeDuration>
+        <duetime>15</duetime>
+        <extensionAfterDueDate>disable</extensionAfterDueDate>
+        <assessmentname>Assignment_smoke_timeAssignment_22</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question_smoke_timeAssignment_22</questionset>
+        <questiontext>Test Question_smoke_timeAssignment_22</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_smoke_timeAssignment_22</shareWithInitialString>
+        <shareName>studtitle_smoke_timeAssignment_22</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy4</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="22_1">
+        <user_id>student_smoke_timeAssignment_22</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeAssignment_22</context_id>
+        <context_title>studtitle_smoke_timeAssignment_22</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="23">
+        <user_id>Instrucor_smoke_timeAssignment_23</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_timeAssignment_23</context_id>
+        <context_title>studtitle_smoke_timeAssignment_23</context_title>
+        <assignmentpolicyname>Policy1</assignmentpolicyname>
+        <timeBasedAssignment>enable</timeBasedAssignment>
+        <timeDuration>5</timeDuration>
+        <duetime>1</duetime>
+        <assessmentname>Assignment_smoke_timeAssignment_23</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question_smoke_timeAssignment_23</questionset>
+        <questiontext>Test Question_smoke_timeAssignment_23</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_smoke_timeAssignment_23</shareWithInitialString>
+        <shareName>studtitle_smoke_timeAssignment_23</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy1</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="23_1">
+        <user_id>student_smoke_timeAssignment_23_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeAssignment_23</context_id>
+        <context_title>studtitle_smoke_timeAssignment_23</context_title>
+        <familyname>LastName_timeAssignment_23_1</familyname>
+        <givenname>FirstName_timeAssignment_23_1</givenname>
+        <assessmentname>Assignment_smoke_timeAssignment_23</assessmentname>
+        <shareWithInitialString>FirstName_timeAssignment_23_1</shareWithInitialString>
+        <shareName>FirstName_timeAssignment_23_1 LastName_timeAssignment_23_1</shareName>
+        <shareWithClass>false</shareWithClass>
+        <newduedate>27</newduedate>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="23_2">
+        <user_id>student_smoke_timeAssignment_23_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeAssignment_23</context_id>
+        <context_title>studtitle_smoke_timeAssignment_23</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="24">
+        <user_id>Instrucor_smoke_timeAssignment_24</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_timeAssignment_24</context_id>
+        <context_title>studtitle_smoke_timeAssignment_24</context_title>
+        <assignmentpolicyname>Policy3</assignmentpolicyname>
+        <timeBasedAssignment>enable</timeBasedAssignment>
+        <timeDuration>5</timeDuration>
+        <duetime>1</duetime>
+        <assessmentname>Assignment_smoke_timeAssignment_24</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question_smoke_timeAssignment_24</questionset>
+        <questiontext>Test Question_smoke_timeAssignment_24</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_smoke_timeAssignment_24</shareWithInitialString>
+        <shareName>studtitle_smoke_timeAssignment_24</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy3</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="24_1">
+        <user_id>student_smoke_timeAssignment_24_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeAssignment_24</context_id>
+        <context_title>studtitle_smoke_timeAssignment_24</context_title>
+        <familyname>LastName_timeAssignment_24_1</familyname>
+        <givenname>FirstName_timeAssignment_24_1</givenname>
+        <assessmentname>Assignment_smoke_timeAssignment_24</assessmentname>
+        <shareWithInitialString>FirstName_timeAssignment_24_1</shareWithInitialString>
+        <shareName>FirstName_timeAssignment_24_1 LastName_timeAssignment_24_1</shareName>
+        <shareWithClass>false</shareWithClass>
+        <newduedate>27</newduedate>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="24_2">
+        <user_id>student_smoke_timeAssignment_24_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeAssignment_24</context_id>
+        <context_title>studtitle_smoke_timeAssignment_24</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="25">
+        <user_id>Instrucor_smoke_timeAssignment_25</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_timeAssignment_25</context_id>
+        <context_title>studtitle_smoke_timeAssignment_25</context_title>
+        <assignmentpolicyname>Policy4</assignmentpolicyname>
+        <timeBasedAssignment>enable</timeBasedAssignment>
+        <timeDuration>5</timeDuration>
+        <duetime>1</duetime>
+        <assessmentname>Assignment_smoke_timeAssignment_25</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question_smoke_timeAssignment_25</questionset>
+        <questiontext>Test Question_smoke_timeAssignment_25</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_smoke_timeAssignment_25</shareWithInitialString>
+        <shareName>studtitle_smoke_timeAssignment_25</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy4</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="25_1">
+        <user_id>student_smoke_timeAssignment_25_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeAssignment_25</context_id>
+        <context_title>studtitle_smoke_timeAssignment_25</context_title>
+        <familyname>LastName_timeAssignment_25_1</familyname>
+        <givenname>FirstName_timeAssignment_25_1</givenname>
+        <assessmentname>Assignment_smoke_timeAssignment_25</assessmentname>
+        <shareWithInitialString>FirstName_timeAssignment_25_1</shareWithInitialString>
+        <shareName>FirstName_timeAssignment_25_1 LastName_timeAssignment_25_1</shareName>
+        <shareWithClass>false</shareWithClass>
+        <newduedate>27</newduedate>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="25_2">
+        <user_id>student_smoke_timeAssignment_25_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeAssignment_25</context_id>
+        <context_title>studtitle_smoke_timeAssignment_25</context_title>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="26">
+        <user_id>Instrucor_smoke_timeAssignment_26</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_timeAssignment_26</context_id>
+        <context_title>studtitle_smoke_timeAssignment_26</context_title>
+        <assignmentpolicyname>Policy1</assignmentpolicyname>
+        <timeBasedAssignment>enable</timeBasedAssignment>
+        <timeDuration>1</timeDuration>
+        <duetime>15</duetime>
+        <assessmentname>Assignment_smoke_timeAssignment_26</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question_smoke_timeAssignment_26</questionset>
+        <questiontext>Test Question_smoke_timeAssignment_26</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_smoke_timeAssignment_26</shareWithInitialString>
+        <shareName>studtitle_smoke_timeAssignment_26</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy1</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="26_1">
+        <user_id>student_smoke_timeAssignment_26</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeAssignment_26</context_id>
+        <context_title>studtitle_smoke_timeAssignment_26</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="27">
+        <user_id>Instrucor_smoke_timeAssignment_27</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_timeAssignment_27</context_id>
+        <context_title>studtitle_smoke_timeAssignment_27</context_title>
+        <assignmentpolicyname>Policy3</assignmentpolicyname>
+        <timeBasedAssignment>enable</timeBasedAssignment>
+        <timeDuration>1</timeDuration>
+        <duetime>15</duetime>
+        <assessmentname>Assignment_smoke_timeAssignment_27</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question_smoke_timeAssignment_27</questionset>
+        <questiontext>Test Question_smoke_timeAssignment_27</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_smoke_timeAssignment_27</shareWithInitialString>
+        <shareName>studtitle_smoke_timeAssignment_27</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy3</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="27_1">
+        <user_id>student_smoke_timeAssignment_27</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeAssignment_27</context_id>
+        <context_title>studtitle_smoke_timeAssignment_27</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="28">
+        <user_id>Instrucor_smoke_timeAssignment_28</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_timeAssignment_28</context_id>
+        <context_title>studtitle_smoke_timeAssignment_28</context_title>
+        <assignmentpolicyname>Policy4</assignmentpolicyname>
+        <timeBasedAssignment>enable</timeBasedAssignment>
+        <timeDuration>1</timeDuration>
+        <duetime>15</duetime>
+        <assessmentname>Assignment_smoke_timeAssignment_28</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question_smoke_timeAssignment_28</questionset>
+        <questiontext>Test Question_smoke_timeAssignment_28</questiontext>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>studtitle_smoke_timeAssignment_28</shareWithInitialString>
+        <shareName>studtitle_smoke_timeAssignment_28</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>Policy4</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.timeBasedAssignment.InstructorSetATimeLimitOnAssignments" index="28_1">
+        <user_id>student_smoke_timeAssignment_28</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_timeAssignment_28</context_id>
+        <context_title>studtitle_smoke_timeAssignment_28</context_title>
+    </testcase>
+</learningspaces>

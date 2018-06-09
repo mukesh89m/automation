@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+    <test name="IT17-R177_test">
+        <classes>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Instructor"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Mentor"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->

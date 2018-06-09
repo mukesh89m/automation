@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="false" configfailurepolicy="continue">
+    <listeners>
+        <listener class-name="com.snapwiz.selenium.tests.staf.framework.listener.CustomListener" />
+    </listeners>
+    <test name="LS smoke Jenkins Suite">
+        <classes>
+            <!--smoke test for LS-->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.cmsFlow.CreateChapterAndTlo"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.cmsFlow.SearchFilterFunctionality"/>
+
+            <!--<class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.nongradableassignment.NonGradableAssignment"/>-->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.extendduedate.ExtendDueDate"/>
+            <!-- <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.policyfour.PolicyFour"/>
+             <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.policyone.PolicyOne"/>
+             <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.policythree.PolicyThree"/>-->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.unAssignAssignment.unAssignAssignment"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.updateAssignment.UpdateAssignment"/>
+            <!--
+                        <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.policytwo.PolicyTwo"/>
+            -->
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.bulkOperations.BulkOperations"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.copyquestions.CopyQuestions"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.courseContentSummary.CourseContentSummary"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.discussionBasedAssignment.DiscussionBasedAssignment"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.GroupPage"/>
+            <class name="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.groups.AssignAssignmentToGroup"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->

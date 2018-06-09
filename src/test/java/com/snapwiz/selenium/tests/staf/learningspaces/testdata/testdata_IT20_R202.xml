@@ -1,0 +1,931 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.LsPlusAdaptiveCourse" index="10" method="" >
+        <user_id>IT20_R202_instructor_10</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R202_studcontext_10</context_id>
+        <context_title>IT20_R202_studtitle_10</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.LsPlusAdaptiveCourse" index="45" method="" >
+        <user_id>IT20_R202_instructor_45</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R202_studcontext_45</context_id>
+        <context_title>IT20_R202_studtitle_45</context_title>
+        <assessmentname>IT202_static Assessment_45</assessmentname>
+        <questionset>Test Question IT20_R202_45</questionset>
+        <questiontext>Test Question IT20_R202_45</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>IT20_R202_studtitle_45</shareWithInitialString>
+        <shareName>IT20_R202_studtitle_45</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.LsPlusAdaptiveCourse" index="63" method="" >
+         <user_id>IT20_R202_instructor_63</user_id>>
+         <Role>instructor</Role>
+         <context_id>IT20_R202_studcontext_63</context_id>
+         <context_title>IT20_R202_studtitle_63</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.LsPlusAdaptiveCourse" index="63_1" method="" >
+        <user_id>IT20_R202_student_63</user_id>>
+        <Role>student</Role>
+        <context_id>IT20_R202_studcontext_63</context_id>
+        <context_title>IT20_R202_studtitle_63</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.LsPlusAdaptiveCourse" index="89" method="" >
+        <user_id>IT20_R202_instructor_89</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R202_studcontext_89</context_id>
+        <context_title>IT20_R202_studtitle_89</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.LsPlusAdaptiveCourse" index="89_1" method="" >
+        <user_id>IT20_R202_student_89</user_id>>
+        <Role>student</Role>
+        <context_id>IT20_R202_studcontext_89</context_id>
+        <context_title>IT20_R202_studtitle_89</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.LsPlusAdaptiveCourse" index="104" method="" >
+        <user_id>IT20_R202_instructor_104</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R202_studcontext_104</context_id>
+        <context_title>IT20_R202_studtitle_104</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.LsPlusAdaptiveCourse" index="104_1" method="" >
+        <user_id>IT20_R202_student_104</user_id>>
+        <Role>student</Role>
+        <context_id>IT20_R202_studcontext_104</context_id>
+        <context_title>IT20_R202_studtitle_104</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.LsPlusAdaptiveCourse" index="124" method="" >
+        <user_id>IT20_R202_instructor_124</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R202_studcontext_124</context_id>
+        <context_title>IT20_R202_studtitle_124</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.LsPlusAdaptiveCourse" index="124_1" method="" >
+        <user_id>IT20_R202_student_124</user_id>>
+        <Role>student</Role>
+        <context_id>IT20_R202_studcontext_124</context_id>
+        <context_title>IT20_R202_studtitle_124</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.LsPlusAdaptiveCourse" index="139" method="" >
+        <user_id>IT20_R202_instructor_139</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R202_studcontext_139</context_id>
+        <context_title>IT20_R202_studtitle_139</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.LsPlusAdaptiveCourse" index="139_1" method="" >
+        <user_id>IT20_R202_student_139</user_id>>
+        <Role>student</Role>
+        <context_id>IT20_R202_studcontext_139</context_id>
+        <context_title>IT20_R202_studtitle_139</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.LsPlusAdaptiveCourse" index="152" method="" >
+        <user_id>IT20_R202_instructor_152</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R202_studcontext_152</context_id>
+        <context_title>IT20_R202_studtitle_152</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.LsPlusAdaptiveCourse" index="152_1" method="" >
+        <user_id>IT20_R202_student_152</user_id>>
+        <Role>student</Role>
+        <context_id>IT20_R202_studcontext_152</context_id>
+        <context_title>IT20_R202_studtitle_152</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.LsPlusAdaptiveCourse" index="167" method="" >
+        <user_id>IT20_R202_instructor_167</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R202_studcontext_167</context_id>
+        <context_title>IT20_R202_studtitle_167</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.LsPlusAdaptiveCourse" index="181" method="" >
+        <user_id>IT20_R202_instructor_181</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R202_studcontext_181</context_id>
+        <context_title>IT20_R202_studtitle_181</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.LsPlusAdaptiveCourse" index="196" method="" >
+        <user_id>IT20_R202_instructor_196</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R202_studcontext_196</context_id>
+        <context_title>IT20_R202_studtitle_196</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.LsPlusAdaptiveCourse" index="206" method="" >
+        <user_id>IT20_R202_instructor_206</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R202_studcontext_206</context_id>
+        <context_title>IT20_R202_studtitle_206</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.LsPlusAdaptiveCourse" index="212" method="" >
+        <user_id>IT20_R202_instructor_212</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R202_studcontext_212</context_id>
+        <context_title>IT20_R202_studtitle_212</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.LsPlusAdaptiveCourse" index="212_1" method="" >
+        <user_id>IT20_R202_student_212</user_id>>
+        <Role>student</Role>
+        <context_id>IT20_R202_studcontext_212</context_id>
+        <context_title>IT20_R202_studtitle_212</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.LsPlusAdaptiveCourse" index="216" method="" >
+        <user_id>IT20_R202_instructor_216</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R202_studcontext_216</context_id>
+        <context_title>IT20_R202_studtitle_216</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.LsPlusAdaptiveCourse" index="216_1" method="" >
+        <user_id>IT20_R202_student_216</user_id>>
+        <Role>student</Role>
+        <context_id>IT20_R202_studcontext_216</context_id>
+        <context_title>IT20_R202_studtitle_216</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.LsPlusAdaptiveCourse" index="220" method="" >
+        <user_id>IT20_R202_instructor_220</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R202_studcontext_220</context_id>
+        <context_title>IT20_R202_studtitle_220</context_title>
+        <shareWithInitialString>IT20_R202_studtitle_220</shareWithInitialString>
+        <shareName>IT20_R202_studtitle_220</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>true</gradable>
+        <totalpoints>2</totalpoints>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.LsPlusAdaptiveCourse" index="220_1" method="" >
+        <user_id>IT20_R202_student_220</user_id>>
+        <Role>student</Role>
+        <context_id>IT20_R202_studcontext_220</context_id>
+        <context_title>IT20_R202_studtitle_220</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.LsPlusAdaptiveCourse" index="225_1" method="" >
+        <user_id>IT20_R202_student_225</user_id>>
+        <Role>student</Role>
+        <context_id>IT20_R202_studcontext_225</context_id>
+        <context_title>IT20_R202_studtitle_225</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.LsPlusAdaptiveCourse" index="225" method="" >
+       <user_id>IT20_R202_instructor_225</user_id>>
+       <Role>instructor</Role>
+       <context_id>IT20_R202_studcontext_225</context_id>
+       <context_title>IT20_R202_studtitle_225</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.LsPlusAdaptiveCourse" index="227" method="" >
+        <user_id>IT20_R202_instructor_227</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R202_studcontext_227</context_id>
+        <context_title>IT20_R202_studtitle_227</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.LsPlusAdaptiveCourse" index="227_1" method="" >
+        <user_id>IT20_R202_student_227</user_id>>
+        <Role>student</Role>
+        <context_id>IT20_R202_studcontext_227</context_id>
+        <context_title>IT20_R202_studtitle_227</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.LsPlusAdaptiveCourse" index="229" method="" >
+        <user_id>IT20_R202_instructor_229</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R202_studcontext_229</context_id>
+        <context_title>IT20_R202_studtitle_229</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.LsPlusAdaptiveCourse" index="229_1" method="" >
+        <user_id>IT20_R202_student_229</user_id>>
+        <Role>student</Role>
+        <context_id>IT20_R202_studcontext_229</context_id>
+        <context_title>IT20_R202_studtitle_229</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.LsPlusAdaptiveCourse" index="231" method="" >
+        <user_id>IT20_R202_instructor_231</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R202_studcontext_231</context_id>
+        <context_title>IT20_R202_studtitle_231</context_title>
+        <shareWithInitialString>IT20_R202_studtitle_231</shareWithInitialString>
+        <shareName>IT20_R202_studtitle_231</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>true</gradable>
+        <totalpoints>2</totalpoints>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.LsPlusAdaptiveCourse" index="231_1" method="" >
+        <user_id>IT20_R202_student_231</user_id>>
+        <Role>student</Role>
+        <context_id>IT20_R202_studcontext_231</context_id>
+        <context_title>IT20_R202_studtitle_231</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.LsPlusAdaptiveCourse" index="234" method="" >
+       <user_id>IT20_R202_instructor_234</user_id>>
+       <Role>instructor</Role>
+       <context_id>IT20_R202_studcontext_234</context_id>
+       <context_title>IT20_R202_studtitle_234</context_title>
+        <assessmentname>IT20_R202_Assignment_234</assessmentname>
+        <questionset>IT20_R202_Question Set</questionset>
+        <questiontext>IT20_R202_Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>IT20_R202_studtitle_234</shareWithInitialString>
+        <shareName>IT20_R202_studtitle_234</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.LsPlusAdaptiveCourse" index="234_1" method="" >
+        <user_id>IT20_R202_student_234</user_id>>
+        <Role>student</Role>
+        <context_id>IT20_R202_studcontext_234</context_id>
+        <context_title>IT20_R202_studtitle_234</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.LsPlusAdaptiveCourse" index="236" method="" >
+        <user_id>IT20_R202_instructor_236</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R202_studcontext_236</context_id>
+        <context_title>IT20_R202_studtitle_236</context_title>
+        <assessmentname>IT20_R202_Assignment_236_1</assessmentname>
+        <questionset>IT20_R202_Question Set</questionset>
+        <questiontext>IT20_R202_Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>IT20_R202_studtitle_236</shareWithInitialString>
+        <shareName>IT20_R202_studtitle_236</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.LsPlusAdaptiveCourse" index="236_1" method="" >
+        <user_id>IT20_R202_student_236</user_id>>
+        <Role>student</Role>
+        <context_id>IT20_R202_studcontext_236</context_id>
+        <context_title>IT20_R202_studtitle_236</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.LsPlusAdaptiveCourse" index="238" method="" >
+        <user_id>IT20_R202_instructor_238</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R202_studcontext_238</context_id>
+        <context_title>IT20_R202_studtitle_238</context_title>
+        <assessmentname>IT20_R202_Assignment_238</assessmentname>
+        <questionset>IT20_R202_Question Set</questionset>
+        <questiontext>IT20_R202_Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>IT20_R202_studtitle_238</shareWithInitialString>
+        <shareName>IT20_R202_studtitle_238</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.LsPlusAdaptiveCourse" index="238_1" method="" >
+        <user_id>IT20_R202_student_238</user_id>>
+        <Role>student</Role>
+        <context_id>IT20_R202_studcontext_238</context_id>
+        <context_title>IT20_R202_studtitle_238</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.LsPlusAdaptiveCourse" index="243" method="" >
+        <user_id>IT20_R202_instructor_243</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R202_studcontext_243</context_id>
+        <context_title>IT20_R202_studtitle_243</context_title>
+        <assessmentname>IT20_R202_Assignment_243</assessmentname>
+        <questionset>IT20_R202_Question Set</questionset>
+        <questiontext>IT20_R202_Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>IT20_R202_studtitle_243</shareWithInitialString>
+        <shareName>IT20_R202_studtitle_243</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.LsPlusAdaptiveCourse" index="243_1" method="" >
+        <user_id>IT20_R202_student_243</user_id>>
+        <Role>student</Role>
+        <context_id>IT20_R202_studcontext_243</context_id>
+        <context_title>IT20_R202_studtitle_243</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.LsPlusAdaptiveCourse" index="246" method="" >
+        <user_id>IT20_R202_instructor_246</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R202_studcontext_246</context_id>
+        <context_title>IT20_R202_studtitle_246</context_title>
+        <assessmentname>IT20_R202_Assignment_246</assessmentname>
+        <questionset>IT20_R202_Question Set</questionset>
+        <questiontext>IT20_R202_Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>IT20_R202_studtitle_246</shareWithInitialString>
+        <shareName>IT20_R202_studtitle_246</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.LsPlusAdaptiveCourse" index="246_1" method="" >
+        <user_id>IT20_R202_student_246</user_id>>
+        <Role>student</Role>
+        <context_id>IT20_R202_studcontext_246</context_id>
+        <context_title>IT20_R202_studtitle_246</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.LsPlusAdaptiveCourse" index="249" method="" >
+        <user_id>IT20_R202_instructor_249</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R202_studcontext_249</context_id>
+        <context_title>IT20_R202_studtitle_249</context_title>
+        <assessmentname>IT20_R202_Assignment_249</assessmentname>
+        <questionset>IT20_R202_Question Set</questionset>
+        <questiontext>IT20_R202_Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>IT20_R202_studtitle_249</shareWithInitialString>
+        <shareName>IT20_R202_studtitle_249</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.LsPlusAdaptiveCourse" index="250" method="" >
+        <user_id>IT20_R202_instructor_250</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R202_studcontext_250</context_id>
+        <context_title>IT20_R202_studtitle_250</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.LsPlusAdaptiveCourse" index="252" method="" >
+        <user_id>IT20_R202_instructor_252</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R202_studcontext_252</context_id>
+        <context_title>IT20_R202_studtitle_252</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.LsPlusAdaptiveCourse" index="256" method="" >
+        <user_id>IT20_R202_instructor_256</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R202_studcontext_256</context_id>
+        <context_title>IT20_R202_studtitle_256</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.LsPlusAdaptiveCourse" index="257" method="" >
+        <user_id>IT20_R202_instructor_257</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R202_studcontext_256</context_id>
+        <context_title>IT20_R202_studtitle_256</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.ForLsCourse" index="265" method="" >
+        <user_id>IT20_R202_instructor_265</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R202_studcontext_265</context_id>
+        <context_title>IT20_R202_studtitle_265</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.ForLsCourse" index="298" method="" >
+        <user_id>IT20_R202_instructor_298</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R202_studcontext_298</context_id>
+        <context_title>IT20_R202_studtitle_298</context_title>
+        <assessmentname>IT202_static Assessment_298</assessmentname>
+        <questionset>Test Question IT20_R202_298</questionset>
+        <questiontext>Test Question IT20_R202_298</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>IT20_R202_studtitle_298</shareWithInitialString>
+        <shareName>IT20_R202_studtitle_298</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.ForLsCourse" index="312" method="" >
+        <user_id>IT20_R202_instructor_312</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R202_studcontext_312</context_id>
+        <context_title>IT20_R202_studtitle_312</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.ForLsCourse" index="312_1" method="" >
+        <user_id>IT20_R202_student_312</user_id>>
+        <Role>student</Role>
+        <context_id>IT20_R202_studcontext_312</context_id>
+        <context_title>IT20_R202_studtitle_312</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.ForLsCourse" index="338" method="" >
+        <user_id>IT20_R202_instructor_338</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R202_studcontext_338</context_id>
+        <context_title>IT20_R202_studtitle_338</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.ForLsCourse" index="348" method="" >
+        <user_id>IT20_R202_instructor_348</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R202_studcontext_348</context_id>
+        <context_title>IT20_R202_studtitle_348</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.ForLsCourse" index="348_1" method="" >
+        <user_id>IT20_R202_student_348</user_id>>
+        <Role>student</Role>
+        <context_id>IT20_R202_studcontext_348</context_id>
+        <context_title>IT20_R202_studtitle_348</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.ForLsCourse" index="367" method="" >
+        <user_id>IT20_R202_instructor_367</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R202_studcontext_367</context_id>
+        <context_title>IT20_R202_studtitle_367</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.ForLsCourse" index="367_1" method="" >
+        <user_id>IT20_R202_student_367</user_id>>
+        <Role>student</Role>
+        <context_id>IT20_R202_studcontext_367</context_id>
+        <context_title>IT20_R202_studtitle_367</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.ForLsCourse" index="380" method="" >
+        <user_id>IT20_R202_instructor_380</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R202_studcontext_380</context_id>
+        <context_title>IT20_R202_studtitle_380</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.ForLsCourse" index="380_1" method="" >
+        <user_id>IT20_R202_student_380</user_id>>
+        <Role>student</Role>
+        <context_id>IT20_R202_studcontext_380</context_id>
+        <context_title>IT20_R202_studtitle_380</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.ForLsCourse" index="390" method="" >
+        <user_id>IT20_R202_instructor_390</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R202_studcontext_390</context_id>
+        <context_title>IT20_R202_studtitle_390</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.ForLsCourse" index="390_1" method="" >
+        <user_id>IT20_R202_student_390</user_id>>
+        <Role>student</Role>
+        <context_id>IT20_R202_studcontext_390</context_id>
+        <context_title>IT20_R202_studtitle_390</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.ForLsCourse" index="403" method="" >
+        <user_id>IT20_R202_instructor_403</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R202_studcontext_403</context_id>
+        <context_title>IT20_R202_studtitle_403</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.ForLsCourse" index="415" method="" >
+        <user_id>IT20_R202_instructor_415</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R202_studcontext_415</context_id>
+        <context_title>IT20_R202_studtitle_415</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.ForLsCourse" index="427" method="" >
+        <user_id>IT20_R202_instructor_427</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R202_studcontext_427</context_id>
+        <context_title>IT20_R202_studtitle_427</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.ForLsCourse" index="434" method="" >
+        <user_id>IT20_R202_instructor_434</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R202_studcontext_434</context_id>
+        <context_title>IT20_R202_studtitle_434</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.ForLsCourse" index="440" method="" >
+        <user_id>IT20_R202_instructor_440</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R202_studcontext_440</context_id>
+        <context_title>IT20_R202_studtitle_440</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.ForLsCourse" index="440_1" method="" >
+        <user_id>IT20_R202_student_440</user_id>>
+        <Role>student</Role>
+        <context_id>IT20_R202_studcontext_440</context_id>
+        <context_title>IT20_R202_studtitle_440</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.ForLsCourse" index="445" method="" >
+        <user_id>IT20_R202_instructor_445</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R202_studcontext_445</context_id>
+        <context_title>IT20_R202_studtitle_445</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.ForLsCourse" index="445_1" method="" >
+        <user_id>IT20_R202_student_445</user_id>>
+        <Role>student</Role>
+        <context_id>IT20_R202_studcontext_445</context_id>
+        <context_title>IT20_R202_studtitle_445</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.ForLsCourse" index="449" method="" >
+        <user_id>IT20_R202_instructor_449</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R202_studcontext_449</context_id>
+        <context_title>IT20_R202_studtitle_449</context_title>
+        <shareWithInitialString>IT20_R202_studtitle_449</shareWithInitialString>
+        <shareName>IT20_R202_studtitle_449</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>true</gradable>
+        <totalpoints>2</totalpoints>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.ForLsCourse" index="449_1" method="" >
+        <user_id>IT20_R202_student_449</user_id>>
+        <Role>student</Role>
+        <context_id>IT20_R202_studcontext_449</context_id>
+        <context_title>IT20_R202_studtitle_449</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.ForLsCourse" index="454_1" method="" >
+        <user_id>IT20_R202_student_454</user_id>>
+        <Role>student</Role>
+        <context_id>IT20_R202_studcontext_454</context_id>
+        <context_title>IT20_R202_studtitle_454</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.ForLsCourse" index="454" method="" >
+        <user_id>IT20_R202_instructor_454</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R202_studcontext_454</context_id>
+        <context_title>IT20_R202_studtitle_454</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.ForLsCourse" index="456" method="" >
+        <user_id>IT20_R202_instructor_456</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R202_studcontext_456</context_id>
+        <context_title>IT20_R202_studtitle_456</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.ForLsCourse" index="456_1" method="" >
+        <user_id>IT20_R202_student_456</user_id>>
+        <Role>student</Role>
+        <context_id>IT20_R202_studcontext_456</context_id>
+        <context_title>IT20_R202_studtitle_456</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.ForLsCourse" index="458" method="" >
+        <user_id>IT20_R202_instructor_458</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R202_studcontext_458</context_id>
+        <context_title>IT20_R202_studtitle_458</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.ForLsCourse" index="458_1" method="" >
+        <user_id>IT20_R202_student_458</user_id>>
+        <Role>student</Role>
+        <context_id>IT20_R202_studcontext_458</context_id>
+        <context_title>IT20_R202_studtitle_458</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.ForLsCourse" index="460" method="" >
+        <user_id>IT20_R202_instructor_460</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R202_studcontext_460</context_id>
+        <context_title>IT20_R202_studtitle_460</context_title>
+        <shareWithInitialString>IT20_R202_studtitle_460</shareWithInitialString>
+        <shareName>IT20_R202_studtitle_460</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>true</gradable>
+        <totalpoints>2</totalpoints>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.ForLsCourse" index="460_1" method="" >
+        <user_id>IT20_R202_student_460</user_id>>
+        <Role>student</Role>
+        <context_id>IT20_R202_studcontext_460</context_id>
+        <context_title>IT20_R202_studtitle_460</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.ForLsCourse" index="463" method="" >
+        <user_id>IT20_R202_instructor_463</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R202_studcontext_463</context_id>
+        <context_title>IT20_R202_studtitle_463</context_title>
+        <assessmentname>IT20_R202_Assignment_463</assessmentname>
+        <questionset>IT20_R202_Question Set</questionset>
+        <questiontext>IT20_R202_Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>IT20_R202_studtitle_463</shareWithInitialString>
+        <shareName>IT20_R202_studtitle_463</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.ForLsCourse" index="463_1" method="" >
+        <user_id>IT20_R202_student_463</user_id>>
+        <Role>student</Role>
+        <context_id>IT20_R202_studcontext_463</context_id>
+        <context_title>IT20_R202_studtitle_463</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.ForLsCourse" index="465" method="" >
+        <user_id>IT20_R202_instructor_465</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R202_studcontext_465</context_id>
+        <context_title>IT20_R202_studtitle_465</context_title>
+        <assessmentname>IT20_R202_Assignment_465</assessmentname>
+        <questionset>IT20_R202_Question Set</questionset>
+        <questiontext>IT20_R202_Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>IT20_R202_studtitle_465</shareWithInitialString>
+        <shareName>IT20_R202_studtitle_465</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.ForLsCourse" index="465_1" method="" >
+        <user_id>IT20_R202_student_465</user_id>>
+        <Role>student</Role>
+        <context_id>IT20_R202_studcontext_465</context_id>
+        <context_title>IT20_R202_studtitle_465</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.ForLsCourse" index="467" method="" >
+        <user_id>IT20_R202_instructor_467</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R202_studcontext_467</context_id>
+        <context_title>IT20_R202_studtitle_467</context_title>
+        <assessmentname>IT20_R202_Assignment_467</assessmentname>
+        <questionset>IT20_R202_Question Set</questionset>
+        <questiontext>IT20_R202_Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>IT20_R202_studtitle_467</shareWithInitialString>
+        <shareName>IT20_R202_studtitle_467</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.ForLsCourse" index="467_1" method="" >
+        <user_id>IT20_R202_student_467</user_id>>
+        <Role>student</Role>
+        <context_id>IT20_R202_studcontext_467</context_id>
+        <context_title>IT20_R202_studtitle_467</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.ForLsCourse" index="472" method="" >
+        <user_id>IT20_R202_instructor_472</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R202_studcontext_472</context_id>
+        <context_title>IT20_R202_studtitle_472</context_title>
+        <assessmentname>IT20_R202_Assignment_472</assessmentname>
+        <questionset>IT20_R202_Question Set</questionset>
+        <questiontext>IT20_R202_Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>IT20_R202_studtitle_472</shareWithInitialString>
+        <shareName>IT20_R202_studtitle_472</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.ForLsCourse" index="472_1" method="" >
+        <user_id>IT20_R202_student_472</user_id>>
+        <Role>student</Role>
+        <context_id>IT20_R202_studcontext_472</context_id>
+        <context_title>IT20_R202_studtitle_472</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.ForLsCourse" index="475" method="" >
+        <user_id>IT20_R202_instructor_475</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R202_studcontext_475</context_id>
+        <context_title>IT20_R202_studtitle_475</context_title>
+        <assessmentname>IT20_R202_Assignment_475</assessmentname>
+        <questionset>IT20_R202_Question Set</questionset>
+        <questiontext>IT20_R202_Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>IT20_R202_studtitle_475</shareWithInitialString>
+        <shareName>IT20_R202_studtitle_475</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.ForLsCourse" index="475_1" method="" >
+        <user_id>IT20_R202_student_475</user_id>>
+        <Role>student</Role>
+        <context_id>IT20_R202_studcontext_475</context_id>
+        <context_title>IT20_R202_studtitle_475</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.ForLsCourse" index="478" method="" >
+        <user_id>IT20_R202_instructor_478</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R202_studcontext_478</context_id>
+        <context_title>IT20_R202_studtitle_478</context_title>
+        <assessmentname>IT20_R202_Assignment_478</assessmentname>
+        <questionset>IT20_R202_Question Set</questionset>
+        <questiontext>IT20_R202_Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>IT20_R202_studtitle_478</shareWithInitialString>
+        <shareName>IT20_R202_studtitle_478</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.ForLsCourse" index="479" method="" >
+        <user_id>IT20_R202_instructor_479</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R202_studcontext_479</context_id>
+        <context_title>IT20_R202_studtitle_479</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.ForLsCourse" index="481" method="" >
+        <user_id>IT20_R202_instructor_481</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R202_studcontext_481</context_id>
+        <context_title>IT20_R202_studtitle_481</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.ForLsCourse" index="485" method="" >
+        <user_id>IT20_R202_instructor_485</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R202_studcontext_485</context_id>
+        <context_title>IT20_R202_studtitle_485</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT20.R202.ForLsCourse" index="486" method="" >
+        <user_id>IT20_R202_instructor_486</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R202_studcontext_485</context_id>
+        <context_title>IT20_R202_studtitle_485</context_title>
+        <course_type>ls</course_type>
+    </testcase>
+</learningspaces>

@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.myAssignments.MyAssignments" index="15" method="">
+        <givenname>Shishira Bhat</givenname>
+        <filename>kmzfile.kmz</filename>
+        <description>Description_27</description>
+        <duetime>12:00 AM</duetime>
+        <gradable>false</gradable>
+        <user_id>instructor_smoke__myAssignments_15</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_myAssignments_15</context_id>
+        <context_title>studtitle_smoke_myAssignments_15</context_title>
+        <duedate>26</duedate>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.myAssignments.MyAssignments" index="49" method="">
+        <user_id>instructor_smoke__myAssignments_89</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_myAssignments_15</context_id>
+        <context_title>studtitle_smoke_myAssignments_15</context_title>
+        <duedate>26</duedate>
+    </testcase>
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.myAssignments.MyAssignments" index="57" method="">
+        <givenname>Shishira Bhat</givenname>
+        <filename>kmzfile.kmz</filename>
+        <description>Description_57</description>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <user_id>instructor_smoke__myAssignments_57</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_myAssignments_57</context_id>
+        <context_title>studtitle_smoke_myAssignments_57</context_title>
+        <duedate>26</duedate>
+        <totalPoints>10</totalPoints>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.myAssignments.MyAssignments" index="58" method="">
+        <user_id>instructor_smoke__myAssignments_89</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_myAssignments_57</context_id>
+        <context_title>studtitle_smoke_myAssignments_57</context_title>
+        <duedate>26</duedate>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.myAssignments.MyAssignments" index="90" method="">
+        <user_id>instructor_smoke__myAssignments_90</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_myAssignments_57</context_id>
+        <context_title>studtitle_smoke_myAssignments_57</context_title>
+        <duedate>26</duedate>
+    </testcase>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.myAssignments.MyAssignments" index="98" method="">
+        <givenname>Shishira Bhat</givenname>
+        <filename>kmzfile.kmz</filename>
+        <description>Description_98</description>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <user_id>instructor_smoke__myAssignments_98</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_myAssignments_98</context_id>
+        <context_title>studtitle_smoke_myAssignments_98</context_title>
+        <duedate>26</duedate>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.myAssignments.MyAssignments" index="131" method="">
+        <user_id>student_smoke__myAssignments_131</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_myAssignments_98</context_id>
+        <context_title>studtitle_smoke_myAssignments_98</context_title>
+        <duedate>26</duedate>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.myAssignments.MyAssignments" index="139" method="">
+        <givenname>Shishira Bhat</givenname>
+        <filename>kmzfile.kmz</filename>
+        <description>Description_139</description>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <user_id>instructor_smoke__myAssignments_139</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_myAssignments_139</context_id>
+        <context_title>studtitle_smoke_myAssignments_139</context_title>
+        <duedate>26</duedate>
+        <totalPoints>10</totalPoints>
+    </testcase>
+
+
+    <!--<testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.myAssignments.MyAssignments" index="58" method="">
+        <user_id>instructor_smoke__myAssignments_89</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_myAssignments_57</context_id>
+        <context_title>studtitle_smoke_myAssignments_57</context_title>
+        <duedate>26</duedate>
+    </testcase>-->
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.myAssignments.MyAssignments" index="172" method="">
+        <user_id>instructor_smoke__myAssignments_172</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_myAssignments_139</context_id>
+        <context_title>studtitle_smoke_myAssignments_139</context_title>
+        <duedate>26</duedate>
+    </testcase>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.myAssignments.MyAssignments" index="522" method="">
+        <user_id>instructor_smoke__myAssignments_522</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_myAssignments_522</context_id>
+        <context_title>studtitle_smoke_myAssignments_522</context_title>
+        <duedate>26</duedate>
+        <duedate>26</duedate>
+
+        <resoursename>111aaAAA_ResourceName_520</resoursename>
+        <type>image</type>
+        <description>ResourceName_522</description>
+        <filename>img.png</filename>
+        <instructoronlyflag>true</instructoronlyflag>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.myAssignments.MyAssignments" index="523" method="">
+        <duedate>26</duedate>
+        <resoursename>ResourceName_523</resoursename>
+        <type>image</type>
+        <description>ResourceName_523</description>
+        <filename>img.jpg</filename>
+        <instructoronlyflag>true</instructoronlyflag>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.myAssignments.MyAssignments" index="542" method="">
+        <user_id>student_smoke__myAssignments_542</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_myAssignments_522</context_id>
+        <context_title>studtitle_smoke_myAssignments_522</context_title>
+        <comment>This is student comment</comment>
+    </testcase>
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.myAssignments.MyAssignments" index="544" method="">
+        <user_id>instructor_smoke__myAssignments_544</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_smoke_myAssignments_544</context_id>
+        <context_title>studtitle_smoke_myAssignments_544</context_title>
+        <duedate>26</duedate>
+
+        <resourcesname>A_Resources_544</resourcesname>
+        <description>description text</description>
+        <filename>img.png</filename>
+
+       <!-- <gradingpolicystatus>true</gradingpolicystatus>-->
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.myAssignments.MyAssignments" index="551" method="">
+        <user_id>student_smoke__myAssignments_551</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_smoke_myAssignments_544</context_id>
+        <context_title>studtitle_smoke_myAssignments_544</context_title>
+        <comment>This is student comment</comment>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.myAssignments.MyAssignments" index="1016" method="">
+        <assessmentname>assessmentName_MyAssignments_1016_1</assessmentname>
+        <questionset>Question Set_MyAssignments_1016</questionset>
+        <questiontext>Test Question_MyAssignments_1016</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <status>publish</status>
+
+        <user_id>instructor_MyAssignments_1016</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_MyAssignments_1016</context_id>
+        <context_title>studtitle_MyAssignments_1016</context_title>
+
+        <givenname>Das</givenname>
+        <duedate>23</duedate>
+        <duetime>12:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studtitle_MyAssignments_1016</shareWithInitialString>
+        <shareName>studtitle_MyAssignments_1016</shareName>
+        <shareWithClass>true</shareWithClass>
+        <additionalnote>this is additional note</additionalnote>
+        <gradeable>false</gradeable>
+
+<!--
+        <assignFrom>PreCreated Assignment</assignFrom>
+-->
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.myAssignments.MyAssignments" index="1032" method="">
+        <assessmentname>assessmentName_MyAssignments_1032_1</assessmentname>
+        <questionset>Question Set_MyAssignments_1032</questionset>
+        <questiontext>Test Question_MyAssignments_1032</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <status>publish</status>
+
+        <user_id>instructor_MyAssignments_1032</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_MyAssignments_1032</context_id>
+        <context_title>studtitle_MyAssignments_1032</context_title>
+
+        <givenname>Das</givenname>
+        <duedate>23</duedate>
+        <duetime>12:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studtitle_MyAssignments_1032</shareWithInitialString>
+        <shareName>studtitle_MyAssignments_1032</shareName>
+        <shareWithClass>true</shareWithClass>
+        <additionalnote>this is additional note</additionalnote>
+        <gradeable>false</gradeable>
+
+<!--
+        <assignFrom>PreCreated Assignment</assignFrom>
+-->
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.myAssignments.MyAssignments" index="1037" method="">
+        <assessmentname>assessmentName_MyAssignments_1037</assessmentname>
+        <questionset>Question Set_MyAssignments_1037</questionset>
+        <questiontext>Test Question_MyAssignments_1037</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <status>publish</status>
+
+        <user_id>instructor_MyAssignments_1037</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_MyAssignments_1037</context_id>
+        <context_title>studtitle_MyAssignments_1037</context_title>
+
+        <givenname>Das</givenname>
+        <duedate>23</duedate>
+        <duetime>12:00 AM</duetime>
+        <shareWithClass>true</shareWithClass>
+        <shareWithInitialString>studtitle_MyAssignments_1037</shareWithInitialString>
+        <shareName>studtitle_MyAssignments_1037</shareName>
+        <shareWithClass>true</shareWithClass>
+        <additionalnote>this is additional note</additionalnote>
+        <gradeable>false</gradeable>
+        <resoursename>assessmentName_MyAssignments_1037</resoursename>
+
+        <gradable>false</gradable>
+   </testcase>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.myAssignments.MyAssignments" index="1050" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <assessmentname>ORION Ch 1: The Study of Life</assessmentname>
+        <user_id>instructor_MyAssignments_1050</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_MyAssignments_1050</context_id>
+        <context_title>studtitle_MyAssignments_1050</context_title>
+
+        <shareWithInitialString>studtitle_MyAssignments_1050</shareWithInitialString>
+        <shareName>studtitle_MyAssignments_1050</shareName>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <gradeable>true</gradeable>
+        <gradeReleaseOption>Release explicitly by the instructor</gradeReleaseOption>
+        <assignmentpolicyname>Policy4</assignmentpolicyname>
+        <studentname>family givenname</studentname>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.myAssignments.MyAssignments" index="1066" method="">
+        <assessmentname>ORION Ch 1: The Study of Life</assessmentname>
+        <user_id>instructor_MyAssignments_1066</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_MyAssignments_1066</context_id>
+        <context_title>studtitle_MyAssignments_1066</context_title>
+
+        <shareWithInitialString>studtitle_MyAssignments_1066</shareWithInitialString>
+        <shareName>studtitle_MyAssignments_1066</shareName>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <gradeable>false</gradeable>
+        <gradeReleaseOption>Release explicitly by the instructor</gradeReleaseOption>
+        <assignmentpolicyname>Policy4</assignmentpolicyname>
+        <studentname>family givenname</studentname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.myAssignments.MyAssignments" index="1082" method="instructorToBeAbleToUnAssignAssignmentInPolicy2">
+        <assessmentname>1.1 Concept Check</assessmentname>
+        <user_id>instructor_MyAssignments_1082</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_MyAssignments_1082</context_id>
+        <context_title>studtitle_MyAssignments_1082</context_title>
+
+        <shareWithInitialString>studtitle_MyAssignments_1082</shareWithInitialString>
+        <shareName>studtitle_MyAssignments_1082</shareName>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <gradeable>false</gradeable>
+        <gradeReleaseOption>Release explicitly by the instructor</gradeReleaseOption>
+        <assignmentpolicyname>Policy4</assignmentpolicyname>
+        <studentname>family givenname</studentname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.myAssignments.MyAssignments" index="1098" method="">
+        <assessmentname>1.1 Concept Check</assessmentname>
+        <user_id>instructor_MyAssignments_1098</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_MyAssignments_1082</context_id>
+        <context_title>studtitle_MyAssignments_1082</context_title>
+
+        <shareWithInitialString>studtitle_MyAssignments_1082</shareWithInitialString>
+        <shareName>studtitle_MyAssignments_1082</shareName>
+        <shareWithClass>true</shareWithClass>
+        <duedate>28</duedate>
+        <gradeable>false</gradeable>
+        <gradable>false</gradable>
+        <gradeReleaseOption>Release explicitly by the instructor</gradeReleaseOption>
+        <assignmentpolicyname>Policy4</assignmentpolicyname>
+        <studentname>family givenname</studentname>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.myAssignments.MyAssignments" index="1117" method="">
+
+        <assessmentname>FileBasedAssessment_myAssignments_1117</assessmentname>
+        <user_id>instructor_MyAssignments_1117</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_MyAssignments_1117</context_id>
+        <context_title>studtitle_MyAssignments_1117</context_title>
+
+        <promptdetails>promptdetails</promptdetails>
+        <shareWithInitialString>studtitle_MyAssignments_1117</shareWithInitialString>
+        <shareName>studtitle_MyAssignments_1117</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>true</gradable>
+        <gradeable>false</gradeable>
+
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <fileUpload>true</fileUpload>
+        <filename>img.png</filename>
+        <questionBank>true</questionBank>
+        <totalpoints>2</totalpoints>
+        <course>Biology</course>
+        <resoursename>FileBasedAssessment_myAssignments_1117</resoursename>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.myAssignments.MyAssignments" index="1118" method="">
+
+        <assessmentname>FileBasedAssessment_myAssignments_1117</assessmentname>
+        <user_id>instructor_MyAssignments_1117</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_MyAssignments_1117</context_id>
+        <context_title>studtitle_MyAssignments_1117</context_title>
+
+        <promptdetails>promptdetails</promptdetails>
+        <shareWithInitialString>studtitle_MyAssignments_1117</shareWithInitialString>
+        <shareName>studtitle_MyAssignments_1117</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>false</gradable>
+
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <fileUpload>true</fileUpload>
+        <filename>img.png</filename>
+        <questionBank>true</questionBank>
+        <totalpoints>2</totalpoints>
+        <course>Biology</course>
+        <resoursename>FileBasedAssessment_myAssignments_1117</resoursename>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.myAssignments.MyAssignments" index="1277" method="">
+
+        <assessmentname>FileBasedAssessment_myAssignments_1277</assessmentname>
+        <user_id>instructor_MyAssignments_1277</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_MyAssignments_1277</context_id>
+        <context_title>studtitle_MyAssignments_1277</context_title>
+
+        <promptdetails>promptdetails</promptdetails>
+        <shareWithInitialString>studtitle_MyAssignments_1277</shareWithInitialString>
+        <shareName>studtitle_MyAssignments_1277</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>true</gradable>
+        <gradeable>false</gradeable>
+
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <fileUpload>true</fileUpload>
+        <filename>img.png</filename>
+        <questionBank>true</questionBank>
+        <totalpoints>2</totalpoints>
+        <course>Biology</course>
+        <resoursename>FileBasedAssessment_myAssignments_1277</resoursename>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.myAssignments.MyAssignments" index="1159" method="">
+
+        <assessmentname>FileBasedAssessment_myAssignments_1159</assessmentname>
+        <user_id>instructor_MyAssignments_1159</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_MyAssignments_1159</context_id>
+        <context_title>studtitle_MyAssignments_1159</context_title>
+
+        <promptdetails>promptdetails</promptdetails>
+        <shareWithInitialString>studtitle_MyAssignments_1159</shareWithInitialString>
+        <shareName>studtitle_MyAssignments_1159</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>true</gradable>
+        <gradeable>false</gradeable>
+
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <fileUpload>true</fileUpload>
+        <filename>img.png</filename>
+        <questionBank>true</questionBank>
+        <totalpoints>2</totalpoints>
+        <course>Biology</course>
+        <resoursename>FileBasedAssessment_myAssignments_1159</resoursename>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.myAssignments.MyAssignments" index="1160" method="">
+        <user_id>instructor_MyAssignments_1159</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_MyAssignments_1159</context_id>
+        <context_title>studtitle_MyAssignments_1159</context_title>
+        <duedate>26</duedate>
+
+        <resoursename>111aaAAA_ResourceName_1160</resoursename>
+        <type>image</type>
+        <description>ResourceName_1160</description>
+        <filename>img.png</filename>
+        <instructoronlyflag>true</instructoronlyflag>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.myAssignments.MyAssignments" index="1161" method="userToBeAbleToPerformActionsForNonGradableCustomAssignments">
+        <user_id>instructor_MyAssignments_1159</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_MyAssignments_1159</context_id>
+        <context_title>studtitle_MyAssignments_1159</context_title>
+        <duedate>28</duedate>
+        <additionalnote>This is an additional note</additionalnote>
+        <gradable>true</gradable>
+        <customassignmentname>customAssignment_myAssignment_1161</customassignmentname>
+        <assessmentname>Assessment_myAssignments_1161</assessmentname>
+        <questionset>Question Set_myAssignments_1161</questionset>
+        <questiontext>Test Question_myAssignments_1161</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <noOfQuestions>2</noOfQuestions>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.myAssignments.MyAssignments" index="1162" method="">
+
+        <user_id>instructor_MyAssignments_1159</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_MyAssignments_1159</context_id>
+        <context_title>studtitle_MyAssignments_1159</context_title>
+        <assessmentname>FileBasedAssessment_myAssignments_1162</assessmentname>
+        <promptdetails>promptdetails</promptdetails>
+        <shareWithInitialString>studtitle_MyAssignments_1159</shareWithInitialString>
+        <shareName>studtitle_MyAssignments_1159</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>true</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <fileUpload>true</fileUpload>
+        <filename>img.png</filename>
+        <questionBank>true</questionBank>
+        <totalpoints>2</totalpoints>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.myAssignments.MyAssignments" index="1163" method="">
+        <user_id>instructor_MyAssignments_1159</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_MyAssignments_1159</context_id>
+        <context_title>studtitle_MyAssignments_1159</context_title>
+        <duedate>26</duedate>
+
+        <gradable>true</gradable>
+        <gradingpolicy>grading policy texts</gradingpolicy>
+        <totalpoints>2</totalpoints>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>Description of the assignment</additionalnote>
+    </testcase>
+</learningspaces>
+
+

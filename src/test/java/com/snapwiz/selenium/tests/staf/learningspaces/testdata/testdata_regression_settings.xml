@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+       <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.settings.LSPlusAdaptive" index="10" method="" >
+        <user_id>regression_settings_instructor_10</user_id>>
+        <Role>instructor</Role>
+        <context_id>regression_settings_studcontext_10</context_id>
+        <context_title>Iregression_settings_studtitle_10</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.settings.LSPlusAdaptive" index="45" method="" >
+        <user_id>regression_settings_instructor_45</user_id>>
+        <Role>instructor</Role>
+        <context_id>regression_settings_studcontext_45</context_id>
+        <context_title>regression_settings_studtitle_45</context_title>
+        <assessmentname>regression_settings_static Assessment_45</assessmentname>
+        <questionset>Test Question regression_settings_45</questionset>
+        <questiontext>Test Question regression_settings_45</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>regression_settings_studtitle_45</shareWithInitialString>
+        <shareName>regression_settings_studtitle_45</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.settings.LSPlusAdaptive" index="63" method="" >
+        <user_id>regression_settings_instructor_63</user_id>>
+        <Role>instructor</Role>
+        <context_id>regression_settings_studcontext_63</context_id>
+        <context_title>regression_settings_studtitle_63</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.settings.LSPlusAdaptive" index="63_1" method="" >
+        <user_id>regression_settings_student_63</user_id>>
+        <Role>student</Role>
+        <context_id>regression_settings_studcontext_63</context_id>
+        <context_title>regression_settings_studtitle_63</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.settings.LSPlusAdaptive" index="89" method="" >
+        <user_id>regression_settings_instructor_89</user_id>>
+        <Role>instructor</Role>
+        <context_id>regression_settings_studcontext_89</context_id>
+        <context_title>regression_settings_studtitle_89</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.settings.LSPlusAdaptive" index="89_1" method="" >
+        <user_id>regression_settings_student_89_1</user_id>>
+        <Role>student</Role>
+        <context_id>regression_settings_studcontext_89_1</context_id>
+        <context_title>regression_settings_studtitle_89_1</context_title>
+    </testcase>
+
+
+</learningspaces>
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false"  preserve-order="true" configfailurepolicy="continue">
+    <listeners>
+        <listener class-name="com.snapwiz.selenium.tests.staf.framework.listener.CustomListener" />
+    </listeners>
+    <test name="testcase-Edulastic">
+        <classes>
+            <class name = "com.snapwiz.selenium.tests.staf.edulastic.testcases.sanity.signup.SignUp"/>
+            <class name = "com.snapwiz.selenium.tests.staf.edulastic.testcases.sanity.signup.SignUpWithGoogle"/>
+            <class name = "com.snapwiz.selenium.tests.staf.edulastic.testcases.sanity.dashboard.StudentAndInstructorDashboard"/>
+            <class name = "com.snapwiz.selenium.tests.staf.edulastic.testcases.sanity.profilepage.InstructorAndStudentProfilePage"/>
+            <class name = "com.snapwiz.selenium.tests.staf.edulastic.testcases.sanity.assignmentflowwithreport.AssignmentFlowWithReport"/>
+            <class name = "com.snapwiz.selenium.tests.staf.edulastic.testcases.sanity.manageclass.InstructorAndStudentManageClass"/>
+            <class name = "com.snapwiz.selenium.tests.staf.edulastic.testcases.sanity.assessmentpreview.AssessmentPreview"/>
+            <class name = "com.snapwiz.selenium.tests.staf.edulastic.testcases.sanity.print.Print"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->

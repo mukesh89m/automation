@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edulastic>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.saadminflow.SAAdminFlow" index ="1" method="">
+        <assessmentname>Regression_SAAdminFlow_1</assessmentname>
+        <questiontext>question text_SAAdminFlow_question</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <saadmin>true</saadmin>
+        <selectgrade>Grade 1</selectgrade>
+        <showdetailedreport>true</showdetailedreport>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>school</privacy>
+        <showdetailedreport>true</showdetailedreport>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.saadminflow.SAAdminFlow" index ="2" method="">
+        <assessmentname>Regression_SAAdminFlow_2</assessmentname>
+        <questiontext>question text_SAAdminFlow_question</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <saadmin>true</saadmin>
+        <selectgrade>Grade 1</selectgrade>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <privacy>school</privacy>
+        <showdetailedreport>true</showdetailedreport>
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.regression.saadminflow.SAAdminFlow" index ="3" method="">
+        <assessmentname>Regression_SAAdminFlow_2</assessmentname>
+        <answerchoice>incorrect</answerchoice>
+        <owner>district</owner>
+        <questiontext>question text_SAAdminFlow_question</questiontext>
+        <shareWithClass>true</shareWithClass>
+        <saadmin>true</saadmin>
+        <selectgrade>Grade 1</selectgrade>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradable>true</gradable>
+        <gradereleaseoption>Explicitly by teacher</gradereleaseoption>
+        <description>description text</description>
+        <tags>tags tags</tags>
+        <owner>school</owner>
+        <showdetailedreport>true</showdetailedreport>
+    </testcase>
+
+</edulastic>

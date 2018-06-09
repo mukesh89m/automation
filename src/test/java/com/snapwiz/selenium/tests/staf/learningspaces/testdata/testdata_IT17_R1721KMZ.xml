@@ -1,0 +1,775 @@
+<?xml version="1.0"?>
+<learningspaces>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Instructor" index="3" method="reservedForAssignmentOptionAsUncheckedInUploadResourcePopUp">
+        <user_id>instructor_ls_R17_2_1_3</user_id>
+        <Role>instructor</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Shishira Bhat</givenname>
+        <filename>kmzfile.kmz</filename>
+        <resourcesname>Resource_Name_3</resourcesname>
+        <description>Description_3</description>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Instructor" index="15" method="reservedForAssignmentOptionAsUncheckedInUploadResourcePopUp">
+        <user_id>student_ls_R17_2_1_15</user_id>
+        <Role>student</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Dharaneesha</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Instructor" index="20" method="reservedForAssignmentOptionAsCheckedInUploadResourcePopUp">
+        <user_id>instructor_ls_R17_2_1_20</user_id>
+        <Role>instructor</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Shishira Bhat</givenname>
+        <filename>kmzfile.kmz</filename>
+        <resourcesname>Resource_Name_20</resourcesname>
+        <description>Description_20</description>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Instructor" index="26" method="reservedForAssignmentOptionAsCheckedInUploadResourcePopUp">
+        <user_id>student_ls_R17_2_1_26</user_id>
+        <Role>student</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Dharaneesha</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Instructor" index="27" method="assignKMZTypeResourceStudents">
+        <user_id>instructor_ls_R17_2_1_27</user_id>
+        <Role>instructor</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Shishira Bhat</givenname>
+        <filename>kmzfile.kmz</filename>
+        <resourcesname>Resource_Name_27</resourcesname>
+        <description>Description_27</description>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Instructor" index="30" method="assignKMZTypeResourceStudents">
+        <user_id>student_ls_R17_2_1_30</user_id>
+        <Role>student</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Dharaneesha</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Instructor" index="37" method="reservedForGradingPolicyOptionAsCheckedInUploadResourcePopUp">
+        <user_id>instructor_ls_R17_2_1_37</user_id>
+        <Role>instructor</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Shishira Bhat</givenname>
+        <filename>kmzfile.kmz</filename>
+        <resourcesname>instructor_Resource_Name_37</resourcesname>
+        <description>instructor_Description_37</description>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Instructor" index="39" method="reservedForGradingPolicyOptionAsCheckedInUploadResourcePopUp">
+
+        <filename>kmzfile.kmz</filename>
+        <resourcesname>instructor_Resource_Name_39</resourcesname>
+        <description>instructor_Description_39</description>
+        <gradingpolicystatus>true</gradingpolicystatus>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Instructor" index="42" method="reservedForGradingPolicyOptionAsCheckedInUploadResourcePopUp">
+        <assessmentname>Instructor_IT17_R177_Custom Assignment_42</assessmentname>
+        <questionset>Test Question Set of IT17_R1721_42</questionset>
+        <questiontext>Test Question for IT17_R1721_42 Instructor</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <searchKey>IT17_R1721_42 Instructor</searchKey>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradeable>true</gradeable>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Instructor" index="44" method="reservedForGradingPolicyOptionAsCheckedInUploadResourcePopUp">
+        <user_id>student_ls_R17_2_21_44</user_id>
+        <Role>student</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Dharaneesha</givenname>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Instructor" index="45" method="uploadKMZFileInCourseStream">
+        <user_id>instructor_ls_R17_2_1_45</user_id>
+        <Role>instructor</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Shishira Bhat</givenname>
+        <filename>kmzfile.kmz</filename>
+        <resourcesname>Instructor_Resource_Name_45</resourcesname>
+        <description>Instructor_Description_45</description>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Instructor" index="48" method="uploadKMZFileInCourseStream">
+        <user_id>student_ls_R17_2_1_48_Instructor</user_id>
+        <Role>student</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Dharaneesha</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Instructor" index="51" method="uploadKMZFileInMyNotesPage">
+        <user_id>student_ls_R17_2_1_51</user_id>
+        <Role>student</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Dharaneesha</givenname>
+        <filename>kmzfile.kmz</filename>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Instructor" index="55" method="reservedForAssignmentOptionAsUncheckedInUploadResourcePopUpKML">
+        <user_id>instructor_ls_R17_2_1_55</user_id>
+        <Role>instructor</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Shishira Bhat</givenname>
+        <filename>kmlfile.kml</filename>
+        <resourcesname>Resource_Name_55</resourcesname>
+        <description>Description_55</description>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Instructor" index="66" method="reservedForAssignmentOptionAsUncheckedInUploadResourcePopUpKML">
+        <user_id>student_ls_R17_2_1_66_instructor</user_id>
+        <Role>student</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Dharaneesha</givenname>
+    </testcase>
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Instructor" index="71" method="reservedForAssignmentOptionAsCheckedInUploadResourcePopUpKML">
+        <user_id>instructor_ls_R17_2_1_71</user_id>
+        <Role>instructor</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Shishira Bhat</givenname>
+        <filename>kmlfile.kml</filename>
+        <resourcesname>Resource_Name_71</resourcesname>
+        <description>Description_71</description>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Instructor" index="77" method="reservedForAssignmentOptionAsCheckedInUploadResourcePopUpKML">
+        <user_id>student_ls_R17_2_1_77</user_id>
+        <Role>student</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Dharaneesha</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Instructor" index="78" method="assignKMZTypeResourceStudentsKML">
+        <user_id>instructor_ls_R17_2_1_78</user_id>
+        <Role>instructor</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Shishira Bhat</givenname>
+        <filename>kmlfile.kml</filename>
+        <resourcesname>Resource_Name_78</resourcesname>
+        <description>Description_78</description>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Instructor" index="81" method="assignKMZTypeResourceStudentsKML">
+        <user_id>student_ls_R17_2_1_81</user_id>
+        <Role>student</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Dharaneesha</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Instructor" index="88" method="reservedForGradingPolicyOptionAsCheckedInUploadResourcePopUpKML">
+        <user_id>instructor_ls_R17_2_1_88</user_id>
+        <Role>instructor</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Shishira Bhat</givenname>
+        <filename>kmlfile.kml</filename>
+        <resourcesname>Resource_Name_88</resourcesname>
+        <description>Description_88</description>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Instructor" index="90" method="reservedForGradingPolicyOptionAsCheckedInUploadResourcePopUpKML">
+        <filename>kmlfile.kml</filename>
+        <resourcesname>Resource_Name_90</resourcesname>
+        <description>Description_90</description>
+        <gradingpolicystatus>true</gradingpolicystatus>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Instructor" index="96" method="uploadKMZFileInCourseStreamKML">
+        <user_id>instructor_ls_R17_2_1_96</user_id>
+        <Role>instructor</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Shishira Bhat</givenname>
+        <filename>kmlfile.kml</filename>
+        <resourcesname>Resource_Name_96</resourcesname>
+        <description>Description_96</description>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Instructor" index="99" method="uploadKMZFileInCourseStreamKML">
+        <user_id>student_ls_R17_2_1_99</user_id>
+        <Role>student</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Dharaneesha</givenname>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Instructor" index="102" method="uploadKMZFileInMyNotesPageKML">
+        <user_id>student_ls_R17_2_1_102</user_id>
+        <Role>student</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Dharaneesha</givenname>
+        <filename>kmlfile.kml</filename>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Mentor" index="3" method="reservedForAssignmentOptionAsUncheckedInUploadResourcePopUp">
+        <user_id>instructor_ls_R17_2_1_3</user_id>
+        <Role>mentor</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Shishira Bhat</givenname>
+        <filename>kmzfile.kmz</filename>
+        <resourcesname>Resource_Name_3</resourcesname>
+        <description>Description_3</description>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Mentor" index="15" method="reservedForAssignmentOptionAsUncheckedInUploadResourcePopUp">
+        <user_id>student_ls_R17_2_1_15</user_id>
+        <Role>student</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Dharaneesha</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Mentor" index="20" method="reservedForAssignmentOptionAsCheckedInUploadResourcePopUp">
+        <user_id>instructor_ls_R17_2_1_20</user_id>
+        <Role>mentor</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Shishira Bhat</givenname>
+        <filename>kmzfile.kmz</filename>
+        <resourcesname>Resource_Name_20</resourcesname>
+        <description>Description_20</description>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Mentor" index="26" method="reservedForAssignmentOptionAsCheckedInUploadResourcePopUp">
+        <user_id>student_ls_R17_2_1_26</user_id>
+        <Role>student</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Dharaneesha</givenname>
+    </testcase>
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Mentor" index="27" method="assignKMZTypeResourceStudents">
+        <user_id>instructor_ls_R17_2_1_27</user_id>
+        <Role>mentor</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Shishira Bhat</givenname>
+        <filename>kmzfile.kmz</filename>
+        <resourcesname>Resource_Name_27</resourcesname>
+        <description>Description_27</description>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Mentor" index="30" method="assignKMZTypeResourceStudents">
+        <user_id>student_ls_R17_2_1_30</user_id>
+        <Role>student</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Dharaneesha</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Mentor" index="37" method="reservedForGradingPolicyOptionAsCheckedInUploadResourcePopUp">
+        <user_id>mentor_ls_R17_2_1_37</user_id>
+        <Role>mentor</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Shishira Bhat</givenname>
+        <filename>kmzfile.kmz</filename>
+        <resourcesname>mentor_Resource_Name_37</resourcesname>
+        <description>mentor_Description_37</description>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Mentor" index="39" method="reservedForGradingPolicyOptionAsCheckedInUploadResourcePopUp">
+
+        <filename>kmzfile.kmz</filename>
+        <resourcesname>mentor_Resource_Name_39</resourcesname>
+        <description>mentor_Description_39</description>
+        <gradingpolicystatus>true</gradingpolicystatus>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Mentor" index="42" method="reservedForGradingPolicyOptionAsCheckedInUploadResourcePopUp">
+        <assessmentname>Mentor_IT17_R177_Custom Assignment_42</assessmentname>
+        <questionset>Test Question Set of IT17_R1721_42</questionset>
+        <questiontext>Test Question for IT17_R1721_42 Mentor</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <searchKey>IT17_R1721_42 Mentor</searchKey>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradeable>true</gradeable>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Mentor" index="45" method="uploadKMZFileInCourseStream">
+        <user_id>mentor_ls_R17_2_1_45</user_id>
+        <Role>mentor</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Shishira Bhat</givenname>
+        <filename>kmzfile.kmz</filename>
+        <resourcesname>Mentor_Resource_Name_45</resourcesname>
+        <description>Mentor_Description_45</description>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Mentor" index="48" method="uploadKMZFileInCourseStream">
+        <user_id>student_ls_R17_2_1_48_Mentor</user_id>
+        <Role>student</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Dharaneesha</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Mentor" index="51" method="uploadKMZFileInMyNotesPage">
+        <user_id>student_ls_R17_2_1_51</user_id>
+        <Role>student</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Dharaneesha</givenname>
+        <filename>kmzfile.kmz</filename>
+    </testcase>
+
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Mentor" index="55" method="reservedForAssignmentOptionAsUncheckedInUploadResourcePopUpKML">
+        <user_id>instructor_ls_R17_2_1_55</user_id>
+        <Role>mentor</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Shishira Bhat</givenname>
+        <filename>kmlfile.kml</filename>
+        <resourcesname>Resource_Name_55</resourcesname>
+        <description>Description_55</description>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Mentor" index="66" method="reservedForAssignmentOptionAsUncheckedInUploadResourcePopUpKML">
+        <user_id>student_ls_R17_2_1_66_mentor</user_id>
+        <Role>student</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Dharaneesha</givenname>
+    </testcase>
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Mentor" index="71" method="reservedForAssignmentOptionAsCheckedInUploadResourcePopUpKML">
+        <user_id>instructor_ls_R17_2_1_71</user_id>
+        <Role>mentor</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Shishira Bhat</givenname>
+        <filename>kmlfile.kml</filename>
+        <resourcesname>Resource_Name_71</resourcesname>
+        <description>Description_71</description>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Mentor" index="77" method="reservedForAssignmentOptionAsCheckedInUploadResourcePopUpKML">
+        <user_id>student_ls_R17_2_1_77</user_id>
+        <Role>student</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Dharaneesha</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Mentor" index="78" method="assignKMZTypeResourceStudentsKML">
+        <user_id>instructor_ls_R17_2_1_78</user_id>
+        <Role>mentor</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Shishira Bhat</givenname>
+        <filename>kmlfile.kml</filename>
+        <resourcesname>Resource_Name_78</resourcesname>
+        <description>Description_78</description>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Mentor" index="81" method="assignKMZTypeResourceStudentsKML">
+        <user_id>student_ls_R17_2_1_81</user_id>
+        <Role>student</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Dharaneesha</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Mentor" index="88" method="reservedForGradingPolicyOptionAsCheckedInUploadResourcePopUpKML">
+        <user_id>instructor_ls_R17_2_1_88</user_id>
+        <Role>mentor</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Shishira Bhat</givenname>
+        <filename>kmlfile.kml</filename>
+        <resourcesname>Resource_Name_88</resourcesname>
+        <description>Description_88</description>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Mentor" index="90" method="reservedForGradingPolicyOptionAsCheckedInUploadResourcePopUpKML">
+        <filename>kmlfile.kml</filename>
+        <resourcesname>Resource_Name_90</resourcesname>
+        <description>Description_90</description>
+        <gradingpolicystatus>true</gradingpolicystatus>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Mentor" index="96" method="uploadKMZFileInCourseStreamKML">
+        <user_id>instructor_ls_R17_2_1_96</user_id>
+        <Role>mentor</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Shishira Bhat</givenname>
+        <filename>kmlfile.kml</filename>
+        <resourcesname>Resource_Name_96</resourcesname>
+        <description>Description_96</description>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Mentor" index="99" method="uploadKMZFileInCourseStreamKML">
+        <user_id>student_ls_R17_2_1_99</user_id>
+        <Role>student</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Dharaneesha</givenname>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Mentor" index="102" method="uploadKMZFileInMyNotesPageKML">
+        <user_id>student_ls_R17_2_1_102</user_id>
+        <Role>student</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Dharaneesha</givenname>
+        <filename>kmlfile.kml</filename>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Mentor_DIfferentUserId" index="3" method="reservedForAssignmentOptionAsUncheckedInUploadResourcePopUp">
+        <user_id>mentor_ls_R17_2_1_3</user_id>
+        <Role>mentor</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Shishira Bhat</givenname>
+        <filename>kmzfile.kmz</filename>
+        <resourcesname>Resource_Name_3</resourcesname>
+        <description>Description_3</description>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Mentor_DIfferentUserId" index="15" method="reservedForAssignmentOptionAsUncheckedInUploadResourcePopUp">
+        <user_id>student_ls_R17_2_1_15</user_id>
+        <Role>student</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Dharaneesha</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Mentor_DIfferentUserId" index="20" method="reservedForAssignmentOptionAsCheckedInUploadResourcePopUp">
+        <user_id>mentor_ls_R17_2_1_20</user_id>
+        <Role>mentor</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Shishira Bhat</givenname>
+        <filename>kmzfile.kmz</filename>
+        <resourcesname>Resource_Name_20</resourcesname>
+        <description>Description_20</description>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Mentor_DIfferentUserId" index="26" method="reservedForAssignmentOptionAsCheckedInUploadResourcePopUp">
+        <user_id>student_ls_R17_2_1_26</user_id>
+        <Role>student</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Dharaneesha</givenname>
+    </testcase>
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Mentor_DIfferentUserId" index="27" method="assignKMZTypeResourceStudents">
+        <user_id>mentor_ls_R17_2_1_27</user_id>
+        <Role>mentor</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Shishira Bhat</givenname>
+        <filename>kmzfile.kmz</filename>
+        <resourcesname>Resource_Name_27</resourcesname>
+        <description>Description_27</description>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Mentor_DIfferentUserId" index="30" method="assignKMZTypeResourceStudents">
+        <user_id>student_ls_R17_2_1_30</user_id>
+        <Role>student</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Dharaneesha</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Mentor_DIfferentUserId" index="37" method="reservedForGradingPolicyOptionAsCheckedInUploadResourcePopUp">
+        <user_id>mentor_ls_R17_2_1_37</user_id>
+        <Role>mentor</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Shishira Bhat</givenname>
+        <filename>kmzfile.kmz</filename>
+        <resourcesname>mentor_different_Uid_Resource_Name_37</resourcesname>
+        <description>mentor_different_Uid_Description_37</description>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Mentor_DIfferentUserId" index="39" method="reservedForGradingPolicyOptionAsCheckedInUploadResourcePopUp">
+        <filename>kmzfile.kmz</filename>
+        <resourcesname>mentor_different_Uid_Resource_Name_39</resourcesname>
+        <description>mentor_different_Uid_Description_39</description>
+        <gradingpolicystatus>true</gradingpolicystatus>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Mentor_DIfferentUserId" index="42" method="reservedForGradingPolicyOptionAsCheckedInUploadResourcePopUp">
+        <assessmentname>Mentor_DifferentUserId_IT17_R177_Custom Assignment_42</assessmentname>
+        <questionset>Test Question Set of IT17_R1721_42</questionset>
+        <questiontext>Test Question for IT17_R1721_42 Mentor DiffUid</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <searchKey>IT17_R1721_42 Mentor DiffUid</searchKey>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradeable>true</gradeable>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Mentor_DIfferentUserId" index="45" method="uploadKMZFileInCourseStream">
+        <user_id>mentor_ls_R17_2_1_45</user_id>
+        <Role>mentor</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Shishira Bhat</givenname>
+        <filename>kmzfile.kmz</filename>
+        <resourcesname>Mentor_DiffUid_Resource_Name_45</resourcesname>
+        <description>DifferentUid_Description_45</description>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Mentor_DIfferentUserId" index="48" method="uploadKMZFileInCourseStream">
+        <user_id>student_ls_R17_2_1_48_mentor_diffUid</user_id>
+        <Role>student</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Dharaneesha</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Mentor_DIfferentUserId" index="51" method="uploadKMZFileInMyNotesPage">
+        <user_id>student_ls_R17_2_1_51</user_id>
+        <Role>student</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Dharaneesha</givenname>
+        <filename>kmzfile.kmz</filename>
+    </testcase>
+
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Mentor_DIfferentUserId" index="55" method="reservedForAssignmentOptionAsUncheckedInUploadResourcePopUpKML">
+        <user_id>mentor_ls_R17_2_1_55</user_id>
+        <Role>mentor</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Shishira Bhat</givenname>
+        <filename>kmlfile.kml</filename>
+        <resourcesname>Resource_Name_55</resourcesname>
+        <description>Description_55</description>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Mentor_DIfferentUserId" index="66" method="">
+        <user_id>student_ls_R17_2_1_66_mentordiffId</user_id>
+        <Role>student</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Dharaneesha</givenname>
+    </testcase>
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Mentor_DIfferentUserId" index="71" method="reservedForAssignmentOptionAsCheckedInUploadResourcePopUpKML">
+        <user_id>mentor_ls_R17_2_1_71</user_id>
+        <Role>mentor</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Shishira Bhat</givenname>
+        <filename>kmlfile.kml</filename>
+        <resourcesname>Resource_Name_71</resourcesname>
+        <description>Description_71</description>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Mentor_DIfferentUserId" index="77" method="reservedForAssignmentOptionAsCheckedInUploadResourcePopUpKML">
+        <user_id>student_ls_R17_2_1_77</user_id>
+        <Role>student</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Dharaneesha</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Mentor_DIfferentUserId" index="78" method="assignKMZTypeResourceStudentsKML">
+        <user_id>mentor_ls_R17_2_1_78</user_id>
+        <Role>mentor</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Shishira Bhat</givenname>
+        <filename>kmlfile.kml</filename>
+        <resourcesname>Resource_Name_78</resourcesname>
+        <description>Description_78</description>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Mentor_DIfferentUserId" index="81" method="assignKMZTypeResourceStudentsKML">
+        <user_id>student_ls_R17_2_1_81</user_id>
+        <Role>student</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Dharaneesha</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Mentor_DIfferentUserId" index="88" method="reservedForGradingPolicyOptionAsCheckedInUploadResourcePopUpKML">
+        <user_id>mentor_ls_R17_2_1_88</user_id>
+        <Role>mentor</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Shishira Bhat</givenname>
+        <filename>kmlfile.kml</filename>
+        <resourcesname>Resource_Name_88</resourcesname>
+        <description>Description_88</description>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Mentor_DIfferentUserId" index="90" method="reservedForGradingPolicyOptionAsCheckedInUploadResourcePopUpKML">
+        <filename>kmlfile.kml</filename>
+        <resourcesname>Resource_Name_90</resourcesname>
+        <description>Description_90</description>
+        <gradingpolicystatus>true</gradingpolicystatus>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Mentor_DIfferentUserId" index="96" method="uploadKMZFileInCourseStreamKML">
+        <user_id>mentor_ls_R17_2_1_96</user_id>
+        <Role>mentor</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Shishira Bhat</givenname>
+        <filename>kmlfile.kml</filename>
+        <resourcesname>Resource_Name_96</resourcesname>
+        <description>Description_96</description>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Mentor_DIfferentUserId" index="99" method="uploadKMZFileInCourseStreamKML">
+        <user_id>student_ls_R17_2_1_99</user_id>
+        <Role>student</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Dharaneesha</givenname>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R1721KMZ.KMZFileTypeResourceUploader_Mentor_DIfferentUserId" index="102" method="uploadKMZFileInMyNotesPageKML">
+        <user_id>student_ls_R17_2_1_102</user_id>
+        <Role>student</Role>
+        <context_id>AJ_1</context_id>
+        <context_title>Advanced_Java_1</context_title>
+        <givenname>Dharaneesha</givenname>
+        <filename>kmlfile.kml</filename>
+    </testcase>
+
+
+</learningspaces>

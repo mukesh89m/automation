@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orion>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R247.ActiveTab" index="11" method="">
+        <user_id>Instructor_IT24_R247_11</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT24_R247_11</context_id>
+        <context_title>studtitle_IT24_R247_11</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R247.ActiveTab" index="28" method="">
+        <user_id>Instructor_IT24_R247_28</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT24_R247_28</context_id>
+        <context_title>studtitle_IT24_R247_28</context_title>
+        <custom_instructor_classlist>[{"classid":"c1","title":"BiologyTitle6","classcode":"BIO2","state":"Active"},{"classid":"c2","title":"BiologyTitle7","classcode":"BIO3","state":"Active"},{"classid":"c3","title":"BiologyTitle8","classcode":"BIO4","state":"Active"},{"classid":"c4","title":"BiologyTitle9","classcode":"BIO5","state":"Active"},{"classid":"c5","title":"BiologyTitle10","classcode":"BIO6","state":"Active"},{"classid":"c6","title":"BiologyTitle11","classcode":"BIO7","state":"Active"},{"classid":"c7","title":"BiologyTitle12","classcode":"BIO8","state":"Active"},{"classid":"c8","title":"BiologyTitle13","classcode":"BIO9","state":"Active"},{"classid":"c9","title":"BiologyTitle14","classcode":"BIO10","state":"Active"},{"classid":"c10","title":"BiologyTitle15","classcode":"BIO11","state":"Active"},{"classid":"c11","title":"BiologyTitle16","classcode":"BIO12","state":"Active"}]</custom_instructor_classlist>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R247.ActiveTab" index="33" method="">
+        <user_id>Instructor_IT24_R247_33</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT24_R247_33</context_id>
+        <context_title>studtitle_IT24_R247_33</context_title>
+        <custom_instructor_classlist>[{"classid":"c12","title":"BiologyTitle17","classcode":"BIO113","state":"Active"}]</custom_instructor_classlist>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R247.ActiveTab" index="35" method="">
+        <user_id>Instructor_IT24_R247_35</user_id>
+        <Role>instructor</Role>
+        <context_id>d1</context_id>
+        <context_title>title1</context_title>
+        <custom_class_state>Inactive</custom_class_state>
+        <custom_instructor_classlist>[{"classid":"d1","title":"title1","classcode":"biology1","state":"Inactive"}]</custom_instructor_classlist>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R247.ActiveTab" index="37" method="">
+        <user_id>Instructor_IT24_R247_371</user_id>
+        <Role>instructor</Role>
+        <context_id>e1</context_id>
+        <context_title>titlef1</context_title>
+        <custom_class_state>Finished</custom_class_state>
+        <custom_instructor_classlist>[{"classid":"e1","title":"titlef1","classcode":"biologyf1","state":"Finished"}]</custom_instructor_classlist>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R247.ActiveTab" index="39" method="">
+        <user_id>Instructor_IT24_R247_391</user_id>
+        <Role>instructor</Role>
+        <context_id>ellipses</context_id>
+        <context_title>Titleo7 Snapwiz edutec private limited</context_title>
+        <custom_instructor_classlist>[{"classid":"ellipses","title":"Titleo7 Snapwiz edutec private limited","classcode":"ccodeo8","state":"Active"},{"classid":"ellipses1","title":"Titleo11 Snapwiz edutec private limited","classcode":"ccodeo11","state":"Active"}]</custom_instructor_classlist>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R247.ActiveTab" index="42" method="">
+        <user_id>Instructor_IT24_R247_391</user_id>
+        <Role>instructor</Role>
+        <context_id>ellipses2</context_id>
+        <custom_class_state>Inactive</custom_class_state>
+        <context_title>Titleo7 Snapwiz edutec private limited22</context_title>
+        <context_title2>Titleo7 Snapwiz edutec private limited21</context_title2>
+        <custom_instructor_classlist>[{"classid":"ellipses2","title":"Titleo7 Snapwiz edutec private limited22","classcode":"ccodei22","state":"Inactive"},{"classid":"ellipses21","title":"Titleo7 Snapwiz edutec private limited21","classcode":"ccodeo21","state":"Inactive"}]</custom_instructor_classlist>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R247.ActiveTab" index="45" method="">
+        <user_id>Instructor_IT24_R247_391</user_id>
+        <Role>instructor</Role>
+        <context_id>ellipses3</context_id>
+        <context_title>Titleo7 Snapwiz edutec private limited33</context_title>
+        <context_title2>Titleo7 Snapwiz edutec private limited31</context_title2>
+        <custom_class_state>Finished</custom_class_state>
+        <custom_instructor_classlist>[{"classid":"ellipses3","title":"Titleo7 Snapwiz edutec private limited33","classcode":"ccodef33","state":"Finished"},{"classid":"ellipses31","title":"Titleo7 Snapwiz edutec private limited31","classcode":"ccodef31","state":"Finished"}]</custom_instructor_classlist>
+    </testcase>
+
+
+    <!--//Inactive Tab-->
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R247.InactiveTab" index="55" method="">
+        <user_id>Instructor_IT24_R247_55</user_id>
+        <Role>instructor</Role>
+        <context_id>d1</context_id>
+        <context_title>title1</context_title>
+        <custom_class_state>Inactive</custom_class_state>
+        <custom_instructor_classlist>[{"classid":"d1","title":"title1","classcode":"biology1","state":"Inactive"}]</custom_instructor_classlist>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R247.InactiveTab" index="67" method="">
+        <user_id>Instructor_IT24_R247_67</user_id>
+        <Role>instructor</Role>
+        <context_id>d1</context_id>
+        <context_title>title1</context_title>
+        <custom_class_state>Inactive</custom_class_state>
+        <custom_instructor_classlist>[{"classid":"in1","title":"Title6","classcode":"Inactive2","state":"Inactive"},{"classid":"in2","title":"Title7","classcode":"Inactive3","state":"Inactive"},{"classid":"in3","title":"Title8","classcode":"Inactive4","state":"Inactive"},{"classid":"in4","title":"Title9","classcode":"Inactive5","state":"Inactive"},{"classid":"in5","title":"Title10","classcode":"Inactive6","state":"Inactive"},{"classid":"in6","title":"Title11","classcode":"Inactive7","state":"Inactive"},{"classid":"in7","title":"Title12","classcode":"Inactive8","state":"Inactive"},{"classid":"in8","title":"Title13","classcode":"Inactive9","state":"Inactive"},{"classid":"in9","title":"Title14","classcode":"Inactive10","state":"Inactive"},{"classid":"in10","title":"Title15","classcode":"Inactive11","state":"Inactive"},{"classid":"in11","title":"Title16","classcode":"Inactive12","state":"Inactive"}]</custom_instructor_classlist>
+    </testcase>
+
+    <!--Finished tab-->
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R247.InactiveTab" index="72" method="">
+        <user_id>Instructor_IT24_R247_72</user_id>
+        <Role>instructor</Role>
+        <context_id>f1</context_id>
+        <context_title>titlef1</context_title>
+        <custom_class_state>Finished</custom_class_state>
+        <custom_instructor_classlist>[{"classid":"f1","title":"titlef1","classcode":"biology11","state":"Finished"}]</custom_instructor_classlist>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R247.InactiveTab" index="84" method="">
+        <user_id>Instructor_IT24_R247_84</user_id>
+        <Role>instructor</Role>
+        <context_id>f1</context_id>
+        <context_title>titlef1</context_title>
+        <custom_class_state>Finished</custom_class_state>
+        <custom_instructor_classlist>[{"classid":"fin1","title":"Titlef6","classcode":"Finished2","state":"Finished"},{"classid":"fin2","title":"Titlef7","classcode":"Finished3","state":"Finished"},{"classid":"fin3","title":"Titlef8","classcode":"Finished4","state":"Finished"},{"classid":"fin4","title":"Titlef9","classcode":"Finished5","state":"Finished"},{"classid":"fin5","title":"Titlef10","classcode":"Finished6","state":"Finished"},{"classid":"fin6","title":"Titlef11","classcode":"Finished7","state":"Finished"},{"classid":"fin7","title":"Titlef12","classcode":"Finished8","state":"Finished"},{"classid":"fin8","title":"Titlef13","classcode":"Finished9","state":"Finished"},{"classid":"fin9","title":"Titlef14","classcode":"Finished10","state":"Finished"},{"classid":"fin10","title":"Titlef15","classcode":"Finished11","state":"Finished"},{"classid":"fin11","title":"Titlef16","classcode":"Finished12","state":"Finished"}]</custom_instructor_classlist>
+    </testcase>
+
+
+    <!--activeToInactiveAndFinished-->
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R247.InactiveTab" index="94" method="">
+        <user_id>Instructor_IT24_R247_94</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT24_R247_94</context_id>
+        <context_title>studtitle_IT24_R247_94</context_title>
+        <context_title1>studtitle_IT24_R247_95</context_title1>
+        <custom_instructor_classlist>[{"classid":"studcontext_IT24_R247_94","title":"studtitle_IT24_R247_94","classcode":"BIO114","state":"Active"},{"classid":"studcontext_IT24_R247_95","title":"studtitle_IT24_R247_95","classcode":"BIO115","state":"Active"}]</custom_instructor_classlist>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R247.InactiveTab" index="95" method="">
+        <user_id>Instructor_IT24_R247_94</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT24_R247_94</context_id>
+        <context_title>studtitle_IT24_R247_94</context_title>
+        <context_title1>studtitle_IT24_R247_95</context_title1>
+        <custom_instructor_classlist>[{"classid":"studcontext_IT24_R247_94","title":"studtitle_IT24_R247_94","classcode":"BIO114","state":"Active"},{"classid":"studcontext_IT24_R247_95","title":"studtitle_IT24_R247_95","classcode":"BIO115","state":"Inactive"}]</custom_instructor_classlist>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R247.InactiveTab" index="96" method="">
+        <user_id>Instructor_IT24_R247_94</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT24_R247_94</context_id>
+        <context_title>studtitle_IT24_R247_94</context_title>
+        <context_title1>studtitle_IT24_R247_95</context_title1>
+        <custom_instructor_classlist>[{"classid":"studcontext_IT24_R247_94","title":"studtitle_IT24_R247_94","classcode":"BIO114","state":"Active"},{"classid":"studcontext_IT24_R247_95","title":"studtitle_IT24_R247_95","classcode":"BIO115","state":"Finished"}]</custom_instructor_classlist>
+    </testcase>
+
+    <!--inactiveToActiveAndFinished-->
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R247.InactiveTab" index="107" method="">
+        <user_id>Instructor_IT24_R247_107</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT24_R247_107</context_id>
+        <context_title>studtitle_IT24_R247_107</context_title>
+        <context_title1>studtitle_IT24_R247_108</context_title1>
+        <custom_class_state>Inactive</custom_class_state>
+        <custom_instructor_classlist>[{"classid":"studcontext_IT24_R247_107","title":"studtitle_IT24_R247_107","classcode":"BIO114","state":"Inactive"},{"classid":"studcontext_IT24_R247_108","title":"studtitle_IT24_R247_108","classcode":"BIO115","state":"Inactive"}]</custom_instructor_classlist>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R247.InactiveTab" index="111" method="">
+        <user_id>Instructor_IT24_R247_107</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT24_R247_107</context_id>
+        <context_title>studtitle_IT24_R247_107</context_title>
+        <context_title1>studtitle_IT24_R247_108</context_title1>
+        <custom_class_state>Inactive</custom_class_state>
+        <custom_instructor_classlist>[{"classid":"studcontext_IT24_R247_107","title":"studtitle_IT24_R247_107","classcode":"BIO114","state":"Inactive"},{"classid":"studcontext_IT24_R247_108","title":"studtitle_IT24_R247_108","classcode":"BIO115","state":"Active"}]</custom_instructor_classlist>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R247.InactiveTab" index="115" method="">
+        <user_id>Instructor_IT24_R247_107</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT24_R247_107</context_id>
+        <context_title>studtitle_IT24_R247_107</context_title>
+        <context_title1>studtitle_IT24_R247_108</context_title1>
+        <custom_class_state>Inactive</custom_class_state>
+        <custom_instructor_classlist>[{"classid":"studcontext_IT24_R247_107","title":"studtitle_IT24_R247_107","classcode":"BIO114","state":"Inactive"},{"classid":"studcontext_IT24_R247_108","title":"studtitle_IT24_R247_108","classcode":"BIO115","state":"Finished"}]</custom_instructor_classlist>
+    </testcase>
+
+    <!--Mentor-->
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R247.ActiveTab" index="11" method="">
+        <user_id>Instructor_IT24_R247_11</user_id>
+        <Role>mentor</Role>
+        <custom_domainid>custom11</custom_domainid>
+        <context_id>studcontext_IT24_R247_11</context_id>
+        <context_title>studtitle_IT24_R247_11</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R247.ActiveTab" index="28" method="">
+        <user_id>mentor_IT24_R247_28</user_id>
+        <Role>mentor</Role>
+        <custom_domainid>custom28</custom_domainid>
+        <context_id>studcontext_IT24_R247_28</context_id>
+        <context_title>studtitle_IT24_R247_28</context_title>
+        <custom_instructor_classlist>[{"classid":"c1","title":"BiologyTitle6","classcode":"BIO2","state":"Active"},{"classid":"c2","title":"BiologyTitle7","classcode":"BIO3","state":"Active"},{"classid":"c3","title":"BiologyTitle8","classcode":"BIO4","state":"Active"},{"classid":"c4","title":"BiologyTitle9","classcode":"BIO5","state":"Active"},{"classid":"c5","title":"BiologyTitle10","classcode":"BIO6","state":"Active"},{"classid":"c6","title":"BiologyTitle11","classcode":"BIO7","state":"Active"},{"classid":"c7","title":"BiologyTitle12","classcode":"BIO8","state":"Active"},{"classid":"c8","title":"BiologyTitle13","classcode":"BIO9","state":"Active"},{"classid":"c9","title":"BiologyTitle14","classcode":"BIO10","state":"Active"},{"classid":"c10","title":"BiologyTitle15","classcode":"BIO11","state":"Active"},{"classid":"c11","title":"BiologyTitle16","classcode":"BIO12","state":"Active"}]</custom_instructor_classlist>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R247.ActiveTab" index="33" method="">
+        <user_id>mentor_IT24_R247_33</user_id>
+        <Role>mentor</Role>
+        <custom_domainid>custom33</custom_domainid>
+        <context_id>studcontext_IT24_R247_33</context_id>
+        <context_title>studtitle_IT24_R247_33</context_title>
+        <custom_instructor_classlist>[{"classid":"c12","title":"BiologyTitle17","classcode":"BIO113","state":"Active"}]</custom_instructor_classlist>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R247.ActiveTab" index="35" method="">
+        <user_id>mentor_IT24_R247_35</user_id>
+        <Role>mentor</Role>
+        <custom_domainid>custom35</custom_domainid>
+        <context_id>d1</context_id>
+        <context_title>title1</context_title>
+        <custom_class_state>Inactive</custom_class_state>
+        <custom_instructor_classlist>[{"classid":"d1","title":"title1","classcode":"biology1","state":"Inactive"}]</custom_instructor_classlist>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R247.ActiveTab" index="37" method="">
+        <user_id>mentor_IT24_R247_371</user_id>
+        <Role>mentor</Role>
+        <custom_domainid>custom37</custom_domainid>
+        <context_id>e1</context_id>
+        <context_title>titlef1</context_title>
+        <custom_class_state>Finished</custom_class_state>
+        <custom_instructor_classlist>[{"classid":"e1","title":"titlef1","classcode":"biologyf1","state":"Finished"}]</custom_instructor_classlist>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R247.ActiveTab" index="39" method="">
+        <user_id>mentor_IT24_R247_391</user_id>
+        <Role>mentor</Role>
+        <custom_domainid>custom39</custom_domainid>
+        <context_id>ellipses</context_id>
+        <context_title>Titleo7 Snapwiz edutec private limited</context_title>
+        <custom_instructor_classlist>[{"classid":"ellipses","title":"Titleo7 Snapwiz edutec private limited","classcode":"ccodeo8","state":"Active"},{"classid":"ellipses1","title":"Titleo11 Snapwiz edutec private limited","classcode":"ccodeo11","state":"Active"}]</custom_instructor_classlist>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R247.ActiveTab" index="42" method="">
+        <user_id>mentor_IT24_R247_391</user_id>
+        <Role>mentor</Role>
+        <custom_domainid>custom42</custom_domainid>
+        <context_id>ellipses2</context_id>
+        <custom_class_state>Inactive</custom_class_state>
+        <context_title>Titleo7 Snapwiz edutec private limited22</context_title>
+        <context_title2>Titleo7 Snapwiz edutec private limited21</context_title2>
+        <custom_instructor_classlist>[{"classid":"ellipses2","title":"Titleo7 Snapwiz edutec private limited22","classcode":"ccodei22","state":"Inactive"},{"classid":"ellipses21","title":"Titleo7 Snapwiz edutec private limited21","classcode":"ccodeo21","state":"Inactive"}]</custom_instructor_classlist>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R247.ActiveTab" index="45" method="">
+        <user_id>mentor_IT24_R247_391</user_id>
+        <Role>mentor</Role>
+        <custom_domainid>custom45</custom_domainid>
+        <context_id>ellipses3</context_id>
+        <context_title>Titleo7 Snapwiz edutec private limited33</context_title>
+        <context_title2>Titleo7 Snapwiz edutec private limited31</context_title2>
+        <custom_class_state>Finished</custom_class_state>
+        <custom_instructor_classlist>[{"classid":"ellipses3","title":"Titleo7 Snapwiz edutec private limited33","classcode":"ccodef33","state":"Finished"},{"classid":"ellipses31","title":"Titleo7 Snapwiz edutec private limited31","classcode":"ccodef31","state":"Finished"}]</custom_instructor_classlist>
+    </testcase>
+
+
+    <!--//Inactive Tab-->
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R247.InactiveTab" index="55" method="">
+        <user_id>mentor_IT24_R247_55</user_id>
+        <Role>mentor</Role>
+        <custom_domainid>custom55</custom_domainid>
+        <context_id>d1</context_id>
+        <context_title>title1</context_title>
+        <custom_class_state>Inactive</custom_class_state>
+        <custom_instructor_classlist>[{"classid":"d1","title":"title1","classcode":"biology1","state":"Inactive"}]</custom_instructor_classlist>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R247.InactiveTab" index="67" method="">
+        <user_id>mentor_IT24_R247_67</user_id>
+        <Role>mentor</Role>
+        <custom_domainid>custom67</custom_domainid>
+        <context_id>d1</context_id>
+        <context_title>title1</context_title>
+        <custom_class_state>Inactive</custom_class_state>
+        <custom_instructor_classlist>[{"classid":"in1","title":"Title6","classcode":"Inactive2","state":"Inactive"},{"classid":"in2","title":"Title7","classcode":"Inactive3","state":"Inactive"},{"classid":"in3","title":"Title8","classcode":"Inactive4","state":"Inactive"},{"classid":"in4","title":"Title9","classcode":"Inactive5","state":"Inactive"},{"classid":"in5","title":"Title10","classcode":"Inactive6","state":"Inactive"},{"classid":"in6","title":"Title11","classcode":"Inactive7","state":"Inactive"},{"classid":"in7","title":"Title12","classcode":"Inactive8","state":"Inactive"},{"classid":"in8","title":"Title13","classcode":"Inactive9","state":"Inactive"},{"classid":"in9","title":"Title14","classcode":"Inactive10","state":"Inactive"},{"classid":"in10","title":"Title15","classcode":"Inactive11","state":"Inactive"},{"classid":"in11","title":"Title16","classcode":"Inactive12","state":"Inactive"}]</custom_instructor_classlist>
+    </testcase>
+
+    <!--Finished tab-->
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R247.InactiveTab" index="72" method="">
+        <user_id>mentor_IT24_R247_72</user_id>
+        <Role>mentor</Role>
+        <custom_domainid>custom72</custom_domainid>
+        <context_id>f1</context_id>
+        <context_title>titlef1</context_title>
+        <custom_class_state>Finished</custom_class_state>
+        <custom_instructor_classlist>[{"classid":"f1","title":"titlef1","classcode":"biology11","state":"Finished"}]</custom_instructor_classlist>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R247.InactiveTab" index="84" method="">
+        <user_id>mentor_IT24_R247_84</user_id>
+        <Role>mentor</Role>
+        <custom_domainid>custom72</custom_domainid>
+        <context_id>f1</context_id>
+        <context_title>titlef1</context_title>
+        <custom_class_state>Finished</custom_class_state>
+        <custom_instructor_classlist>[{"classid":"fin1","title":"Titlef6","classcode":"Finished2","state":"Finished"},{"classid":"fin2","title":"Titlef7","classcode":"Finished3","state":"Finished"},{"classid":"fin3","title":"Titlef8","classcode":"Finished4","state":"Finished"},{"classid":"fin4","title":"Titlef9","classcode":"Finished5","state":"Finished"},{"classid":"fin5","title":"Titlef10","classcode":"Finished6","state":"Finished"},{"classid":"fin6","title":"Titlef11","classcode":"Finished7","state":"Finished"},{"classid":"fin7","title":"Titlef12","classcode":"Finished8","state":"Finished"},{"classid":"fin8","title":"Titlef13","classcode":"Finished9","state":"Finished"},{"classid":"fin9","title":"Titlef14","classcode":"Finished10","state":"Finished"},{"classid":"fin10","title":"Titlef15","classcode":"Finished11","state":"Finished"},{"classid":"fin11","title":"Titlef16","classcode":"Finished12","state":"Finished"}]</custom_instructor_classlist>
+    </testcase>
+
+
+    <!--activeToInactiveAndFinished-->
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R247.InactiveTab" index="94" method="">
+        <user_id>mentor_IT24_R247_94</user_id>
+        <Role>mentor</Role>
+        <custom_domainid>custom94</custom_domainid>
+        <context_id>studcontext_IT24_R247_94</context_id>
+        <context_title>studtitle_IT24_R247_94</context_title>
+        <context_title1>studtitle_IT24_R247_95</context_title1>
+        <custom_instructor_classlist>[{"classid":"studcontext_IT24_R247_94","title":"studtitle_IT24_R247_94","classcode":"BIO114","state":"Active"},{"classid":"studcontext_IT24_R247_95","title":"studtitle_IT24_R247_95","classcode":"BIO115","state":"Active"}]</custom_instructor_classlist>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R247.InactiveTab" index="95" method="">
+        <user_id>mentor_IT24_R247_94</user_id>
+        <Role>mentor</Role>
+        <custom_domainid>custom95</custom_domainid>
+        <context_id>studcontext_IT24_R247_94</context_id>
+        <context_title>studtitle_IT24_R247_94</context_title>
+        <context_title1>studtitle_IT24_R247_95</context_title1>
+        <custom_instructor_classlist>[{"classid":"studcontext_IT24_R247_94","title":"studtitle_IT24_R247_94","classcode":"BIO114","state":"Active"},{"classid":"studcontext_IT24_R247_95","title":"studtitle_IT24_R247_95","classcode":"BIO115","state":"Inactive"}]</custom_instructor_classlist>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R247.InactiveTab" index="96" method="">
+        <user_id>mentor_IT24_R247_94</user_id>
+        <Role>mentor</Role>
+        <custom_domainid>custom96</custom_domainid>
+        <context_id>studcontext_IT24_R247_94</context_id>
+        <context_title>studtitle_IT24_R247_94</context_title>
+        <context_title1>studtitle_IT24_R247_95</context_title1>
+        <custom_instructor_classlist>[{"classid":"studcontext_IT24_R247_94","title":"studtitle_IT24_R247_94","classcode":"BIO114","state":"Active"},{"classid":"studcontext_IT24_R247_95","title":"studtitle_IT24_R247_95","classcode":"BIO115","state":"Finished"}]</custom_instructor_classlist>
+    </testcase>
+
+    <!--inactiveToActiveAndFinished-->
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R247.InactiveTab" index="107" method="">
+        <user_id>mentor_IT24_R247_107</user_id>
+        <Role>mentor</Role>
+        <custom_domainid>custom107</custom_domainid>
+        <context_id>studcontext_IT24_R247_107</context_id>
+        <context_title>studtitle_IT24_R247_107</context_title>
+        <context_title1>studtitle_IT24_R247_108</context_title1>
+        <custom_class_state>Inactive</custom_class_state>
+        <custom_instructor_classlist>[{"classid":"studcontext_IT24_R247_107","title":"studtitle_IT24_R247_107","classcode":"BIO114","state":"Inactive"},{"classid":"studcontext_IT24_R247_108","title":"studtitle_IT24_R247_108","classcode":"BIO115","state":"Inactive"}]</custom_instructor_classlist>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R247.InactiveTab" index="111" method="">
+        <user_id>mentor_IT24_R247_107</user_id>
+        <Role>mentor</Role>
+        <custom_domainid>custom111</custom_domainid>
+        <context_id>studcontext_IT24_R247_107</context_id>
+        <context_title>studtitle_IT24_R247_107</context_title>
+        <context_title1>studtitle_IT24_R247_108</context_title1>
+        <custom_class_state>Inactive</custom_class_state>
+        <custom_instructor_classlist>[{"classid":"studcontext_IT24_R247_107","title":"studtitle_IT24_R247_107","classcode":"BIO114","state":"Inactive"},{"classid":"studcontext_IT24_R247_108","title":"studtitle_IT24_R247_108","classcode":"BIO115","state":"Active"}]</custom_instructor_classlist>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.orion.testcases.IT24.R247.InactiveTab" index="115" method="">
+        <user_id>mentor_IT24_R247_107</user_id>
+        <Role>mentor</Role>
+        <custom_domainid>custom115</custom_domainid>
+        <context_id>studcontext_IT24_R247_107</context_id>
+        <context_title>studtitle_IT24_R247_107</context_title>
+        <context_title1>studtitle_IT24_R247_108</context_title1>
+        <custom_class_state>Inactive</custom_class_state>
+        <custom_instructor_classlist>[{"classid":"studcontext_IT24_R247_107","title":"studtitle_IT24_R247_107","classcode":"BIO114","state":"Inactive"},{"classid":"studcontext_IT24_R247_108","title":"studtitle_IT24_R247_108","classcode":"BIO115","state":"Finished"}]</custom_instructor_classlist>
+    </testcase>
+</orion>

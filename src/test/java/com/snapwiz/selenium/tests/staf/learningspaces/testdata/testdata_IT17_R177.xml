@@ -1,0 +1,1109 @@
+<?xml version="1.0"?>
+<learningspaces>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Instructor" index="5" method="assignThisFromQuestionBankPage">
+        <assessmentname>IT17_R177_Custom Assignment_5</assessmentname>
+        <questionset>Test Question Set of IT17_R177_5</questionset>
+        <questiontext>Test Question for IT17_R177_5</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <searchKey>IT17_R177_5</searchKey>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Instructor" index="12" method="assignThisFromQuestionBankLibrary">
+        <assessmentname>IT17_R177_Custom Assignment_12</assessmentname>
+        <questionset>Test Question Set of IT17_R177_12</questionset>
+        <questiontext>Test Question for IT17_R177_12</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <searchKey>IT17_R177_12</searchKey>
+    </testcase>
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Mentor" index="R17_7_1" method="assignThisFromQuestionBankPage">
+        <user_id>instructor_ls_R17_7_1</user_id>
+        <Role>instructor</Role>
+        <context_id>CS_1</context_id>
+        <context_title>Computer_Science_1</context_title>
+        <givenname>Shishira Bhat</givenname>
+    </testcase>
+
+
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Instructor" index="R17_7_1" method="assignThisFromQuestionBankPage">
+        <user_id>inst_1</user_id>
+        <Role>instructor</Role>
+        <context_id>Math_1</context_id>
+        <context_title>Mathematics_1</context_title>
+        <givenname>instructor_1</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Instructor" index="R17_7_2" method="assignThisFromQuestionBankPage">
+        <user_id>inst_1</user_id>
+        <Role>instructor</Role>
+        <context_id>Math_2</context_id>
+        <context_title>Mathematics_2</context_title>
+        <givenname>instructor_1</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Instructor" index="R17_7_3" method="assignThisFromQuestionBankPage">
+        <user_id>inst_1</user_id>
+        <Role>instructor</Role>
+        <context_id>Math_3</context_id>
+        <context_title>Mathematics_3</context_title>
+        <givenname>instructor_1</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Instructor" index="R17_7_4" method="assignThisFromQuestionBankPage">
+        <user_id>stu_1</user_id>
+        <Role>student</Role>
+        <context_id>Math_1</context_id>
+        <context_title>Mathematics_1</context_title>
+        <givenname>student_1</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Instructor" index="R17_7_5" method="assignThisFromQuestionBankPage">
+        <user_id>stu_2</user_id>
+        <Role>student</Role>
+        <context_id>Math_1</context_id>
+        <context_title>Mathematics_1</context_title>
+        <givenname>student_2</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Instructor" index="R17_7_6" method="assignThisFromQuestionBankPage">
+        <user_id>stu_3</user_id>
+        <Role>student</Role>
+        <context_id>Math_2</context_id>
+        <context_title>Mathematics_2</context_title>
+        <givenname>student_3</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Instructor" index="R17_7_7" method="assignThisFromQuestionBankPage">
+        <user_id>stu_4</user_id>
+        <Role>student</Role>
+        <context_id>Math_2</context_id>
+        <context_title>Mathematics_2</context_title>
+        <givenname>student_4</givenname>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Instructor" index="R17_7_8" method="assignThisFromQuestionBankPage">
+        <user_id>stu_5</user_id>
+        <Role>student</Role>
+        <context_id>Math_3</context_id>
+        <context_title>Mathematics_3</context_title>
+        <givenname>student_5</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Instructor" index="R17_7_9" method="assignThisFromQuestionBankPage">
+        <user_id>stu_6</user_id>
+        <Role>student</Role>
+        <context_id>Math_3</context_id>
+        <context_title>Mathematics_3</context_title>
+        <givenname>student_6</givenname>
+    </testcase>
+
+
+
+
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Instructor" index="19" method="assignThisFromResourcePage">
+        <resoursename>IT17_R177_Resource Name_19</resoursename>
+        <type>image</type>
+        <description>Description for IT17_R174_19</description>
+        <instructoronlyflag>false</instructoronlyflag>
+        <filename>img.png</filename>
+        <instructoronlyflag>true</instructoronlyflag>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Instructor" index="26" method="assignThisFromResourceLibrary">
+        <resoursename>IT17_R177_Resource Name_26</resoursename>
+        <type>image</type>
+        <description>Description for IT17_R174_26</description>
+        <instructoronlyflag>false</instructoronlyflag>
+        <filename>img.png</filename>
+        <instructoronlyflag>true</instructoronlyflag>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Instructor" index="68" method="assignThisForCustomAssignment">
+        <assessmentname>IT17_R177_Custom Assignment_68</assessmentname>
+        <questionset>Test Question Set of IT17_R177_68</questionset>
+        <questiontext>Test Question for IT17_R177_68</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <searchKey>IT17_R177_68</searchKey>
+        <assignmentName>AssignmentNameForR177_68thRow</assignmentName>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Instructor" index="83" method="assigningToMultipleClassSections">
+        <assessmentname>XYZIT17_R177_Custom_Assignment_83_1</assessmentname>
+        <questionset>XYZTest Question Set of IT17_R177_83_1</questionset>
+        <questiontext>XYZTest Question for IT17_R177_83_1</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <searchKey>XYZTest Question for IT17_R177_83_1</searchKey>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradeable>true</gradeable>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Instructor" index="89" method="assigningToMultipleClassSections">
+        <assessmentname>IT17_R177_Custom_Assignment_89_1</assessmentname>
+        <questionset>Test Question Set of IT17_R177_89_1</questionset>
+        <questiontext>Test Question for IT17_R177_89_1</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <searchKey>Test Question for IT17_R177_89_1</searchKey>
+        <assignmentName>AssignmentNameForR177_89_1thRow</assignmentName>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Instructor" index="91" method="assigningToStudentOfVariousClassSections">
+        <assessmentname>IT17_R177_Custom_Assignment_91_1</assessmentname>
+        <questionset>Test Question Set of IT17_R177_91_1</questionset>
+        <questiontext>Test Question for IT17_R177_91_1</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <searchKey>IT17_R177_91_1</searchKey>
+        <assignmentName>AssignmentNameForR177_91_1thRow</assignmentName>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Instructor" index="98" method="assigningToStudentOfVariousClassSections">
+        <assessmentname>IT17_R177_Custom_Assignment_98_1</assessmentname>
+        <questionset>Test Question Set of IT17_R177_98_1</questionset>
+        <questiontext>Test Question for IT17_R177_98_1</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <searchKey>IT17_R177_98_1</searchKey>
+        <assignmentName>AssignmentNameForR177_98_1thRow</assignmentName>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Instructor" index="247" method="assignmentAssignedByUserWithBothInstructorAndMentorRoleAndStudents">
+        <assessmentname>IT17_R177_Custom Assignment_247_1</assessmentname>
+        <questionset>Test Question Set of IT17_R177_247_1</questionset>
+        <questiontext>Test Question for IT17_R177_247_1</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <searchKey>IT17_R177_247_1</searchKey>
+    </testcase>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Instructor" index="R17_7_247_1" method="assignmentAssignedByUserWithBothInstructorAndMentorRoleAndStudents">
+        <user_id>Instructor_ls_R17_7_247</user_id>
+        <Role>instructor</Role>
+        <context_id>RS_1</context_id>
+        <context_title>R_Science_1</context_title>
+        <givenname>Rohini</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Instructor" index="R17_7_247_2" method="assignmentAssignedByUserWithBothInstructorAndMentorRoleAndStudents">
+        <user_id>Instructor_ls_R17_7_247</user_id>
+        <Role>instructor</Role>
+        <context_id>RS_2</context_id>
+        <context_title>R_Science_2</context_title>
+        <givenname>Rohini</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Instructor" index="R17_7_247_3" method="assignmentAssignedByUserWithBothInstructorAndMentorRoleAndStudents">
+        <user_id>Instructor_ls_R17_7_247</user_id>
+        <Role>instructor</Role>
+        <context_id>RS_3</context_id>
+        <context_title>R_Science_3</context_title>
+        <givenname>Rohini</givenname>
+    </testcase>
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Instructor" index="R17_7_247_7" method="assignmentAssignedByUserWithBothInstructorAndMentorRoleAndStudents">
+        <user_id>Instructor_ls_R17_7_247</user_id>
+        <Role>mentor</Role>
+        <context_id>RS_1</context_id>
+        <context_title>R_Science_1</context_title>
+        <givenname>Rohini</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Instructor" index="R17_7_247_8" method="assignmentAssignedByUserWithBothInstructorAndMentorRoleAndStudents">
+        <user_id>Instructor_ls_R17_7_247</user_id>
+        <Role>mentor</Role>
+        <context_id>RS_2</context_id>
+        <context_title>R_Science_2</context_title>
+        <givenname>Rohini</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Instructor" index="R17_7_247_9" method="assignmentAssignedByUserWithBothInstructorAndMentorRoleAndStudents">
+        <user_id>Instructor_ls_R17_7_247</user_id>
+        <Role>mentor</Role>
+        <context_id>RS_3</context_id>
+        <context_title>R_Science_3</context_title>
+        <givenname>Rohini</givenname>
+    </testcase>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Instructor" index="R17_7_247_4" method="assignmentAssignedByUserWithBothInstructorAndMentorRoleAndStudents">
+        <user_id>student_ls_R17_7_247_4</user_id>
+        <Role>student</Role>
+        <context_id>RS_1</context_id>
+        <context_title>R_Science_1</context_title>
+        <givenname>newName_A_247_4</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Instructor" index="R17_7_247_5" method="assignmentAssignedByUserWithBothInstructorAndMentorRoleAndStudents">
+        <user_id>student_ls_R17_7_247_4</user_id>
+        <Role>student</Role>
+        <context_id>RS_2</context_id>
+        <context_title>R_Science_2</context_title>
+        <givenname>newName_A_247_5</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Instructor" index="R17_7_247_6" method="assignmentAssignedByUserWithBothInstructorAndMentorRoleAndStudents">
+        <user_id>Mentor_ls_R17_7_247_6</user_id>
+        <Role>mentor</Role>
+        <context_id>RS_1</context_id>
+        <context_title>R_Science_1</context_title>
+        <givenname>Jason Huggins_SeleniumHQs</givenname>
+    </testcase>
+
+
+
+
+
+
+
+
+    <!--Test Data For Mentor-->
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Mentor" index="146" method="assignThisFromQuestionBankPage">
+        <assessmentname>IT17_R177_Custom Assignment_146</assessmentname>
+        <questionset>Test Question Set of IT17_R177_146</questionset>
+        <questiontext>Test Question for IT17_R177_146</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <searchKey>IT17_R177_146</searchKey>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Mentor" index="153" method="assignThisFromQuestionBankLibrary">
+        <assessmentname>IT17_R177_Custom Assignment_153</assessmentname>
+        <questionset>Test Question Set of IT17_R177_153</questionset>
+        <questiontext>Test Question for IT17_R177_153</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <searchKey>IT17_R177_153</searchKey>
+    </testcase>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Mentor" index="R17_7_11" method="assignThisFromQuestionBankPage">
+        <user_id>men_1</user_id>
+        <Role>mentor</Role>
+        <context_id>CS_1</context_id>
+        <context_title>Computer_Science_1</context_title>
+        <givenname>mentor_1</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Mentor" index="R17_7_21" method="assignThisFromQuestionBankPage">
+        <user_id>men_1</user_id>
+        <Role>mentor</Role>
+        <context_id>CS_2</context_id>
+        <context_title>Computer_Science_2</context_title>
+        <givenname>mentor_1</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Mentor" index="R17_7_31" method="assignThisFromQuestionBankPage">
+        <user_id>men_1</user_id>
+        <Role>mentor</Role>
+        <context_id>CS_3</context_id>
+        <context_title>Computer_Science_3</context_title>
+        <givenname>mentor_1</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Mentor" index="R17_7_41" method="assignThisFromQuestionBankPage">
+        <user_id>stu_7</user_id>
+        <Role>student</Role>
+        <context_id>CS_1</context_id>
+        <context_title>Computer_Science_1</context_title>
+        <givenname>studMent_1</givenname>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Mentor" index="R17_7_51" method="assignThisFromQuestionBankPage">
+        <user_id>stu_8</user_id>
+        <Role>student</Role>
+        <context_id>CS_1</context_id>
+        <context_title>Computer_Science_1</context_title>
+        <givenname>studMent_2</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Mentor" index="R17_7_61" method="assignThisFromQuestionBankPage">
+        <user_id>stu_9</user_id>
+        <Role>student</Role>
+        <context_id>CS_2</context_id>
+        <context_title>Computer_Science_2</context_title>
+        <givenname>studMent_3</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Mentor" index="R17_7_71" method="assignThisFromQuestionBankPage">
+        <user_id>stu_10</user_id>
+        <Role>student</Role>
+        <context_id>CS_2</context_id>
+        <context_title>Computer_Science_2</context_title>
+        <givenname>studMent_4</givenname>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Mentor" index="R17_7_81" method="assignThisFromQuestionBankPage">
+        <user_id>stu_11</user_id>
+        <Role>student</Role>
+        <context_id>CS_3</context_id>
+        <context_title>Computer_Science_3</context_title>
+        <givenname>studMent_5</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Mentor" index="R17_7_91" method="assignThisFromQuestionBankPage">
+        <user_id>stu_12</user_id>
+        <Role>student</Role>
+        <context_id>CS_3</context_id>
+        <context_title>Computer_Science_3</context_title>
+        <givenname>studMent_6</givenname>
+    </testcase>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Mentor" index="106" method="assignmentAssignedByUserWithBothInstructorAndMentorRoleAndStudents">
+        <user_id>instructor_ls_R17_7_106</user_id>
+        <Role>instructor</Role>
+        <context_id>MS_1</context_id>
+        <context_title>Maths_Science_1</context_title>
+        <givenname>Girish_Qspiders</givenname>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Mentor" index="R17_7_111" method="assignmentAssignedByUserWithBothInstructorAndMentorRoleAndStudents">
+        <user_id>mentor_ls_R17_7_111</user_id>
+        <Role>mentor</Role>
+        <context_id>MS_1</context_id>
+        <context_title>Maths_Science_1</context_title>
+        <givenname>Ramaiah</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Mentor" index="R17_7_211" method="assignmentAssignedByUserWithBothInstructorAndMentorRoleAndStudents">
+        <user_id>mentor_ls_R17_7_111</user_id>
+        <Role>mentor</Role>
+        <context_id>MS_2</context_id>
+        <context_title>Maths_Science_2</context_title>
+        <givenname>Ramaiah</givenname>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Mentor" index="R17_7_311" method="assignmentAssignedByUserWithBothInstructorAndMentorRoleAndStudents">
+        <user_id>mentor_ls_R17_7_111</user_id>
+        <Role>mentor</Role>
+        <context_id>MS_3</context_id>
+        <context_title>Maths_Science_3</context_title>
+        <givenname>Ramaiah</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Mentor" index="R17_7_711" method="assignmentAssignedByUserWithBothInstructorAndMentorRoleAndStudents">
+        <user_id>mentor_ls_R17_7_111</user_id>
+        <Role>instructor</Role>
+        <context_id>MS_1</context_id>
+        <context_title>Maths_Science_1</context_title>
+        <givenname>Ramaiah</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Mentor" index="R17_7_811" method="assignmentAssignedByUserWithBothInstructorAndMentorRoleAndStudents">
+        <user_id>mentor_ls_R17_7_111</user_id>
+        <Role>instructor</Role>
+        <context_id>MS_2</context_id>
+        <context_title>Maths_Science_2</context_title>
+        <givenname>Ramaiah</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Mentor" index="R17_7_911" method="assignmentAssignedByUserWithBothInstructorAndMentorRoleAndStudents">
+        <user_id>mentor_ls_R17_7_111</user_id>
+        <Role>instructor</Role>
+        <context_id>MS_3</context_id>
+        <context_title>Maths_Science_3</context_title>
+        <givenname>Ramaiah</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Mentor" index="R17_7_411" method="assignmentAssignedByUserWithBothInstructorAndMentorRoleAndStudents">
+        <user_id>student_ls_R17_7_1_411</user_id>
+        <Role>student</Role>
+        <context_id>MS_1</context_id>
+        <context_title>Maths_Science_1</context_title>
+        <givenname>newName_A_411</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Mentor" index="R17_7_511" method="assignmentAssignedByUserWithBothInstructorAndMentorRoleAndStudents">
+        <user_id>student_ls_R17_7_1_511</user_id>
+        <Role>student</Role>
+        <context_id>MS_2</context_id>
+        <context_title>Maths_Science_2</context_title>
+        <givenname>newName_A_511</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Mentor" index="160" method="assignThisFromResourcePage">
+        <resoursename>IT17_R177_Resource Name_1600</resoursename>
+        <type>image</type>
+        <description>Description for IT17_R174_1600</description>
+        <instructoronlyflag>false</instructoronlyflag>
+        <filename>img.png</filename>
+        <instructoronlyflag>true</instructoronlyflag>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Mentor" index="167" method="assignThisFromResourceLibrary">
+        <resoursename>IT17_R177_Resource Name_167</resoursename>
+        <type>image</type>
+        <description>Description for IT17_R174_167</description>
+        <instructoronlyflag>false</instructoronlyflag>
+        <filename>img.png</filename>
+        <instructoronlyflag>true</instructoronlyflag>
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Mentor" index="209" method="assignThisForCustomAssignment">
+        <assessmentname>IT17_R177_Custom Assignment_209</assessmentname>
+        <questionset>Test Question Set of IT17_R177_209</questionset>
+        <questiontext>Test Question for IT17_R177_209</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <searchKey>IT17_R177_209</searchKey>
+        <assignmentName>AssignmentNameForR177_209thRow</assignmentName>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Mentor" index="224" method="assigningToMultipleClassSections">
+        <assessmentname>IT17_R177_Custom_Assignment_224</assessmentname>
+        <questionset>Test Question Set of IT17_R177_224</questionset>
+        <questiontext>Test Question for IT17_R177_224</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <searchKey>IT17_R177_224</searchKey>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <gradeable>true</gradeable>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Mentor" index="230" method="assigningToMultipleClassSections">
+        <assessmentname>IT17_R177_Custom_Assignment_230</assessmentname>
+        <questionset>Test Question Set of IT17_R177_230</questionset>
+        <questiontext>Test Question for IT17_R177_230</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <searchKey>IT17_R177_230</searchKey>
+        <assignmentName>AssignmentNameForR177_230thRow</assignmentName>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Mentor" index="232" method="assigningToStudentOfVariousClassSections">
+        <assessmentname>IT17_R177_Custom_Assignment_232</assessmentname>
+        <questionset>Test Question Set of IT17_R177_232</questionset>
+        <questiontext>Test Question for IT17_R177_232</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <searchKey>IT17_R177_232</searchKey>
+        <assignmentName>AssignmentNameForR177_232ndRow</assignmentName>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Mentor" index="239" method="assigningToOneClassSectionAndAStudentFromOtherClassSection">
+        <assessmentname>IT17_R177_Custom_Assignment_239</assessmentname>
+        <questionset>Test Question Set of IT17_R177_239</questionset>
+        <questiontext>Test Question for IT17_R177_239</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <searchKey>IT17_R177_239</searchKey>
+        <assignmentName>AssignmentNameForR177_239thRow</assignmentName>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Mentor" index="106" method="assignmentAssignedByUserWithBothInstructorAndMentorRoleAndStudents">
+        <assessmentname>IT17_R177_Custom Assignment_106</assessmentname>
+        <questionset>Test Question Set of IT17_R177_106</questionset>
+        <questiontext>Test Question for IT17_R177_106</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <searchKey>IT17_R177_106</searchKey>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Instructor" index="113" method="assignmentAssignedToMulitpleClassSection">
+        <assessmentname>IT17_R177_Custom Assignment_113</assessmentname>
+        <questionset>Test Question Set of IT17_R177_113</questionset>
+        <questiontext>Test Question for IT17_R177_113</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <searchKey>IT17_R177_113</searchKey>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Instructor" index="132" method="assigningAssignmentAlreadyAssignedToClassSection">
+        <assessmentname>IT17_R177_Custom Assignment_132_1</assessmentname>
+        <questionset>Test Question Set of IT17_R177_132_1</questionset>
+        <questiontext>Test Question for IT17_R177_132_1</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <searchKey>IT17_R177_132_1</searchKey>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Instructor" index="134" method="assignmentAssignedToMultipleClassSection">
+        <assessmentname>IT17_R177_Custom Assessment_134_2</assessmentname>
+        <questionset>Test Question Set of IT17_R177_134_2</questionset>
+        <questiontext>Test Question for IT17_R177_134_2</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <searchKey>IT17_R177_134_2</searchKey>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Instructor" index="139" method="assignmentAssignedToMultipleClassSection">
+        <assessmentname>IT17_R177_Custom Assessment_139</assessmentname>
+        <questionset>Test Question Set of IT17_R177_139</questionset>
+        <questiontext>Test Question for IT17_R177_139</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <searchKey>IT17_R177_139</searchKey>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Mentor" index="280" method="assignmentAssignedToMultipleClassSection">
+        <assessmentname>IT17_R177_Custom Assessment_280</assessmentname>
+        <questionset>Test Question Set of IT17_R177_280</questionset>
+        <questiontext>Test Question for IT17_R177_280</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <searchKey>IT17_R177_280</searchKey>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Mentor" index="275" method="assignmentAssignedToMultipleClassSection">
+        <assessmentname>IT17_R177_Custom Assessment_275</assessmentname>
+        <questionset>Test Question Set of IT17_R177_275</questionset>
+        <questiontext>Test Question for IT17_R177_275</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <searchKey>IT17_R177_275</searchKey>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Mentor" index="254" method="assignmentAssignedToMulitpleClassSection">
+        <assessmentname>IT17_R177_Custom Assignment_254</assessmentname>
+        <questionset>Test Question Set of IT17_R177_254</questionset>
+        <questiontext>Test Question for IT17_R177_254</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <searchKey>IT17_R177_254</searchKey>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Mentor" index="273" method="assigningAssignmentAlreadyAssignedToClassSection">
+        <assessmentname>IT17_R177_Custom Assessment_273</assessmentname>
+        <questionset>Test Question Set of IT17_R177_273</questionset>
+        <questiontext>Test Question for IT17_R177_273</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <searchKey>IT17_R177_273</searchKey>
+    </testcase>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!--Trial Data-->
+
+
+
+
+    <!--..................................................................Order Number : 1............................................................
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Mentor" index="1_1" method="assignThisFromQuestionBankPage">
+        <user_id>men_1_1</user_id>
+        <Role>mentor</Role>
+        <context_id>CS_1_1</context_id>
+        <context_title>Computer_Science_1_1</context_title>
+        <givenname>mentor_1_1</givenname>
+        <custom_course_number>JOC</custom_course_number>
+        <custom_domain_name>JOC</custom_domain_name>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Mentor" index="1_2" method="assignThisFromQuestionBankPage">
+        <user_id>men_1_1</user_id>
+        <Role>mentor</Role>
+        <context_id>CS_1_2</context_id>
+        <context_title>Computer_Science_1_2</context_title>
+        <givenname>mentor_1_1</givenname>
+        <custom_course_number>JOC</custom_course_number>
+        <custom_domain_name>JOC</custom_domain_name>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Mentor" index="1_3" method="assignThisFromQuestionBankPage">
+        <user_id>men_1_1</user_id>
+        <Role>mentor</Role>
+        <context_id>CS_1_3</context_id>
+        <context_title>Computer_Science_1_3</context_title>
+        <givenname>mentor_1_1</givenname>
+        <custom_course_number>JOC</custom_course_number>
+        <custom_domain_name>JOC</custom_domain_name>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Mentor" index="1_4" method="assignThisFromQuestionBankPage">
+        <user_id>stu_1_4</user_id>
+        <Role>student</Role>
+        <context_id>CS_1_1</context_id>
+        <context_title>Computer_Science_1_1</context_title>
+        <givenname>studMent_1_4</givenname>
+        <custom_course_number>JOC</custom_course_number>
+        <custom_domain_name>JOC</custom_domain_name>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Mentor" index="1_5" method="assignThisFromQuestionBankPage">
+        <user_id>stu_1_5</user_id>
+        <Role>student</Role>
+        <context_id>CS_1_1</context_id>
+        <context_title>Computer_Science_1_1</context_title>
+        <givenname>studMent_1_5</givenname>
+        <custom_course_number>JOC</custom_course_number>
+        <custom_domain_name>JOC</custom_domain_name>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Mentor" index="1_6" method="assignThisFromQuestionBankPage">
+        <user_id>stu_1_6</user_id>
+        <Role>student</Role>
+        <context_id>CS_1_2</context_id>
+        <context_title>Computer_Science_1_2</context_title>
+        <givenname>studMent_1_6</givenname>
+        <custom_course_number>JOC</custom_course_number>
+        <custom_domain_name>JOC</custom_domain_name>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Mentor" index="1_7" method="assignThisFromQuestionBankPage">
+        <user_id>stu_1_7</user_id>
+        <Role>student</Role>
+        <context_id>CS_1_2</context_id>
+        <context_title>Computer_Science_1_2</context_title>
+        <givenname>studMent_1_7</givenname>
+        <custom_course_number>JOC</custom_course_number>
+        <custom_domain_name>JOC</custom_domain_name>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Mentor" index="1_8" method="assignThisFromQuestionBankPage">
+        <user_id>stu_1_8</user_id>
+        <Role>student</Role>
+        <context_id>CS_1_3</context_id>
+        <context_title>Computer_Science_1_3</context_title>
+        <givenname>studMent_1_8</givenname>
+        <custom_course_number>JOC</custom_course_number>
+        <custom_domain_name>JOC</custom_domain_name>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Mentor" index="1_9" method="assignThisFromQuestionBankPage">
+        <user_id>stu_1_9</user_id>
+        <Role>student</Role>
+        <context_id>CS_1_3</context_id>
+        <context_title>Computer_Science_1_3</context_title>
+        <givenname>studMent_1_9</givenname>
+        <custom_course_number>JOC</custom_course_number>
+        <custom_domain_name>JOC</custom_domain_name>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+    </testcase>-->
+
+
+
+
+
+
+
+
+
+
+
+
+    <!--..................................................................Order Number : 3............................................................-->
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Mentor" index="3_1" method="assignThisFromQuestionBankPage">
+        <user_id>men_3_1</user_id>
+        <Role>mentor</Role>
+        <context_id>CS_3_1</context_id>
+        <context_title>Computer_Science_3_1</context_title>
+        <givenname>men_3_1</givenname>
+        <custom_course_number>JOC</custom_course_number>
+        <custom_domain_name>JOC</custom_domain_name>
+        <custom_domainid>JOC</custom_domainid>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Mentor" index="3_2" method="assignThisFromQuestionBankPage">
+        <user_id>men_3_1</user_id>
+        <Role>mentor</Role>
+        <context_id>CS_3_2</context_id>
+        <context_title>Computer_Science_3_2</context_title>
+        <givenname>men_3_1</givenname>
+        <custom_course_number>JOC</custom_course_number>
+        <custom_domain_name>JOC</custom_domain_name>
+        <custom_domainid>JOC</custom_domainid>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Mentor" index="3_3" method="assignThisFromQuestionBankPage">
+        <user_id>men_3_1</user_id>
+        <Role>mentor</Role>
+        <context_id>CS_3_3</context_id>
+        <context_title>Computer_Science_3_3</context_title>
+        <givenname>men_3_1</givenname>
+        <custom_course_number>JOC</custom_course_number>
+        <custom_domain_name>JOC</custom_domain_name>
+        <custom_domainid>JOC</custom_domainid>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+    </testcase>
+
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Mentor" index="3_4" method="assignThisFromQuestionBankPage">
+        <user_id>stu_3_4</user_id>
+        <Role>student</Role>
+        <context_id>CS_3_1</context_id>
+        <context_title>Computer_Science_3_1</context_title>
+        <givenname>studMent_3_4</givenname>
+        <custom_course_number>JOC</custom_course_number>
+        <custom_domain_name>JOC</custom_domain_name>
+        <custom_domainid>JOC</custom_domainid>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Mentor" index="3_5" method="assignThisFromQuestionBankPage">
+        <user_id>stu_3_5</user_id>
+        <Role>student</Role>
+        <context_id>CS_3_1</context_id>
+        <context_title>Computer_Science_3_1</context_title>
+        <givenname>studMent_3_5</givenname>
+        <custom_course_number>JOC</custom_course_number>
+        <custom_domain_name>JOC</custom_domain_name>
+        <custom_domainid>JOC</custom_domainid>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Mentor" index="3_6" method="assignThisFromQuestionBankPage">
+        <user_id>stu_3_6</user_id>
+        <Role>student</Role>
+        <context_id>CS_3_2</context_id>
+        <context_title>Computer_Science_3_2</context_title>
+        <givenname>studMent_3_6</givenname>
+        <custom_course_number>JOC</custom_course_number>
+        <custom_domain_name>JOC</custom_domain_name>
+        <custom_domainid>JOC</custom_domainid>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Mentor" index="3_7" method="assignThisFromQuestionBankPage">
+        <user_id>stu_3_7</user_id>
+        <Role>student</Role>
+        <context_id>CS_3_2</context_id>
+        <context_title>Computer_Science_3_2</context_title>
+        <givenname>studMent_3_7</givenname>
+        <custom_course_number>JOC</custom_course_number>
+        <custom_domain_name>JOC</custom_domain_name>
+        <custom_domainid>JOC</custom_domainid>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Mentor" index="3_8" method="assignThisFromQuestionBankPage">
+        <user_id>stu_3_8</user_id>
+        <Role>student</Role>
+        <context_id>CS_3_3</context_id>
+        <context_title>Computer_Science_3_3</context_title>
+        <givenname>studMent_3_8</givenname>
+        <custom_course_number>JOC</custom_course_number>
+        <custom_domain_name>JOC</custom_domain_name>
+        <custom_domainid>JOC</custom_domainid>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT17.R177.EnhancementsToAssignabilityFlow_Mentor" index="3_9" method="assignThisFromQuestionBankPage">
+        <user_id>stu_3_9</user_id>
+        <Role>student</Role>
+        <context_id>CS_3_3</context_id>
+        <context_title>Computer_Science_3_3</context_title>
+        <givenname>studMent_3_9</givenname>
+        <custom_course_number>JOC</custom_course_number>
+        <custom_domain_name>JOC</custom_domain_name>
+        <custom_domainid>JOC</custom_domainid>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+    </testcase>
+    <!--..................................................................Order Number : 3............................................................-->
+
+
+
+
+</learningspaces>

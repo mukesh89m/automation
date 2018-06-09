@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R182.EnhancementToStudyPlanForInstructorAndMentor" index="9" method="enhancementToStudyPlanForInstructor" >
+    <user_id>instructor9</user_id>>
+    <Role>instructor</Role>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R182.EnhancementToStudyPlanForInstructorAndMentor" index="20" method="enhancementToStudyPlanForInstructorForGradable" >
+        <user_id>instructor20</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext20</context_id>
+        <context_title>studtitle20</context_title>
+        <assessmentname>Assignment_IT18_20</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_20</questionset>
+        <questiontext>Test Question for IT18_20</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle20</shareWithInitialString>
+        <shareName>studtitle20</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R182.EnhancementToStudyPlanForInstructorAndMentor" index="20_1" method="enhancementToStudyPlanForInstructorForGradable">
+        <user_id>student_IT18_R182_20</user_id>
+        <Role>student</Role>
+        <context_id>studcontext20</context_id>
+        <context_title>studtitle20</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R182.EnhancementToStudyPlanForInstructorAndMentor" index="22" method="enhancementToStudyPlanForInstructorForNonGradable" >
+        <user_id>instructor22</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext22</context_id>
+        <context_title>studtitle22</context_title>
+        <assessmentname>Assignment_IT18_22</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_22</questionset>
+        <questiontext>Test Question for IT18_22</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle22</shareWithInitialString>
+        <shareName>studtitle22</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R182.EnhancementToStudyPlanForInstructorAndMentor" index="22_1" method="enhancementToStudyPlanForInstructorForNonGradable">
+        <user_id>student_IT18_R182_22</user_id>
+        <Role>student</Role>
+        <context_id>studcontext22</context_id>
+        <context_title>studtitle22</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R182.EnhancementToStudyPlanForInstructorAndMentor" index="24" method="enhancementToStudyPlanForMentor" >
+        <user_id>mentor24</user_id>>
+        <Role>mentor</Role>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R182.EnhancementToStudyPlanForInstructorAndMentor" index="34" method="enhancementToStudyPlanForMentorForGradable" >
+        <user_id>mentor34</user_id>>
+        <Role>mentor</Role>
+        <context_id>studcontext34</context_id>
+        <context_title>studtitle34</context_title>
+        <assessmentname>Assignment_IT18_34</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_34</questionset>
+        <questiontext>Test Question for IT18_34</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle34</shareWithInitialString>
+        <shareName>studtitle34</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R182.EnhancementToStudyPlanForInstructorAndMentor" index="34_1" method="enhancementToStudyPlanForMentorForGradable">
+        <user_id>student_IT18_R182_34</user_id>
+        <Role>student</Role>
+        <context_id>studcontext34</context_id>
+        <context_title>studtitle34</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R182.EnhancementToStudyPlanForInstructorAndMentor" index="36" method="enhancementToStudyPlanForMentorForNonGradable" >
+        <user_id>mentor36</user_id>>
+        <Role>mentor</Role>
+        <context_id>studcontext36</context_id>
+        <context_title>studtitle36</context_title>
+        <assessmentname>Assignment_IT18_36</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_36</questionset>
+        <questiontext>Test Question for IT18_36</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle36</shareWithInitialString>
+        <shareName>studtitle36</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R182.EnhancementToStudyPlanForInstructorAndMentor" index="36_1" method="enhancementToStudyPlanForMentorForNonGradable">
+        <user_id>student_IT18_R182_36</user_id>
+        <Role>student</Role>
+        <context_id>studcontext36</context_id>
+        <context_title>studtitle36</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R182.EnhancementToStudyPlanForInstructorAndMentor" index="38" method="tocForStudent">
+        <user_id>student_IT18_R182_38</user_id>
+        <Role>student</Role>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R182.EnhancementToStudyPlanForInstructorAndMentor" index="41" method="clickOnTheEntireRowOfLessonAsInstructor" >
+        <user_id>instructor41</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext41</context_id>
+        <context_title>studtitle41</context_title>
+        <assessmentname>Assignment_IT18_41</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_41</questionset>
+        <questiontext>Test Question for IT18_41</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle41</shareWithInitialString>
+        <shareName>studtitle41</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R182.EnhancementToStudyPlanForInstructorAndMentor" index="41_1" method="clickOnTheEntireRowOfLessonAsInstructor">
+        <user_id>student_IT18_R182_41</user_id>
+        <Role>student</Role>
+        <context_id>studcontext41</context_id>
+        <context_title>studtitle41</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R182.EnhancementToStudyPlanForInstructorAndMentor" index="45" method="clickOnTheEntireRowOfLessonAsInstructorNonGradAble" >
+        <user_id>instructor45</user_id>>
+        <Role>instructor</Role>
+        <context_id>studcontext45</context_id>
+        <context_title>studtitle45</context_title>
+        <assessmentname>Assignment_IT18_45</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_45</questionset>
+        <questiontext>Test Question for IT18_45</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle45</shareWithInitialString>
+        <shareName>studtitle45</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R182.EnhancementToStudyPlanForInstructorAndMentor" index="45_1" method="clickOnTheEntireRowOfLessonAsInstructorNonGradAble">
+        <user_id>student_IT18_R182_45</user_id>
+        <Role>student</Role>
+        <context_id>studcontext45</context_id>
+        <context_title>studtitle45</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R182.EnhancementToStudyPlanForInstructorAndMentor" index="46" method="clickOnTheEntireRowOfLessonAsMentor" >
+        <user_id>mentor46</user_id>>
+        <Role>mentor</Role>
+        <context_id>studcontext46</context_id>
+        <context_title>studtitle46</context_title>
+        <assessmentname>Assignment_IT18_46</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_46</questionset>
+        <questiontext>Test Question for IT18_46</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle46</shareWithInitialString>
+        <shareName>studtitle46</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R182.EnhancementToStudyPlanForInstructorAndMentor" index="46_1" method="clickOnTheEntireRowOfLessonAsMentor">
+        <user_id>student_IT18_R182_46</user_id>
+        <Role>student</Role>
+        <context_id>studcontext46</context_id>
+        <context_title>studtitle46</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R182.EnhancementToStudyPlanForInstructorAndMentor" index="50" method="clickOnTheEntireRowOfLessonAsMentor" >
+        <user_id>mentor50</user_id>>
+        <Role>mentor</Role>
+        <context_id>studcontext50</context_id>
+        <context_title>studtitle50</context_title>
+        <assessmentname>Assignment_IT18_50</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT18_50</questionset>
+        <questiontext>Test Question for IT18_50</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle50</shareWithInitialString>
+        <shareName>studtitle50</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R182.EnhancementToStudyPlanForInstructorAndMentor" index="50_1" method="clickOnTheEntireRowOfLessonAsMentor">
+        <user_id>student_IT18_R182_50</user_id>
+        <Role>student</Role>
+        <context_id>studcontext50</context_id>
+        <context_title>studtitle50</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R182.EnhancementToStudyPlanForInstructorAndMentor" index="51" method="instructorHavingTheAccessToMultipleClassSection" >
+    <user_id>instructor51</user_id>>
+    <Role>instructor</Role>
+</testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R182.EnhancementToStudyPlanForInstructorAndMentor" index="56" method="mentorHavingTheAccessToMultipleClassSection" >
+    <user_id>mentor_42</user_id>>
+    <Role>mentor</Role>
+        <context_id>studcontext42</context_id>
+        <context_title>studtitle42</context_title>
+</testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT18.R182.EnhancementToStudyPlanForInstructorAndMentor" index="69" method="checkTheTooltipForAssignment" >
+        <user_id>instructor69</user_id>>
+        <Role>instructor</Role>
+    </testcase>
+
+</learningspaces>

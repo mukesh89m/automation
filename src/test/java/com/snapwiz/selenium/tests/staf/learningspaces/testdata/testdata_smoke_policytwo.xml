@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.policytwo.PolicyTwo" index="1">
+        <user_id>instructor_smoke_policytwo_1</user_id>
+        <Role>instructor</Role>
+        <context_id>cid_smoke_policytwo_1</context_id>
+        <context_title>cTitle_smoke_policytwo_1</context_title>
+        <assignmentpolicyname>smoke_Policy2</assignmentpolicyname>
+        <assessmentname>Assignment_smoke_policytwo_1</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of smoke_policytwo_1</questionset>
+        <questiontext>Test Question for smoke_policytwo_1</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <learningobjective>true</learningobjective>
+        <shareWithInitialString>cTitle_smoke_policytwo_1</shareWithInitialString>
+        <shareName>cTitle_smoke_policytwo_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>smoke_Policy2</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>8</duetime>
+        <extensionAfterDueDate>disable</extensionAfterDueDate>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>Mukesh Mandal</studentname>
+        <grade>0.3</grade>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.policytwo.PolicyTwo" index="2">
+        <user_id>student_smoke_policytwo_2</user_id>
+        <Role>student</Role>
+        <context_id>cid_smoke_policytwo_1</context_id>
+        <context_title>cTitle_smoke_policytwo_1</context_title>
+        <familyname>Mandal</familyname>
+        <givenname>Mukesh</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.policytwo.PolicyTwo" index="3">
+        <user_id>student_smoke_policytwo_3</user_id>
+        <Role>student</Role>
+        <context_id>cid_smoke_policytwo_1</context_id>
+        <context_title>cTitle_smoke_policytwo_1</context_title>
+        <familyname>Mandal</familyname>
+        <givenname>Tito</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.smoke.policytwo.PolicyTwo" index="4">
+        <user_id>student_smoke_policytwo_4</user_id>
+        <Role>student</Role>
+        <context_id>cid_smoke_policytwo_1</context_id>
+        <context_title>cTitle_smoke_policytwo_1</context_title>
+        <familyname>Mandal</familyname>
+        <givenname>Chiku</givenname>
+    </testcase>
+</learningspaces>

@@ -1,0 +1,1380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSection" index="13" method="">
+        <user_id>instructor_IT22_R2214_13</user_id>
+        <Role>instructor</Role>
+        <context_id>contextid_IT22_R2214_13</context_id>
+        <context_title>contexttitle_IT22_R2214_13</context_title>
+        <custom_instructor_classlist>[{"classid":"cls123","title":"Biology's 101","classcode":"BIO-101","state":"Active"}]</custom_instructor_classlist>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSection" index="13_1" method="">
+        <user_id>student_IT22_R2214_13</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_13</context_id>
+        <context_title>contexttitle_IT22_R2214_13</context_title>
+        <custom_instructor_classlist>[{"classid":"cls123","title":"Biology's 101","classcode":"BIO-101","state":"Active"}]</custom_instructor_classlist>
+    </testcase>
+
+   <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSection" index="25" method="">
+        <user_id>instructor_IT22_R2214_25</user_id>
+        <Role>instructor</Role>
+        <context_id>contextid_IT22_R2214_25</context_id>
+        <context_title>contexttitle_IT22_R2214_25</context_title>
+        <custom_instructor_classlist>[{"classid":"Inactive","title":"Inactive","classcode":"BIO-101","state":"Inactive"}]</custom_instructor_classlist>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSection" index="25_2" method="">
+        <user_id>instructor_IT22_R2214_25</user_id>
+        <Role>instructor</Role>
+        <context_id>Inactive</context_id>
+        <context_title>Inactive</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSection" index="25_1" method="">
+        <user_id>student_IT22_R2214_25</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_25</context_id>
+        <context_title>contexttitle_IT22_R2214_25</context_title>
+        <custom_instructor_classlist>[{"classid":"Inactive","title":"Inactive","classcode":"BIO-101","state":"Inactive"}]</custom_instructor_classlist>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSection" index="33" method="">
+        <user_id>instructor_IT22_R2214_33</user_id>
+        <Role>instructor</Role>
+        <context_id>contextid_IT22_R2214_33</context_id>
+        <context_title>contexttitle_IT22_R2214_33</context_title>
+        <custom_instructor_classlist>[{"classid":"Finished","title":"Finished","classcode":"BIO-101","state":"Finished"}]</custom_instructor_classlist>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSection" index="33_2" method="">
+        <user_id>instructor_IT22_R2214_33</user_id>
+        <Role>instructor</Role>
+        <context_id>Finished</context_id>
+        <context_title>Finished</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSection" index="33_1" method="">
+        <user_id>student_IT22_R2214_33</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_33</context_id>
+        <context_title>contexttitle_IT22_R2214_33</context_title>
+        <custom_instructor_classlist>[{"classid":"Inactive","title":"Inactive","classcode":"BIO-101","state":"Finished"}]</custom_instructor_classlist>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSection" index="40" method="">
+        <user_id>instructor_IT22_R2214_40</user_id>
+        <Role>instructor</Role>
+        <context_id>contextid_IT22_R2214_40</context_id>
+        <context_title>contexttitle_IT22_R2214_40</context_title>
+        <custom_instructor_classlist>[{"classid":"cls123","title":"Biology's 101","classcode":"BIO-101","state":"Active"}]</custom_instructor_classlist>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSection" index="40_1" method="">
+        <user_id>student_IT22_R2214_40</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_40</context_id>
+        <context_title>contexttitle_IT22_R2214_40</context_title>
+        <custom_instructor_classlist>[{"classid":"cls123","title":"Biology's 101","classcode":"BIO-101","state":"Active"}]</custom_instructor_classlist>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSection" index="40_2" method="">
+        <user_id>student_IT22_R2214_40</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_40</context_id>
+        <context_title>contexttitle_IT22_R2214_40</context_title>
+        <launchURL>http://10.0.0.240:8080/oAuth/testUpdateRoster</launchURL>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>update_roster</custom_destination>
+        <custom_roster_changes>{"custom_course_model":"LS","custom_domain_id":"autodomain","roster_update":[{"classid":"contextid_IT22_R2214_40","userid":"student_IT22_R2214_40","status":"Removed"}]}</custom_roster_changes>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSection" index="47" method="">
+        <user_id>instructor_IT22_R2214_47</user_id>
+        <Role>instructor</Role>
+        <context_id>contextid_IT22_R2214_47_1</context_id>
+        <context_title>contexttitle_IT22_R2214_47_1</context_title>
+        <custom_instructor_classlist>[{"classid":"cls123","title":"Biology's 101","classcode":"BIO-101","state":"Active"}]</custom_instructor_classlist>
+        <assessmentname>TrueFalseQuestionType_IT22_R2214_166</assessmentname>
+        <questionset>Quest_on_Set_IT22_R2214_47</questionset>
+        <questiontext>Test Question_IT22_R2214_47</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>contexttitle_IT22_R2214_47_1</shareWithInitialString>
+        <shareName>contexttitle_IT22_R2214_47_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradable>true</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <searchquestion>true</searchquestion>
+        <customassignmentname>TrueFalseQuestionType_IT22_R2214_47</customassignmentname>
+        <noOfQuestions>1</noOfQuestions>
+        <filename>img.png</filename>
+        <totalpoints>1</totalpoints>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSection" index="47_1" method="">
+        <user_id>student_IT22_R2214_47_1</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_47_1</context_id>
+        <context_title>contexttitle_IT22_R2214_47_1</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSection" index="47_2" method="">
+        <user_id>student_IT22_R2214_47_2</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_47_1</context_id>
+        <context_title>contexttitle_IT22_R2214_47_1</context_title>
+        <familyname>family2</familyname>
+        <givenname>givenname2</givenname>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSection" index="47_3" method="">
+        <user_id>student_IT22_R2214_47_1</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_47_1</context_id>
+        <context_title>contexttitle_IT22_R2214_47_1</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <launchURL>http://10.0.0.240:8080/oAuth/testUpdateRoster</launchURL>
+        <custom_destination>update_roster</custom_destination>
+        <custom_roster_changes>{"custom_course_model":"LS","custom_domain_id":"autodomain","roster_update":[{"classid":"contextid_IT22_R2214_47_1","userid":"student_IT22_R2214_47_1","status":"Removed"}]}</custom_roster_changes>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSection" index="88" method="">
+        <user_id>instructor_IT22_R2214_88</user_id>
+        <Role>instructor</Role>
+        <context_id>contextid_IT22_R2214_88</context_id>
+        <context_title>contexttitle_IT22_R2214_88</context_title>
+        <custom_instructor_classlist>[{"classid":"cls123","title":"Biology's 101","classcode":"BIO-101","state":"Active"}]</custom_instructor_classlist>
+        <assessmentname>TrueFalseQuestionType_IT22_R2214_88</assessmentname>
+        <questionset>Quest_on_Set_IT22_R2214_88</questionset>
+        <questiontext>Test Question_IT22_R2214_88</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>contexttitle_IT22_R2214_88</shareWithInitialString>
+        <shareName>contexttitle_IT22_R2214_88</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradable>true</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSection" index="88_1" method="">
+        <user_id>student_IT22_R2214_88_1</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_88</context_id>
+        <context_title>contexttitle_IT22_R2214_88</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSection" index="88_2" method="">
+        <user_id>student_IT22_R2214_88_2</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_88</context_id>
+        <context_title>contexttitle_IT22_R2214_88</context_title>
+        <familyname>family2</familyname>
+        <givenname>givenname2</givenname>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSection" index="88_3" method="">
+        <user_id>student_IT22_R2214_88_1</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_88</context_id>
+        <context_title>contexttitle_IT22_R2214_88</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <launchURL>http://10.0.0.240:8080/oAuth/testUpdateRoster</launchURL>
+        <custom_destination>update_roster</custom_destination>
+        <custom_roster_changes>{"custom_course_model":"LS","custom_domain_id":"autodomain","roster_update":[{"classid":"contextid_IT22_R2214_88","userid":"student_IT22_R2214_88_1","status":"Removed"}]}</custom_roster_changes>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSection" index="88_4" method="">
+        <user_id>student_IT22_R2214_88_2</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_88</context_id>
+        <context_title>contexttitle_IT22_R2214_88</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <launchURL>http://10.0.0.240:8080/oAuth/testUpdateRoster</launchURL>
+        <custom_destination>update_roster</custom_destination>
+        <custom_roster_changes>{"custom_course_model":"LS","custom_domain_id":"autodomain","roster_update":[{"classid":"contextid_IT22_R2214_88","userid":"student_IT22_R2214_88_2","status":"Removed"}]}</custom_roster_changes>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSection" index="95" method="">
+        <user_id>instructor_IT22_R2214_95_1</user_id>
+        <Role>instructor</Role>
+        <context_id>contextid_IT22_R2214_95_1</context_id>
+        <context_title>contexttitle_IT22_R2214_95_1</context_title>
+        <custom_instructor_classlist>[{"classid":"cls123","title":"Biology's 101","classcode":"BIO-101","state":"Active"}]</custom_instructor_classlist>
+        <shareWithInitialString>contexttitle_IT22_R2214_95_1</shareWithInitialString>
+        <shareName>contexttitle_IT22_R2214_95_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradable>true</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSection" index="95_1" method="">
+        <user_id>student_IT22_R2214_95_1</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_95_1</context_id>
+        <context_title>contexttitle_IT22_R2214_95_1</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSection" index="95_2" method="">
+        <user_id>student_IT22_R2214_95_2</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_95_1</context_id>
+        <context_title>contexttitle_IT22_R2214_95_1</context_title>
+        <familyname>family2</familyname>
+        <givenname>givenname2</givenname>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSection" index="95_3" method="">
+        <user_id>student_IT22_R2214_95_1</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_95_1</context_id>
+        <context_title>contexttitle_IT22_R2214_95_1</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <launchURL>http://10.0.0.240:8080/oAuth/testUpdateRoster</launchURL>
+        <custom_destination>update_roster</custom_destination>
+        <custom_roster_changes>{"custom_course_model":"LS","custom_domain_id":"autodomain","roster_update":[{"classid":"contextid_IT22_R2214_95_1","userid":"student_IT22_R2214_95_1","status":"Removed"}]}</custom_roster_changes>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSection" index="124" method="">
+        <user_id>instructor_IT22_R2214_124</user_id>
+        <Role>instructor</Role>
+        <context_id>contextid_IT22_R2214_124</context_id>
+        <context_title>contexttitle_IT22_R2214_124</context_title>
+        <custom_instructor_classlist>[{"classid":"cls123","title":"Biology's 101","classcode":"BIO-101","state":"Active"}]</custom_instructor_classlist>
+        <shareWithInitialString>contexttitle_IT22_R2214_124</shareWithInitialString>
+        <shareName>contexttitle_IT22_R2214_124</shareName>
+        <shareWithClass>true</shareWithClass>
+        <assessmentname>TrueFalseQuestionType_IT22_R2214_124</assessmentname>
+        <questionset>Quest_on_Set_IT22_R2214_124</questionset>
+        <questiontext>Test Question_IT22_R2214_124</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <gradeable>true</gradeable>
+        <gradable>true</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSection" index="124_1" method="">
+        <user_id>student_IT22_R2214_124_1</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_124</context_id>
+        <context_title>contexttitle_IT22_R2214_124</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSection" index="124_2" method="">
+        <user_id>student_IT22_R2214_124_2</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_124</context_id>
+        <context_title>contexttitle_IT22_R2214_124</context_title>
+        <familyname>family2</familyname>
+        <givenname>givenname2</givenname>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSection" index="124_3" method="">
+        <user_id>student_IT22_R2214_124_1</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_124</context_id>
+        <context_title>contexttitle_IT22_R2214_124</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <launchURL>http://10.0.0.240:8080/oAuth/testUpdateRoster</launchURL>
+        <custom_destination>update_roster</custom_destination>
+        <custom_roster_changes>{"custom_course_model":"LS","custom_domain_id":"autodomain","roster_update":[{"classid":"contextid_IT22_R2214_124","userid":"student_IT22_R2214_124_1","status":"Removed"}]}</custom_roster_changes>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSection" index="166" method="">
+        <user_id>instructor_IT22_R2214_166</user_id>
+        <Role>instructor</Role>
+        <context_id>contextid_IT22_R2214_166</context_id>
+        <context_title>contexttitle_IT22_R2214_166</context_title>
+        <custom_instructor_classlist>[{"classid":"cls123","title":"Biology's 101","classcode":"BIO-101","state":"Active"}]</custom_instructor_classlist>
+        <shareWithInitialString>contexttitle_IT22_R2214_166</shareWithInitialString>
+        <shareName>contexttitle_IT22_R2214_166</shareName>
+        <shareWithClass>true</shareWithClass>
+        <assessmentname>TrueFalseQuestionType_IT22_R2214_166</assessmentname>
+        <questionset>Quest_on_Set_IT22_R2214_166</questionset>
+        <questiontext>Test Question_IT22_R2214_166</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <gradeable>true</gradeable>
+        <gradable>true</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSection" index="166_1" method="">
+        <user_id>student_IT22_R2214_166_1</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_166</context_id>
+        <context_title>contexttitle_IT22_R2214_166</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSection" index="166_2" method="">
+        <user_id>student_IT22_R2214_166_2</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_166</context_id>
+        <context_title>contexttitle_IT22_R2214_166</context_title>
+        <familyname>family2</familyname>
+        <givenname>givenname2</givenname>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSection" index="166_3" method="">
+        <user_id>student_IT22_R2214_166_2</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_166</context_id>
+        <context_title>contexttitle_IT22_R2214_166</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <launchURL>http://10.0.0.240:8080/oAuth/testUpdateRoster</launchURL>
+        <custom_destination>update_roster</custom_destination>
+        <custom_roster_changes>{"custom_course_model":"LS","custom_domain_id":"autodomain","roster_update":[{"classid":"contextid_IT22_R2214_166","userid":"student_IT22_R2214_166_2","status":"Removed"}]}</custom_roster_changes>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSection" index="170" method="">
+        <user_id>instructor_IT22_R2214_170</user_id>
+        <Role>instructor</Role>
+        <context_id>contextid_IT22_R2214_170</context_id>
+        <context_title>contexttitle_IT22_R2214_170</context_title>
+        <custom_instructor_classlist>[{"classid":"cls123","title":"Biology's 101","classcode":"BIO-101","state":"Active"}]</custom_instructor_classlist>
+        <shareWithInitialString>contexttitle_IT22_R2214_170</shareWithInitialString>
+        <shareName>contexttitle_IT22_R2214_170</shareName>
+        <shareWithClass>true</shareWithClass>
+        <assessmentname>TrueFalseQuestionType_IT22_R2214_166</assessmentname>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>policy170</assignmentpolicyname>
+        <assignmentpolicy>policy170</assignmentpolicy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSection" index="170_1" method="">
+        <user_id>student_IT22_R2214_170_1</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_170</context_id>
+        <context_title>contexttitle_IT22_R2214_170</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSection" index="170_2" method="">
+        <user_id>student_IT22_R2214_170_2</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_170</context_id>
+        <context_title>contexttitle_IT22_R2214_170</context_title>
+        <familyname>family2</familyname>
+        <givenname>givenname2</givenname>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSection" index="170_3" method="">
+        <user_id>student_IT22_R2214_170_2</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_170</context_id>
+        <context_title>contexttitle_IT22_R2214_170</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <launchURL>http://10.0.0.240:8080/oAuth/testUpdateRoster</launchURL>
+        <custom_destination>update_roster</custom_destination>
+        <custom_roster_changes>{"custom_course_model":"LS","custom_domain_id":"autodomain","roster_update":[{"classid":"contextid_IT22_R2214_170","userid":"student_IT22_R2214_170_2","status":"Removed"}]}</custom_roster_changes>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSection" index="174" method="">
+        <user_id>instructor_IT22_R2214_174</user_id>
+        <Role>instructor</Role>
+        <context_id>contextid_IT22_R2214_174</context_id>
+        <context_title>contexttitle_IT22_R2214_174</context_title>
+        <custom_instructor_classlist>[{"classid":"cls123","title":"Biology's 101","classcode":"BIO-101","state":"Active"}]</custom_instructor_classlist>
+        <shareWithInitialString>contexttitle_IT22_R2214_174</shareWithInitialString>
+        <shareName>contexttitle_IT22_R2214_174</shareName>
+        <shareWithClass>true</shareWithClass>
+        <assessmentname>TrueFalseQuestionType_IT22_R2214_174</assessmentname>
+        <questionset>Quest_on_Set_IT22_R2214_174</questionset>
+        <questiontext>Test Question_IT22_R2214_174</questiontext>
+        <shareName>givenname1 family1</shareName>
+        <studentname>givenname1 family1</studentname>
+        <questiontype>Static Practice</questiontype>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>policy174</assignmentpolicyname>
+        <assignmentpolicy>policy174</assignmentpolicy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSection" index="174_1" method="">
+        <user_id>student_IT22_R2214_174_1</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_174</context_id>
+        <context_title>contexttitle_IT22_R2214_174</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSection" index="174_2" method="">
+        <user_id>student_IT22_R2214_174_2</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_174</context_id>
+        <context_title>contexttitle_IT22_R2214_174</context_title>
+        <familyname>family2</familyname>
+        <givenname>givenname2</givenname>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSection" index="174_3" method="">
+        <user_id>student_IT22_R2214_174_2</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_174</context_id>
+        <context_title>contexttitle_IT22_R2214_174</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <launchURL>http://10.0.0.240:8080/oAuth/testUpdateRoster</launchURL>
+        <custom_destination>update_roster</custom_destination>
+        <custom_roster_changes>{"custom_course_model":"LS","custom_domain_id":"autodomain","roster_update":[{"classid":"contextid_IT22_R2214_174","userid":"student_IT22_R2214_174_2","status":"Removed"}]}</custom_roster_changes>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSection" index="186" method="">
+        <user_id>instructor_IT22_R2214_186</user_id>
+        <Role>instructor</Role>
+        <context_id>contextid_IT22_R2214_186</context_id>
+        <context_title>contexttitle_IT22_R2214_186</context_title>
+        <custom_instructor_classlist>[{"classid":"cls123","title":"Biology's 101","classcode":"BIO-101","state":"Active"}]</custom_instructor_classlist>
+        <shareWithInitialString>contexttitle_IT22_R2214_186</shareWithInitialString>
+        <shareName>contexttitle_IT22_R2214_186</shareName>
+        <shareWithClass>true</shareWithClass>
+        <assessmentname>TrueFalseQuestionType_IT22_R2214_174</assessmentname>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>policy186</assignmentpolicyname>
+        <assignmentpolicy>policy186</assignmentpolicy>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSection" index="186_1" method="">
+        <user_id>student_IT22_R2214_186_1</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_186</context_id>
+        <context_title>contexttitle_IT22_R2214_186</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSection" index="186_2" method="">
+        <user_id>student_IT22_R2214_186_2</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_186</context_id>
+        <context_title>contexttitle_IT22_R2214_186</context_title>
+        <familyname>family2</familyname>
+        <givenname>givenname2</givenname>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSection" index="186_3" method="">
+        <user_id>student_IT22_R2214_186_2</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_186</context_id>
+        <context_title>contexttitle_IT22_R2214_186</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <launchURL>http://10.0.0.240:8080/oAuth/testUpdateRoster</launchURL>
+        <custom_destination>update_roster</custom_destination>
+        <custom_roster_changes>{"custom_course_model":"LS","custom_domain_id":"autodomain","roster_update":[{"classid":"contextid_IT22_R2214_186","userid":"student_IT22_R2214_186_2","status":"Removed"}]}</custom_roster_changes>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSection" index="190" method="">
+        <user_id>instructor_IT22_R2214_190</user_id>
+        <Role>instructor</Role>
+        <context_id>contextid_IT22_R2214_190</context_id>
+        <context_title>contexttitle_IT22_R2214_190</context_title>
+        <custom_instructor_classlist>[{"classid":"cls123","title":"Biology's 101","classcode":"BIO-101","state":"Active"}]</custom_instructor_classlist>
+        <shareWithInitialString>contexttitle_IT22_R2214_190</shareWithInitialString>
+        <shareName>contexttitle_IT22_R2214_190</shareName>
+        <shareWithClass>true</shareWithClass>
+        <assessmentname>TrueFalseQuestionType_IT22_R2214_174</assessmentname>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSection" index="190_1" method="">
+        <user_id>student_IT22_R2214_190_1</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_190</context_id>
+        <context_title>contexttitle_IT22_R2214_190</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSection" index="190_2" method="">
+        <user_id>student_IT22_R2214_190_2</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_190</context_id>
+        <context_title>contexttitle_IT22_R2214_190</context_title>
+        <familyname>family2</familyname>
+        <givenname>givenname2</givenname>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSection" index="190_3" method="">
+        <user_id>student_IT22_R2214_190_2</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_190</context_id>
+        <context_title>contexttitle_IT22_R2214_190</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <launchURL>http://10.0.0.240:8080/oAuth/testUpdateRoster</launchURL>
+        <custom_destination>update_roster</custom_destination>
+        <custom_roster_changes>{"custom_course_model":"LS","custom_domain_id":"autodomain","roster_update":[{"classid":"contextid_IT22_R2214_190","userid":"student_IT22_R2214_190_2","status":"Removed"}]}</custom_roster_changes>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSection" index="198" method="">
+        <user_id>instructor_IT22_R2214_198</user_id>
+        <Role>instructor</Role>
+        <context_id>contextid_IT22_R2214_198</context_id>
+        <context_title>contexttitle_IT22_R2214_198</context_title>
+        <custom_instructor_classlist>[{"classid":"cls123","title":"Biology's 101","classcode":"BIO-101","state":"Active"}]</custom_instructor_classlist>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSection" index="198_1" method="">
+        <user_id>student_IT22_R2214_198_1</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_198</context_id>
+        <context_title>contexttitle_IT22_R2214_198</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSection" index="198_2" method="">
+        <user_id>student_IT22_R2214_198_1</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_198</context_id>
+        <context_title>contexttitle_IT22_R2214_198</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <launchURL>http://10.0.0.240:8080/oAuth/testUpdateRoster</launchURL>
+        <custom_destination>update_roster</custom_destination>
+        <custom_roster_changes>{"custom_course_model":"LS","custom_domain_id":"autodomain","roster_update":[{"classid":"contextid_IT22_R2214_191","userid":"student_IT22_R2214_198_1","status":"Removed"}]}</custom_roster_changes>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSection" index="198_3" method="">
+        <user_id>student_IT22_R2214_198_1</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_198</context_id>
+        <context_title>contexttitle_IT22_R2214_198</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <launchURL>http://10.0.0.240:8080/oAuth/testUpdateRoster</launchURL>
+        <custom_destination>update_roster</custom_destination>
+        <custom_roster_changes>{"custom_course_model":"LS","custom_domain_id":"autodomain","roster_update":[{"classid":"contextid_IT22_R2214_198","userid":"student_IT22_R2214_198_1","status":"Removed"}]}</custom_roster_changes>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSection" index="140" method="">
+        <user_id>instructor_IT22_R2214_140</user_id>
+        <Role>instructor</Role>
+        <context_id>contextid_IT22_R2214_140</context_id>
+        <context_title>contexttitle_IT22_R2214_140</context_title>
+        <custom_instructor_classlist>[{"classid":"cls123","title":"Biology's 101","classcode":"BIO-101","state":"Active"}]</custom_instructor_classlist>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSection" index="140_1" method="">
+        <user_id>student_IT22_R2214_140_1</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_140</context_id>
+        <context_title>contexttitle_IT22_R2214_140</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSection" index="140_2" method="">
+        <user_id>student_IT22_R2214_140_2</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_140</context_id>
+        <context_title>contexttitle_IT22_R2214_140</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSection" index="140_3" method="">
+        <user_id>student_IT22_R2214_140_2</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_140</context_id>
+        <context_title>contexttitle_IT22_R2214_140</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <launchURL>http://10.0.0.240:8080/oAuth/testUpdateRoster</launchURL>
+        <custom_destination>update_roster</custom_destination>
+        <custom_roster_changes>{"custom_course_model":"LS","custom_domain_id":"autodomain","roster_update":[{"classid":"contextid_IT22_R2214_140","userid":"student_IT22_R2214_140_2","status":"Removed"}]}</custom_roster_changes>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSectionForLs" index="13" method="">
+        <user_id>instructor_IT22_R2214_13</user_id>
+        <Role>instructor</Role>
+        <context_id>contextid_IT22_R2214_13</context_id>
+        <context_title>contexttitle_IT22_R2214_13</context_title>
+        <custom_instructor_classlist>[{"classid":"cls123","title":"Biology's 101","classcode":"BIO-101","state":"Active"}]</custom_instructor_classlist>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSectionForLs" index="13_1" method="">
+        <user_id>student_IT22_R2214_13</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_13</context_id>
+        <context_title>contexttitle_IT22_R2214_13</context_title>
+        <custom_instructor_classlist>[{"classid":"cls123","title":"Biology's 101","classcode":"BIO-101","state":"Active"}]</custom_instructor_classlist>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSectionForLs" index="25" method="">
+        <user_id>instructor_IT22_R2214_25</user_id>
+        <Role>instructor</Role>
+        <context_id>contextid_IT22_R2214_25</context_id>
+        <context_title>contexttitle_IT22_R2214_25</context_title>
+        <custom_instructor_classlist>[{"classid":"Inactive","title":"Inactive","classcode":"BIO-101","state":"Inactive"}]</custom_instructor_classlist>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSectionForLs" index="25_2" method="">
+        <user_id>instructor_IT22_R2214_25</user_id>
+        <Role>instructor</Role>
+        <context_id>Inactive</context_id>
+        <context_title>Inactive</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSectionForLs" index="25_1" method="">
+        <user_id>student_IT22_R2214_25</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_25</context_id>
+        <context_title>contexttitle_IT22_R2214_25</context_title>
+        <custom_instructor_classlist>[{"classid":"Inactive","title":"Inactive","classcode":"BIO-101","state":"Inactive"}]</custom_instructor_classlist>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSectionForLs" index="33" method="">
+        <user_id>instructor_IT22_R2214_33</user_id>
+        <Role>instructor</Role>
+        <context_id>contextid_IT22_R2214_33</context_id>
+        <context_title>contexttitle_IT22_R2214_33</context_title>
+        <custom_instructor_classlist>[{"classid":"Finished","title":"Finished","classcode":"BIO-101","state":"Finished"}]</custom_instructor_classlist>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSectionForLs" index="33_2" method="">
+        <user_id>instructor_IT22_R2214_33</user_id>
+        <Role>instructor</Role>
+        <context_id>Finished</context_id>
+        <context_title>Finished</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSectionForLs" index="33_1" method="">
+        <user_id>student_IT22_R2214_33</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_33</context_id>
+        <context_title>contexttitle_IT22_R2214_33</context_title>
+        <custom_instructor_classlist>[{"classid":"Inactive","title":"Inactive","classcode":"BIO-101","state":"Finished"}]</custom_instructor_classlist>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSectionForLs" index="40" method="">
+        <user_id>instructor_IT22_R2214_40</user_id>
+        <Role>instructor</Role>
+        <context_id>contextid_IT22_R2214_40</context_id>
+        <context_title>contexttitle_IT22_R2214_40</context_title>
+        <custom_instructor_classlist>[{"classid":"cls123","title":"Biology's 101","classcode":"BIO-101","state":"Active"}]</custom_instructor_classlist>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSectionForLs" index="40_1" method="">
+        <user_id>student_IT22_R2214_40</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_40</context_id>
+        <context_title>contexttitle_IT22_R2214_40</context_title>
+        <custom_instructor_classlist>[{"classid":"cls123","title":"Biology's 101","classcode":"BIO-101","state":"Active"}]</custom_instructor_classlist>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSectionForLs" index="40_2" method="">
+        <user_id>student_IT22_R2214_40</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_40</context_id>
+        <context_title>contexttitle_IT22_R2214_40</context_title>
+        <launchURL>http://10.0.0.240:8080/oAuth/testUpdateRoster</launchURL>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <custom_destination>update_roster</custom_destination>
+        <custom_roster_changes>{"custom_course_model":"LS","custom_domain_id":"autodomain","roster_update":[{"classid":"contextid_IT22_R2214_40","userid":"student_IT22_R2214_40","status":"Removed"}]}</custom_roster_changes>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSectionForLs" index="47" method="">
+        <user_id>instructor_IT22_R2214_47</user_id>
+        <Role>instructor</Role>
+        <context_id>contextid_IT22_R2214_47_1</context_id>
+        <context_title>contexttitle_IT22_R2214_47_1</context_title>
+        <custom_instructor_classlist>[{"classid":"cls123","title":"Biology's 101","classcode":"BIO-101","state":"Active"}]</custom_instructor_classlist>
+        <assessmentname>TrueFalseQuestionType_IT22_R2214_166</assessmentname>
+        <questionset>Quest_on_Set_IT22_R2214_47</questionset>
+        <questiontext>Test Question_IT22_R2214_47</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>contexttitle_IT22_R2214_47_1</shareWithInitialString>
+        <shareName>contexttitle_IT22_R2214_47_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradable>true</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <searchquestion>true</searchquestion>
+        <customassignmentname>TrueFalseQuestionType_IT22_R2214_47</customassignmentname>
+        <noOfQuestions>1</noOfQuestions>
+        <filename>img.png</filename>
+        <totalpoints>1</totalpoints>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSectionForLs" index="47_1" method="">
+        <user_id>student_IT22_R2214_47_1</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_47_1</context_id>
+        <context_title>contexttitle_IT22_R2214_47_1</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSectionForLs" index="47_2" method="">
+        <user_id>student_IT22_R2214_47_2</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_47_1</context_id>
+        <context_title>contexttitle_IT22_R2214_47_1</context_title>
+        <familyname>family2</familyname>
+        <givenname>givenname2</givenname>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSectionForLs" index="47_3" method="">
+        <user_id>student_IT22_R2214_47_1</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_47_1</context_id>
+        <context_title>contexttitle_IT22_R2214_47_1</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <launchURL>http://10.0.0.240:8080/oAuth/testUpdateRoster</launchURL>
+        <custom_destination>update_roster</custom_destination>
+        <custom_roster_changes>{"custom_course_model":"LS","custom_domain_id":"autodomain","roster_update":[{"classid":"contextid_IT22_R2214_47_1","userid":"student_IT22_R2214_47_1","status":"Removed"}]}</custom_roster_changes>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSectionForLs" index="88" method="">
+        <user_id>instructor_IT22_R2214_88</user_id>
+        <Role>instructor</Role>
+        <context_id>contextid_IT22_R2214_88</context_id>
+        <context_title>contexttitle_IT22_R2214_88</context_title>
+        <custom_instructor_classlist>[{"classid":"cls123","title":"Biology's 101","classcode":"BIO-101","state":"Active"}]</custom_instructor_classlist>
+        <assessmentname>TrueFalseQuestionType_IT22_R2214_88</assessmentname>
+        <questionset>Quest_on_Set_IT22_R2214_88</questionset>
+        <questiontext>Test Question_IT22_R2214_88</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>contexttitle_IT22_R2214_88</shareWithInitialString>
+        <shareName>contexttitle_IT22_R2214_88</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradable>true</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSectionForLs" index="88_1" method="">
+        <user_id>student_IT22_R2214_88_1</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_88</context_id>
+        <context_title>contexttitle_IT22_R2214_88</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSectionForLs" index="88_2" method="">
+        <user_id>student_IT22_R2214_88_2</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_88</context_id>
+        <context_title>contexttitle_IT22_R2214_88</context_title>
+        <familyname>family2</familyname>
+        <givenname>givenname2</givenname>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSectionForLs" index="88_3" method="">
+        <user_id>student_IT22_R2214_88_1</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_88</context_id>
+        <context_title>contexttitle_IT22_R2214_88</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <launchURL>http://10.0.0.240:8080/oAuth/testUpdateRoster</launchURL>
+        <custom_destination>update_roster</custom_destination>
+        <custom_roster_changes>{"custom_course_model":"LS","custom_domain_id":"autodomain","roster_update":[{"classid":"contextid_IT22_R2214_88","userid":"student_IT22_R2214_88_1","status":"Removed"}]}</custom_roster_changes>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSectionForLs" index="88_4" method="">
+        <user_id>student_IT22_R2214_88_2</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_88</context_id>
+        <context_title>contexttitle_IT22_R2214_88</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <launchURL>http://10.0.0.240:8080/oAuth/testUpdateRoster</launchURL>
+        <custom_destination>update_roster</custom_destination>
+        <custom_roster_changes>{"custom_course_model":"LS","custom_domain_id":"autodomain","roster_update":[{"classid":"contextid_IT22_R2214_88","userid":"student_IT22_R2214_88_2","status":"Removed"}]}</custom_roster_changes>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSectionForLs" index="95" method="">
+        <user_id>instructor_IT22_R2214_95_1</user_id>
+        <Role>instructor</Role>
+        <context_id>contextid_IT22_R2214_95_1</context_id>
+        <context_title>contexttitle_IT22_R2214_95_1</context_title>
+        <custom_instructor_classlist>[{"classid":"cls123","title":"Biology's 101","classcode":"BIO-101","state":"Active"}]</custom_instructor_classlist>
+        <shareWithInitialString>contexttitle_IT22_R2214_95_1</shareWithInitialString>
+        <shareName>contexttitle_IT22_R2214_95_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradable>true</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSectionForLs" index="95_1" method="">
+        <user_id>student_IT22_R2214_95_1</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_95_1</context_id>
+        <context_title>contexttitle_IT22_R2214_95_1</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSectionForLs" index="95_2" method="">
+        <user_id>student_IT22_R2214_95_2</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_95_1</context_id>
+        <context_title>contexttitle_IT22_R2214_95_1</context_title>
+        <familyname>family2</familyname>
+        <givenname>givenname2</givenname>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSectionForLs" index="95_3" method="">
+        <user_id>student_IT22_R2214_95_1</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_95_1</context_id>
+        <context_title>contexttitle_IT22_R2214_95_1</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <launchURL>http://10.0.0.240:8080/oAuth/testUpdateRoster</launchURL>
+        <custom_destination>update_roster</custom_destination>
+        <custom_roster_changes>{"custom_course_model":"LS","custom_domain_id":"autodomain","roster_update":[{"classid":"contextid_IT22_R2214_95_1","userid":"student_IT22_R2214_95_1","status":"Removed"}]}</custom_roster_changes>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSectionForLs" index="124" method="">
+        <user_id>instructor_IT22_R2214_124</user_id>
+        <Role>instructor</Role>
+        <context_id>contextid_IT22_R2214_124</context_id>
+        <context_title>contexttitle_IT22_R2214_124</context_title>
+        <custom_instructor_classlist>[{"classid":"cls123","title":"Biology's 101","classcode":"BIO-101","state":"Active"}]</custom_instructor_classlist>
+        <shareWithInitialString>contexttitle_IT22_R2214_124</shareWithInitialString>
+        <shareName>contexttitle_IT22_R2214_124</shareName>
+        <shareWithClass>true</shareWithClass>
+        <assessmentname>TrueFalseQuestionType_IT22_R2214_124</assessmentname>
+        <questionset>Quest_on_Set_IT22_R2214_124</questionset>
+        <questiontext>Test Question_IT22_R2214_124</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <gradeable>true</gradeable>
+        <gradable>true</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSectionForLs" index="124_1" method="">
+        <user_id>student_IT22_R2214_124_1</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_124</context_id>
+        <context_title>contexttitle_IT22_R2214_124</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSectionForLs" index="124_2" method="">
+        <user_id>student_IT22_R2214_124_2</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_124</context_id>
+        <context_title>contexttitle_IT22_R2214_124</context_title>
+        <familyname>family2</familyname>
+        <givenname>givenname2</givenname>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSectionForLs" index="124_3" method="">
+        <user_id>student_IT22_R2214_124_1</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_124</context_id>
+        <context_title>contexttitle_IT22_R2214_124</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <launchURL>http://10.0.0.240:8080/oAuth/testUpdateRoster</launchURL>
+        <custom_destination>update_roster</custom_destination>
+        <custom_roster_changes>{"custom_course_model":"LS","custom_domain_id":"autodomain","roster_update":[{"classid":"contextid_IT22_R2214_124","userid":"student_IT22_R2214_124_1","status":"Removed"}]}</custom_roster_changes>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSectionForLs" index="166" method="">
+        <user_id>instructor_IT22_R2214_166</user_id>
+        <Role>instructor</Role>
+        <context_id>contextid_IT22_R2214_166</context_id>
+        <context_title>contexttitle_IT22_R2214_166</context_title>
+        <custom_instructor_classlist>[{"classid":"cls123","title":"Biology's 101","classcode":"BIO-101","state":"Active"}]</custom_instructor_classlist>
+        <shareWithInitialString>contexttitle_IT22_R2214_166</shareWithInitialString>
+        <shareName>contexttitle_IT22_R2214_166</shareName>
+        <shareWithClass>true</shareWithClass>
+        <assessmentname>TrueFalseQuestionType_IT22_R2214_166</assessmentname>
+        <questionset>Quest_on_Set_IT22_R2214_166</questionset>
+        <questiontext>Test Question_IT22_R2214_166</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <gradeable>true</gradeable>
+        <gradable>true</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSectionForLs" index="166_1" method="">
+        <user_id>student_IT22_R2214_166_1</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_166</context_id>
+        <context_title>contexttitle_IT22_R2214_166</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSectionForLs" index="166_2" method="">
+        <user_id>student_IT22_R2214_166_2</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_166</context_id>
+        <context_title>contexttitle_IT22_R2214_166</context_title>
+        <familyname>family2</familyname>
+        <givenname>givenname2</givenname>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSectionForLs" index="166_3" method="">
+        <user_id>student_IT22_R2214_166_2</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_166</context_id>
+        <context_title>contexttitle_IT22_R2214_166</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <launchURL>http://10.0.0.240:8080/oAuth/testUpdateRoster</launchURL>
+        <custom_destination>update_roster</custom_destination>
+        <custom_roster_changes>{"custom_course_model":"LS","custom_domain_id":"autodomain","roster_update":[{"classid":"contextid_IT22_R2214_166","userid":"student_IT22_R2214_166_2","status":"Removed"}]}</custom_roster_changes>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSectionForLs" index="170" method="">
+        <user_id>instructor_IT22_R2214_170</user_id>
+        <Role>instructor</Role>
+        <context_id>contextid_IT22_R2214_170</context_id>
+        <context_title>contexttitle_IT22_R2214_170</context_title>
+        <custom_instructor_classlist>[{"classid":"cls123","title":"Biology's 101","classcode":"BIO-101","state":"Active"}]</custom_instructor_classlist>
+        <shareWithInitialString>contexttitle_IT22_R2214_170</shareWithInitialString>
+        <shareName>contexttitle_IT22_R2214_170</shareName>
+        <shareWithClass>true</shareWithClass>
+        <assessmentname>TrueFalseQuestionType_IT22_R2214_166</assessmentname>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>policy170</assignmentpolicyname>
+        <assignmentpolicy>policy170</assignmentpolicy>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSectionForLs" index="170_1" method="">
+        <user_id>student_IT22_R2214_170_1</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_170</context_id>
+        <context_title>contexttitle_IT22_R2214_170</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSectionForLs" index="170_2" method="">
+        <user_id>student_IT22_R2214_170_2</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_170</context_id>
+        <context_title>contexttitle_IT22_R2214_170</context_title>
+        <familyname>family2</familyname>
+        <givenname>givenname2</givenname>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSectionForLs" index="170_3" method="">
+        <user_id>student_IT22_R2214_170_2</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_170</context_id>
+        <context_title>contexttitle_IT22_R2214_170</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <launchURL>http://10.0.0.240:8080/oAuth/testUpdateRoster</launchURL>
+        <custom_destination>update_roster</custom_destination>
+        <custom_roster_changes>{"custom_course_model":"LS","custom_domain_id":"autodomain","roster_update":[{"classid":"contextid_IT22_R2214_170","userid":"student_IT22_R2214_170_2","status":"Removed"}]}</custom_roster_changes>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSectionForLs" index="174" method="">
+        <user_id>instructor_IT22_R2214_174</user_id>
+        <Role>instructor</Role>
+        <context_id>contextid_IT22_R2214_174</context_id>
+        <context_title>contexttitle_IT22_R2214_174</context_title>
+        <custom_instructor_classlist>[{"classid":"cls123","title":"Biology's 101","classcode":"BIO-101","state":"Active"}]</custom_instructor_classlist>
+        <shareWithInitialString>contexttitle_IT22_R2214_174</shareWithInitialString>
+        <shareName>contexttitle_IT22_R2214_174</shareName>
+        <shareWithClass>true</shareWithClass>
+        <assessmentname>TrueFalseQuestionType_IT22_R2214_174</assessmentname>
+        <questionset>Quest_on_Set_IT22_R2214_174</questionset>
+        <questiontext>Test Question_IT22_R2214_174</questiontext>
+        <shareName>givenname1 family1</shareName>
+        <studentname>givenname1 family1</studentname>
+        <questiontype>Static Practice</questiontype>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>policy174</assignmentpolicyname>
+        <assignmentpolicy>policy174</assignmentpolicy>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSectionForLs" index="174_1" method="">
+        <user_id>student_IT22_R2214_174_1</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_174</context_id>
+        <context_title>contexttitle_IT22_R2214_174</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSectionForLs" index="174_2" method="">
+        <user_id>student_IT22_R2214_174_2</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_174</context_id>
+        <context_title>contexttitle_IT22_R2214_174</context_title>
+        <familyname>family2</familyname>
+        <givenname>givenname2</givenname>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSectionForLs" index="174_3" method="">
+        <user_id>student_IT22_R2214_174_2</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_174</context_id>
+        <context_title>contexttitle_IT22_R2214_174</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <launchURL>http://10.0.0.240:8080/oAuth/testUpdateRoster</launchURL>
+        <custom_destination>update_roster</custom_destination>
+        <custom_roster_changes>{"custom_course_model":"LS","custom_domain_id":"autodomain","roster_update":[{"classid":"contextid_IT22_R2214_174","userid":"student_IT22_R2214_174_2","status":"Removed"}]}</custom_roster_changes>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSectionForLs" index="186" method="">
+        <user_id>instructor_IT22_R2214_186</user_id>
+        <Role>instructor</Role>
+        <context_id>contextid_IT22_R2214_186</context_id>
+        <context_title>contexttitle_IT22_R2214_186</context_title>
+        <custom_instructor_classlist>[{"classid":"cls123","title":"Biology's 101","classcode":"BIO-101","state":"Active"}]</custom_instructor_classlist>
+        <shareWithInitialString>contexttitle_IT22_R2214_186</shareWithInitialString>
+        <shareName>contexttitle_IT22_R2214_186</shareName>
+        <shareWithClass>true</shareWithClass>
+        <assessmentname>TrueFalseQuestionType_IT22_R2214_174</assessmentname>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>policy186</assignmentpolicyname>
+        <assignmentpolicy>policy186</assignmentpolicy>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSectionForLs" index="186_1" method="">
+        <user_id>student_IT22_R2214_186_1</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_186</context_id>
+        <context_title>contexttitle_IT22_R2214_186</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSectionForLs" index="186_2" method="">
+        <user_id>student_IT22_R2214_186_2</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_186</context_id>
+        <context_title>contexttitle_IT22_R2214_186</context_title>
+        <familyname>family2</familyname>
+        <givenname>givenname2</givenname>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSectionForLs" index="186_3" method="">
+        <user_id>student_IT22_R2214_186_2</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_186</context_id>
+        <context_title>contexttitle_IT22_R2214_186</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <launchURL>http://10.0.0.240:8080/oAuth/testUpdateRoster</launchURL>
+        <custom_destination>update_roster</custom_destination>
+        <custom_roster_changes>{"custom_course_model":"LS","custom_domain_id":"autodomain","roster_update":[{"classid":"contextid_IT22_R2214_186","userid":"student_IT22_R2214_186_2","status":"Removed"}]}</custom_roster_changes>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSectionForLs" index="190" method="">
+        <user_id>instructor_IT22_R2214_190</user_id>
+        <Role>instructor</Role>
+        <context_id>contextid_IT22_R2214_190</context_id>
+        <context_title>contexttitle_IT22_R2214_190</context_title>
+        <custom_instructor_classlist>[{"classid":"cls123","title":"Biology's 101","classcode":"BIO-101","state":"Active"}]</custom_instructor_classlist>
+        <shareWithInitialString>contexttitle_IT22_R2214_190</shareWithInitialString>
+        <shareName>contexttitle_IT22_R2214_190</shareName>
+        <shareWithClass>true</shareWithClass>
+        <assessmentname>TrueFalseQuestionType_IT22_R2214_174</assessmentname>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSectionForLs" index="190_1" method="">
+        <user_id>student_IT22_R2214_190_1</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_190</context_id>
+        <context_title>contexttitle_IT22_R2214_190</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSectionForLs" index="190_2" method="">
+        <user_id>student_IT22_R2214_190_2</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_190</context_id>
+        <context_title>contexttitle_IT22_R2214_190</context_title>
+        <familyname>family2</familyname>
+        <givenname>givenname2</givenname>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSectionForLs" index="190_3" method="">
+        <user_id>student_IT22_R2214_190_2</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_190</context_id>
+        <context_title>contexttitle_IT22_R2214_190</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <launchURL>http://10.0.0.240:8080/oAuth/testUpdateRoster</launchURL>
+        <custom_destination>update_roster</custom_destination>
+        <custom_roster_changes>{"custom_course_model":"LS","custom_domain_id":"autodomain","roster_update":[{"classid":"contextid_IT22_R2214_190","userid":"student_IT22_R2214_190_2","status":"Removed"}]}</custom_roster_changes>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSectionForLs" index="198" method="">
+        <user_id>instructor_IT22_R2214_198</user_id>
+        <Role>instructor</Role>
+        <context_id>contextid_IT22_R2214_198</context_id>
+        <context_title>contexttitle_IT22_R2214_198</context_title>
+        <custom_instructor_classlist>[{"classid":"cls123","title":"Biology's 101","classcode":"BIO-101","state":"Active"}]</custom_instructor_classlist>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSectionForLs" index="198_1" method="">
+        <user_id>student_IT22_R2214_198_1</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_198</context_id>
+        <context_title>contexttitle_IT22_R2214_198</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSectionForLs" index="198_2" method="">
+        <user_id>student_IT22_R2214_198_1</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_198</context_id>
+        <context_title>contexttitle_IT22_R2214_198</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <launchURL>http://10.0.0.240:8080/oAuth/testUpdateRoster</launchURL>
+        <custom_destination>update_roster</custom_destination>
+        <custom_roster_changes>{"custom_course_model":"LS","custom_domain_id":"autodomain","roster_update":[{"classid":"contextid_IT22_R2214_191","userid":"student_IT22_R2214_198_1","status":"Removed"}]}</custom_roster_changes>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSectionForLs" index="198_3" method="">
+        <user_id>student_IT22_R2214_198_1</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_198</context_id>
+        <context_title>contexttitle_IT22_R2214_198</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <launchURL>http://10.0.0.240:8080/oAuth/testUpdateRoster</launchURL>
+        <custom_destination>update_roster</custom_destination>
+        <custom_roster_changes>{"custom_course_model":"LS","custom_domain_id":"autodomain","roster_update":[{"classid":"contextid_IT22_R2214_198","userid":"student_IT22_R2214_198_1","status":"Removed"}]}</custom_roster_changes>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSectionForLs" index="140" method="">
+        <user_id>instructor_IT22_R2214_140</user_id>
+        <Role>instructor</Role>
+        <context_id>contextid_IT22_R2214_140</context_id>
+        <context_title>contexttitle_IT22_R2214_140</context_title>
+        <custom_instructor_classlist>[{"classid":"cls123","title":"Biology's 101","classcode":"BIO-101","state":"Active"}]</custom_instructor_classlist>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSectionForLs" index="140_1" method="">
+        <user_id>student_IT22_R2214_140_1</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_140</context_id>
+        <context_title>contexttitle_IT22_R2214_140</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSectionForLs" index="140_2" method="">
+        <user_id>student_IT22_R2214_140_2</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_140</context_id>
+        <context_title>contexttitle_IT22_R2214_140</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <course_type>ls</course_type>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT22.R2214.InstructorAbleToAccessClassSectionForLs" index="140_3" method="">
+        <user_id>student_IT22_R2214_140_2</user_id>
+        <Role>student</Role>
+        <context_id>contextid_IT22_R2214_140</context_id>
+        <context_title>contexttitle_IT22_R2214_140</context_title>
+        <custom_instructor_classlist>[]</custom_instructor_classlist>
+        <launchURL>http://10.0.0.240:8080/oAuth/testUpdateRoster</launchURL>
+        <custom_destination>update_roster</custom_destination>
+        <custom_roster_changes>{"custom_course_model":"LS","custom_domain_id":"autodomain","roster_update":[{"classid":"contextid_IT22_R2214_140","userid":"student_IT22_R2214_140_2","status":"Removed"}]}</custom_roster_changes>
+        <course_type>ls</course_type>
+    </testcase>
+
+
+
+</learningspaces>

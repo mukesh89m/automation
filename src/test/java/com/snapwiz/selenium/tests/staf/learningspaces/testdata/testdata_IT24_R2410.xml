@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2410.InstructorAbleToExtendDueDateForIndividualStudent" index="10" method="">
+        <user_id>Instructor_IT24_R2410_10</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT24_R2410_10</context_id>
+        <context_title>studtitle_IT24_R2410_10</context_title>
+        <assessmentname>Assignment_IT24_R2410_10</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question set_IT24_R2410_10</questionset>
+        <questiontext>Test Question IT24_R2410_10</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_IT24_R2410_10</shareWithInitialString>
+        <shareName>studtitle_IT24_R2410_10</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2410.InstructorAbleToExtendDueDateForIndividualStudent" index="10_1" method="">
+        <user_id>student_IT24_R2410_10_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT24_R2410_10</context_id>
+        <context_title>studtitle_IT24_R2410_10</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2410.InstructorAbleToExtendDueDateForIndividualStudent" index="10_2" method="">
+        <user_id>student_IT24_R2410_10_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT24_R2410_10</context_id>
+        <context_title>studtitle_IT24_R2410_10</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2410.AutoSubmitReleaseGradeTriggerEntireClassSection" index="53" method="">
+        <user_id>Instructor_IT24_R2410_53</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT24_R2410_53</context_id>
+        <context_title>studtitle_IT24_R2410_53</context_title>
+        <assessmentname>Assignment_IT24_R2410_53</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question set_IT24_R2410_53</questionset>
+        <questiontext>Test Question IT24_R2410_53</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_IT24_R2410_53</shareWithInitialString>
+        <shareName>studtitle_IT24_R2410_53</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>10</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>Policy53</assignmentpolicyname>
+        <assignmentpolicy>Policy53</assignmentpolicy>
+        <newduedate>27</newduedate>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2410.AutoSubmitReleaseGradeTriggerEntireClassSection" index="53_1" method="">
+        <user_id>student_IT24_R2410_53_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT24_R2410_53</context_id>
+        <context_title>studtitle_IT24_R2410_53</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2410.AutoSubmitReleaseGradeTriggerEntireClassSection" index="53_2" method="">
+        <user_id>student_IT24_R2410_53_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT24_R2410_53</context_id>
+        <context_title>studtitle_IT24_R2410_53</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2410.AutoSubmitReleaseGradeTriggerEntireClassSection" index="56" method="">
+        <user_id>Instructor_IT24_R2410_56</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT24_R2410_56</context_id>
+        <context_title>studtitle_IT24_R2410_56</context_title>
+        <assessmentname>Assignment_IT24_R2410_53</assessmentname>
+        <shareWithInitialString>studtitle_IT24_R2410_56</shareWithInitialString>
+        <shareName>studtitle_IT24_R2410_56</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>10</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>Policy56</assignmentpolicyname>
+        <assignmentpolicy>Policy56</assignmentpolicy>
+        <newduedate>27</newduedate>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2410.AutoSubmitReleaseGradeTriggerEntireClassSection" index="56_1" method="">
+        <user_id>student_IT24_R2410_56_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT24_R2410_56</context_id>
+        <context_title>studtitle_IT24_R2410_56</context_title>
+        <familyname>LastName_R2410_56_1</familyname>
+        <givenname>FirstName_R2410_56_1</givenname>
+        <gradeable>true</gradeable>
+        <assessmentname>Assignment_IT24_R2410_53</assessmentname>
+        <shareWithInitialString>FirstName_R2410_56_1</shareWithInitialString>
+        <shareName>FirstName_R2410_56_1 LastName_R2410_56_1</shareName>
+        <shareWithClass>false</shareWithClass>
+        <newduedate>27</newduedate>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2410.AutoSubmitReleaseGradeTriggerEntireClassSection" index="56_2" method="">
+        <user_id>student_IT24_R2410_56_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT24_R2410_56</context_id>
+        <context_title>studtitle_IT24_R2410_56</context_title>
+        <familyname>LastName_R2410_56_2</familyname>
+        <givenname>FirstName_R2410_56_2</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2410.AutoSubmitReleaseGradeTriggerEntireClassSection" index="61" method="">
+        <user_id>Instructor_IT24_R2410_61</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT24_R2410_61</context_id>
+        <context_title>studtitle_IT24_R2410_61</context_title>
+        <assessmentname>Assignment_IT24_R2410_61</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question set_IT24_R2410_61</questionset>
+        <questiontext>Test Question IT24_R2410_61</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_IT24_R2410_61</shareWithInitialString>
+        <shareName>studtitle_IT24_R2410_61</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>10</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>Policy61</assignmentpolicyname>
+        <assignmentpolicy>Policy61</assignmentpolicy>
+        <newduedate>27</newduedate>
+        <reservforassignment>false</reservforassignment>
+        <chapterName>Ch 4: Cell Structure</chapterName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2410.AutoSubmitReleaseGradeTriggerEntireClassSection" index="61_1" method="">
+        <user_id>student_IT24_R2410_61_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT24_R2410_61</context_id>
+        <context_title>studtitle_IT24_R2410_61</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2410.AutoSubmitReleaseGradeTriggerEntireClassSection" index="61_2" method="">
+        <user_id>student_IT24_R2410_61_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT24_R2410_61</context_id>
+        <context_title>studtitle_IT24_R2410_61</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2410.AutoSubmitReleaseGradeTriggerEntireClassSection" index="64" method="">
+        <user_id>Instructor_IT24_R2410_64</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT24_R2410_64</context_id>
+        <context_title>studtitle_IT24_R2410_64</context_title>
+        <assessmentname>Assignment_IT24_R2410_61</assessmentname>
+        <shareWithInitialString>studtitle_IT24_R2410_64</shareWithInitialString>
+        <shareName>studtitle_IT24_R2410_64</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>10</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>Policy64</assignmentpolicyname>
+        <assignmentpolicy>Policy64</assignmentpolicy>
+        <newduedate>27</newduedate>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2410.AutoSubmitReleaseGradeTriggerEntireClassSection" index="64_1" method="">
+        <user_id>student_IT24_R2410_64_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT24_R2410_64</context_id>
+        <context_title>studtitle_IT24_R2410_64</context_title>
+        <familyname>LastName_R2410_64_1</familyname>
+        <givenname>FirstName_R2410_64_1</givenname>
+        <gradeable>true</gradeable>
+        <assessmentname>Assignment_IT24_R2410_61</assessmentname>
+        <shareWithInitialString>FirstName_R2410_64_1</shareWithInitialString>
+        <shareName>FirstName_R2410_64_1 LastName_R2410_64_1</shareName>
+        <shareWithClass>false</shareWithClass>
+        <newduedate>27</newduedate>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2410.AutoSubmitReleaseGradeTriggerEntireClassSection" index="64_2" method="">
+        <user_id>student_IT24_R2410_64_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT24_R2410_64</context_id>
+        <context_title>studtitle_IT24_R2410_64</context_title>
+        <familyname>LastName_R2410_64_2</familyname>
+        <givenname>FirstName_R2410_64_2</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2410.AutoSubmitReleaseGradeTriggerEntireClassSection" index="69" method="">
+        <user_id>Instructor_IT24_R2410_69</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT24_R2410_69</context_id>
+        <context_title>studtitle_IT24_R2410_69</context_title>
+        <assessmentname>New Name</assessmentname>
+        <shareWithInitialString>studtitle_IT24_R2410_69</shareWithInitialString>
+        <shareName>studtitle_IT24_R2410_69</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>10</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>Policy69</assignmentpolicyname>
+        <assignmentpolicy>Policy69</assignmentpolicy>
+        <newduedate>27</newduedate>
+        <name>New Name</name>
+        <customassignmentname>New Name</customassignmentname>
+        <name2>New Name 2</name2>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>true</searchquestion>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2410.AutoSubmitReleaseGradeTriggerEntireClassSection" index="69_1" method="">
+        <user_id>student_IT24_R2410_69_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT24_R2410_69</context_id>
+        <context_title>studtitle_IT24_R2410_69</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2410.AutoSubmitReleaseGradeTriggerEntireClassSection" index="69_2" method="">
+        <user_id>student_IT24_R2410_69_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT24_R2410_69</context_id>
+        <context_title>studtitle_IT24_R2410_69</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2410.AutoSubmitReleaseGradeTriggerEntireClassSection" index="73" method="">
+    <user_id>Instructor_IT24_R2410_73</user_id>
+    <Role>instructor</Role>
+    <context_id>studcontext_IT24_R2410_73</context_id>
+    <context_title>studtitle_IT24_R2410_73</context_title>
+    <assessmentname>New Name</assessmentname>
+    <shareWithInitialString>studtitle_IT24_R2410_73</shareWithInitialString>
+    <shareName>studtitle_IT24_R2410_73</shareName>
+    <shareWithClass>true</shareWithClass>
+    <gradeable>true</gradeable>
+    <gradingpolicy>Grading policy text</gradingpolicy>
+    <duedate>10</duedate>
+    <duetime>12:00 AM</duetime>
+    <additionalnote>This is an additional note</additionalnote>
+    <assignmentpolicyname>Policy73</assignmentpolicyname>
+    <assignmentpolicy>Policy73</assignmentpolicy>
+    <newduedate>27</newduedate>
+    <name>New Name</name>
+    <customassignmentname>New Name</customassignmentname>
+    <name2>New Name 2</name2>
+    <noOfQuestions>2</noOfQuestions>
+    <searchquestion>true</searchquestion>
+</testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2410.AutoSubmitReleaseGradeTriggerEntireClassSection" index="73_1" method="">
+        <user_id>student_IT24_R2410_73_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT24_R2410_73</context_id>
+        <context_title>studtitle_IT24_R2410_73</context_title>
+        <familyname>LastName_R2410_73_1</familyname>
+        <givenname>FirstName_R2410_73_1</givenname>
+        <gradeable>true</gradeable>
+        <assessmentname>New Name</assessmentname>
+        <shareWithInitialString>FirstName_R2410_73_1</shareWithInitialString>
+        <shareName>FirstName_R2410_73_1 LastName_R2410_73_1</shareName>
+        <shareWithClass>false</shareWithClass>
+        <newduedate>27</newduedate>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2410.AutoSubmitReleaseGradeTriggerEntireClassSection" index="73_2" method="">
+        <user_id>student_IT24_R2410_73_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT24_R2410_73</context_id>
+        <context_title>studtitle_IT24_R2410_73</context_title>
+        <familyname>LastName_R2410_73_2</familyname>
+        <givenname>FirstName_R2410_73_2</givenname>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2410.AutoSubmitReleaseGradeTriggerEntireClassSection" index="80" method="">
+        <user_id>Instructor_IT24_R2410_80</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT24_R2410_80</context_id>
+        <context_title>studtitle_IT24_R2410_80</context_title>
+        <assessmentname>What is the importance of phosphorylation in the positive regulation of the cell cycle and how might this affect the protein activity?</assessmentname>
+        <shareWithInitialString>studtitle_IT24_R2410_80</shareWithInitialString>
+        <shareName>studtitle_IT24_R2410_80</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradable>true</gradable>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>10</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>Policy80</assignmentpolicyname>
+        <assignmentpolicy>Policy80</assignmentpolicy>
+        <newduedate>27</newduedate>
+        <activityType>Discussion Assignment</activityType>
+        <totalpoints>1</totalpoints>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2410.AutoSubmitReleaseGradeTriggerEntireClassSection" index="80_1" method="">
+        <user_id>student_IT24_R2410_80_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT24_R2410_80</context_id>
+        <context_title>studtitle_IT24_R2410_80</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2410.AutoSubmitReleaseGradeTriggerEntireClassSection" index="80_2" method="">
+        <user_id>student_IT24_R2410_80_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT24_R2410_80</context_id>
+        <context_title>studtitle_IT24_R2410_80</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2410.AutoSubmitReleaseGradeTriggerEntireClassSection" index="83" method="">
+        <user_id>Instructor_IT24_R2410_83</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT24_R2410_83</context_id>
+        <context_title>studtitle_IT24_R2410_83</context_title>
+        <assessmentname>filebased assessment_83</assessmentname>
+        <shareWithInitialString>studtitle_IT24_R2410_83</shareWithInitialString>
+        <shareName>studtitle_IT24_R2410_83</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradable>true</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>10</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>Policy83</assignmentpolicyname>
+        <assignmentpolicy>Policy83</assignmentpolicy>
+        <newduedate>27</newduedate>
+        <activityType>Learning Activity</activityType>
+        <fileUpload>true</fileUpload>
+        <filename>img.jpg</filename>
+        <totalpoints>1</totalpoints>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2410.AutoSubmitReleaseGradeTriggerEntireClassSection" index="83_1" method="">
+        <user_id>student_IT24_R2410_83_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT24_R2410_83</context_id>
+        <context_title>studtitle_IT24_R2410_83</context_title>
+        <familyname>LastName_R2410_83_1</familyname>
+        <givenname>FirstName_R2410_83_1</givenname>
+        <gradeable>true</gradeable>
+        <assessmentname>filebased assessment_83</assessmentname>
+        <shareWithInitialString>FirstName_R2410_83_1</shareWithInitialString>
+        <shareName>FirstName_R2410_83_1 LastName_R2410_83_1</shareName>
+        <shareWithClass>false</shareWithClass>
+        <newduedate>27</newduedate>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2410.AutoSubmitReleaseGradeTriggerEntireClassSection" index="83_2" method="">
+        <user_id>student_IT24_R2410_83_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT24_R2410_83</context_id>
+        <context_title>studtitle_IT24_R2410_83</context_title>
+        <familyname>LastName_R2410_83_1</familyname>
+        <givenname>FirstName_R2410_83_1</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2410.AutoSubmitReleaseGradeTriggerEntireClassSection" index="121" method="">
+        <user_id>Instructor_IT24_R2410_121</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT24_R2410_121</context_id>
+        <context_title>studtitle_IT24_R2410_121</context_title>
+        <assessmentname>Assignment_IT24_R2410_53</assessmentname>
+        <shareWithInitialString>studtitle_IT24_R2410_121</shareWithInitialString>
+        <shareName>studtitle_IT24_R2410_121</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>10</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <newduedate>27</newduedate>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2410.AutoSubmitReleaseGradeTriggerEntireClassSection" index="114" method="">
+        <user_id>Instructor_IT24_R2410_114</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT24_R2410_114</context_id>
+        <context_title>studtitle_IT24_R2410_114</context_title>
+        <assessmentname>Assignment_IT24_R2410_53</assessmentname>
+        <shareWithInitialString>studtitle_IT24_R2410_114</shareWithInitialString>
+        <shareName>studtitle_IT24_R2410_114</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>10</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <newduedate>27</newduedate>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2410.AutoSubmitReleaseGradeTriggerEntireClassSection" index="114_1" method="">
+        <user_id>student_IT24_R2410_114_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT24_R2410_114</context_id>
+        <context_title>studtitle_IT24_R2410_114</context_title>
+        <familyname>LastName_R2410_114_1</familyname>
+        <givenname>FirstName_R2410_114_1</givenname>
+        <gradeable>true</gradeable>
+        <assessmentname>Assignment_IT24_R2410_53</assessmentname>
+        <shareWithInitialString>FirstName_R2410_114_1</shareWithInitialString>
+        <shareName>FirstName_R2410_114_1 LastName_R2410_114_1</shareName>
+        <shareWithClass>false</shareWithClass>
+        <newduedate>27</newduedate>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2410.AutoSubmitReleaseGradeTriggerEntireClassSection" index="114_2" method="">
+        <user_id>student_IT24_R2410_114_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT24_R2410_114</context_id>
+        <context_title>studtitle_IT24_R2410_114</context_title>
+        <familyname>LastName_R2410_114_2</familyname>
+        <givenname>FirstName_R2410_114_2</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2410.AutoSubmitReleaseGradeTriggerEntireClassSection" index="107" method="">
+        <user_id>Instructor_IT24_R2410_107</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT24_R2410_107</context_id>
+        <context_title>studtitle_IT24_R2410_107</context_title>
+        <assessmentname>Assignment_IT24_R2410_53</assessmentname>
+        <shareWithInitialString>studtitle_IT24_R2410_107</shareWithInitialString>
+        <shareName>studtitle_IT24_R2410_107</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>10</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <newduedate>27</newduedate>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2410.AutoSubmitReleaseGradeTriggerEntireClassSection" index="108" method="">
+        <user_id>student_IT24_R2410_107_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT24_R2410_107</context_id>
+        <context_title>studtitle_IT24_R2410_107</context_title>
+        <familyname>LastName_R2410_107_1</familyname>
+        <givenname>FirstName_R2410_107_1</givenname>
+        <assessmentname>Assignment_IT24_R2410_53</assessmentname>
+        <shareWithInitialString>FirstName_R2410_107_1</shareWithInitialString>
+        <shareName>FirstName_R2410_107_1 LastName_R2410_107_1</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>10</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+        <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2410.AutoSubmitReleaseGradeTriggerEntireClassSection" index="109" method="">
+        <user_id>student_IT24_R2410_107_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT24_R2410_107</context_id>
+        <context_title>studtitle_IT24_R2410_107</context_title>
+        <familyname>LastName_R2410_107_2</familyname>
+        <givenname>FirstName_R2410_107_2</givenname>
+        <assessmentname>Assignment_IT24_R2410_53</assessmentname>
+        <shareWithInitialString>LastName_R2410_107_2</shareWithInitialString>
+        <shareName>FirstName_R2410_107_2 LastName_R2410_107_2</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>10</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2410.AutoSubmitReleaseGradeTriggerEntireClassSection" index="110" method="">
+        <user_id>student_IT24_R2410_107_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT24_R2410_107</context_id>
+        <context_title>studtitle_IT24_R2410_107</context_title>
+        <familyname>LastName_R2410_107_3</familyname>
+        <givenname>FirstName_R2410_107_3</givenname>
+        <assessmentname>Assignment_IT24_R2410_53</assessmentname>
+        <shareWithInitialString>FirstName_R2410_107_3</shareWithInitialString>
+        <shareName>FirstName_R2410_107_3 LastName_R2410_107_3</shareName>
+        <shareWithClass>false</shareWithClass>
+        <newduedate>27</newduedate>
+        <gradeable>true</gradeable>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2410.AutoSubmitReleaseGradeTriggerEntireClassSection" index="105" method="">
+        <user_id>Instructor_IT24_R2410_105</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT24_R2410_105</context_id>
+        <context_title>studtitle_IT24_R2410_105</context_title>
+        <assessmentname>Assignment_IT24_R2410_53</assessmentname>
+        <shareWithInitialString>studtitle_IT24_R2410_105</shareWithInitialString>
+        <shareName>studtitle_IT24_R2410_105</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <gradingpolicystatus>true</gradingpolicystatus>
+        <duedate>10</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <newduedate>27</newduedate>
+        <resourcesname>A_Resources105</resourcesname>
+        <resoursename>A_Resources105</resoursename>
+        <description>description text</description>
+        <filename>img.jpg</filename>
+        <reserveforassignment>false</reserveforassignment>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2410.InstructorAbleToExtendDueDateForIndividualStudent" index="32" method="">
+        <user_id>Instructor_IT24_R2410_32</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT24_R2410_32</context_id>
+        <context_title>studtitle_IT24_R2410_32</context_title>
+        <assessmentname>ORION Ch 2: The Chemical Foundation of Life</assessmentname>
+        <shareWithInitialString>studtitle_IT24_R2410_32</shareWithInitialString>
+        <shareName>studtitle_IT24_R2410_32</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <gradingpolicystatus>true</gradingpolicystatus>
+        <duedate>10</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <newduedate>27</newduedate>
+        <fileUpload>true</fileUpload>
+        <filename>img.jpg</filename>
+        <totalpoints>1</totalpoints>
+        <reserveforassignment>true</reserveforassignment>
+        <resourcesname>A_Resources32</resourcesname>
+        <resoursename>A_Resources32</resoursename>
+        <gradingpolicystatus>false</gradingpolicystatus>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2410.InstructorAbleToExtendDueDateForIndividualStudent" index="32_1" method="">
+        <user_id>student_IT24_R2410_32_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT24_R2410_32</context_id>
+        <context_title>studtitle_IT24_R2410_32</context_title>
+        <familyname>LastName_R2410_32_1</familyname>
+        <givenname>FirstName_R2410_32_1</givenname>
+        <assessmentname>ORION Ch 2: The Chemical Foundation of Life</assessmentname>
+        <shareWithInitialString>FirstName_R2410_32_1</shareWithInitialString>
+        <shareName>FirstName_R2410_32_1 LastName_R2410_32_1</shareName>
+        <shareWithClass>false</shareWithClass>
+        <newduedate>27</newduedate>
+        <gradeable>true</gradeable>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2410.InstructorAbleToExtendDueDateForIndividualStudent" index="33" method="">
+        <assessmentname>What is the importance of phosphorylation in the positive regulation of the cell cycle and how might this affect the protein activity?</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2410.InstructorAbleToExtendDueDateForIndividualStudent" index="34" method="">
+        <assessmentname>Ch 1:The Study of Life</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2410.InstructorAbleToExtendDueDateForIndividualStudent" index="35" method="">
+        <assessmentname>A_Resources32</assessmentname>
+        <resourceappendchar>true</resourceappendchar>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2410.AutoSubmitReleaseGradeTriggerEntireClassSection" index="87" method="">
+        <user_id>Instructor_IT24_R2410_87</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT24_R2410_87</context_id>
+        <context_title>studtitle_IT24_R2410_87</context_title>
+        <assessmentname>Assignment_IT24_R2410_53</assessmentname>
+        <shareWithInitialString>studtitle_IT24_R2410_87</shareWithInitialString>
+        <shareName>studtitle_IT24_R2410_87</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>10</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <newduedate>27</newduedate>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2410.AutoSubmitReleaseGradeTriggerEntireClassSection" index="87_1" method="">
+        <user_id>student_IT24_R2410_87_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT24_R2410_87</context_id>
+        <context_title>studtitle_IT24_R2410_87</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2410.AutoSubmitReleaseGradeTriggerEntireClassSection" index="87_2" method="">
+        <user_id>student_IT24_R2410_87_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT24_R2410_87</context_id>
+        <context_title>studtitle_IT24_R2410_87</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2410.AutoSubmitReleaseGradeTriggerEntireClassSection" index="90" method="">
+        <user_id>Instructor_IT24_R2410_90</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT24_R2410_90</context_id>
+        <context_title>studtitle_IT24_R2410_90</context_title>
+        <assessmentname>Assignment_IT24_R2410_53</assessmentname>
+        <shareWithInitialString>studtitle_IT24_R2410_90</shareWithInitialString>
+        <shareName>studtitle_IT24_R2410_90</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>10</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <newduedate>27</newduedate>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2410.AutoSubmitReleaseGradeTriggerEntireClassSection" index="90_1" method="">
+        <user_id>student_IT24_R2410_90_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT24_R2410_90</context_id>
+        <context_title>studtitle_IT24_R2410_90</context_title>
+        <familyname>LastName_R2410_90_1</familyname>
+        <givenname>FirstName_R2410_90_1</givenname>
+        <gradeable>false</gradeable>
+        <assessmentname>Assignment_IT24_R2410_53</assessmentname>
+        <shareWithInitialString>FirstName_R2410_90_1</shareWithInitialString>
+        <shareName>FirstName_R2410_90_1 LastName_R2410_90_1</shareName>
+        <shareWithClass>false</shareWithClass>
+        <newduedate>27</newduedate>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2410.AutoSubmitReleaseGradeTriggerEntireClassSection" index="90_2" method="">
+        <user_id>student_IT24_R2410_90_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT24_R2410_90</context_id>
+        <context_title>studtitle_IT24_R2410_90</context_title>
+        <familyname>LastName_R2410_90_2</familyname>
+        <givenname>FirstName_R2410_90_2</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.IT24.R2410.AutoSubmitReleaseGradeTriggerEntireClassSection" index="100" method="">
+        <user_id>Instructor_IT24_R2410_100</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT24_R2410_100</context_id>
+        <context_title>studtitle_IT24_R2410_100</context_title>
+        <assessmentname>Assignment_IT24_R2410_53</assessmentname>
+        <shareWithInitialString>studtitle_IT24_R2410_100</shareWithInitialString>
+        <shareName>studtitle_IT24_R2410_100</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>10</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>Policy100</assignmentpolicyname>
+        <assignmentpolicy>Policy100</assignmentpolicy>
+        <newduedate>27</newduedate>
+    </testcase>
+</learningspaces>

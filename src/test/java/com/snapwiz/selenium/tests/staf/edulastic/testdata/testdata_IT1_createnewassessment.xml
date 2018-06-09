@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edulastic>
+<testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.createnewassessment.PerfAssignmentCreation" index ="1" method="">
+    <assessmentname>JAssessment 1</assessmentname>
+    <questiontext>Question</questiontext>
+    <learningobjective>true</learningobjective>
+    <shareWithClass>true</shareWithClass>
+    <duedate>28</duedate>
+    <duetime>12:00 AM</duetime>
+    <gradable>true</gradable>
+    <description>description text</description>
+    <tags>tags tags</tags>
+    <privacy>Private</privacy>
+</testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.createnewassessment.CreateNewAssessment" index ="110" method="">
+        <assessmentname>Create Assessment 110</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.createnewassessment.CreateNewAssessment" index ="115" method="">
+        <assessmentname>Create Assessment 115</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.createnewassessment.CreateNewAssessment" index ="130" method="">
+        <assessmentname>Create Assessment 130</assessmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.edulastic.testcases.IT1.createnewassessment.CreateNewAssessment" index ="134" method="">
+        <assessmentname>Create Assessment 134</assessmentname>
+    </testcase>
+
+
+ </edulastic>

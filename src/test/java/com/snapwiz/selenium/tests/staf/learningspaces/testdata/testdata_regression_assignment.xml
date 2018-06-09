@@ -1,0 +1,1867 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningspaces>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CustomAssignment" index="69"	method="">
+        <user_id>instructor_IT16_R163_69</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT16_R163_69</context_id>
+        <context_title>studtitle_IT16_R163_69</context_title>
+        <assessmentname>69 Assessment</assessmentname>
+        <questionset>69 Question Set</questionset>
+        <questiontext>69</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <name>IT16_R163_69CustomAssignment</name>
+        <shareWithInitialString>studtitle_IT16_R163_69</shareWithInitialString>
+        <shareName>studtitle_IT16_R163_69</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <customassignmentname>IT16_R163_69CustomAssignment</customassignmentname>
+        <name2>IT16_R163_69CustomAssignment2</name2>
+        <noOfQuestions>1</noOfQuestions>
+        <searchquestion>True False 69</searchquestion>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CustomAssignment" index="134"	method="">
+        <user_id>IT11_R22_instructor_134</user_id>
+        <Role>instructor</Role>
+        <noOfQuestions>4</noOfQuestions>
+    </testcase>
+
+    <testcase id="tocdata" index="1">
+        <searchtext>true</searchtext>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CustomAssignment" index="231"	method="">
+        <context_id>studcontext_IT18_R1818_231</context_id>
+        <context_title>studtitle_IT18_R1818_231</context_title>
+        <assessmentname>231 Assessment</assessmentname>
+        <questionset>231 Question Set</questionset>
+        <questiontext>231 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <name>New Name</name>
+        <shareWithInitialString>studtitle_IT18_R1818_231</shareWithInitialString>
+        <shareName>studtitle_IT18_R1818_231</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <customassignmentname>New Name</customassignmentname>
+        <name2>New Name 2</name2>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <user_id>instructor_IT1818_231</user_id>
+        <Role>instructor</Role>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CustomAssignment" index="51"	method="">
+        <user_id>instructor_IT1818_51_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT18_R1818_51_2</context_id>
+        <context_title>studtitle_IT18_R1818_51_2</context_title>
+        <assessmentname>New Name</assessmentname>
+        <questionset>51 Question Set</questionset>
+        <questiontext>51 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <name>New Name</name>
+        <shareWithInitialString>studtitle_IT18_R1818_51_2</shareWithInitialString>
+        <shareName>studtitle_IT18_R1818_51_2</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <customassignmentname>New Name</customassignmentname>
+        <name2>New Name 2</name2>
+        <noOfQuestions>4</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <studentname>givenname family</studentname>
+        <grade>0.8</grade>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CustomAssignment" index="55"	method="">
+        <user_id>student_IT1818_55</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1818_51_2</context_id>
+        <context_title>studtitle_IT18_R1818_51_2</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CustomAssignment" index="65"	method="">
+        <user_id>instructor_IT1818_65</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT18_R1818_65</context_id>
+        <context_title>studtitle_IT18_R1818_65</context_title>
+        <assessmentname>65 New Name_IT1818</assessmentname>
+        <questionset>65 Question Set</questionset>
+        <questiontext>65 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <name>New Name</name>
+        <shareWithInitialString>studtitle_IT18_R1818_65</shareWithInitialString>
+        <shareName>studtitle_IT18_R1818_65</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <customassignmentname>65 New Name_IT1818</customassignmentname>
+        <name2>New Name 2</name2>
+        <noOfQuestions>3</noOfQuestions>
+        <searchquestion>True False 65</searchquestion>
+        <studentname>givenname family</studentname>
+        <grade>0.8</grade>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CustomAssignment" index="65_1"	method="">
+        <user_id>student_IT1818_65_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1818_65</context_id>
+        <context_title>studtitle_IT18_R1818_65</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CustomAssignment" index="65_2"	method="">
+        <user_id>student_IT1818_65_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1818_65</context_id>
+        <context_title>studtitle_IT18_R1818_65</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CustomAssignment" index="65_3"	method="">
+        <user_id>student_IT1818_65_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1818_65</context_id>
+        <context_title>studtitle_IT18_R1818_65</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CustomAssignment" index="65_4"	method="">
+        <user_id>student_IT1818_65_4</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1818_65</context_id>
+        <context_title>studtitle_IT18_R1818_65</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CustomAssignment" index="99"	method="">
+        <user_id>instructor_IT1818_99</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT18_R1818_99</context_id>
+        <context_title>studtitle_IT18_R1818_99</context_title>
+        <assessmentname>New Name</assessmentname>
+        <questionset>99 Question Set</questionset>
+        <questiontext>99 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <name>New Name</name>
+        <shareWithInitialString>studtitle_IT18_R1818_99</shareWithInitialString>
+        <shareName>studtitle_IT18_R1818_99</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <customassignmentname>New Name</customassignmentname>
+        <name2>New Name 2</name2>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <studentname>givenname family</studentname>
+        <grade>0.8</grade>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CustomAssignment" index="99_1"	method="">
+        <user_id>student_IT1818_99_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1818_99</context_id>
+        <context_title>studtitle_IT18_R1818_99</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CustomAssignment" index="99_2"	method="">
+        <user_id>student_IT1818_99_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1818_99</context_id>
+        <context_title>studtitle_IT18_R1818_99</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CustomAssignment" index="101"	method="">
+        <user_id>instructor_IT1818_101</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT18_R1818_101_1</context_id>
+        <context_title>studtitle_IT18_R1818_101_1</context_title>
+        <assignmentpolicyname>Policy101</assignmentpolicyname>
+        <assignmentpolicy>Policy101</assignmentpolicy>
+        <assessmentname>New Name</assessmentname>
+        <questionset>101 Question Set</questionset>
+        <questiontext>101 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <name>New Name</name>
+        <shareWithInitialString>studtitle_IT18_R1818_101_1</shareWithInitialString>
+        <shareName>studtitle_IT18_R1818_101_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>15</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <customassignmentname>New Name</customassignmentname>
+        <name2>New Name 2</name2>
+        <noOfQuestions>3</noOfQuestions>
+        <searchquestion>True False</searchquestion>
+        <studentname>givenname family</studentname>
+        <grade>0.8</grade>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CustomAssignment" index="101_1"	method="">
+        <user_id>student_IT1818_101_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1818_101_1</context_id>
+        <context_title>studtitle_IT18_R1818_101_1</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CustomAssignment" index="101_2"	method="">
+        <user_id>student_IT1818_101_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1818_101_1</context_id>
+        <context_title>studtitle_IT18_R1818_101_1</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CustomAssignment" index="109" method="" >
+        <user_id>instructor_IT1818_109_1111</user_id>
+        <Role>instructor</Role>
+        <course>Science 8 - Bio Principles</course>
+        <context_id>studcontext_IT18_R1818_109_3</context_id>
+        <context_title>studtitle_IT18_R1818_109_3</context_title>
+        <assignmentpolicyname>Policy111</assignmentpolicyname>
+        <assignmentpolicy>Policy111</assignmentpolicy>
+        <assessmentname>65 New Name_IT1818</assessmentname>
+        <questionset>109 Question Set</questionset>
+        <questiontext>109 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <name>65 New Name_IT1818</name>
+        <shareWithInitialString>studtitle_IT18_R1818_109_3</shareWithInitialString>
+        <shareName>studtitle_IT18_R1818_109_3</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <customassignmentname>65 New Name_IT1818</customassignmentname>
+        <name2>New Name 2</name2>
+        <noOfQuestions>3</noOfQuestions>
+        <searchquestion>True False 65</searchquestion>
+        <studentname>givenname family</studentname>
+        <grade>0.8</grade>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CustomAssignment" index="109_1" method="" >
+        <user_id>student_IT1818_109_1_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1818_109_3</context_id>
+        <context_title>studtitle_IT18_R1818_109_3</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CustomAssignment" index="109_2" method="" >
+        <user_id>student_IT1818_109_2_4</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1818_109_3</context_id>
+        <context_title>studtitle_IT18_R1818_109_3</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CustomAssignment" index="109_3" method="" >
+        <user_id>student_IT1818_109_3_5</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1818_109_3</context_id>
+        <context_title>studtitle_IT18_R1818_109_3</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CustomAssignment" index="113" method="" >
+        <user_id>instructor_IT1818_113</user_id>
+        <Role>instructor</Role>
+        <course>Science 8 - Bio Principles</course>
+        <context_id>studcontext_IT18_R1818_113</context_id>
+        <context_title>studtitle_IT18_R1818_113</context_title>
+        <assignmentpolicyname>Policy113</assignmentpolicyname>
+        <assignmentpolicy>Policy113</assignmentpolicy>
+        <assessmentname>69 Assessment</assessmentname>
+        <questionset>113 Test Question</questionset>
+        <questiontext>113 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <name>69 Assessment</name>
+        <shareWithInitialString>studtitle_IT18_R1818_113</shareWithInitialString>
+        <shareName>studtitle_IT18_R1818_113</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <customassignmentname>69 Assessment</customassignmentname>
+        <name2>New Name 2</name2>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>69</searchquestion>
+        <studentname>givenname family</studentname>
+        <grade>0.8</grade>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CustomAssignment" index="113_1" method="" >
+        <user_id>student_IT1818_113_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1818_113</context_id>
+        <context_title>studtitle_IT18_R1818_113</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CustomAssignment" index="113_2" method="" >
+        <user_id>student_IT1818_113_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1818_113</context_id>
+        <context_title>studtitle_IT18_R1818_113</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CustomAssignment" index="113_3" method="" >
+        <user_id>student_IT1818_113_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT18_R1818_113</context_id>
+        <context_title>studtitle_IT18_R1818_113</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CustomAssignment" index="21" method="" >
+        <user_id>IT21_R215_instructor_21</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT21_R215_21</context_id>
+        <context_title>studtitle_IT21_R215_21</context_title>
+        <noOfQuestions>1</noOfQuestions>
+        <customassignmentname>New_Name</customassignmentname>
+        <shareWithInitialString>studtitle_IT21_R215_21</shareWithInitialString>
+        <shareName>studtitle_IT21_R215_21</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CustomAssignment" index="66" method="" >
+        <user_id>IT21_R215_instructor_66</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT21_R215_66</context_id>
+        <context_title>studtitle_IT21_R215_66</context_title>
+        <noOfQuestions>1</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <customassignmentname>New Name</customassignmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CustomAssignment" index="102" method="" >
+        <user_id>IT21_R215_instructor_102</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT21_R215_102</context_id>
+        <context_title>studtitle_IT21_R215_102</context_title>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <customassignmentname>New Name</customassignmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CustomAssignment" index="121" method="" >
+        <user_id>IT21_R215_instructor_121</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT21_R215_121</context_id>
+        <context_title>studtitle_IT21_R215_121</context_title>
+        <noOfQuestions>3</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <customassignmentname>New Name</customassignmentname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CustomAssignment" index="160" method="">
+        <user_id>instructor_IT23_R236_160</user_id>
+        <Role>instructor</Role>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CustomAssignment" index="32" method="" >
+        <user_id>IT22_R225_instructor_32</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_32</context_id>
+        <context_title>studtitle_IT22_R225_32</context_title>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <customassignmentname>New Name</customassignmentname>
+        <custom_domainid>IT22_R225_autodomain_32</custom_domainid >
+        <custom_domain_name>IT22_R225_studtitle_32</custom_domain_name>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CustomAssignment" index="321" method="" >
+        <user_id>IT22_R225_instructor_321</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_321</context_id>
+        <context_title>studtitle_IT22_R225_321</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+        <custom_domainid>IT22_R225_autodomain_32</custom_domainid >
+        <custom_domain_name>IT22_R225_studtitle_32</custom_domain_name>
+        <shareName>givenname1 family1</shareName>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CustomAssignment" index="322" method="" >
+        <user_id>IT22_R225_instructor_322</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_322</context_id>
+        <context_title>studtitle_IT22_R225_323</context_title>
+        <familyname>family2</familyname>
+        <givenname>givenname2</givenname>
+        <custom_domainid>IT22_R225_autodomain_32</custom_domainid >
+        <custom_domain_name>IT22_R225_studtitle_32</custom_domain_name>
+        <shareName>givenname2 family2</shareName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CustomAssignment" index="41" method="" >
+        <user_id>IT22_R225_instructor_41</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_41</context_id>
+        <context_title>studtitle_IT22_R225_41</context_title>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <customassignmentname>New Name</customassignmentname>
+        <custom_domainid>IT22_R225_autodomain_41</custom_domainid >
+        <custom_domain_name>IT22_R225_studtitle_41</custom_domain_name>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CustomAssignment" index="411" method="" >
+        <user_id>IT22_R225_instructor_411</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_411</context_id>
+        <context_title>studtitle_IT22_R225_411</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+        <custom_domainid>IT22_R225_autodomain_41</custom_domainid >
+        <custom_domain_name>IT22_R225_studtitle_41</custom_domain_name>
+        <shareName>givenname1 family1</shareName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CustomAssignment" index="46" method="" >
+        <user_id>IT22_R225_instructor_46</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_46</context_id>
+        <context_title>studtitle_IT22_R225_46</context_title>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <customassignmentname>New Name</customassignmentname>
+        <custom_domainid>IT22_R225_autodomain_46</custom_domainid >
+        <custom_domain_name>IT22_R225_studtitle_46</custom_domain_name>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CustomAssignment" index="461" method="" >
+        <user_id>IT22_R225_instructor_461</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_461</context_id>
+        <context_title>studtitle_IT22_R225_461</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+        <custom_domainid>IT22_R225_autodomain_46</custom_domainid >
+        <custom_domain_name>IT22_R225_studtitle_46</custom_domain_name>
+        <shareName>givenname1 family1</shareName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CustomAssignment" index="47" method="" >
+        <user_id>IT22_R225_instructor_46</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_46</context_id>
+        <context_title>studtitle_IT22_R225_46</context_title>
+        <noOfQuestions>1</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <customassignmentname>New Name</customassignmentname>
+        <custom_domainid>IT22_R225_autodomain_46</custom_domainid >
+        <custom_domain_name>IT22_R225_studtitle_46</custom_domain_name>
+        <shareWithInitialString>studtitle_IT22_R225_461</shareWithInitialString>
+        <shareName>studtitle_IT22_R225_461</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CustomAssignment" index="58" method="" >
+        <user_id>IT22_R225_instructor_58</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_58</context_id>
+        <context_title>studtitle_IT22_R225_58</context_title>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <customassignmentname>New Name</customassignmentname>
+        <custom_domainid>IT22_R225_autodomain_58</custom_domainid >
+        <custom_domain_name>IT22_R225_studtitle_58</custom_domain_name>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CustomAssignment" index="581" method="" >
+        <user_id>IT22_R225_instructor_581</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_581</context_id>
+        <context_title>studtitle_IT22_R225_581</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+        <custom_domainid>IT22_R225_autodomain_58</custom_domainid >
+        <custom_domain_name>IT22_R225_studtitle_58</custom_domain_name>
+        <shareName>givenname1 family1</shareName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CustomAssignment" index="63" method="" >
+        <user_id>IT22_R225_instructor_63</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_63</context_id>
+        <context_title>studtitle_IT22_R225_63</context_title>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <customassignmentname>New Name</customassignmentname>
+        <custom_domainid>IT22_R225_autodomain_63</custom_domainid >
+        <custom_domain_name>IT22_R225_studtitle_63</custom_domain_name>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CustomAssignment" index="631" method="" >
+        <user_id>IT22_R225_instructor_631</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_631</context_id>
+        <context_title>studtitle_IT22_R225_631</context_title>
+        <familyname>family1</familyname>
+        <givenname>givenname1</givenname>
+        <custom_domainid>IT22_R225_autodomain_63</custom_domainid >
+        <custom_domain_name>IT22_R225_studtitle_63</custom_domain_name>
+        <shareName>givenname1 family1</shareName>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CustomAssignment" index="69" method="" >
+        <user_id>IT22_R225_instructor_69</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_69</context_id>
+        <context_title>studtitle_IT22_R225_69</context_title>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <customassignmentname>New Name</customassignmentname>
+        <custom_domainid>IT22_R225_autodomain_69</custom_domainid >
+        <custom_domain_name>IT22_R225_studtitle_69</custom_domain_name>
+        <shareWithInitialString>studtitle_IT22_R225_69</shareWithInitialString>
+        <shareName>studtitle_IT22_R225_69</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CustomAssignment" index="70" method="" >
+        <user_id>IT22_R225_instructor_69</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_69_1</context_id>
+        <context_title>studtitle_IT22_R225_69_1</context_title>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <customassignmentname>New Name</customassignmentname>
+        <custom_domainid>IT22_R225_autodomain_69</custom_domainid >
+        <custom_domain_name>IT22_R225_studtitle_69</custom_domain_name>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CustomAssignment" index="71" method="" >
+        <user_id>IT22_R225_instructor_69</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_69_2</context_id>
+        <context_title>studtitle_IT22_R225_69_2</context_title>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <customassignmentname>New Name</customassignmentname>
+        <custom_domainid>IT22_R225_autodomain_69</custom_domainid >
+        <custom_domain_name>IT22_R225_studtitle_69</custom_domain_name>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CustomAssignment" index="72" method="" >
+        <user_id>IT22_R225_instructor_72</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_69_1</context_id>
+        <context_title>studtitle_IT22_R225_69_1</context_title>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <familyname>family2</familyname>
+        <givenname>givenname2</givenname>
+        <customassignmentname>New Name</customassignmentname>
+        <custom_domainid>IT22_R225_autodomain_69</custom_domainid >
+        <custom_domain_name>IT22_R225_studtitle_69</custom_domain_name>
+        <shareName>givenname2 family2</shareName>
+
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CustomAssignment" index="73" method="" >
+        <user_id>IT22_R225_instructor_73</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_69_2</context_id>
+        <context_title>studtitle_IT22_R225_69_2</context_title>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <familyname>family3</familyname>
+        <givenname>givenname3</givenname>
+        <customassignmentname>New Name</customassignmentname>
+        <custom_domainid>IT22_R225_autodomain_69</custom_domainid >
+        <custom_domain_name>IT22_R225_studtitle_69</custom_domain_name>
+        <shareName>givenname3 family3</shareName>
+
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CustomAssignment" index="150" method="" >
+        <context_id>IT20_R201_studcontext_150</context_id>
+        <context_title>IT20_R201_studtitle_150</context_title>
+        <name>New Name</name>
+        <customassignmentname>New Name</customassignmentname>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <user_id>IT20_R201_instructor_150</user_id>
+        <Role>instructor</Role>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CustomAssignment" index="175" method="" >
+        <context_id>IT20_R201_studcontext_175</context_id>
+        <context_title>IT20_R201_studtitle_175</context_title>
+        <name>New Name</name>
+        <customassignmentname>New Name</customassignmentname>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>true</searchquestion>
+        <user_id>IT20_R201_instructor_175</user_id>
+        <Role>instructor</Role>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CustomAssignment" index="167" method="" >
+        <user_id>IT20_R201_instructor_167</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R201_studcontext_167</context_id>
+        <context_title>IT20_R201_studtitle_167</context_title>
+        <assessmentname>Assignment_IT20_201_167</assessmentname>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT20_201_167</questionset>
+        <questiontext>Test Question for IT20_201_167</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <questionset>Test Question Set of IT20_201_167</questionset>
+        <name>New Name</name>
+        <customassignmentname>New Name</customassignmentname>
+        <noOfQuestions>4</noOfQuestions>
+        <searchquestion>IT20_201_167</searchquestion>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CustomAssignment" index="184" method="" >
+        <user_id>IT20_R201_instructor_184</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R201_studcontext_184</context_id>
+        <context_title>IT20_R201_studtitle_184</context_title>
+        <name>New Name</name>
+        <customassignmentname>New Name</customassignmentname>
+        <noOfQuestions>2</noOfQuestions>
+        <searchquestion>true</searchquestion>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CustomAssignment" index="200" method="" >
+        <user_id>IT20_R201_instructor_200</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R201_studcontext_200</context_id>
+        <context_title>IT20_R201_studtitle_200</context_title>
+        <name>New Name</name>
+        <customassignmentname>New Name</customassignmentname>
+        <noOfQuestions>1</noOfQuestions>
+        <searchquestion>true</searchquestion>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CustomAssignment" index="200" method="" >
+        <user_id>IT20_R201_instructor_200</user_id>>
+        <Role>instructor</Role>
+        <context_id>IT20_R201_studcontext_200</context_id>
+        <context_title>IT20_R201_studtitle_200</context_title>
+        <name>New Name</name>
+        <customassignmentname>New Name</customassignmentname>
+        <noOfQuestions>1</noOfQuestions>
+        <searchquestion>true</searchquestion>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CustomAssignment" index="201" method="" >
+        <noOfQuestions>1</noOfQuestions>
+        <searchquestion>true</searchquestion>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CustomAssignment" index="202" method="" >
+        <noOfQuestions>1</noOfQuestions>
+        <searchquestion>true</searchquestion>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CustomAssignment" index="2011" method="" >
+        <noOfQuestions>1</noOfQuestions>
+        <searchquestion>true</searchquestion>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CustomAssignment" index="2021" method="" >
+        <noOfQuestions>1</noOfQuestions>
+        <searchquestion>true</searchquestion>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CustomAssignment" index="300" method="" >
+        <user_id>IT22_R225_instructor_300</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT22_R225_300</context_id>
+        <context_title>studtitle_IT22_R225_300</context_title>
+        <noOfQuestions>1</noOfQuestions>
+        <searchquestion>essay</searchquestion>
+        <customassignmentname>New Name</customassignmentname>
+        <custom_domainid>IT22_R225_autodomain_300</custom_domainid >
+        <custom_domain_name>IT22_R225_studtitle_300</custom_domain_name>
+        <shareWithInitialString>studtitle_IT22_R225_300</shareWithInitialString>
+        <shareName>studtitle_IT22_R225_300</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <!--POLICY class test data-->
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.Policy" index="1" method="createByDefaultPolicy">
+        <user_id>regression_assignment_instructor_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_regression_assignment_1</context_id>
+        <context_title>studtitle_regression_assignment_1</context_title>
+        <assignmentpolicyname>1 Policy Name</assignmentpolicyname>
+        <assessmentname>Assignment_regression_assignment_1</assessmentname>
+        <questionset>regression_questionset</questionset>
+        <questiontext>regression_question_text</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_regression_assignment_1</shareWithInitialString>
+        <shareName>studtitle_regression_assignment_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>createDefaultPolicy</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.Policy" index="1_1" method="createByDefaultPolicy">
+        <user_id>regression_assignment_student_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_regression_assignment_1</context_id>
+        <context_title>studtitle_regression_assignment_1</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.Policy" index="68" method="immediateFeedEnabledWithGradeReleaseOptionFour">
+        <user_id>regression_assignment_instructor_68</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_regression_assignment_68</context_id>
+        <context_title>studtitle_regression_assignment_68</context_title>
+        <assignmentpolicyname>68_Policy_Name</assignmentpolicyname>
+        <assessmentname>Assignment_regression_assignment_68</assessmentname>
+        <questionset>68questionset</questionset>
+        <questiontext>68 question text</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_regression_assignment_68</shareWithInitialString>
+        <shareName>studtitle_regression_assignment_68</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>68_Policy_Name</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.Policy" index="68_1" method="immediateFeedEnabledWithGradeReleaseOptionFour">
+        <user_id>regression_assignment_student_68_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_regression_assignment_68</context_id>
+        <context_title>studtitle_regression_assignment_68</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.Policy" index="70" method="immediateFeedEnabledWithGradeReleaseOptionFour">
+        <user_id>regression_assignment_instructor_70</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_regression_assignment_70</context_id>
+        <context_title>studtitle_regression_assignment_70</context_title>
+        <assignmentpolicyname>70_Policy_Name</assignmentpolicyname>
+        <assessmentname>Assignment_regression_assignment_68</assessmentname>
+        <shareWithInitialString>studtitle_regression_assignment_70</shareWithInitialString>
+        <shareName>studtitle_regression_assignment_70</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>70_Policy_Name</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.Policy" index="70_1" method="immediateFeedEnabledWithGradeReleaseOptionFour">
+        <user_id>regression_assignment_student_70_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_regression_assignment_70</context_id>
+        <context_title>studtitle_regression_assignment_70</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.Policy" index="52" method="immediateFeedEnabledWithGradeReleaseOptionFour">
+        <user_id>regression_assignment_instructor_52</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_regression_assignment_52</context_id>
+        <context_title>studtitle_regression_assignment_52</context_title>
+        <assignmentpolicyname>52_Policy_Name</assignmentpolicyname>
+        <assessmentname>Assignment_regression_assignment_68</assessmentname>
+        <shareWithInitialString>studtitle_regression_assignment_52</shareWithInitialString>
+        <shareName>studtitle_regression_assignment_52</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>52_Policy_Name</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.Policy" index="52_1" method="immediateFeedEnabledWithGradeReleaseOptionFour">
+        <user_id>regression_assignment_student_52_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_regression_assignment_52</context_id>
+        <context_title>studtitle_regression_assignment_52</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.Policy" index="36" method="immediateFeedEnabledWithGradeReleaseOptionFour">
+        <user_id>regression_assignment_instructor_36</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_regression_assignment_36</context_id>
+        <context_title>studtitle_regression_assignment_36</context_title>
+        <assignmentpolicyname>36_Policy_Name</assignmentpolicyname>
+        <assessmentname>Assignment_regression_assignment_68</assessmentname>
+        <shareWithInitialString>studtitle_regression_assignment_36</shareWithInitialString>
+        <shareName>studtitle_regression_assignment_36</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>36_Policy_Name</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.Policy" index="36_1" method="immediateFeedEnabledWithGradeReleaseOptionFour">
+        <user_id>regression_assignment_student_36_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_regression_assignment_36</context_id>
+        <context_title>studtitle_regression_assignment_36</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.Policy" index="162" method="immediateFeedShowAnswerEnabledWithGradeReleaseOptionFour">
+        <user_id>regression_assignmentInstructor_162</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_regression_assignment_162</context_id>
+        <context_title>studtitle_regression_assignment_162</context_title>
+        <assessmentname>Assignment_regression_assignment_162_1</assessmentname>
+        <questionset>162questionset</questionset>
+        <questiontext>162 question text</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_regression_assignment_162</shareWithInitialString>
+        <shareName>studtitle_regression_assignment_162</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>162_2 Policy Name</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>162_2 Policy Name</assignmentpolicyname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.Policy" index="162_1" method="immediateFeedShowAnswerEnabledWithGradeReleaseOptionFour">
+        <user_id>regression_assignmentstudent_162_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_regression_assignment_162</context_id>
+        <context_title>studtitle_regression_assignment_162</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.Policy" index="84" method="immediateFeedShowAnswerEnabledWithGradeReleaseOptionFour">
+        <user_id>regression_assignmentInstructor_84</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_regression_assignment_84</context_id>
+        <context_title>studtitle_regression_assignment_84</context_title>
+        <assessmentname>Assignment_regression_assignment_162_1</assessmentname>
+        <shareWithInitialString>studtitle_regression_assignment_84</shareWithInitialString>
+        <shareName>studtitle_regression_assignment_84</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>84_2 Policy Name</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>84_2 Policy Name</assignmentpolicyname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.Policy" index="84_1" method="immediateFeedShowAnswerEnabledWithGradeReleaseOptionFour">
+        <user_id>regression_assignmentstudent_84_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_regression_assignment_84</context_id>
+        <context_title>studtitle_regression_assignment_84</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.Policy" index="110" method="immediateFeedShowAnswerEnabledWithGradeReleaseOptionFour">
+        <user_id>regression_assignmentInstructor_110</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_regression_assignment_110</context_id>
+        <context_title>studtitle_regression_assignment_110</context_title>
+        <assessmentname>Assignment_regression_assignment_162_1</assessmentname>
+        <shareWithInitialString>studtitle_regression_assignment_110</shareWithInitialString>
+        <shareName>studtitle_regression_assignment_110</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>110_2 Policy Name</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>110_2 Policy Name</assignmentpolicyname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.Policy" index="110_1" method="immediateFeedShowAnswerEnabledWithGradeReleaseOptionFour">
+        <user_id>regression_assignmentstudent_110_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_regression_assignment_110</context_id>
+        <context_title>studtitle_regression_assignment_110</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.Policy" index="111" method="submitAssignmentWithCollaborationDisabled">
+        <user_id>regression_assignmentInstructor_111</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_regression_assignment_111</context_id>
+        <context_title>studtitle_regression_assignment_111</context_title>
+        <assessmentname>Assignment_regression_assignment_111_1</assessmentname>
+        <questionset>111questionset</questionset>
+        <questiontext>111 question text</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_regression_assignment_111</shareWithInitialString>
+        <shareName>studtitle_regression_assignment_111</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>111_2 Policy Name</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <policyname>111_2 Policy Name</policyname>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>111_2 Policy Name</assignmentpolicyname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.Policy" index="111_1" method="submitAssignmentWithCollaborationDisabled">
+        <user_id>regression_assignmentstudent_111_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_regression_assignment_111</context_id>
+        <context_title>studtitle_regression_assignment_111</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.Policy" index="111_2" method="submitAssignmentWithCollaborationDisabled">
+        <user_id>regression_assignmentstudent_111_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_regression_assignment_111</context_id>
+        <context_title>studtitle_regression_assignment_111</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.Policy" index="112" method="submitAssignmentWithCollaborationDisabled">
+        <user_id>regression_assignmentInstructor_112</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_regression_assignment_112</context_id>
+        <context_title>studtitle_regression_assignment_112</context_title>
+        <assessmentname>Assignment_regression_assignment_111_1</assessmentname>
+        <questionset>112questionset</questionset>
+        <questiontext>112 question text</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_regression_assignment_112</shareWithInitialString>
+        <shareName>studtitle_regression_assignment_112</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>112_2 Policy Name</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <policyname>112_2 Policy Name</policyname>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>112_2 Policy Name</assignmentpolicyname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.Policy" index="112_1" method="submitAssignmentWithCollaborationDisabled">
+        <user_id>regression_assignmentstudent_112_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_regression_assignment_112</context_id>
+        <context_title>studtitle_regression_assignment_112</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.Policy" index="112_2" method="submitAssignmentWithCollaborationDisabled">
+        <user_id>regression_assignmentstudent_112_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_regression_assignment_112</context_id>
+        <context_title>studtitle_regression_assignment_112</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.Policy" index="113" method="submitAssignmentWithCollaborationDisabled">
+        <user_id>regression_assignmentInstructor_113</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_regression_assignment_113</context_id>
+        <context_title>studtitle_regression_assignment_113</context_title>
+        <assessmentname>Assignment_regression_assignment_111_1</assessmentname>
+        <questionset>113questionset</questionset>
+        <questiontext>113 question text</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_regression_assignment_113</shareWithInitialString>
+        <shareName>studtitle_regression_assignment_113</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>113_2 Policy Name</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <policyname>113_2 Policy Name</policyname>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>113_2 Policy Name</assignmentpolicyname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.Policy" index="113_1" method="submitAssignmentWithCollaborationDisabled">
+        <user_id>regression_assignmentstudent_113_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_regression_assignment_113</context_id>
+        <context_title>studtitle_regression_assignment_113</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.Policy" index="113_2" method="submitAssignmentWithCollaborationDisabled">
+        <user_id>regression_assignmentstudent_113_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_regression_assignment_113</context_id>
+        <context_title>studtitle_regression_assignment_113</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.Policy" index="114" method="submitAssignmentWithCollaborationDisabled">
+        <user_id>regression_assignmentInstructor_114</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_regression_assignment_114</context_id>
+        <context_title>studtitle_regression_assignment_114</context_title>
+        <assessmentname>Assignment_regression_assignment_111_1</assessmentname>
+        <questionset>114questionset</questionset>
+        <questiontext>114 question text</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_regression_assignment_114</shareWithInitialString>
+        <shareName>studtitle_regression_assignment_114</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>114_2 Policy Name</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <policyname>114_2 Policy Name</policyname>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>114_2 Policy Name</assignmentpolicyname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.Policy" index="114_1" method="submitAssignmentWithCollaborationDisabled">
+        <user_id>regression_assignmentstudent_114_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_regression_assignment_114</context_id>
+        <context_title>studtitle_regression_assignment_114</context_title>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.Policy" index="114_2" method="submitAssignmentWithCollaborationDisabled">
+        <user_id>regression_assignmentstudent_114_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_regression_assignment_114</context_id>
+        <context_title>studtitle_regression_assignment_114</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.PolicyWithAssignmentFlow" index="115" method="submitAssignmentWithCollaborationDisabled">
+        <user_id>regression_assignmentInstructor_115</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_regression_assignment_115</context_id>
+        <context_title>studtitle_regression_assignment_115</context_title>
+        <assessmentname>Assignment_regression_assignment_115_1</assessmentname>
+        <questionset>115questionset</questionset>
+        <questiontext>115 question text</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_regression_assignment_115</shareWithInitialString>
+        <shareName>studtitle_regression_assignment_115</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>115_2 Policy Name</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <policyname>115_2 Policy Name</policyname>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>115_2 Policy Name</assignmentpolicyname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.PolicyWithAssignmentFlow" index="115_1" method="submitAssignmentWithCollaborationDisabled">
+        <user_id>regression_assignmentstudent_115_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_regression_assignment_115</context_id>
+        <context_title>studtitle_regression_assignment_115</context_title>
+        <familyname>Mandal</familyname>
+        <givenname>Mukesh</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.PolicyWithAssignmentFlow" index="115_2" method="submitAssignmentWithCollaborationDisabled">
+        <user_id>regression_assignmentstudent_115_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_regression_assignment_115</context_id>
+        <context_title>studtitle_regression_assignment_115</context_title>
+        <familyname>Mandal</familyname>
+        <givenname>Raj</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.PolicyWithAssignmentFlow" index="115_3" method="submitAssignmentWithCollaborationDisabled">
+        <user_id>regression_assignmentstudent_115_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_regression_assignment_115</context_id>
+        <context_title>studtitle_regression_assignment_115</context_title>
+        <familyname>Mandal</familyname>
+        <givenname>Mahesh</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.PolicyWithAssignmentFlow" index="116" method="gradableAssignmentWithPolicyFour">
+        <user_id>regression_assignmentInstructor_116</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_regression_assignment_116</context_id>
+        <context_title>studtitle_regression_assignment_116</context_title>
+        <assessmentname>Assignment_regression_assignment_115_1</assessmentname>
+        <shareWithInitialString>studtitle_regression_assignment_116</shareWithInitialString>
+        <shareName>studtitle_regression_assignment_116</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>116_2 Policy Name</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <policyname>116_2 Policy Name</policyname>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>116_2 Policy Name</assignmentpolicyname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.PolicyWithAssignmentFlow" index="116_1" method="gradableAssignmentWithPolicyFour">
+        <user_id>regression_assignmentstudent_116_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_regression_assignment_116</context_id>
+        <context_title>studtitle_regression_assignment_116</context_title>
+        <familyname>Mandal</familyname>
+        <givenname>Mukesh</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.PolicyWithAssignmentFlow" index="116_2" method="gradableAssignmentWithPolicyFour">
+        <user_id>regression_assignmentstudent_116_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_regression_assignment_116</context_id>
+        <context_title>studtitle_regression_assignment_116</context_title>
+        <familyname>Mandal</familyname>
+        <givenname>Raj</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.PolicyWithAssignmentFlow" index="116_3" method="gradableAssignmentWithPolicyFour">
+        <user_id>regression_assignmentstudent_116_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_regression_assignment_116</context_id>
+        <context_title>studtitle_regression_assignment_116</context_title>
+        <familyname>Mandal</familyname>
+        <givenname>Mahesh</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.PolicyWithAssignmentFlow" index="118" method="gradableAssignmentWithPolicyTwo">
+        <user_id>regression_assignmentInstructor_118</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_regression_assignment_118</context_id>
+        <context_title>studtitle_regression_assignment_118</context_title>
+        <assessmentname>Assignment_regression_assignment_115_1</assessmentname>
+        <shareWithInitialString>studtitle_regression_assignment_118</shareWithInitialString>
+        <shareName>studtitle_regression_assignment_118</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>118_2 Policy Name</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <policyname>118_2 Policy Name</policyname>
+        <duedate>26</duedate>
+        <duetime>10</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>118_2 Policy Name</assignmentpolicyname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.PolicyWithAssignmentFlow" index="118_1" method="gradableAssignmentWithPolicyTwo">
+        <user_id>regression_assignmentstudent_118_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_regression_assignment_118</context_id>
+        <context_title>studtitle_regression_assignment_118</context_title>
+        <familyname>Mandal</familyname>
+        <givenname>Mukesh</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.PolicyWithAssignmentFlow" index="118_2" method="gradableAssignmentWithPolicyTwo">
+        <user_id>regression_assignmentstudent_118_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_regression_assignment_118</context_id>
+        <context_title>studtitle_regression_assignment_118</context_title>
+        <familyname>Mandal</familyname>
+        <givenname>Raj</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.PolicyWithAssignmentFlow" index="118_3" method="gradableAssignmentWithPolicyTwo">
+        <user_id>regression_assignmentstudent_118_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_regression_assignment_118</context_id>
+        <context_title>studtitle_regression_assignment_118</context_title>
+        <familyname>Mandal</familyname>
+        <givenname>Mahesh</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.PolicyWithAssignmentFlow" index="119" method="gradableAssignmentWithPolicyThree">
+        <user_id>regression_assignmentInstructor_119</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_regression_assignment_119</context_id>
+        <context_title>studtitle_regression_assignment_119</context_title>
+        <assessmentname>Assignment_regression_assignment_119_1</assessmentname>
+        <questionset>119questionset</questionset>
+        <questiontext>119 question text</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_regression_assignment_119</shareWithInitialString>
+        <shareName>studtitle_regression_assignment_119</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <assignmentpolicy>119_2 Policy Name</assignmentpolicy>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <policyname>119_2 Policy Name</policyname>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>119_2 Policy Name</assignmentpolicyname>
+        <studentname>Mukesh Mandal</studentname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.PolicyWithAssignmentFlow" index="119_1" method="gradableAssignmentWithPolicyThree">
+        <user_id>regression_assignmentstudent_119_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_regression_assignment_119</context_id>
+        <context_title>studtitle_regression_assignment_119</context_title>
+        <familyname>Mandal</familyname>
+        <givenname>Mukesh</givenname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.PolicyWithAssignmentFlow" index="119_2" method="gradableAssignmentWithPolicyThree">
+        <user_id>regression_assignmentstudent_119_2</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_regression_assignment_119</context_id>
+        <context_title>studtitle_regression_assignment_119</context_title>
+        <familyname>Mandal</familyname>
+        <givenname>Raj</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.PolicyWithAssignmentFlow" index="119_3" method="gradableAssignmentWithPolicyThree">
+        <user_id>regression_assignmentstudent_119_3</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_regression_assignment_119</context_id>
+        <context_title>studtitle_regression_assignment_119</context_title>
+        <familyname>Mandal</familyname>
+        <givenname>Mahesh</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.PolicyWithAssignmentFlow" index="120" method="createPolicyWhileAssigningAssignment">
+        <user_id>regression_assignmentInstructor_120</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_regression_assignment_120</context_id>
+        <context_title>studtitle_regression_assignment_120</context_title>
+        <assessmentname>Assignment_regression_assignment_115_1</assessmentname>
+        <questionset>120questionset</questionset>
+        <questiontext>120 question text</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_regression_assignment_120</shareWithInitialString>
+        <shareName>studtitle_regression_assignment_120</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>Mukesh Mandal</studentname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.PolicyWithAssignmentFlow" index="120_1" method="createPolicyWhileAssigningAssignment">
+        <user_id>regression_assignmentstudent_120_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_regression_assignment_120</context_id>
+        <context_title>studtitle_regression_assignment_120</context_title>
+        <familyname>Mandal</familyname>
+        <givenname>Mukesh</givenname>
+    </testcase>
+
+
+    <!--NEW ASSIGNMENT CLASS TEST DATA-->
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.NewAssignmentPage" index="121" method="createNewAssignmentPopup">
+        <user_id>regression_assignmentInstructor_121</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_regression_assignment_121</context_id>
+        <context_title>studtitle_regression_assignment_121</context_title>
+        <assessmentname>Assignment_regression_assignment_115_1</assessmentname>
+        <questionset>121questionset</questionset>
+        <questiontext>121 question text</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>studtitle_regression_assignment_121</shareWithInitialString>
+        <shareName>studtitle_regression_assignment_121</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <duedate>26</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <studentname>Mukesh Mandal</studentname>
+    </testcase>
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.NewAssignmentPage" index="121_1" method="createNewAssignmentPopup">
+        <user_id>regression_assignmentstudent_121_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_regression_assignment_121</context_id>
+        <context_title>studtitle_regression_assignment_121</context_title>
+        <familyname>Mandal</familyname>
+        <givenname>Mukesh</givenname>
+    </testcase>
+
+
+    <!--CurrentAssignments test data-->
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CurrentAssignment" index="1" method="">
+        <user_id>Ins_assignment_CurrentAssignments_1</user_id>
+        <Role>instructor</Role>
+        <context_id>studContext_CurrentAssignments_1</context_id>
+        <context_title>studTitle_CurrentAssignments_1</context_title>
+        <fullName>givenname family</fullName>
+
+        <assessmentname>AssessmentName_CurrentAssignments_1</assessmentname>
+        <questionset>QuestionSet_1</questionset>
+        <questiontext>QuestionText_1</questiontext>
+        <questiontype>Static Practice</questiontype>
+
+        <shareWithInitialString>studTitle_CurrentAssignments_1</shareWithInitialString>
+        <shareName>studTitle_CurrentAssignments_1</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CurrentAssignment" index="1_1" method="">
+        <user_id>Stu_assignment_CurrentAssignments_1_1</user_id>
+        <Role>student</Role>
+        <context_id>studContext_CurrentAssignments_1</context_id>
+        <context_title>studTitle_CurrentAssignments_1</context_title>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CurrentAssignment" index="2" method="">
+        <user_id>Ins_assignment_CurrentAssignments_2</user_id>
+        <Role>instructor</Role>
+        <context_id>studContext_CurrentAssignments_2</context_id>
+        <context_title>studTitle_CurrentAssignments_2</context_title>
+        <fullName>givenname family</fullName>
+
+        <assessmentname>AssessmentName_CurrentAssignments_2</assessmentname>
+        <questionset>QuestionSet_2</questionset>
+        <questiontext>QuestionText_2</questiontext>
+        <questiontype>Static Practice</questiontype>
+
+        <shareWithInitialString>studTitle_CurrentAssignments_2</shareWithInitialString>
+        <shareName>studTitle_CurrentAssignments_2</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CurrentAssignment" index="2_1" method="">
+        <user_id>Stu_assignment_CurrentAssignments_2_1</user_id>
+        <Role>student</Role>
+        <context_id>studContext_CurrentAssignments_2</context_id>
+        <context_title>studTitle_CurrentAssignments_2</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CurrentAssignment" index="3" method="instructorShouldBeABleToPerformActionsOnSocialElements">
+        <assessmentname>AssessmentName_CurrentAssignments_3</assessmentname>
+        <questionset>QuestionSet_3</questionset>
+        <questiontext>QuestionText_3</questiontext>
+        <questiontype>Static Practice</questiontype>
+
+        <user_id>Ins_assignment_CurrentAssignments_3</user_id>
+        <Role>instructor</Role>
+        <context_id>studContext_CurrentAssignments_3</context_id>
+        <context_title>studTitle_CurrentAssignments_3</context_title>
+
+        <shareWithInitialString>studTitle_CurrentAssignments_3</shareWithInitialString>
+        <familyname>InsLastName</familyname>
+        <givenname>InsFirstName</givenname>
+        <shareName>InsFirstName InsLastName</shareName>
+
+        <shareWithClass>false</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <commentcount>1</commentcount>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CurrentAssignment" index="3_1">
+        <user_id>Stu_assignment_CurrentAssignments_3</user_id>
+        <Role>student</Role>
+        <familyname>StuLastName</familyname>
+        <givenname>StuFirstName</givenname>
+        <context_id>studContext_CurrentAssignments_3</context_id>
+        <context_title>studTitle_CurrentAssignments_3</context_title>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CurrentAssignment" index="4">
+        <user_id>IT10_R14_instructor_IT10_R14_1737</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT10_R14_1737</context_id>
+        <context_title>studtitle_IT10_R14_1737</context_title>
+        <assessmentname>1737 Assessment</assessmentname>
+        <questionset>1737 Question Set</questionset>
+        <questiontext>1737 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <assessmentname>1737 Assessment</assessmentname>
+        <shareWithInitialString>1737</shareWithInitialString>
+        <shareName>1737first 1737second</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <accessibleafter>2</accessibleafter>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CurrentAssignment" index="4_1">
+        <user_id>student_IT10_R14_17371</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT10_R14_1737</context_id>
+        <context_title>studtitle_IT10_R14_1737</context_title>
+        <familyname>1737second</familyname>gradeableAssignmentStatusAsGradingInProgress
+        <givenname>1737first</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CurrentAssignment" index="5">
+        <user_id>IT10_R14_1739instructor_1</user_id>
+        <Role>instructor</Role>
+        <context_id>1739_IT10_R14_studcontext</context_id>
+        <context_title>1739_IT10_R14_studtitle</context_title>
+        <assessmentname>1739 Assessment</assessmentname>
+        <questionset>1739 Question Set</questionset>
+        <questiontext>1739 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <assessmentname>1739 Assessment</assessmentname>
+        <shareWithInitialString>17391</shareWithInitialString>
+        <shareName>17391first 17391second</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CurrentAssignment" index="5_1">
+        <user_id>IT10_R14_17391student_1</user_id>
+        <context_id>1739_IT10_R14_studcontext</context_id>
+        <context_title>1739_IT10_R14_studtitle</context_title>
+        <Role>student</Role>
+        <familyname>17391second</familyname>
+        <givenname>17391first</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CurrentAssignment" index="5_2">
+        <user_id>IT10_R14_17392student_1</user_id>
+        <Role>student</Role>
+        <context_id>1739_IT10_R14_studcontext</context_id>
+        <context_title>1739_IT10_R14_studtitle</context_title>
+        <familyname>17392second</familyname>
+        <givenname>17392first</givenname>
+        <assessmentname>1739 Assessment</assessmentname>
+        <shareWithInitialString>17392</shareWithInitialString>
+        <shareName>17392first 17392second</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CurrentAssignment" index="6">
+        <user_id>IT10_R14_1742instructor</user_id>
+        <Role>instructor</Role>
+        <course>Science 8 - Bio Principles</course>
+        <assessmentname>1742 Assessment</assessmentname>
+        <questionset>1742 Question Set</questionset>
+        <questiontext>1742 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <assessmentname>1742 Assessment</assessmentname>
+        <shareWithInitialString>17421</shareWithInitialString>
+        <shareName>17421first 17421second</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <statuscolor>rgba(244, 86, 86, 1)</statuscolor>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CurrentAssignment" index="6_1">
+        <user_id>IT10_R14_17421student</user_id>
+        <Role>student</Role>
+        <familyname>17421second</familyname>
+        <givenname>17421first</givenname>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CurrentAssignment" index="7">
+        <user_id>IT10_R14_1746instructor</user_id>
+        <Role>instructor</Role>
+        <context_id>1746_IT10_R14_studcontext</context_id>
+        <context_title>1746_IT10_R14_studtitle</context_title>
+        <course>Science 8 - Bio Principles</course>
+        <assessmentname>1746 Assessment</assessmentname>
+        <questionset>1746 Question Set</questionset>
+        <questiontext>1746 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <assessmentname>1746 Assessment</assessmentname>
+        <shareWithInitialString>17461</shareWithInitialString>
+        <shareName>17461first 17461second</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <statuscolor>rgba(34, 177, 76, 1)</statuscolor>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CurrentAssignment" index="7_1">
+        <user_id>IT10_R14_17461student</user_id>
+        <Role>student</Role>
+        <context_id>1746_IT10_R14_studcontext</context_id>
+        <context_title>1746_IT10_R14_studtitle</context_title>
+        <familyname>17461second</familyname>
+        <givenname>17461first</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CurrentAssignment" index="8">
+        <user_id>IT10_R14_1744instructor</user_id>
+        <Role>instructor</Role>
+        <course>Science 8 - Bio Principles</course>
+        <assessmentname>1744 Assessment</assessmentname>
+        <questionset>1744 Question Set</questionset>
+        <questiontext>1744 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <assessmentname>1744 Assessment</assessmentname>
+        <shareWithInitialString>17441</shareWithInitialString>
+        <shareName>17441first 17441second</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <statuscolor>rgba(244, 86, 86, 1)</statuscolor>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CurrentAssignment" index="8_1">
+        <user_id>IT10_R14_17441student</user_id>
+        <Role>student</Role>
+        <familyname>17441second</familyname>
+        <givenname>17441first</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CurrentAssignment" index="9">
+        <user_id>IT10_R14_1748instructor</user_id>
+        <Role>instructor</Role>
+        <course>Science 8 - Bio Principles</course>
+        <assessmentname>1748 Assessment</assessmentname>
+        <questionset>1748 Question Set</questionset>
+        <questiontext>1748 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <assessmentname>1748 Assessment</assessmentname>
+        <shareWithInitialString>17481</shareWithInitialString>
+        <shareName>17481first 17481second</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <statuscolor>rgba(34, 177, 76, 1)</statuscolor>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CurrentAssignment" index="9_1">
+        <user_id>IT10_R14_17481student</user_id>
+        <Role>student</Role>
+        <familyname>17481second</familyname>
+        <givenname>17481first</givenname>
+    </testcase>
+
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CurrentAssignment" index="10" method="">
+        <user_id>IT10_R14_17562instructor</user_id>
+        <Role>instructor</Role>
+        <context_id>17562studcontext</context_id>
+        <context_title>17562studtitle</context_title>
+        <assessmentname>017562 Assessment</assessmentname>
+        <questionset>17562Question Set</questionset>
+        <questiontext>17562Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <shareWithInitialString>stud</shareWithInitialString>
+        <shareName>17562studtitle</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>27</duedate>
+        <duetime>10:00 PM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <notStarted>0</notStarted>
+        <inProgress>0</inProgress>
+        <submitted>0</submitted>
+        <reviewed>0</reviewed>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CurrentAssignment" index="11" method="">
+        <user_id>IT10_R14_17562instructor_11</user_id>
+        <Role>instructor</Role>
+        <context_id>17562studcontext_11</context_id>
+        <context_title>17562studtitle_11</context_title>
+    </testcase>
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CurrentAssignment" index="12">
+        <user_id>IT10_R14_1739instructor_12</user_id>
+        <Role>instructor</Role>
+        <context_id>1739_IT10_R14_studcontext_12</context_id>
+        <context_title>1739_IT10_R14_studtitle_12</context_title>
+        <assessmentname>1739 Assessment</assessmentname>
+        <questionset>1739 Question Set</questionset>
+        <questiontext>1739 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <assessmentname>1739 Assessment</assessmentname>
+        <shareWithInitialString>17391</shareWithInitialString>
+        <shareName>17391first 17391second</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CurrentAssignment" index="12_1">
+        <user_id>IT10_R14_17391student_12</user_id>
+        <context_id>1739_IT10_R14_studcontext_12</context_id>
+        <context_title>1739_IT10_R14_studtitle_12</context_title>
+        <Role>student</Role>
+        <familyname>17391second</familyname>
+        <givenname>17391first</givenname>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CurrentAssignment" index="12_2">
+        <user_id>IT10_R14_17392student_12</user_id>
+        <Role>student</Role>
+        <context_id>1739_IT10_R14_studcontext_12</context_id>
+        <context_title>1739_IT10_R14_studtitle_12</context_title>
+        <familyname>17392second</familyname>
+        <givenname>17392first</givenname>
+        <assessmentname>1739 Assessment</assessmentname>
+        <shareWithInitialString>17392</shareWithInitialString>
+        <shareName>17392first 17392second</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+    </testcase>
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CurrentAssignment" index="13">
+        <user_id>IT10_R14_1742instructor_13</user_id>
+        <Role>instructor</Role>
+        <course>Science 8 - Bio Principles</course>
+        <assessmentname>1742 Assessment</assessmentname>
+        <questionset>1742 Question Set</questionset>
+        <questiontext>1742 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <assessmentname>1742 Assessment</assessmentname>
+        <shareWithInitialString>17421</shareWithInitialString>
+        <shareName>17421first 17421second</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <statuscolor>rgba(244, 86, 86, 1)</statuscolor>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CurrentAssignment" index="13_1">
+        <user_id>IT10_R14_17421student_13_1</user_id>
+        <Role>student</Role>
+        <familyname>17421second</familyname>
+        <givenname>17421first</givenname>
+    </testcase>
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CurrentAssignment" index="14">
+        <user_id>IT10_R14_1744instructor_14</user_id>
+        <Role>instructor</Role>
+        <course>Science 8 - Bio Principles</course>
+        <assessmentname>1744 Assessment</assessmentname>
+        <questionset>1744 Question Set</questionset>
+        <questiontext>1744 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <assessmentname>1744 Assessment</assessmentname>
+        <shareWithInitialString>17441</shareWithInitialString>
+        <shareName>17441first 17441second</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <statuscolor>rgba(244, 86, 86, 1)</statuscolor>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CurrentAssignment" index="14_1">
+        <user_id>IT10_R14_17441student_14_1</user_id>
+        <Role>student</Role>
+        <familyname>17441second</familyname>
+        <givenname>17441first</givenname>
+    </testcase>
+
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CurrentAssignment" index="15">
+        <user_id>IT10_R14_1746instructor_15</user_id>
+        <Role>instructor</Role>
+        <context_id>1746_IT10_R14_studcontext_15</context_id>
+        <context_title>1746_IT10_R14_studtitle_15</context_title>
+        <course>Science 8 - Bio Principles</course>
+        <assessmentname>1746 Assessment</assessmentname>
+        <questionset>1746 Question Set</questionset>
+        <questiontext>1746 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <assessmentname>1746 Assessment</assessmentname>
+        <shareWithInitialString>17461</shareWithInitialString>
+        <shareName>17461first 17461second</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <statuscolor>rgba(34, 177, 76, 1)</statuscolor>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CurrentAssignment" index="15_1">
+        <user_id>IT10_R14_17461student_15_2</user_id>
+        <Role>student</Role>
+        <context_id>1746_IT10_R14_studcontext_15</context_id>
+        <context_title>1746_IT10_R14_studtitle_15</context_title>
+        <familyname>17461second</familyname>
+        <givenname>17461first</givenname>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CurrentAssignment" index="16">
+        <user_id>IT10_R14_1748instructor_16</user_id>
+        <Role>instructor</Role>
+        <course>Science 8 - Bio Principles</course>
+        <assessmentname>1748 Assessment</assessmentname>
+        <questionset>1748 Question Set</questionset>
+        <questiontext>1748 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <assessmentname>1748 Assessment</assessmentname>
+        <shareWithInitialString>17481</shareWithInitialString>
+        <shareName>17481first 17481second</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>false</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <statuscolor>rgba(34, 177, 76, 1)</statuscolor>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CurrentAssignment" index="16_1">
+        <user_id>IT10_R14_17481student_16_1</user_id>
+        <Role>student</Role>
+        <familyname>17481second</familyname>
+        <givenname>17481first</givenname>
+    </testcase>
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CurrentAssignment" index="17">
+        <user_id>IT10_R14_instructor_IT10_R14_1737_17</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT10_R14_1737_17</context_id>
+        <context_title>studtitle_IT10_R14_1737_17</context_title>
+        <assessmentname>1737 Assessment</assessmentname>
+        <questionset>1737 Question Set</questionset>
+        <questiontext>1737 Test Question</questiontext>
+        <questiontype>Static Practice</questiontype>
+        <assessmentname>1737 Assessment</assessmentname>
+        <shareWithInitialString>1737</shareWithInitialString>
+        <shareName>1737first 1737second</shareName>
+        <shareWithClass>false</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <accessibleafter>2</accessibleafter>
+
+        <duedate>28</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.CurrentAssignment" index="17_1">
+        <user_id>student_IT10_R14_17371__17_1</user_id>
+        <Role>student</Role>
+        <context_id>studcontext_IT10_R14_1737_17</context_id>
+        <context_title>studtitle_IT10_R14_1737_17</context_title>
+        <familyname>1737second</familyname>gradeableAssignmentStatusAsGradingInProgress
+        <givenname>1737first</givenname>
+    </testcase>
+
+
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.FileBasedAssignment" index="9" method="">
+        <user_id>instructor_IT19_R199_9</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_R199_9</context_id>
+        <context_title>studtitle_R199_9</context_title>
+        <fileUpload>true</fileUpload>
+        <filename>img.jpg</filename>
+    </testcase>
+
+    <testcase id="com.snapwiz.selenium.tests.staf.learningspaces.testcases.regression.assignment.FileBasedAssignment" index="93" method="">
+        <user_id>Instructor_IT24_R2410_83</user_id>
+        <Role>instructor</Role>
+        <context_id>studcontext_IT24_R2410_83</context_id>
+        <context_title>studtitle_IT24_R2410_83</context_title>
+        <assessmentname>filebased assessment_83</assessmentname>
+        <shareWithInitialString>studtitle_IT24_R2410_83</shareWithInitialString>
+        <shareName>studtitle_IT24_R2410_83</shareName>
+        <shareWithClass>true</shareWithClass>
+        <gradeable>true</gradeable>
+        <gradable>true</gradable>
+        <gradingpolicy>Grading policy text</gradingpolicy>
+        <duedate>10</duedate>
+        <duetime>12:00 AM</duetime>
+        <additionalnote>This is an additional note</additionalnote>
+        <assignmentpolicyname>Policy83</assignmentpolicyname>
+        <assignmentpolicy>Policy83</assignmentpolicy>
+        <newduedate>27</newduedate>
+        <activityType>Learning Activity</activityType>
+        <fileUpload>true</fileUpload>
+        <filename>img.jpg</filename>
+        <totalpoints>1</totalpoints>
+    </testcase>
+
+</learningspaces>
